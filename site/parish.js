@@ -38,11 +38,11 @@
       </details>
       <div class="people-tools">
         <input id="mq" type="search" placeholder="Search songs, composers, scripture" autocomplete="off">
-        <select id="mf" aria-label="Filter"><option value="">All songs</option>${groups.map((g) => `<option value="${g.id}" ${g.id === filt ? "selected" : ""}>${esc(g.name)}</option>`).join("")}<option value="pd" ${filt === "pd" ? "selected" : ""}>With words to sing along</option></select>
+        <select id="mf" aria-label="Filter"><option value="">All songs</option>${groups.map((g) => `<option value="${g.id}" ${g.id === filt ? "selected" : ""}>${esc(g.name)}</option>`).join("")}<option value="pd" ${filt === "pd" ? "selected" : ""}>Latin chants with words</option></select>
       </div>
       <p class="count" id="mcount"></p>
       <ul class="plist" id="mlist"></ul>
-      <p class="gfoot">Words are shown only for hymns and chants in the public domain. Modern songs are listed with their composer and publisher; your parish's hymnal or worship aid has their words.</p>
+      <p class="gfoot">Latin chants are shown with their words and an English translation. For hymns, follow the link to Hymnary.org or use your parish hymnal; modern songs are listed with their composer and publisher.</p>
     </div>`;
     const draw = () => {
       const q = $("#mq", root).value.trim().toLowerCase(), f = $("#mf", root).value;
@@ -69,7 +69,9 @@
       ${s.about ? `<p>${esc(s.about)}</p>` : ""}
       ${(s.scripture || []).length ? `<div class="chips"><span class="qmeta">Scripture:</span>${s.scripture.map((r) => `<button class="ref" data-ref="${esc(r)}">${esc(ctx.refLabel(r))}</button>`).join("")}</div>` : ""}
       ${s.lyrics ? `<div class="lyrics${s.translation ? " two" : ""}"><div>${s.lyrics.map(verse).join("")}</div>${s.translation ? `<div class="tr"><span class="eyebrow">In English</span>${s.translation.map(verse).join("")}</div>` : ""}</div>`
-        : `<p class="gfoot">This song is under copyright, so its words aren't shown here. Find it in your parish hymnal${s.publisher ? ` (published by ${esc(s.publisher)})` : ""}.</p>`}
+        : s.publicDomain
+          ? `<p class="gfoot">Read the words and hear the tune on <a href="https://hymnary.org/search?qu=${encodeURIComponent(s.title)}" target="_blank" rel="noopener">Hymnary.org</a>, a free hymn library.</p>`
+          : `<p class="gfoot">This song is under copyright, so its words aren't shown here. Find it in your parish hymnal or missalette${s.publisher ? ` (published by ${esc(s.publisher)})` : ""}.</p>`}
     </div>`;
     window.scrollTo(0, 0);
   }
