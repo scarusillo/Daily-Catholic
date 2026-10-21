@@ -376,6 +376,7 @@
   }
 
   let current = null;
+  const T = (k) => window.I18N.T(k);
   async function openPerson(id, push = true) {
     const p = P[id];
     if (!p) return;
@@ -386,18 +387,18 @@
     const names = [p.name, ...p.aliases];
     const sib = siblings(p);
     const fam = [
-      ["Parents", [p.father, p.mother].filter(Boolean)],
-      ["Siblings", sib],
-      ["Spouses", p.spouses],
-      ["Children", p.children],
+      [T("panel.parents"), [p.father, p.mother].filter(Boolean)],
+      [T("panel.siblings"), sib],
+      [T("panel.spouses"), p.spouses],
+      [T("panel.children"), p.children],
     ].filter(([, a]) => a.length);
     const booksIn = Object.keys(p.books);
     $("#pbody").innerHTML = `
       <div class="p-eyebrow">${esc(p.role || "Person")} · ${esc(p.era)}</div>
       <h2 class="p-name">${esc(p.name)}</h2>
-      ${p.aliases.length ? `<div class="p-alias">Also called ${esc(p.aliases.join(", "))}</div>` : ""}
-      ${p.feast ? `<div class="feast">Feast: ${esc(p.feast)}</div>` : ""}
-      <div class="p-actions">${"speechSynthesis" in window ? `<button class="ghost small" data-speak-person="${p.id}">▶ Listen</button>` : ""}${window.claude?.use ? `<button class="ghost small" id="fixbtn">Suggest a correction</button>` : ""}</div>
+      ${p.aliases.length ? `<div class="p-alias">${T("panel.alias")} ${esc(p.aliases.join(", "))}</div>` : ""}
+      ${p.feast ? `<div class="feast">${T("panel.feast")}: ${esc(p.feast)}</div>` : ""}
+      <div class="p-actions">${"speechSynthesis" in window ? `<button class="ghost small" data-speak-person="${p.id}">${T("listen")}</button>` : ""}${window.claude?.use ? `<button class="ghost small" id="fixbtn">${T("panel.correction")}</button>` : ""}</div>
       <form id="fixform" class="fixform" hidden>
         <label for="fixfield">What needs fixing?</label>
         <select id="fixfield"><option>Summary</option><option>Catholic teaching</option><option>Family links</option><option>Passages</option><option>Feast day</option><option>Other</option></select>
@@ -407,15 +408,15 @@
         <p class="qmeta" id="fixmsg"></p>
       </form>
       ${p.summary ? `<div class="p-sec"><p>${esc(p.summary)}</p></div>` : ""}
-      ${fam.length ? `<div class="p-sec"><h3>Family</h3><div class="tree">${fam.map(([l, a]) => `<div class="gen"><span class="lbl">${l}</span>${a.map((x) => chip(x)).join("")}</div>`).join("")}</div></div>` : ""}
-      ${p.relations.length ? `<div class="p-sec"><h3>Connections</h3><ul class="rels">${p.relations.map((r) => `<li><span class="t">${esc(r.type)}</span>${chip(r.to)}${r.ref ? `<button class="ref" data-ref="${esc(r.ref)}">${esc(refLabel(r.ref))}</button>` : ""}</li>`).join("")}</ul></div>` : ""}
-      <div class="p-sec"><h3>Across the books</h3>
+      ${fam.length ? `<div class="p-sec"><h3>${T("panel.family")}</h3><div class="tree">${fam.map(([l, a]) => `<div class="gen"><span class="lbl">${l}</span>${a.map((x) => chip(x)).join("")}</div>`).join("")}</div></div>` : ""}
+      ${p.relations.length ? `<div class="p-sec"><h3>${T("panel.connections")}</h3><ul class="rels">${p.relations.map((r) => `<li><span class="t">${esc(r.type)}</span>${chip(r.to)}${r.ref ? `<button class="ref" data-ref="${esc(r.ref)}">${esc(refLabel(r.ref))}</button>` : ""}</li>`).join("")}</ul></div>` : ""}
+      <div class="p-sec"><h3>${T("panel.across")}</h3>
         <p class="qmeta">${p.mentions ? `Named in ${p.mentions} verse${p.mentions === 1 ? "" : "s"} across ${booksIn.length} book${booksIn.length === 1 ? "" : "s"}.` : `Appears in ${booksIn.map((b) => BOOK[b]?.name).join(", ")}.`}</p>
         <div class="strip">${bookStrip(p)}</div></div>
-      ${p.catholic ? `<div class="p-sec"><h3>In Catholic teaching</h3><p class="catholic">${esc(p.catholic)}</p></div>` : ""}
-      ${p.know.length ? `<div class="p-sec"><h3>What to know</h3><ul class="know">${p.know.map((k) => `<li>${esc(k)}</li>`).join("")}</ul></div>` : ""}
-      ${p.keyPassages.length ? `<div class="p-sec"><h3>Key passages</h3><div id="kp" class="p-sec" style="margin:0"><p class="loading">Loading Scripture…</p></div></div>` : ""}
-      <div class="p-sec"><h3>Every passage that names ${esc(p.name)}</h3><div id="allm"><p class="loading">Loading…</p></div></div>`;
+      ${p.catholic ? `<div class="p-sec"><h3>${T("panel.catholic")}</h3><p class="catholic">${esc(p.catholic)}</p></div>` : ""}
+      ${p.know.length ? `<div class="p-sec"><h3>${T("panel.know")}</h3><ul class="know">${p.know.map((k) => `<li>${esc(k)}</li>`).join("")}</ul></div>` : ""}
+      ${p.keyPassages.length ? `<div class="p-sec"><h3>${T("panel.key")}</h3><div id="kp" class="p-sec" style="margin:0"><p class="loading">Loading Scripture…</p></div></div>` : ""}
+      <div class="p-sec"><h3>${T("panel.every")} ${esc(p.name)}</h3><div id="allm"><p class="loading">Loading…</p></div></div>`;
     $("#panel").hidden = false;
     $("#panel").scrollTop = 0;
     focusOnMap(id);

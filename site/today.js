@@ -10,7 +10,10 @@
   const SEASON = { ordinary: "Ordinary Time", advent: "Advent", christmas: "Christmas", lent: "Lent", triduum: "Easter Triduum", easter: "Easter" };
   const dayKey = (d) => `${d.getFullYear()}-${String(d.getMonth() + 1).padStart(2, "0")}-${String(d.getDate()).padStart(2, "0")}`;
 
-  let CAL = null, READ = null, JOURNEYS = null, SAINTS = null;
+  let CAL = null, READ = null, JOURNEYS = null, SAINTS = null, JES = null;
+  const X = (en, es) => (window.I18N?.lang === "es" ? es : en);
+  // Spanish overlay for journeys (titles, blurbs, step titles and reflections)
+  const jx = (j) => { const o = window.I18N?.lang === "es" && JES?.[j.id]; return o ? { ...j, title: o.title || j.title, blurb: o.blurb || j.blurb, steps: j.steps.map((s, i) => ({ ...s, ...(o.steps?.[i] || {}) })) } : j; };
 
   /* feasts: "October 18" / "June 29 (Sts Peter and Paul); February 22 (...)" → people by month-day */
   function feastIndex() {
@@ -111,10 +114,10 @@
     try {
       JOURNEYS ??= await ctx.getJSON("data/journeys.json");
       const prog = ctx.store.get("bpm.journeys", {});
-      const active = JOURNEYS.find((j) => prog[j.id] && prog[j.id].length < j.steps.length);
+      const active = JOURNEYS.map(jx).find((j) => prog[j.id] && prog[j.id].length < j.steps.length);
       if (active) {
         const n = prog[active.id].length;
-        $("#jcont", root).innerHTML = `<h2>Continue your journey</h2><button class="potd" data-go="journeys" data-journey="${active.id}"><span class="eyebrow">${esc(active.title)} · step ${n + 1} of ${active.steps.length}</span><b>${esc(active.steps[n].title)}</b></button>`;
+        $("#jcont", root).innerHTML = `<h2>${X("Continue your journey", "Continúa tu camino")}</h2><button class="potd" data-go="journeys" data-journey="${active.id}"><span class="eyebrow">${esc(active.title)} · ${X("step", "paso")} ${n + 1} ${X("of", "de")} ${active.steps.length}</span><b>${esc(active.steps[n].title)}</b></button>`;
       }
     } catch { /* journeys not available yet */ }
     renderInbox($("#inbox", root));
@@ -124,34 +127,37 @@
   async function renderJourneys(root, openId) {
     const ctx = C();
     root.innerHTML = `<p class="loading">Loading journeys…</p>`;
-    try { JOURNEYS ??= await ctx.getJSON("data/journeys.json"); }
-    catch { root.innerHTML = `<h1>Journeys</h1><p class="loading">Guided journeys are being prepared.</p>`; return; }
+    try {
+      JOURNEYS ??= await ctx.getJSON("data/journeys.json");
+      if (window.I18N?.lang === "es") JES ??= await ctx.getJSON("data/journeys_es.json").catch(() => null);
+    } catch { root.innerHTML = `<h1>${X("Journeys", "Caminos")}</h1><p class="loading">…</p>`; return; }
     await ctx.loadBible();
     const prog = ctx.store.get("bpm.journeys", {});
     openId ??= ctx.store.get("bpm.journeyOpen", null);
-    const j = JOURNEYS.find((x) => x.id === openId);
+    const jl = JOURNEYS.map(jx);
+    const j = jl.find((x) => x.id === openId);
     if (!j) {
-      root.innerHTML = `<div class="hub"><div class="ghead"><h1>Journeys</h1></div>
-        <p class="lede">Guided paths through Scripture, one person a day, with a short reading and a question to reflect on. Good for families, classrooms, OCIA and Bible studies.</p>
-        <div class="gcards">${JOURNEYS.map((x) => {
+      root.innerHTML = `<div class="hub"><div class="ghead"><h1>${X("Journeys", "Caminos")}</h1></div>
+        <p class="lede">${X("Guided paths through Scripture, one person a day, with a short reading and a question to reflect on. Good for families, classrooms, OCIA and Bible studies.", "Caminos guiados por la Escritura, una persona al día, con una lectura breve y una pregunta para reflexionar. Para familias, clases, OCIA y grupos bíblicos.")}</p>
+        <div class="gcards">${jl.map((x) => {
           const done = (prog[x.id] || []).length;
           return `<button class="gcard" data-journey="${x.id}"><span class="gname">${esc(x.title)}</span><span class="gdesc">${esc(x.blurb)}</span>
-            <span class="gstat">${x.steps.length} steps${done ? ` · ${done} done` : ""}</span><span class="pbar"><i style="width:${(done / x.steps.length) * 100}%"></i></span></button>`;
+            <span class="gstat">${x.steps.length} ${X("steps", "pasos")}${done ? ` · ${done} ${X("done", "hechos")}` : ""}</span><span class="pbar"><i style="width:${(done / x.steps.length) * 100}%"></i></span></button>`;
         }).join("")}</div></div>`;
       return;
     }
     ctx.store.set("bpm.journeyOpen", j.id);
     const done = new Set(prog[j.id] || []);
     const next = j.steps.findIndex((_, i) => !done.has(i));
-    root.innerHTML = `<div class="journey"><div class="ghead"><button class="back" data-journey="">‹ All journeys</button><h1>${esc(j.title)}</h1></div>
+    root.innerHTML = `<div class="journey"><div class="ghead"><button class="back" data-journey="">‹ ${X("All journeys", "Todos los caminos")}</button><h1>${esc(j.title)}</h1></div>
       <p class="lede">${esc(j.blurb)}</p><span class="pbar wide"><i style="width:${(done.size / j.steps.length) * 100}%"></i></span>
       <ol class="steps">${j.steps.map((s, i) => {
         const r = ctx.parseRef(s.read), open = i === (next < 0 ? -1 : next);
         return `<li class="step${done.has(i) ? " done" : ""}"><details ${open ? "open" : ""}><summary><span class="sn">${i + 1}</span><b>${esc(s.title)}</b>${ctx.P[s.person] ? `<span class="qmeta">${esc(ctx.P[s.person].name)}</span>` : ""}</summary>
           <div class="stepbody">${ctx.chip(s.person)}
-            <div class="passage"><h4>${esc(ctx.refLabel(s.read))}</h4><p>${r ? ctx.verses(r).map((v) => `<sup>${v.v}</sup>${esc(v.t)}`).join(" ") : ""}</p><button class="ghost small" data-speak-ref="${esc(s.read)}">▶ Listen</button></div>
-            <p class="reflect"><span class="eyebrow">Reflect</span>${esc(s.reflect)}</p>
-            <button class="qnext" data-step="${i}">${done.has(i) ? "Mark not done" : "Mark done"}</button></div></details></li>`;
+            <div class="passage"><h4>${esc(ctx.refLabel(s.read))}</h4><p>${r ? ctx.verses(r).map((v) => `<sup>${v.v}</sup>${esc(v.t)}`).join(" ") : ""}</p><button class="ghost small" data-speak-ref="${esc(s.read)}">${window.I18N.T("listen")}</button></div>
+            <p class="reflect"><span class="eyebrow">${X("Reflect", "Reflexiona")}</span>${esc(s.reflect)}</p>
+            <button class="qnext" data-step="${i}">${done.has(i) ? X("Mark not done", "Marcar como pendiente") : X("Mark done", "Marcar como hecho")}</button></div></details></li>`;
       }).join("")}</ol></div>`;
     root.querySelectorAll("[data-step]").forEach((b) => b.onclick = () => {
       const i = +b.dataset.step, set = new Set(prog[j.id] || []);

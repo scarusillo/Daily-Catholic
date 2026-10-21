@@ -1,0 +1,177 @@
+{
+"abraham-to-jesus": {
+"title": "De Abraham a Jesús en 30 días",
+"blurb": "Recorra toda la historia de la salvación en un mes, una persona cada día, desde el llamado de Dios a Abraham hasta el nacimiento del Hijo de David, hijo de Abraham.",
+"steps": [
+{"title": "Dios llama a Abraham", "reflect": "Dios le pidió a Abraham que dejara todo lo conocido. ¿Qué le pide Dios hoy que le confíe a él?"},
+{"title": "¿Hay algo imposible para el Señor?", "reflect": "Sara se rió de la promesa de Dios. ¿En qué le cuesta creer que Dios todavía puede actuar en su vida?"},
+{"title": "El hijo en el monte", "reflect": "Los Padres de la Iglesia vieron en Isaac cargando la leña una imagen de Cristo cargando su cruz. ¿Qué significa para usted 'Dios proveerá'?"},
+{"title": "Una esposa para Isaac", "reflect": "Rebeca dijo 'Sí, iré' para casarse con un hombre al que nunca había visto. ¿Cómo nos prepara su 'sí' inmediato para el de María?"},
+{"title": "Una escalera al cielo", "reflect": "Jesús se presenta como la escalera entre el cielo y la tierra (Jn 1,51). ¿Dónde lo ha sorprendido Dios con su presencia?"},
+{"title": "Perdona a sus hermanos", "reflect": "José dijo: 'No fueron ustedes quienes me enviaron aquí, sino Dios.' ¿Hay alguien a quien usted necesite perdonar esta semana?"},
+{"title": "Judá se ofrece a sí mismo", "reflect": "Judá, que una vez vendió a su hermano, ahora se ofrece en lugar de su hermano. ¿Cómo apunta esto a Jesús, el León de Judá?"},
+{"title": "La zarza ardiente", "reflect": "Dios revela su nombre: 'Yo soy.' ¿Cómo puede usted quitarse las sandalias y acercarse a Dios con reverencia en la oración?"},
+{"title": "Entre los muertos y los vivos", "reflect": "Aarón se puso con el incienso entre los muertos y los vivos. ¿Cómo nos representa el sacerdote ante Dios en la Misa?"},
+{"title": "El paso del Jordán", "reflect": "El nombre de Josué es el mismo que el de Jesús ('el Señor salva'). ¿Qué 'río' necesita usted cruzar con la ayuda de Dios?"},
+{"title": "El cordón escarlata", "reflect": "Rajab, una extranjera, creyó y se salvó, y llegó a ser antepasada de Jesús. ¿A quién podría estar llamando Dios a quien nosotros pasamos por alto?"},
+{"title": "El Señor está contigo", "reflect": "Gedeón se sentía el menor de su familia. ¿Cómo usa Dios nuestra debilidad para mostrar su fuerza?"},
+{"title": "Adonde tú vayas, iré yo", "reflect": "Rut eligió ser fiel a Noemí y al Dios de Noemí. ¿A quién ha puesto Dios en su vida para caminar a su lado?"},
+{"title": "El pariente redentor", "reflect": "Booz pagó el precio para rescatar a Rut. ¿Cómo es Cristo nuestro Redentor, el que nos rescata a precio?"},
+{"title": "La oración de una madre", "reflect": "Ana derramó su alma ante el Señor. ¿Qué necesita usted presentarle a Dios con sinceridad en la oración?"},
+{"title": "Habla, Señor, que tu siervo escucha", "reflect": "Samuel necesitó la ayuda de Elí para reconocer la voz de Dios. ¿Quién le ayuda a usted a escuchar a Dios?"},
+{"title": "El Señor mira el corazón", "reflect": "Dios eligió al pastorcito más joven. ¿Qué ve Dios en su corazón que otros quizá no ven?"},
+{"title": "Una casa para siempre", "reflect": "Dios le prometió a David un hijo cuyo reino duraría para siempre. ¿Cómo se cumple esto en el mensaje de Gabriel a María (Lc 1,32-33)?"},
+{"title": "Un corazón que escucha", "reflect": "Salomón pidió sabiduría, no riquezas. Si Dios le preguntara '¿Qué quieres que te dé?', ¿qué le pediría usted?"},
+{"title": "La brisa suave", "reflect": "Dios no estaba en el viento, ni en el terremoto, ni en el fuego, sino en un suave susurro. ¿Cómo puede hacer espacio para el silencio hoy?"},
+{"title": "La virgen concebirá", "reflect": "Isaías prometió al 'Emmanuel', Dios con nosotros. ¿Cómo está Dios con usted en este momento?"},
+{"title": "Se encuentra el Libro", "reflect": "Josías rasgó sus vestiduras al escuchar la palabra de Dios. ¿Cómo puede la Escritura llegar a ser para usted una palabra viva, y no solo un libro?"},
+{"title": "Una alianza nueva", "reflect": "Dios prometió escribir su ley en nuestros corazones. En cada Misa Jesús habla de la 'nueva alianza en mi sangre'. ¿Qué significa eso para usted?"},
+{"title": "Como un hijo de hombre", "reflect": "Jesús tomó de esta visión el título de 'Hijo del hombre'. ¿Qué significa que el reino de Jesús nunca pasará?"},
+{"title": "La lectura de la Ley al pueblo", "reflect": "El pueblo se puso de pie y lloró mientras Esdras leía la palabra de Dios. ¿Cómo escucha usted las lecturas en la Misa?"},
+{"title": "La nueva dedicación del Templo", "reflect": "Judas purificó y volvió a dedicar la casa de Dios. Más tarde Jesús celebró esta fiesta (Jn 10,22). ¿Qué hay en su vida que necesite volver a consagrarse a Dios?"},
+{"title": "El Benedictus", "reflect": "Zacarías canta que Dios 'se acordó de su santa alianza'. ¿Cómo resume este cántico todo lo que hemos leído este mes?"},
+{"title": "La Anunciación", "reflect": "Todas las promesas de este recorrido se encuentran en el 'hágase en mí' de María. ¿Cómo sería decirle que sí a Dios hoy?"},
+{"title": "José, hijo de David", "reflect": "José obedeció sin que la Escritura recoja una sola palabra suya. ¿Cómo puede la obediencia silenciosa ser una forma de fe?"},
+{"title": "Hijo de David, hijo de Abraham", "reflect": "Repase los nombres de esta genealogía que ha conocido este mes. ¿Qué significa que Jesús haya venido a través de una familia tan real e imperfecta?"}
+]
+},
+"women-of-the-bible": {
+"title": "Mujeres de la Biblia",
+"blurb": "Dieciséis mujeres cuya fe, valentía y oración marcaron la historia de la salvación, desde la madre de todos los vivientes hasta la primera testigo de la Resurrección.",
+"steps": [
+{"title": "Madre de todos los vivientes", "reflect": "Aun después de la caída, Dios prometió que la descendencia de la mujer aplastaría a la serpiente. ¿Cómo abre la historia de Eva un espacio para la esperanza?"},
+{"title": "Risa y promesa", "reflect": "La risa de duda de Sara se convirtió en risa de alegría. ¿Cuándo ha convertido Dios su duda en alegría?"},
+{"title": "El Dios que me ve", "reflect": "Agar, una esclava en el desierto, llamó a Dios 'el Dios que me ve'. ¿Quién a su alrededor necesita saber que Dios lo ve?"},
+{"title": "El canto junto al mar", "reflect": "Miriam guió a las mujeres en la alabanza con un pandero. ¿Cómo puede alabar a Dios con todo su ser?"},
+{"title": "Fe en Jericó", "reflect": "La carta a los Hebreos alaba la fe de Rajab. ¿Qué riesgo de fe podría estar pidiéndole Dios?"},
+{"title": "Una madre en Israel", "reflect": "Débora juzgaba a Israel bajo una palmera y llamó a Barac a actuar. ¿Cómo usa los dones que Dios le ha dado para guiar a otros?"},
+{"title": "Tu Dios será mi Dios", "reflect": "La fidelidad de Rut la hizo antepasada de David y de Jesús. ¿Qué cuesta el amor fiel, y qué fruto da?"},
+{"title": "El cántico de Ana", "reflect": "El cántico de Ana anticipa el Magníficat de María. Compare los dos: ¿qué hace Dios por los humildes?"},
+{"title": "La pacificadora", "reflect": "La sabiduría de Abigail impidió que David derramara sangre. ¿Cuándo le ha librado del pecado la palabra sabia de alguien?"},
+{"title": "Para un momento como este", "reflect": "Ester arriesgó su vida para interceder por su pueblo. ¿Por quién está usted llamado a alzar la voz?"},
+{"title": "Valentía en la oración", "reflect": "Judit reprendió a los ancianos por poner a prueba a Dios. ¿Cómo espera usted en Dios cuando la ayuda parece tardar?"},
+{"title": "Bendita tú entre las mujeres", "reflect": "Isabel reconoció al Señor escondido en el seno de María. ¿Cómo podemos reconocer a Jesús presente en los demás?"},
+{"title": "El Magníficat", "reflect": "El alma de María proclama la grandeza del Señor. Rece hoy su cántico despacio: ¿qué verso le habla más?"},
+{"title": "Yo creo que tú eres el Cristo", "reflect": "Marta, a quien a menudo se recuerda como la atareada, hace una de las mayores confesiones de fe del Evangelio. ¿Qué cree usted acerca de Jesús en los momentos difíciles?"},
+{"title": "Apóstol de los apóstoles", "reflect": "María Magdalena reconoció a Jesús cuando él la llamó por su nombre. ¿Cómo lo llama Jesús a usted por su nombre?"},
+{"title": "El Señor le abrió el corazón", "reflect": "La primera respuesta de Lidia a la fe fue la hospitalidad. ¿Cómo puede su hogar convertirse en un lugar de acogida para Cristo?"}
+]
+},
+"types-of-christ": {
+"title": "Figuras de Cristo en el Antiguo Testamento",
+"blurb": "El Nuevo Testamento está escondido en el Antiguo (CIC 129). Conozca a trece personas en quienes la Iglesia ve prefigurado a Jesús.",
+"steps": [
+{"title": "El primer y el último Adán", "reflect": "San Pablo llama a Cristo el 'último Adán'. ¿Qué perdió el primer Adán que Cristo restaura?"},
+{"title": "Sangre que habla", "reflect": "La carta a los Hebreos dice que la sangre de Jesús 'habla mejor que la de Abel' (Heb 12,24). ¿Qué pronuncia sobre usted la sangre de Cristo?"},
+{"title": "El arca de salvación", "reflect": "La Iglesia ve en el arca una figura del Bautismo y de la Iglesia misma. ¿Cómo es la Iglesia un arca para usted?"},
+{"title": "Sacerdote del pan y del vino", "reflect": "Melquisedec es nombrado en el Canon Romano. ¿Cómo apunta su ofrenda de pan y vino a la Eucaristía?"},
+{"title": "El hijo amado ofrecido", "reflect": "Isaac llevó la leña monte arriba, y Dios proveyó un cordero. ¿Dónde ve el Calvario en esta historia?"},
+{"title": "Traicionado, y luego salvador de sus hermanos", "reflect": "'Ustedes pensaron hacerme mal, pero Dios lo pensó para bien.' ¿Cómo sacó Dios un bien del mal que le hicieron a Jesús?"},
+{"title": "Un profeta como Moisés", "reflect": "Moisés prometió que vendría un profeta mayor. ¿Cómo da Jesús una ley nueva sobre un monte (Mt 5)?"},
+{"title": "De pie entre la muerte y la vida", "reflect": "La intercesión de Aarón detuvo la plaga. ¿Cómo intercede ahora por nosotros Cristo, nuestro sumo sacerdote (Heb 7,25)?"},
+{"title": "El que conduce a la promesa", "reflect": "Josué y Jesús llevan el mismo nombre. ¿A qué 'tierra prometida' nos conduce Jesús?"},
+{"title": "El pariente redentor", "reflect": "Booz rescató a Rut a costa suya. ¿Qué le costó a Cristo nuestra redención?"},
+{"title": "El rey pastor", "reflect": "David luchó contra Goliat no con armadura, sino confiando en Dios. ¿Cómo venció Cristo a nuestro mayor enemigo?"},
+{"title": "Algo mayor que Salomón", "reflect": "Jesús dijo: 'aquí hay alguien mayor que Salomón' (Mt 12,42). ¿Cómo es Cristo la Sabiduría misma de Dios?"},
+{"title": "La señal de Jonás", "reflect": "Jesús señaló los tres días de Jonás en el pez como signo de su Resurrección. ¿Cómo cambia la Pascua la manera en que usted enfrenta los días 'oscuros'?"}
+]
+},
+"mary-in-the-old-testament": {
+"title": "María en el Antiguo Testamento",
+"blurb": "Diez días con las personas en quienes la Iglesia ha visto prefigurada a la Madre de Dios: la Nueva Eva, el Arca de la Alianza, la Reina Madre y las mujeres que salvaron a su pueblo.",
+"steps": [
+{"title": "La mujer y su descendencia", "reflect": "La Iglesia llama a Génesis 3,15 el 'protoevangelio'. ¿Cómo es María la Nueva Eva que dice sí donde Eva dijo no (CIC 411, 494)?"},
+{"title": "Nada es imposible", "reflect": "'¿Hay algo imposible para el Señor?' Gabriel le repite esto a María (Lc 1,37). ¿Qué parece imposible en su vida que usted puede confiar a Dios?"},
+{"title": "Un cántico de los humildes", "reflect": "El cántico de Ana es el modelo del Magníficat. ¿Qué nos enseña sobre María la costumbre de Dios de enaltecer a los humildes?"},
+{"title": "El Arca llega a la montaña", "reflect": "David preguntó: '¿Cómo va a venir a mí el arca del Señor?' y danzó delante de ella; Isabel le pregunta lo mismo a María, y Juan salta de gozo en su seno. ¿Cómo es María el Arca de la Nueva Alianza?"},
+{"title": "La Reina Madre", "reflect": "Salomón se levantó, se inclinó y puso un trono para su madre a su derecha. ¿Cómo nos ayuda esto a entender a María como Reina e intercesora?"},
+{"title": "Bendita entre las mujeres", "reflect": "Yael aplastó la cabeza del enemigo, un eco de Génesis 3,15. ¿Por qué la Iglesia podría escuchar esto cuando Isabel llama a María 'bendita entre las mujeres'?"},
+{"title": "La gloria de Jerusalén", "reflect": "La Iglesia canta las alabanzas de Judit en las fiestas marianas. ¿Cómo participó María, como Judit, en la derrota del enemigo del pueblo de Dios?"},
+{"title": "La reina que intercede", "reflect": "Ester oró y luego se presentó ante el rey en favor de su pueblo. ¿En qué se parece a la suya la intercesión de María por nosotros?"},
+{"title": "La virgen concebirá", "reflect": "Mateo ve cumplida en María la señal de Isaías. ¿Qué nos dice la concepción virginal sobre quién es Jesús (CIC 496-497)?"},
+{"title": "Me llamarán bienaventurada todas las generaciones", "reflect": "Después de conocer sus 'figuras' del Antiguo Testamento, vuelva a leer la Visitación. ¿Cuál de ellas ve ahora con más claridad en María?"}
+]
+},
+"twelve-apostles": {
+"title": "Los Doce Apóstoles",
+"blurb": "Conozca a cada uno de los Doce, además de Matías y Pablo: hombres comunes llamados por su nombre, enviados y recordados como las piedras de fundamento de la Iglesia.",
+"steps": [
+{"title": "Tú eres Pedro", "reflect": "Jesús le dio a Pedro las llaves del Reino. ¿Cómo sirve hoy a toda la Iglesia el ministerio de unidad del Papa?"},
+{"title": "Hemos encontrado al Mesías", "reflect": "Lo primero que hizo Andrés como discípulo fue llevar a su hermano a Jesús. ¿A quién podría usted presentarle a Jesús?"},
+{"title": "¿Pueden beber el cáliz?", "reflect": "Santiago pidió gloria y se le prometió una parte en el cáliz de Cristo; llegó a ser el primer apóstol mártir. ¿Cómo es la verdadera grandeza?"},
+{"title": "Ahí tienes a tu madre", "reflect": "Juan recibió a María en su casa. ¿Cómo puede usted acoger a María en su propia vida?"},
+{"title": "Muéstranos al Padre", "reflect": "'El que me ha visto a mí ha visto al Padre.' ¿Dónde busca usted a Dios, y cómo le responde Jesús?"},
+{"title": "Un israelita sin doblez", "reflect": "La tradición identifica a Bartolomé con Natanael. Jesús lo vio debajo de la higuera; ¿qué significa que Jesús lo conozca a usted antes de que usted se acerque a él?"},
+{"title": "Señor mío y Dios mío", "reflect": "La duda de Tomás se convirtió en la confesión más clara del Evangelio. ¿Cómo pueden las preguntas sinceras llevar a una fe más profunda?"},
+{"title": "Sígueme", "reflect": "Jesús llamó a un cobrador de impuestos y comió con pecadores. ¿Qué significa para usted que Jesús haya venido 'a llamar a los pecadores'?"},
+{"title": "Llamado por su nombre", "reflect": "De Santiago, hijo de Alfeo, no sabemos casi nada aparte de su nombre. ¿Qué dice su lugar discreto entre los Doce sobre la fidelidad escondida?"},
+{"title": "¿Por qué a nosotros y no al mundo?", "reflect": "Judas Tadeo le hizo a Jesús una pregunta sincera en la Última Cena. Jesús respondió que él y el Padre hacen su morada en quienes lo aman. ¿Cómo puede su corazón ser esa morada?"},
+{"title": "El Zelote", "reflect": "Jesús oró toda la noche antes de elegir a hombres tan distintos como un zelote y un cobrador de impuestos. ¿Cómo une Cristo a personas que no están de acuerdo?"},
+{"title": "El traidor", "reflect": "Judas vendió a Jesús por treinta monedas de plata. ¿Qué pequeñas concesiones pueden alejarnos de Cristo, y cómo nos protege la confesión?"},
+{"title": "Elegido para reemplazar a Judas", "reflect": "Los apóstoles oraron y echaron suertes, y la suerte cayó sobre Matías. ¿Por qué necesitaba la Iglesia mantener el número de los Doce?"},
+{"title": "Apóstol de los gentiles", "reflect": "Cristo llamó a su perseguidor más feroz para ser apóstol. ¿Hay alguien a quien usted haya dado por perdido y a quien Dios todavía podría llamar?"}
+]
+},
+"the-prophets": {
+"title": "Los Profetas",
+"blurb": "Dieciséis profetas que anunciaron la palabra de Dios a reyes y pueblos, consolaron a los desterrados y señalaron hacia el Mesías.",
+"steps": [
+{"title": "Habla, Señor", "reflect": "La vida profética de Samuel comenzó escuchando. ¿Cómo hace usted tiempo para escuchar antes de hablar?"},
+{"title": "Ese hombre eres tú", "reflect": "Natán confrontó al rey con una historia. ¿Por qué a veces necesitamos que otra persona nos muestre nuestro pecado?"},
+{"title": "Fuego en el Carmelo", "reflect": "'¿Hasta cuándo van a andar cojeando con las dos piernas?' ¿Dónde está tratando usted de servir a dos señores?"},
+{"title": "Lávate y quedarás limpio", "reflect": "Naamán casi rechazó un remedio sencillo. ¿Qué nos dice esta historia sobre los sacramentos?"},
+{"title": "Que fluya la justicia", "reflect": "Dios rechazó el culto sin justicia. ¿Cómo influye su culto del domingo en la manera en que trata a los pobres durante la semana?"},
+{"title": "Los atraje con lazos de amor", "reflect": "Dios habla como un padre que enseña a caminar a su hijo. ¿Cómo ha experimentado usted el amor paciente de Dios?"},
+{"title": "Aquí estoy, envíame", "reflect": "Isaías se sintió indigno hasta que sus labios fueron purificados. ¿Qué tiene que ver el 'Santo, Santo, Santo' de la Misa con esta visión?"},
+{"title": "¿Qué te pide el Señor?", "reflect": "Practicar la justicia, amar la misericordia, caminar humildemente. ¿Cuál de las tres le resulta más difícil en este momento?"},
+{"title": "Antes de que nacieras", "reflect": "Dios conocía a Jeremías antes de formarlo en el seno materno. ¿Qué enseña esto sobre la dignidad de toda vida humana?"},
+{"title": "Los huesos secos reviven", "reflect": "Dios infunde vida a unos huesos secos. ¿Qué hay en su vida o en su parroquia que se sienta seco, y cómo podría renovarlo el Espíritu Santo?"},
+{"title": "En el foso de los leones", "reflect": "Daniel siguió orando tres veces al día aun cuando estaba prohibido. ¿Qué le ayuda a mantener un ritmo constante de oración?"},
+{"title": "Misericordia para Nínive", "reflect": "A Jonás le disgustó que Dios perdonara a sus enemigos. ¿A quién le cuesta desear que Dios perdone?"},
+{"title": "Derramaré mi Espíritu", "reflect": "Pedro citó a Joel en Pentecostés. ¿Cómo ha sido derramado sobre usted el Espíritu Santo en el Bautismo y la Confirmación?"},
+{"title": "Tu rey viene humilde", "reflect": "Jesús cumplió esto el Domingo de Ramos. ¿Qué clase de rey monta en un burro, y qué dice eso de su reino?"},
+{"title": "Yo envío a mi mensajero", "reflect": "La promesa de Malaquías se cumple en Juan el Bautista. ¿Cómo puede usted preparar el camino del Señor esta semana?"},
+{"title": "Es necesario que él crezca", "reflect": "Juan, el último y el mayor de los profetas, se apartó para señalar a Cristo. ¿Cómo puede usted disminuir para que Cristo crezca?"}
+]
+},
+"kings-of-israel-and-judah": {
+"title": "Reyes de Israel y de Judá",
+"blurb": "Quince reyes, fieles e infieles, desde Saúl hasta el destierro, y lo que sus reinados enseñan sobre el verdadero Rey, Jesús, Hijo de David.",
+"steps": [
+{"title": "La obediencia vale más que el sacrificio", "reflect": "Saúl hizo lo que quiso y lo llamó culto. ¿Cómo pueden los actos religiosos convertirse en una pantalla para la desobediencia?"},
+{"title": "Un corazón puro", "reflect": "El salmo de arrepentimiento de David después de su pecado con Betsabé se reza todos los viernes en la Liturgia de las Horas. ¿Qué nos enseña sobre la confesión?"},
+{"title": "La dedicación del Templo", "reflect": "Salomón reconoció que el cielo no puede contener a Dios, y sin embargo Dios eligió habitar en medio de su pueblo. ¿Cómo está presente Dios hoy en nuestras iglesias?"},
+{"title": "Malos consejos, reino dividido", "reflect": "Roboam rechazó el consejo de los ancianos de servir al pueblo. ¿Qué tipo de consejo busca usted?"},
+{"title": "Becerros de oro", "reflect": "Jeroboam construyó santuarios por miedo a perder el poder. ¿Cómo puede el miedo empujarnos hacia los ídolos?"},
+{"title": "La viña de Nabot", "reflect": "Ajab codició lo que no podía tener con justicia. ¿Qué nos pide el décimo mandamiento?"},
+{"title": "Un celo que se quedó corto", "reflect": "Jehú acabó con el culto a Baal pero conservó los becerros de Jeroboam. ¿Dónde podría ser solo parcial su conversión?"},
+{"title": "La reparación del Templo", "reflect": "El joven Joás obró bien mientras lo guiaba el sacerdote Joyadá. ¿Quiénes son los mentores que lo mantienen a usted fiel?"},
+{"title": "La soberbia precede a la caída", "reflect": "Ozías se enorgulleció y asumió una función sacerdotal que no le correspondía. ¿Por qué protege Dios las funciones que da en su Iglesia?"},
+{"title": "Pide una señal", "reflect": "Ajaz se negó a confiar en Dios, y aun así Dios dio la señal del Emmanuel. ¿Cómo sobrevive la fidelidad de Dios a nuestra infidelidad?"},
+{"title": "La oración de un rey", "reflect": "Ezequías extendió la carta del enemigo delante del Señor. ¿Qué 'cartas' o preocupaciones puede usted poner hoy delante de Dios?"},
+{"title": "El peor rey se arrepiente", "reflect": "Manasés, el rey más perverso, se humilló y fue restablecido. ¿Hay alguien que esté fuera del alcance de la misericordia de Dios?"},
+{"title": "La renovación de la alianza", "reflect": "Josías leyó en voz alta la alianza y el pueblo se comprometió con ella. ¿Cómo renovamos nuestras promesas bautismales en la Pascua?"},
+{"title": "El último rey", "reflect": "Sedecías le pidió a Jeremías la palabra de Dios, pero tuvo miedo de obedecerla. ¿Por qué conocer la voluntad de Dios no es lo mismo que cumplirla?"},
+{"title": "Esperanza en el destierro", "reflect": "El libro de los Reyes termina con el heredero de David liberado de la prisión y comiendo a la mesa del rey. ¿Cómo apunta este pequeño signo de esperanza al reino eterno de Cristo?"}
+]
+},
+"heroes-of-the-deuterocanon": {
+"title": "Héroes de los libros deuterocanónicos",
+"blurb": "Trece personas de los libros que se encuentran en el Antiguo Testamento católico (Tobías, Judit, las partes griegas de Ester y Daniel, Macabeos, Sabiduría, Sirácide y Baruc) y lo que enseñan sobre la oración, la valentía y la esperanza en la resurrección.",
+"steps": [
+{"title": "El consejo de un padre", "reflect": "Tobit le dice a su hijo que la limosna libra de la muerte. ¿Cómo moldea el alma la generosidad con los pobres?"},
+{"title": "Oración junto a la ventana", "reflect": "Sara convirtió su desesperación en oración. Cuando se siente agobiado, ¿a dónde acude primero?"},
+{"title": "Oración en la noche de bodas", "reflect": "Tobías y Sara comenzaron su matrimonio con oración. ¿Por qué la Iglesia lee a menudo este pasaje en las bodas?"},
+{"title": "Dios sana", "reflect": "Rafael revela que él presentaba sus oraciones ante Dios. ¿Cómo cambia su oración saber que los ángeles se unen a ella?"},
+{"title": "Fe bajo asedio", "reflect": "Judit se negó a ponerle un plazo a Dios. ¿Cómo confía usted en los tiempos de Dios?"},
+{"title": "La oración de Ester", "reflect": "En las partes griegas de Ester, la reina ora: 'Ayúdame, que estoy sola y no tengo otro auxilio fuera de ti.' ¿Cuándo ha orado usted así?"},
+{"title": "Castidad y valentía", "reflect": "Susana prefirió caer en manos de los hombres antes que pecar delante del Señor. ¿Qué le ayuda a mantenerse firme ante la presión para hacer el mal?"},
+{"title": "La verdad que libera", "reflect": "Dios suscitó al joven Daniel para defender al inocente. ¿Cuándo le pide Dios que alce la voz por la justicia?"},
+{"title": "Celo por la alianza", "reflect": "Matatías rechazó la orden del rey: 'No obedeceremos las órdenes del rey.' ¿Cuándo nos exige la fidelidad a Dios decir que no?"},
+{"title": "El ejemplo de un anciano", "reflect": "Eleazar se negó incluso a fingir, para no engañar a los jóvenes. ¿Cómo influye su ejemplo en la fe de los demás?"},
+{"title": "La fe de una madre en la resurrección", "reflect": "Ella les dijo a sus hijos que Dios hizo todas las cosas de la nada y que les devolvería la vida. ¿Cómo da valentía la esperanza en la resurrección?"},
+{"title": "Oración por los difuntos", "reflect": "Judas ofreció un sacrificio de expiación por los muertos 'para que fueran liberados de su pecado'. ¿Cómo fundamenta este pasaje la oración de la Iglesia por los fieles difuntos (CIC 1032)?"},
+{"title": "Prepárate para la prueba", "reflect": "'Hijo, si te acercas a servir al Señor, prepara tu alma para la prueba.' ¿Cómo pueden las pruebas formar parte de su crecimiento en la fe?"}
+]
+}
+}

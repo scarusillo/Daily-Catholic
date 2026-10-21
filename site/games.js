@@ -4,6 +4,7 @@
   "use strict";
   const C = () => window.BPM; // shared context from app.js
   const SITE = "https://scarusillo.github.io/Daily-Catholic/";
+  const X = (en, es) => (window.I18N?.lang === "es" ? es : en);
   const $ = (s, el = document) => el.querySelector(s);
   const esc = (s) => String(s ?? "").replace(/[&<>"]/g, (c) => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;" }[c]));
 
@@ -109,12 +110,12 @@
     const total = pz.placed.length;
     root.innerHTML = `
       <div class="game">
-        <div class="ghead"><button class="back" data-go="play">‹ Games</button><h1>Threads</h1><span class="qmeta">#${dayNumber()}</span></div>
-        <div class="tclue"><span class="eyebrow">Today's theme</span><b>${esc(pz.theme.clue || pz.theme.title)}</b></div>
+        <div class="ghead"><button class="back" data-go="play">‹ ${X("Games", "Juegos")}</button><h1>Threads</h1><span class="qmeta">#${dayNumber()}</span></div>
+        <div class="tclue"><span class="eyebrow">${X("Today's theme", "Tema de hoy")}</span><b>${esc(pz.theme.clue || pz.theme.title)}</b></div>
         <p class="qmeta" id="tprog"></p>
         <div class="tgrid-wrap"><svg class="tlines" id="tlines"></svg><div class="tgrid" id="tgrid" style="grid-template-rows:repeat(${pz.rows},1fr)">${pz.grid.map((ch, i) => `<button class="tcell" data-i="${i}" aria-label="${ch}">${ch}</button>`).join("")}</div></div>
         <div class="tword" id="tword" aria-live="polite">&nbsp;</div>
-        <div class="gbtns"><button id="thint" class="ghost">Hint</button><button id="tclear" class="ghost">Clear</button></div>
+        <div class="gbtns"><button id="thint" class="ghost">${X("Hint", "Pista")}</button><button id="tclear" class="ghost">${X("Clear", "Borrar")}</button></div>
         <div id="tdone"></div>
         <p class="gfoot">Drag across touching letters (any direction, diagonals too), or tap letters one by one and tap the last letter again to submit. Every letter belongs to exactly one word. The <b>spangram</b> names the theme and stretches from one side of the grid to the other.</p>
       </div>`;
@@ -193,7 +194,7 @@
       const emoji = st.log.map((x) => (x === "S" ? "🟡" : x === "H" ? "💡" : "🔵")).join("");
       const people = pz.placed.filter((p) => p.person).map((p) => C().chip(p.person)).join("");
       $("#tdone", root).innerHTML = `<div class="qcard"><h2>${esc(t.title)}</h2><p>${esc(t.explain || "")} ${t.ref ? `<button class="ref" data-ref="${esc(t.ref)}">${esc(C().refLabel(t.ref))}</button>` : ""}</p>
-        <div class="chips">${people}</div><p class="qmeta">Streak: ${streak("threads")} day${streak("threads") === 1 ? "" : "s"}</p><button class="qnext" id="tshare">Share result</button></div>`;
+        <div class="chips">${people}</div><p class="qmeta">${X("Streak", "Racha")}: ${streak("threads")} day${streak("threads") === 1 ? "" : "s"}</p><button class="qnext" id="tshare">${X("Share result", "Compartir resultado")}</button></div>`;
       $("#tshare", root).onclick = (e) => share(`The Daily Catholic · Threads #${dayNumber()}\n“${t.title}”\n${emoji}\n${SITE}`, e.target);
       $("#thint", root).disabled = true;
     }
@@ -238,11 +239,11 @@
     const groupOf = (id) => groups.findIndex((g) => g.items.some((w) => w.person === id));
     const label = (id) => { const w = groups.flatMap((g) => g.items).find((x) => x.person === id).w; return w[0] + w.slice(1).toLowerCase(); };
     root.innerHTML = `<div class="game">
-      <div class="ghead"><button class="back" data-go="play">‹ Games</button><h1>Lineage Links</h1><span class="qmeta">#${dayNumber()}</span></div>
-      <p class="lede">Find four groups of four people who share something: a family, an office, a book, a role in salvation history.</p>
+      <div class="ghead"><button class="back" data-go="play">‹ ${X("Games", "Juegos")}</button><h1>Lineage Links</h1><span class="qmeta">#${dayNumber()}</span></div>
+      <p class="lede">${X("Find four groups of four people who share something: a family, an office, a book, a role in salvation history.", "Encuentra cuatro grupos de cuatro personas que tienen algo en común: una familia, un oficio, un libro, un papel en la historia de la salvación.")}</p>
       <div id="lsolved" class="lsolved"></div><div id="lgrid" class="lgrid"></div>
       <p class="qmeta" id="lmist"></p>
-      <div class="gbtns"><button id="lshuf" class="ghost">Shuffle</button><button id="ldes" class="ghost">Deselect</button><button id="lsub" class="qnext">Submit</button></div>
+      <div class="gbtns"><button id="lshuf" class="ghost">${X("Shuffle", "Mezclar")}</button><button id="ldes" class="ghost">${X("Deselect", "Quitar selección")}</button><button id="lsub" class="qnext">Submit</button></div>
       <div id="ldone"></div></div>`;
     function draw() {
       const over = st.solved.length === 4 || st.mistakes >= 4;
@@ -253,7 +254,7 @@
       }).join("");
       const left = st.order.filter((id) => !shownGroups.includes(groupOf(id)));
       $("#lgrid", root).innerHTML = left.map((id) => `<button class="ltile${sel.includes(id) ? " on" : ""}" data-pid="${id}">${esc(label(id))}</button>`).join("");
-      $("#lmist", root).innerHTML = over ? "" : `Mistakes left: ${"●".repeat(4 - st.mistakes)}${"○".repeat(st.mistakes)}`;
+      $("#lmist", root).innerHTML = over ? "" : `${X("Mistakes left", "Errores restantes")}: ${"●".repeat(4 - st.mistakes)}${"○".repeat(st.mistakes)}`;
       $("#lsub", root).disabled = sel.length !== 4 || over;
       root.querySelector(".gbtns").hidden = over;
       if (over) finish();
@@ -284,7 +285,7 @@
       const grid = st.guesses.map((gs) => gs.map((g) => sq[groups[g].t.difficulty || 2]).join("")).join("\n");
       $("#ldone", root).innerHTML = `<div class="qcard"><h2>${won ? (st.mistakes ? "Solved" : "Perfect!") : "Out of tries"}</h2>
         ${groups.map((g) => `<p><b>${esc(g.t.title)}.</b> ${esc(g.t.explain || "")}</p>`).join("")}
-        <p class="qmeta">Streak: ${streak("links")}</p><button class="qnext" id="lshare">Share result</button></div>`;
+        <p class="qmeta">${X("Streak", "Racha")}: ${streak("links")}</p><button class="qnext" id="lshare">${X("Share result", "Compartir resultado")}</button></div>`;
       $("#lshare", root).onclick = (e) => share(`The Daily Catholic · Lineage Links #${dayNumber()}\n${grid}\n${SITE}`, e.target);
     }
     draw();
@@ -328,8 +329,8 @@
     const st = C().store.get(key, { solved: [], reveals: {} });
     const save = () => C().store.set(key, st);
     root.innerHTML = `<div class="game">
-      <div class="ghead"><button class="back" data-go="play">‹ Games</button><h1>Hidden Name</h1><span class="qmeta">#${dayNumber()}</span></div>
-      <p class="lede">Name each person from the clue. The first letters of the answers spell a hidden figure from Scripture.</p>
+      <div class="ghead"><button class="back" data-go="play">‹ ${X("Games", "Juegos")}</button><h1>Hidden Name</h1><span class="qmeta">#${dayNumber()}</span></div>
+      <p class="lede">${X("Name each person from the clue. The first letters of the answers spell a hidden figure from Scripture.", "Nombra a cada persona según la pista. Las primeras letras de las respuestas forman el nombre de un personaje bíblico oculto.")}</p>
       <div class="ahidden" id="ahid"></div>
       <ol class="aclues" id="aclues"></ol>
       <div id="adone"></div></div>`;
@@ -337,7 +338,7 @@
       <li class="aclue" data-i="${i}">
         <p>${esc(maskText(p, firstSentence(p.summary)))}</p>
         <div class="arow"><input id="ac${i}" class="ain" maxlength="${p.name.length}" autocomplete="off" autocapitalize="characters" spellcheck="false" aria-label="Answer ${i + 1}, ${p.name.length} letters" placeholder="${"_ ".repeat(p.name.length).trim()}">
-        <span class="qmeta">${p.name.length} letters</span><button class="ghost small" data-hint="${i}">Hint</button></div>
+        <span class="qmeta">${p.name.length} ${X("letters", "letras")}</span><button class="ghost small" data-hint="${i}">${X("Hint", "Pista")}</button></div>
         <p class="qmeta ahint" id="ah${i}"></p>
       </li>`).join("");
     function draw() {
@@ -372,7 +373,7 @@
       const h = pz.hidden;
       $("#adone", root).innerHTML = `<div class="qcard"><span class="eyebrow">The hidden name</span><h2>${esc(h.name)}</h2><p>${esc(h.summary)}</p>
         <div class="chips">${C().chip(h.id)}${pz.clues.map((p) => C().chip(p.id)).join("")}</div>
-        <p class="qmeta">${hints ? `${hints} hint${hints > 1 ? "s" : ""} used · ` : "No hints! · "}Streak: ${streak("acrostic")}</p><button class="qnext" id="ashare">Share result</button></div>`;
+        <p class="qmeta">${hints ? `${hints} hint${hints > 1 ? "s" : ""} used · ` : "No hints! · "}${X("Streak", "Racha")}: ${streak("acrostic")}</p><button class="qnext" id="ashare">${X("Share result", "Compartir resultado")}</button></div>`;
       $("#ashare", root).onclick = (e) => share(`The Daily Catholic · Hidden Name #${dayNumber()}\n${pz.clues.map((_, i) => (st.reveals[i] ? "🟨" : "🟩")).join("")} ${h.name.length} letters\n${SITE}`, e.target);
     }
     draw();
@@ -408,7 +409,7 @@
     const st = C().store.get(key, { i: 0, guesses: [] });
     const save = () => C().store.set(key, st);
     root.innerHTML = `<div class="game">
-      <div class="ghead"><button class="back" data-go="play">‹ Games</button><h1>Holy Land Tap</h1><span class="qmeta">#${dayNumber()}</span></div>
+      <div class="ghead"><button class="back" data-go="play">‹ ${X("Games", "Juegos")}</button><h1>Holy Land Tap</h1><span class="qmeta">#${dayNumber()}</span></div>
       <div class="tapq" id="tapq"></div>
       <div class="tapmap"><svg id="tapsvg" role="img" aria-label="Map"></svg><div class="maptag" id="maptag"></div></div>
       <div class="tapbar" id="tapbar"></div>
@@ -443,7 +444,7 @@
       $("#tapq", root).innerHTML = `<span class="eyebrow">Round ${st.i + 1} of ${rounds.length}</span><b>${esc(r.event.q)}</b>`;
       drawMap(r.ext);
       pin = null;
-      if (answered) reveal(); else $("#tapbar", root).innerHTML = `<span class="qmeta">Tap the map to drop a pin.</span><button class="qnext" id="tapok" disabled>Lock in</button>`;
+      if (answered) reveal(); else $("#tapbar", root).innerHTML = `<span class="qmeta">${X("Tap the map to drop a pin.", "Toca el mapa para marcar un punto.")}</span><button class="qnext" id="tapok" disabled>Lock in</button>`;
       const ok = $("#tapok", root); if (ok) ok.onclick = lock;
     }
     svg.on("click", (e) => {
@@ -473,7 +474,7 @@
       $("#tapbar", root).innerHTML = `<div class="tapres"><div><b>${esc(r.place.name)}</b> · ${gs.d < 1 ? "spot on" : `${Math.round(gs.d)} km away`} · <b>${gs.s}</b> pts</div>
         <p class="qmeta">${esc(r.place.note || "")}${r.place.certainty !== "known" ? ` (${r.place.certainty} location)` : ""}</p>
         <div class="chips">${people}<button class="ref" data-ref="${esc(r.event.ref)}">${esc(C().refLabel(r.event.ref))}</button></div>
-        <button class="qnext" id="tapnext">${st.i + 1 < rounds.length ? "Next round" : "See score"}</button></div>`;
+        <button class="qnext" id="tapnext">${st.i + 1 < rounds.length ? X("Next round", "Siguiente ronda") : X("See score", "Ver puntuación")}</button></div>`;
       $("#tapnext", root).onclick = () => { st.i++; save(); show(); };
     }
     function finish() {
@@ -484,7 +485,7 @@
       root.querySelector(".tapmap").hidden = true;
       $("#tapbar", root).innerHTML = "";
       $("#tapdone", root).innerHTML = `<div class="qcard">${rounds.map((r, i) => `<p>${bar(st.guesses[i].s)} <b>${esc(r.place.name)}</b>: ${esc(r.event.q)} <span class="qmeta">${Math.round(st.guesses[i].d)} km · ${st.guesses[i].s} pts</span></p>`).join("")}
-        <p class="qmeta">Streak: ${streak("tap")}</p><button class="qnext" id="tapshare">Share result</button></div>`;
+        <p class="qmeta">${X("Streak", "Racha")}: ${streak("tap")}</p><button class="qnext" id="tapshare">${X("Share result", "Compartir resultado")}</button></div>`;
       $("#tapshare", root).onclick = (e) => share(`The Daily Catholic · Holy Land Tap #${dayNumber()}\n${st.guesses.map((x) => bar(x.s)).join("")} ${total}/5000\n${SITE}`, e.target);
     }
     new ResizeObserver(() => { if (svgEl.isConnected && st.guesses.length < rounds.length) show(); }).observe(svgEl);
@@ -514,8 +515,8 @@
     let cur = "";
     const KB = ["QWERTYUIOP", "ASDFGHJKL", "↵ZXCVBNM⌫"];
     root.innerHTML = `<div class="game loaves">
-      <div class="ghead"><button class="back" data-go="play">‹ Games</button><h1>Five Loaves</h1><span class="qmeta">#${n}</span></div>
-      <p class="lede">Guess today's five-letter word of faith in six tries. It may be a word from the Mass, the Bible or Church life, or a person from Scripture.</p>
+      <div class="ghead"><button class="back" data-go="play">‹ ${X("Games", "Juegos")}</button><h1>Five Loaves</h1><span class="qmeta">#${n}</span></div>
+      <p class="lede">${X("Guess today's five-letter word of faith in six tries. It may be a word from the Mass, the Bible or Church life, or a person from Scripture.", "Adivina la palabra de fe de hoy, de cinco letras, en seis intentos. Las palabras están en inglés: términos de la Misa, la Biblia, la vida de la Iglesia o personajes bíblicos.")}</p>
       <div class="wgrid" id="wgrid"></div>
       <p class="tword" id="wmsg">&nbsp;</p>
       <div class="kb" id="kb">${KB.map((r) => `<div class="kbrow">${[...r].map((k) => `<button data-k="${k}" class="${k === "↵" || k === "⌫" ? "wide" : ""}" aria-label="${k === "↵" ? "Enter" : k === "⌫" ? "Delete" : k}">${k === "↵" ? "Enter" : k}</button>`).join("")}</div>`).join("")}</div>
@@ -565,7 +566,7 @@
       $("#wdone", root).innerHTML = `<div class="qcard"><span class="eyebrow">${won ? `Solved in ${st.guesses.length}` : "Today's word"}</span><h2>${esc(ans.w)}</h2>
         <p>${esc(ans.explain)}</p>
         <div class="chips">${ans.person ? C().chip(ans.person) : ""}${ans.ref ? `<button class="ref" data-ref="${esc(ans.ref)}">${esc(C().refLabel(ans.ref))}</button>` : ""}</div>
-        <p class="qmeta">Streak: ${streak("loaves")}</p><button class="qnext" id="wshare">Share result</button></div>`;
+        <p class="qmeta">${X("Streak", "Racha")}: ${streak("loaves")}</p><button class="qnext" id="wshare">${X("Share result", "Compartir resultado")}</button></div>`;
       $("#wshare", root).onclick = (e) => share(`The Daily Catholic · Five Loaves #${n} ${won ? st.guesses.length : "X"}/6\n${grid}\n${SITE}`, e.target);
     }
     draw();
@@ -575,26 +576,26 @@
      HUB
      ===================================================================== */
   const GAMES = [
-    { id: "loaves", name: "Five Loaves", desc: "Guess the five-letter word of faith in six tries.", needs: "wordle" },
-    { id: "threads", name: "Threads", desc: "Find the hidden names in a grid of letters. One spangram names today's theme.", needs: "themes" },
-    { id: "links", name: "Lineage Links", desc: "Sixteen people, four hidden groups. Find what connects them.", needs: "themes" },
-    { id: "acrostic", name: "Hidden Name", desc: "Solve the clues; their first letters spell a mystery figure.", needs: null },
-    { id: "tap", name: "Holy Land Tap", desc: "Five moments from Scripture. Tap where on the map they happened.", needs: "places" },
-    { id: "quiz", name: "Daily Quiz", desc: "Five questions on who's who, in three difficulty levels.", needs: null },
+    { id: "loaves", name: "Five Loaves", get desc() { return X("Guess the five-letter word of faith in six tries.", "Adivina la palabra de fe de cinco letras en seis intentos."); }, needs: "wordle" },
+    { id: "threads", name: "Threads", get desc() { return X("Find the hidden names in a grid of letters. One spangram names today's theme.", "Encuentra los nombres ocultos en una cuadrícula de letras. Una palabra clave nombra el tema."); }, needs: "themes" },
+    { id: "links", name: "Lineage Links", get desc() { return X("Sixteen people, four hidden groups. Find what connects them.", "Dieciséis personas, cuatro grupos ocultos. Descubre qué los une."); }, needs: "themes" },
+    { id: "acrostic", name: "Hidden Name", get desc() { return X("Solve the clues; their first letters spell a mystery figure.", "Resuelve las pistas; sus primeras letras forman un nombre misterioso."); }, needs: null },
+    { id: "tap", name: "Holy Land Tap", get desc() { return X("Five moments from Scripture. Tap where on the map they happened.", "Cinco momentos de la Escritura. Toca en el mapa dónde ocurrieron."); }, needs: "places" },
+    { id: "quiz", get name() { return X("Daily Quiz", "Quiz diario"); }, get desc() { return X("Five questions on who's who, in three difficulty levels.", "Cinco preguntas sobre personajes bíblicos, en tres niveles."); }, needs: null },
   ];
   function renderHub(root) {
     const ctx = C();
     const explored = ctx.explored();
     const badges = ctx.badges();
     root.innerHTML = `<div class="hub">
-      <div class="ghead"><h1>Play</h1><span class="qmeta">${new Date().toLocaleDateString(undefined, { weekday: "long", month: "long", day: "numeric" })} · new puzzles every day</span></div>
+      <div class="ghead"><h1>${X("Play", "Jugar")}</h1><span class="qmeta">${new Date().toLocaleDateString(window.I18N?.locale(), { weekday: "long", month: "long", day: "numeric" })} · new puzzles every day</span></div>
       <div class="gcards">${GAMES.map((g) => {
         const done = playedToday(g.id), s = streak(g.id);
         return `<button class="gcard" data-go="${g.id}"><span class="gname">${g.name}</span><span class="gdesc">${g.desc}</span>
-          <span class="gstat">${done ? "✓ Played today" : "Ready"}${s ? ` · ${s}-day streak` : ""}</span></button>`;
+          <span class="gstat">${done ? X("✓ Played today", "✓ Jugado hoy") : X("Ready", "Listo")}${s ? ` · ${X(`${s}-day streak`, `racha de ${s} días`)}` : ""}</span></button>`;
       }).join("")}</div>
-      <h2>Your progress</h2>
-      <p class="qmeta">You've opened ${explored} of ${ctx.PEOPLE.length} people.</p>
+      <h2>${X("Your progress", "Tu progreso")}</h2>
+      <p class="qmeta">${X(`You've opened ${explored} of ${ctx.PEOPLE.length} people.`, `Has abierto ${explored} de ${ctx.PEOPLE.length} personas.`)}</p>
       <div class="badges">${badges.map((b) => `<div class="badge${b.got ? " got" : ""}"><b>${esc(b.name)}</b><span>${esc(b.desc)}</span></div>`).join("")}</div>
     </div>`;
   }

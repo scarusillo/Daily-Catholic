@@ -1,0 +1,2012 @@
+[
+ {
+  "id": "parish-registration",
+  "title": "Inscribirse en una parroquia",
+  "icon": "church",
+  "summary": "En Estados Unidos la mayoría de las parroquias llevan una lista de familias inscritas. El derecho de la Iglesia ya lo hace a usted miembro de la parroquia donde vive (su parroquia territorial), pero inscribirse es la manera en que una parroquia estadounidense realmente lo conoce. La inscripción suele ser lo primero que la parroquia pregunta cuando usted solicita un sacramento o una carta para ser padrino. Los requisitos de esta página combinan el derecho universal de la Iglesia con la práctica común en EE. UU. Las diócesis y parroquias varían, y el despacho parroquial tiene la última palabra.",
+  "timeline": "Inscríbase en cuanto se mude o empiece a asistir. Algunas parroquias piden que usted esté inscrito y activo durante algunos meses antes de expedir una carta de padrino o de programar una boda o un bautismo. Pregunte cuál es su período de espera.",
+  "contact": "El despacho parroquial (muchas parroquias también tienen un formulario de inscripción en línea en su sitio web)",
+  "documents": [
+   {
+    "name": "Formulario de inscripción",
+    "detail": "El formulario propio de la parroquia, en papel o en línea. Pide nombres, dirección, teléfono, correo electrónico y los sacramentos que ha recibido cada miembro de la familia.",
+    "where": "Despacho parroquial o sitio web de la parroquia",
+    "level": "common"
+   },
+   {
+    "name": "Dirección de su casa y datos de contacto",
+    "detail": "Su parroquia territorial se determina por el lugar donde usted vive. Algunas parroquias también inscriben a personas de fuera de sus límites.",
+    "where": "Usted",
+    "level": "common"
+   },
+   {
+    "name": "Fechas de nacimiento de cada miembro de la familia",
+    "detail": "Se usan para ubicar a los niños en la catequesis y para los registros de la parroquia",
+    "where": "Usted",
+    "level": "common"
+   },
+   {
+    "name": "Sacramentos recibidos y la parroquia de cada uno",
+    "detail": "Bautismo, Primera Comunión, Confirmación y Matrimonio, con el nombre y la ciudad de la parroquia donde se celebró cada uno. No necesita certificados para inscribirse, pero tenga estos datos a mano.",
+    "where": "Usted o su familia. Si no está seguro, la parroquia de bautismo puede confirmarlo",
+    "level": "common"
+   },
+   {
+    "name": "Información sobre el matrimonio",
+    "detail": "Fecha y lugar del matrimonio, y si fue por la Iglesia Católica. Indique también cualquier matrimonio anterior o declaración de nulidad, si corresponde.",
+    "where": "Usted",
+    "level": "if-applicable"
+   },
+   {
+    "name": "Información de los hijos",
+    "detail": "Nombres, fechas de nacimiento, escuelas y grados, y los sacramentos que ha recibido cada hijo",
+    "where": "Usted",
+    "level": "if-applicable"
+   },
+   {
+    "name": "Identificación con foto",
+    "detail": "Rara vez se necesita para la inscripción en sí, pero a veces la piden cuando usted recoge cartas de padrino o certificados",
+    "where": "Su identificación estatal o licencia de conducir",
+    "level": "if-applicable"
+   }
+  ],
+  "people": [],
+  "steps": [
+   "Averigüe cuál es su parroquia territorial. Use el buscador de parroquias en línea de su diócesis o llame a la oficina diocesana con su dirección. Puede optar por inscribirse en otra parroquia si esta lo acepta.",
+   "Llene el formulario de inscripción, en línea o en el despacho parroquial",
+   "Anote a cada miembro de la familia y los sacramentos que ha recibido cada uno",
+   "Opcional: inscríbase para los sobres de ofrenda o las donaciones en línea. Algunas parroquias consideran el uso regular de los sobres como prueba de que usted es un feligrés 'activo', y eso puede importar para las cartas de padrino.",
+   "Guarde el correo de confirmación o la carta de bienvenida, y avise al despacho cuando se mude o cambie su familia"
+  ],
+  "classes": "Ninguna",
+  "dayOf": [
+   "No hay ceremonia. Algunas parroquias celebran un evento o una Misa de bienvenida para 'nuevos feligreses' varias veces al año."
+  ],
+  "faq": [
+   {
+    "q": "¿Tengo que inscribirme para ser católico o para ir a Misa?",
+    "a": "No. Cualquier persona puede asistir a Misa en cualquier lugar, y el derecho de la Iglesia lo hace a usted miembro de su parroquia territorial por el lugar donde vive. La inscripción es una práctica administrativa de EE. UU. Sin embargo, las parroquias dependen mucho de ella, sobre todo para las cartas de padrino, la preparación sacramental, las colegiaturas de las escuelas católicas y las bodas."
+   },
+   {
+    "q": "¿Por qué mi parroquia dice que no soy lo bastante 'activo' para una carta de padrino?",
+    "a": "Muchas parroquias solo responden por personas que conocen. Pueden pedir que usted lleve algunos meses inscrito y asista con regularidad. Hable directamente con el párroco. Muchas veces él puede responder por usted si lo conoce."
+   },
+   {
+    "q": "¿Puedo inscribirme en una parroquia fuera de mi vecindario?",
+    "a": "Por lo general, sí. Muchas diócesis de EE. UU. le permiten inscribirse en cualquier parroquia que lo acepte. Pregunte en la parroquia."
+   }
+  ],
+  "sources": [
+   "Can. 102–107 (domicilio)",
+   "Can. 515–518 (parroquias)",
+   "Práctica parroquial común en EE. UU."
+  ]
+ },
+ {
+  "id": "sacramental-records",
+  "title": "Cómo obtener sus registros sacramentales (fe de bautismo 'con notas marginales')",
+  "icon": "document",
+  "summary": "Su registro católico oficial está en el libro de bautismos de la parroquia donde usted fue bautizado. La Confirmación, el Matrimonio, la ordenación, la profesión religiosa y las declaraciones de nulidad se anotan al margen de esa partida (Can. 535 §2). Una fe de bautismo 'con notas marginales' es una copia reciente de esa partida, incluidas las notas. La necesitará para el Matrimonio, la ordenación y la vida religiosa, y con frecuencia para la Confirmación, la OCIA o para ser padrino o madrina. Los requisitos de esta página combinan el derecho universal de la Iglesia con la práctica común en EE. UU. Las diócesis y parroquias varían, y el despacho parroquial tiene la última palabra.",
+  "timeline": "Solicítela con tiempo. Muchas parroquias responden en 1–3 semanas, pero las parroquias cerradas o fusionadas, las del extranjero y los archivos pueden tardar mucho más. Para una boda, la mayoría de las parroquias de EE. UU. quieren una fe de bautismo expedida en los últimos 6 meses, así que calcule la solicitud para que quede dentro de ese plazo.",
+  "contact": "El despacho parroquial de la parroquia donde usted fue bautizado. Si esa parroquia cerró o se fusionó, comuníquese con la parroquia que la sucedió o con el archivo diocesano o la cancillería.",
+  "documents": [
+   {
+    "name": "Solicitud por escrito o en línea",
+    "detail": "Muchas parroquias aceptan solicitudes por teléfono, correo electrónico o formulario en línea. Algunas piden una solicitud firmada por escrito. Indique para qué es el certificado (p. ej., 'para matrimonio'), porque eso les indica que deben incluir las notas marginales y expedir una copia con fecha reciente.",
+    "where": "Usted → parroquia de bautismo",
+    "level": "common"
+   },
+   {
+    "name": "Su nombre completo de bautismo",
+    "detail": "Dé el nombre exactamente como se habría registrado, incluido su apellido de nacimiento si ha cambiado desde entonces",
+    "where": "Usted",
+    "level": "common"
+   },
+   {
+    "name": "Fecha y lugar de nacimiento",
+    "detail": "Se usan para localizar la partida",
+    "where": "Usted o su acta de nacimiento",
+    "level": "common"
+   },
+   {
+    "name": "Fecha aproximada del bautismo",
+    "detail": "Por lo general basta con el año",
+    "where": "Familia o fotos del bautismo",
+    "level": "common"
+   },
+   {
+    "name": "Nombres completos de los padres, incluido el apellido de soltera de la madre",
+    "detail": "Los libros de bautismos se indexan de esta manera",
+    "where": "Usted o su familia",
+    "level": "common"
+   },
+   {
+    "name": "Identificación con foto",
+    "detail": "Algunas parroquias piden identificación antes de entregar un registro, sobre todo si usted lo recoge en persona",
+    "where": "Su identificación estatal o licencia de conducir",
+    "level": "if-applicable"
+   },
+   {
+    "name": "Dirección de envío o la dirección de la parroquia que lo recibe",
+    "detail": "Para el Matrimonio y otros usos oficiales, muchas parroquias envían el certificado directamente a la parroquia o al tribunal que lo solicita. Puede que se nieguen a entregárselo a usted, o que exijan que el sobre se mantenga sellado.",
+    "where": "Usted",
+    "level": "common"
+   },
+   {
+    "name": "Comprobante de cambio de nombre o de adopción",
+    "detail": "Solo si su nombre actual no coincide con el registro. Los registros de personas adoptadas se manejan de forma confidencial, así que espere pasos adicionales.",
+    "where": "Orden judicial o acta de matrimonio",
+    "level": "if-applicable"
+   },
+   {
+    "name": "Ofrenda",
+    "detail": "Algunas parroquias piden una pequeña ofrenda para cubrir el trámite o el envío. Pregunte en la parroquia. Muchas no cobran nada.",
+    "where": "Parroquia de bautismo",
+    "level": "if-applicable"
+   }
+  ],
+  "people": [],
+  "steps": [
+   "Averigüe dónde fue bautizado: nombre de la parroquia, ciudad y año aproximado. Los familiares, las velas y ropones de bautismo y las fotos suelen ayudar.",
+   "Busque la parroquia en línea. Si cerró o se fusionó, llame a la cancillería o al archivo de la diócesis y pregunte qué parroquia guarda ahora sus libros.",
+   "Comuníquese con el despacho parroquial y pida una 'fe de bautismo con notas marginales, de expedición reciente' para el fin que usted indique",
+   "Dé los datos de identificación que aparecen en la sección de documentos",
+   "Indique adónde debe enviarse: a usted, o directamente a la parroquia o al tribunal que la necesita",
+   "Revise el certificado cuando llegue: nombres, fechas y cualquier nota de Confirmación o de Matrimonio",
+   "Si fue bautizado en una instalación militar de EE. UU., comuníquese con la Arquidiócesis para los Servicios Militares, que guarda esos registros",
+   "Si fue bautizado fuera de EE. UU., escriba a esa parroquia o a su diócesis. Calcule más tiempo y pregunte si se necesitará una traducción."
+  ],
+  "classes": "Ninguna",
+  "dayOf": [
+   "No hay ceremonia. Si es para un matrimonio, verifique que el certificado lleve el sello de la parroquia y una fecha de expedición reciente."
+  ],
+  "faq": [
+   {
+    "q": "¿Por qué no puedo usar simplemente el certificado que recibieron mis padres en mi bautismo?",
+    "a": "Ese certificado de recuerdo solo registra el bautismo en sí. Una copia de expedición reciente muestra las notas marginales actuales (Confirmación, Matrimonio, etc.), que es la manera en que la Iglesia verifica, por ejemplo, que usted está libre para casarse."
+   },
+   {
+    "q": "¿Por qué debe estar expedida dentro de los últimos 6 meses para una boda?",
+    "a": "Es una práctica diocesana común en EE. UU., no un canon universal. Una copia reciente demuestra que no se ha anotado ningún matrimonio desde su expedición. Algunas diócesis usan otro plazo, así que pregunte en su parroquia."
+   },
+   {
+    "q": "No encuentro ningún registro de mi bautismo. ¿Qué hago?",
+    "a": "Dígaselo a su párroco. A veces el bautismo puede probarse con la declaración jurada de un testigo (por ejemplo, un padrino o uno de los padres que estuvo presente). Si de verdad no se puede comprobar el bautismo, el párroco le explicará las opciones, que pueden incluir el bautismo bajo condición."
+   },
+   {
+    "q": "¿Dónde queda registrada mi Confirmación?",
+    "a": "En el libro de confirmaciones de la parroquia donde usted fue confirmado. Esa parroquia también debe notificar a su parroquia de bautismo, que la anota en su partida de bautismo. Si falta la nota, la parroquia donde se confirmó puede expedir un certificado de Confirmación."
+   }
+  ],
+  "sources": [
+   "Can. 535 (libros parroquiales y notas marginales)",
+   "Can. 877 (inscripción del bautismo)",
+   "Can. 895 (inscripción de la confirmación)",
+   "Can. 1122 (anotación del matrimonio en el libro de bautismos)"
+  ]
+ },
+ {
+  "id": "infant-baptism",
+  "title": "Bautismo (bebés y niños pequeños)",
+  "icon": "water",
+  "summary": "El Bautismo es el primer sacramento. Libera del pecado, hace al niño miembro de Cristo y de la Iglesia, y abre el camino a los demás sacramentos. Los padres católicos tienen la obligación de hacer bautizar a sus hijos dentro de las primeras semanas después del nacimiento (Can. 867 §1). Los niños que ya han llegado al uso de razón, por lo general hacia los 7 años, siguen en cambio el camino de la OCIA para niños. Los requisitos de esta página combinan el derecho universal de la Iglesia con la práctica común en EE. UU. Las diócesis y parroquias varían, y el despacho parroquial tiene la última palabra.",
+  "timeline": "Comuníquese con la parroquia durante el embarazo o poco después del nacimiento. Calcule entre 1 y 3 meses para completar la plática y los trámites y obtener una fecha. Muchas parroquias bautizan en domingos fijos cada mes.",
+  "contact": "El despacho de su parroquia. Algunas parroquias tienen un coordinador de bautismos. Por lo general, su propia parroquia bautizará al niño (Can. 857 §2). Si desea el bautismo en otra parroquia, normalmente necesita el permiso de su propio párroco.",
+  "documents": [
+   {
+    "name": "Acta de nacimiento del niño",
+    "detail": "Copia del acta de nacimiento civil. La parroquia la usa para registrar con exactitud los nombres, la fecha y el lugar de nacimiento y los nombres de los padres.",
+    "where": "Oficina de registro civil (vital records) del estado o del condado (los papeles del hospital normalmente no bastan)",
+    "level": "common"
+   },
+   {
+    "name": "Formulario parroquial de inscripción para el bautismo",
+    "detail": "El formulario de la parroquia con los datos del niño y de los padres y el nombre o nombres elegidos, además de los nombres y parroquias de los padrinos",
+    "where": "Despacho parroquial o sitio web",
+    "level": "common"
+   },
+   {
+    "name": "Comprobante de inscripción parroquial de los padres",
+    "detail": "La mayoría de las parroquias bautizan a los hijos de familias inscritas y practicantes, o le preguntan por qué acude a ellas",
+    "where": "Su parroquia (vea 'Inscribirse en una parroquia')",
+    "level": "common"
+   },
+   {
+    "name": "Certificado(s) / carta(s) de idoneidad de los padrinos",
+    "detail": "Una por cada padrino o madrina que no esté inscrito en la parroquia donde se celebra el bautismo. Cada padrino la obtiene en su propia parroquia, y certifica que cumple el Can. 874. Muchas parroquias la quieren firmada en los últimos 6 meses.",
+    "where": "La propia parroquia de cada padrino",
+    "level": "common"
+   },
+   {
+    "name": "Información del testigo cristiano",
+    "detail": "Si un bautizado no católico participa como testigo cristiano, la parroquia puede pedir su nombre y su iglesia, y a veces una prueba de su bautismo",
+    "where": "El testigo",
+    "level": "if-applicable"
+   },
+   {
+    "name": "Constancia de haber completado la plática prebautismal de los padres",
+    "detail": "Se necesita si usted tomó la plática en otra parroquia",
+    "where": "Parroquia donde tomó la plática",
+    "level": "if-applicable"
+   },
+   {
+    "name": "Información sobre el matrimonio de los padres",
+    "detail": "Algunas parroquias preguntan si los padres se casaron, dónde y cuándo. El estado civil de los padres no impide el bautismo del niño, pero el párroco puede aprovecharlo como una oportunidad pastoral.",
+    "where": "Usted",
+    "level": "if-applicable"
+   },
+   {
+    "name": "Carta de permiso de su propio párroco",
+    "detail": "Solo si el bautismo se celebra fuera de su propia parroquia",
+    "where": "Su parroquia de inscripción o territorial",
+    "level": "if-applicable"
+   }
+  ],
+  "people": [
+   {
+    "role": "Padrino(s)",
+    "requirements": [
+     "Elegido por quien va a ser bautizado, por sus padres o (en su defecto) por el párroco, y dispuesto a desempeñar esa función (Can. 874 §1, 1°)",
+     "Tener al menos 16 años, a no ser que el obispo diocesano haya establecido otra edad o que el párroco conceda una excepción por causa justa (Can. 874 §1, 2°)",
+     "Ser católico, estar confirmado y haber recibido ya el Santísimo Sacramento de la Eucaristía (Can. 874 §1, 3°)",
+     "Llevar una vida congruente con la fe y con la función que va a asumir (Can. 874 §1, 3°); en la práctica de EE. UU. esto suele entenderse como asistir a Misa con regularidad y, si está casado, tener un matrimonio reconocido por la Iglesia",
+     "No estar afectado por una pena canónica legítimamente impuesta o declarada (Can. 874 §1, 4°)",
+     "No ser el padre o la madre de quien va a ser bautizado (Can. 874 §1, 5°)",
+     "Solo se requiere un padrino o una madrina; si son dos, deben ser un hombre y una mujer (Can. 873)"
+    ],
+    "documents": [
+     "Certificado de padrino / carta de idoneidad de la propia parroquia del padrino",
+     "Algunas parroquias también exigen que el padrino asista a la plática prebautismal"
+    ]
+   },
+   {
+    "role": "Testigo cristiano (opcional)",
+    "requirements": [
+     "Un cristiano bautizado de otra iglesia o comunidad, admitido solo junto con un padrino católico (Can. 874 §2)",
+     "Se registra como testigo, no como padrino"
+    ],
+    "documents": [
+     "A veces, prueba de bautismo. Pregunte en la parroquia."
+    ]
+   },
+   {
+    "role": "Padres",
+    "requirements": [
+     "Que al menos uno de los padres (o quien legítimamente haga sus veces) consienta en el bautismo (Can. 868 §1, 1°)",
+     "Debe haber esperanza fundada de que el niño será educado en la fe católica. Si esa esperanza falta por completo, el bautismo se difiere, no se niega, y el párroco explica el motivo (Can. 868 §1, 2°)."
+    ],
+    "documents": []
+   }
+  ],
+  "steps": [
+   "Inscríbase en su parroquia si aún no lo ha hecho",
+   "Llame al despacho parroquial durante el embarazo o justo después del nacimiento, y pregunte por las fechas de las pláticas y de los bautismos",
+   "Elija a los padrinos y pida a cada uno que solicite un certificado de padrino en su propia parroquia",
+   "Pida una copia del acta de nacimiento en cuanto el estado la expida",
+   "Asista a la plática de preparación bautismal para padres (con frecuencia se invita o se exige a los padrinos)",
+   "Entregue el formulario de inscripción, el acta de nacimiento y los certificados de los padrinos antes de la fecha límite de la parroquia",
+   "Confirme la fecha, la hora y si hay ensayo, y pregunte por las reglas para tomar fotografías",
+   "Después del bautismo, guarde el certificado que le entreguen. El registro oficial permanece de por vida en el libro parroquial."
+  ],
+  "classes": "Una plática de preparación bautismal para padres, a menudo una sola sesión de 1 a 3 horas. Algunas parroquias la dispensan para el segundo hijo y los siguientes si se tomó recientemente. Con frecuencia se anima o se exige a los padrinos que asistan. Algunas diócesis añaden una visita al hogar o una segunda sesión.",
+  "dayOf": [
+   "Llegue temprano. El celebrante puede recibirlos en la puerta o en el atrio.",
+   "Traiga una vestidura blanca para el niño (o se la proporcionan), y posiblemente una vela de bautismo. Muchas parroquias proporcionan la vela. Pregunte.",
+   "Los padrinos y los padres están de pie con el niño. El rito incluye la acogida y la imposición del nombre, las lecturas, la oración de exorcismo y la unción con el óleo de los catecúmenos, la renuncia al pecado y la profesión de fe, el bautismo (por inmersión o derramando agua), la unción con el santo crisma, la vestidura blanca, la vela encendida, y el Padrenuestro y la bendición.",
+   "Los bautismos pueden celebrarse durante la Misa dominical o en una ceremonia aparte, a menudo el domingo por la tarde",
+   "Es costumbre dar un estipendio u ofrenda; pregunte en la parroquia. Nunca suponga que hay una cuota fija.",
+   "Firme o verifique la partida en el libro si se lo piden, y recoja la fe de bautismo"
+  ],
+  "faq": [
+   {
+    "q": "¿Puede un no católico ser padrino?",
+    "a": "Un cristiano bautizado no católico puede participar como 'testigo cristiano' junto a un padrino católico, pero no como padrino (Can. 874 §2). Alguien que no está bautizado no puede desempeñar ninguna de las dos funciones."
+   },
+   {
+    "q": "¿Necesitamos dos padrinos?",
+    "a": "No. Basta con un padrino o una madrina. Si son dos, deben ser un hombre y una mujer (Can. 873)."
+   },
+   {
+    "q": "¿Y si el bebé está en peligro de muerte?",
+    "a": "Bautícelo sin demora (Can. 867 §2). Llame al capellán del hospital o a un sacerdote. En una emergencia cualquier persona, incluso un no católico, puede bautizar derramando agua sobre la cabeza mientras dice 'N., yo te bautizo en el nombre del Padre, y del Hijo, y del Espíritu Santo', con la intención de hacer lo que hace la Iglesia (Can. 861 §2). Después, avise a la parroquia para que se registre."
+   },
+   {
+    "q": "El matrimonio de los padres no está reconocido por la Iglesia. ¿Se puede bautizar a nuestro hijo de todos modos?",
+    "a": "Por lo general, sí. El bautismo del niño no está condicionado al estado civil de los padres. El párroco necesita una esperanza fundada de que el niño será educado como católico, y puede invitarlos a conversar sobre la convalidación."
+   },
+   {
+    "q": "¿Puede un padrino participar por medio de un representante?",
+    "a": "Muchas parroquias de EE. UU. permiten que un representante (por poder) sustituya a un padrino que no puede viajar. Se registra al padrino ausente, pero este debe cumplir los requisitos y presentar un certificado de padrino. Pregunte en su parroquia."
+   },
+   {
+    "q": "¿El niño necesita llevar nombre de santo?",
+    "a": "No. El derecho de la Iglesia solo pide que no se imponga un nombre ajeno al sentir cristiano (Can. 855)."
+   }
+  ],
+  "sources": [
+   "Can. 849–878",
+   "Can. 855",
+   "Can. 857",
+   "Can. 861",
+   "Can. 867–868",
+   "Can. 872–874",
+   "CIC 1213–1284",
+   "Ritual del Bautismo de los Niños"
+  ]
+ },
+ {
+  "id": "adult-baptism",
+  "title": "Bautismo (adultos y niños de más de unos 7 años)",
+  "icon": "water",
+  "summary": "Los adultos no bautizados, y los niños que han llegado al uso de razón (hacia los 7 años), se preparan por medio de la Orden de Iniciación Cristiana de Adultos (OCIA, antes RICA). Reciben juntos el Bautismo, la Confirmación y la Primera Comunión, normalmente en la Vigilia Pascual. Vea la sección de la OCIA para el proceso completo y los trámites. Los requisitos de esta página combinan el derecho universal de la Iglesia con la práctica común en EE. UU. Las diócesis y parroquias varían, y el despacho parroquial tiene la última palabra.",
+  "timeline": "Comuníquese con la parroquia en cualquier época del año. Muchas parroquias ofrecen sesiones de indagación todo el año. La formación suele durar al menos un año, y los sacramentos normalmente se celebran en la Vigilia Pascual.",
+  "contact": "El coordinador de la OCIA de su parroquia (antes llamada RICA) o el despacho parroquial",
+  "documents": [
+   {
+    "name": "Vea la sección de la OCIA",
+    "detail": "La lista completa (acta de nacimiento, historial matrimonial, carta del padrino, etc.) está en la sección de la OCIA",
+    "where": "—",
+    "level": "common"
+   },
+   {
+    "name": "Acta de nacimiento",
+    "detail": "Se usa para registrar su nombre legal y la fecha y el lugar de nacimiento",
+    "where": "Oficina de registro civil (vital records) del estado o del condado",
+    "level": "common"
+   },
+   {
+    "name": "Historial matrimonial",
+    "detail": "Si está casado o ha estado casado antes, esto debe revisarse, y cualquier matrimonio anterior debe resolverse, antes de que usted reciba los sacramentos",
+    "where": "Usted. Copias de actas de matrimonio, de divorcio y de defunción",
+    "level": "if-applicable"
+   }
+  ],
+  "people": [
+   {
+    "role": "Padrino / madrina",
+    "requirements": [
+     "Elegido por quien va a ser bautizado, por sus padres o (en su defecto) por el párroco, y dispuesto a desempeñar esa función (Can. 874 §1, 1°)",
+     "Tener al menos 16 años, a no ser que el obispo diocesano haya establecido otra edad o que el párroco conceda una excepción por causa justa (Can. 874 §1, 2°)",
+     "Ser católico, estar confirmado y haber recibido ya el Santísimo Sacramento de la Eucaristía (Can. 874 §1, 3°)",
+     "Llevar una vida congruente con la fe y con la función que va a asumir (Can. 874 §1, 3°); en la práctica de EE. UU. esto suele entenderse como asistir a Misa con regularidad y, si está casado, tener un matrimonio reconocido por la Iglesia",
+     "No estar afectado por una pena canónica legítimamente impuesta o declarada (Can. 874 §1, 4°)",
+     "No ser el padre o la madre de quien va a ser bautizado (Can. 874 §1, 5°)",
+     "Solo se requiere un padrino o una madrina; si son dos, deben ser un hombre y una mujer (Can. 873)"
+    ],
+    "documents": [
+     "Certificado de padrino de la propia parroquia del padrino, a menos que sea feligrés de la parroquia donde usted será bautizado"
+    ]
+   }
+  ],
+  "steps": [
+   "Comuníquese con el coordinador de la OCIA de la parroquia",
+   "Asista a las sesiones de indagación sin ningún compromiso",
+   "Siga las etapas de la OCIA descritas en la sección de la OCIA"
+  ],
+  "classes": "Formación de la OCIA (vea la sección de la OCIA)",
+  "dayOf": [
+   "Normalmente en la Vigilia Pascual: Bautismo, Confirmación y Primera Comunión en una sola celebración"
+  ],
+  "faq": [
+   {
+    "q": "¿Por qué mi hijo de 9 años no puede bautizarse simplemente como un bebé?",
+    "a": "El derecho de la Iglesia considera adulto para el bautismo a todo el que ha llegado al uso de razón (Can. 852 §1). El niño se prepara mediante la adaptación de la OCIA para niños, y normalmente recibe juntos los tres sacramentos de iniciación."
+   },
+   {
+    "q": "Fui bautizado en otra iglesia cristiana. ¿Tengo que bautizarme de nuevo?",
+    "a": "No. Un bautismo válido en otra iglesia cristiana nunca se repite. El bautismo bajo condición solo se celebra si hay una duda seria sobre su validez (Can. 869). En cambio, usted sería recibido en la plena comunión (vea la OCIA)."
+   }
+  ],
+  "sources": [
+   "Can. 851–852",
+   "Can. 863",
+   "Can. 865–866",
+   "Can. 869",
+   "CIC 1247–1249",
+   "Ritual de la Iniciación Cristiana de Adultos"
+  ]
+ },
+ {
+  "id": "first-reconciliation",
+  "title": "Primera Reconciliación (Primera Confesión)",
+  "icon": "key",
+  "summary": "En el Sacramento de la Penitencia, una persona bautizada confiesa sus pecados a un sacerdote y recibe la absolución. Los niños católicos hacen su primera confesión antes de su Primera Comunión (Can. 914). En EE. UU. esto suele ser en 2.º grado, hacia los 7 años. Los requisitos de esta página combinan el derecho universal de la Iglesia con la práctica común en EE. UU. Las diócesis y parroquias varían, y el despacho parroquial tiene la última palabra.",
+  "timeline": "Inscriba al niño en el programa parroquial de catequesis (o en el programa sacramental de la escuela católica) antes de que empiece el año escolar. La Primera Reconciliación se celebra normalmente entre el otoño y el invierno o en Cuaresma del año de preparación.",
+  "contact": "El Director de Educación Religiosa (DRE) de la parroquia o la oficina de formación en la fe, o la escuela católica si el niño asiste a una",
+  "documents": [
+   {
+    "name": "Fe de bautismo del niño",
+    "detail": "Se necesita si el niño fue bautizado en otra parroquia. Confirma que el niño está bautizado como católico e indica dónde está su registro.",
+    "where": "Parroquia de bautismo (vea 'Registros sacramentales')",
+    "level": "common"
+   },
+   {
+    "name": "Formulario de inscripción en la catequesis",
+    "detail": "Inscripción en el programa parroquial o en el programa sacramental de la escuela católica",
+    "where": "Oficina parroquial de formación en la fe",
+    "level": "common"
+   },
+   {
+    "name": "Comprobante del año anterior de catequesis",
+    "detail": "Muchas diócesis de EE. UU. exigen dos años consecutivos de formación: el año anterior más el año del sacramento. Los alumnos que vienen de otro programa pueden necesitar sus constancias.",
+    "where": "Programa parroquial anterior o escuela católica",
+    "level": "common"
+   },
+   {
+    "name": "Cuota del programa o pago de inscripción",
+    "detail": "Algunos programas de catequesis cobran una cuota de inscripción para cubrir los materiales. Los montos varían, y normalmente hay ayuda disponible. Pregunte en la parroquia.",
+    "where": "Oficina parroquial de formación en la fe",
+    "level": "if-applicable"
+   },
+   {
+    "name": "Inscripción en la parroquia",
+    "detail": "Muchos programas exigen que la familia esté inscrita",
+    "where": "Su parroquia",
+    "level": "common"
+   }
+  ],
+  "people": [
+   {
+    "role": "Padres/tutores",
+    "requirements": [
+     "Los padres son los primeros maestros de la fe. La mayoría de los programas exigen que los padres asistan a una o más reuniones de preparación.",
+     "Ayudar al niño a prepararse en casa (examen de conciencia, Acto de Contrición)"
+    ],
+    "documents": []
+   }
+  ],
+  "steps": [
+   "Inscriba a la familia en la parroquia si aún no lo ha hecho",
+   "Inscriba al niño en la catequesis o en el programa sacramental de la escuela católica, normalmente para 1.º y 2.º grado",
+   "Entregue la fe de bautismo si el niño fue bautizado en otro lugar",
+   "Asista a las reuniones de padres y complete las lecciones que se hacen en casa",
+   "Ayude al niño a aprender un Acto de Contrición y cómo se hace la confesión. Muchas parroquias dan a los niños una tarjeta para llevar.",
+   "Asista a la celebración programada de la Primera Reconciliación"
+  ],
+  "classes": "Normalmente forma parte de una preparación de 2 años (1.º y 2.º grado) en el programa parroquial o en la escuela católica, además de reuniones de padres. A los niños mayores que no la hicieron se les suele ubicar en una clase de recuperación o de 'preparación sacramental' adecuada a su edad.",
+  "dayOf": [
+   "Normalmente es una celebración penitencial parroquial: oración inicial, lectura de la Escritura, examen de conciencia, y luego cada niño se acerca individualmente a un sacerdote",
+   "El niño puede confesarse cara a cara o detrás de una rejilla, según la costumbre de la parroquia y de la diócesis",
+   "Lleve la tarjeta del Acto de Contrición si la parroquia les dio una",
+   "No se requiere ropa especial. Lo normal es la 'ropa de ir a misa'.",
+   "Algunas parroquias tienen una pequeña celebración después"
+  ],
+  "faq": [
+   {
+    "q": "¿Mi hijo necesita padrino para la Primera Reconciliación?",
+    "a": "No. Los padrinos son para el Bautismo y la Confirmación."
+   },
+   {
+    "q": "¿Lo que dice mi hijo se mantiene en secreto?",
+    "a": "Sí. El sigilo sacramental es absoluto. Un sacerdote nunca puede revelar lo que se le confiesa (Can. 983)."
+   },
+   {
+    "q": "Mi hijo es mayor y nunca hizo su primera confesión. ¿Es demasiado tarde?",
+    "a": "No. Comuníquese con el DRE. A los niños mayores se les ubica en un programa de preparación adecuado a su edad."
+   }
+  ],
+  "sources": [
+   "Can. 959–997",
+   "Can. 914",
+   "Can. 983",
+   "Can. 989",
+   "CIC 1422–1498",
+   "Ritual de la Penitencia"
+  ]
+ },
+ {
+  "id": "first-communion",
+  "title": "Primera Comunión",
+  "icon": "chalice",
+  "summary": "En la Eucaristía, los católicos reciben el Cuerpo y la Sangre de Cristo. Un niño católico bautizado recibe la Primera Comunión cuando ha llegado al uso de razón, tiene suficiente conocimiento y una preparación cuidadosa, y ha hecho antes la confesión sacramental (Can. 913–914). En EE. UU. esto suele ser en 2.º grado, a menudo en la primavera. Los requisitos de esta página combinan el derecho universal de la Iglesia con la práctica común en EE. UU. Las diócesis y parroquias varían, y el despacho parroquial tiene la última palabra.",
+  "timeline": "Inscríbase en la catequesis parroquial o en el programa de la escuela católica antes de que empiece el año escolar. La mayoría de las diócesis de EE. UU. esperan dos años consecutivos de formación. Las Misas de Primera Comunión suelen celebrarse en abril o mayo.",
+  "contact": "El Director de Educación Religiosa (DRE) de la parroquia o la oficina de formación en la fe, o la escuela católica",
+  "documents": [
+   {
+    "name": "Fe de bautismo del niño",
+    "detail": "Se necesita si el niño fue bautizado en otra parroquia. Muchas parroquias la piden incluso a sus propios feligreses para tener el registro en archivo.",
+    "where": "Parroquia de bautismo (vea 'Registros sacramentales')",
+    "level": "common"
+   },
+   {
+    "name": "Comprobante de la Primera Reconciliación",
+    "detail": "La primera confesión debe hacerse antes de la Primera Comunión (Can. 914). Solo se necesita si se hizo en otra parroquia.",
+    "where": "Parroquia donde el niño hizo la Primera Reconciliación",
+    "level": "if-applicable"
+   },
+   {
+    "name": "Inscripción y registro de asistencia a la catequesis",
+    "detail": "La inscripción en el programa y, a menudo, el comprobante del año anterior si el niño viene de otro programa",
+    "where": "Oficina parroquial de formación en la fe o programa anterior",
+    "level": "common"
+   },
+   {
+    "name": "Inscripción en la parroquia",
+    "detail": "Muchos programas exigen que la familia esté inscrita",
+    "where": "Su parroquia",
+    "level": "common"
+   },
+   {
+    "name": "Cuota del programa",
+    "detail": "Algunos programas cobran una cuota de inscripción o de materiales. Los montos varían, y normalmente hay ayuda disponible. Pregunte en la parroquia.",
+    "where": "Oficina parroquial de formación en la fe",
+    "level": "if-applicable"
+   },
+   {
+    "name": "Formulario de autorización de fotos o medios",
+    "detail": "Muchas parroquias restringen las fotografías y usan un solo fotógrafo contratado por la parroquia",
+    "where": "Parroquia",
+    "level": "if-applicable"
+   }
+  ],
+  "people": [
+   {
+    "role": "Padres/tutores",
+    "requirements": [
+     "Asistir a las reuniones de padres",
+     "Llevar al niño a la Misa dominical. Muchos programas piden a las familias que asistan con regularidad."
+    ],
+    "documents": []
+   }
+  ],
+  "steps": [
+   "Inscríbase en la parroquia e inscriba al niño en la catequesis (o en el programa de la escuela)",
+   "Entregue la fe de bautismo",
+   "Complete la Primera Reconciliación (normalmente en el mismo año)",
+   "Asista a las reuniones de padres, al día de retiro si lo hay, y al ensayo",
+   "Pregunte por el código de vestimenta, los lugares asignados y las reglas sobre fotografías",
+   "Celebre la Primera Comunión en la Misa asignada"
+  ],
+  "classes": "Normalmente es un programa de 2 años (1.º y 2.º grado) que incluye la Primera Reconciliación, a menudo con un día de retiro y un ensayo. Los niños con discapacidades tienen derecho a una adaptación adecuada. Hable con el DRE.",
+  "dayOf": [
+   "Llegue temprano para acomodarse y formarse en fila",
+   "Muchas parroquias piden que las niñas lleven vestido blanco (velo opcional) y los niños traje oscuro o camisa blanca y corbata. Siga el código de vestimenta de su parroquia.",
+   "El niño debe guardar el ayuno eucarístico de una hora antes de la Comunión (excepto agua y medicinas) (Can. 919 §1)",
+   "Los niños reciben la Comunión durante la Misa, en la lengua o en la mano",
+   "Con frecuencia se limitan las fotografías durante la Misa. Las fotos posadas suelen tomarse después.",
+   "Por lo general se entrega un certificado. El sacramento queda registrado en la parroquia."
+  ],
+  "faq": [
+   {
+    "q": "Mi hijo tiene enfermedad celíaca. ¿Puede comulgar?",
+    "a": "Sí. Pregunte en la parroquia por las hostias bajas en gluten aprobadas para la Misa, o por la posibilidad de comulgar solo del cáliz. Arréglelo antes del día."
+   },
+   {
+    "q": "¿Puede mi hijo hacer la Primera Comunión en la parroquia de algún familiar en otra ciudad?",
+    "a": "Con frecuencia sí, si se coordina. Por lo general, la parroquia donde se preparó debe confirmar que el niño está listo, y la parroquia que lo recibe debe estar de acuerdo. Empiece con tiempo."
+   },
+   {
+    "q": "¿Pueden comulgar en la Misa los familiares que no son católicos?",
+    "a": "Ordinariamente, no. Los invitados no católicos son bienvenidos a asistir y orar, y muchos pasan con los brazos cruzados para pedir una bendición, si la parroquia lo acostumbra. Las pautas de la USCCB para recibir la Comunión suelen estar impresas en los misalitos."
+   }
+  ],
+  "sources": [
+   "Can. 897–958",
+   "Can. 912–914",
+   "Can. 919",
+   "CIC 1322–1419"
+  ]
+ },
+ {
+  "id": "confirmation",
+  "title": "Confirmación (jóvenes)",
+  "icon": "dove",
+  "summary": "La Confirmación perfecciona la gracia bautismal con una efusión especial del Espíritu Santo, mediante la unción con el santo crisma por el obispo o por un sacerdote delegado por él. La USCCB permite la Confirmación entre la edad de la discreción y aproximadamente los 16 años, y cada diócesis fija su propia edad. Muchas confirman entre 7.º y 11.º grado, y algunas diócesis de 'orden restaurado' confirman hacia los 7 años, antes de la Primera Comunión. Los requisitos de esta página combinan el derecho universal de la Iglesia con la práctica común en EE. UU. Las diócesis y parroquias varían, y el despacho parroquial tiene la última palabra.",
+  "timeline": "Comuníquese con la pastoral juvenil o con el DRE de la parroquia con bastante anticipación al año de la Confirmación. Muchas diócesis exigen un programa de 1 a 2 años. La fecha de la ceremonia depende de la agenda del obispo y con frecuencia es en primavera.",
+  "contact": "El Director de Educación Religiosa (DRE) de la parroquia, el responsable de la pastoral juvenil o el coordinador de Confirmación",
+  "documents": [
+   {
+    "name": "Fe de bautismo",
+    "detail": "Prueba que el candidato está bautizado e indica a la parroquia adónde enviar la nota de la Confirmación. Muchas parroquias exigen una copia de expedición reciente si el bautismo fue en otro lugar.",
+    "where": "Parroquia de bautismo (vea 'Registros sacramentales')",
+    "level": "common"
+   },
+   {
+    "name": "Comprobante de la Primera Comunión",
+    "detail": "Se necesita si la Primera Comunión se recibió en otra parroquia",
+    "where": "Parroquia de la Primera Comunión",
+    "level": "if-applicable"
+   },
+   {
+    "name": "Formulario de inscripción en el programa",
+    "detail": "Inscripción en el programa parroquial de Confirmación",
+    "where": "Oficina parroquial de formación en la fe",
+    "level": "common"
+   },
+   {
+    "name": "Certificado de padrino / carta de idoneidad",
+    "detail": "De la propia parroquia del padrino, que certifica que cumple el Can. 874 (por remisión del Can. 893). No se necesita si el padrino está inscrito en la parroquia donde se celebra la Confirmación y esta puede verificarlo.",
+    "where": "Parroquia del padrino",
+    "level": "common"
+   },
+   {
+    "name": "Formulario del nombre de Confirmación",
+    "detail": "Muchas parroquias de EE. UU. piden a los candidatos que elijan el nombre de un santo y escriban una breve reflexión sobre él. Es una costumbre, no un requisito canónico. Algunos candidatos usan su nombre de bautismo, lo cual la Iglesia recomienda como vínculo con el bautismo.",
+    "where": "Candidato",
+    "level": "if-applicable"
+   },
+   {
+    "name": "Carta al párroco o al obispo",
+    "detail": "Algunos programas piden a los candidatos que escriban una carta solicitando la Confirmación",
+    "where": "Candidato",
+    "level": "if-applicable"
+   },
+   {
+    "name": "Registro de horas de servicio",
+    "detail": "Muchos programas exigen horas de servicio cristiano. La cantidad varía mucho.",
+    "where": "Candidato; firmado por la organización responsable",
+    "level": "if-applicable"
+   },
+   {
+    "name": "Permisos y formularios médicos para el retiro",
+    "detail": "Para el retiro obligatorio, si lo hay",
+    "where": "Pastoral juvenil de la parroquia",
+    "level": "if-applicable"
+   },
+   {
+    "name": "Cuota del programa",
+    "detail": "Algunos programas cobran por los materiales y los retiros. Pregunte por el monto y si hay ayuda disponible.",
+    "where": "Parroquia",
+    "level": "if-applicable"
+   }
+  ],
+  "people": [
+   {
+    "role": "Padrino o madrina de Confirmación",
+    "requirements": [
+     "Elegido por quien va a ser bautizado, por sus padres o (en su defecto) por el párroco, y dispuesto a desempeñar esa función (Can. 874 §1, 1°)",
+     "Tener al menos 16 años, a no ser que el obispo diocesano haya establecido otra edad o que el párroco conceda una excepción por causa justa (Can. 874 §1, 2°)",
+     "Ser católico, estar confirmado y haber recibido ya el Santísimo Sacramento de la Eucaristía (Can. 874 §1, 3°)",
+     "Llevar una vida congruente con la fe y con la función que va a asumir (Can. 874 §1, 3°); en la práctica de EE. UU. esto suele entenderse como asistir a Misa con regularidad y, si está casado, tener un matrimonio reconocido por la Iglesia",
+     "No estar afectado por una pena canónica legítimamente impuesta o declarada (Can. 874 §1, 4°)",
+     "No ser el padre o la madre de quien va a ser bautizado (Can. 874 §1, 5°)",
+     "Se aplican los mismos requisitos que para el padrino de bautismo (Can. 893 §1)",
+     "Es conveniente escoger a uno de los padrinos de bautismo (Can. 893 §2)",
+     "Solo se necesita un padrino. A diferencia del bautismo, en la Confirmación no existe la regla de los dos padrinos."
+    ],
+    "documents": [
+     "Certificado de padrino / carta de idoneidad de la propia parroquia del padrino"
+    ]
+   }
+  ],
+  "steps": [
+   "Asegúrese de que la familia esté inscrita en la parroquia",
+   "Inscríbase en el programa de Confirmación y entregue la fe de bautismo",
+   "Elija un padrino y pídale que solicite un certificado de padrino en su parroquia",
+   "Complete las clases, el retiro y las horas de servicio o entrevistas que se pidan",
+   "Elija un nombre de Confirmación si su parroquia sigue esa costumbre",
+   "Confiésese antes de la Misa de Confirmación (muy recomendado y normalmente programado)",
+   "Asista al ensayo",
+   "Reciba la Confirmación del obispo (o de un sacerdote delegado)"
+  ],
+  "classes": "Por lo general, 1 a 2 años de formación, que a menudo incluyen un retiro, una entrevista con el párroco o el DRE, y servicio. Los requisitos varían mucho según la diócesis.",
+  "dayOf": [
+   "Use ropa formal y modesta. Algunas parroquias usan túnicas rojas o blancas.",
+   "El padrino se coloca detrás del candidato con la mano derecha sobre su hombro",
+   "El nombre elegido por el candidato se le da al obispo, con frecuencia en una tarjeta",
+   "El obispo unge la frente con el santo crisma: 'N., recibe por esta señal el Don del Espíritu Santo.' El candidato responde 'Amén.' Obispo: 'La paz esté contigo.' Candidato: 'Y con tu espíritu.'",
+   "En algunas parroquias es costumbre dar un estipendio u ofrenda para ciertos gastos; pregunte en la parroquia.",
+   "La Confirmación se registra y se envía una nota a la parroquia de bautismo"
+  ],
+  "faq": [
+   {
+    "q": "¿Puede uno de los padres ser el padrino de Confirmación?",
+    "a": "No. El padrino no puede ser el padre ni la madre del candidato (Can. 874 §1, 5°, aplicado por el Can. 893 §1)."
+   },
+   {
+    "q": "¿Mi padrino de Confirmación puede ser uno de mis padrinos de bautismo?",
+    "a": "Sí, y la Iglesia lo recomienda (Can. 893 §2)."
+   },
+   {
+    "q": "¿Puede un no católico ser padrino de Confirmación?",
+    "a": "No. El padrino debe ser un católico confirmado que haya recibido la Eucaristía."
+   },
+   {
+    "q": "¿Qué es el 'orden restaurado'?",
+    "a": "Algunas diócesis de EE. UU. confirman a los niños hacia los 7 años y después les dan la Primera Comunión, restaurando el orden histórico Bautismo–Confirmación–Eucaristía. La norma de su diócesis decide cuál se aplica."
+   }
+  ],
+  "sources": [
+   "Can. 879–896",
+   "Can. 891",
+   "Can. 892–893",
+   "CIC 1285–1321",
+   "Ritual de la Confirmación",
+   "Norma complementaria de la USCCB sobre el Can. 891"
+  ]
+ },
+ {
+  "id": "adult-confirmation",
+  "title": "Confirmación de adultos (católicos bautizados)",
+  "icon": "dove",
+  "summary": "Para católicos bautizados en la Iglesia que no se confirmaron en su adolescencia. Algunos tampoco hicieron la Primera Comunión. El derecho de la Iglesia pide a los católicos que aún no están confirmados que reciban la Confirmación antes del matrimonio, si puede hacerse sin grave incomodidad (Can. 1065 §1). Muchos adultos la buscan antes de una boda o antes de ser padrinos. Los adultos no bautizados, y los cristianos bautizados de otras iglesias, siguen en cambio el camino de la OCIA. Los requisitos de esta página combinan el derecho universal de la Iglesia con la práctica común en EE. UU. Las diócesis y parroquias varían, y el despacho parroquial tiene la última palabra.",
+  "timeline": "Comuníquese con la parroquia con varios meses de anticipación. Muchas diócesis celebran una Misa de Confirmación de adultos al año, a menudo cerca de Pentecostés, y las parroquias pueden confirmar adultos en la Vigilia Pascual o en una Misa diocesana.",
+  "contact": "El despacho parroquial, el director de formación de adultos o el coordinador de la OCIA (muchas parroquias preparan a estos adultos junto con la OCIA)",
+  "documents": [
+   {
+    "name": "Fe de bautismo con notas marginales, de expedición reciente",
+    "detail": "Prueba el bautismo católico y muestra si ya están registrados la Confirmación o el Matrimonio",
+    "where": "Parroquia de bautismo (vea 'Registros sacramentales')",
+    "level": "common"
+   },
+   {
+    "name": "Comprobante de la Primera Comunión",
+    "detail": "Si la recibió en otro lugar. Si nunca hizo la Primera Comunión, dígaselo a la parroquia para que se incluya en su preparación.",
+    "where": "Parroquia de la Primera Comunión",
+    "level": "if-applicable"
+   },
+   {
+    "name": "Inscripción en la parroquia",
+    "detail": "La mayoría de las parroquias preparan a sus propios feligreses inscritos",
+    "where": "Su parroquia",
+    "level": "common"
+   },
+   {
+    "name": "Información sobre el matrimonio",
+    "detail": "Si está casado, la parroquia preguntará si el matrimonio está reconocido por la Iglesia. Por lo general, un adulto casado debe estar en un matrimonio válido, o convalidarlo primero, antes de la Confirmación.",
+    "where": "Acta(s) de matrimonio. Decreto de nulidad si estuvo casado antes.",
+    "level": "if-applicable"
+   },
+   {
+    "name": "Certificado de padrino / carta de idoneidad",
+    "detail": "De la parroquia del padrino",
+    "where": "Parroquia del padrino",
+    "level": "common"
+   },
+   {
+    "name": "Carta de solicitud o formulario de entrevista",
+    "detail": "Algunas parroquias piden a los adultos que escriban una breve carta o que se reúnan con el párroco",
+    "where": "Usted",
+    "level": "if-applicable"
+   }
+  ],
+  "people": [
+   {
+    "role": "Padrino o madrina de Confirmación",
+    "requirements": [
+     "Elegido por quien va a ser bautizado, por sus padres o (en su defecto) por el párroco, y dispuesto a desempeñar esa función (Can. 874 §1, 1°)",
+     "Tener al menos 16 años, a no ser que el obispo diocesano haya establecido otra edad o que el párroco conceda una excepción por causa justa (Can. 874 §1, 2°)",
+     "Ser católico, estar confirmado y haber recibido ya el Santísimo Sacramento de la Eucaristía (Can. 874 §1, 3°)",
+     "Llevar una vida congruente con la fe y con la función que va a asumir (Can. 874 §1, 3°); en la práctica de EE. UU. esto suele entenderse como asistir a Misa con regularidad y, si está casado, tener un matrimonio reconocido por la Iglesia",
+     "No estar afectado por una pena canónica legítimamente impuesta o declarada (Can. 874 §1, 4°)",
+     "No ser el padre o la madre de quien va a ser bautizado (Can. 874 §1, 5°)",
+     "Los mismos requisitos que para el padrino de bautismo (Can. 893 §1). No puede ser su padre ni su madre, pero sí su cónyuge si cumple los requisitos."
+    ],
+    "documents": [
+     "Certificado de padrino / carta de idoneidad de la propia parroquia del padrino"
+    ]
+   }
+  ],
+  "steps": [
+   "Solicite su fe de bautismo con notas marginales",
+   "Comuníquese con la parroquia y pregunte por la preparación para la Confirmación de adultos y la próxima fecha",
+   "Si corresponde, resuelva primero con el párroco cualquier situación matrimonial",
+   "Elija un padrino, quien solicitará un certificado de padrino",
+   "Complete las sesiones de preparación",
+   "Confiésese antes de la Confirmación",
+   "Reciba la Confirmación en la parroquia, en la Vigilia Pascual o en la Misa diocesana de Confirmación de adultos"
+  ],
+  "classes": "Sesiones para adultos, a menudo semanales durante algunos meses, a veces junto con la OCIA. El contenido y la duración varían mucho.",
+  "dayOf": [
+   "Use ropa formal y modesta",
+   "El padrino pone la mano derecha sobre su hombro mientras a usted lo ungen con el santo crisma",
+   "En algunas parroquias es costumbre dar un estipendio u ofrenda; pregunte en la parroquia.",
+   "La parroquia registra la Confirmación y notifica a su parroquia de bautismo"
+  ],
+  "faq": [
+   {
+    "q": "¿Tengo que estar confirmado para casarme por la Iglesia?",
+    "a": "El derecho de la Iglesia dice que los católicos no confirmados deben recibir la Confirmación antes del matrimonio si puede hacerse sin grave incomodidad (Can. 1065 §1). Muchas parroquias de EE. UU. la organizan durante la preparación matrimonial, pero no es una condición para la validez del matrimonio. Pregunte en su parroquia."
+   },
+   {
+    "q": "¿Tengo que estar confirmado para ser padrino?",
+    "a": "Sí. El padrino debe ser un católico confirmado (Can. 874 §1, 3°)."
+   },
+   {
+    "q": "Fui bautizado católico pero me crié en otra iglesia. ¿Qué camino debo seguir?",
+    "a": "Normalmente, la Confirmación de adultos, a menudo dentro del grupo parroquial de la OCIA para católicos bautizados. Usted no hace una 'recepción en la plena comunión'. Hable con el coordinador."
+   }
+  ],
+  "sources": [
+   "Can. 879–896",
+   "Can. 893",
+   "Can. 1065",
+   "CIC 1285–1321"
+  ]
+ },
+ {
+  "id": "marriage",
+  "title": "Matrimonio (dos católicos)",
+  "icon": "rings",
+  "summary": "Entre dos bautizados, el matrimonio es un sacramento: una alianza exclusiva, para toda la vida y abierta a los hijos. Los católicos se casan válidamente cuando intercambian el consentimiento ante un sacerdote o diácono y dos testigos (forma canónica, Can. 1108). Antes de la boda, la Iglesia debe constatar que nada se opone a la celebración válida y lícita del matrimonio (Can. 1066). Los requisitos de esta página combinan el derecho universal de la Iglesia con la práctica común en EE. UU. Las diócesis y parroquias varían, y el despacho parroquial tiene la última palabra.",
+  "timeline": "Comuníquese con la parroquia ANTES de reservar el salón de la recepción. La mayoría de las diócesis de EE. UU. exigen al menos 6 meses de aviso (algunas 8–12). Las fechas de Misa y de la iglesia se llenan pronto. Calcule más tiempo si alguno de los dos estuvo casado antes.",
+  "contact": "El despacho parroquial, normalmente la parroquia de la novia o del novio. El sacerdote o diácono que asistirá al matrimonio se encarga de la investigación prematrimonial.",
+  "documents": [
+   {
+    "name": "Fe de bautismo con notas marginales, expedida en los últimos 6 meses (cada contrayente católico)",
+    "detail": "Muestra el bautismo, la Confirmación y la libertad para casarse (sin matrimonio anterior anotado). La práctica habitual en EE. UU. es una fe de bautismo expedida dentro de los 6 meses anteriores a la solicitud o a la boda.",
+    "where": "La parroquia de bautismo de cada contrayente (vea 'Registros sacramentales')",
+    "level": "common"
+   },
+   {
+    "name": "Cuestionario prenupcial / expediente matrimonial",
+    "detail": "Cada contrayente responde preguntas, normalmente por separado y a menudo bajo juramento, sobre su libertad para casarse, su comprensión del matrimonio y sus intenciones respecto a la permanencia, la fidelidad y los hijos. Así cumple la parroquia los Can. 1066–1067.",
+    "where": "Se completa con el sacerdote o diácono",
+    "level": "church-law"
+   },
+   {
+    "name": "Declaraciones juradas de libertad para casarse",
+    "detail": "Normalmente 1–2 por contrayente, a menudo de uno de los padres o de un amigo de muchos años, que atestiguan que usted nunca se ha casado. Algunas diócesis las exigen, sobre todo cuando la fe de bautismo no puede ser reciente.",
+    "where": "Testigos que lo conocen casi toda su vida; los formularios los da la parroquia",
+    "level": "common"
+   },
+   {
+    "name": "Comprobante de la Confirmación",
+    "detail": "Si no aparece anotada en la fe de bautismo. A los católicos no confirmados se les pide que se confirmen antes del matrimonio si es posible sin grave incomodidad (Can. 1065 §1).",
+    "where": "Parroquia de la Confirmación",
+    "level": "if-applicable"
+   },
+   {
+    "name": "Constancia de la preparación matrimonial",
+    "detail": "Prueba de que asistieron al programa requerido (p. ej., pláticas prematrimoniales o Pre-Caná, Encuentro de Novios, un programa con un matrimonio guía)",
+    "where": "El organizador del programa",
+    "level": "common"
+   },
+   {
+    "name": "Resultados del inventario prematrimonial",
+    "detail": "Muchas diócesis usan un inventario como FOCCUS o PREPARE/ENRICH, que se revisa con el sacerdote, el diácono o un matrimonio guía",
+    "where": "Lo aplica la parroquia",
+    "level": "common"
+   },
+   {
+    "name": "Constancia de la clase de Planificación Familiar Natural",
+    "detail": "Varias diócesis de EE. UU. exigen una clase introductoria de PFN. Otras solo la recomiendan.",
+    "where": "Oficina diocesana de PFN o un instructor aprobado",
+    "level": "if-applicable"
+   },
+   {
+    "name": "Licencia de matrimonio civil",
+    "detail": "La ley de cada estado de EE. UU. la exige para que el sacerdote o diácono celebre un matrimonio con efectos civiles. Las reglas y los plazos de vigencia varían según el estado y el condado. Entréguela al celebrante antes de la ceremonia.",
+    "where": "Secretario del condado (county clerk) del estado donde se celebra la boda",
+    "level": "common"
+   },
+   {
+    "name": "Decreto de declaración de nulidad (anulación)",
+    "detail": "Se requiere por cada matrimonio anterior de cualquiera de los dos, incluso un matrimonio solo civil o no católico, a menos que la Iglesia ya haya determinado que fue inválido por otra razón",
+    "where": "El tribunal diocesano que llevó la causa",
+    "level": "if-applicable"
+   },
+   {
+    "name": "Acta de defunción del cónyuge anterior",
+    "detail": "Si alguno de los dos es viudo",
+    "where": "Oficina de registro civil (vital records)",
+    "level": "if-applicable"
+   },
+   {
+    "name": "Sentencia definitiva de divorcio civil",
+    "detail": "Por cualquier matrimonio anterior. Normalmente se pide junto con el decreto de nulidad.",
+    "where": "El tribunal civil que concedió el divorcio",
+    "level": "if-applicable"
+   },
+   {
+    "name": "Delegación / carta de permiso",
+    "detail": "Si la boda es en una parroquia que no es la de ninguno de los dos, o con un sacerdote o diácono visitante, o si el expediente se prepara en una diócesis y la boda es en otra (el expediente se envía a través de las cancillerías)",
+    "where": "Lo tramitan las parroquias involucradas",
+    "level": "if-applicable"
+   },
+   {
+    "name": "Licencia para casos especiales (Can. 1071)",
+    "detail": "Se necesita la licencia del Ordinario del lugar en ciertas situaciones, por ejemplo: obligaciones nacidas de una unión anterior (como hacia los hijos de esa unión); uno de los contrayentes ha abandonado notoriamente la fe católica; un matrimonio que no puede ser reconocido por la ley civil; o un menor que se casa sin que lo sepan sus padres o contra su oposición razonable",
+    "where": "La parroquia la solicita a la diócesis",
+    "level": "if-applicable"
+   },
+   {
+    "name": "Formulario de planificación de la boda / hoja de la liturgia",
+    "detail": "Su elección de lecturas, música y ministros, según el Ritual de la Celebración del Matrimonio",
+    "where": "Parroquia",
+    "level": "common"
+   }
+  ],
+  "people": [
+   {
+    "role": "Dos testigos (p. ej., la dama de honor y el padrino de boda)",
+    "requirements": [
+     "Se requieren dos testigos para la validez (Can. 1108 §1)",
+     "Deben poder entender lo que están presenciando. No tienen que ser católicos.",
+     "La ley estatal puede fijar sus propias reglas para los testigos de la licencia (edad, número)"
+    ],
+    "documents": [
+     "Por lo general, ninguno para la Iglesia. Sus nombres completos se anotan en el libro y en la licencia civil."
+    ]
+   },
+   {
+    "role": "Celebrante (sacerdote o diácono)",
+    "requirements": [
+     "Debe tener la facultad de asistir a matrimonios en el lugar de la boda, o la delegación del párroco o del Ordinario del lugar"
+    ],
+    "documents": [
+     "Delegación, si es un sacerdote o diácono visitante"
+    ]
+   }
+  ],
+  "steps": [
+   "Llame a la parroquia antes de reservar cualquier otra cosa y solicite una fecha",
+   "Reúnanse con el sacerdote o diácono para una entrevista inicial",
+   "Pidan las fes de bautismo con notas marginales, calculando que se expidan dentro del plazo de 6 meses",
+   "Completen el cuestionario prenupcial y reúnan las declaraciones juradas de libertad para casarse",
+   "Si alguno de los dos estuvo casado antes, inicien PRIMERO el proceso de nulidad. No pueden fijar una fecha definitiva para la boda hasta que se emita el decreto.",
+   "Completen el inventario prematrimonial y el programa de preparación matrimonial, más la PFN si se exige",
+   "Planeen la liturgia: lecturas, música, y si será con Misa o una ceremonia sin Misa",
+   "Obtengan la licencia de matrimonio civil dentro del plazo de vigencia de su estado y entréguenla al celebrante",
+   "Asistan al ensayo",
+   "Después de la boda, la parroquia registra el matrimonio y lo notifica a la parroquia de bautismo de cada contrayente católico"
+  ],
+  "classes": "Normalmente un programa de preparación matrimonial (un día de Pre-Caná, un fin de semana de Encuentro de Novios, un programa en línea o varias sesiones con un matrimonio guía), un inventario prematrimonial y reuniones con el sacerdote o diácono. Algunas diócesis añaden una clase de PFN.",
+  "dayOf": [
+   "Traigan la licencia de matrimonio civil si el celebrante aún no la tiene",
+   "Los testigos, la pareja y el celebrante firman el libro parroquial y la licencia civil",
+   "La ceremonia puede ser dentro o fuera de la Misa. El consentimiento se intercambia ante el sacerdote o diácono y dos testigos.",
+   "Es costumbre dar un estipendio u ofrenda a la iglesia, y a menudo aparte al sacerdote o diácono, a los músicos y a otro personal; pregunte en la parroquia.",
+   "Revisen las reglas de la parroquia sobre fotografías, flores, alfombras para el pasillo y decoración"
+  ],
+  "faq": [
+   {
+    "q": "¿Podemos casarnos al aire libre o en el salón de la fiesta?",
+    "a": "Ordinariamente, el matrimonio entre católicos se celebra en una iglesia parroquial (Can. 1118 §1). Otro lugar conveniente requiere la licencia del Ordinario del lugar o del párroco, y muchas diócesis de EE. UU. rara vez la conceden para salones de eventos. Pregunten con tiempo."
+   },
+   {
+    "q": "¿Por qué necesitamos una fe de bautismo expedida en los últimos 6 meses?",
+    "a": "Cualquier matrimonio anterior quedaría anotado en la partida de bautismo. Una copia reciente confirma que desde entonces no se ha anotado ningún matrimonio. El plazo de 6 meses es práctica común en EE. UU., así que consulten con su diócesis."
+   },
+   {
+    "q": "Ya vivimos juntos. ¿Aun así podemos casarnos por la Iglesia?",
+    "a": "Sí. Su sacerdote o diácono lo hablará con ustedes pastoralmente. No es un impedimento canónico."
+   },
+   {
+    "q": "¿Hay que pagar algo?",
+    "a": "Las parroquias suelen pedir una ofrenda por el uso de la iglesia y por el personal. Los montos varían. Es costumbre dar un estipendio u ofrenda; pregunte en la parroquia."
+   }
+  ],
+  "sources": [
+   "Can. 1055–1165",
+   "Can. 1063",
+   "Can. 1065",
+   "Can. 1066–1071",
+   "Can. 1108",
+   "Can. 1115–1118",
+   "Can. 1121–1122",
+   "CIC 1601–1666",
+   "Ritual de la Celebración del Matrimonio"
+  ]
+ },
+ {
+  "id": "marriage-interfaith",
+  "title": "Matrimonio: católico y no católico (matrimonio mixto / disparidad de culto)",
+  "icon": "rings",
+  "summary": "Un católico puede casarse por la Iglesia con una persona no católica. Los trámites dependen de si la persona no católica está bautizada. Un católico que se casa con un cristiano bautizado no católico necesita LICENCIA para un 'matrimonio mixto' (Can. 1124). Ese matrimonio es sacramento. Un católico que se casa con una persona no bautizada necesita DISPENSA del impedimento de disparidad de culto (Can. 1086). Sin ella, el matrimonio es inválido. En ambos casos se necesita además una dispensa de la forma canónica si la boda no se celebrará ante un sacerdote o diácono católico (Can. 1127 §2). Los requisitos de esta página combinan el derecho universal de la Iglesia con la práctica común en EE. UU. Las diócesis y parroquias varían, y el despacho parroquial tiene la última palabra.",
+  "timeline": "Comuníquese con la parroquia con al menos 6 meses de anticipación (muchas diócesis lo exigen), y antes aún si se necesita dispensa de la forma o si alguno de los dos estuvo casado antes. Las solicitudes de licencia y de dispensa pasan por la diócesis, lo cual puede tardar varias semanas.",
+  "contact": "El despacho de la parroquia del contrayente católico. El sacerdote o diácono prepara el expediente y presenta las solicitudes a la diócesis (cancillería).",
+  "documents": [
+   {
+    "name": "Contrayente católico: fe de bautismo con notas marginales, expedida en los últimos 6 meses",
+    "detail": "Prueba del bautismo católico y de la libertad para casarse",
+    "where": "Parroquia de bautismo del contrayente católico",
+    "level": "common"
+   },
+   {
+    "name": "Contrayente no católico: prueba de bautismo",
+    "detail": "Si la persona no católica dice estar bautizada: un certificado de bautismo de su iglesia, o una declaración jurada de uno de sus padres o de un testigo si no existe registro. Esto decide si se necesita licencia (bautizado) o dispensa (no bautizado). La parroquia confirma que el bautismo fue válido (agua + fórmula trinitaria).",
+    "where": "La iglesia donde fue bautizado el contrayente no católico",
+    "level": "if-applicable"
+   },
+   {
+    "name": "Contrayente no católico: declaración jurada de no bautismo",
+    "detail": "Si no está bautizado: con frecuencia una declaración firmada por el interesado, a veces con la declaración de uno de sus padres",
+    "where": "Formulario de la parroquia",
+    "level": "if-applicable"
+   },
+   {
+    "name": "Cuestionario prenupcial (ambos contrayentes)",
+    "detail": "Como en cualquier matrimonio católico (Can. 1066–1067)",
+    "where": "Con el sacerdote o diácono",
+    "level": "church-law"
+   },
+   {
+    "name": "Declaraciones juradas de libertad para casarse (ambos contrayentes)",
+    "detail": "Declaraciones de testigos de que ninguno de los dos se ha casado antes. Son especialmente importantes para el contrayente no católico, que no tiene una partida católica con notas marginales.",
+    "where": "Padres o amigos de muchos años; formularios de la parroquia",
+    "level": "common"
+   },
+   {
+    "name": "Solicitud de licencia para un matrimonio mixto (Can. 1124)",
+    "detail": "Católico + bautizado no católico. El párroco la presenta al Ordinario del lugar.",
+    "where": "La prepara la parroquia",
+    "level": "church-law"
+   },
+   {
+    "name": "Solicitud de dispensa de disparidad de culto (Can. 1086)",
+    "detail": "Católico + persona no bautizada. Se necesita para la validez.",
+    "where": "La prepara la parroquia",
+    "level": "church-law"
+   },
+   {
+    "name": "Declaración y promesa del contrayente católico (Can. 1125)",
+    "detail": "El católico declara que está dispuesto a evitar cualquier peligro de apartarse de la fe, y promete sinceramente hacer cuanto le sea posible para que todos los hijos sean bautizados y educados en la Iglesia Católica. El contrayente no católico NO promete nada, pero debe ser informado de la promesa del católico. En EE. UU. normalmente se firma (oralmente o por escrito según las normas de la conferencia episcopal, Can. 1126).",
+    "where": "Formulario de la parroquia",
+    "level": "church-law"
+   },
+   {
+    "name": "Solicitud de dispensa de la forma canónica (Can. 1127 §2)",
+    "detail": "Solo si la boda la celebrará un ministro no católico o un oficiante civil, o si se celebra en un templo no católico. El Ordinario del lugar la concede por causa grave, y aun así se requiere alguna forma pública.",
+    "where": "La prepara la parroquia",
+    "level": "if-applicable"
+   },
+   {
+    "name": "Decreto de nulidad / acta de defunción / sentencia de divorcio",
+    "detail": "Por cualquier matrimonio anterior de CUALQUIERA de los dos, incluido el matrimonio anterior del no católico, aunque nunca se haya celebrado en una iglesia católica",
+    "where": "Tribunal eclesiástico / registro civil / tribunal civil",
+    "level": "if-applicable"
+   },
+   {
+    "name": "Constancias de la preparación matrimonial y del inventario",
+    "detail": "Como en cualquier matrimonio católico. Algunos programas ofrecen sesiones para parejas de distintas iglesias o religiones.",
+    "where": "Organizador del programa",
+    "level": "common"
+   },
+   {
+    "name": "Licencia de matrimonio civil",
+    "detail": "La ley estatal la exige para que la boda tenga efectos civiles",
+    "where": "Secretario del condado (county clerk)",
+    "level": "common"
+   }
+  ],
+  "people": [
+   {
+    "role": "Dos testigos",
+    "requirements": [
+     "Se requieren dos testigos (Can. 1108)",
+     "No tienen que ser católicos"
+    ],
+    "documents": []
+   },
+   {
+    "role": "Ministro no católico (opcional)",
+    "requirements": [
+     "Con dispensa de la forma, un ministro no católico puede presidir. Sin ella, un ministro no católico puede participar (p. ej., una lectura, una oración o una bendición), pero es el sacerdote o diácono católico quien recibe el consentimiento."
+    ],
+    "documents": [
+     "Dispensa de la forma canónica, si el ministro va a presidir"
+    ]
+   }
+  ],
+  "steps": [
+   "Comuníquense con tiempo con la parroquia del contrayente católico",
+   "Determinen si el contrayente no católico está bautizado. Esto decide si necesitan licencia o dispensa.",
+   "Reúnan los certificados y las declaraciones juradas de ambos",
+   "Resuelvan primero ante el tribunal cualquier matrimonio anterior de cualquiera de los dos",
+   "El contrayente católico hace la declaración y la promesa (Can. 1125). Se informa de ella al contrayente no católico.",
+   "El párroco presenta a la diócesis la(s) solicitud(es) de licencia y/o dispensa",
+   "Si se casan en la iglesia del otro contrayente o con su ministro presidiendo, soliciten la dispensa de la forma canónica",
+   "Completen la preparación matrimonial",
+   "Planeen la liturgia. La boda entre un católico y un no católico suele celebrarse sin Misa. A veces es posible una Misa para un católico y un cristiano bautizado. Pregunten en su parroquia.",
+   "Obtengan la licencia civil"
+  ],
+  "classes": "La misma preparación matrimonial que para dos católicos, a veces con sesiones específicas para parejas de distintas iglesias o religiones. Ambos contrayentes reciben instrucción sobre los fines y las propiedades esenciales del matrimonio (Can. 1125, 3°).",
+  "dayOf": [
+   "Traigan la licencia de matrimonio civil",
+   "La ceremonia suele ser el Ritual de la Celebración del Matrimonio sin Misa, que el Ritual prevé. Las bodas con disparidad de culto usan la forma para un católico y un catecúmeno o un no cristiano.",
+   "Firmen el libro parroquial y la licencia civil",
+   "Es costumbre dar un estipendio u ofrenda; pregunte en la parroquia.",
+   "Si se concedió dispensa de la forma para una boda en otro lugar, el matrimonio se registra de todos modos en la parroquia del contrayente católico. Asegúrense de que el certificado del oficiante llegue a la parroquia católica."
+  ],
+  "faq": [
+   {
+    "q": "¿Cuál es la diferencia entre una licencia y una dispensa?",
+    "a": "Casarse con un cristiano bautizado no católico sin licencia (Can. 1124) es ilícito, pero el matrimonio sigue siendo válido. Casarse con una persona no bautizada sin dispensa de disparidad de culto (Can. 1086) es inválido. La dispensa de la forma canónica (Can. 1127) es una tercera concesión, aparte, que solo se necesita cuando la boda no se celebrará ante un sacerdote o diácono católico."
+   },
+   {
+    "q": "¿El no católico tiene que convertirse o prometer educar a los hijos como católicos?",
+    "a": "No. Solo el contrayente católico hace la promesa (Can. 1125). Al no católico simplemente se le informa de ella."
+   },
+   {
+    "q": "¿Podemos casarnos en la iglesia de mi prometido?",
+    "a": "Sí, con una dispensa de la forma canónica concedida por el Ordinario del lugar (Can. 1127 §2). Un sacerdote o diácono católico también puede estar presente."
+   },
+   {
+    "q": "Mi prometido es cristiano ortodoxo. ¿Hay alguna diferencia?",
+    "a": "Sí. Si preside un sacerdote ortodoxo, la forma católica se requiere solo para la licitud, no para la validez, pero para la validez se requiere la intervención de un ministro sagrado (Can. 1127 §1). Aun así se necesita la licencia. Hable con su párroco."
+   },
+   {
+    "q": "¿El matrimonio entre un católico y una persona no bautizada es sacramento?",
+    "a": "No. Es un matrimonio natural válido, no un sacramento, porque solo el matrimonio entre dos bautizados es sacramental. Si el cónyuge no bautizado se bautiza después, el matrimonio se convierte en sacramento."
+   }
+  ],
+  "sources": [
+   "Can. 1086",
+   "Can. 1108",
+   "Can. 1124–1129",
+   "CIC 1633–1637",
+   "Ritual de la Celebración del Matrimonio"
+  ]
+ },
+ {
+  "id": "convalidation",
+  "title": "Convalidación (que la Iglesia reconozca un matrimonio civil)",
+  "icon": "rings",
+  "summary": "Un católico que se casó fuera de la Iglesia, ante un juez o ante un ministro no católico sin dispensa de la forma, no está válidamente casado a los ojos de la Iglesia. La convalidación (a menudo llamada 'bendecir el matrimonio' o 'casarse por la Iglesia') es un nuevo intercambio del consentimiento en la forma canónica. Hace que el matrimonio sea válido, y sacramental si ambos están bautizados. En algunos casos el obispo puede conceder en cambio una sanación en la raíz, que convalida el matrimonio sin un nuevo intercambio del consentimiento. Los requisitos de esta página combinan el derecho universal de la Iglesia con la práctica común en EE. UU. Las diócesis y parroquias varían, y el despacho parroquial tiene la última palabra.",
+  "timeline": "Comuníquese con la parroquia en cualquier momento. Si ninguno de los cónyuges estuvo casado antes, el proceso suele tardar de 1 a 6 meses. Los matrimonios anteriores deben resolverse primero, lo cual puede añadir un año o más.",
+  "contact": "El despacho parroquial, normalmente con el párroco o un diácono",
+  "documents": [
+   {
+    "name": "Acta de matrimonio civil",
+    "detail": "Prueba del matrimonio civil existente, con su fecha y lugar",
+    "where": "Secretario del condado (county clerk) o registro civil donde se casaron",
+    "level": "common"
+   },
+   {
+    "name": "Fe de bautismo con notas marginales, de expedición reciente (cada cónyuge católico)",
+    "detail": "Con frecuencia se exige que haya sido expedida en los últimos 6 meses",
+    "where": "Parroquia de bautismo de cada cónyuge católico",
+    "level": "common"
+   },
+   {
+    "name": "Cónyuge no católico: prueba de bautismo o declaración jurada de no bautismo",
+    "detail": "Determina si se necesita licencia o dispensa (vea la sección sobre matrimonio entre católico y no católico)",
+    "where": "Iglesia de bautismo del cónyuge, o formulario de la parroquia",
+    "level": "if-applicable"
+   },
+   {
+    "name": "Cuestionario prenupcial / previo a la convalidación (ambos cónyuges)",
+    "detail": "Constata la libertad para casarse y la comprensión del matrimonio",
+    "where": "Con el sacerdote o diácono",
+    "level": "church-law"
+   },
+   {
+    "name": "Declaraciones juradas de libertad para casarse",
+    "detail": "Testigos que atestiguan que ninguno de los cónyuges tuvo otro matrimonio antes de este",
+    "where": "Padres o amigos de muchos años; formularios de la parroquia",
+    "level": "common"
+   },
+   {
+    "name": "Decreto(s) de nulidad",
+    "detail": "Por CUALQUIER matrimonio anterior de cualquiera de los cónyuges, incluidos los matrimonios solo civiles o no católicos",
+    "where": "Tribunal diocesano",
+    "level": "if-applicable"
+   },
+   {
+    "name": "Acta de defunción de un cónyuge anterior",
+    "detail": "Si uno de los cónyuges enviudó de un matrimonio anterior",
+    "where": "Registro civil",
+    "level": "if-applicable"
+   },
+   {
+    "name": "Licencia o dispensa",
+    "detail": "Licencia para matrimonio mixto o dispensa de disparidad de culto, como en cualquier matrimonio entre católico y no católico (Can. 1124, 1086)",
+    "where": "La parroquia la solicita a la diócesis",
+    "level": "if-applicable"
+   },
+   {
+    "name": "Comprobante de preparación matrimonial",
+    "detail": "Muchas diócesis exigen un programa abreviado adecuado para parejas ya casadas",
+    "where": "Organizador del programa",
+    "level": "common"
+   }
+  ],
+  "people": [
+   {
+    "role": "Dos testigos",
+    "requirements": [
+     "Se requieren dos testigos, como en cualquier boda católica (Can. 1108)"
+    ],
+    "documents": []
+   }
+  ],
+  "steps": [
+   "Hablen con su párroco y explíquenle su situación",
+   "Reúnan las fes de bautismo y el acta de matrimonio civil",
+   "Resuelvan ante el tribunal cualquier matrimonio anterior",
+   "Completen el cuestionario y las declaraciones juradas",
+   "Completen la preparación o el programa de enriquecimiento matrimonial que pida la parroquia",
+   "Programen la ceremonia de convalidación: una ceremonia sencilla o una Misa, en privado o con invitados",
+   "Intercambien el consentimiento ante un sacerdote o diácono y dos testigos",
+   "La parroquia registra el matrimonio. No se necesita una nueva licencia civil."
+  ],
+  "classes": "Con frecuencia, un programa abreviado o de enriquecimiento para parejas ya casadas por lo civil, además de una o dos reuniones con el sacerdote o diácono",
+  "dayOf": [
+   "No se necesita una nueva licencia civil. Ustedes ya están casados por lo civil.",
+   "La ceremonia puede ser sencilla e íntima, o una celebración completa",
+   "Ambos cónyuges y dos testigos firman el libro parroquial",
+   "Es costumbre dar un estipendio u ofrenda; pregunte en la parroquia."
+  ],
+  "faq": [
+   {
+    "q": "¿La convalidación es una 'renovación de votos'?",
+    "a": "No. Una renovación de votos celebra un matrimonio válido ya existente. La convalidación es un nuevo acto de consentimiento que hace que el matrimonio sea válido en la Iglesia."
+   },
+   {
+    "q": "Ninguno de los dos es católico. ¿Necesitamos esto?",
+    "a": "No. Los no católicos no están obligados a la forma católica del matrimonio, y la Iglesia presume que su matrimonio es válido. Si uno de ustedes se hace católico, no se necesita nada más, a menos que un matrimonio anterior complique las cosas."
+   },
+   {
+    "q": "¿Podemos comulgar antes de la convalidación?",
+    "a": "Hablen con su párroco. Por lo general, a un católico en un matrimonio que la Iglesia no reconoce se le pide que lo resuelva antes de recibir la Comunión, y el párroco puede orientarlos."
+   },
+   {
+    "q": "¿Qué es una sanación en la raíz?",
+    "a": "La autoridad competente convalida un matrimonio sin un nuevo intercambio del consentimiento, normalmente cuando uno de los cónyuges no quiere o no puede participar en una ceremonia pero el consentimiento persiste (Can. 1161–1165). Pregunte a su párroco si se aplica a su caso."
+   }
+  ],
+  "sources": [
+   "Can. 1108",
+   "Can. 1156–1160 (convalidación simple)",
+   "Can. 1161–1165 (sanación en la raíz)",
+   "CIC 1601–1666"
+  ]
+ },
+ {
+  "id": "annulment",
+  "title": "Declaración de nulidad (anulación)",
+  "icon": "scales",
+  "summary": "Una declaración de nulidad es la conclusión de un tribunal de la Iglesia de que a un matrimonio, presumido válido, le faltó algo esencial desde el principio, de modo que nunca llegó a existir un vínculo matrimonial válido. No es un 'divorcio católico', y no niega que la relación existió. La Iglesia considera válido todo matrimonio mientras no se pruebe lo contrario, incluidos los de los no católicos. Cualquier persona que haya estado casada antes (católica o no) generalmente necesita una antes de casarse por la Iglesia. Los requisitos de esta página combinan el derecho universal de la Iglesia con la práctica común en EE. UU. Las diócesis y parroquias varían, y el despacho parroquial tiene la última palabra.",
+  "timeline": "Empiece mucho antes de fijar cualquier fecha de boda. Una causa por proceso ordinario suele tardar unos 12–18 meses, pero varía mucho según la diócesis y el caso. El 'proceso más breve' y las causas documentales pueden ser mucho más rápidos. No fije una fecha de boda hasta tener el decreto.",
+  "contact": "Primero, su párroco, un diácono o un abogado parroquial capacitado. Ellos ayudan a preparar la demanda para el tribunal diocesano.",
+  "documents": [
+   {
+    "name": "Sentencia definitiva de divorcio civil",
+    "detail": "Los tribunales de EE. UU. generalmente exigen que el divorcio civil sea definitivo antes de admitir una causa",
+    "where": "El tribunal civil que concedió el divorcio",
+    "level": "common"
+   },
+   {
+    "name": "Acta de matrimonio civil",
+    "detail": "Del matrimonio que se examina",
+    "where": "Secretario del condado (county clerk) o registro civil",
+    "level": "common"
+   },
+   {
+    "name": "Acta de matrimonio eclesiástico",
+    "detail": "Si el matrimonio se celebró en una iglesia",
+    "where": "La iglesia o parroquia donde se casaron",
+    "level": "if-applicable"
+   },
+   {
+    "name": "Fe de bautismo de la parte demandante (si está bautizada)",
+    "detail": "Con frecuencia, una copia reciente con notas marginales",
+    "where": "Parroquia o iglesia de bautismo",
+    "level": "common"
+   },
+   {
+    "name": "Información sobre el bautismo de la parte demandada",
+    "detail": "La fe de bautismo si se puede conseguir, o al menos su religión y la iglesia donde fue bautizada. El estado bautismal de las partes influye en el proceso que se aplica.",
+    "where": "La iglesia del excónyuge, si se conoce",
+    "level": "if-applicable"
+   },
+   {
+    "name": "Demanda (libelo) y cuestionario del tribunal",
+    "detail": "Una solicitud formal, más una historia escrita detallada de la relación: antecedentes familiares, noviazgo, boda, vida matrimonial y ruptura",
+    "where": "Formularios del tribunal, preparados con su abogado",
+    "level": "church-law"
+   },
+   {
+    "name": "Datos de contacto actuales del excónyuge (parte demandada)",
+    "detail": "La parte demandada debe ser notificada y tiene derecho a participar. Para proceder sin una dirección hay que demostrar que se hizo una búsqueda diligente.",
+    "where": "Usted",
+    "level": "church-law"
+   },
+   {
+    "name": "Lista de testigos",
+    "detail": "Nombres y datos de contacto de personas que conocieron a la pareja antes y durante el matrimonio (a menudo 2–5 testigos). Los familiares pueden ser testigos. Avíseles que recibirán un cuestionario.",
+    "where": "Usted",
+    "level": "common"
+   },
+   {
+    "name": "Documentos de apoyo",
+    "detail": "Expedientes de consejería o médicos, informes policiales, órdenes de protección, etc., solo si son pertinentes y usted está dispuesto a entregarlos",
+    "where": "Proveedores o tribunales, con su autorización firmada",
+    "level": "if-applicable"
+   },
+   {
+    "name": "Autorización firmada / mandato para el abogado",
+    "detail": "Autoriza a su abogado parroquial o procurador a actuar en su nombre",
+    "where": "Formulario del tribunal",
+    "level": "common"
+   },
+   {
+    "name": "Arancel del tribunal u ofrenda",
+    "detail": "La reforma del papa Francisco de 2015 (Mitis Iudex Dominus Iesus) pidió que, en la medida de lo posible, los procesos ante los tribunales fueran gratuitos, y desde entonces muchas diócesis de EE. UU. han dejado de cobrar. Otras todavía piden un arancel o una contribución, a menudo con exenciones. Los costos varían, así que pregunte a su tribunal. La imposibilidad de pagar nunca debe impedir una causa.",
+    "where": "Tribunal diocesano",
+    "level": "if-applicable"
+   },
+   {
+    "name": "Documentos para una causa documental (defecto de forma)",
+    "detail": "Si un católico se casó fuera de la Iglesia sin dispensa, la causa suele ser un sencillo proceso documental: fe de bautismo católica, acta de matrimonio civil, sentencia de divorcio y prueba de que no hubo convalidación",
+    "where": "Parroquia de bautismo / secretario del condado / tribunal civil",
+    "level": "if-applicable"
+   }
+  ],
+  "people": [
+   {
+    "role": "Abogado",
+    "requirements": [
+     "Un sacerdote, diácono o abogado laico capacitado que le ayuda a preparar la demanda. Muchas diócesis capacitan abogados a nivel parroquial."
+    ],
+    "documents": []
+   },
+   {
+    "role": "Testigos",
+    "requirements": [
+     "Personas que los conocieron a usted y/o a su excónyuge antes y durante el matrimonio",
+     "Responden un cuestionario o una entrevista. Su testimonio es confidencial dentro del proceso."
+    ],
+    "documents": []
+   },
+   {
+    "role": "Parte demandada (excónyuge)",
+    "requirements": [
+     "Es notificada y puede participar, abstenerse u oponerse. La causa puede seguir adelante sin su cooperación."
+    ],
+    "documents": []
+   }
+  ],
+  "steps": [
+   "Asegúrese de que el divorcio civil sea definitivo",
+   "Reúnase con su sacerdote, diácono o abogado parroquial para hablar del matrimonio y de qué proceso se aplica (proceso ordinario, causa documental o proceso más breve ante el obispo)",
+   "Reúna los certificados y las sentencias",
+   "Redacte la demanda y su testimonio usando el cuestionario del tribunal",
+   "Proporcione los nombres de los testigos y la dirección de la parte demandada",
+   "El tribunal revisa la demanda, admite la causa y notifica a la parte demandada",
+   "El tribunal fija el capítulo o capítulos que se examinarán (p. ej., grave defecto de discreción de juicio, simulación, un impedimento)",
+   "Pruebas: se contacta a los testigos y, a veces, se hacen peritajes",
+   "El Defensor del Vínculo argumenta a favor de la validez, y las partes pueden revisar las actas según lo permita el derecho",
+   "El juez o los jueces deciden. Desde la reforma de 2015, una sentencia afirmativa se vuelve ejecutiva si nadie apela. Ya no se requiere automáticamente una segunda sentencia conforme.",
+   "Reciba el decreto. Se anotan las restricciones que haya (un 'vetitum' o monitum, como consejería antes de volver a casarse).",
+   "La decisión se anota en la partida de bautismo de cada parte católica"
+  ],
+  "classes": "Ninguna. Algunas diócesis ofrecen grupos de apoyo para católicos divorciados.",
+  "dayOf": [
+   "No hay ceremonia. Es posible que le pidan acudir a una entrevista o dar testimonio en persona o por video.",
+   "Guarde su decreto junto con sus registros sacramentales. Lo necesitará para casarse por la Iglesia."
+  ],
+  "faq": [
+   {
+    "q": "¿Una anulación hace ilegítimos a mis hijos?",
+    "a": "No. Los hijos nacidos de un matrimonio contraído de buena fe son legítimos según el derecho de la Iglesia (Can. 1137), y una anulación no tiene ningún efecto civil sobre la custodia, la manutención o los bienes."
+   },
+   {
+    "q": "¿Necesito una anulación si estoy divorciado pero no pienso volver a casarme?",
+    "a": "No. Los católicos divorciados que no se han vuelto a casar permanecen en plena comunión y pueden recibir los sacramentos. La anulación solo se necesita para casarse por la Iglesia."
+   },
+   {
+    "q": "Mi primer matrimonio fue entre dos no católicos. ¿Aun así necesito una?",
+    "a": "Normalmente, sí. La Iglesia presume que los matrimonios de los no católicos son válidos. Según los hechos, pueden aplicarse otros procesos, como el privilegio paulino (Can. 1143) o una causa de disolución en favor de la fe. Pregunte en su parroquia."
+   },
+   {
+    "q": "¿Qué es el proceso más breve?",
+    "a": "Lo creó la reforma de 2015. Cuando ambos cónyuges presentan la demanda o están de acuerdo, y los hechos muestran claramente la nulidad, la causa puede pasar al obispo para una decisión más rápida. El tribunal decide si una causa reúne las condiciones."
+   },
+   {
+    "q": "¿Cuánto cuesta?",
+    "a": "Varía. Muchas diócesis de EE. UU. ya no cobran desde la reforma de 2015. Otras piden un arancel o una contribución, a menudo con exenciones disponibles. Pregunte a su tribunal."
+   }
+  ],
+  "sources": [
+   "Can. 1060",
+   "Can. 1137",
+   "Can. 1143",
+   "Can. 1671–1691 (según la reforma de Mitis Iudex Dominus Iesus, 2015)",
+   "CIC 1629",
+   "Mitis Iudex Dominus Iesus (papa Francisco, 2015)"
+  ]
+ },
+ {
+  "id": "anointing-of-the-sick",
+  "title": "Unción de los Enfermos (y los 'últimos sacramentos')",
+  "icon": "oil",
+  "summary": "La Unción de los Enfermos da fortaleza, paz y ánimo, perdona los pecados y puede devolver la salud si Dios así lo quiere. Es para un católico que ha llegado al uso de razón y se encuentra en peligro por enfermedad grave o vejez (Can. 1004 §1). No es solo para los moribundos, y puede repetirse (Can. 1004 §2). Solo un sacerdote puede ungir (Can. 1003 §1). Los 'últimos sacramentos' suelen ser la Confesión, la Unción y el Viático (la Sagrada Comunión para los moribundos), a veces con la Indulgencia plenaria (Bendición Apostólica). Los requisitos de esta página combinan el derecho universal de la Iglesia con la práctica común en EE. UU. Las diócesis y parroquias varían, y el despacho parroquial tiene la última palabra.",
+  "timeline": "Pídala en cuanto se diagnostique una enfermedad grave, antes de una cirugía importante, cuando la fragilidad llega con la edad, o cuando una condición empeora. No espere a las últimas horas.",
+  "contact": "Si no es una emergencia: el despacho parroquial. En una emergencia: la línea de emergencias o fuera de horario de la parroquia (el mensaje del teléfono parroquial suele indicarla), o en un hospital, el capellán católico o la oficina de atención pastoral / espiritual.",
+  "documents": [
+   {
+    "name": "No se requiere ningún trámite",
+    "detail": "Lleve o dé la información siguiente para que el sacerdote pueda encontrar a la persona y prepararse",
+    "where": "—",
+    "level": "common"
+   },
+   {
+    "name": "Nombre completo de la persona y su ubicación exacta",
+    "detail": "Hospital, número de habitación, unidad (terapia intensiva y similares), centro de cuidados o dirección de la casa, más cualquier código de entrada o restricción de visitas",
+    "where": "Usted",
+    "level": "common"
+   },
+   {
+    "name": "Si es católica y su estado de salud",
+    "detail": "Que la persona es católica, si está consciente y puede hablar, y si puede tragar (para la Comunión)",
+    "where": "Usted o el equipo médico",
+    "level": "common"
+   },
+   {
+    "name": "Preferencia religiosa registrada en el hospital",
+    "detail": "Indique 'católica' como religión del paciente al ingresar. Muchos hospitales usan este dato para avisar al capellán católico.",
+    "where": "Admisiones del hospital / expediente del paciente",
+    "level": "if-applicable"
+   },
+   {
+    "name": "Teléfono de una persona de contacto",
+    "detail": "Para que el sacerdote pueda comunicarse con la familia",
+    "where": "Usted",
+    "level": "common"
+   }
+  ],
+  "people": [
+   {
+    "role": "Sacerdote",
+    "requirements": [
+     "Solo un sacerdote (u obispo) puede ungir (Can. 1003 §1). Un diácono o un ministro laico puede orar con el enfermo y llevarle la Comunión, pero no puede ungir."
+    ],
+    "documents": []
+   }
+  ],
+  "steps": [
+   "Si no es una emergencia: llame al despacho parroquial y pida una visita, o pregunte por la Misa comunitaria de unción si la parroquia la ofrece",
+   "EMERGENCIA: llame al número de la parroquia y escuche la opción de emergencias, o llame a la línea de emergencias de su diócesis si tiene una. En un hospital, pida a la enfermera que llame al capellán católico o a la oficina de atención espiritual.",
+   "Si no logra comunicarse con su parroquia, llame a cualquier parroquia católica cercana. Los sacerdotes atienden las emergencias sin importar dónde esté inscrita la persona.",
+   "Dé el nombre de la persona, su ubicación y su estado",
+   "Si la muerte parece cercana, dígalo con claridad para que el sacerdote lleve el Viático y dé la Indulgencia plenaria",
+   "Mientras espera, ore con la persona (el Padrenuestro, el Avemaría o un acto de contrición)",
+   "Si la persona ya falleció, llame de todos modos. El sacerdote puede rezar con la familia las oraciones por los difuntos. Si hay duda de si la muerte ya ocurrió, se puede administrar el sacramento (Can. 1005)."
+  ],
+  "classes": "Ninguna",
+  "dayOf": [
+   "El sacerdote puede escuchar la confesión de la persona si puede hacerla. Denles privacidad.",
+   "Impone las manos sobre la persona y unge la frente y las manos con el Óleo de los Enfermos",
+   "Puede darle la Sagrada Comunión (Viático, si la muerte está cerca) y la Indulgencia plenaria",
+   "La familia puede quedarse durante la unción y las oraciones",
+   "Prepare un espacio tranquilo y, si es posible, una mesa con un mantel, un crucifijo y una vela (solo si es seguro y está permitido) en casa",
+   "No se cobra nada. A veces se da un estipendio u ofrenda; pregunte en la parroquia."
+  ],
+  "faq": [
+   {
+    "q": "¿Puede mi esposo, que no es católico, recibir la Unción?",
+    "a": "Ordinariamente, el sacramento es para los católicos. En caso de grave necesidad, ciertos otros cristianos que lo pidan espontáneamente y compartan la fe católica en el sacramento pueden recibirlo bajo las condiciones del Can. 844. Pregunte al sacerdote."
+   },
+   {
+    "q": "¿Se puede recibir más de una vez?",
+    "a": "Sí. De nuevo si la persona se recupera y vuelve a enfermar gravemente, o si su estado se agrava durante la misma enfermedad (Can. 1004 §2)."
+   },
+   {
+    "q": "¿Puedo recibir la Unción antes de una cirugía?",
+    "a": "Sí, si la cirugía es seria, lo cual muchas parroquias interpretan con amplitud. Llame a la parroquia antes del procedimiento."
+   },
+   {
+    "q": "¿Se puede ungir a una persona inconsciente?",
+    "a": "Sí. Si la persona lo hubiera pedido estando consciente, se le administra el sacramento (Can. 1006)."
+   }
+  ],
+  "sources": [
+   "Can. 998–1007",
+   "Can. 1003–1006",
+   "Can. 921 (Viático)",
+   "CIC 1499–1532",
+   "Ritual de la Unción y de la Pastoral de Enfermos"
+  ]
+ },
+ {
+  "id": "funeral",
+  "title": "Exequias católicas (vigilia, Misa exequial, sepultura)",
+  "icon": "cross",
+  "summary": "El Ritual de Exequias Cristianas tiene tres partes principales: la Vigilia por el difunto (a menudo durante el velorio o la visita), la Liturgia exequial (normalmente una Misa exequial o funeral) y el Rito de la Sepultura en la tumba, el sepulcro o el columbario. Los fieles católicos difuntos tienen derecho a las exequias eclesiásticas (Can. 1176 §1). La Iglesia prefiere la sepultura del cuerpo, pero permite la cremación a menos que se elija por razones contrarias a la doctrina cristiana (Can. 1176 §3). Los requisitos de esta página combinan el derecho universal de la Iglesia con la práctica común en EE. UU. Las diócesis y parroquias varían, y el despacho parroquial tiene la última palabra.",
+  "timeline": "Llame primero a la funeraria; normalmente es ella la que se comunica con la parroquia para fijar la fecha. La Misa exequial suele programarse dentro de la semana siguiente al fallecimiento, según los calendarios de la parroquia y del cementerio. Por lo general no se celebran Misas exequiales los domingos de Adviento, Cuaresma y Pascua, en las solemnidades de precepto ni durante el Triduo Pascual.",
+  "contact": "La funeraria (normalmente se comunica con la parroquia por usted), y luego el despacho parroquial o el coordinador del ministerio de duelo. También el cementerio, católico o no.",
+  "documents": [
+   {
+    "name": "Acta de defunción",
+    "detail": "Normalmente la funeraria la registra y pide copias certificadas. Consiga varias copias para los bancos, el seguro, el Seguro Social, etc.",
+    "where": "La funeraria, que la registra en la oficina de registro civil del estado o del condado",
+    "level": "common"
+   },
+   {
+    "name": "Permiso de sepultura o de cremación",
+    "detail": "La ley estatal lo exige antes de la sepultura o la cremación. La funeraria lo obtiene.",
+    "where": "Funeraria / registro civil local",
+    "level": "common"
+   },
+   {
+    "name": "Contrato con la funeraria",
+    "detail": "Elección del ataúd o la urna, los servicios y los cargos. Pida la Lista General de Precios detallada, que la Regla Funeraria de la FTC obliga a las funerarias a entregar.",
+    "where": "Funeraria",
+    "level": "common"
+   },
+   {
+    "name": "Título del terreno, nicho o columbario en el cementerio",
+    "detail": "Prueba de propiedad o del derecho de inhumación, el número de sección/lote/tumba y los datos de contacto del cementerio. Compre un espacio si aún no tienen uno.",
+    "where": "Oficina del cementerio, o papeles de la familia",
+    "level": "common"
+   },
+   {
+    "name": "Datos básicos del difunto",
+    "detail": "Nombre completo, fechas de nacimiento y de defunción, parroquia y (si se conoce) la parroquia de bautismo, para el libro de defunciones",
+    "where": "Familia",
+    "level": "common"
+   },
+   {
+    "name": "Hoja de planificación de las exequias",
+    "detail": "Su elección de lecturas, salmo, Evangelio, música, lectores, portadores de las ofrendas, cargadores del féretro y cualquier palabra de recuerdo",
+    "where": "Ministerio parroquial de duelo",
+    "level": "common"
+   },
+   {
+    "name": "Documentos de baja militar (DD-214)",
+    "detail": "Para honores fúnebres militares, una lápida o placa proporcionada por el VA, o la sepultura en un cementerio nacional",
+    "where": "Papeles de la familia, o los Archivos Nacionales (Centro Nacional de Registros de Personal)",
+    "level": "if-applicable"
+   },
+   {
+    "name": "Planes funerarios o seguros contratados de antemano",
+    "detail": "Si el difunto planificó o pagó por adelantado",
+    "where": "Funeraria / aseguradora / papeles de la familia",
+    "level": "if-applicable"
+   },
+   {
+    "name": "Instrucciones sobre las cenizas",
+    "detail": "Dónde se sepultarán o depositarán las cenizas (cementerio, mausoleo o columbario)",
+    "where": "Cementerio",
+    "level": "if-applicable"
+   },
+   {
+    "name": "Texto del obituario",
+    "detail": "A menudo se redacta con ayuda de la funeraria. Incluya la hora y el lugar de la vigilia, la Misa y la sepultura.",
+    "where": "Familia / funeraria",
+    "level": "if-applicable"
+   }
+  ],
+  "people": [
+   {
+    "role": "Lectores",
+    "requirements": [
+     "Normalmente uno para la lectura del Antiguo Testamento (o, en el tiempo de Pascua, de los Hechos de los Apóstoles) y otro para la lectura del Nuevo Testamento. El Evangelio lo lee el sacerdote o el diácono.",
+     "Familiares o amigos que puedan leer con claridad. Algunas parroquias proporcionan lectores."
+    ],
+    "documents": []
+   },
+   {
+    "role": "Cargadores del féretro",
+    "requirements": [
+     "Normalmente 6–8 personas. También se pueden nombrar cargadores honorarios."
+    ],
+    "documents": []
+   },
+   {
+    "role": "Quien dirige las palabras de recuerdo (opcional)",
+    "requirements": [
+     "Muchas diócesis permiten que un familiar o amigo hable brevemente, a menudo antes de la última recomendación o en la vigilia. Algunas lo limitan a la vigilia o a la recepción. Pregunte en su parroquia, y que sea breve."
+    ],
+    "documents": []
+   }
+  ],
+  "steps": [
+   "Al fallecer: si no estuvo presente un sacerdote, llame a la parroquia. El sacerdote todavía puede orar con la familia.",
+   "Comuníquese con una funeraria. Esta traslada al difunto, registra el acta de defunción y normalmente coordina con la parroquia.",
+   "Comuníquese con el cementerio o confirme los arreglos de sepultura o de depósito en un mausoleo",
+   "Reúnase con la parroquia (sacerdote, diácono o ministro de duelo) para planear la liturgia y elegir las lecturas del Ritual de Exequias Cristianas",
+   "Programe la vigilia (a menudo en la funeraria o en la iglesia durante la visita)",
+   "Organice la música con el director de música de la parroquia",
+   "Prepare el obituario y elija a los cargadores del féretro y a los lectores",
+   "Celebre la Misa exequial (o una liturgia exequial sin Misa), y después la sepultura en el cementerio",
+   "Pida a la parroquia que se ofrezcan Misas por el difunto en los meses siguientes (es costumbre dar un estipendio)"
+  ],
+  "classes": "Ninguna",
+  "dayOf": [
+   "Vigilia: Escritura, oraciones, quizá un rosario y palabras de recuerdo, normalmente durante el velorio",
+   "Misa exequial: el féretro se recibe a la puerta de la iglesia, se rocía con agua bendita y se coloca sobre él el palio. Luego vienen las lecturas, la homilía, la Eucaristía, y la última recomendación y despedida (con incienso).",
+   "Sepultura: breves oraciones junto a la tumba, en el mausoleo o en el columbario",
+   "Traiga las lecturas y los nombres de los lectores, y cualquier objeto que simbolice la vida cristiana que la parroquia permita (p. ej., una Biblia o un crucifijo colocados sobre el féretro)",
+   "Las banderas u otros símbolos seculares normalmente se retiran del féretro dentro de la iglesia y se sustituyen por el palio. Los honores militares se rinden en la sepultura.",
+   "Es costumbre dar un estipendio u ofrenda a la parroquia, al sacerdote, a los músicos y a los monaguillos; pregunte en la parroquia. Los cargos de la funeraria y del cementerio son aparte."
+  ],
+  "faq": [
+   {
+    "q": "¿Pueden los católicos ser cremados?",
+    "a": "Sí. Desde 1963 la Iglesia permite la cremación a menos que se elija por razones contrarias a la fe cristiana. La Iglesia sigue prefiriendo la sepultura del cuerpo (Can. 1176 §3; Ad resurgendum cum Christo, 2016). El Ritual de Exequias Cristianas de EE. UU. prefiere que el cuerpo esté presente en la Misa exequial y que la cremación se haga después. También se permite una Misa exequial con las cenizas presentes en las diócesis de EE. UU. que lo autorizan."
+   },
+   {
+    "q": "¿Qué se debe hacer con las cenizas?",
+    "a": "Según Ad resurgendum cum Christo (Congregación para la Doctrina de la Fe, 2016), las cenizas deben depositarse en un lugar sagrado: un cementerio, una iglesia o un área destinada a ese fin por la autoridad eclesiástica. NO deben conservarse en casa (salvo en casos graves y excepcionales con permiso del obispo), dividirse entre los familiares, esparcirse en la tierra, en el mar o en el aire, ni guardarse en joyas u otros recuerdos. La sepultura en el mar en un recipiente adecuado, sellado y con peso generalmente se trata de manera distinta a esparcirlas. Pregunte en la parroquia."
+   },
+   {
+    "q": "¿Puede el difunto tener exequias católicas si no era practicante?",
+    "a": "Normalmente, sí. Las exequias católicas se niegan solo en casos muy concretos en los que causarían escándalo público (Can. 1184), como los apóstatas notorios o quienes eligieron la cremación por razones contrarias a la fe, y solo si no dieron ninguna señal de arrepentimiento antes de morir. En caso de duda, decide el obispo. Hable con el sacerdote."
+   },
+   {
+    "q": "¿Puede tener exequias católicas alguien que murió por suicidio?",
+    "a": "Sí. La Iglesia lo encomienda a la misericordia de Dios (CIC 2282–2283) y no niega las exequias por ese motivo."
+   },
+   {
+    "q": "¿Puede un cónyuge no católico tener exequias en la Iglesia Católica?",
+    "a": "Es posible. Los catecúmenos se equiparan a los católicos en cuanto a las exequias, y a un bautizado no católico se le pueden conceder exequias católicas según el prudente juicio del Ordinario del lugar, si no está disponible su propio ministro y no consta su voluntad contraria (Can. 1183). Pregunte al párroco."
+   },
+   {
+    "q": "¿Cómo elegimos las lecturas?",
+    "a": "El Ritual de Exequias Cristianas ofrece una lista de opciones: lecturas del Antiguo Testamento (p. ej., Sabiduría 3,1–9), salmos (p. ej., Salmo 23), lecturas del Nuevo Testamento (p. ej., Romanos 6,3–9) y Evangelios (p. ej., Juan 14,1–6). La parroquia normalmente le da un folleto con todas ellas."
+   }
+  ],
+  "sources": [
+   "Can. 1176–1185",
+   "CIC 1680–1690",
+   "Ritual de Exequias Cristianas (incl. el Apéndice de EE. UU. sobre la cremación)",
+   "Ad resurgendum cum Christo (Congregación para la Doctrina de la Fe, 2016)"
+  ]
+ },
+ {
+  "id": "ocia",
+  "title": "OCIA: hacerse católico (Orden de Iniciación Cristiana de Adultos, antes RICA)",
+  "icon": "door",
+  "summary": "La OCIA es el camino por el que los adultos se hacen católicos. Antes se llamaba RICA (Rito de Iniciación Cristiana de Adultos), y OCIA es el nombre que usa la traducción más reciente del rito en EE. UU. Las personas no bautizadas (catecúmenos) reciben juntos el Bautismo, la Confirmación y la Primera Comunión. Los cristianos bautizados de otras iglesias (candidatos) hacen una Profesión de Fe y son recibidos en la plena comunión, con la Confirmación y la Primera Comunión. Los niños en edad de catequesis (de unos 7 años en adelante) siguen una versión adaptada, a menudo llamada OCIC o 'RICN'. Los requisitos de esta página combinan el derecho universal de la Iglesia con la práctica común en EE. UU. Las diócesis y parroquias varían, y el despacho parroquial tiene la última palabra.",
+  "timeline": "Puede empezar en cualquier momento: la indagación suele estar abierta todo el año. Los catecúmenos no bautizados normalmente pasan al menos un año litúrgico completo en formación (Estatutos Nacionales de EE. UU.) y reciben los sacramentos en la Vigilia Pascual. Los candidatos bautizados pueden ser recibidos cuando estén preparados, a veces antes y no necesariamente en Pascua. Si estuvo casado antes, inicie de inmediato el proceso de nulidad, porque con frecuencia es el paso más largo.",
+  "contact": "El coordinador de la OCIA de la parroquia, o el despacho parroquial, que lo pondrá en contacto",
+  "documents": [
+   {
+    "name": "Acta de nacimiento",
+    "detail": "Se usa para registrar su nombre legal y la fecha y el lugar de nacimiento",
+    "where": "Oficina de registro civil (vital records) del estado o del condado",
+    "level": "common"
+   },
+   {
+    "name": "Certificado de bautismo (candidatos bautizados)",
+    "detail": "Prueba de un bautismo cristiano válido (agua + fórmula trinitaria) expedida por su iglesia. Si no existe registro, la parroquia puede aceptar la declaración jurada de un testigo. Si hay una duda seria sobre la validez, se puede considerar el bautismo bajo condición (Can. 869).",
+    "where": "Su iglesia de bautismo",
+    "level": "if-applicable"
+   },
+   {
+    "name": "Fe de bautismo católica (católicos bautizados que nunca recibieron catequesis)",
+    "detail": "Si usted fue bautizado católico pero nunca se confirmó o nunca hizo la Primera Comunión, completa la iniciación en lugar de ser 'recibido'",
+    "where": "Parroquia de bautismo",
+    "level": "if-applicable"
+   },
+   {
+    "name": "Historial matrimonial y actas",
+    "detail": "Si está casado, o alguna vez lo estuvo: actas de matrimonio civil y religioso y cualquier sentencia de divorcio, tanto suyas como de los matrimonios anteriores de su cónyuge. La Iglesia debe constatar que su matrimonio actual es válido, o puede llegar a serlo, antes de que usted reciba los sacramentos.",
+    "where": "Usted / secretario del condado / tribunales civiles",
+    "level": "if-applicable"
+   },
+   {
+    "name": "Declaración(es) de nulidad",
+    "detail": "Se requiere por cada matrimonio anterior suyo o de su cónyuge actual antes de que pueda ser recibido, a menos que se aplique otro proceso (p. ej., el privilegio paulino). Es la causa más común de retraso.",
+    "where": "Tribunal diocesano",
+    "level": "if-applicable"
+   },
+   {
+    "name": "Formulario de inscripción / indagación de la OCIA",
+    "detail": "Datos personales, trasfondo religioso y estado civil",
+    "where": "Equipo parroquial de la OCIA",
+    "level": "common"
+   },
+   {
+    "name": "Certificado de padrino",
+    "detail": "Si su padrino no está inscrito en su parroquia",
+    "where": "Parroquia del padrino",
+    "level": "common"
+   },
+   {
+    "name": "Carta o entrevista para el Rito de Elección",
+    "detail": "Algunas parroquias piden una breve declaración escrita antes del Rito de Elección o del Llamado a la Conversión Continua",
+    "where": "Usted",
+    "level": "if-applicable"
+   },
+   {
+    "name": "Nombre de santo (opcional)",
+    "detail": "Algunas parroquias de EE. UU. invitan a elegir un nombre de Confirmación. Es una costumbre, no un requisito.",
+    "where": "Usted",
+    "level": "if-applicable"
+   },
+   {
+    "name": "Versión para niños: acta de nacimiento del niño y cualquier certificado de bautismo; consentimiento de los padres",
+    "detail": "Los niños en edad de catequesis necesitan el consentimiento y la participación de sus padres",
+    "where": "Padres / registro civil / iglesia de bautismo",
+    "level": "if-applicable"
+   }
+  ],
+  "people": [
+   {
+    "role": "Padrino (desde el Rito de Admisión) / padrino de bautismo (desde el Rito de Elección)",
+    "requirements": [
+     "Elegido por quien va a ser bautizado, por sus padres o (en su defecto) por el párroco, y dispuesto a desempeñar esa función (Can. 874 §1, 1°)",
+     "Tener al menos 16 años, a no ser que el obispo diocesano haya establecido otra edad o que el párroco conceda una excepción por causa justa (Can. 874 §1, 2°)",
+     "Ser católico, estar confirmado y haber recibido ya el Santísimo Sacramento de la Eucaristía (Can. 874 §1, 3°)",
+     "Llevar una vida congruente con la fe y con la función que va a asumir (Can. 874 §1, 3°); en la práctica de EE. UU. esto suele entenderse como asistir a Misa con regularidad y, si está casado, tener un matrimonio reconocido por la Iglesia",
+     "No estar afectado por una pena canónica legítimamente impuesta o declarada (Can. 874 §1, 4°)",
+     "No ser el padre o la madre de quien va a ser bautizado (Can. 874 §1, 5°)",
+     "El padrino lo acompaña durante la formación y da testimonio de que usted está preparado. La misma persona puede seguir como padrino de bautismo, o se puede elegir otro padrino a partir del Rito de Elección."
+    ],
+    "documents": [
+     "Certificado de padrino / carta de idoneidad de la parroquia del padrino"
+    ]
+   },
+   {
+    "role": "Cónyuge (si está casado)",
+    "requirements": [
+     "No tiene que ser católico, pero debe participar en la revisión del historial matrimonial. Con frecuencia los cónyuges son bienvenidos a las sesiones."
+    ],
+    "documents": [
+     "Historial matrimonial e información bautismal del cónyuge"
+    ]
+   }
+  ],
+  "steps": [
+   "Comuníquese con el coordinador de la OCIA de la parroquia y asista a las sesiones de indagación. Hacer preguntas no lo compromete a nada.",
+   "Reúnase con el coordinador o el párroco para una entrevista personal: estado bautismal e historial matrimonial",
+   "Empiece a reunir los documentos. Si es necesario, inicie de inmediato cualquier causa de nulidad.",
+   "Tiempo de evangelización y precatecumenado (indagación): conocer la fe y discernir",
+   "No bautizados: el Rito de Admisión al Catecumenado da inicio al catecumenado. Los candidatos bautizados pueden tener un Rito de Bienvenida paralelo.",
+   "Tiempo del catecumenado: formación en la Escritura, la doctrina, la oración y la vida parroquial. Los catecúmenos son despedidos después de la Liturgia de la Palabra para reflexionar sobre ella.",
+   "Primer domingo de Cuaresma (o cerca de él): el Rito de Envío en la parroquia, y luego el Rito de Elección (catecúmenos) y el Llamado a la Conversión Continua (candidatos) con el obispo, normalmente en la catedral",
+   "Tiempo de purificación e iluminación (Cuaresma): los escrutinios en los domingos 3.º, 4.º y 5.º de Cuaresma, y las entregas del Credo y del Padrenuestro",
+   "Vigilia Pascual: los catecúmenos reciben el Bautismo, la Confirmación y la Primera Comunión. Los candidatos hacen una Profesión de Fe y reciben la Confirmación y la Primera Comunión (o son recibidos en otro momento). Los candidatos se confiesan antes.",
+   "Tiempo de la mistagogia (desde la Pascua hasta Pentecostés): reflexión más profunda sobre los sacramentos y la vida en la parroquia"
+  ],
+  "classes": "Son comunes las sesiones semanales durante varios meses hasta un año o más. Se espera que los catecúmenos no bautizados pasen al menos un año en el catecumenado (Estatutos Nacionales para el Catecumenado de EE. UU.). Los cristianos bautizados y ya practicantes pueden necesitar un camino más corto. La OCIA para niños (OCIC) se desarrolla junto con la catequesis parroquial o dentro de ella, con la participación de los padres.",
+  "dayOf": [
+   "Rito de Admisión: en una Misa dominical, se le signa con la cruz y se le da la bienvenida",
+   "Rito de Elección: normalmente en la catedral con el obispo. Su nombre se inscribe en el Libro de los Elegidos, y su padrino da testimonio.",
+   "Vigilia Pascual: comienza después del anochecer del Sábado Santo y dura unas 2–3 horas. Traiga una muda de ropa si el bautismo es por inmersión. La parroquia normalmente proporciona las vestiduras blancas y las velas.",
+   "Los familiares y amigos son bienvenidos. Planee el transporte y una celebración posterior.",
+   "Normalmente la OCIA no tiene costo. Algunas parroquias piden ayuda para los libros o los retiros; pregunte en la parroquia."
+  ],
+  "faq": [
+   {
+    "q": "¿Es RICA u OCIA?",
+    "a": "Es el mismo proceso. La traducción más reciente en EE. UU. llama al rito 'Orden de Iniciación Cristiana de Adultos', y muchas diócesis de EE. UU. han pasado de 'RICA' a 'OCIA'."
+   },
+   {
+    "q": "Fui bautizado luterano (o metodista, bautista, etc.). ¿Tengo que bautizarme de nuevo?",
+    "a": "No. Un bautismo cristiano válido nunca se repite. Usted hará una Profesión de Fe y será recibido en la plena comunión, con la Confirmación y la Primera Comunión. El bautismo bajo condición solo se celebra si hay una duda seria sobre la validez de su bautismo (Can. 869)."
+   },
+   {
+    "q": "Estoy divorciado y vuelto a casar. ¿Puedo unirme de todos modos?",
+    "a": "Es bienvenido a indagar y asistir. Sin embargo, cualquier matrimonio anterior suyo o de su cónyuge debe resolverse, normalmente mediante una declaración de nulidad, antes de que pueda recibir los sacramentos. Inicie ese proceso con tiempo."
+   },
+   {
+    "q": "¿Tengo que esperar hasta la Pascua?",
+    "a": "Los catecúmenos no bautizados normalmente se bautizan en la Vigilia Pascual. Los candidatos bautizados pueden ser recibidos cuando el párroco juzgue que están preparados, lo cual puede ser en otra época del año."
+   },
+   {
+    "q": "¿Y mi hijo de 10 años que no está bautizado?",
+    "a": "Los niños que han llegado al uso de razón siguen la adaptación para niños (a menudo llamada OCIC o RICN). Reciben juntos el Bautismo, la Confirmación y la Primera Comunión, normalmente en la Vigilia Pascual."
+   }
+  ],
+  "sources": [
+   "Can. 206",
+   "Can. 788",
+   "Can. 851–852",
+   "Can. 865–866",
+   "Can. 869",
+   "Can. 883, 2°",
+   "CIC 1229–1233",
+   "CIC 1247–1249",
+   "Ritual de la Iniciación Cristiana de Adultos",
+   "Estatutos Nacionales para el Catecumenado (USCCB)"
+  ]
+ },
+ {
+  "id": "godparent",
+  "title": "Ser padrino o madrina de Bautismo o de Confirmación",
+  "icon": "hands",
+  "summary": "El padrino o la madrina (Bautismo) o el padrino (Confirmación, OCIA) ayuda a la persona a llevar una vida cristiana y a cumplir las obligaciones del sacramento (Can. 872). El derecho de la Iglesia fija unos requisitos mínimos (Can. 874). En EE. UU. casi siempre necesitará un 'certificado de padrino' (también llamado carta de idoneidad o declaración jurada de padrino) de su propia parroquia. Los requisitos de esta página combinan el derecho universal de la Iglesia con la práctica común en EE. UU. Las diócesis y parroquias varían, y el despacho parroquial tiene la última palabra.",
+  "timeline": "Solicite el certificado de padrino en cuanto se lo pidan. Calcule de 1 a 4 semanas. Algunas parroquias solo expiden certificados a personas que llevan cierto tiempo inscritas allí (a menudo 3–6 meses). Muchas parroquias donde se celebra el bautismo lo quieren con fecha de los últimos 6 meses.",
+  "contact": "El despacho de la parroquia donde USTED está inscrito (no la parroquia donde se celebrará el Bautismo o la Confirmación)",
+  "documents": [
+   {
+    "name": "Certificado de padrino / carta de idoneidad",
+    "detail": "Firmado por su párroco (o su delegado) con el sello parroquial, que certifica que usted es un católico practicante que cumple el Can. 874. Se envía a usted o a la parroquia donde se celebra el Bautismo o la Confirmación.",
+    "where": "Su propia parroquia de inscripción",
+    "level": "common"
+   },
+   {
+    "name": "Formulario de solicitud de padrino",
+    "detail": "Muchas parroquias le piden llenar un formulario o firmar una declaración: confirmado, recibe la Eucaristía, asiste a Misa y (si está casado) casado por la Iglesia",
+    "where": "Su parroquia",
+    "level": "common"
+   },
+   {
+    "name": "Comprobante de su Confirmación",
+    "detail": "Si su parroquia no tiene sus registros, presente una fe de bautismo con notas marginales o un certificado de Confirmación",
+    "where": "Su parroquia de bautismo o de Confirmación",
+    "level": "if-applicable"
+   },
+   {
+    "name": "Información sobre el matrimonio",
+    "detail": "Si está casado, su parroquia puede pedir prueba de que el matrimonio está reconocido por la Iglesia",
+    "where": "Acta de matrimonio / registros parroquiales",
+    "level": "if-applicable"
+   },
+   {
+    "name": "Comprobante de inscripción",
+    "detail": "Algunas parroquias exigen que usted lleve un tiempo mínimo inscrito y activo",
+    "where": "Su parroquia",
+    "level": "if-applicable"
+   },
+   {
+    "name": "Constancia de la plática para padrinos",
+    "detail": "Algunas parroquias donde se celebra el bautismo exigen que los padrinos asistan a la plática prebautismal",
+    "where": "La parroquia donde tomó la plática",
+    "level": "if-applicable"
+   }
+  ],
+  "people": [
+   {
+    "role": "Padrino o madrina (Bautismo) / padrino (Confirmación, OCIA)",
+    "requirements": [
+     "Elegido por quien va a ser bautizado, por sus padres o (en su defecto) por el párroco, y dispuesto a desempeñar esa función (Can. 874 §1, 1°)",
+     "Tener al menos 16 años, a no ser que el obispo diocesano haya establecido otra edad o que el párroco conceda una excepción por causa justa (Can. 874 §1, 2°)",
+     "Ser católico, estar confirmado y haber recibido ya el Santísimo Sacramento de la Eucaristía (Can. 874 §1, 3°)",
+     "Llevar una vida congruente con la fe y con la función que va a asumir (Can. 874 §1, 3°); en la práctica de EE. UU. esto suele entenderse como asistir a Misa con regularidad y, si está casado, tener un matrimonio reconocido por la Iglesia",
+     "No estar afectado por una pena canónica legítimamente impuesta o declarada (Can. 874 §1, 4°)",
+     "No ser el padre o la madre de quien va a ser bautizado (Can. 874 §1, 5°)",
+     "Solo se requiere un padrino o una madrina; si son dos, deben ser un hombre y una mujer (Can. 873)",
+     "Para la Confirmación se aplican los mismos requisitos (Can. 893 §1), y se recomienda escoger a uno de los padrinos de bautismo (Can. 893 §2)",
+     "Un cristiano bautizado no católico solo puede participar como testigo cristiano junto a un padrino católico, nunca como padrino (Can. 874 §2). Una persona no bautizada no puede desempeñar ninguna de las dos funciones."
+    ],
+    "documents": [
+     "Certificado de padrino / carta de idoneidad de su propia parroquia"
+    ]
+   }
+  ],
+  "steps": [
+   "Verifique que cumple los requisitos, sobre todo la Confirmación, recibir la Eucaristía y (si está casado) un matrimonio reconocido por la Iglesia",
+   "Inscríbase en una parroquia si aún no lo ha hecho",
+   "Llame al despacho de su parroquia y pida un certificado de padrino para [nombre], cuyo Bautismo o Confirmación será el [fecha] en [parroquia]",
+   "Llene el formulario de solicitud que le den y reúnase con el párroco si se lo pide",
+   "Envíe el certificado a la familia o a la parroquia donde se celebra el Bautismo o la Confirmación antes de su fecha límite",
+   "Asista a la plática o al ensayo que se exija",
+   "Acompañe a la persona en el sacramento, y siga orando por ella y apoyándola después"
+  ],
+  "classes": "A veces la plática prebautismal para padrinos, o una sesión para padrinos en los programas de Confirmación. Pregunte en la parroquia donde se celebrará el sacramento.",
+  "dayOf": [
+   "Bautismo: cargue al niño o póngase junto a él, renuncie al pecado y profese la fe con los padres, y con frecuencia encienda la vela bautismal",
+   "Confirmación: póngase detrás del candidato con la mano derecha sobre su hombro mientras el obispo lo unge",
+   "Su nombre se anota en el libro sacramental"
+  ],
+  "faq": [
+   {
+    "q": "¿Puedo ser padrino si no estoy confirmado?",
+    "a": "No. El padrino debe ser un católico confirmado que haya recibido la Eucaristía (Can. 874 §1, 3°). Si nunca se confirmó, vea la Confirmación de adultos."
+   },
+   {
+    "q": "¿Puede un no católico ser padrino?",
+    "a": "Un cristiano bautizado no católico puede participar como 'testigo cristiano' junto a un padrino católico, pero no como padrino (Can. 874 §2)."
+   },
+   {
+    "q": "Me casé fuera de la Iglesia. ¿Puedo ser padrino?",
+    "a": "Por lo general, no hasta que el matrimonio se convalide. La mayoría de las parroquias de EE. UU. entienden que 'una vida congruente con la fe y con la función que va a asumir' (Can. 874 §1, 3°) exige un matrimonio reconocido por la Iglesia. Hable con su párroco."
+   },
+   {
+    "q": "¿Qué edad debe tener un padrino?",
+    "a": "Al menos 16 años (Can. 874 §1, 2°), a no ser que el obispo diocesano haya establecido otra edad o que el párroco o el ministro conceda una excepción por causa justa."
+   },
+   {
+    "q": "¿Puede uno de los padres ser padrino?",
+    "a": "No (Can. 874 §1, 5°). Los abuelos, hermanos y otros familiares pueden serlo si cumplen los requisitos."
+   },
+   {
+    "q": "No pertenezco a ninguna parroquia. ¿Aun así puedo obtener una carta de padrino?",
+    "a": "Inscríbase en una parroquia y hable con sinceridad con el párroco. Algunos expedirán la carta una vez que lo conozcan. Otros exigen un período de participación activa."
+   }
+  ],
+  "sources": [
+   "Can. 872–874",
+   "Can. 892–893",
+   "CIC 1255",
+   "CIC 1311"
+  ]
+ },
+ {
+  "id": "holy-orders-discernment",
+  "title": "Orden Sagrado: discernir el sacerdocio o el diaconado",
+  "icon": "stole",
+  "summary": "El Orden Sagrado es el sacramento por el cual se ordenan los obispos, los presbíteros y los diáconos (solo un varón bautizado puede recibir válidamente la ordenación, Can. 1024). Los sacerdotes diocesanos sirven a una diócesis, y los sacerdotes religiosos pertenecen a una orden o congregación (p. ej., franciscanos, dominicos, jesuitas). Los diáconos permanentes pueden estar casados. El discernimiento empieza con una conversación, no con trámites. Los requisitos de esta página combinan el derecho universal de la Iglesia con la práctica común en EE. UU. Las diócesis y parroquias varían, y el despacho parroquial tiene la última palabra.",
+  "timeline": "Comuníquese con un director vocacional en cualquier momento. Las solicitudes para el seminario o para la formación diaconal suelen venir después de meses o más de discernimiento. La mayoría de las diócesis de EE. UU. esperan que los conversos lleven un tiempo siendo católicos antes de presentar la solicitud (a menudo algunos años). La formación sacerdotal suele durar 6–8 años. La formación para el diaconado permanente suele durar unos 4–5 años después de un período de aspirantado.",
+  "contact": "El director diocesano de vocaciones (sacerdocio) o la oficina diocesana del diaconado permanente. Para la vida religiosa, el director vocacional de la comunidad. Su párroco es una buena primera conversación.",
+  "documents": [
+   {
+    "name": "Fe de bautismo con notas marginales, de expedición reciente",
+    "detail": "Se requiere para la admisión y antes de la ordenación",
+    "where": "Parroquia de bautismo",
+    "level": "church-law"
+   },
+   {
+    "name": "Certificado de Confirmación",
+    "detail": "La Confirmación es requisito previo a la ordenación (Can. 1033)",
+    "where": "Parroquia de la Confirmación",
+    "level": "church-law"
+   },
+   {
+    "name": "Expediente de solicitud",
+    "detail": "Autobiografía, cuestionario y referencias de su párroco y de otras personas",
+    "where": "Oficina de vocaciones",
+    "level": "common"
+   },
+   {
+    "name": "Certificados de estudios",
+    "detail": "De preparatoria (high school) y universidad, para la ubicación en el seminario",
+    "where": "Escuelas",
+    "level": "common"
+   },
+   {
+    "name": "Evaluación psicológica y examen médico",
+    "detail": "Son habituales en la admisión al seminario y al diaconado en EE. UU.",
+    "where": "Los organiza la oficina de vocaciones",
+    "level": "common"
+   },
+   {
+    "name": "Verificación de antecedentes y capacitación en ambiente seguro",
+    "detail": "Se exigen en las diócesis de EE. UU.",
+    "where": "Las organiza la diócesis",
+    "level": "common"
+   },
+   {
+    "name": "Registros de matrimonio y de bautismo de los padres",
+    "detail": "Algunas diócesis los piden para el expediente de solicitud",
+    "where": "Parroquias de los padres",
+    "level": "if-applicable"
+   },
+   {
+    "name": "Diaconado permanente (hombres casados): acta de matrimonio y consentimiento por escrito de la esposa",
+    "detail": "Un candidato casado necesita el consentimiento de su esposa (Can. 1031 §2). El matrimonio debe estar reconocido por la Iglesia.",
+    "where": "Parroquia del matrimonio / esposa",
+    "level": "if-applicable"
+   },
+   {
+    "name": "Decreto(s) de nulidad",
+    "detail": "Si el candidato o su esposa estuvieron casados antes",
+    "where": "Tribunal diocesano",
+    "level": "if-applicable"
+   }
+  ],
+  "people": [
+   {
+    "role": "Candidato",
+    "requirements": [
+     "Un varón católico bautizado (Can. 1024) y confirmado (Can. 1033)",
+     "Sacerdocio (Iglesia latina): generalmente soltero y comprometido con el celibato. La edad mínima para la ordenación sacerdotal es de 25 años (Can. 1031 §1).",
+     "Diaconado permanente: un hombre casado puede ser ordenado a partir de los 35 años, con el consentimiento de su esposa (Can. 1031 §2). Las diócesis a menudo fijan su propia edad máxima para presentar la solicitud.",
+     "Debe gozar de buena salud, tener madurez psicológica y estar libre de irregularidades e impedimentos (Can. 1040–1049). La oficina de vocaciones los explica."
+    ],
+    "documents": []
+   }
+  ],
+  "steps": [
+   "Ore, y hable con su párroco o con un director espiritual",
+   "Comuníquese con el director diocesano de vocaciones o con la oficina del diaconado (o con el director vocacional de una comunidad religiosa)",
+   "Asista a encuentros de discernimiento, retiros o una visita de 'ven y verás'",
+   "Inicie la solicitud formal cuando el director vocacional se lo aconseje",
+   "Complete las entrevistas, las evaluaciones y los documentos indicados aquí",
+   "Si es aceptado: formación en el seminario o para el diaconado, con un discernimiento continuo durante todo el camino"
+  ],
+  "classes": "Formación en el seminario (a menudo 6–8 años, según los estudios previos) o formación diaconal (a menudo 4–5 años después de un período de aspirantado). Las comunidades religiosas tienen sus propias etapas (postulantado, noviciado, votos).",
+  "dayOf": [
+   "La ordenación la celebra un obispo, normalmente en la catedral. El ordenando se postra durante las Letanías de los Santos; luego el obispo le impone las manos y dice la Plegaria de Ordenación."
+  ],
+  "faq": [
+   {
+    "q": "Me convertí hace poco. ¿Puedo presentar mi solicitud?",
+    "a": "Normalmente, después de algunos años de vida católica activa. Muchas diócesis exigen al menos 2–3 años. Pregunte al director vocacional."
+   },
+   {
+    "q": "¿Pueden los hombres casados hacerse sacerdotes?",
+    "a": "En la Iglesia latina, por lo general no. Existen excepciones muy limitadas (por ejemplo, algunos exministros protestantes casados que han sido recibidos en la Iglesia). Las Iglesias católicas orientales tienen su propia disciplina. Los hombres casados pueden ser diáconos permanentes."
+   },
+   {
+    "q": "¿Y las mujeres?",
+    "a": "Las mujeres pueden discernir la vida religiosa como hermanas o monjas, o la virginidad consagrada. Comuníquese con la oficina diocesana de vocaciones o con una comunidad religiosa."
+   }
+  ],
+  "sources": [
+   "Can. 1008–1054",
+   "Can. 1024",
+   "Can. 1031",
+   "Can. 1033",
+   "CIC 1536–1600",
+   "Programa de Formación Sacerdotal (USCCB)",
+   "Directorio Nacional para la Formación, el Ministerio y la Vida de los Diáconos Permanentes (USCCB)"
+  ]
+ }
+]

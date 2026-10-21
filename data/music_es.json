@@ -1,0 +1,593 @@
+{
+ "parts": {
+  "entrance": {
+   "name": "Canto de entrada",
+   "when": "mientras el sacerdote y los ministros entran en procesión",
+   "about": "El canto inicial abre la celebración, fomenta la unión de los fieles reunidos, los introduce en el misterio del tiempo litúrgico o de la fiesta, y acompaña la procesión del sacerdote y los ministros (IGMR 47). Puede ser la antífona con su salmo del Misal Romano o del Gradual, u otro canto litúrgico adecuado (IGMR 48)."
+  },
+  "kyrie": {
+   "name": "Kyrie (Señor, ten piedad)",
+   "when": "después del acto penitencial, o como parte de él",
+   "about": "Una breve letanía en la que el pueblo aclama al Señor e implora su misericordia; normalmente cada invocación la canta dos veces el cantor y la asamblea (IGMR 52). Sus palabras griegas están entre las más antiguas de la Misa romana."
+  },
+  "gloria": {
+   "name": "Gloria",
+   "when": "después del Kyrie los domingos (fuera de Adviento y Cuaresma), las solemnidades y las fiestas",
+   "about": "Un himno antiquísimo con el que la Iglesia, congregada en el Espíritu Santo, glorifica al Padre y al Cordero. Está pensado para ser cantado y su texto no puede sustituirse por otro canto (IGMR 53); se omite los domingos de Adviento y de Cuaresma."
+  },
+  "psalm": {
+   "name": "Salmo responsorial",
+   "when": "después de la primera lectura",
+   "about": "El salmo es parte integral de la Liturgia de la Palabra, idealmente cantado con el pueblo respondiendo con un estribillo (IGMR 61). Debe ser el salmo mismo tal como aparece en el Leccionario o en una colección aprobada, de modo que un himno que lo parafrasea libremente no lo sustituye; los cantos basados en salmos que aparecen aquí son más adecuados para la Comunión o para los salmos comunes de cada tiempo, donde estén aprobados."
+  },
+  "gospel-acclamation": {
+   "name": "Aclamación antes del Evangelio",
+   "when": "de pie, antes de la proclamación del Evangelio",
+   "about": "La asamblea acoge al Señor que va a hablarle en el Evangelio y profesa su fe con el canto (IGMR 62). El Aleluya se canta en todos los tiempos excepto en Cuaresma, cuando lo sustituye otra aclamación del Leccionario (IGMR 62)."
+  },
+  "offertory": {
+   "name": "Preparación de los dones (Ofertorio)",
+   "when": "mientras se llevan el pan y el vino y se prepara el altar",
+   "about": "Un canto puede acompañar la procesión con los dones y prolongarse hasta que estos se colocan sobre el altar (IGMR 74). A diferencia del Santo o del Cordero de Dios, su texto no es fijo, así que aquí son comunes los himnos y la música instrumental."
+  },
+  "sanctus": {
+   "name": "Santo (Sanctus)",
+   "when": "al final del prefacio de la Plegaria Eucarística",
+   "about": "Toda la asamblea se une al canto de los ángeles de Isaías 6 y al Hosanna de la multitud el Domingo de Ramos (IGMR 79b). Forma parte de la Plegaria Eucarística y lo cantan todos, sacerdote y pueblo juntos."
+  },
+  "mystery-of-faith": {
+   "name": "Misterio de la fe (aclamación memorial)",
+   "when": "después de la consagración, cuando el sacerdote invita a ella",
+   "about": "El pueblo anuncia la muerte y la Resurrección de Cristo y espera su venida, usando una de las aclamaciones que da el Misal Romano. Como sus textos son fijos, se canta como parte de una Misa musicalizada en lugar de sustituirse por un himno."
+  },
+  "great-amen": {
+   "name": "Gran Amén",
+   "when": "después de la doxología que concluye la Plegaria Eucarística",
+   "about": "El sacerdote pronuncia la doxología final y el pueblo confirma y concluye toda la Plegaria Eucarística con su Amén (IGMR 79h). Muchas composiciones lo extienden en una aclamación festiva y repetida."
+  },
+  "agnus-dei": {
+   "name": "Cordero de Dios (Agnus Dei)",
+   "when": "durante la fracción del pan",
+   "about": "La invocación acompaña la fracción del pan consagrado y puede repetirse cuantas veces sea necesario mientras dura la fracción, terminando siempre con la súplica de la paz (IGMR 83)."
+  },
+  "communion": {
+   "name": "Canto de Comunión",
+   "when": "mientras el sacerdote y el pueblo reciben la Comunión",
+   "about": "El canto expresa la unión espiritual de quienes comulgan por la unidad de las voces y pone de relieve el carácter comunitario de la procesión (IGMR 86). Comienza cuando comulga el sacerdote y puede ser la antífona del Misal o del Gradual, un salmo u otro canto adecuado (IGMR 87); una vez que todos han comulgado puede seguir un himno de alabanza (IGMR 88)."
+  },
+  "recessional": {
+   "name": "Canto de salida",
+   "when": "mientras se retiran el sacerdote y los ministros",
+   "about": "La Instrucción General del Misal Romano no prescribe un canto final: la Misa termina con la despedida, y luego los ministros veneran el altar y se retiran (IGMR 90). Un canto final o música de órgano es una costumbre muy extendida en Estados Unidos, no una parte obligatoria del rito."
+  }
+ },
+ "seasons": {
+  "advent": {
+   "name": "Adviento",
+   "about": "Las cuatro semanas de preparación expectante antes de la Navidad. El Gloria se omite los domingos de Adviento, y la música debe ser más sobria que en Navidad, para no anticipar la plena alegría de la fiesta."
+  },
+  "christmas": {
+   "name": "Navidad",
+   "about": "Desde la Vigilia de Navidad hasta el Bautismo del Señor, incluidas la Sagrada Familia, Santa María, Madre de Dios, y la Epifanía. Los villancicos que guardaron silencio en Adviento ahora resuenan plenamente."
+  },
+  "lent": {
+   "name": "Cuaresma",
+   "about": "Los cuarenta días desde el Miércoles de Ceniza que conducen al Triduo Pascual. Se omite el Gloria y el Aleluya no se canta en absoluto hasta la Vigilia Pascual, y los instrumentos se usan con más moderación."
+  },
+  "holy-week": {
+   "name": "Semana Santa",
+   "about": "Desde el Domingo de Ramos hasta el Sagrado Triduo Pascual: la Misa de la Cena del Señor, el Viernes Santo y la Vigilia Pascual. Cada día tiene sus propios cantos característicos, desde los Hosannas del Domingo de Ramos hasta el Pregón Pascual (Exsultet)."
+  },
+  "easter": {
+   "name": "Pascua",
+   "about": "Los cincuenta días desde el Domingo de Pascua hasta Pentecostés, celebrados como una sola gran fiesta. Vuelve el Aleluya y el Gloria se canta todos los domingos."
+  },
+  "pentecost": {
+   "name": "Pentecostés",
+   "about": "La conclusión del tiempo de Pascua, que celebra la efusión del Espíritu Santo; la secuencia Veni Sancte Spiritus se canta antes del Evangelio el Domingo de Pentecostés. Estos cantos también son adecuados para la Confirmación."
+  },
+  "ordinary": {
+   "name": "Tiempo Ordinario",
+   "about": "Las semanas 'numeradas' del año fuera de los tiempos fuertes, cuando la Iglesia sigue el ministerio público de Cristo. Aquí encaja un amplio repertorio de himnos de alabanza, discipulado y misión."
+  },
+  "marian": {
+   "name": "Fiestas marianas",
+   "about": "Cantos en honor de la Santísima Virgen María para sus solemnidades y fiestas, para las devociones de mayo y octubre, y para las antífonas marianas de cada tiempo que se cantan después de Completas."
+  },
+  "eucharistic-adoration": {
+   "name": "Adoración eucarística",
+   "about": "Cantos para la exposición y la bendición con el Santísimo Sacramento, las Horas Santas y las procesiones de Corpus Christi. Tradicionalmente se canta el Tantum Ergo antes de la bendición con el Santísimo."
+  },
+  "funeral": {
+   "name": "Exequias",
+   "about": "Cantos para el Ritual de Exequias Cristianas, que expresan a la vez el dolor y la esperanza en la Resurrección. El In Paradisum es el canto tradicional mientras el cuerpo es llevado fuera de la iglesia."
+  },
+  "wedding": {
+   "name": "Bodas",
+   "about": "Cantos adecuados para una boda católica, celebrada dentro de la Misa o no. La música debe ser sagrada y no profana; consulte las pautas de la parroquia, que con frecuencia tienen una lista."
+  },
+  "saints": {
+   "name": "Fiestas de santos",
+   "about": "Cantos para el Día de Todos los Santos, las fiestas de santos particulares y las ocasiones que celebran la comunión de los santos."
+  }
+ },
+ "songs": {
+  "kyrie-de-angelis": {
+   "about": "El Kyrie es uno de los pocos textos griegos que se conservan en la Misa latina, un clamor de misericordia dirigido a Cristo. La versión 'de Angelis' es la Misa gregoriana más conocida en Estados Unidos y con frecuencia la primera Misa en canto gregoriano que aprende una parroquia."
+  },
+  "gloria-de-angelis": {
+   "about": "El Gloria comienza con el canto de los ángeles en Belén y se convierte en un himno al Padre y a Cristo, el Cordero. Se canta los domingos fuera de Adviento y Cuaresma, y en las solemnidades y fiestas."
+  },
+  "sanctus-de-angelis": {
+   "about": "El Sanctus une el clamor de los serafines de la visión de Isaías con la aclamación de la multitud que recibió a Jesús en Jerusalén. Lo canta toda la asamblea al final del prefacio, cuando comienza la Plegaria Eucarística."
+  },
+  "agnus-dei-de-angelis": {
+   "about": "El Agnus Dei hace eco de Juan el Bautista cuando señala a Jesús como el Cordero de Dios. Acompaña la fracción de la Hostia consagrada y puede repetirse mientras dure la fracción, terminando siempre con la súplica de la paz."
+  },
+  "kyrie-xviii": {
+   "about": "La Misa XVIII es el ordinario gregoriano más sencillo del Gradual Romano, usado tradicionalmente en los días de semana de Adviento y Cuaresma y en las Misas de difuntos. Su melodía estrecha, casi hablada, se adapta bien a los tiempos penitenciales."
+  },
+  "sanctus-xviii": {
+   "about": "Un Sanctus gregoriano muy sencillo, cercano a un tono de recitación, que cualquier asamblea puede aprender con oírlo una sola vez. Aparece en el apéndice de cantos del Misal Romano de EE. UU. y en muchos folletos parroquiales."
+  },
+  "agnus-dei-xviii": {
+   "about": "El Agnus Dei en canto llano de la Misa XVIII, a menudo junto con su Sanctus durante Adviento y Cuaresma. Su sencillez lo hace un buen primer canto latino para una asamblea."
+  },
+  "pater-noster": {
+   "about": "La oración que Jesús enseñó a sus discípulos, cantada juntos por el sacerdote y el pueblo antes de la Comunión. El tono gregoriano latino que trae el Misal Romano es breve y muy conocido; el Padrenuestro tradicional en lengua vernácula también se canta comúnmente con una melodía adaptada de él."
+  },
+  "credo-iii": {
+   "about": "El Credo nicenoconstantinopolitano, que se profesa los domingos y solemnidades después de la homilía. El Credo III, una melodía gregoriana tardía, es la versión cantada que conocen la mayoría de las parroquias; el Credo puede cantarse o recitarse."
+  },
+  "per-ipsum": {
+   "about": "El sacerdote canta esta doxología mientras eleva el Cuerpo y la Sangre de Cristo al final de la Plegaria Eucarística; el pueblo responde con el Gran Amén. Solo el sacerdote canta la doxología; el Amén es de todos."
+  },
+  "salve-regina": {
+   "about": "La más conocida de las cuatro antífonas marianas de cada tiempo, cantada al final de Completas desde después de Pentecostés hasta el Adviento. Muchas parroquias la cantan después de la última Misa del día, en las exequias de sacerdotes y religiosos, y al final del Rosario."
+  },
+  "regina-caeli": {
+   "about": "La antífona mariana de Pascua, cantada desde la Vigilia Pascual hasta Pentecostés; durante esas semanas también sustituye al Ángelus. Sus cuatro versos breves felicitan a María por la resurrección de su Hijo."
+  },
+  "alma-redemptoris-mater": {
+   "about": "La antífona mariana de Adviento y Navidad, cantada desde el primer domingo de Adviento hasta la Presentación del Señor (2 de febrero). Recuerda la Anunciación y la maternidad virginal de María."
+  },
+  "ave-regina-caelorum": {
+   "about": "La antífona mariana desde el 2 de febrero hasta el Jueves Santo, por lo que es la que se escucha durante la Cuaresma. Saluda a María como la 'raíz' de Jesé y la puerta por la que Cristo, la luz, entró en el mundo."
+  },
+  "ave-maria-chant": {
+   "about": "El saludo del ángel y la bendición de Isabel, seguidos de la súplica de la Iglesia. Además del canto gregoriano, el texto latino se canta a menudo como solo en las bodas (con frecuencia mientras los novios honran a la Virgen) y en las exequias, en las versiones de Schubert o de Bach–Gounod."
+  },
+  "ave-maris-stella": {
+   "about": "Un antiguo himno de Vísperas para las fiestas marianas. La segunda estrofa juega con la inversión de 'Eva' en 'Ave': María deshace la desobediencia de Eva."
+  },
+  "sub-tuum-praesidium": {
+   "about": "La oración a María más antigua que se conoce fuera de la Escritura. Es una antífona breve y serena, adecuada para el final de una devoción mariana o de una Misa entre semana."
+  },
+  "o-sanctissima": {
+   "about": "Un himno latino a María, breve y fácil de cantar, con una melodía cadenciosa; es uno de los favoritos para las devociones de mayo y las procesiones marianas."
+  },
+  "magnificat-latin": {
+   "about": "El canto de María en la Visitación, que se canta cada tarde en Vísperas. En la Misa es un canto de acción de gracias apropiado después de la Comunión, sobre todo en las fiestas marianas y al final del Adviento."
+  },
+  "ave-verum-corpus": {
+   "about": "Un saludo medieval a Cristo presente en la Eucaristía, tradicionalmente cantado en la elevación. La breve y luminosa versión de Mozart es una de las piezas corales más cantadas durante la Comunión."
+  },
+  "panis-angelicus": {
+   "about": "Dos estrofas de un himno que santo Tomás de Aquino escribió para la nueva fiesta de Corpus Christi. La versión de Franck para voz solista es una elección constante durante la Comunión en bodas y Primeras Comuniones."
+  },
+  "tantum-ergo": {
+   "about": "Se canta en toda bendición con el Santísimo antes de que el sacerdote bendiga al pueblo con la custodia, y en el traslado del Santísimo Sacramento el Jueves Santo. Cierra el Pange lingua de santo Tomás de Aquino."
+  },
+  "o-salutaris-hostia": {
+   "about": "Tradicionalmente se canta mientras se coloca el Santísimo Sacramento en la custodia al comienzo de la exposición. Junto con el Tantum ergo, enmarca casi todas las Horas Santas en Estados Unidos."
+  },
+  "pange-lingua": {
+   "about": "El himno de santo Tomás de Aquino para Corpus Christi, cantado sobre todo al final de la Misa de la Cena del Señor el Jueves Santo, mientras el Santísimo Sacramento es llevado al monumento."
+  },
+  "adoro-te-devote": {
+   "about": "Una meditación personal sobre la presencia oculta de Cristo en la Eucaristía, que pasa del incrédulo Tomás y el buen ladrón a la esperanza de ver a Dios cara a cara. Se canta durante la adoración y como un canto de Comunión sereno."
+  },
+  "lauda-sion": {
+   "about": "La secuencia opcional de la Solemnidad del Santísimo Cuerpo y Sangre de Cristo, cantada antes del Aleluya. El texto completo tiene 24 estrofas; el Misal permite la forma breve que comienza 'Ecce panis angelorum'."
+  },
+  "ubi-caritas": {
+   "about": "Se canta durante o después del lavatorio de los pies y en la presentación de los dones el Jueves Santo; el Misal actual da el estribillo como 'Ubi caritas est vera' ('donde la caridad es verdadera'). Su tema de amor y unidad también lo hace uno de los favoritos en las bodas."
+  },
+  "attende-domine": {
+   "about": "Una letanía penitencial cuyo estribillo pide a Dios que escuche y tenga piedad de su pueblo pecador. Es el clásico canto latino de entrada o penitencial de la Cuaresma."
+  },
+  "parce-domine": {
+   "about": "Un estribillo breve basado en el llamado del profeta Joel a los sacerdotes a llorar entre el atrio y el altar; Joel 2 también se lee el Miércoles de Ceniza. Con frecuencia se canta durante la imposición de la ceniza y a lo largo de la Cuaresma, alternándolo con versos penitenciales."
+  },
+  "stabat-mater": {
+   "about": "Una meditación medieval sobre María al pie de la cruz. Es la secuencia opcional de Nuestra Señora de los Dolores (15 de septiembre) y tradicionalmente se canta entre las estaciones del Viacrucis."
+  },
+  "vexilla-regis": {
+   "about": "Escrito para la llegada de una reliquia de la Vera Cruz a Poitiers, este himno se canta en Vísperas durante la Semana Santa y en la Exaltación de la Santa Cruz (14 de septiembre). La estrofa 'O Crux, ave' a menudo se canta sola."
+  },
+  "crux-fidelis": {
+   "about": "El estribillo del gran himno que se canta durante la adoración de la cruz el Viernes Santo. Alaba el madero de la cruz como árbol de la vida."
+  },
+  "hosanna-filio-david": {
+   "about": "La primera antífona que da el Misal para la bendición de los ramos el Domingo de Ramos, tomada del Evangelio de la entrada del Señor en Jerusalén."
+  },
+  "pueri-hebraeorum": {
+   "about": "Una de las antífonas procesionales del Domingo de Ramos, tradicionalmente cantada mientras el pueblo entra en la iglesia con sus ramos."
+  },
+  "exsultet": {
+   "about": "El largo pregón que canta un diácono o un sacerdote junto al cirio pascual al comienzo de la Vigilia Pascual, después de la procesión con la aclamación 'Lumen Christi'. Aquí solo se da su comienzo; el texto oficial en inglés pertenece al Misal Romano y no se reproduce."
+  },
+  "victimae-paschali-laudes": {
+   "about": "La secuencia de Pascua, obligatoria el Domingo de Pascua y opcional durante la Octava; se canta antes del Aleluya. Presenta un breve diálogo con María Magdalena, la primera testigo del sepulcro vacío."
+  },
+  "vidi-aquam": {
+   "about": "La antífona del rito de aspersión con agua bendita durante el tiempo de Pascua, que puede sustituir al acto penitencial los domingos. Lee el río del Templo de Ezequiel como el agua del bautismo que brota del costado de Cristo."
+  },
+  "asperges-me": {
+   "about": "La antífona tradicional del rito de aspersión dominical fuera del tiempo de Pascua, tomada del gran salmo penitencial de David. El rito recuerda el bautismo y puede ocupar el lugar del acto penitencial."
+  },
+  "veni-creator-spiritus": {
+   "about": "El gran himno al Espíritu Santo, cantado en Pentecostés, en las Confirmaciones, en las ordenaciones y en la apertura de un cónclave. Es uno de los himnos más usados en la Iglesia latina."
+  },
+  "veni-sancte-spiritus": {
+   "about": "Llamada la 'Secuencia de Oro', es obligatoria el Domingo de Pentecostés y se canta antes del Aleluya. Cada breve estrofa nombra una manera en que el Espíritu consuela, sana o guía."
+  },
+  "rorate-caeli": {
+   "about": "El canto de Adviento por excelencia, basado en el anhelo de Isaías de que los cielos lluevan la salvación. Su estribillo es también la antífona de entrada del cuarto domingo de Adviento."
+  },
+  "puer-natus-est": {
+   "about": "El introito gregoriano de la Misa del día de Navidad. La redacción de la Vulgata (basada en el griego), 'Ángel del gran consejo', difiere de las traducciones modernas de Isaías."
+  },
+  "hodie-christus-natus-est": {
+   "about": "La antífona del Cántico de María en las Vísperas del día de Navidad, cuyo 'hoy' repetido hace presente la fiesta. Es una de las favoritas de los coros como preludio o después de la Comunión durante el tiempo de Navidad."
+  },
+  "in-paradisum": {
+   "about": "Se canta mientras el cuerpo es llevado fuera de la iglesia al final de la liturgia exequial. Presenta a los ángeles y los mártires acompañando el alma a la Jerusalén celestial, como los ángeles llevaron al pobre Lázaro al seno de Abraham."
+  },
+  "requiem-aeternam": {
+   "about": "El introito tradicional de la Misa de difuntos, que dio su nombre a la 'Misa de Réquiem'. Su antífona se inspira en el libro no canónico de 4 Esdras; el verso es del Salmo 65."
+  },
+  "lux-aeterna": {
+   "about": "La antífona de Comunión tradicional de la Misa de Réquiem, que pide que los difuntos compartan la luz sin fin de los santos."
+  },
+  "dies-irae": {
+   "about": "La secuencia medieval de la Misa de Réquiem. Desde la reforma de 1970 ya no forma parte de la Misa exequial en la forma ordinaria; sobrevive como himno opcional en la Liturgia de las Horas para la última semana del Tiempo Ordinario y todavía se canta en la forma extraordinaria."
+  },
+  "te-deum": {
+   "about": "El gran himno de acción de gracias de la Iglesia, cantado al final del Oficio de Lectura los domingos y fiestas y en ocasiones solemnes, como la elección de un papa, una ordenación o el último día del año. 'Holy God, We Praise Thy Name' es una paráfrasis alemana de él."
+  },
+  "christus-vincit": {
+   "about": "El vibrante estribillo de las 'aclamaciones reales' carolingias, una letanía que aclama a Cristo Rey e invoca a los santos. Se usa en la Solemnidad de Cristo Rey, en las Misas episcopales y en grandes procesiones."
+  },
+  "holy-god-we-praise-thy-name": {
+   "about": "Una paráfrasis alemana del antiguo Te Deum, llevada al inglés por un sacerdote estadounidense que fue redentorista y luego paulista. Es uno de los himnos procesionales más cantados en las parroquias de Estados Unidos, sobre todo en ocasiones solemnes."
+  },
+  "immaculate-mary": {
+   "about": "El himno de las procesiones de las velas en Lourdes, cuyo estribillo es un sencillo Ave. Las parroquias estadounidenses lo cantan en la Inmaculada Concepción (la fiesta patronal de Estados Unidos) y durante mayo y octubre."
+  },
+  "o-sacred-head-surrounded": {
+   "about": "Una meditación dirigida al rostro herido de Cristo, que pasó del latín al alemán y al inglés a lo largo de cinco siglos. Bach usó la melodía repetidamente en su Pasión según san Mateo, y sigue siendo un clásico del Viernes Santo."
+  },
+  "silent-night": {
+   "about": "Se cantó por primera vez en la Nochebuena de 1818 en la iglesia de San Nicolás de Oberndorf (Austria), por su joven vicario y el organista de la parroquia, con acompañamiento de guitarra. A menudo se canta a la luz de las velas al final de la Misa de Gallo."
+  },
+  "o-come-all-ye-faithful": {
+   "about": "Una invitación a ir a Belén y adorar al Rey recién nacido, conservada en manuscritos copiados por un laico católico inglés exiliado en Francia. Oakeley, quien lo tradujo, siguió después a John Henry Newman a la Iglesia Católica."
+  },
+  "o-come-o-come-emmanuel": {
+   "about": "Cada estrofa retoma una de las 'antífonas O' que la Iglesia canta en Vísperas del 17 al 23 de diciembre, invocando a Cristo con un título del Antiguo Testamento. Es el himno emblemático del Adviento."
+  },
+  "hark-the-herald-angels-sing": {
+   "about": "Un himno metodista que condensa en sus estrofas buena parte de la doctrina de la Encarnación. La melodía proviene de una cantata que Mendelssohn escribió en honor de Gutenberg y la imprenta."
+  },
+  "joy-to-the-world": {
+   "about": "Watts lo escribió como paráfrasis de un salmo sobre la venida del Señor a reinar, no específicamente como villancico de Navidad. Se ha convertido en uno de los cantos de salida más conocidos del tiempo de Navidad."
+  },
+  "angels-we-have-heard-on-high": {
+   "about": "Su famoso estribillo de notas largas pone música a las palabras latinas que los ángeles cantaron a los pastores, las mismas con que empieza el Gloria de la Misa. La versión inglesa la hizo un obispo católico de Hexham y Newcastle."
+  },
+  "what-child-is-this": {
+   "about": "Dix puso su poema reflexivo de preguntas y respuestas con la antigua melodía inglesa Greensleeves. A menudo se canta en la preparación de los dones durante el tiempo de Navidad y en la Epifanía."
+  },
+  "faith-of-our-fathers": {
+   "about": "Faber, un converso oratoriano, lo escribió en honor de los católicos ingleses que conservaron la fe durante los tiempos de las leyes penales y el martirio. Se convirtió en un himno muy querido de la identidad católica estadounidense."
+  },
+  "holy-holy-holy": {
+   "about": "Escrito para el domingo de la Santísima Trinidad, se inspira en la visión del trono celestial de Apocalipsis 4. La melodía lleva el nombre del Concilio de Nicea, que defendió la doctrina de la Trinidad."
+  },
+  "come-holy-ghost": {
+   "about": "Una versión inglesa del antiguo Veni Creator Spiritus, cantada con una melodía de un jesuita francés. Es una elección tradicional para la Confirmación, Pentecostés y el inicio del año escolar."
+  },
+  "christ-the-lord-is-risen-today": {
+   "about": "El himno pascual de Wesley acentúa cada verso con un Aleluya. Comparte su melodía habitual con 'Jesus Christ Is Risen Today', y a veces se confunden."
+  },
+  "jesus-christ-is-risen-today": {
+   "about": "Uno de los himnos pascuales más cantados en el mundo de habla inglesa, derivado de un villancico latino medieval. Sus Aleluyas jubilosos lo hacen un canto natural de entrada o de salida el Domingo de Pascua."
+  },
+  "the-strife-is-oer": {
+   "about": "Un himno de la victoria de Cristo sobre la muerte, enmarcado por Aleluyas triples. Su melodía se adaptó de una pieza de Palestrina, el gran compositor de música sacra del Renacimiento."
+  },
+  "crown-him-with-many-crowns": {
+   "about": "Bridges, un anglicano que se hizo católico, construyó el himno sobre la imagen de las muchas coronas del Jinete de Apocalipsis 19. Es uno de los favoritos para la Solemnidad de Cristo Rey y el tiempo de Pascua."
+  },
+  "praise-to-the-lord-the-almighty": {
+   "about": "Un himno alemán de alabanza inspirado en los Salmos 103 y 150, al que Catherine Winkworth dio su forma inglesa clásica. Un canto de entrada fuerte y solemne para el Tiempo Ordinario."
+  },
+  "now-thank-we-all-our-god": {
+   "about": "Escrito por un pastor que ejerció su ministerio durante la Guerra de los Treinta Años y una peste mortal, se inspira en Sirácide (Eclesiástico) 50. En Estados Unidos es una elección natural para el Día de Acción de Gracias."
+  },
+  "all-creatures-of-our-god-and-king": {
+   "about": "Una paráfrasis inglesa libre del Cántico de las Criaturas de san Francisco, que llama a cada parte de la creación a alabar a Dios. Popular en torno a la fiesta de san Francisco (4 de octubre)."
+  },
+  "let-all-mortal-flesh-keep-silence": {
+   "about": "Tomado de una de las liturgias orientales más antiguas, donde se cantaba mientras se llevaban los dones al altar. Su melodía callada, en tono menor, se adapta a la preparación de los dones y al final del Adviento."
+  },
+  "sing-of-mary": {
+   "about": "Un himno sereno sobre la vida oculta de la Sagrada Familia en Nazaret. Se adapta a las fiestas marianas y a la fiesta de la Sagrada Familia."
+  },
+  "bring-flowers-of-the-rarest": {
+   "about": "El himno clásico de la coronación de mayo, cuando se corona con flores una imagen de María. Su autoría es incierta; aparece en los himnarios católicos desde finales del siglo XIX."
+  },
+  "hail-holy-queen-enthroned-above": {
+   "about": "No es una traducción del canto gregoriano Salve Regina, sino un himno distinto que honra a María como Reina, con un festivo estribillo 'Salve'. Es un canto de salida frecuente en las fiestas marianas."
+  },
+  "to-jesus-christ-our-sovereign-king": {
+   "about": "Lo escribió un párroco de San Luis, líder del movimiento litúrgico estadounidense, para la fiesta de Cristo Rey, instituida por el papa Pío XI en 1925. Su estribillo es una vibrante aclamación de la realeza de Cristo."
+  },
+  "be-thou-my-vision": {
+   "about": "Una antigua oración irlandesa que pide a Dios ser el centro de cada parte de la vida. La melodía lleva el nombre de la colina donde, según la tradición, san Patricio encendió un fuego pascual desafiando al Gran Rey."
+  },
+  "joyful-joyful-we-adore-thee": {
+   "about": "Un ministro presbiteriano estadounidense escribió esta letra para la famosa melodía del 'Himno a la alegría' de Beethoven. Es un himno luminoso y popular para bodas y para la Pascua."
+  },
+  "amazing-grace": {
+   "about": "Lo escribió un antiguo capitán de barco negrero que llegó a ser clérigo anglicano, reflexionando sobre su propia conversión. No es un texto litúrgico, pero se pide con frecuencia en las exequias."
+  },
+  "were-you-there": {
+   "about": "Un espiritual que sitúa a quien canta al pie de la Cruz y ante el sepulcro. Se canta mucho el Viernes Santo y durante la Cuaresma."
+  },
+  "lift-high-the-cross": {
+   "about": "Un himno procesional pensado para una cruz llevada al frente de la procesión. Especialmente apropiado en la Exaltación de la Santa Cruz (14 de septiembre)."
+  },
+  "o-god-our-help-in-ages-past": {
+   "about": "La paráfrasis de Watts del Salmo 90 contrasta la fragilidad humana con la eternidad de Dios. Con frecuencia se canta en las exequias y en los días nacionales de conmemoración."
+  },
+  "at-the-name-of-jesus": {
+   "about": "Un himno sobre el gran himno cristológico de Filipenses 2, en el que toda rodilla se dobla ante el nombre de Jesús. Adecuado para el Domingo de Ramos y la fiesta del Santo Nombre."
+  },
+  "where-charity-and-love-prevail": {
+   "about": "Una paráfrasis métrica en inglés del canto que se entona en el lavatorio de los pies el Jueves Santo. También es apropiado para bodas y para la preparación de los dones."
+  },
+  "hail-redeemer-king-divine": {
+   "about": "Un himno del siglo XX de homenaje a Cristo Rey, con un estribillo de aire de marcha. Una elección frecuente para el último domingo del año litúrgico."
+  },
+  "o-lord-i-am-not-worthy": {
+   "about": "Un sencillo canto de Comunión tradicional basado en las palabras de humildad del centurión, que los fieles repiten justo antes de comulgar. Desde hace mucho es un clásico de las Misas de Primera Comunión."
+  },
+  "soul-of-my-savior": {
+   "about": "Una versión cantada del Alma de Cristo (Anima Christi), una oración medieval para después de la Comunión que san Ignacio de Loyola colocó al comienzo de sus Ejercicios Espirituales."
+  },
+  "jesus-my-lord-my-god-my-all": {
+   "about": "El tierno himno de Faber a Cristo en el Santísimo Sacramento toma su primer verso de la confesión de santo Tomás. Una elección tradicional para la bendición con el Santísimo y para Corpus Christi."
+  },
+  "good-christian-friends-rejoice": {
+   "about": "La versión de Neale del villancico medieval 'In dulci jubilo', que mezclaba versos en latín y en alemán. Los himnarios antiguos lo titulan 'Good Christian Men, Rejoice'."
+  },
+  "the-first-noel": {
+   "about": "Un villancico popular del oeste de Inglaterra que cuenta la historia de los pastores y de los Magos. Es adecuado tanto para la Epifanía como para el día de Navidad."
+  },
+  "o-little-town-of-bethlehem": {
+   "about": "Lo escribió un rector de Filadelfia después de visitar Belén, con música del organista de su iglesia. En Gran Bretaña suele cantarse con la melodía FOREST GREEN de Vaughan Williams."
+  },
+  "ye-sons-and-daughters": {
+   "about": "Un himno pascual narrativo que vuelve a contar las apariciones del Resucitado, incluida la del incrédulo Tomás. Tradicionalmente se asocia con el segundo domingo de Pascua."
+  },
+  "alleluia-sing-to-jesus": {
+   "about": "Escrito para la fiesta de la Ascensión, une la realeza celestial de Cristo con su presencia en la Eucaristía. La melodía galesa HYFRYDOL lo hace un himno vigoroso para toda la asamblea."
+  },
+  "humbly-we-adore-thee": {
+   "about": "Una versión cantable en inglés del Adoro Te Devote de santo Tomás de Aquino, con su melodía gregoriana; el traductor varía según el himnario. Vea el original latino en esta colección."
+  },
+  "holy-spirit-lord-of-light": {
+   "about": "La versión inglesa de Caswall de la Secuencia de Oro que se canta antes del Evangelio el Domingo de Pentecostés. Webbe fue organista de la capilla de la Embajada de Cerdeña en Londres, un centro de música católica en tiempos de las leyes penales."
+  },
+  "lo-how-a-rose": {
+   "about": "Un villancico alemán sobre la profecía de Isaías del retoño que brota del tronco de Jesé. La armonización de Praetorius es una de las favoritas de los coros al final del Adviento."
+  },
+  "at-the-cross-her-station-keeping": {
+   "about": "Una versión inglesa del Stabat Mater, tradicionalmente cantada estrofa por estrofa entre las estaciones del Viacrucis. También se usa en Nuestra Señora de los Dolores (15 de septiembre)."
+  },
+  "all-glory-laud-and-honor": {
+   "about": "Un himno procesional del Domingo de Ramos que, según la leyenda, escribió un obispo mientras estaba preso. El Misal Romano menciona el original latino entre los cantos para la procesión del Domingo de Ramos."
+  },
+  "creator-of-the-stars-of-night": {
+   "about": "El antiguo himno de Vísperas de Adviento, cantado con su melodía gregoriana. Su línea serena y fluida se adapta al espíritu de espera de este tiempo."
+  },
+  "o-come-divine-messiah": {
+   "about": "Un villancico francés de Adviento que expresa el anhelo de la venida del Salvador, traducido por una hermana inglesa de Notre Dame. Una alternativa más luminosa a los himnos de Adviento en tono menor."
+  },
+  "ye-watchers-and-ye-holy-ones": {
+   "about": "Llama a los ángeles, a María y a todos los santos a unirse a la alabanza; una de las estrofas está dirigida a la Madre de Dios. Una elección festiva para el Día de Todos los Santos."
+  },
+  "for-all-the-saints": {
+   "about": "Un himno procesional que da gracias por los santos que ya terminaron su carrera. Es un clásico del Día de Todos los Santos y también se canta en las exequias."
+  },
+  "come-down-o-love-divine": {
+   "about": "Una oración italiana medieval que pide el fuego del Espíritu Santo, con una melodía a la que Vaughan Williams dio el nombre de su pueblo natal. Adecuado para Pentecostés y la Confirmación."
+  },
+  "we-three-kings": {
+   "about": "Escrito para una representación navideña en Nueva York, con una estrofa para cada regalo que traen los Magos. Su lugar natural es la Solemnidad de la Epifanía."
+  },
+  "it-came-upon-the-midnight-clear": {
+   "about": "Un villancico estadounidense de Massachusetts que se detiene en el mensaje de paz de los ángeles a un mundo atribulado."
+  },
+  "forty-days-and-forty-nights": {
+   "about": "Un himno cuaresmal sobre los cuarenta días de ayuno de Cristo en el desierto, el Evangelio del primer domingo de Cuaresma."
+  },
+  "sweet-sacrament-divine": {
+   "about": "Un himno católico inglés de la época victoriana, de devoción al Santísimo Sacramento, obra de un sacerdote que escribió la letra y la música. Usado desde hace mucho en la bendición con el Santísimo y en las Cuarenta Horas."
+  },
+  "the-king-of-love-my-shepherd-is": {
+   "about": "Una paráfrasis del Salmo 23 que lee el salmo del Buen Pastor a la luz del Evangelio, incluida la oveja perdida llevada de vuelta a casa. Apropiado para la Comunión y las exequias."
+  },
+  "ave-maria-schubert": {
+   "about": "La canción de Schubert se escribió como la oración de una doncella a María, sobre un poema de Walter Scott; las conocidas palabras latinas se le adaptaron después. Se pide constantemente en bodas y exequias. La oración latina en sí está en 'Hail Mary (chant)'."
+  },
+  "ave-maria-bach-gounod": {
+   "about": "Gounod improvisó una melodía elevada sobre el primer preludio de El clave bien temperado de Bach, y más tarde se le puso el texto latino del Ave María. Como el de Schubert, es uno de los solos favoritos en bodas y exequias."
+  },
+  "here-i-am-lord": {
+   "about": "Escrito para una ordenación diaconal, une el llamado de Dios con la respuesta del profeta en Isaías 6. Quizá el canto más conocido del repertorio estadounidense posterior al Vaticano II."
+  },
+  "on-eagles-wings": {
+   "about": "Una paráfrasis del Salmo 91 compuesta por un joven sacerdote de Minnesota. Es uno de los cantos que más se piden en las exequias católicas en Estados Unidos."
+  },
+  "be-not-afraid": {
+   "about": "Uno de los cantos más conocidos de los St. Louis Jesuits, que entrelaza Isaías 43 con las Bienaventuranzas de Lucas. Una elección frecuente para las exequias."
+  },
+  "one-bread-one-body": {
+   "about": "Un canto de Comunión sobre la enseñanza de san Pablo de que, al compartir el único pan, los muchos se hacen un solo cuerpo. Su sencillo estribillo es fácil de cantar mientras se avanza en la procesión."
+  },
+  "you-are-mine": {
+   "about": "Un canto en la voz de Dios, basado en la promesa de Isaías 43 de un Dios que llama a cada persona por su nombre. En 2020 varias diócesis y editoriales de EE. UU. dejaron de usar o promover la música de David Haas tras acusaciones de conducta indebida, así que consulte la norma local."
+  },
+  "city-of-god": {
+   "about": "Un canto animado de misión: el pueblo de Dios como luz en la oscuridad. Un canto de envío habitual."
+  },
+  "gather-us-in": {
+   "about": "Un canto de reunión sobre toda la asamblea, jóvenes y ancianos, ricos y pobres, convocados juntos para el culto. Muy usado como canto de entrada."
+  },
+  "taste-and-see": {
+   "about": "Una versión con sabor a góspel del Salmo 34, el salmo que la Iglesia primitiva cantaba durante la Comunión. Su estribillo de llamada y respuesta invita a participar a toda la asamblea."
+  },
+  "shepherd-me-o-god": {
+   "about": "Una versión serena del Salmo 23, el salmo del Buen Pastor. Es muy común en las exequias y durante la Comunión."
+  },
+  "i-am-the-bread-of-life": {
+   "about": "Escrito por una Hermana de la Misericordia en California, sus estrofas vienen del discurso del Pan de Vida de Jesús en Juan 6 y su estribillo, de su promesa de la resurrección. Un clásico de la Comunión durante décadas."
+  },
+  "hosea": {
+   "about": "Un canto de Dios que llama a su pueblo a volver, tomado del profeta Oseas, de los monjes benedictinos del priorato de Weston en Vermont. Uno de los favoritos de la Cuaresma."
+  },
+  "ashes": {
+   "about": "Un canto muy ligado al Miércoles de Ceniza, que se canta durante la imposición de la ceniza."
+  },
+  "lord-of-the-dance": {
+   "about": "Una balada que vuelve a contar la vida, muerte y Resurrección de Cristo como una danza, con la melodía shaker estadounidense 'Simple Gifts'. Es más común en las Misas escolares y juveniles que en la Misa dominical de la parroquia."
+  },
+  "eye-has-not-seen": {
+   "about": "Basado en las palabras de san Pablo de que ningún ojo ha visto lo que Dios ha preparado para los que lo aman. Una elección frecuente para las exequias."
+  },
+  "prayer-of-st-francis": {
+   "about": "Una versión cantable de la 'Oración por la paz', que apareció por primera vez en una revista francesa en 1912 y llegó a asociarse con san Francisco. Popular en las exequias y en la fiesta de san Francisco."
+  },
+  "pescador-de-hombres": {
+   "about": "Un canto en español de un sacerdote vasco sobre Jesús que llama a unos pescadores a la orilla del lago. Se canta en español, en inglés y en versiones bilingües en todo Estados Unidos; a menudo se dice que fue uno de los favoritos de san Juan Pablo II."
+  },
+  "sing-a-new-song": {
+   "about": "Un canto alegre inspirado en la invitación de los Salmos a cantar al Señor un cántico nuevo. Un canto animado de entrada o de salida."
+  },
+  "christ-be-our-light": {
+   "about": "Un canto, de un compositor inglés, que pide a Cristo ser luz, esperanza y pan en un mundo de oscuridad y necesidad. Común en Adviento y en reuniones con un tema de justicia social."
+  },
+  "blest-are-they": {
+   "about": "Una versión de las Bienaventuranzas del Sermón de la Montaña, que a menudo se canta el Día de Todos los Santos. En 2020 varias diócesis y editoriales de EE. UU. dejaron de usar o promover la música de David Haas tras acusaciones de conducta indebida, así que consulte la norma local."
+  },
+  "we-remember": {
+   "about": "Un canto de confianza en la fidelidad de Dios, recordada y renovada. Con frecuencia se canta durante la Comunión."
+  },
+  "canticle-of-the-sun": {
+   "about": "Un canto moderno inspirado en el Cántico de las Criaturas de san Francisco y en los Salmos, que invita a toda la creación a alabar."
+  },
+  "the-summons": {
+   "about": "Un canto de discipulado de la Comunidad de Iona en Escocia, presentado como una serie de preguntas de Cristo a la persona a quien llama. Un vigoroso canto de envío."
+  },
+  "let-there-be-peace-on-earth": {
+   "about": "Lo escribió un matrimonio de California y se enseñó por primera vez en un retiro juvenil. Es un canto de salida popular, sobre todo en las Misas escolares y en actos cívicos."
+  },
+  "how-great-thou-art": {
+   "about": "Un poema sueco de asombro ante la creación, que se hizo famoso en inglés gracias a la traducción de Stuart Hine y a las campañas evangelísticas de Billy Graham. Se pide con frecuencia en las exequias."
+  },
+  "holy-is-his-name": {
+   "about": "Una versión meditativa del canto de alabanza de María, el Magníficat, del músico franciscano John Michael Talbot. Apropiado para las fiestas marianas y el final del Adviento."
+  },
+  "mass-of-creation": {
+   "about": "Durante décadas fue la Misa musicalizada más cantada en las parroquias estadounidenses. Haugen la revisó en 2010 para la nueva traducción inglesa del Misal Romano."
+  },
+  "mass-of-christ-the-savior": {
+   "about": "Escrita para la introducción en 2011 de la nueva traducción inglesa del Misal Romano, pronto se convirtió en una de las Misas musicalizadas más usadas en Estados Unidos."
+  },
+  "mass-of-renewal": {
+   "about": "Una Misa musicalizada contemporánea compuesta para la actual traducción inglesa del Misal Romano, popular en las parroquias que usan instrumentación contemporánea."
+  },
+  "heritage-mass": {
+   "about": "Una Misa musicalizada sencilla y sólida que ha sido un clásico de los misalitos de OCP, revisada en 2010 para la traducción actual."
+  },
+  "mass-of-st-ann": {
+   "about": "Una Misa musicalizada fácil de cantar, de estilo más bien contemporáneo, escrita para la actual traducción inglesa del Misal Romano."
+  },
+  "mass-of-joy-and-peace": {
+   "about": "Una Misa musicalizada con influencias rítmicas latinoamericanas, disponible en ediciones en inglés, en español y bilingües."
+  },
+  "celtic-alleluia": {
+   "about": "Un Aleluya irlandés alegre que se canta antes del Evangelio, a menudo con versos propios de cada tiempo. Como el Aleluya no se canta en Cuaresma, se deja de lado desde el Miércoles de Ceniza hasta la Vigilia Pascual."
+  },
+  "glory-and-praise-to-our-god": {
+   "about": "Un luminoso canto de reunión tomado de los Salmos de alabanza. Dio su nombre a un himnario de música católica contemporánea muy utilizado."
+  },
+  "here-i-am-to-worship": {
+   "about": "Un canto del movimiento británico de alabanza contemporánea, adoptado en muchas pastorales juveniles católicas y en la adoración eucarística."
+  },
+  "open-my-eyes": {
+   "about": "Una oración para ver, escuchar y amar como Jesús, con un estribillo sencillo. Popular en las Misas juveniles y escolares."
+  },
+  "the-servant-song": {
+   "about": "Un canto de Nueva Zelanda sobre servirnos unos a otros como Cristo sirvió, que a menudo se canta en el lavatorio de los pies el Jueves Santo."
+  },
+  "table-of-plenty": {
+   "about": "Una invitación a la mesa del Señor, inspirada en la imagen del banquete de Isaías."
+  },
+  "you-satisfy-the-hungry-heart": {
+   "about": "El himno ganador de un concurso para el 41.º Congreso Eucarístico Internacional, celebrado en Filadelfia en 1976. Su título viene de la promesa del trigo más fino del Salmo 81."
+  },
+  "we-are-called": {
+   "about": "Un canto de envío basado en Miqueas 6,8: practicar la justicia, amar con ternura, caminar humildemente con Dios. En 2020 varias diócesis y editoriales de EE. UU. dejaron de usar o promover la música de David Haas tras acusaciones de conducta indebida, así que consulte la norma local."
+  },
+  "though-the-mountains-may-fall": {
+   "about": "Un canto de confianza en el amor inquebrantable de Dios, tomado de Isaías 54 y del Salmo 46."
+  },
+  "come-to-the-water": {
+   "about": "Una invitación de Isaías 55 a los sedientos y cansados para que vengan y sean alimentados gratuitamente. Apropiado en Cuaresma, sobre todo en torno a los escrutinios."
+  },
+  "earthen-vessels": {
+   "about": "Tomado de la imagen de san Pablo de llevar el tesoro de la luz de Dios en vasijas de barro."
+  },
+  "sing-to-the-mountains": {
+   "about": "Un exuberante canto pascual basado en el Salmo 118, el salmo de la Octava de Pascua: este es el día que hizo el Señor."
+  },
+  "lift-up-your-hearts": {
+   "about": "Un canto de reunión y alabanza de los St. Louis Jesuits, basado en el Salmo 66."
+  },
+  "sing-of-the-lords-goodness": {
+   "about": "Un himno de alabanza rítmico y alegre del repertorio católico inglés, con una melodía de influencia jazzística."
+  },
+  "center-of-my-life": {
+   "about": "Una versión del Salmo 16 con un estribillo orante que proclama al Señor como el centro de la propia vida."
+  },
+  "holy-darkness": {
+   "about": "Un canto reflexivo inspirado en san Juan de la Cruz, que encuentra a Dios presente incluso en la noche oscura del alma."
+  },
+  "hail-mary-gentle-woman": {
+   "about": "Un tierno canto mariano que enmarca el Avemaría con un estribillo cantado dirigido a María. Popular en las coronaciones de mayo y en las Misas escolares."
+  },
+  "jesus-remember-me": {
+   "about": "Un canto de Taizé que repite la oración del buen ladrón desde la Cruz. Su frase breve y repetida lo hace un canto meditativo natural para la Cuaresma y el Viernes Santo."
+  },
+  "ubi-caritas-taize": {
+   "about": "Una versión repetitiva de Taizé de la antífona del Jueves Santo en latín. El original gregoriano, con una traducción, está en esta colección bajo 'Where Charity and Love Are'."
+  },
+  "christ-be-beside-me": {
+   "about": "Una breve adaptación de la oración conocida como la Coraza de San Patricio, obra de un jesuita escocés, cantada con la misma melodía que 'Morning Has Broken'. Una elección natural para el Día de San Patricio."
+  }
+ }
+}

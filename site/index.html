@@ -42,8 +42,8 @@
     <nav class="subnav" aria-label="Bible views"><a href="#map" data-sub="map" data-t="map">Map</a><a href="#people" data-sub="people" data-t="people">People</a><a href="#canon" data-sub="canon" data-t="books">Books</a></nav>
     <div class="map-head">
       <div>
-        <h1>Everyone in the Catholic Bible, and how they connect</h1>
-        <p class="lede">Each dot is a person, placed left to right by era, from Adam to the Apostolic Church. Lines are family ties and other links. Tap a person to see their family, every passage they appear in, and what the Church teaches about them.</p>
+        <h1 data-t="mapTitle">Everyone in the Catholic Bible, and how they connect</h1>
+        <p class="lede" data-t="mapLede">Each dot is a person, placed left to right by era, from Adam to the Apostolic Church. Lines are family ties and other links. Tap a person to see their family, every passage they appear in, and what the Church teaches about them.</p>
       </div>
       <div class="legend" id="legend"></div>
     </div>
@@ -60,8 +60,8 @@
 
   <section id="view-canon" class="view" hidden>
     <nav class="subnav" aria-label="Bible views"><a href="#map" data-sub="map" data-t="map">Map</a><a href="#people" data-sub="people" data-t="people">People</a><a href="#canon" data-sub="canon" data-t="books">Books</a></nav>
-    <h1>Who appears where</h1>
-    <p class="lede">The 73 books of the Catholic canon run across the top. Each row is a person; the dot shows how many verses mention them in that book. Tap a row to open the person.</p>
+    <h1 data-t="canonTitle">Who appears where</h1>
+    <p class="lede" data-t="canonLede">The 73 books of the Catholic canon run across the top. Each row is a person; the dot shows how many verses mention them in that book. Tap a row to open the person.</p>
     <div class="canon-tools">
       <label>Show <select id="canonFilter">
         <option value="top">Most mentioned</option>
@@ -75,9 +75,9 @@
 
   <section id="view-people" class="view" hidden>
     <nav class="subnav" aria-label="Bible views"><a href="#map" data-sub="map" data-t="map">Map</a><a href="#people" data-sub="people" data-t="people">People</a><a href="#canon" data-sub="canon" data-t="books">Books</a></nav>
-    <h1>People</h1>
+    <h1 data-t="people">People</h1>
     <div class="people-tools">
-      <input id="pf" type="search" placeholder="Filter by name or role" autocomplete="off">
+      <input id="pf" type="search" placeholder="Filter by name or role" data-t-ph="filterPeople" autocomplete="off">
       <select id="pera" aria-label="Era"><option value="">All eras</option></select>
       <select id="pbook" aria-label="Book"><option value="">All books</option></select>
     </div>
