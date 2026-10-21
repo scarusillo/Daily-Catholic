@@ -190,14 +190,38 @@
     const t = el.tags || {}, lat = el.lat ?? el.center?.lat, lon = el.lon ?? el.center?.lon;
     const addr = [[t["addr:housenumber"], t["addr:street"]].filter(Boolean).join(" "), t["addr:city"], t["addr:state"]].filter(Boolean).join(", ");
     return { name: t.name, lat, lon, d: miles(origin, [lat, lon]), addr, city: t["addr:city"] || "", web: t.website || t["contact:website"] || "", phone: t.phone || t["contact:phone"] || "",
-      times: t.service_times || t["service_times:mass"] || t["opening_hours:mass"] || "", rite: t.denomination };
+      times: t.service_times || t["service_times:mass"] || t["opening_hours:mass"] || "", rite: t.denomination,
+      conf: t["service_times:confession"] || t["opening_hours:confession"] || t.confession_times || t["service_times:reconciliation"] || "",
+      // cathedrals, shrines, friaries and the like usually hear confessions on weekdays
+      major: t.building === "cathedral" || /cathedral|basilica|shrine|oratory|friary|monastery|abbey|franciscan|dominican|capuchin|carmel|national shrine|chapel of|adoration/i.test(t.name || "") };
   }
-  async function renderFinder(root) {
+  // does an opening-hours style string ("Mo-Fr 12:00-12:30; Sa 15:00") include this weekday?
+  const DCODES = ["Su", "Mo", "Tu", "We", "Th", "Fr", "Sa"];
+  function onDay(raw, idx) {
+    if (!raw) return false;
+    const code = DCODES[idx];
+    return raw.split(";").some((part) => {
+      const days = (/^\s*([A-Za-z,\- ]+?)\s+[\d]/.exec(part) || [])[1];
+      if (!days) return false;
+      return days.split(",").some((d) => {
+        const [a, b] = d.trim().split("-");
+        if (!b) return a === code;
+        const i = DCODES.indexOf(a), j = DCODES.indexOf(b);
+        if (i < 0 || j < 0) return false;
+        return i <= j ? idx >= i && idx <= j : idx >= i || idx <= j;
+      });
+    });
+  }
+  async function renderFinder(root, mode = "mass") {
     const ctx = C();
     const last = ctx.store.get("bpm.finder", { zip: "", radius: 50 });
+    const conf = mode === "confession";
     root.innerHTML = `<div class="hub finder">
-      <div class="ghead"><h1>${X("Find a Mass", "Buscar Misa")}</h1></div>
-      <p class="lede">${X("Catholic churches near you, closest first, with Mass times where they're listed, a link to each parish and directions.", "Iglesias católicas cerca de ti, de la más cercana a la más lejana, con horarios de Misa cuando están disponibles, el enlace a cada parroquia y cómo llegar.")}</p>
+      <div class="levels" role="group" aria-label="${X("What are you looking for?", "¿Qué buscas?")}"><a href="#mass" class="${conf ? "" : "on"}">${X("Mass", "Misa")}</a><a href="#confess" class="${conf ? "on" : ""}">${X("Confession", "Confesión")}</a></div>
+      <div class="ghead"><h1>${conf ? X("Find Confession", "Buscar Confesión") : X("Find a Mass", "Buscar Misa")}</h1></div>
+      <p class="lede">${conf
+        ? X("Catholic churches near you where you can go to Confession. Churches with listed confession times come first, then cathedrals, shrines and friaries, which usually hear confessions on weekdays too.", "Iglesias católicas cerca de ti donde puedes confesarte. Primero aparecen las que tienen horario de confesiones publicado y luego catedrales, santuarios y conventos, que suelen confesar también entre semana.")
+        : X("Catholic churches near you, closest first, with Mass times where they're listed, a link to each parish and directions.", "Iglesias católicas cerca de ti, de la más cercana a la más lejana, con horarios de Misa cuando están disponibles, el enlace a cada parroquia y cómo llegar.")}</p>
       <form id="ffind" class="findform">
         <label for="fzip">${X("ZIP code", "Código postal")}</label>
         <input id="fzip" inputmode="numeric" pattern="[0-9]{5}" maxlength="5" placeholder="${X("e.g. 10001", "ej. 10001")}" value="${esc(last.zip)}">
@@ -208,6 +232,12 @@
       </form>
       <p class="qmeta" id="fmsg"></p>
       <ul class="churches" id="flist"></ul>
+      ${conf ? `<div class="tipbox"><b>${X("Good to know", "Para saber")}</b><ul class="know">
+        <li>${X("Most parishes hear confessions on Saturday afternoon, often before the evening Mass.", "La mayoría de las parroquias confiesan el sábado por la tarde, a menudo antes de la Misa vespertina.")}</li>
+        <li>${X("Cathedrals, shrines, and Franciscan or Dominican churches often offer Confession every weekday, many around midday.", "Las catedrales, santuarios e iglesias franciscanas o dominicas suelen confesar todos los días entre semana, muchas al mediodía.")}</li>
+        <li>${X("Any priest will hear your confession by appointment. Call the parish office and ask.", "Cualquier sacerdote te confiesa con cita previa. Llama al despacho parroquial y pídela.")}</li>
+        <li>${X("In Lent and Advent many parishes add extra times and penance services.", "En Cuaresma y Adviento muchas parroquias añaden horarios y celebraciones penitenciales.")}</li>
+      </ul><a class="chip" href="#confession">${X("How to go to Confession", "Cómo confesarse")}</a></div>` : ""}
       <p class="gfoot">${X("Church locations come from OpenStreetMap, a map built by volunteers, so a parish can occasionally be missing or out of date. Mass times change with seasons and holy days: always confirm on the parish's website or by phone. You can also search", "Las ubicaciones vienen de OpenStreetMap, un mapa hecho por voluntarios, así que a veces puede faltar una parroquia o estar desactualizada. Los horarios cambian según el tiempo litúrgico y los días de precepto: confírmalos siempre en el sitio web de la parroquia o por teléfono. También puedes buscar en")} <a href="https://masstimes.org/" target="_blank" rel="noopener">MassTimes.org</a>.</p>
     </div>`;
     const msg = $("#fmsg", root);
@@ -224,21 +254,31 @@
         return;
       }
       const seen = new Set();
+      const today = new Date().getDay();
+      const rank = (r) => (!conf ? 0 : r.conf ? (onDay(r.conf, today) ? 0 : 1) : r.major ? 2 : 3);
       const rows = els.map((e) => churchRow(e, origin)).filter((r) => r.name && r.lat != null)
         .filter((r) => { const k = r.name + "|" + r.lat.toFixed(3) + r.lon.toFixed(3); if (seen.has(k)) return false; seen.add(k); return true; })
-        .filter((r) => r.d <= radius).sort((a, b) => a.d - b.d);
+        .filter((r) => r.d <= radius)
+        // in Confession mode, nearby churches with listed or likely weekday times rise above distant ones
+        .sort((a, b) => {
+          const ka = conf && a.d <= 10 ? rank(a) : 4, kb = conf && b.d <= 10 ? rank(b) : 4;
+          return ka - kb || a.d - b.d;
+        });
       msg.textContent = rows.length
         ? X(`${rows.length} Catholic church${rows.length === 1 ? "" : "es"} within ${radius} miles of ${label}.`, `${rows.length} iglesia${rows.length === 1 ? "" : "s"} católica${rows.length === 1 ? "" : "s"} a menos de ${radius} millas de ${label}.`)
         : X(`No Catholic churches found within ${radius} miles of ${label}. Try a larger distance.`, `No se encontraron iglesias católicas a menos de ${radius} millas de ${label}. Prueba una distancia mayor.`);
       $("#flist", root).innerHTML = rows.slice(0, 300).map((r) => {
-        const q = encodeURIComponent(`${r.name} ${r.city} ${X("Mass times", "horario de misas")}`);
+        const q = encodeURIComponent(`${r.name} ${r.city} ${conf ? X("confession times", "horario de confesiones") : X("Mass times", "horario de misas")}`);
+        const confToday = conf && onDay(r.conf, today);
         return `<li class="church"><div class="ctop"><b>${esc(r.name)}</b><span class="dist">${r.d < 10 ? r.d.toFixed(1) : Math.round(r.d)} mi</span></div>
+          ${confToday ? `<span class="badge-today">${X("Confession listed today", "Confesiones hoy")}</span>` : conf && !r.conf && r.major ? `<span class="badge-likely">${X("Often has weekday confession", "Suele confesar entre semana")}</span>` : ""}
           ${r.addr ? `<div class="qmeta">${esc(r.addr)}</div>` : ""}
           ${r.rite && !/^(catholic|roman_catholic)$/.test(r.rite) ? `<div class="qmeta">${X("", "rito ")}${esc(r.rite.replace(/_/g, " "))}${X(" rite", "")}</div>` : ""}
+          ${conf && r.conf ? `<div class="mtimes"><span class="eyebrow">${X("Confession times (as listed)", "Horario de confesiones (según el mapa)")}</span>${esc(prettyTimes(r.conf))}</div>` : ""}
           ${r.times ? `<div class="mtimes"><span class="eyebrow">${X("Mass times (as listed)", "Horario de Misas (según el mapa)")}</span>${esc(prettyTimes(r.times))}</div>` : ""}
           <div class="chips">
             ${r.web ? `<a class="chip" href="${esc(r.web)}" target="_blank" rel="noopener">${X("Parish website", "Sitio de la parroquia")}</a>` : ""}
-            <a class="chip" href="https://www.google.com/search?q=${q}" target="_blank" rel="noopener">${r.times ? X("Check Mass times", "Confirmar horarios") : X("Find Mass times", "Buscar horarios")}</a>
+            <a class="chip" href="https://www.google.com/search?q=${q}" target="_blank" rel="noopener">${conf ? (r.conf ? X("Check confession times", "Confirmar horario de confesiones") : X("Find confession times", "Buscar horario de confesiones")) : r.times ? X("Check Mass times", "Confirmar horarios") : X("Find Mass times", "Buscar horarios")}</a>
             <a class="chip" href="https://www.google.com/maps/dir/?api=1&destination=${r.lat},${r.lon}" target="_blank" rel="noopener">${X("Directions", "Cómo llegar")}</a>
             ${r.phone ? `<span class="qmeta">${esc(r.phone)}</span>` : ""}
           </div></li>`;

@@ -116,6 +116,7 @@
     root.innerHTML = `${subnav("confession")}<div class="game guide">
       <div class="ghead"><h1>${esc(T("confession"))}</h1></div>
       <p class="lede">${esc(L(CONF.intro))}</p>
+      <a class="qnext findconf" href="#confess">${window.I18N.lang === "es" ? "Buscar dónde confesarme cerca de mí" : "Find Confession near me"}</a>
       <section class="tsec"><h2>${esc(T("howToConfess"))}</h2><ol class="steplist">${CONF.steps.map((s) => `<li>${esc(L(s))}</li>`).join("")}</ol>
         ${CONF.afterNote ? `<p class="qmeta">${esc(L(CONF.afterNote))}</p>` : ""}
         ${P && PR?.prayers && P("act-of-contrition") ? `<details class="prayer"><summary>${esc(L(P("act-of-contrition")).title)}</summary><div class="ptext">${lines(L(P("act-of-contrition")).text)}</div></details>` : ""}</section>

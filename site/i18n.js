@@ -4,7 +4,7 @@
   "use strict";
   const STR = {
     en: {
-      today: "Today", pray: "Pray", play: "Play", bible: "Bible", journeys: "Journeys", music: "Music", sacraments: "Sacraments", mass: "Find a Mass",
+      today: "Today", pray: "Pray", play: "Play", bible: "Bible", journeys: "Journeys", music: "Music", sacraments: "Sacraments", mass: "Find a Church",
       findPerson: "Find a person…", map: "Map", people: "People", books: "Books", games: "Games", back: "Back",
       footer: "Scripture: World English Bible, Catholic Edition (public domain). Teaching notes are study summaries; consult the Catechism of the Catholic Church for authoritative teaching.",
       scriptureEnglish: "",
@@ -38,7 +38,7 @@
       panel: { family: "Family", parents: "Parents", siblings: "Siblings", spouses: "Spouses", children: "Children", connections: "Connections", across: "Across the books", catholic: "In Catholic teaching", know: "What to know", key: "Key passages", every: "Every passage that names", feast: "Feast", alias: "Also called", correction: "Suggest a correction" },
     },
     es: {
-      today: "Hoy", pray: "Orar", play: "Jugar", bible: "Biblia", journeys: "Caminos", music: "Música", sacraments: "Sacramentos", mass: "Buscar Misa",
+      today: "Hoy", pray: "Orar", play: "Jugar", bible: "Biblia", journeys: "Caminos", music: "Música", sacraments: "Sacramentos", mass: "Buscar Iglesia",
       findPerson: "Buscar una persona…", map: "Mapa", people: "Personas", books: "Libros", games: "Juegos", back: "Volver",
       footer: "Escritura: World English Bible, edición católica (dominio público; en inglés). Las notas son resúmenes de estudio; consulte el Catecismo de la Iglesia Católica para la enseñanza autorizada.",
       scriptureEnglish: "Los textos bíblicos se muestran en inglés por ahora.",

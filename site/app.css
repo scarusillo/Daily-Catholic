@@ -408,3 +408,12 @@ a.chip { text-decoration: none; color: var(--fg); }
 .levels { flex-wrap: wrap; max-width: 100%; }
 .subnav { overflow-x: auto; scrollbar-width: none; }
 .subnav a { white-space: nowrap; flex: none; }
+
+.finder .levels a { padding: 6px 16px; text-decoration: none; color: var(--fg); font-family: var(--font-ui); font-weight: 500; }
+.finder .levels a.on { background: var(--lapis); color: var(--surface); }
+.badge-today, .badge-likely { justify-self: start; font-family: var(--font-ui); font-size: .75rem; font-weight: 700; padding: 2px 10px; border-radius: 999px; }
+.badge-today { background: color-mix(in srgb, var(--good) 18%, transparent); color: var(--good); }
+.badge-likely { background: color-mix(in srgb, var(--gold) 18%, transparent); color: var(--gold); }
+.tipbox { background: var(--surface); border: 1px solid var(--line); border-radius: var(--r); padding: 12px 16px; display: grid; gap: 6px; justify-items: start; }
+.tipbox .know { margin: 0; }
+a.qnext.findconf { text-decoration: none; justify-self: start; }

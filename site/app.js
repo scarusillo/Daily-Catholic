@@ -79,10 +79,10 @@
   const rendered = {};
   function route() {
     const h = location.hash.slice(1);
-    let view = VIEWS.includes(h) || GAME_VIEWS.includes(h) || PRAY_VIEWS.includes(h) ? h : null;
+    let view = VIEWS.includes(h) || GAME_VIEWS.includes(h) || PRAY_VIEWS.includes(h) || h === "confess" ? h : null;
     if (!view && P[h]) { openPerson(h, false); view = store.get("bpm.view", "today"); }
     view ||= "today";
-    const section = GAME_VIEWS.includes(view) ? "play" : PRAY_VIEWS.includes(view) ? "pray" : view;
+    const section = GAME_VIEWS.includes(view) ? "play" : PRAY_VIEWS.includes(view) ? "pray" : view === "confess" ? "mass" : view;
     for (const v of VIEWS) $(`#view-${v}`).hidden = v !== section;
     const tab = ["map", "canon", "people"].includes(section) ? "bible" : section;
     document.querySelectorAll(".tabs a").forEach((a) => a.classList.toggle("on", a.dataset.view === tab));
@@ -95,7 +95,10 @@
     else if (section === "pray") window.BPM_PRAY.render(view, el);
     else if (section === "music") window.BPM_PARISH.renderMusic(el, subReq);
     else if (section === "sacraments") window.BPM_PARISH.renderSacraments(el, subReq);
-    else if (section === "mass") { if (!rendered.mass) { rendered.mass = true; window.BPM_PARISH.renderFinder(el); } }
+    else if (section === "mass") {
+      const mode = view === "confess" ? "confession" : "mass";
+      if (rendered.mass !== mode) { rendered.mass = mode; window.BPM_PARISH.renderFinder(el, mode); }
+    }
     else if (section === "play") window.BPM_GAMES.mount(view, el);
     else if (!rendered[view]) { rendered[view] = true; ({ map: renderMap, canon: renderCanon, people: renderPeople })[view](); }
     journeyReq = undefined; subReq = undefined;
