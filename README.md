@@ -1,4 +1,6 @@
-# Bible Project
+# The Daily Catholic
+
+Live site: https://scarusillo.github.io/Daily-Catholic/
 
 Interactive map of every person in the Catholic Bible (73 books): family ties,
 cross-book connections, every verse that names them, and Catholic teaching notes.

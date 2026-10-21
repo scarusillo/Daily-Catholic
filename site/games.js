@@ -3,6 +3,7 @@
 (() => {
   "use strict";
   const C = () => window.BPM; // shared context from app.js
+  const SITE = "https://scarusillo.github.io/Daily-Catholic/";
   const $ = (s, el = document) => el.querySelector(s);
   const esc = (s) => String(s ?? "").replace(/[&<>"]/g, (c) => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;" }[c]));
 
@@ -193,7 +194,7 @@
       const people = pz.placed.filter((p) => p.person).map((p) => C().chip(p.person)).join("");
       $("#tdone", root).innerHTML = `<div class="qcard"><h2>${esc(t.title)}</h2><p>${esc(t.explain || "")} ${t.ref ? `<button class="ref" data-ref="${esc(t.ref)}">${esc(C().refLabel(t.ref))}</button>` : ""}</p>
         <div class="chips">${people}</div><p class="qmeta">Streak: ${streak("threads")} day${streak("threads") === 1 ? "" : "s"}</p><button class="qnext" id="tshare">Share result</button></div>`;
-      $("#tshare", root).onclick = (e) => share(`Bible People Threads #${dayNumber()}\n“${t.title}”\n${emoji}`, e.target);
+      $("#tshare", root).onclick = (e) => share(`The Daily Catholic · Threads #${dayNumber()}\n“${t.title}”\n${emoji}\n${SITE}`, e.target);
       $("#thint", root).disabled = true;
     }
     new ResizeObserver(draw).observe($("#tgrid", root));
@@ -284,7 +285,7 @@
       $("#ldone", root).innerHTML = `<div class="qcard"><h2>${won ? (st.mistakes ? "Solved" : "Perfect!") : "Out of tries"}</h2>
         ${groups.map((g) => `<p><b>${esc(g.t.title)}.</b> ${esc(g.t.explain || "")}</p>`).join("")}
         <p class="qmeta">Streak: ${streak("links")}</p><button class="qnext" id="lshare">Share result</button></div>`;
-      $("#lshare", root).onclick = (e) => share(`Bible People · Lineage Links #${dayNumber()}\n${grid}`, e.target);
+      $("#lshare", root).onclick = (e) => share(`The Daily Catholic · Lineage Links #${dayNumber()}\n${grid}\n${SITE}`, e.target);
     }
     draw();
   }
@@ -372,7 +373,7 @@
       $("#adone", root).innerHTML = `<div class="qcard"><span class="eyebrow">The hidden name</span><h2>${esc(h.name)}</h2><p>${esc(h.summary)}</p>
         <div class="chips">${C().chip(h.id)}${pz.clues.map((p) => C().chip(p.id)).join("")}</div>
         <p class="qmeta">${hints ? `${hints} hint${hints > 1 ? "s" : ""} used · ` : "No hints! · "}Streak: ${streak("acrostic")}</p><button class="qnext" id="ashare">Share result</button></div>`;
-      $("#ashare", root).onclick = (e) => share(`Bible People · Hidden Name #${dayNumber()}\n${pz.clues.map((_, i) => (st.reveals[i] ? "🟨" : "🟩")).join("")} ${h.name.length} letters`, e.target);
+      $("#ashare", root).onclick = (e) => share(`The Daily Catholic · Hidden Name #${dayNumber()}\n${pz.clues.map((_, i) => (st.reveals[i] ? "🟨" : "🟩")).join("")} ${h.name.length} letters\n${SITE}`, e.target);
     }
     draw();
   }
@@ -484,7 +485,7 @@
       $("#tapbar", root).innerHTML = "";
       $("#tapdone", root).innerHTML = `<div class="qcard">${rounds.map((r, i) => `<p>${bar(st.guesses[i].s)} <b>${esc(r.place.name)}</b>: ${esc(r.event.q)} <span class="qmeta">${Math.round(st.guesses[i].d)} km · ${st.guesses[i].s} pts</span></p>`).join("")}
         <p class="qmeta">Streak: ${streak("tap")}</p><button class="qnext" id="tapshare">Share result</button></div>`;
-      $("#tapshare", root).onclick = (e) => share(`Bible People · Holy Land Tap #${dayNumber()}\n${st.guesses.map((x) => bar(x.s)).join("")} ${total}/5000`, e.target);
+      $("#tapshare", root).onclick = (e) => share(`The Daily Catholic · Holy Land Tap #${dayNumber()}\n${st.guesses.map((x) => bar(x.s)).join("")} ${total}/5000\n${SITE}`, e.target);
     }
     new ResizeObserver(() => { if (svgEl.isConnected && st.guesses.length < rounds.length) show(); }).observe(svgEl);
     show();

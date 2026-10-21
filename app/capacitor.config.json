@@ -1,6 +1,6 @@
 {
-  "appId": "com.biblepeoplemap.app",
-  "appName": "Bible People Map",
+  "appId": "com.thedailycatholic.app",
+  "appName": "The Daily Catholic",
   "webDir": "../dist",
   "plugins": {
     "LocalNotifications": { "iconColor": "#27448f" }

@@ -1,4 +1,4 @@
-/* Catholic Bible People Map — vanilla JS + d3 (force layout, zoom). */
+/* The Daily Catholic — vanilla JS + d3 (force layout, zoom). */
 (() => {
   "use strict";
   const ERAS = ["Primeval", "Patriarchs", "Exodus & Wilderness", "Conquest & Judges", "United Monarchy",
