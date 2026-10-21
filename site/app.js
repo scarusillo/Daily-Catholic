@@ -72,19 +72,29 @@
   }
 
   /* ---------- routing ---------- */
-  const VIEWS = ["map", "canon", "people", "quiz"];
+  const VIEWS = ["today", "map", "canon", "people", "journeys", "play"];
+  const GAME_VIEWS = ["threads", "links", "acrostic", "tap", "quiz"];
   const rendered = {};
   function route() {
     const h = location.hash.slice(1);
-    let view = VIEWS.includes(h) ? h : null;
-    if (!view && P[h]) { openPerson(h, false); view = store.get("bpm.view", "map"); }
-    view ||= "map";
-    for (const v of VIEWS) $(`#view-${v}`).hidden = v !== view;
-    document.querySelectorAll(".tabs a").forEach((a) => a.classList.toggle("on", a.dataset.view === view));
+    let view = VIEWS.includes(h) || GAME_VIEWS.includes(h) ? h : null;
+    if (!view && P[h]) { openPerson(h, false); view = store.get("bpm.view", "today"); }
+    view ||= "today";
+    const section = GAME_VIEWS.includes(view) ? "play" : view;
+    for (const v of VIEWS) $(`#view-${v}`).hidden = v !== section;
+    document.querySelectorAll(".tabs a").forEach((a) => a.classList.toggle("on", a.dataset.view === section));
     store.set("bpm.view", view);
-    if (!rendered[view]) { rendered[view] = true; ({ map: renderMap, canon: renderCanon, people: renderPeople, quiz: renderQuiz })[view](); }
+    const el = $(`#view-${section}`);
+    if (section === "today") window.BPM_TODAY.renderToday(el);
+    else if (section === "journeys") window.BPM_TODAY.renderJourneys(el, journeyReq);
+    else if (view === "quiz") renderQuiz(el);
+    else if (section === "play") window.BPM_GAMES.mount(view, el);
+    else if (!rendered[view]) { rendered[view] = true; ({ map: renderMap, canon: renderCanon, people: renderPeople })[view](); }
+    journeyReq = undefined;
     if (view === "map") resizeMap();
+    if (section !== "map") window.scrollTo(0, 0);
   }
+  let journeyReq;
 
   /* ---------- search ---------- */
   function setupSearch() {
@@ -228,9 +238,10 @@
       ctx.globalAlpha = 1; ctx.fillStyle = muted; ctx.textAlign = "center"; ctx.textBaseline = "top";
       ctx.font = `600 11px "Alegreya Sans", sans-serif`;
       const gap = t.k * (xs(1) - xs(0));
+      const every = gap < 55 ? 3 : gap < 80 ? 2 : 1;
       ERAS.forEach((e, i) => {
         const x = t.applyX(xs(i));
-        if (x < -60 || x > w + 60) return;
+        if (x < -60 || x > w + 60 || i % every) return;
         ctx.fillText((gap < 120 ? ERA_SHORT[i] : e).toUpperCase(), x, 12);
       });
     }
@@ -361,6 +372,8 @@
     const p = P[id];
     if (!p) return;
     current = id;
+    const seen = store.get("bpm.seen", {});
+    if (!seen[id]) { seen[id] = 1; store.set("bpm.seen", seen); }
     if (push && location.hash.slice(1) !== id) history.replaceState(null, "", "#" + id);
     const names = [p.name, ...p.aliases];
     const sib = siblings(p);
@@ -376,6 +389,15 @@
       <h2 class="p-name">${esc(p.name)}</h2>
       ${p.aliases.length ? `<div class="p-alias">Also called ${esc(p.aliases.join(", "))}</div>` : ""}
       ${p.feast ? `<div class="feast">Feast: ${esc(p.feast)}</div>` : ""}
+      <div class="p-actions">${"speechSynthesis" in window ? `<button class="ghost small" data-speak-person="${p.id}">▶ Listen</button>` : ""}<button class="ghost small" id="fixbtn">Suggest a correction</button></div>
+      <form id="fixform" class="fixform" hidden>
+        <label for="fixfield">What needs fixing?</label>
+        <select id="fixfield"><option>Summary</option><option>Catholic teaching</option><option>Family links</option><option>Passages</option><option>Feast day</option><option>Other</option></select>
+        <label for="fixtext">Your correction (cite Scripture or the Catechism if you can)</label>
+        <textarea id="fixtext" rows="4" required></textarea>
+        <div class="gbtns"><button class="qnext" type="submit">Send correction</button><button class="ghost" type="button" id="fixcancel">Cancel</button></div>
+        <p class="qmeta" id="fixmsg"></p>
+      </form>
       ${p.summary ? `<div class="p-sec"><p>${esc(p.summary)}</p></div>` : ""}
       ${fam.length ? `<div class="p-sec"><h3>Family</h3><div class="tree">${fam.map(([l, a]) => `<div class="gen"><span class="lbl">${l}</span>${a.map((x) => chip(x)).join("")}</div>`).join("")}</div></div>` : ""}
       ${p.relations.length ? `<div class="p-sec"><h3>Connections</h3><ul class="rels">${p.relations.map((r) => `<li><span class="t">${esc(r.type)}</span>${chip(r.to)}${r.ref ? `<button class="ref" data-ref="${esc(r.ref)}">${esc(refLabel(r.ref))}</button>` : ""}</li>`).join("")}</ul></div>` : ""}
@@ -417,9 +439,20 @@
   function setupPanel() {
     $("#pclose").onclick = closePanel;
     document.addEventListener("keydown", (e) => { if (e.key === "Escape" && !$("#panel").hidden) closePanel(); });
-    $("#pbody").addEventListener("click", async (e) => {
-      const c = e.target.closest(".chip[data-id]");
+    $("#pbody").addEventListener("submit", sendCorrection);
+    document.addEventListener("click", async (e) => {
+      const go = e.target.closest("[data-go]");
+      if (go) { e.preventDefault(); location.hash = go.dataset.go; if (location.hash.slice(1) === go.dataset.go) route(); return; }
+      const jr = e.target.closest("[data-journey]");
+      if (jr) { journeyReq = jr.dataset.journey || null; store.set("bpm.journeyOpen", journeyReq); if (location.hash !== "#journeys") location.hash = "journeys"; else route(); return; }
+      const c = e.target.closest(".chip[data-id], .potd[data-id]");
       if (c && !c.classList.contains("self")) return openPerson(c.dataset.id);
+      const sp = e.target.closest("[data-speak-person]");
+      if (sp) { const p = P[sp.dataset.speakPerson]; return speak(`${p.name}. ${p.summary} ${p.catholic}`, sp); }
+      const sr = e.target.closest("[data-speak-ref]");
+      if (sr) { await loadBible(); return speak(verses(parseRef(sr.dataset.speakRef)).map((v) => v.t).join(" "), sr); }
+      if (e.target.closest("#fixbtn")) { $("#fixform").hidden = false; $("#fixtext").focus(); return; }
+      if (e.target.closest("#fixcancel")) { $("#fixform").hidden = true; return; }
       const r = e.target.closest(".ref[data-ref]");
       if (r) {
         await loadBible();
@@ -435,17 +468,19 @@
   function closePanel() {
     $("#panel").hidden = true; current = null;
     if (G) { G.sel = null; G.draw(); }
-    history.replaceState(null, "", "#" + store.get("bpm.view", "map"));
+    history.replaceState(null, "", "#" + store.get("bpm.view", "today"));
   }
 
   /* ---------- daily quiz ---------- */
   function rng(seed) { let s = seed >>> 0; return () => ((s = (s * 1664525 + 1013904223) >>> 0) / 4294967296); }
   function todayKey() { const d = new Date(); return `${d.getFullYear()}-${String(d.getMonth() + 1).padStart(2, "0")}-${String(d.getDate()).padStart(2, "0")}`; }
-  function makeQuiz(dateKey) {
-    const R = rng([...dateKey].reduce((a, c) => a * 31 + c.charCodeAt(0), 7));
+  const LEVELS = { easy: { min: 40, label: "Easy" }, medium: { min: 10, label: "Medium" }, hard: { min: 3, label: "Hard" } };
+  function makeQuiz(dateKey, level = "medium") {
+    const R = rng([...(dateKey + level)].reduce((a, c) => a * 31 + c.charCodeAt(0), 7));
     const pickFrom = (arr) => arr[Math.floor(R() * arr.length)];
     const shuffle = (a) => { for (let i = a.length - 1; i > 0; i--) { const j = Math.floor(R() * (i + 1)); [a[i], a[j]] = [a[j], a[i]]; } return a; };
-    const notable = PEOPLE.filter((p) => p.summary.length > 80 && p.mentions >= 3);
+    const lv = LEVELS[level];
+    const notable = PEOPLE.filter((p) => p.summary.length > 80 && p.mentions >= lv.min && (level !== "hard" || p.mentions < 60));
     const distract = (right, pool, n = 3) => {
       const opts = new Set([right]);
       let guard = 0;
@@ -504,11 +539,12 @@
     }
     return qs;
   }
-  function renderQuiz() {
+  function renderQuiz(root) {
     const key = todayKey();
-    const qs = makeQuiz(key);
+    const level = store.get("bpm.quizLevel", "medium");
+    const qs = makeQuiz(key, level);
     const saved = store.get("bpm.quiz", {});
-    let st = saved.day === key ? saved : { day: key, i: 0, picks: [] };
+    let st = saved.day === key && saved.level === level ? saved : { day: key, level, i: 0, picks: [] };
     const hist = store.get("bpm.quizHist", {});
     const save = () => store.set("bpm.quiz", st);
     const draw = () => {
@@ -523,6 +559,7 @@
       let body;
       if (done) {
         hist[key] = score; store.set("bpm.quizHist", hist);
+        const gs = store.get("bpm.g.quiz", { days: {} }); gs.days[key] = { score, level }; store.set("bpm.g.quiz", gs);
         body = `<div class="qcard"><h2>${score} of ${qs.length} today</h2>
           <p class="qexp">${score === qs.length ? "A perfect round." : "Open the people you missed to read their stories."} A new quiz arrives tomorrow.</p>
           <div class="tree">${qs.map((q, i) => `<div class="gen"><span class="lbl">${st.picks[i] === q.answer ? "Right" : "Missed"}</span>${chip(q.id)}</div>`).join("")}</div></div>`;
@@ -537,17 +574,81 @@
           ${answered ? `<p class="qexp">${st.picks[st.i] === q.answer ? "Correct." : `The answer is ${esc(q.answer)}.`} ${chip(q.id)}</p><button class="qnext">${st.i + 1 < qs.length ? "Next question" : "See results"}</button>` : ""}
         </div>`;
       }
-      $("#quiz").innerHTML = `<div class="quiz"><div class="qhead"><h1>Daily Quiz</h1><span class="qmeta">${new Date().toLocaleDateString(undefined, { weekday: "long", month: "long", day: "numeric" })} · ${streak} day streak</span></div>
+      root.innerHTML = `<div class="quiz game"><div class="ghead"><button class="back" data-go="play">‹ Games</button><h1>Daily Quiz</h1><span class="qmeta">${streak} day streak</span></div>
+        <div class="levels" role="group" aria-label="Difficulty">${Object.entries(LEVELS).map(([k, v]) => `<button class="${k === level ? "on" : ""}" data-level="${k}">${v.label}</button>`).join("")}</div>
         <div class="dots">${dots}</div>${body}</div>`;
     };
-    $("#quiz").onclick = (e) => {
+    root.onclick = (e) => {
+      const lv = e.target.closest("[data-level]");
+      if (lv) { store.set("bpm.quizLevel", lv.dataset.level); renderQuiz(root); return; }
       const o = e.target.closest("button[data-o]");
       if (o && st.picks.length === st.i) { st.picks.push(o.dataset.o); save(); draw(); return; }
       if (e.target.closest(".qnext")) { st.i++; save(); draw(); return; }
-      const c = e.target.closest(".chip[data-id]");
-      if (c) openPerson(c.dataset.id);
     };
     draw();
+  }
+
+  /* ---------- listen (text to speech) ---------- */
+  let speaking = null;
+  function speak(text, btn) {
+    const ss = window.speechSynthesis;
+    if (!ss) return;
+    if (speaking === btn) { ss.cancel(); btn.textContent = "▶ Listen"; speaking = null; return; }
+    ss.cancel();
+    if (speaking) speaking.textContent = "▶ Listen";
+    const u = new SpeechSynthesisUtterance(text);
+    u.rate = 0.95;
+    u.onend = () => { if (speaking === btn) { btn.textContent = "▶ Listen"; speaking = null; } };
+    speaking = btn; btn.textContent = "■ Stop";
+    ss.speak(u);
+  }
+
+  /* ---------- corrections ---------- */
+  let dbP = null, userP = null;
+  const useCap = (n) => (window.claude?.use ? window.claude.use(n).catch(() => null) : Promise.resolve(null));
+  const db = () => (dbP ??= useCap("db"));
+  const user = () => (userP ??= useCap("user"));
+  async function sendCorrection(e) {
+    if (e.target.id !== "fixform") return;
+    e.preventDefault();
+    const msg = $("#fixmsg"), text = $("#fixtext").value.trim();
+    if (!text) return;
+    const [d, u] = await Promise.all([db(), user()]);
+    const uid = u && (await u.id());
+    if (!d || !uid) { msg.textContent = "Corrections can only be sent while signed in to Claude on this page."; return; }
+    msg.textContent = "Sending…";
+    try {
+      const ref = d.doc(`corrections/${uid}`);
+      const snap = await ref.get();
+      const reports = (snap.exists && Array.isArray(snap.data?.reports) ? snap.data.reports : []).slice(-199);
+      reports.push({ person: current, field: $("#fixfield").value, text: text.slice(0, 2000), at: new Date().toISOString() });
+      await ref.set({ reports });
+      $("#fixtext").value = "";
+      msg.textContent = "Thank you. Your correction was sent for review.";
+    } catch {
+      msg.textContent = "Your correction could not be sent. Your sharing level may not allow it; ask the owner for Contributor access.";
+    }
+  }
+
+  /* ---------- progress ---------- */
+  const explored = () => Object.keys(store.get("bpm.seen", {})).length;
+  function badges() {
+    const n = explored(), seen = store.get("bpm.seen", {});
+    const games = ["threads", "links", "acrostic", "tap", "quiz"];
+    const plays = games.reduce((a, g) => a + Object.keys(store.get(`bpm.g.${g}`, { days: {} }).days).length, 0);
+    const best = Math.max(0, ...games.map((g) => window.BPM_GAMES?.streak(g) || 0));
+    const apostles = ["peter", "andrew", "james-son-of-zebedee", "john-apostle", "philip-apostle", "bartholomew", "matthew", "thomas", "james-son-of-alphaeus", "jude-thaddeus", "simon-the-zealot", "matthias"];
+    const deutero = PEOPLE.filter((p) => ["restoration"].includes(p.section) && p.mentions >= 5).map((p) => p.id);
+    return [
+      { name: "First Steps", desc: "Open your first person", got: n >= 1 },
+      { name: "Disciple", desc: "Open 25 people", got: n >= 25 },
+      { name: "Scribe", desc: "Open 100 people", got: n >= 100 },
+      { name: "Doctor of the Church", desc: "Open 400 people", got: n >= 400 },
+      { name: "The Twelve", desc: "Meet every apostle", got: apostles.every((a) => seen[a]) },
+      { name: "Deuterocanon", desc: "Meet 15 people from Tobit to Maccabees", got: deutero.filter((id) => seen[id]).length >= 15 },
+      { name: "Faithful", desc: "A 7-day game streak", got: best >= 7 },
+      { name: "Pilgrim", desc: "Play 30 daily games", got: plays >= 30 },
+    ];
   }
 
   /* ---------- boot ---------- */
@@ -561,6 +662,10 @@
       $("main").innerHTML = `<p class="loading">The people data could not load (${esc(e.message)}). Reload the page to try again.</p>`;
       return;
     }
+    window.BPM = {
+      store, getJSON, esc, chip, refLabel, parseRef, verses, loadBible, loadMentions, openPerson, explored, badges, db, user,
+      get PEOPLE() { return PEOPLE; }, get P() { return P; }, get BOOKS() { return BOOKS; }, MENTIONS: () => MENTIONS,
+    };
     setupSearch(); setupPanel();
     window.addEventListener("hashchange", route);
     route();

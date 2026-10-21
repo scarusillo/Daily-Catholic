@@ -1,0 +1,1737 @@
+{
+ "mother_of_god|A": {
+  "title": "Solemnity of Mary, the Holy Mother of God",
+  "dates": [
+   "2026-01-01"
+  ]
+ },
+ "epiphany|A": {
+  "title": "The Epiphany of the Lord",
+  "dates": [
+   "2026-01-04"
+  ]
+ },
+ "baptism_of_lord|A": {
+  "title": "The Baptism of the Lord",
+  "dates": [
+   "2026-01-11"
+  ]
+ },
+ "ordinary-2-sunday|A": {
+  "title": "2nd Sunday in Ordinary Time",
+  "dates": [
+   "2026-01-18"
+  ]
+ },
+ "ordinary-3-sunday|A": {
+  "title": "3rd Sunday in Ordinary Time",
+  "dates": [
+   "2026-01-25"
+  ]
+ },
+ "ordinary-4-sunday|A": {
+  "title": "4th Sunday in Ordinary Time",
+  "dates": [
+   "2026-02-01"
+  ]
+ },
+ "presentation_of_lord|A": {
+  "title": "The Presentation of the Lord",
+  "dates": [
+   "2026-02-02"
+  ]
+ },
+ "ordinary-5-sunday|A": {
+  "title": "5th Sunday in Ordinary Time",
+  "dates": [
+   "2026-02-08"
+  ]
+ },
+ "ordinary-6-sunday|A": {
+  "title": "6th Sunday in Ordinary Time",
+  "dates": [
+   "2026-02-15"
+  ]
+ },
+ "ash_wednesday|A": {
+  "title": "Ash Wednesday",
+  "dates": [
+   "2026-02-18"
+  ]
+ },
+ "lent-1-sunday|A": {
+  "title": "1st Sunday of Lent",
+  "dates": [
+   "2026-02-22"
+  ]
+ },
+ "lent-2-sunday|A": {
+  "title": "2nd Sunday of Lent",
+  "dates": [
+   "2026-03-01"
+  ]
+ },
+ "lent-3-sunday|A": {
+  "title": "3rd Sunday of Lent",
+  "dates": [
+   "2026-03-08"
+  ]
+ },
+ "lent-4-sunday|A": {
+  "title": "4th Sunday of Lent",
+  "dates": [
+   "2026-03-15"
+  ]
+ },
+ "joseph|A": {
+  "title": "Saint Joseph, Spouse of the Blessed Virgin Mary",
+  "dates": [
+   "2026-03-19"
+  ]
+ },
+ "lent-5-sunday|A": {
+  "title": "5th Sunday of Lent",
+  "dates": [
+   "2026-03-22"
+  ]
+ },
+ "annunciation|A": {
+  "title": "The Annunciation of the Lord",
+  "dates": [
+   "2026-03-25"
+  ]
+ },
+ "palm_sunday|A": {
+  "title": "Palm Sunday of the Passion of the Lord",
+  "dates": [
+   "2026-03-29"
+  ]
+ },
+ "lent_holy_monday|A": {
+  "title": "Monday of Holy Week",
+  "dates": [
+   "2026-03-30"
+  ]
+ },
+ "lent_holy_tuesday|A": {
+  "title": "Tuesday of Holy Week",
+  "dates": [
+   "2026-03-31"
+  ]
+ },
+ "lent_holy_wednesday|A": {
+  "title": "Wednesday of Holy Week",
+  "dates": [
+   "2026-04-01"
+  ]
+ },
+ "holy_thursday|A": {
+  "title": "Thursday of Holy Week [Holy Thursday]: The Chrism Mass",
+  "dates": [
+   "2026-04-02"
+  ]
+ },
+ "good_friday|A": {
+  "title": "Friday of the Passion of the Lord [Good Friday]",
+  "dates": [
+   "2026-04-03"
+  ]
+ },
+ "holy_saturday|A": {
+  "title": "Holy Saturday",
+  "dates": [
+   "2026-04-04"
+  ]
+ },
+ "easter_sunday|A": {
+  "title": "Easter Sunday of the Resurrection of the Lord",
+  "dates": [
+   "2026-04-05"
+  ]
+ },
+ "easter-1-monday|A": {
+  "title": "Monday Within the Octave of Easter",
+  "dates": [
+   "2026-04-06"
+  ]
+ },
+ "easter-1-tuesday|A": {
+  "title": "Tuesday Within the Octave of Easter",
+  "dates": [
+   "2026-04-07"
+  ]
+ },
+ "easter-1-wednesday|A": {
+  "title": "Wednesday Within the Octave of Easter",
+  "dates": [
+   "2026-04-08"
+  ]
+ },
+ "easter-1-thursday|A": {
+  "title": "Thursday Within the Octave of Easter",
+  "dates": [
+   "2026-04-09"
+  ]
+ },
+ "easter-1-friday|A": {
+  "title": "Friday Within the Octave of Easter",
+  "dates": [
+   "2026-04-10"
+  ]
+ },
+ "easter-1-saturday|A": {
+  "title": "Saturday Within the Octave of Easter",
+  "dates": [
+   "2026-04-11"
+  ]
+ },
+ "easter-2-sunday|A": {
+  "title": "2nd Sunday of Easter",
+  "dates": [
+   "2026-04-12"
+  ]
+ },
+ "easter-3-sunday|A": {
+  "title": "3rd Sunday of Easter",
+  "dates": [
+   "2026-04-19"
+  ]
+ },
+ "mark|A": {
+  "title": "Saint Mark, Evangelist",
+  "dates": [
+   "2026-04-25"
+  ]
+ },
+ "easter-4-sunday|A": {
+  "title": "4th Sunday of Easter",
+  "dates": [
+   "2026-04-26"
+  ]
+ },
+ "easter-5-sunday|A": {
+  "title": "5th Sunday of Easter",
+  "dates": [
+   "2026-05-03"
+  ]
+ },
+ "easter-6-sunday|A": {
+  "title": "6th Sunday of Easter",
+  "dates": [
+   "2026-05-10"
+  ]
+ },
+ "matthias|A": {
+  "title": "Saint Matthias, Apostle",
+  "dates": [
+   "2026-05-14"
+  ]
+ },
+ "ascension|A": {
+  "title": "The Ascension of the Lord",
+  "dates": [
+   "2026-05-17"
+  ]
+ },
+ "pentecost|A": {
+  "title": "Pentecost Sunday",
+  "dates": [
+   "2026-05-24"
+  ]
+ },
+ "holy_trinity|A": {
+  "title": "The Most Holy Trinity",
+  "dates": [
+   "2026-05-31"
+  ]
+ },
+ "corpus_christi|A": {
+  "title": "The Most Holy Body and Blood of Christ (CORPUS CHRISTI)",
+  "dates": [
+   "2026-06-07"
+  ]
+ },
+ "sacred_heart|A": {
+  "title": "The Most Sacred Heart of Jesus",
+  "dates": [
+   "2026-06-12"
+  ]
+ },
+ "ordinary-11-sunday|A": {
+  "title": "11th Sunday in Ordinary Time",
+  "dates": [
+   "2026-06-14"
+  ]
+ },
+ "ordinary-12-sunday|A": {
+  "title": "12th Sunday in Ordinary Time",
+  "dates": [
+   "2026-06-21"
+  ]
+ },
+ "baptist_birth|A": {
+  "title": "The Nativity of Saint John the Baptist",
+  "dates": [
+   "2026-06-24"
+  ]
+ },
+ "ordinary-13-sunday|A": {
+  "title": "13th Sunday in Ordinary Time",
+  "dates": [
+   "2026-06-28"
+  ]
+ },
+ "peter_paul|A": {
+  "title": "Saints Peter and Paul, Apostles",
+  "dates": [
+   "2026-06-29"
+  ]
+ },
+ "thomas_apostle|A": {
+  "title": "Saint Thomas, Apostle",
+  "dates": [
+   "2026-07-03"
+  ]
+ },
+ "ordinary-14-sunday|A": {
+  "title": "14th Sunday in Ordinary Time",
+  "dates": [
+   "2026-07-05"
+  ]
+ },
+ "ordinary-15-sunday|A": {
+  "title": "15th Sunday in Ordinary Time",
+  "dates": [
+   "2026-07-12"
+  ]
+ },
+ "ordinary-16-sunday|A": {
+  "title": "16th Sunday in Ordinary Time",
+  "dates": [
+   "2026-07-19"
+  ]
+ },
+ "mary_magdalene|A": {
+  "title": "Saint Mary Magdalene",
+  "dates": [
+   "2026-07-22"
+  ]
+ },
+ "james|A": {
+  "title": "Saint James, Apostle",
+  "dates": [
+   "2026-07-25"
+  ]
+ },
+ "ordinary-17-sunday|A": {
+  "title": "17th Sunday in Ordinary Time",
+  "dates": [
+   "2026-07-26"
+  ]
+ },
+ "ordinary-18-sunday|A": {
+  "title": "18th Sunday in Ordinary Time",
+  "dates": [
+   "2026-08-02"
+  ]
+ },
+ "transfiguration|A": {
+  "title": "The Transfiguration of the Lord",
+  "dates": [
+   "2026-08-06"
+  ]
+ },
+ "ordinary-19-sunday|A": {
+  "title": "19th Sunday in Ordinary Time",
+  "dates": [
+   "2026-08-09"
+  ]
+ },
+ "lawrence|A": {
+  "title": "Saint Lawrence, Deacon and Martyr",
+  "dates": [
+   "2026-08-10"
+  ]
+ },
+ "assumption|A": {
+  "title": "The Assumption of the Blessed Virgin Mary",
+  "dates": [
+   "2026-08-15"
+  ]
+ },
+ "ordinary-20-sunday|A": {
+  "title": "20th Sunday in Ordinary Time",
+  "dates": [
+   "2026-08-16"
+  ]
+ },
+ "ordinary-21-sunday|A": {
+  "title": "21st Sunday in Ordinary Time",
+  "dates": [
+   "2026-08-23"
+  ]
+ },
+ "bartholomew|A": {
+  "title": "Saint Bartholomew, Apostle",
+  "dates": [
+   "2026-08-24"
+  ]
+ },
+ "ordinary-22-sunday|A": {
+  "title": "22nd Sunday in Ordinary Time",
+  "dates": [
+   "2026-08-30"
+  ]
+ },
+ "ordinary-23-sunday|A": {
+  "title": "23rd Sunday in Ordinary Time",
+  "dates": [
+   "2026-09-06"
+  ]
+ },
+ "bvm_birth|A": {
+  "title": "The Nativity of the Blessed Virgin Mary",
+  "dates": [
+   "2026-09-08"
+  ]
+ },
+ "ordinary-24-sunday|A": {
+  "title": "24th Sunday in Ordinary Time",
+  "dates": [
+   "2026-09-13"
+  ]
+ },
+ "cross|A": {
+  "title": "The Exaltation of the Holy Cross",
+  "dates": [
+   "2026-09-14"
+  ]
+ },
+ "ordinary-25-sunday|A": {
+  "title": "25th Sunday in Ordinary Time",
+  "dates": [
+   "2026-09-20"
+  ]
+ },
+ "matthew|A": {
+  "title": "Saint Matthew, Apostle and Evangelist",
+  "dates": [
+   "2026-09-21"
+  ]
+ },
+ "ordinary-26-sunday|A": {
+  "title": "26th Sunday in Ordinary Time",
+  "dates": [
+   "2026-09-27"
+  ]
+ },
+ "archangels|A": {
+  "title": "Saints Michael, Gabriel and Raphael, Archangels",
+  "dates": [
+   "2026-09-29"
+  ]
+ },
+ "ordinary-27-sunday|A": {
+  "title": "27th Sunday in Ordinary Time",
+  "dates": [
+   "2026-10-04"
+  ]
+ },
+ "ordinary-28-sunday|A": {
+  "title": "28th Sunday in Ordinary Time",
+  "dates": [
+   "2026-10-11"
+  ]
+ },
+ "ordinary-29-sunday|A": {
+  "title": "29th Sunday in Ordinary Time",
+  "dates": [
+   "2026-10-18"
+  ]
+ },
+ "ordinary-30-sunday|A": {
+  "title": "30th Sunday in Ordinary Time",
+  "dates": [
+   "2026-10-25"
+  ]
+ },
+ "simon_jude|A": {
+  "title": "Saints Simon and Jude, Apostles",
+  "dates": [
+   "2026-10-28"
+  ]
+ },
+ "all_saints|A": {
+  "title": "All Saints",
+  "dates": [
+   "2026-11-01"
+  ]
+ },
+ "all_souls|A": {
+  "title": "The Commemoration of All the Faithful Departed (All Souls’ Day)",
+  "dates": [
+   "2026-11-02"
+  ]
+ },
+ "ordinary-32-sunday|A": {
+  "title": "32nd Sunday in Ordinary Time",
+  "dates": [
+   "2026-11-08"
+  ]
+ },
+ "lateran_basilica|A": {
+  "title": "The Dedication of the Lateran Basilica",
+  "dates": [
+   "2026-11-09"
+  ]
+ },
+ "ordinary-33-sunday|A": {
+  "title": "33rd Sunday in Ordinary Time",
+  "dates": [
+   "2026-11-15"
+  ]
+ },
+ "christ_king|A": {
+  "title": "Our Lord Jesus Christ, King of the Universe",
+  "dates": [
+   "2026-11-22"
+  ]
+ },
+ "advent-1-sunday|B": {
+  "title": "1st Sunday of Advent",
+  "dates": [
+   "2026-11-29"
+  ]
+ },
+ "andrew|B": {
+  "title": "Saint Andrew, Apostle",
+  "dates": [
+   "2026-11-30"
+  ]
+ },
+ "advent-2-sunday|B": {
+  "title": "2nd Sunday of Advent",
+  "dates": [
+   "2026-12-06"
+  ]
+ },
+ "bvm_immaculate|B": {
+  "title": "The Immaculate Conception of the Blessed Virgin Mary",
+  "dates": [
+   "2026-12-08"
+  ]
+ },
+ "bvm_guadalupe|B": {
+  "title": "Our Lady of Guadalupe",
+  "dates": [
+   "2026-12-12"
+  ]
+ },
+ "advent-3-sunday|B": {
+  "title": "3rd Sunday of Advent",
+  "dates": [
+   "2026-12-13"
+  ]
+ },
+ "advent-4-sunday|B": {
+  "title": "4th Sunday of Advent",
+  "dates": [
+   "2026-12-20"
+  ]
+ },
+ "nativity|B": {
+  "title": "The Nativity of the Lord [CHRISTMAS]",
+  "dates": [
+   "2026-12-25"
+  ]
+ },
+ "stephen|B": {
+  "title": "Saint Stephen, the First Martyr",
+  "dates": [
+   "2026-12-26"
+  ]
+ },
+ "holy_family|B": {
+  "title": "The Holy Family of Jesus, Mary and Joseph",
+  "dates": [
+   "2026-12-27"
+  ]
+ },
+ "innocents|B": {
+  "title": "The Holy Innocents, Martyrs",
+  "dates": [
+   "2026-12-28"
+  ]
+ },
+ "mother_of_god|B": {
+  "title": "Solemnity of Mary, the Holy Mother of God",
+  "dates": [
+   "2027-01-01"
+  ]
+ },
+ "epiphany|B": {
+  "title": "The Epiphany of the Lord",
+  "dates": [
+   "2027-01-03"
+  ]
+ },
+ "baptism_of_lord|B": {
+  "title": "The Baptism of the Lord",
+  "dates": [
+   "2027-01-10"
+  ]
+ },
+ "ordinary-2-sunday|B": {
+  "title": "2nd Sunday in Ordinary Time",
+  "dates": [
+   "2027-01-17"
+  ]
+ },
+ "ordinary-3-sunday|B": {
+  "title": "3rd Sunday in Ordinary Time",
+  "dates": [
+   "2027-01-24"
+  ]
+ },
+ "paul_conversion|B": {
+  "title": "The Conversion of Saint Paul the Apostle",
+  "dates": [
+   "2027-01-25"
+  ]
+ },
+ "ordinary-4-sunday|B": {
+  "title": "4th Sunday in Ordinary Time",
+  "dates": [
+   "2027-01-31"
+  ]
+ },
+ "presentation_of_lord|B": {
+  "title": "The Presentation of the Lord",
+  "dates": [
+   "2027-02-02"
+  ]
+ },
+ "ordinary-5-sunday|B": {
+  "title": "5th Sunday in Ordinary Time",
+  "dates": [
+   "2027-02-07"
+  ]
+ },
+ "ash_wednesday|B": {
+  "title": "Ash Wednesday",
+  "dates": [
+   "2027-02-10"
+  ]
+ },
+ "lent-1-sunday|B": {
+  "title": "1st Sunday of Lent",
+  "dates": [
+   "2027-02-14"
+  ]
+ },
+ "lent-2-sunday|B": {
+  "title": "2nd Sunday of Lent",
+  "dates": [
+   "2027-02-21"
+  ]
+ },
+ "chair_of_peter|B": {
+  "title": "The Chair of Saint Peter the Apostle",
+  "dates": [
+   "2027-02-22"
+  ]
+ },
+ "lent-3-sunday|B": {
+  "title": "3rd Sunday of Lent",
+  "dates": [
+   "2027-02-28"
+  ]
+ },
+ "lent-4-sunday|B": {
+  "title": "4th Sunday of Lent",
+  "dates": [
+   "2027-03-07"
+  ]
+ },
+ "lent-5-sunday|B": {
+  "title": "5th Sunday of Lent",
+  "dates": [
+   "2027-03-14"
+  ]
+ },
+ "joseph|B": {
+  "title": "Saint Joseph, Spouse of the Blessed Virgin Mary",
+  "dates": [
+   "2027-03-19"
+  ]
+ },
+ "palm_sunday|B": {
+  "title": "Palm Sunday of the Passion of the Lord",
+  "dates": [
+   "2027-03-21"
+  ]
+ },
+ "lent_holy_monday|B": {
+  "title": "Monday of Holy Week",
+  "dates": [
+   "2027-03-22"
+  ]
+ },
+ "lent_holy_tuesday|B": {
+  "title": "Tuesday of Holy Week",
+  "dates": [
+   "2027-03-23"
+  ]
+ },
+ "lent_holy_wednesday|B": {
+  "title": "Wednesday of Holy Week",
+  "dates": [
+   "2027-03-24"
+  ]
+ },
+ "holy_thursday|B": {
+  "title": "Thursday of Holy Week [Holy Thursday]: The Chrism Mass",
+  "dates": [
+   "2027-03-25"
+  ]
+ },
+ "good_friday|B": {
+  "title": "Friday of the Passion of the Lord [Good Friday]",
+  "dates": [
+   "2027-03-26"
+  ]
+ },
+ "holy_saturday|B": {
+  "title": "Holy Saturday",
+  "dates": [
+   "2027-03-27"
+  ]
+ },
+ "easter_sunday|B": {
+  "title": "Easter Sunday of the Resurrection of the Lord",
+  "dates": [
+   "2027-03-28"
+  ]
+ },
+ "easter-1-monday|B": {
+  "title": "Monday Within the Octave of Easter",
+  "dates": [
+   "2027-03-29"
+  ]
+ },
+ "easter-1-tuesday|B": {
+  "title": "Tuesday Within the Octave of Easter",
+  "dates": [
+   "2027-03-30"
+  ]
+ },
+ "easter-1-wednesday|B": {
+  "title": "Wednesday Within the Octave of Easter",
+  "dates": [
+   "2027-03-31"
+  ]
+ },
+ "easter-1-thursday|B": {
+  "title": "Thursday Within the Octave of Easter",
+  "dates": [
+   "2027-04-01"
+  ]
+ },
+ "easter-1-friday|B": {
+  "title": "Friday Within the Octave of Easter",
+  "dates": [
+   "2027-04-02"
+  ]
+ },
+ "easter-1-saturday|B": {
+  "title": "Saturday Within the Octave of Easter",
+  "dates": [
+   "2027-04-03"
+  ]
+ },
+ "easter-2-sunday|B": {
+  "title": "2nd Sunday of Easter",
+  "dates": [
+   "2027-04-04"
+  ]
+ },
+ "annunciation|B": {
+  "title": "The Annunciation of the Lord",
+  "dates": [
+   "2027-04-05"
+  ]
+ },
+ "easter-3-sunday|B": {
+  "title": "3rd Sunday of Easter",
+  "dates": [
+   "2027-04-11"
+  ]
+ },
+ "easter-4-sunday|B": {
+  "title": "4th Sunday of Easter",
+  "dates": [
+   "2027-04-18"
+  ]
+ },
+ "easter-5-sunday|B": {
+  "title": "5th Sunday of Easter",
+  "dates": [
+   "2027-04-25"
+  ]
+ },
+ "easter-6-sunday|B": {
+  "title": "6th Sunday of Easter",
+  "dates": [
+   "2027-05-02"
+  ]
+ },
+ "philip_james|B": {
+  "title": "Saints Philip and James, Apostles",
+  "dates": [
+   "2027-05-03"
+  ]
+ },
+ "ascension|B": {
+  "title": "The Ascension of the Lord",
+  "dates": [
+   "2027-05-09"
+  ]
+ },
+ "matthias|B": {
+  "title": "Saint Matthias, Apostle",
+  "dates": [
+   "2027-05-14"
+  ]
+ },
+ "pentecost|B": {
+  "title": "Pentecost Sunday",
+  "dates": [
+   "2027-05-16"
+  ]
+ },
+ "holy_trinity|B": {
+  "title": "The Most Holy Trinity",
+  "dates": [
+   "2027-05-23"
+  ]
+ },
+ "corpus_christi|B": {
+  "title": "The Most Holy Body and Blood of Christ (CORPUS CHRISTI)",
+  "dates": [
+   "2027-05-30"
+  ]
+ },
+ "visitation|B": {
+  "title": "The Visitation of the Blessed Virgin Mary",
+  "dates": [
+   "2027-05-31"
+  ]
+ },
+ "sacred_heart|B": {
+  "title": "The Most Sacred Heart of Jesus",
+  "dates": [
+   "2027-06-04"
+  ]
+ },
+ "ordinary-10-sunday|B": {
+  "title": "10th Sunday in Ordinary Time",
+  "dates": [
+   "2027-06-06"
+  ]
+ },
+ "ordinary-11-sunday|B": {
+  "title": "11th Sunday in Ordinary Time",
+  "dates": [
+   "2027-06-13"
+  ]
+ },
+ "ordinary-12-sunday|B": {
+  "title": "12th Sunday in Ordinary Time",
+  "dates": [
+   "2027-06-20"
+  ]
+ },
+ "baptist_birth|B": {
+  "title": "The Nativity of Saint John the Baptist",
+  "dates": [
+   "2027-06-24"
+  ]
+ },
+ "ordinary-13-sunday|B": {
+  "title": "13th Sunday in Ordinary Time",
+  "dates": [
+   "2027-06-27"
+  ]
+ },
+ "peter_paul|B": {
+  "title": "Saints Peter and Paul, Apostles",
+  "dates": [
+   "2027-06-29"
+  ]
+ },
+ "thomas_apostle|B": {
+  "title": "Saint Thomas, Apostle",
+  "dates": [
+   "2027-07-03"
+  ]
+ },
+ "ordinary-14-sunday|B": {
+  "title": "14th Sunday in Ordinary Time",
+  "dates": [
+   "2027-07-04"
+  ]
+ },
+ "ordinary-15-sunday|B": {
+  "title": "15th Sunday in Ordinary Time",
+  "dates": [
+   "2027-07-11"
+  ]
+ },
+ "ordinary-16-sunday|B": {
+  "title": "16th Sunday in Ordinary Time",
+  "dates": [
+   "2027-07-18"
+  ]
+ },
+ "mary_magdalene|B": {
+  "title": "Saint Mary Magdalene",
+  "dates": [
+   "2027-07-22"
+  ]
+ },
+ "ordinary-17-sunday|B": {
+  "title": "17th Sunday in Ordinary Time",
+  "dates": [
+   "2027-07-25"
+  ]
+ },
+ "ordinary-18-sunday|B": {
+  "title": "18th Sunday in Ordinary Time",
+  "dates": [
+   "2027-08-01"
+  ]
+ },
+ "transfiguration|B": {
+  "title": "The Transfiguration of the Lord",
+  "dates": [
+   "2027-08-06"
+  ]
+ },
+ "ordinary-19-sunday|B": {
+  "title": "19th Sunday in Ordinary Time",
+  "dates": [
+   "2027-08-08"
+  ]
+ },
+ "lawrence|B": {
+  "title": "Saint Lawrence, Deacon and Martyr",
+  "dates": [
+   "2027-08-10"
+  ]
+ },
+ "assumption|B": {
+  "title": "The Assumption of the Blessed Virgin Mary",
+  "dates": [
+   "2027-08-15"
+  ]
+ },
+ "ordinary-21-sunday|B": {
+  "title": "21st Sunday in Ordinary Time",
+  "dates": [
+   "2027-08-22"
+  ]
+ },
+ "bartholomew|B": {
+  "title": "Saint Bartholomew, Apostle",
+  "dates": [
+   "2027-08-24"
+  ]
+ },
+ "ordinary-22-sunday|B": {
+  "title": "22nd Sunday in Ordinary Time",
+  "dates": [
+   "2027-08-29"
+  ]
+ },
+ "ordinary-23-sunday|B": {
+  "title": "23rd Sunday in Ordinary Time",
+  "dates": [
+   "2027-09-05"
+  ]
+ },
+ "bvm_birth|B": {
+  "title": "The Nativity of the Blessed Virgin Mary",
+  "dates": [
+   "2027-09-08"
+  ]
+ },
+ "ordinary-24-sunday|B": {
+  "title": "24th Sunday in Ordinary Time",
+  "dates": [
+   "2027-09-12"
+  ]
+ },
+ "cross|B": {
+  "title": "The Exaltation of the Holy Cross",
+  "dates": [
+   "2027-09-14"
+  ]
+ },
+ "ordinary-25-sunday|B": {
+  "title": "25th Sunday in Ordinary Time",
+  "dates": [
+   "2027-09-19"
+  ]
+ },
+ "matthew|B": {
+  "title": "Saint Matthew, Apostle and Evangelist",
+  "dates": [
+   "2027-09-21"
+  ]
+ },
+ "ordinary-26-sunday|B": {
+  "title": "26th Sunday in Ordinary Time",
+  "dates": [
+   "2027-09-26"
+  ]
+ },
+ "archangels|B": {
+  "title": "Saints Michael, Gabriel and Raphael, Archangels",
+  "dates": [
+   "2027-09-29"
+  ]
+ },
+ "ordinary-27-sunday|B": {
+  "title": "27th Sunday in Ordinary Time",
+  "dates": [
+   "2027-10-03"
+  ]
+ },
+ "ordinary-28-sunday|B": {
+  "title": "28th Sunday in Ordinary Time",
+  "dates": [
+   "2027-10-10"
+  ]
+ },
+ "ordinary-29-sunday|B": {
+  "title": "29th Sunday in Ordinary Time",
+  "dates": [
+   "2027-10-17"
+  ]
+ },
+ "luke|B": {
+  "title": "Saint Luke, Evangelist",
+  "dates": [
+   "2027-10-18"
+  ]
+ },
+ "ordinary-30-sunday|B": {
+  "title": "30th Sunday in Ordinary Time",
+  "dates": [
+   "2027-10-24"
+  ]
+ },
+ "simon_jude|B": {
+  "title": "Saints Simon and Jude, Apostles",
+  "dates": [
+   "2027-10-28"
+  ]
+ },
+ "ordinary-31-sunday|B": {
+  "title": "31st Sunday in Ordinary Time",
+  "dates": [
+   "2027-10-31"
+  ]
+ },
+ "all_saints|B": {
+  "title": "All Saints",
+  "dates": [
+   "2027-11-01"
+  ]
+ },
+ "all_souls|B": {
+  "title": "The Commemoration of All the Faithful Departed (All Souls’ Day)",
+  "dates": [
+   "2027-11-02"
+  ]
+ },
+ "ordinary-32-sunday|B": {
+  "title": "32nd Sunday in Ordinary Time",
+  "dates": [
+   "2027-11-07"
+  ]
+ },
+ "lateran_basilica|B": {
+  "title": "The Dedication of the Lateran Basilica",
+  "dates": [
+   "2027-11-09"
+  ]
+ },
+ "ordinary-33-sunday|B": {
+  "title": "33rd Sunday in Ordinary Time",
+  "dates": [
+   "2027-11-14"
+  ]
+ },
+ "christ_king|B": {
+  "title": "Our Lord Jesus Christ, King of the Universe",
+  "dates": [
+   "2027-11-21"
+  ]
+ },
+ "advent-1-sunday|C": {
+  "title": "1st Sunday of Advent",
+  "dates": [
+   "2027-11-28"
+  ]
+ },
+ "andrew|C": {
+  "title": "Saint Andrew, Apostle",
+  "dates": [
+   "2027-11-30",
+   "2028-11-30"
+  ]
+ },
+ "advent-2-sunday|C": {
+  "title": "2nd Sunday of Advent",
+  "dates": [
+   "2027-12-05"
+  ]
+ },
+ "bvm_immaculate|C": {
+  "title": "The Immaculate Conception of the Blessed Virgin Mary",
+  "dates": [
+   "2027-12-08"
+  ]
+ },
+ "advent-3-sunday|C": {
+  "title": "3rd Sunday of Advent",
+  "dates": [
+   "2027-12-12"
+  ]
+ },
+ "advent-4-sunday|C": {
+  "title": "4th Sunday of Advent",
+  "dates": [
+   "2027-12-19"
+  ]
+ },
+ "nativity|C": {
+  "title": "The Nativity of the Lord [CHRISTMAS]",
+  "dates": [
+   "2027-12-25"
+  ]
+ },
+ "holy_family|C": {
+  "title": "The Holy Family of Jesus, Mary and Joseph",
+  "dates": [
+   "2027-12-26"
+  ]
+ },
+ "john_evangelist|C": {
+  "title": "Saint John, Apostle and Evangelist",
+  "dates": [
+   "2027-12-27"
+  ]
+ },
+ "innocents|C": {
+  "title": "The Holy Innocents, Martyrs",
+  "dates": [
+   "2027-12-28"
+  ]
+ },
+ "mother_of_god|C": {
+  "title": "Solemnity of Mary, the Holy Mother of God",
+  "dates": [
+   "2028-01-01"
+  ]
+ },
+ "epiphany|C": {
+  "title": "The Epiphany of the Lord",
+  "dates": [
+   "2028-01-02"
+  ]
+ },
+ "baptism_of_lord|C": {
+  "title": "The Baptism of the Lord",
+  "dates": [
+   "2028-01-09"
+  ]
+ },
+ "ordinary-2-sunday|C": {
+  "title": "2nd Sunday in Ordinary Time",
+  "dates": [
+   "2028-01-16"
+  ]
+ },
+ "ordinary-3-sunday|C": {
+  "title": "3rd Sunday in Ordinary Time",
+  "dates": [
+   "2028-01-23"
+  ]
+ },
+ "paul_conversion|C": {
+  "title": "The Conversion of Saint Paul the Apostle",
+  "dates": [
+   "2028-01-25"
+  ]
+ },
+ "ordinary-4-sunday|C": {
+  "title": "4th Sunday in Ordinary Time",
+  "dates": [
+   "2028-01-30"
+  ]
+ },
+ "presentation_of_lord|C": {
+  "title": "The Presentation of the Lord",
+  "dates": [
+   "2028-02-02"
+  ]
+ },
+ "ordinary-5-sunday|C": {
+  "title": "5th Sunday in Ordinary Time",
+  "dates": [
+   "2028-02-06"
+  ]
+ },
+ "ordinary-6-sunday|C": {
+  "title": "6th Sunday in Ordinary Time",
+  "dates": [
+   "2028-02-13"
+  ]
+ },
+ "ordinary-7-sunday|C": {
+  "title": "7th Sunday in Ordinary Time",
+  "dates": [
+   "2028-02-20"
+  ]
+ },
+ "chair_of_peter|C": {
+  "title": "The Chair of Saint Peter the Apostle",
+  "dates": [
+   "2028-02-22"
+  ]
+ },
+ "ordinary-8-sunday|C": {
+  "title": "8th Sunday in Ordinary Time",
+  "dates": [
+   "2028-02-27"
+  ]
+ },
+ "ash_wednesday|C": {
+  "title": "Ash Wednesday",
+  "dates": [
+   "2028-03-01"
+  ]
+ },
+ "lent-1-sunday|C": {
+  "title": "1st Sunday of Lent",
+  "dates": [
+   "2028-03-05"
+  ]
+ },
+ "lent-2-sunday|C": {
+  "title": "2nd Sunday of Lent",
+  "dates": [
+   "2028-03-12"
+  ]
+ },
+ "lent-3-sunday|C": {
+  "title": "3rd Sunday of Lent",
+  "dates": [
+   "2028-03-19"
+  ]
+ },
+ "joseph|C": {
+  "title": "Saint Joseph, Spouse of the Blessed Virgin Mary",
+  "dates": [
+   "2028-03-20"
+  ]
+ },
+ "annunciation|C": {
+  "title": "The Annunciation of the Lord",
+  "dates": [
+   "2028-03-25"
+  ]
+ },
+ "lent-4-sunday|C": {
+  "title": "4th Sunday of Lent",
+  "dates": [
+   "2028-03-26"
+  ]
+ },
+ "lent-5-sunday|C": {
+  "title": "5th Sunday of Lent",
+  "dates": [
+   "2028-04-02"
+  ]
+ },
+ "palm_sunday|C": {
+  "title": "Palm Sunday of the Passion of the Lord",
+  "dates": [
+   "2028-04-09"
+  ]
+ },
+ "lent_holy_monday|C": {
+  "title": "Monday of Holy Week",
+  "dates": [
+   "2028-04-10"
+  ]
+ },
+ "lent_holy_tuesday|C": {
+  "title": "Tuesday of Holy Week",
+  "dates": [
+   "2028-04-11"
+  ]
+ },
+ "lent_holy_wednesday|C": {
+  "title": "Wednesday of Holy Week",
+  "dates": [
+   "2028-04-12"
+  ]
+ },
+ "holy_thursday|C": {
+  "title": "Thursday of Holy Week [Holy Thursday]: The Chrism Mass",
+  "dates": [
+   "2028-04-13"
+  ]
+ },
+ "good_friday|C": {
+  "title": "Friday of the Passion of the Lord [Good Friday]",
+  "dates": [
+   "2028-04-14"
+  ]
+ },
+ "holy_saturday|C": {
+  "title": "Holy Saturday",
+  "dates": [
+   "2028-04-15"
+  ]
+ },
+ "easter_sunday|C": {
+  "title": "Easter Sunday of the Resurrection of the Lord",
+  "dates": [
+   "2028-04-16"
+  ]
+ },
+ "easter-1-monday|C": {
+  "title": "Monday Within the Octave of Easter",
+  "dates": [
+   "2028-04-17"
+  ]
+ },
+ "easter-1-tuesday|C": {
+  "title": "Tuesday Within the Octave of Easter",
+  "dates": [
+   "2028-04-18"
+  ]
+ },
+ "easter-1-wednesday|C": {
+  "title": "Wednesday Within the Octave of Easter",
+  "dates": [
+   "2028-04-19"
+  ]
+ },
+ "easter-1-thursday|C": {
+  "title": "Thursday Within the Octave of Easter",
+  "dates": [
+   "2028-04-20"
+  ]
+ },
+ "easter-1-friday|C": {
+  "title": "Friday Within the Octave of Easter",
+  "dates": [
+   "2028-04-21"
+  ]
+ },
+ "easter-1-saturday|C": {
+  "title": "Saturday Within the Octave of Easter",
+  "dates": [
+   "2028-04-22"
+  ]
+ },
+ "easter-2-sunday|C": {
+  "title": "2nd Sunday of Easter",
+  "dates": [
+   "2028-04-23"
+  ]
+ },
+ "mark|C": {
+  "title": "Saint Mark, Evangelist",
+  "dates": [
+   "2028-04-25"
+  ]
+ },
+ "easter-3-sunday|C": {
+  "title": "3rd Sunday of Easter",
+  "dates": [
+   "2028-04-30"
+  ]
+ },
+ "philip_james|C": {
+  "title": "Saints Philip and James, Apostles",
+  "dates": [
+   "2028-05-03"
+  ]
+ },
+ "easter-4-sunday|C": {
+  "title": "4th Sunday of Easter",
+  "dates": [
+   "2028-05-07"
+  ]
+ },
+ "easter-5-sunday|C": {
+  "title": "5th Sunday of Easter",
+  "dates": [
+   "2028-05-14"
+  ]
+ },
+ "easter-6-sunday|C": {
+  "title": "6th Sunday of Easter",
+  "dates": [
+   "2028-05-21"
+  ]
+ },
+ "ascension|C": {
+  "title": "The Ascension of the Lord",
+  "dates": [
+   "2028-05-28"
+  ]
+ },
+ "visitation|C": {
+  "title": "The Visitation of the Blessed Virgin Mary",
+  "dates": [
+   "2028-05-31"
+  ]
+ },
+ "pentecost|C": {
+  "title": "Pentecost Sunday",
+  "dates": [
+   "2028-06-04"
+  ]
+ },
+ "holy_trinity|C": {
+  "title": "The Most Holy Trinity",
+  "dates": [
+   "2028-06-11"
+  ]
+ },
+ "corpus_christi|C": {
+  "title": "The Most Holy Body and Blood of Christ (CORPUS CHRISTI)",
+  "dates": [
+   "2028-06-18"
+  ]
+ },
+ "sacred_heart|C": {
+  "title": "The Most Sacred Heart of Jesus",
+  "dates": [
+   "2028-06-23"
+  ]
+ },
+ "baptist_birth|C": {
+  "title": "The Nativity of Saint John the Baptist",
+  "dates": [
+   "2028-06-24"
+  ]
+ },
+ "ordinary-12-sunday|C": {
+  "title": "12th Sunday in Ordinary Time",
+  "dates": [
+   "2028-06-25"
+  ]
+ },
+ "peter_paul|C": {
+  "title": "Saints Peter and Paul, Apostles",
+  "dates": [
+   "2028-06-29"
+  ]
+ },
+ "ordinary-13-sunday|C": {
+  "title": "13th Sunday in Ordinary Time",
+  "dates": [
+   "2028-07-02"
+  ]
+ },
+ "thomas_apostle|C": {
+  "title": "Saint Thomas, Apostle",
+  "dates": [
+   "2028-07-03"
+  ]
+ },
+ "ordinary-14-sunday|C": {
+  "title": "14th Sunday in Ordinary Time",
+  "dates": [
+   "2028-07-09"
+  ]
+ },
+ "ordinary-15-sunday|C": {
+  "title": "15th Sunday in Ordinary Time",
+  "dates": [
+   "2028-07-16"
+  ]
+ },
+ "mary_magdalene|C": {
+  "title": "Saint Mary Magdalene",
+  "dates": [
+   "2028-07-22"
+  ]
+ },
+ "ordinary-16-sunday|C": {
+  "title": "16th Sunday in Ordinary Time",
+  "dates": [
+   "2028-07-23"
+  ]
+ },
+ "james|C": {
+  "title": "Saint James, Apostle",
+  "dates": [
+   "2028-07-25"
+  ]
+ },
+ "ordinary-17-sunday|C": {
+  "title": "17th Sunday in Ordinary Time",
+  "dates": [
+   "2028-07-30"
+  ]
+ },
+ "transfiguration|C": {
+  "title": "The Transfiguration of the Lord",
+  "dates": [
+   "2028-08-06"
+  ]
+ },
+ "lawrence|C": {
+  "title": "Saint Lawrence, Deacon and Martyr",
+  "dates": [
+   "2028-08-10"
+  ]
+ },
+ "ordinary-19-sunday|C": {
+  "title": "19th Sunday in Ordinary Time",
+  "dates": [
+   "2028-08-13"
+  ]
+ },
+ "assumption|C": {
+  "title": "The Assumption of the Blessed Virgin Mary",
+  "dates": [
+   "2028-08-15"
+  ]
+ },
+ "ordinary-20-sunday|C": {
+  "title": "20th Sunday in Ordinary Time",
+  "dates": [
+   "2028-08-20"
+  ]
+ },
+ "bartholomew|C": {
+  "title": "Saint Bartholomew, Apostle",
+  "dates": [
+   "2028-08-24"
+  ]
+ },
+ "ordinary-21-sunday|C": {
+  "title": "21st Sunday in Ordinary Time",
+  "dates": [
+   "2028-08-27"
+  ]
+ },
+ "ordinary-22-sunday|C": {
+  "title": "22nd Sunday in Ordinary Time",
+  "dates": [
+   "2028-09-03"
+  ]
+ },
+ "bvm_birth|C": {
+  "title": "The Nativity of the Blessed Virgin Mary",
+  "dates": [
+   "2028-09-08"
+  ]
+ },
+ "ordinary-23-sunday|C": {
+  "title": "23rd Sunday in Ordinary Time",
+  "dates": [
+   "2028-09-10"
+  ]
+ },
+ "cross|C": {
+  "title": "The Exaltation of the Holy Cross",
+  "dates": [
+   "2028-09-14"
+  ]
+ },
+ "ordinary-24-sunday|C": {
+  "title": "24th Sunday in Ordinary Time",
+  "dates": [
+   "2028-09-17"
+  ]
+ },
+ "matthew|C": {
+  "title": "Saint Matthew, Apostle and Evangelist",
+  "dates": [
+   "2028-09-21"
+  ]
+ },
+ "ordinary-25-sunday|C": {
+  "title": "25th Sunday in Ordinary Time",
+  "dates": [
+   "2028-09-24"
+  ]
+ },
+ "archangels|C": {
+  "title": "Saints Michael, Gabriel and Raphael, Archangels",
+  "dates": [
+   "2028-09-29"
+  ]
+ },
+ "ordinary-26-sunday|C": {
+  "title": "26th Sunday in Ordinary Time",
+  "dates": [
+   "2028-10-01"
+  ]
+ },
+ "ordinary-27-sunday|C": {
+  "title": "27th Sunday in Ordinary Time",
+  "dates": [
+   "2028-10-08"
+  ]
+ },
+ "ordinary-28-sunday|C": {
+  "title": "28th Sunday in Ordinary Time",
+  "dates": [
+   "2028-10-15"
+  ]
+ },
+ "luke|C": {
+  "title": "Saint Luke, Evangelist",
+  "dates": [
+   "2028-10-18"
+  ]
+ },
+ "ordinary-29-sunday|C": {
+  "title": "29th Sunday in Ordinary Time",
+  "dates": [
+   "2028-10-22"
+  ]
+ },
+ "simon_jude|C": {
+  "title": "Saints Simon and Jude, Apostles",
+  "dates": [
+   "2028-10-28"
+  ]
+ },
+ "ordinary-30-sunday|C": {
+  "title": "30th Sunday in Ordinary Time",
+  "dates": [
+   "2028-10-29"
+  ]
+ },
+ "all_saints|C": {
+  "title": "All Saints",
+  "dates": [
+   "2028-11-01"
+  ]
+ },
+ "all_souls|C": {
+  "title": "The Commemoration of All the Faithful Departed (All Souls’ Day)",
+  "dates": [
+   "2028-11-02"
+  ]
+ },
+ "ordinary-31-sunday|C": {
+  "title": "31st Sunday in Ordinary Time",
+  "dates": [
+   "2028-11-05"
+  ]
+ },
+ "lateran_basilica|C": {
+  "title": "The Dedication of the Lateran Basilica",
+  "dates": [
+   "2028-11-09"
+  ]
+ },
+ "ordinary-32-sunday|C": {
+  "title": "32nd Sunday in Ordinary Time",
+  "dates": [
+   "2028-11-12"
+  ]
+ },
+ "ordinary-33-sunday|C": {
+  "title": "33rd Sunday in Ordinary Time",
+  "dates": [
+   "2028-11-19"
+  ]
+ },
+ "christ_king|C": {
+  "title": "Our Lord Jesus Christ, King of the Universe",
+  "dates": [
+   "2028-11-26"
+  ]
+ },
+ "advent-1-sunday|A": {
+  "title": "1st Sunday of Advent",
+  "dates": [
+   "2028-12-03"
+  ]
+ },
+ "bvm_immaculate|A": {
+  "title": "The Immaculate Conception of the Blessed Virgin Mary",
+  "dates": [
+   "2028-12-08"
+  ]
+ },
+ "advent-2-sunday|A": {
+  "title": "2nd Sunday of Advent",
+  "dates": [
+   "2028-12-10"
+  ]
+ },
+ "bvm_guadalupe|A": {
+  "title": "Our Lady of Guadalupe",
+  "dates": [
+   "2028-12-12"
+  ]
+ },
+ "advent-3-sunday|A": {
+  "title": "3rd Sunday of Advent",
+  "dates": [
+   "2028-12-17"
+  ]
+ },
+ "advent-4-sunday|A": {
+  "title": "4th Sunday of Advent",
+  "dates": [
+   "2028-12-24"
+  ]
+ },
+ "nativity|A": {
+  "title": "The Nativity of the Lord [CHRISTMAS]",
+  "dates": [
+   "2028-12-25"
+  ]
+ },
+ "stephen|A": {
+  "title": "Saint Stephen, the First Martyr",
+  "dates": [
+   "2028-12-26"
+  ]
+ },
+ "john_evangelist|A": {
+  "title": "Saint John, Apostle and Evangelist",
+  "dates": [
+   "2028-12-27"
+  ]
+ },
+ "innocents|A": {
+  "title": "The Holy Innocents, Martyrs",
+  "dates": [
+   "2028-12-28"
+  ]
+ },
+ "holy_family|A": {
+  "title": "The Holy Family of Jesus, Mary and Joseph",
+  "dates": [
+   "2028-12-31"
+  ]
+ }
+}

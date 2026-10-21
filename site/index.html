@@ -12,10 +12,12 @@
       <span>Bible People Map</span>
     </a>
     <nav class="tabs" aria-label="Views">
+      <a href="#today" data-view="today">Today</a>
+      <a href="#play" data-view="play">Play</a>
       <a href="#map" data-view="map">Map</a>
-      <a href="#canon" data-view="canon">Across the Books</a>
+      <a href="#journeys" data-view="journeys">Journeys</a>
       <a href="#people" data-view="people">People</a>
-      <a href="#quiz" data-view="quiz">Daily Quiz</a>
+      <a href="#canon" data-view="canon">Books</a>
     </nav>
     <label class="search">
       <span class="sr">Find a person</span>
@@ -26,7 +28,10 @@
 </header>
 
 <main>
-  <section id="view-map" class="view">
+  <section id="view-today" class="view"></section>
+  <section id="view-play" class="view" hidden></section>
+  <section id="view-journeys" class="view" hidden></section>
+  <section id="view-map" class="view" hidden>
     <div class="map-head">
       <div>
         <h1>Everyone in the Catholic Bible, and how they connect</h1>
@@ -70,9 +75,6 @@
     <ul id="plist" class="plist"></ul>
   </section>
 
-  <section id="view-quiz" class="view" hidden>
-    <div id="quiz"></div>
-  </section>
 </main>
 
 <aside id="panel" class="panel" hidden aria-live="polite">
@@ -85,4 +87,6 @@
 </footer>
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/7.8.5/d3.min.js"></script>
+<script src="games.js"></script>
+<script src="today.js"></script>
 <script src="app.js"></script>

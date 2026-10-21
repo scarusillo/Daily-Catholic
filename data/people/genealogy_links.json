@@ -1,0 +1,39 @@
+[
+ {
+  "child": "zibeon",
+  "father": "seir-the-horite"
+ },
+ {
+  "child": "hur-grandfather-of-bezalel",
+  "father": "caleb-son-of-hezron",
+  "mother": "ephrath"
+ },
+ {
+  "child": "jair-son-of-manasseh",
+  "father": "segub-son-of-hezron"
+ },
+ {
+  "child": "asaph",
+  "father": "berechiah-father-of-asaph"
+ },
+ {
+  "child": "elkanah",
+  "father": "jeroham-son-of-eliel"
+ },
+ {
+  "child": "ethan-the-ezrahite",
+  "father": "kishi"
+ },
+ {
+  "child": "machir",
+  "mother": "aramean-concubine-of-manasseh"
+ },
+ {
+  "child": "elishama-son-of-ammihud",
+  "father": "ammihud-son-of-ladan"
+ },
+ {
+  "child": "pashhur-son-of-malchijah",
+  "father": "malchijah-father-of-pashhur"
+ }
+]

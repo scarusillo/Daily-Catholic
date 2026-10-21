@@ -1,0 +1,3155 @@
+[
+ {
+  "id": "ararat",
+  "name": "Mountains of Ararat",
+  "lat": 39.7,
+  "lon": 44.3,
+  "region": "Mesopotamia & Persia",
+  "certainty": "traditional",
+  "note": "Scripture names only the 'mountains of Ararat' (the land of Urartu); the pin is the traditional peak, Mount Ararat in eastern Turkey.",
+  "events": [
+   {
+    "q": "Upon which mountains did Noah's ark come to rest after the flood?",
+    "ref": "gen 8:4",
+    "people": [
+     "noah"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "babylon",
+  "name": "Babylon",
+  "lat": 32.542,
+  "lon": 44.421,
+  "region": "Mesopotamia & Persia",
+  "certainty": "known",
+  "note": "The ruins of Babylon lie beside the Euphrates near Hillah, Iraq; tradition links the Tower of Babel in the land of Shinar with this city.",
+  "events": [
+   {
+    "q": "In which city of the land of Shinar did people build a tower 'whose top reaches to the sky' until the LORD confused their language?",
+    "ref": "gen 11:1-9",
+    "people": []
+   },
+   {
+    "q": "In the province of which city did Shadrach, Meshach, and Abednego refuse to worship the golden image and survive the fiery furnace?",
+    "ref": "dan 3:1-97",
+    "people": [
+     "nebuchadnezzar",
+     "shadrach",
+     "meshach",
+     "abednego"
+    ]
+   },
+   {
+    "q": "In which city did a hand write on the palace wall during Belshazzar's feast?",
+    "ref": "dan 5:1-30",
+    "people": [
+     "belshazzar",
+     "daniel"
+    ]
+   },
+   {
+    "q": "By the rivers of which city did the exiles sit down and weep, hanging their harps on the willows?",
+    "ref": "psa 137:1-4",
+    "people": []
+   }
+  ]
+ },
+ {
+  "id": "ur",
+  "name": "Ur of the Chaldees",
+  "lat": 30.963,
+  "lon": 46.103,
+  "region": "Mesopotamia & Persia",
+  "certainty": "probable",
+  "note": "Usually identified with Tell el-Muqayyar in southern Iraq, though some scholars have argued for a northern Ur near Harran.",
+  "events": [
+   {
+    "q": "From which city of the Chaldeans did Terah set out with Abram, Sarai, and Lot toward Canaan?",
+    "ref": "gen 11:27-31",
+    "people": [
+     "terah",
+     "abraham",
+     "sarah",
+     "lot"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "haran",
+  "name": "Haran",
+  "lat": 36.865,
+  "lon": 39.031,
+  "region": "Mesopotamia & Persia",
+  "certainty": "known",
+  "note": "The ruins of Harran survive near the modern village of Harran in southeastern Turkey.",
+  "events": [
+   {
+    "q": "Where did Terah die, before Abram departed at the LORD's call at age seventy-five?",
+    "ref": "gen 11:31-12:5",
+    "people": [
+     "terah",
+     "abraham"
+    ]
+   },
+   {
+    "q": "Toward which city was Jacob traveling, to the house of Laban, when he fled from Esau?",
+    "ref": "gen 27:42-45",
+    "people": [
+     "jacob",
+     "laban",
+     "rebekah"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "nineveh",
+  "name": "Nineveh",
+  "lat": 36.359,
+  "lon": 43.153,
+  "region": "Mesopotamia & Persia",
+  "certainty": "known",
+  "note": "The mounds of Nineveh (Kuyunjik and Nebi Yunus) stand within modern Mosul, Iraq.",
+  "events": [
+   {
+    "q": "Which great city repented in sackcloth after Jonah preached that it would be overthrown in forty days?",
+    "ref": "jon 3:1-10",
+    "people": [
+     "jonah"
+    ]
+   },
+   {
+    "q": "In which Assyrian capital was Sennacherib struck down by his own sons while worshiping in the house of Nisroch?",
+    "ref": "2ki 19:36-37",
+    "people": [
+     "sennacherib"
+    ]
+   },
+   {
+    "q": "In which city of exile did Tobit bury the dead of his people in secret?",
+    "ref": "tob 1:16-19",
+    "people": [
+     "tobit"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "susa",
+  "name": "Susa (Shushan)",
+  "lat": 32.19,
+  "lon": 48.258,
+  "region": "Mesopotamia & Persia",
+  "certainty": "known",
+  "note": "The citadel of Susa is an excavated mound beside the modern town of Shush in southwestern Iran.",
+  "events": [
+   {
+    "q": "In which Persian royal citadel did Esther risk her life by approaching King Ahasuerus uninvited?",
+    "ref": "est 5:1-3",
+    "people": [
+     "esther",
+     "ahasuerus"
+    ]
+   },
+   {
+    "q": "Where was Nehemiah serving as the king's cupbearer when he wept over news of Jerusalem's broken walls?",
+    "ref": "neh 1:1-4",
+    "people": [
+     "nehemiah"
+    ]
+   },
+   {
+    "q": "Where was Daniel, beside the river Ulai, when he saw the vision of the ram and the male goat?",
+    "ref": "dan 8:1-8",
+    "people": [
+     "daniel"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "ecbatana",
+  "name": "Ecbatana",
+  "lat": 34.798,
+  "lon": 48.515,
+  "region": "Mesopotamia & Persia",
+  "certainty": "known",
+  "note": "Ancient Ecbatana, capital of Media, lies beneath modern Hamadan, Iran (the hill of Hegmataneh).",
+  "events": [
+   {
+    "q": "In which city of Media did Tobias marry Sarah, daughter of Raguel, after the demon was driven away?",
+    "ref": "tob 7:1-16",
+    "people": [
+     "tobias",
+     "sarah-wife-of-tobias",
+     "raguel"
+    ]
+   },
+   {
+    "q": "In the palace of which Median city was the scroll of Cyrus's decree to rebuild the Temple found?",
+    "ref": "ezr 6:1-5",
+    "people": [
+     "cyrus",
+     "darius-i"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "rages",
+  "name": "Rages",
+  "lat": 35.59,
+  "lon": 51.435,
+  "region": "Mesopotamia & Persia",
+  "certainty": "probable",
+  "note": "Rages (Rhagae) is identified with Rey, now on the southern edge of Tehran; the ancient city's exact core is debated.",
+  "events": [
+   {
+    "q": "To which city of Media did Raphael travel to collect from Gabael the silver Tobit had left in trust?",
+    "ref": "tob 9:1-5",
+    "people": [
+     "raphael-archangel",
+     "gabael",
+     "tobit"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "chebar",
+  "name": "River Chebar (near Nippur)",
+  "lat": 32.127,
+  "lon": 45.23,
+  "region": "Mesopotamia & Persia",
+  "certainty": "probable",
+  "note": "The Chebar is thought to be the Kabaru canal near Nippur in southern Iraq, known from Babylonian tablets; its exact course is uncertain.",
+  "events": [
+   {
+    "q": "Beside which river among the exiles did Ezekiel see the heavens opened and the living creatures and wheels?",
+    "ref": "ezk 1:1-3",
+    "people": [
+     "ezekiel"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "carchemish",
+  "name": "Carchemish",
+  "lat": 36.831,
+  "lon": 38.015,
+  "region": "Mesopotamia & Persia",
+  "certainty": "known",
+  "note": "The ruins of Carchemish lie on the Euphrates at the Turkey–Syria border near Jarabulus.",
+  "events": [
+   {
+    "q": "At which city on the Euphrates did Nebuchadnezzar defeat the army of Pharaoh Necoh?",
+    "ref": "jer 46:2",
+    "people": [
+     "nebuchadnezzar",
+     "necoh"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "shechem",
+  "name": "Shechem",
+  "lat": 32.213,
+  "lon": 35.282,
+  "region": "Holy Land",
+  "certainty": "known",
+  "note": "Shechem is the excavated mound of Tell Balata on the eastern edge of modern Nablus.",
+  "events": [
+   {
+    "q": "Where did Abram first build an altar in Canaan, by the oak of Moreh, after the LORD promised the land to his offspring?",
+    "ref": "gen 12:6-7",
+    "people": [
+     "abraham"
+    ]
+   },
+   {
+    "q": "Where did Simeon and Levi kill the men of the city to avenge their sister Dinah?",
+    "ref": "gen 34:1-31",
+    "people": [
+     "simeon-son-of-jacob",
+     "levi",
+     "dinah",
+     "shechem-son-of-hamor",
+     "hamor"
+    ]
+   },
+   {
+    "q": "Where did Joshua gather all the tribes and declare, 'As for me and my house, we will serve the LORD'?",
+    "ref": "jos 24:1-27",
+    "people": [
+     "joshua"
+    ]
+   },
+   {
+    "q": "Where did all Israel gather to make Rehoboam king, only for the ten tribes to reject him?",
+    "ref": "1ki 12:1-16",
+    "people": [
+     "rehoboam",
+     "jeroboam-i"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "bethel",
+  "name": "Bethel",
+  "lat": 31.928,
+  "lon": 35.239,
+  "region": "Holy Land",
+  "certainty": "probable",
+  "note": "Generally identified with the Palestinian village of Beitin north of Jerusalem, though a few scholars prefer nearby el-Bireh.",
+  "events": [
+   {
+    "q": "Where did Jacob dream of a stairway reaching to heaven with angels ascending and descending on it?",
+    "ref": "gen 28:10-19",
+    "people": [
+     "jacob"
+    ]
+   },
+   {
+    "q": "Where, besides Dan, did Jeroboam set up a golden calf for the northern tribes to worship?",
+    "ref": "1ki 12:28-33",
+    "people": [
+     "jeroboam-i"
+    ]
+   },
+   {
+    "q": "At which royal sanctuary did the priest Amaziah order the prophet Amos to go back to Judah?",
+    "ref": "amo 7:10-13",
+    "people": [
+     "amos",
+     "amaziah-priest-of-bethel"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "ai",
+  "name": "Ai",
+  "lat": 31.917,
+  "lon": 35.261,
+  "region": "Holy Land",
+  "certainty": "probable",
+  "note": "Commonly identified with et-Tell near Deir Dibwan, but the site shows no occupation in Joshua's era, so nearby Khirbet el-Maqatir is a rival candidate.",
+  "events": [
+   {
+    "q": "Which city defeated Israel's first attack because Achan had taken devoted things from Jericho?",
+    "ref": "jos 7:1-5",
+    "people": [
+     "achan",
+     "joshua"
+    ]
+   },
+   {
+    "q": "Which city did Joshua take with an ambush, after signaling with his outstretched javelin?",
+    "ref": "jos 8:10-29",
+    "people": [
+     "joshua"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "mamre",
+  "name": "Oaks of Mamre",
+  "lat": 31.557,
+  "lon": 35.105,
+  "region": "Holy Land",
+  "certainty": "traditional",
+  "note": "The traditional site is Ramat el-Khalil (Elonei Mamre) just north of Hebron, where Herod and later Constantine built enclosures.",
+  "events": [
+   {
+    "q": "By which oaks was Abraham sitting at his tent door when three visitors came and promised Sarah a son?",
+    "ref": "gen 18:1-15",
+    "people": [
+     "abraham",
+     "sarah"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "hebron",
+  "name": "Hebron (Cave of Machpelah)",
+  "lat": 31.525,
+  "lon": 35.111,
+  "region": "Holy Land",
+  "certainty": "known",
+  "note": "The Cave of the Patriarchs, enclosed by a Herodian wall, still stands in the center of Hebron.",
+  "events": [
+   {
+    "q": "Where did Abraham buy a burial cave from Ephron the Hittite to bury Sarah?",
+    "ref": "gen 23:1-20",
+    "people": [
+     "abraham",
+     "sarah",
+     "ephron"
+    ]
+   },
+   {
+    "q": "Where was David anointed king over the house of Judah after Saul's death?",
+    "ref": "2sa 2:1-4",
+    "people": [
+     "david"
+    ]
+   },
+   {
+    "q": "In which city did Absalom have himself proclaimed king in rebellion against his father?",
+    "ref": "2sa 15:7-12",
+    "people": [
+     "absalom",
+     "david"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "beersheba",
+  "name": "Beersheba",
+  "lat": 31.245,
+  "lon": 34.841,
+  "region": "Holy Land",
+  "certainty": "known",
+  "note": "Biblical Beersheba is Tel Be'er Sheva, an excavated mound east of the modern Israeli city.",
+  "events": [
+   {
+    "q": "Where did Abraham and Abimelech swear an oath over a disputed well, and Abraham plant a tamarisk tree?",
+    "ref": "gen 21:22-34",
+    "people": [
+     "abraham",
+     "abimelech-king-of-gerar",
+     "phicol"
+    ]
+   },
+   {
+    "q": "Where did Jacob offer sacrifices and hear God say, 'Don't be afraid to go down into Egypt'?",
+    "ref": "gen 46:1-4",
+    "people": [
+     "jacob"
+    ]
+   },
+   {
+    "q": "To which southern town of Judah did Elijah flee from Jezebel, leaving his servant there?",
+    "ref": "1ki 19:1-3",
+    "people": [
+     "elijah",
+     "jezebel"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "gerar",
+  "name": "Gerar",
+  "lat": 31.381,
+  "lon": 34.61,
+  "region": "Holy Land",
+  "certainty": "probable",
+  "note": "Usually identified with Tel Haror in the western Negev, though Tel Abu Hureira's identification is not certain.",
+  "events": [
+   {
+    "q": "Where did Isaac reopen his father's wells and quarrel with local herdsmen over Esek and Sitnah?",
+    "ref": "gen 26:17-22",
+    "people": [
+     "isaac"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "sodom",
+  "name": "Sodom",
+  "lat": 31.1,
+  "lon": 35.45,
+  "region": "Holy Land",
+  "certainty": "traditional",
+  "note": "Its site is unknown; tradition places it at the southern end of the Dead Sea (others propose Bab edh-Dhra or Tall el-Hammam to the north).",
+  "events": [
+   {
+    "q": "In which city did Lot take in two angels, before fire and sulfur rained down and his wife became a pillar of salt?",
+    "ref": "gen 19:1-26",
+    "people": [
+     "lot"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "mount-moriah",
+  "name": "Mount Moriah (Temple Mount)",
+  "lat": 31.778,
+  "lon": 35.236,
+  "region": "Holy Land",
+  "certainty": "traditional",
+  "note": "Scripture places the Temple on Mount Moriah (2 Chr 3:1); identifying it with the mountain of Isaac's binding is an ancient tradition.",
+  "events": [
+   {
+    "q": "To which mountain did God send Abraham to offer up his son Isaac?",
+    "ref": "gen 22:1-14",
+    "people": [
+     "abraham",
+     "isaac"
+    ]
+   },
+   {
+    "q": "On which mountain, at Araunah's threshing floor, did Solomon begin building the house of the LORD?",
+    "ref": "2ch 3:1-2",
+    "people": [
+     "solomon",
+     "araunah"
+    ]
+   },
+   {
+    "q": "Where did the twelve-year-old Jesus stay behind, sitting among the teachers asking questions?",
+    "ref": "luk 2:41-50",
+    "people": [
+     "jesus",
+     "mary-mother-of-jesus",
+     "joseph-husband-of-mary"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "peniel",
+  "name": "Peniel (Penuel)",
+  "lat": 32.18,
+  "lon": 35.69,
+  "region": "Holy Land",
+  "certainty": "probable",
+  "note": "Penuel is usually placed at Tulul edh-Dhahab on the Jabbok (Zarqa) River in Jordan; the identification is probable, not certain.",
+  "events": [
+   {
+    "q": "Where did Jacob wrestle with a man until daybreak and receive the name Israel?",
+    "ref": "gen 32:22-31",
+    "people": [
+     "jacob"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "dothan",
+  "name": "Dothan",
+  "lat": 32.413,
+  "lon": 35.241,
+  "region": "Holy Land",
+  "certainty": "known",
+  "note": "Tel Dothan is an excavated mound in the northern West Bank, southwest of Jenin.",
+  "events": [
+   {
+    "q": "Where were Joseph's brothers pasturing the flock when they threw him into a pit and sold him?",
+    "ref": "gen 37:17-28",
+    "people": [
+     "joseph-son-of-jacob",
+     "reuben",
+     "judah"
+    ]
+   },
+   {
+    "q": "Where did Elisha pray that his servant's eyes be opened to see horses and chariots of fire on the mountain?",
+    "ref": "2ki 6:13-17",
+    "people": [
+     "elisha"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "on",
+  "name": "On (Heliopolis)",
+  "lat": 30.129,
+  "lon": 31.308,
+  "region": "Egypt & Sinai",
+  "certainty": "known",
+  "note": "On (Heliopolis) is in the northeastern suburbs of Cairo, where a single obelisk still stands at Matariya.",
+  "events": [
+   {
+    "q": "Whose priest Potiphera gave his daughter Asenath to Joseph as wife?",
+    "ref": "gen 41:45-50",
+    "people": [
+     "joseph-son-of-jacob",
+     "asenath",
+     "potiphera"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "goshen",
+  "name": "Land of Goshen",
+  "lat": 30.65,
+  "lon": 31.85,
+  "region": "Egypt & Sinai",
+  "certainty": "probable",
+  "note": "Goshen was a district of the eastern Nile Delta, probably around the Wadi Tumilat and the region of modern Faqus; its borders are not precisely known.",
+  "events": [
+   {
+    "q": "In which land did Pharaoh settle Jacob's family so they could pasture their flocks?",
+    "ref": "gen 47:1-6",
+    "people": [
+     "jacob",
+     "joseph-son-of-jacob",
+     "pharaoh-of-joseph"
+    ]
+   },
+   {
+    "q": "Which land where the Israelites lived was spared from the plague of flies?",
+    "ref": "exo 8:20-24",
+    "people": [
+     "moses"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "raamses",
+  "name": "Raamses (Pi-Ramesses)",
+  "lat": 30.799,
+  "lon": 31.835,
+  "region": "Egypt & Sinai",
+  "certainty": "probable",
+  "note": "Raamses is probably Pi-Ramesses at Qantir and Tell el-Dab'a in the eastern Delta; the companion store-city Pithom is likely Tell el-Maskhuta or Tell er-Retaba.",
+  "events": [
+   {
+    "q": "Which store city, along with Pithom, did the enslaved Israelites build for Pharaoh?",
+    "ref": "exo 1:8-11",
+    "people": [
+     "pharaoh-of-the-oppression"
+    ]
+   },
+   {
+    "q": "From which city did the Israelites set out on foot toward Succoth on the night of the Passover?",
+    "ref": "exo 12:37-41",
+    "people": []
+   }
+  ]
+ },
+ {
+  "id": "red-sea-crossing",
+  "name": "Red Sea crossing",
+  "lat": 29.92,
+  "lon": 32.57,
+  "region": "Egypt & Sinai",
+  "certainty": "traditional",
+  "note": "The crossing site is unknown (proposals range from the Bitter Lakes to the Gulf of Aqaba); the pin follows the old tradition at the head of the Gulf of Suez.",
+  "events": [
+   {
+    "q": "Where did Moses stretch out his hand so that the waters divided and Israel crossed on dry ground?",
+    "ref": "exo 14:21-31",
+    "people": [
+     "moses",
+     "pharaoh-of-the-exodus"
+    ]
+   },
+   {
+    "q": "After the waters returned over Pharaoh's army, where did Miriam take a tambourine and sing, 'the horse and his rider he has thrown into the sea'?",
+    "ref": "exo 15:19-21",
+    "people": [
+     "miriam"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "mount-sinai",
+  "name": "Mount Sinai (Horeb)",
+  "lat": 28.539,
+  "lon": 33.975,
+  "region": "Egypt & Sinai",
+  "certainty": "traditional",
+  "note": "The true mountain is uncertain; since at least the 4th century tradition has placed it at Jebel Musa, where St. Catherine's Monastery stands.",
+  "events": [
+   {
+    "q": "Where did Moses see a bush burning that was not consumed?",
+    "ref": "exo 3:1-6",
+    "people": [
+     "moses"
+    ]
+   },
+   {
+    "q": "On which mountain did the LORD descend in fire and speak the Ten Commandments?",
+    "ref": "exo 19:16-20:17",
+    "people": [
+     "moses"
+    ]
+   },
+   {
+    "q": "While Moses was on which mountain did Aaron make the golden calf below?",
+    "ref": "exo 32:1-20",
+    "people": [
+     "aaron",
+     "moses"
+    ]
+   },
+   {
+    "q": "On which mountain did Elijah hear the LORD not in the wind, earthquake, or fire, but in a gentle whisper?",
+    "ref": "1ki 19:8-13",
+    "people": [
+     "elijah"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "tahpanhes",
+  "name": "Tahpanhes",
+  "lat": 30.86,
+  "lon": 32.17,
+  "region": "Egypt & Sinai",
+  "certainty": "probable",
+  "note": "Usually identified with Tell Defenneh in the northeastern Delta near the Suez Canal.",
+  "events": [
+   {
+    "q": "In which Egyptian town did Jeremiah bury large stones at Pharaoh's palace, foretelling Nebuchadnezzar's throne there?",
+    "ref": "jer 43:7-10",
+    "people": [
+     "jeremiah",
+     "nebuchadnezzar"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "alexandria",
+  "name": "Alexandria",
+  "lat": 31.2,
+  "lon": 29.919,
+  "region": "Egypt & Sinai",
+  "certainty": "known",
+  "note": "Founded by Alexander the Great, the ancient city lies beneath modern Alexandria on Egypt's Mediterranean coast.",
+  "events": [
+   {
+    "q": "In which city was Apollos, the eloquent Jew mighty in the Scriptures, born?",
+    "ref": "act 18:24-28",
+    "people": [
+     "apollos",
+     "priscilla",
+     "aquila"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "midian",
+  "name": "Midian (Al-Bad')",
+  "lat": 28.48,
+  "lon": 35.02,
+  "region": "Arabia & Africa",
+  "certainty": "traditional",
+  "note": "Midian was a region of northwest Arabia east of the Gulf of Aqaba; local tradition at Al-Bad' (Maghair Shuaib) marks the home of Jethro.",
+  "events": [
+   {
+    "q": "To which land did Moses flee from Pharaoh, where he defended seven sisters at a well and married Zipporah?",
+    "ref": "exo 2:15-22",
+    "people": [
+     "moses",
+     "zipporah",
+     "jethro"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "kadesh-barnea",
+  "name": "Kadesh Barnea",
+  "lat": 30.64,
+  "lon": 34.42,
+  "region": "Egypt & Sinai",
+  "certainty": "probable",
+  "note": "Most scholars identify it with the oasis of Ein el-Qudeirat in northeastern Sinai, near the Egypt–Israel border.",
+  "events": [
+   {
+    "q": "To which wilderness camp did the twelve spies return carrying a cluster of grapes on a pole?",
+    "ref": "num 13:21-27",
+    "people": [
+     "caleb",
+     "joshua"
+    ]
+   },
+   {
+    "q": "Where did Miriam die and was buried, before Moses struck the rock instead of speaking to it?",
+    "ref": "num 20:1-13",
+    "people": [
+     "miriam",
+     "moses",
+     "aaron"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "ezion-geber",
+  "name": "Ezion Geber",
+  "lat": 29.54,
+  "lon": 34.98,
+  "region": "Arabia & Africa",
+  "certainty": "probable",
+  "note": "Ezion Geber lay at the head of the Gulf of Aqaba near Eilat; Tell el-Kheleifeh is the usual but disputed identification.",
+  "events": [
+   {
+    "q": "At which port beside Eloth on the Red Sea did Solomon build a fleet of ships?",
+    "ref": "1ki 9:26-28",
+    "people": [
+     "solomon",
+     "hiram-king-of-tyre"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "mount-nebo",
+  "name": "Mount Nebo",
+  "lat": 31.768,
+  "lon": 35.726,
+  "region": "Holy Land",
+  "certainty": "probable",
+  "note": "Jebel Nebo (Siyagha) in Jordan, with its Franciscan memorial church, has borne the name since antiquity and fits the biblical description.",
+  "events": [
+   {
+    "q": "From which mountain did Moses view the whole Promised Land before he died?",
+    "ref": "deu 34:1-6",
+    "people": [
+     "moses"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "kir-hareseth",
+  "name": "Kir Hareseth",
+  "lat": 31.181,
+  "lon": 35.702,
+  "region": "Holy Land",
+  "certainty": "probable",
+  "note": "Kir Hareseth, capital of Moab, is generally identified with Kerak in Jordan, beneath the Crusader castle.",
+  "events": [
+   {
+    "q": "On whose city wall did the king of Moab sacrifice his eldest son as a burnt offering, so that Israel withdrew?",
+    "ref": "2ki 3:20-27",
+    "people": [
+     "mesha",
+     "joram-king-of-israel",
+     "jehoshaphat"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "rabbah",
+  "name": "Rabbah of the Ammonites",
+  "lat": 31.954,
+  "lon": 35.935,
+  "region": "Holy Land",
+  "certainty": "known",
+  "note": "Rabbah is the Citadel hill (Jabal al-Qal'a) in the center of Amman, Jordan.",
+  "events": [
+   {
+    "q": "During the siege of which Ammonite city was Uriah the Hittite placed in the fiercest fighting and killed?",
+    "ref": "2sa 11:14-17",
+    "people": [
+     "uriah",
+     "joab",
+     "david"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "ramoth-gilead",
+  "name": "Ramoth Gilead",
+  "lat": 32.43,
+  "lon": 36.02,
+  "region": "Holy Land",
+  "certainty": "probable",
+  "note": "Usually placed at Tell er-Rumeith in northern Jordan near Ramtha, though the identification is not certain.",
+  "events": [
+   {
+    "q": "At which city was King Ahab killed by an arrow shot at random, despite his disguise?",
+    "ref": "1ki 22:29-37",
+    "people": [
+     "ahab",
+     "jehoshaphat"
+    ]
+   },
+   {
+    "q": "Where did a young prophet sent by Elisha anoint Jehu king of Israel?",
+    "ref": "2ki 9:1-6",
+    "people": [
+     "jehu-king-of-israel",
+     "elisha"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "jordan-baptism-site",
+  "name": "Bethany beyond the Jordan",
+  "lat": 31.838,
+  "lon": 35.55,
+  "region": "Holy Land",
+  "certainty": "traditional",
+  "note": "The traditional baptism site is Al-Maghtas on the east bank opposite Jericho (a UNESCO site); the exact place is not certain.",
+  "events": [
+   {
+    "q": "Where was Jesus baptized by John when the Spirit descended like a dove?",
+    "ref": "mat 3:13-17",
+    "people": [
+     "jesus",
+     "john-the-baptist"
+    ]
+   },
+   {
+    "q": "Where was John baptizing when he pointed out Jesus as 'the Lamb of God'?",
+    "ref": "jhn 1:28-34",
+    "people": [
+     "john-the-baptist",
+     "jesus"
+    ]
+   },
+   {
+    "q": "Near which river crossing, by tradition, was Elijah taken up by a whirlwind in a chariot of fire?",
+    "ref": "2ki 2:6-11",
+    "people": [
+     "elijah",
+     "elisha"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "jericho",
+  "name": "Jericho",
+  "lat": 31.871,
+  "lon": 35.444,
+  "region": "Holy Land",
+  "certainty": "known",
+  "note": "Old Testament Jericho is Tell es-Sultan beside the modern city; New Testament Jericho lay just southwest at Tulul Abu el-Alayiq.",
+  "events": [
+   {
+    "q": "Whose walls fell after Israel marched around the city for seven days and shouted?",
+    "ref": "jos 6:1-21",
+    "people": [
+     "joshua",
+     "rahab"
+    ]
+   },
+   {
+    "q": "Where did Zacchaeus climb a sycamore tree to see Jesus?",
+    "ref": "luk 19:1-10",
+    "people": [
+     "zacchaeus",
+     "jesus"
+    ]
+   },
+   {
+    "q": "Leaving which city did Jesus give sight to blind Bartimaeus?",
+    "ref": "mrk 10:46-52",
+    "people": [
+     "bartimaeus",
+     "jesus"
+    ]
+   },
+   {
+    "q": "Whose bad water did Elisha heal by throwing salt into the spring?",
+    "ref": "2ki 2:19-22",
+    "people": [
+     "elisha"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "gibeon",
+  "name": "Gibeon",
+  "lat": 31.847,
+  "lon": 35.185,
+  "region": "Holy Land",
+  "certainty": "known",
+  "note": "Gibeon is el-Jib, north of Jerusalem, where jar handles inscribed with the city's name and a great rock-cut pool were found.",
+  "events": [
+   {
+    "q": "Whose inhabitants tricked Joshua into a treaty by wearing worn-out sandals and carrying moldy bread?",
+    "ref": "jos 9:3-15",
+    "people": [
+     "joshua"
+    ]
+   },
+   {
+    "q": "Over which city did Joshua command the sun to stand still?",
+    "ref": "jos 10:12-14",
+    "people": [
+     "joshua"
+    ]
+   },
+   {
+    "q": "Where did Solomon offer a thousand burnt offerings and ask God in a dream for an understanding heart?",
+    "ref": "1ki 3:4-15",
+    "people": [
+     "solomon"
+    ]
+   },
+   {
+    "q": "By whose pool did twelve men of Abner and twelve of Joab's men fight and all fall together?",
+    "ref": "2sa 2:12-17",
+    "people": [
+     "abner",
+     "joab"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "beth-horon",
+  "name": "Beth Horon",
+  "lat": 31.886,
+  "lon": 35.113,
+  "region": "Holy Land",
+  "certainty": "known",
+  "note": "Upper and Lower Beth Horon are the villages of Beit Ur al-Fauqa and al-Tahta on the old ascent road northwest of Jerusalem.",
+  "events": [
+   {
+    "q": "Down which ascent did Joshua pursue the Amorites while the LORD threw great hailstones on them?",
+    "ref": "jos 10:10-11",
+    "people": [
+     "joshua"
+    ]
+   },
+   {
+    "q": "At which ascent did Judas Maccabeus, with a small company, rout the Syrian commander Seron?",
+    "ref": "1ma 3:13-24",
+    "people": [
+     "judas-maccabeus",
+     "seron"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "hazor",
+  "name": "Hazor",
+  "lat": 33.017,
+  "lon": 35.568,
+  "region": "Holy Land",
+  "certainty": "known",
+  "note": "Tel Hazor in the Upper Galilee is a UNESCO-listed excavated mound, the largest in the region.",
+  "events": [
+   {
+    "q": "Which city, 'the head of all those kingdoms,' did Joshua burn with fire?",
+    "ref": "jos 11:10-13",
+    "people": [
+     "joshua"
+    ]
+   },
+   {
+    "q": "From which city did Jabin, king of Canaan, oppress Israel with Sisera as his commander?",
+    "ref": "jdg 4:1-3",
+    "people": [
+     "jabin-king-of-canaan",
+     "sisera"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "shiloh",
+  "name": "Shiloh",
+  "lat": 32.055,
+  "lon": 35.29,
+  "region": "Holy Land",
+  "certainty": "known",
+  "note": "Shiloh is Khirbet Seilun in the central West Bank, an excavated site with a visitor center.",
+  "events": [
+   {
+    "q": "Where did Israel set up the tent of meeting after the land was subdued?",
+    "ref": "jos 18:1",
+    "people": []
+   },
+   {
+    "q": "Where did Hannah pray so fervently for a son that Eli thought she was drunk?",
+    "ref": "1sa 1:9-18",
+    "people": [
+     "hannah",
+     "eli"
+    ]
+   },
+   {
+    "q": "Where did the boy Samuel hear the LORD calling him by night?",
+    "ref": "1sa 3:1-10",
+    "people": [
+     "samuel",
+     "eli"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "mount-tabor",
+  "name": "Mount Tabor",
+  "lat": 32.687,
+  "lon": 35.391,
+  "region": "Holy Land",
+  "certainty": "known",
+  "note": "The isolated dome of Mount Tabor rises over the Jezreel Valley; the Gospels do not name the Mount of the Transfiguration, which tradition has identified with Tabor since the 4th century.",
+  "events": [
+   {
+    "q": "On which mountain did Barak gather ten thousand men before descending on Sisera's chariots?",
+    "ref": "jdg 4:6-15",
+    "people": [
+     "barak",
+     "deborah",
+     "sisera"
+    ]
+   },
+   {
+    "q": "On which high mountain, by long tradition, was Jesus transfigured before Peter, James, and John?",
+    "ref": "mat 17:1-8",
+    "people": [
+     "jesus",
+     "peter",
+     "james-son-of-zebedee",
+     "john-apostle",
+     "moses",
+     "elijah"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "harod",
+  "name": "Spring of Harod",
+  "lat": 32.55,
+  "lon": 35.357,
+  "region": "Holy Land",
+  "certainty": "probable",
+  "note": "Usually identified with Ein Harod (Ma'ayan Harod) at the foot of Mount Gilboa, now a national park.",
+  "events": [
+   {
+    "q": "At which spring did Gideon choose his three hundred men by how they drank the water?",
+    "ref": "jdg 7:1-8",
+    "people": [
+     "gideon"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "timnah",
+  "name": "Timnah",
+  "lat": 31.785,
+  "lon": 34.91,
+  "region": "Holy Land",
+  "certainty": "probable",
+  "note": "Timnah is probably Tel Batash in the Sorek Valley.",
+  "events": [
+   {
+    "q": "On the way to which Philistine town did Samson tear apart a young lion with his bare hands?",
+    "ref": "jdg 14:1-9",
+    "people": [
+     "samson",
+     "timnite-wife-of-samson"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "gaza",
+  "name": "Gaza",
+  "lat": 31.504,
+  "lon": 34.464,
+  "region": "Holy Land",
+  "certainty": "known",
+  "note": "Ancient Gaza lies beneath the old city of modern Gaza on the Mediterranean coast.",
+  "events": [
+   {
+    "q": "From which city did Samson carry off the doors of the gate up to a hilltop?",
+    "ref": "jdg 16:1-3",
+    "people": [
+     "samson"
+    ]
+   },
+   {
+    "q": "In which city did the blinded Samson bring down the house of Dagon on the Philistines?",
+    "ref": "jdg 16:21-30",
+    "people": [
+     "samson",
+     "delilah"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "gibeah",
+  "name": "Gibeah",
+  "lat": 31.823,
+  "lon": 35.231,
+  "region": "Holy Land",
+  "certainty": "probable",
+  "note": "Gibeah of Saul is usually identified with Tell el-Ful in north Jerusalem, though some prefer nearby Jaba'.",
+  "events": [
+   {
+    "q": "In which Benjamite town did the Levite's concubine suffer the outrage that led to civil war?",
+    "ref": "jdg 19:12-30",
+    "people": [
+     "levite-of-ephraim",
+     "concubine-of-the-levite"
+    ]
+   },
+   {
+    "q": "To which hometown did Saul return after being chosen king, accompanied by men whose hearts God had touched?",
+    "ref": "1sa 10:26",
+    "people": [
+     "saul"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "aphek",
+  "name": "Aphek (Antipatris)",
+  "lat": 32.105,
+  "lon": 34.93,
+  "region": "Holy Land",
+  "certainty": "probable",
+  "note": "Tel Afek at the source of the Yarkon River was Herod's Antipatris; identifying the Aphek of 1 Samuel 4 with it is probable.",
+  "events": [
+   {
+    "q": "Near which Philistine camp was the ark of God captured and Eli's sons Hophni and Phinehas killed?",
+    "ref": "1sa 4:1-11",
+    "people": [
+     "hophni",
+     "phinehas-son-of-eli"
+    ]
+   },
+   {
+    "q": "Where did Paul's military escort halt by night on the way from Jerusalem to Caesarea?",
+    "ref": "act 23:31-32",
+    "people": [
+     "paul"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "ashdod",
+  "name": "Ashdod",
+  "lat": 31.754,
+  "lon": 34.663,
+  "region": "Holy Land",
+  "certainty": "known",
+  "note": "Tel Ashdod lies south of the modern Israeli port city of the same name.",
+  "events": [
+   {
+    "q": "In which Philistine city did the statue of Dagon fall face down before the captured ark?",
+    "ref": "1sa 5:1-5",
+    "people": []
+   }
+  ]
+ },
+ {
+  "id": "beth-shemesh",
+  "name": "Beth Shemesh",
+  "lat": 31.752,
+  "lon": 34.976,
+  "region": "Holy Land",
+  "certainty": "known",
+  "note": "Tel Beth Shemesh is an excavated mound in the Sorek Valley beside the modern city of Beit Shemesh.",
+  "events": [
+   {
+    "q": "To which town did two milk cows pull the returning ark, while the people reaped wheat in the valley?",
+    "ref": "1sa 6:10-15",
+    "people": []
+   }
+  ]
+ },
+ {
+  "id": "kiriath-jearim",
+  "name": "Kiriath Jearim",
+  "lat": 31.808,
+  "lon": 35.103,
+  "region": "Holy Land",
+  "certainty": "probable",
+  "note": "Identified with the hill of Deir el-Azar above Abu Ghosh, west of Jerusalem.",
+  "events": [
+   {
+    "q": "At whose town did the ark stay in Abinadab's house for twenty years?",
+    "ref": "1sa 7:1-2",
+    "people": [
+     "abinadab-of-kiriath-jearim",
+     "eleazar-son-of-abinadab"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "mizpah",
+  "name": "Mizpah of Benjamin",
+  "lat": 31.885,
+  "lon": 35.217,
+  "region": "Holy Land",
+  "certainty": "probable",
+  "note": "Mizpah is usually identified with Tell en-Nasbeh north of Jerusalem; Nebi Samwil is an alternative.",
+  "events": [
+   {
+    "q": "Where did Samuel cast lots before the tribes, choosing Saul, who was found hiding among the baggage?",
+    "ref": "1sa 10:17-24",
+    "people": [
+     "samuel",
+     "saul"
+    ]
+   },
+   {
+    "q": "Where was the governor Gedaliah murdered by Ishmael son of Nethaniah?",
+    "ref": "jer 41:1-3",
+    "people": [
+     "gedaliah",
+     "ishmael-son-of-nethaniah"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "ramah",
+  "name": "Ramah",
+  "lat": 31.851,
+  "lon": 35.231,
+  "region": "Holy Land",
+  "certainty": "probable",
+  "note": "Ramah of Benjamin is er-Ram north of Jerusalem; whether Samuel's home Ramathaim-zophim is the same place is debated.",
+  "events": [
+   {
+    "q": "Where was Samuel's home, to which the elders came demanding a king to judge them like all the nations?",
+    "ref": "1sa 8:4-5",
+    "people": [
+     "samuel"
+    ]
+   },
+   {
+    "q": "Where was a voice heard of Rachel weeping for her children and refusing to be comforted?",
+    "ref": "jer 31:15",
+    "people": [
+     "rachel"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "bethlehem",
+  "name": "Bethlehem",
+  "lat": 31.704,
+  "lon": 35.208,
+  "region": "Holy Land",
+  "certainty": "known",
+  "note": "The Church of the Nativity, among the oldest continuously used churches, stands over the traditional cave of the birth.",
+  "events": [
+   {
+    "q": "In whose fields did Ruth glean barley behind the reapers of Boaz?",
+    "ref": "rut 2:1-12",
+    "people": [
+     "ruth",
+     "boaz",
+     "naomi"
+    ]
+   },
+   {
+    "q": "Where did Samuel anoint the youngest of Jesse's sons as king?",
+    "ref": "1sa 16:1-13",
+    "people": [
+     "samuel",
+     "david",
+     "jesse"
+    ]
+   },
+   {
+    "q": "Where was Jesus born and laid in a manger?",
+    "ref": "luk 2:4-7",
+    "people": [
+     "jesus",
+     "mary-mother-of-jesus",
+     "joseph-husband-of-mary"
+    ]
+   },
+   {
+    "q": "To which town did the Magi go, following the star, to worship the child?",
+    "ref": "mat 2:1-11",
+    "people": [
+     "jesus",
+     "herod-the-great"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "valley-of-elah",
+  "name": "Valley of Elah",
+  "lat": 31.697,
+  "lon": 34.957,
+  "region": "Holy Land",
+  "certainty": "known",
+  "note": "The valley (Wadi es-Sunt) runs past Khirbet Qeiyafa, Socoh, and Azekah in the Judean lowlands.",
+  "events": [
+   {
+    "q": "In which valley did David kill Goliath with a sling and a stone?",
+    "ref": "1sa 17:1-51",
+    "people": [
+     "david",
+     "goliath",
+     "saul"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "gath",
+  "name": "Gath",
+  "lat": 31.7,
+  "lon": 34.846,
+  "region": "Holy Land",
+  "certainty": "probable",
+  "note": "Philistine Gath is widely identified with Tell es-Safi (Tel Zafit) in the Judean lowlands.",
+  "events": [
+   {
+    "q": "Before which Philistine king did David pretend to be insane, scribbling on the gate doors?",
+    "ref": "1sa 21:10-15",
+    "people": [
+     "david",
+     "achish"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "ziklag",
+  "name": "Ziklag",
+  "lat": 31.383,
+  "lon": 34.683,
+  "region": "Holy Land",
+  "certainty": "probable",
+  "note": "Its location is disputed: Tel Sera' in the northern Negev (pinned here), Tel Halif, and Khirbet a-Ra'i are all proposed.",
+  "events": [
+   {
+    "q": "Which town did King Achish of Gath give David to live in?",
+    "ref": "1sa 27:5-7",
+    "people": [
+     "david",
+     "achish"
+    ]
+   },
+   {
+    "q": "Which town did the Amalekites burn while David was away, carrying off his wives?",
+    "ref": "1sa 30:1-6",
+    "people": [
+     "david",
+     "abigail",
+     "ahinoam-of-jezreel"
+    ]
+   },
+   {
+    "q": "Where was David when an Amalekite brought him Saul's crown and armlet?",
+    "ref": "2sa 1:1-16",
+    "people": [
+     "david",
+     "saul"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "en-gedi",
+  "name": "En Gedi",
+  "lat": 31.461,
+  "lon": 35.386,
+  "region": "Holy Land",
+  "certainty": "known",
+  "note": "En Gedi is an oasis on the western shore of the Dead Sea, now a nature reserve and kibbutz.",
+  "events": [
+   {
+    "q": "In a cave of which wilderness did David secretly cut off the corner of Saul's robe but spare his life?",
+    "ref": "1sa 24:1-7",
+    "people": [
+     "david",
+     "saul"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "endor",
+  "name": "Endor",
+  "lat": 32.648,
+  "lon": 35.41,
+  "region": "Holy Land",
+  "certainty": "probable",
+  "note": "Endor is placed near the former Arab village of Indur and modern Kibbutz Ein Dor, north of the Hill of Moreh.",
+  "events": [
+   {
+    "q": "Where did Saul consult a medium who called up the spirit of Samuel?",
+    "ref": "1sa 28:7-19",
+    "people": [
+     "saul",
+     "medium-of-endor",
+     "samuel"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "shunem",
+  "name": "Shunem",
+  "lat": 32.608,
+  "lon": 35.333,
+  "region": "Holy Land",
+  "certainty": "known",
+  "note": "Shunem is the village of Sulam at the foot of the Hill of Moreh in the Jezreel Valley.",
+  "events": [
+   {
+    "q": "Where did a woman build a small room for Elisha, whose son he later raised from death?",
+    "ref": "2ki 4:8-37",
+    "people": [
+     "elisha",
+     "shunammite-woman",
+     "gehazi"
+    ]
+   },
+   {
+    "q": "Where did the Philistines encamp before the battle in which Saul died?",
+    "ref": "1sa 28:4",
+    "people": [
+     "saul"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "mount-gilboa",
+  "name": "Mount Gilboa",
+  "lat": 32.47,
+  "lon": 35.42,
+  "region": "Holy Land",
+  "certainty": "known",
+  "note": "The Gilboa ridge rises southeast of the Jezreel Valley in northern Israel and the West Bank.",
+  "events": [
+   {
+    "q": "On which mountain did Saul fall on his own sword after his sons were killed by the Philistines?",
+    "ref": "1sa 31:1-6",
+    "people": [
+     "saul",
+     "jonathan-son-of-saul",
+     "abinadab-son-of-saul",
+     "malchishua"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "beth-shean",
+  "name": "Beth Shean",
+  "lat": 32.505,
+  "lon": 35.503,
+  "region": "Holy Land",
+  "certainty": "known",
+  "note": "Tel Beth Shean rises above the Roman city of Scythopolis in modern Beit She'an.",
+  "events": [
+   {
+    "q": "To whose city wall did the Philistines fasten the body of Saul?",
+    "ref": "1sa 31:8-12",
+    "people": [
+     "saul"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "jerusalem",
+  "name": "Jerusalem",
+  "lat": 31.777,
+  "lon": 35.234,
+  "region": "Holy Land",
+  "certainty": "known",
+  "note": "Jerusalem's Old City and the City of David ridge just south of it preserve the ancient core.",
+  "events": [
+   {
+    "q": "Which Jebusite stronghold did David capture and make his own city?",
+    "ref": "2sa 5:6-9",
+    "people": [
+     "david"
+    ]
+   },
+   {
+    "q": "Whose walls did Nehemiah rebuild in fifty-two days despite Sanballat's opposition?",
+    "ref": "neh 6:15-16",
+    "people": [
+     "nehemiah",
+     "sanballat"
+    ]
+   },
+   {
+    "q": "Where was the Holy Spirit poured out on the apostles as tongues of fire at Pentecost?",
+    "ref": "act 2:1-13",
+    "people": [
+     "peter"
+    ]
+   },
+   {
+    "q": "Where did the apostles and elders hold the council that freed Gentile believers from circumcision?",
+    "ref": "act 15:1-29",
+    "people": [
+     "paul",
+     "barnabas",
+     "peter",
+     "james-brother-of-the-lord"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "tekoa",
+  "name": "Tekoa",
+  "lat": 31.635,
+  "lon": 35.214,
+  "region": "Holy Land",
+  "certainty": "known",
+  "note": "Tekoa is Khirbet Tuqu' south of Bethlehem.",
+  "events": [
+   {
+    "q": "From which town did Joab bring a wise woman to persuade David to bring Absalom home?",
+    "ref": "2sa 14:1-21",
+    "people": [
+     "joab",
+     "david",
+     "absalom"
+    ]
+   },
+   {
+    "q": "Among whose herdsmen was Amos when the LORD called him to prophesy?",
+    "ref": "amo 1:1",
+    "people": [
+     "amos"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "dan",
+  "name": "Dan",
+  "lat": 33.249,
+  "lon": 35.652,
+  "region": "Holy Land",
+  "certainty": "known",
+  "note": "Tel Dan at the springs of the Jordan preserves a mud-brick gate and the 'House of David' inscription.",
+  "events": [
+   {
+    "q": "Which northern city was called Laish until a migrating tribe captured it and renamed it after their forefather?",
+    "ref": "jdg 18:27-31",
+    "people": []
+   },
+   {
+    "q": "At which northern city, besides Bethel, did Jeroboam set a golden calf?",
+    "ref": "1ki 12:28-30",
+    "people": [
+     "jeroboam-i"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "samaria",
+  "name": "Samaria",
+  "lat": 32.276,
+  "lon": 35.195,
+  "region": "Holy Land",
+  "certainty": "known",
+  "note": "The royal city of Samaria is the archaeological site at Sebastia, northwest of Nablus.",
+  "events": [
+   {
+    "q": "Which hill did Omri buy from Shemer to build his new capital?",
+    "ref": "1ki 16:23-24",
+    "people": [
+     "omri"
+    ]
+   },
+   {
+    "q": "During the siege of which city were four lepers the first to find the Aramean camp deserted?",
+    "ref": "2ki 7:3-16",
+    "people": [
+     "elisha"
+    ]
+   },
+   {
+    "q": "To which city did Philip go down to preach Christ, where Simon the sorcerer believed?",
+    "ref": "act 8:5-13",
+    "people": [
+     "philip-the-evangelist",
+     "simon-magus"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "jezreel",
+  "name": "Jezreel",
+  "lat": 32.557,
+  "lon": 35.329,
+  "region": "Holy Land",
+  "certainty": "known",
+  "note": "Tel Jezreel overlooks the Jezreel Valley near Kibbutz Yizre'el.",
+  "events": [
+   {
+    "q": "Where was Naboth stoned so that Ahab could take his vineyard?",
+    "ref": "1ki 21:1-16",
+    "people": [
+     "naboth",
+     "ahab",
+     "jezebel"
+    ]
+   },
+   {
+    "q": "Where was Jezebel thrown down from a window and trampled by Jehu's horses?",
+    "ref": "2ki 9:30-37",
+    "people": [
+     "jezebel",
+     "jehu-king-of-israel"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "mount-carmel",
+  "name": "Mount Carmel (El-Muhraqa)",
+  "lat": 32.67,
+  "lon": 35.088,
+  "region": "Holy Land",
+  "certainty": "traditional",
+  "note": "The Carmel ridge is certain; the spot of the contest is traditionally El-Muhraqa, marked by a Carmelite monastery.",
+  "events": [
+   {
+    "q": "Where did Elijah challenge the prophets of Baal, until fire fell from the LORD and consumed his sacrifice?",
+    "ref": "1ki 18:19-40",
+    "people": [
+     "elijah",
+     "ahab"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "zarephath",
+  "name": "Zarephath",
+  "lat": 33.456,
+  "lon": 35.298,
+  "region": "Holy Land",
+  "certainty": "known",
+  "note": "Zarephath (Sarepta) is excavated at Sarafand on the Lebanese coast between Tyre and Sidon.",
+  "events": [
+   {
+    "q": "Where did a widow's jar of flour and jug of oil not run out while she fed Elijah?",
+    "ref": "1ki 17:8-24",
+    "people": [
+     "elijah",
+     "widow-of-zarephath"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "tyre",
+  "name": "Tyre",
+  "lat": 33.271,
+  "lon": 35.196,
+  "region": "Holy Land",
+  "certainty": "known",
+  "note": "Tyre, once an island fortress, is now Sur in southern Lebanon with extensive Roman ruins.",
+  "events": [
+   {
+    "q": "Whose king sent Solomon cedars and cypress for the Temple?",
+    "ref": "1ki 5:1-10",
+    "people": [
+     "hiram-king-of-tyre",
+     "solomon"
+    ]
+   },
+   {
+    "q": "Where did disciples with wives and children kneel on the beach to pray with Paul before he sailed on?",
+    "ref": "act 21:3-6",
+    "people": [
+     "paul"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "sidon",
+  "name": "Sidon",
+  "lat": 33.563,
+  "lon": 35.371,
+  "region": "Holy Land",
+  "certainty": "known",
+  "note": "Sidon is modern Saida in southern Lebanon.",
+  "events": [
+   {
+    "q": "Of which city's people was Ethbaal king, the father of Jezebel?",
+    "ref": "1ki 16:31",
+    "people": [
+     "ethbaal",
+     "jezebel",
+     "ahab"
+    ]
+   },
+   {
+    "q": "Where did the centurion Julius kindly let Paul go to his friends on the first day of his voyage to Rome?",
+    "ref": "act 27:1-3",
+    "people": [
+     "paul",
+     "julius-centurion"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "damascus",
+  "name": "Damascus",
+  "lat": 33.511,
+  "lon": 36.306,
+  "region": "Holy Land",
+  "certainty": "known",
+  "note": "Damascus, the Syrian capital, is among the oldest continuously inhabited cities; Straight Street still crosses its old city.",
+  "events": [
+   {
+    "q": "Whose rivers, Abana and Pharpar, did Naaman think better than all the waters of Israel?",
+    "ref": "2ki 5:9-14",
+    "people": [
+     "naaman",
+     "elisha"
+    ]
+   },
+   {
+    "q": "On which city's Straight Street did Ananias lay hands on Saul so that his sight returned?",
+    "ref": "act 9:10-19",
+    "people": [
+     "ananias-of-damascus",
+     "paul"
+    ]
+   },
+   {
+    "q": "From which city's wall was Paul let down in a basket to escape a plot?",
+    "ref": "act 9:23-25",
+    "people": [
+     "paul"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "road-to-damascus",
+  "name": "Road to Damascus (Kawkab)",
+  "lat": 33.4,
+  "lon": 36.15,
+  "region": "Holy Land",
+  "certainty": "traditional",
+  "note": "Scripture says only that Saul was 'near' the city; a local tradition marks the spot at Kawkab, southwest of Damascus.",
+  "events": [
+   {
+    "q": "Near which city did a light from heaven flash around Saul and a voice ask, 'Why do you persecute me?'",
+    "ref": "act 9:1-9",
+    "people": [
+     "paul",
+     "jesus"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "lachish",
+  "name": "Lachish",
+  "lat": 31.565,
+  "lon": 34.849,
+  "region": "Holy Land",
+  "certainty": "known",
+  "note": "Tel Lachish is a large excavated mound in the Judean lowlands; Sennacherib's siege is carved on reliefs from Nineveh.",
+  "events": [
+   {
+    "q": "Which Judean fortress was Sennacherib besieging when Hezekiah sent him tribute and admitted, 'I have offended'?",
+    "ref": "2ki 18:13-17",
+    "people": [
+     "sennacherib",
+     "hezekiah",
+     "rabshakeh"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "anathoth",
+  "name": "Anathoth",
+  "lat": 31.81,
+  "lon": 35.26,
+  "region": "Holy Land",
+  "certainty": "probable",
+  "note": "Anathoth lay near the village of Anata northeast of Jerusalem, probably at Ras el-Kharrubeh.",
+  "events": [
+   {
+    "q": "In his hometown, where did Jeremiah buy his cousin Hanamel's field while Jerusalem was under siege?",
+    "ref": "jer 32:6-15",
+    "people": [
+     "jeremiah",
+     "hanamel",
+     "baruch"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "modein",
+  "name": "Modein",
+  "lat": 31.93,
+  "lon": 35.03,
+  "region": "Holy Land",
+  "certainty": "probable",
+  "note": "Modein lay near al-Midya and modern Modi'in; the traditional 'Tombs of the Maccabees' there are not securely identified.",
+  "events": [
+   {
+    "q": "In which town did Mattathias kill a Jew who came forward to sacrifice to idols, starting the revolt?",
+    "ref": "1ma 2:15-28",
+    "people": [
+     "mattathias"
+    ]
+   },
+   {
+    "q": "Where did Simon build a lofty monument with seven pyramids over the tomb of his father and brothers?",
+    "ref": "1ma 13:25-30",
+    "people": [
+     "simon-maccabeus",
+     "jonathan-maccabeus"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "emmaus-nicopolis",
+  "name": "Emmaus (Nicopolis)",
+  "lat": 31.839,
+  "lon": 34.989,
+  "region": "Holy Land",
+  "certainty": "known",
+  "note": "Maccabean Emmaus is Imwas (later Nicopolis) in Canada Park, west of Latrun.",
+  "events": [
+   {
+    "q": "Near which town did Judas Maccabeus defeat Gorgias's army after a night march?",
+    "ref": "1ma 4:1-25",
+    "people": [
+     "judas-maccabeus",
+     "gorgias"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "beth-zur",
+  "name": "Beth Zur",
+  "lat": 31.59,
+  "lon": 35.094,
+  "region": "Holy Land",
+  "certainty": "known",
+  "note": "Beth Zur is Khirbet et-Tubeiqa, a hill fortress north of Hebron.",
+  "events": [
+   {
+    "q": "Where did Judas meet Lysias's army with ten thousand men and defeat it, before rededicating the Temple?",
+    "ref": "1ma 4:28-35",
+    "people": [
+     "judas-maccabeus",
+     "lysias"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "sparta",
+  "name": "Sparta",
+  "lat": 37.075,
+  "lon": 22.43,
+  "region": "Greece & Rome",
+  "certainty": "known",
+  "note": "Ancient Sparta's acropolis and theater lie just north of the modern town in the Peloponnese.",
+  "events": [
+   {
+    "q": "To which Greek people did Jonathan send a letter recalling their kinship with the Jews through Abraham?",
+    "ref": "1ma 12:5-23",
+    "people": [
+     "jonathan-maccabeus",
+     "arius-king-of-sparta"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "nazareth",
+  "name": "Nazareth",
+  "lat": 32.702,
+  "lon": 35.298,
+  "region": "Holy Land",
+  "certainty": "known",
+  "note": "The Basilica of the Annunciation in Nazareth is built over ancient house-caves of the first-century village.",
+  "events": [
+   {
+    "q": "In which town did the angel Gabriel announce to Mary that she would conceive the Son of the Most High?",
+    "ref": "luk 1:26-38",
+    "people": [
+     "gabriel-archangel",
+     "mary-mother-of-jesus"
+    ]
+   },
+   {
+    "q": "In which synagogue did Jesus read from Isaiah, after which the townspeople tried to throw him off a cliff?",
+    "ref": "luk 4:16-30",
+    "people": [
+     "jesus"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "cana",
+  "name": "Cana",
+  "lat": 32.747,
+  "lon": 35.343,
+  "region": "Holy Land",
+  "certainty": "probable",
+  "note": "The traditional site is Kafr Kanna near Nazareth; many archaeologists prefer Khirbet Qana, about 8 km to the north.",
+  "events": [
+   {
+    "q": "Where did Jesus turn water into wine at a wedding?",
+    "ref": "jhn 2:1-11",
+    "people": [
+     "jesus",
+     "mary-mother-of-jesus"
+    ]
+   },
+   {
+    "q": "Where was Jesus when he told a royal official, 'Go your way. Your son lives'?",
+    "ref": "jhn 4:46-54",
+    "people": [
+     "jesus"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "nain",
+  "name": "Nain",
+  "lat": 32.631,
+  "lon": 35.348,
+  "region": "Holy Land",
+  "certainty": "known",
+  "note": "Nain is the Arab village of Nein below the Hill of Moreh, with a small Franciscan church.",
+  "events": [
+   {
+    "q": "At the gate of which town did Jesus raise a widow's only son from his funeral bier?",
+    "ref": "luk 7:11-17",
+    "people": [
+     "jesus"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "capernaum",
+  "name": "Capernaum",
+  "lat": 32.881,
+  "lon": 35.575,
+  "region": "Holy Land",
+  "certainty": "known",
+  "note": "Capernaum's ruins, with a white limestone synagogue and the traditional house of Peter, lie on the northwest shore of the Sea of Galilee.",
+  "events": [
+   {
+    "q": "Where did four men lower a paralyzed man through a roof to Jesus?",
+    "ref": "mrk 2:1-12",
+    "people": [
+     "jesus"
+    ]
+   },
+   {
+    "q": "In which town did a centurion tell Jesus, 'Lord, I am not worthy for you to come under my roof'?",
+    "ref": "mat 8:5-13",
+    "people": [
+     "jesus"
+    ]
+   },
+   {
+    "q": "In which synagogue did Jesus teach, 'I am the bread of life'?",
+    "ref": "jhn 6:35-59",
+    "people": [
+     "jesus"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "sea-of-galilee",
+  "name": "Sea of Galilee",
+  "lat": 32.82,
+  "lon": 35.59,
+  "region": "Holy Land",
+  "certainty": "known",
+  "note": "This freshwater lake in northern Israel, about 21 km long, also goes by Lake Gennesaret or Tiberias.",
+  "events": [
+   {
+    "q": "Beside which lake did Jesus call Simon and Andrew to become fishers of men?",
+    "ref": "mrk 1:16-18",
+    "people": [
+     "jesus",
+     "peter",
+     "andrew"
+    ]
+   },
+   {
+    "q": "On which lake did Peter walk on the water toward Jesus, then begin to sink?",
+    "ref": "mat 14:22-33",
+    "people": [
+     "peter",
+     "jesus"
+    ]
+   },
+   {
+    "q": "On which lake did Jesus rebuke the wind and say to the sea, 'Peace! Be still!'?",
+    "ref": "mrk 4:35-41",
+    "people": [
+     "jesus"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "mount-of-beatitudes",
+  "name": "Mount of Beatitudes",
+  "lat": 32.881,
+  "lon": 35.556,
+  "region": "Holy Land",
+  "certainty": "traditional",
+  "note": "Matthew names no mountain; the traditional site is the hill above Tabgha on the northwest shore, crowned by a 1938 church.",
+  "events": [
+   {
+    "q": "According to tradition, on which hillside did Jesus begin his great sermon with 'Blessed are the poor in spirit'?",
+    "ref": "mat 5:1-12",
+    "people": [
+     "jesus"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "bethsaida",
+  "name": "Bethsaida",
+  "lat": 32.91,
+  "lon": 35.631,
+  "region": "Holy Land",
+  "certainty": "probable",
+  "note": "Bethsaida is usually identified with et-Tell north of the lake, though el-Araj nearer the shore is a strong rival.",
+  "events": [
+   {
+    "q": "Outside which village did Jesus spit on a blind man's eyes, who first saw people 'like trees walking'?",
+    "ref": "mrk 8:22-26",
+    "people": [
+     "jesus"
+    ]
+   },
+   {
+    "q": "Which town was home to Philip, Andrew, and Peter?",
+    "ref": "jhn 1:43-44",
+    "people": [
+     "philip-apostle",
+     "andrew",
+     "peter"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "kursi",
+  "name": "Country of the Gadarenes (Kursi)",
+  "lat": 32.826,
+  "lon": 35.65,
+  "region": "Holy Land",
+  "certainty": "traditional",
+  "note": "Manuscripts vary (Gerasenes, Gadarenes, Gergesenes); tradition marks the site at Kursi on the east shore, where a Byzantine monastery stands.",
+  "events": [
+   {
+    "q": "Where did Jesus cast a legion of demons into a herd of pigs that rushed down a steep bank into the sea?",
+    "ref": "mrk 5:1-20",
+    "people": [
+     "jesus"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "caesarea-philippi",
+  "name": "Caesarea Philippi",
+  "lat": 33.248,
+  "lon": 35.695,
+  "region": "Holy Land",
+  "certainty": "known",
+  "note": "Caesarea Philippi is Banias at the foot of Mount Hermon, beside a cave spring of the Jordan.",
+  "events": [
+   {
+    "q": "Where did Peter confess, 'You are the Christ, the Son of the living God,' and receive the keys of the kingdom?",
+    "ref": "mat 16:13-20",
+    "people": [
+     "peter",
+     "jesus"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "jacobs-well",
+  "name": "Jacob's Well (Sychar)",
+  "lat": 32.209,
+  "lon": 35.285,
+  "region": "Holy Land",
+  "certainty": "probable",
+  "note": "The well, beneath a Greek Orthodox church at Balata in Nablus, has been venerated since the 4th century and fits John's description.",
+  "events": [
+   {
+    "q": "At whose well did Jesus ask a Samaritan woman for a drink and speak of living water?",
+    "ref": "jhn 4:5-26",
+    "people": [
+     "jesus"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "bethany",
+  "name": "Bethany",
+  "lat": 31.771,
+  "lon": 35.262,
+  "region": "Holy Land",
+  "certainty": "known",
+  "note": "Bethany is al-Eizariya on the east slope of the Mount of Olives, where the traditional tomb of Lazarus is shown.",
+  "events": [
+   {
+    "q": "Where did Jesus raise Lazarus after he had been four days in the tomb?",
+    "ref": "jhn 11:1-44",
+    "people": [
+     "lazarus",
+     "martha",
+     "mary-of-bethany",
+     "jesus"
+    ]
+   },
+   {
+    "q": "In which village did Martha welcome Jesus while her sister sat at his feet listening?",
+    "ref": "luk 10:38-42",
+    "people": [
+     "martha",
+     "mary-of-bethany",
+     "jesus"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "pool-of-bethesda",
+  "name": "Pool of Bethesda",
+  "lat": 31.781,
+  "lon": 35.236,
+  "region": "Holy Land",
+  "certainty": "known",
+  "note": "The excavated twin pools lie beside the Church of St. Anne near the Lions' Gate in Jerusalem's Old City.",
+  "events": [
+   {
+    "q": "At which pool with five porches did Jesus heal a man who had been ill for thirty-eight years?",
+    "ref": "jhn 5:1-9",
+    "people": [
+     "jesus"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "pool-of-siloam",
+  "name": "Pool of Siloam",
+  "lat": 31.77,
+  "lon": 35.235,
+  "region": "Holy Land",
+  "certainty": "known",
+  "note": "The first-century pool was uncovered in 2004 at the southern tip of the City of David in Jerusalem.",
+  "events": [
+   {
+    "q": "In which pool did Jesus send a man born blind to wash the mud from his eyes?",
+    "ref": "jhn 9:1-7",
+    "people": [
+     "jesus"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "gethsemane",
+  "name": "Gethsemane",
+  "lat": 31.78,
+  "lon": 35.24,
+  "region": "Holy Land",
+  "certainty": "traditional",
+  "note": "Tradition places the garden at the foot of the Mount of Olives, by the Church of All Nations and its ancient olive trees.",
+  "events": [
+   {
+    "q": "In which garden did Jesus pray, 'Not what I desire, but what you desire,' and was then betrayed with a kiss?",
+    "ref": "mrk 14:32-46",
+    "people": [
+     "jesus",
+     "judas-iscariot",
+     "peter"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "golgotha",
+  "name": "Golgotha",
+  "lat": 31.778,
+  "lon": 35.23,
+  "region": "Holy Land",
+  "certainty": "traditional",
+  "note": "The Church of the Holy Sepulchre has marked Calvary and the tomb since Constantine's builders identified them in the 4th century.",
+  "events": [
+   {
+    "q": "Where, at 'the place of a skull,' was Jesus crucified between two criminals?",
+    "ref": "jhn 19:16-30",
+    "people": [
+     "jesus",
+     "mary-mother-of-jesus",
+     "john-apostle",
+     "pontius-pilate"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "mount-of-olives",
+  "name": "Mount of Olives",
+  "lat": 31.779,
+  "lon": 35.245,
+  "region": "Holy Land",
+  "certainty": "known",
+  "note": "The ridge east of the Old City, opposite the Temple Mount, is topped by the Chapel of the Ascension.",
+  "events": [
+   {
+    "q": "From which mount, a Sabbath day's journey from the city, did the apostles watch Jesus taken up into heaven?",
+    "ref": "act 1:9-12",
+    "people": [
+     "jesus"
+    ]
+   },
+   {
+    "q": "Sitting on which hill opposite the Temple did Jesus tell his disciples of the signs of the end of the age?",
+    "ref": "mat 24:1-3",
+    "people": [
+     "jesus"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "emmaus",
+  "name": "Emmaus (Luke 24)",
+  "lat": 31.84,
+  "lon": 35.143,
+  "region": "Holy Land",
+  "certainty": "traditional",
+  "note": "Luke's village, sixty stadia from Jerusalem, is uncertain; candidates include el-Qubeibeh (pinned here, a Franciscan tradition), Motza, Abu Ghosh, and Imwas.",
+  "events": [
+   {
+    "q": "Toward which village were two disciples walking when the risen Jesus joined them and was known in the breaking of the bread?",
+    "ref": "luk 24:13-35",
+    "people": [
+     "jesus",
+     "cleopas"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "lydda",
+  "name": "Lydda",
+  "lat": 31.951,
+  "lon": 34.895,
+  "region": "Holy Land",
+  "certainty": "known",
+  "note": "Lydda is modern Lod, near Ben Gurion Airport, where the Church of St. George stands.",
+  "events": [
+   {
+    "q": "Where did Peter heal Aeneas, who had been bedridden for eight years?",
+    "ref": "act 9:32-35",
+    "people": [
+     "peter",
+     "aeneas"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "joppa",
+  "name": "Joppa",
+  "lat": 32.054,
+  "lon": 34.752,
+  "region": "Holy Land",
+  "certainty": "known",
+  "note": "Joppa is the old port of Jaffa, now part of Tel Aviv–Yafo.",
+  "events": [
+   {
+    "q": "From which port did Jonah take a ship to flee from the presence of the LORD?",
+    "ref": "jon 1:1-3",
+    "people": [
+     "jonah"
+    ]
+   },
+   {
+    "q": "Where did Peter raise Tabitha (Dorcas) from the dead?",
+    "ref": "act 9:36-42",
+    "people": [
+     "peter",
+     "tabitha"
+    ]
+   },
+   {
+    "q": "On whose rooftop, at Simon the tanner's house, did Peter see a sheet let down full of animals?",
+    "ref": "act 10:5-16",
+    "people": [
+     "peter",
+     "simon-the-tanner"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "caesarea-maritima",
+  "name": "Caesarea Maritima",
+  "lat": 32.5,
+  "lon": 34.892,
+  "region": "Holy Land",
+  "certainty": "known",
+  "note": "Herod's harbor city is a national park on Israel's coast between Tel Aviv and Haifa, with a theater and aqueduct.",
+  "events": [
+   {
+    "q": "In whose house did the Holy Spirit fall on the centurion Cornelius and his household as Peter preached?",
+    "ref": "act 10:24-48",
+    "people": [
+     "cornelius",
+     "peter"
+    ]
+   },
+   {
+    "q": "In which city was Herod Agrippa struck by an angel and eaten by worms after accepting worship as a god?",
+    "ref": "act 12:19-23",
+    "people": [
+     "herod-agrippa-i"
+    ]
+   },
+   {
+    "q": "Where was Paul held for two years under Felix before appealing to Caesar before Festus?",
+    "ref": "act 24:27-25:12",
+    "people": [
+     "paul",
+     "festus",
+     "felix"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "antioch-syria",
+  "name": "Antioch (Syria)",
+  "lat": 36.202,
+  "lon": 36.16,
+  "region": "Asia Minor",
+  "certainty": "known",
+  "note": "Syrian Antioch is Antakya in southern Turkey, on the Orontes; the cave church of St. Peter is nearby.",
+  "events": [
+   {
+    "q": "Where were the disciples first called Christians?",
+    "ref": "act 11:25-26",
+    "people": [
+     "barnabas",
+     "paul"
+    ]
+   },
+   {
+    "q": "From which church were Barnabas and Saul set apart by the Holy Spirit and sent out on their first mission?",
+    "ref": "act 13:1-3",
+    "people": [
+     "barnabas",
+     "paul"
+    ]
+   },
+   {
+    "q": "Where did Paul oppose Peter to his face for withdrawing from eating with Gentiles?",
+    "ref": "gal 2:11-14",
+    "people": [
+     "paul",
+     "peter"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "tarsus",
+  "name": "Tarsus",
+  "lat": 36.918,
+  "lon": 34.893,
+  "region": "Asia Minor",
+  "certainty": "known",
+  "note": "Tarsus is a city in Mersin Province, southern Turkey, where a traditional 'St. Paul's Well' is shown.",
+  "events": [
+   {
+    "q": "Which city in Cilicia did Paul call home, 'no insignificant city'?",
+    "ref": "act 21:39",
+    "people": [
+     "paul"
+    ]
+   },
+   {
+    "q": "To which city did the brothers send Saul away from Caesarea when the Hellenists sought to kill him?",
+    "ref": "act 9:29-30",
+    "people": [
+     "paul"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "salamis",
+  "name": "Salamis (Cyprus)",
+  "lat": 35.186,
+  "lon": 33.903,
+  "region": "Asia Minor",
+  "certainty": "known",
+  "note": "The ruins of Salamis lie on the east coast of Cyprus north of Famagusta.",
+  "events": [
+   {
+    "q": "In which Cypriot port did Barnabas and Saul first proclaim the word in the Jewish synagogues?",
+    "ref": "act 13:4-5",
+    "people": [
+     "barnabas",
+     "paul",
+     "mark"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "paphos",
+  "name": "Paphos",
+  "lat": 34.756,
+  "lon": 32.407,
+  "region": "Asia Minor",
+  "certainty": "known",
+  "note": "Nea Paphos on the southwest coast of Cyprus is a UNESCO site; a column there is traditionally called St. Paul's Pillar.",
+  "events": [
+   {
+    "q": "Where did Paul strike the sorcerer Elymas blind, so that the proconsul Sergius Paulus believed?",
+    "ref": "act 13:6-12",
+    "people": [
+     "paul",
+     "elymas",
+     "sergius-paulus"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "perga",
+  "name": "Perga",
+  "lat": 36.961,
+  "lon": 30.854,
+  "region": "Asia Minor",
+  "certainty": "known",
+  "note": "Perga's extensive ruins lie near Aksu, east of Antalya in Turkey.",
+  "events": [
+   {
+    "q": "In which city of Pamphylia did John Mark leave Paul and Barnabas and return to Jerusalem?",
+    "ref": "act 13:13",
+    "people": [
+     "mark",
+     "paul",
+     "barnabas"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "antioch-pisidia",
+  "name": "Antioch of Pisidia",
+  "lat": 38.306,
+  "lon": 31.189,
+  "region": "Asia Minor",
+  "certainty": "known",
+  "note": "The Roman colony's ruins lie beside Yalvaç in Isparta Province, Turkey.",
+  "events": [
+   {
+    "q": "Where did Paul, rejected by some in the synagogue, declare, 'Behold, we turn to the Gentiles'?",
+    "ref": "act 13:44-48",
+    "people": [
+     "paul",
+     "barnabas"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "iconium",
+  "name": "Iconium",
+  "lat": 37.871,
+  "lon": 32.485,
+  "region": "Asia Minor",
+  "certainty": "known",
+  "note": "Iconium is Konya, a major city of central Turkey.",
+  "events": [
+   {
+    "q": "From which city did Paul and Barnabas flee when a plot formed to stone them, after a great number believed?",
+    "ref": "act 14:1-6",
+    "people": [
+     "paul",
+     "barnabas"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "lystra",
+  "name": "Lystra",
+  "lat": 37.578,
+  "lon": 32.336,
+  "region": "Asia Minor",
+  "certainty": "known",
+  "note": "Lystra is the unexcavated mound of Zoldera near Hatunsaray, identified by a Latin inscription.",
+  "events": [
+   {
+    "q": "Where did the crowd call Barnabas 'Zeus' and Paul 'Hermes' after Paul healed a lame man?",
+    "ref": "act 14:8-18",
+    "people": [
+     "paul",
+     "barnabas"
+    ]
+   },
+   {
+    "q": "In which town was Paul stoned and dragged out of the city, left for dead?",
+    "ref": "act 14:19-20",
+    "people": [
+     "paul"
+    ]
+   },
+   {
+    "q": "Where did Paul meet Timothy, the son of a believing Jewish woman and a Greek father?",
+    "ref": "act 16:1-3",
+    "people": [
+     "timothy",
+     "paul"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "troas",
+  "name": "Troas",
+  "lat": 39.754,
+  "lon": 26.161,
+  "region": "Asia Minor",
+  "certainty": "known",
+  "note": "Alexandria Troas is a ruined port on Turkey's Aegean coast, south of ancient Troy.",
+  "events": [
+   {
+    "q": "Where did Paul see a vision of a man of Macedonia pleading, 'Come over into Macedonia and help us'?",
+    "ref": "act 16:8-10",
+    "people": [
+     "paul"
+    ]
+   },
+   {
+    "q": "Where did the young man Eutychus fall asleep during Paul's long talk and fall from a third-story window?",
+    "ref": "act 20:7-12",
+    "people": [
+     "eutychus",
+     "paul"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "ephesus",
+  "name": "Ephesus",
+  "lat": 37.94,
+  "lon": 27.342,
+  "region": "Asia Minor",
+  "certainty": "known",
+  "note": "Ephesus is a major excavated city near Selçuk, Turkey, with a great theater that seated about 25,000.",
+  "events": [
+   {
+    "q": "Where did Demetrius the silversmith stir up a riot, with the crowd shouting 'Great is Artemis' in the theater?",
+    "ref": "act 19:23-41",
+    "people": [
+     "demetrius-silversmith",
+     "paul",
+     "gaius-of-macedonia",
+     "aristarchus"
+    ]
+   },
+   {
+    "q": "Where did those who practiced magic burn their books, worth fifty thousand pieces of silver?",
+    "ref": "act 19:17-20",
+    "people": [
+     "paul"
+    ]
+   },
+   {
+    "q": "Which church did the risen Christ tell, 'You have left your first love'?",
+    "ref": "rev 2:1-5",
+    "people": [
+     "john-apostle"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "miletus",
+  "name": "Miletus",
+  "lat": 37.53,
+  "lon": 27.278,
+  "region": "Asia Minor",
+  "certainty": "known",
+  "note": "The ruins of Miletus, including a great theater, lie near Balat on Turkey's Aegean coast; the harbor has silted far inland.",
+  "events": [
+   {
+    "q": "Where did Paul summon the Ephesian elders and bid them a tearful farewell, saying they would see his face no more?",
+    "ref": "act 20:17-38",
+    "people": [
+     "paul"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "patmos",
+  "name": "Patmos",
+  "lat": 37.313,
+  "lon": 26.546,
+  "region": "Greece & Rome",
+  "certainty": "known",
+  "note": "Patmos is a Greek island in the Dodecanese; the Cave of the Apocalypse is shown below the Monastery of St. John.",
+  "events": [
+   {
+    "q": "On which island was John 'because of God's Word' when he received the Revelation?",
+    "ref": "rev 1:9-11",
+    "people": [
+     "john-apostle"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "smyrna",
+  "name": "Smyrna",
+  "lat": 38.419,
+  "lon": 27.139,
+  "region": "Asia Minor",
+  "certainty": "known",
+  "note": "Smyrna is modern İzmir, Turkey, where the Roman agora has been excavated.",
+  "events": [
+   {
+    "q": "Which church did the risen Christ tell, 'Be faithful to death, and I will give you the crown of life'?",
+    "ref": "rev 2:8-10",
+    "people": []
+   }
+  ]
+ },
+ {
+  "id": "pergamum",
+  "name": "Pergamum",
+  "lat": 39.132,
+  "lon": 27.184,
+  "region": "Asia Minor",
+  "certainty": "known",
+  "note": "Pergamum's acropolis towers over modern Bergama, Turkey; its great altar of Zeus is now in Berlin.",
+  "events": [
+   {
+    "q": "Which church lived 'where Satan's throne is,' where the faithful witness Antipas was killed?",
+    "ref": "rev 2:12-13",
+    "people": [
+     "antipas"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "thyatira",
+  "name": "Thyatira",
+  "lat": 38.919,
+  "lon": 27.84,
+  "region": "Asia Minor",
+  "certainty": "known",
+  "note": "Thyatira is modern Akhisar, Turkey, with a small excavated area in the town center.",
+  "events": [
+   {
+    "q": "Which city was home to Lydia, the seller of purple cloth?",
+    "ref": "act 16:14",
+    "people": [
+     "lydia"
+    ]
+   },
+   {
+    "q": "Which church was rebuked for tolerating 'that woman Jezebel, who calls herself a prophetess'?",
+    "ref": "rev 2:18-20",
+    "people": [
+     "jezebel-of-thyatira"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "sardis",
+  "name": "Sardis",
+  "lat": 38.488,
+  "lon": 28.04,
+  "region": "Asia Minor",
+  "certainty": "known",
+  "note": "Sardis, the old Lydian capital, is excavated at Sart, Turkey, with a restored gymnasium and large synagogue.",
+  "events": [
+   {
+    "q": "Which church was told, 'You have a reputation of being alive, but you are dead'?",
+    "ref": "rev 3:1-3",
+    "people": []
+   }
+  ]
+ },
+ {
+  "id": "philadelphia",
+  "name": "Philadelphia",
+  "lat": 38.35,
+  "lon": 28.517,
+  "region": "Asia Minor",
+  "certainty": "known",
+  "note": "Philadelphia is modern Alaşehir, Turkey, where pillars of a Byzantine church survive.",
+  "events": [
+   {
+    "q": "Which church was told, 'I have set before you an open door, which no one can shut'?",
+    "ref": "rev 3:7-8",
+    "people": []
+   }
+  ]
+ },
+ {
+  "id": "laodicea",
+  "name": "Laodicea",
+  "lat": 37.836,
+  "lon": 29.108,
+  "region": "Asia Minor",
+  "certainty": "known",
+  "note": "Laodicea on the Lycus is an excavated site near Denizli, Turkey.",
+  "events": [
+   {
+    "q": "Which church was rebuked as lukewarm, neither hot nor cold?",
+    "ref": "rev 3:14-16",
+    "people": []
+   }
+  ]
+ },
+ {
+  "id": "philippi",
+  "name": "Philippi",
+  "lat": 41.013,
+  "lon": 24.286,
+  "region": "Greece & Rome",
+  "certainty": "known",
+  "note": "Philippi is a UNESCO site in northeastern Greece, near Kavala.",
+  "events": [
+   {
+    "q": "Where did Lydia and her household become the first baptized converts in Europe, by a riverside place of prayer?",
+    "ref": "act 16:11-15",
+    "people": [
+     "lydia",
+     "paul"
+    ]
+   },
+   {
+    "q": "Where did an earthquake open the prison doors at midnight, after which the jailer was baptized?",
+    "ref": "act 16:25-34",
+    "people": [
+     "paul",
+     "silas"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "thessalonica",
+  "name": "Thessalonica",
+  "lat": 40.64,
+  "lon": 22.945,
+  "region": "Greece & Rome",
+  "certainty": "known",
+  "note": "Thessalonica is Thessaloniki, Greece's second city, with a Roman forum and Galerius's arch.",
+  "events": [
+   {
+    "q": "Where did a mob attack Jason's house, accusing Paul's companions of 'turning the world upside down'?",
+    "ref": "act 17:5-9",
+    "people": [
+     "jason",
+     "paul",
+     "silas"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "berea",
+  "name": "Berea",
+  "lat": 40.524,
+  "lon": 22.203,
+  "region": "Greece & Rome",
+  "certainty": "known",
+  "note": "Berea is modern Veria in Macedonia, Greece, where a shrine marks the traditional spot of Paul's preaching.",
+  "events": [
+   {
+    "q": "Where did the Jews receive the word eagerly and examine the Scriptures daily to see whether these things were so?",
+    "ref": "act 17:10-12",
+    "people": [
+     "paul",
+     "silas"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "athens",
+  "name": "Athens (Areopagus)",
+  "lat": 37.972,
+  "lon": 23.724,
+  "region": "Greece & Rome",
+  "certainty": "known",
+  "note": "The Areopagus is a rocky hill just northwest of the Acropolis in central Athens.",
+  "events": [
+   {
+    "q": "Where did Paul preach about an altar 'to an unknown god,' and Dionysius and Damaris believed?",
+    "ref": "act 17:22-34",
+    "people": [
+     "paul",
+     "dionysius-the-areopagite",
+     "damaris"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "corinth",
+  "name": "Corinth",
+  "lat": 37.906,
+  "lon": 22.88,
+  "region": "Greece & Rome",
+  "certainty": "known",
+  "note": "Ancient Corinth's ruins, with the Temple of Apollo and the bema, lie southwest of the modern city.",
+  "events": [
+   {
+    "q": "Where did Paul work as a tentmaker with Aquila and Priscilla, newly arrived from Italy?",
+    "ref": "act 18:1-4",
+    "people": [
+     "paul",
+     "aquila",
+     "priscilla"
+    ]
+   },
+   {
+    "q": "Where did the proconsul Gallio refuse to judge the charges brought against Paul?",
+    "ref": "act 18:12-17",
+    "people": [
+     "gallio",
+     "paul",
+     "sosthenes"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "cenchreae",
+  "name": "Cenchreae",
+  "lat": 37.884,
+  "lon": 22.992,
+  "region": "Greece & Rome",
+  "certainty": "known",
+  "note": "Cenchreae was Corinth's eastern port; its submerged harbor remains lie near modern Kechries.",
+  "events": [
+   {
+    "q": "Where did Paul shave his head because of a vow before sailing for Syria?",
+    "ref": "act 18:18",
+    "people": [
+     "paul",
+     "priscilla",
+     "aquila"
+    ]
+   },
+   {
+    "q": "Of which church was Phoebe, whom Paul commends to the Romans, a servant?",
+    "ref": "rom 16:1-2",
+    "people": [
+     "phoebe"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "fair-havens",
+  "name": "Fair Havens (Crete)",
+  "lat": 34.933,
+  "lon": 24.8,
+  "region": "Greece & Rome",
+  "certainty": "known",
+  "note": "Fair Havens is Kaloi Limenes, a small bay on the south coast of Crete that still bears the name.",
+  "events": [
+   {
+    "q": "In which harbor near Lasea did Paul warn that sailing on would bring disaster, but was overruled?",
+    "ref": "act 27:7-12",
+    "people": [
+     "paul",
+     "julius-centurion"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "malta",
+  "name": "Malta (St. Paul's Bay)",
+  "lat": 35.95,
+  "lon": 14.4,
+  "region": "Greece & Rome",
+  "certainty": "probable",
+  "note": "The island is securely Malta; the exact shipwreck spot is uncertain and is traditionally placed at St. Paul's Bay on the north coast.",
+  "events": [
+   {
+    "q": "On which island did Paul survive a shipwreck and shake off a viper into the fire unharmed?",
+    "ref": "act 28:1-6",
+    "people": [
+     "paul"
+    ]
+   },
+   {
+    "q": "Where did Paul heal the father of Publius, the chief official of the island, of fever?",
+    "ref": "act 28:7-10",
+    "people": [
+     "paul",
+     "publius"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "puteoli",
+  "name": "Puteoli",
+  "lat": 40.824,
+  "lon": 14.122,
+  "region": "Greece & Rome",
+  "certainty": "known",
+  "note": "Puteoli is modern Pozzuoli on the Bay of Naples, Italy.",
+  "events": [
+   {
+    "q": "At which Italian port did Paul find brothers who invited him to stay seven days?",
+    "ref": "act 28:13-14",
+    "people": [
+     "paul"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "rome",
+  "name": "Rome",
+  "lat": 41.893,
+  "lon": 12.485,
+  "region": "Greece & Rome",
+  "certainty": "known",
+  "note": "Rome, capital of Italy, holds the tombs of Peter and Paul at St. Peter's Basilica and St. Paul Outside the Walls.",
+  "events": [
+   {
+    "q": "Where did Paul live two whole years in his own rented house, preaching the kingdom of God unhindered?",
+    "ref": "act 28:16-31",
+    "people": [
+     "paul"
+    ]
+   },
+   {
+    "q": "From which city did Claudius expel all the Jews, including Aquila and Priscilla?",
+    "ref": "act 18:2",
+    "people": [
+     "claudius-caesar",
+     "aquila",
+     "priscilla"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "tarshish",
+  "name": "Tarshish",
+  "lat": 37.26,
+  "lon": -6.95,
+  "region": "Greece & Rome",
+  "certainty": "probable",
+  "note": "Tarshish is uncertain; it is often linked with Tartessos in southwestern Spain (pinned near Huelva), though some scholars propose Sardinia or elsewhere.",
+  "events": [
+   {
+    "q": "Where was Jonah's ship headed when he fled from the presence of the LORD?",
+    "ref": "jon 1:3-4",
+    "people": [
+     "jonah"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "sheba",
+  "name": "Sheba (Marib)",
+  "lat": 15.43,
+  "lon": 45.33,
+  "region": "Arabia & Africa",
+  "certainty": "probable",
+  "note": "Sheba is usually identified with the kingdom of Saba in Yemen, whose capital Marib preserves temple ruins; some traditions favor Ethiopia instead.",
+  "events": [
+   {
+    "q": "From which kingdom did a queen come to test Solomon with hard questions?",
+    "ref": "1ki 10:1-13",
+    "people": [
+     "queen-of-sheba",
+     "solomon"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "cyrene",
+  "name": "Cyrene",
+  "lat": 32.825,
+  "lon": 21.858,
+  "region": "Arabia & Africa",
+  "certainty": "known",
+  "note": "Cyrene is a UNESCO-listed Greek city at Shahhat in eastern Libya.",
+  "events": [
+   {
+    "q": "Which city was home to the man compelled to carry Jesus' cross, the father of Alexander and Rufus?",
+    "ref": "mrk 15:21",
+    "people": [
+     "simon-of-cyrene",
+     "alexander-son-of-simon",
+     "rufus-son-of-simon",
+     "jesus"
+    ]
+   }
+  ]
+ }
+]

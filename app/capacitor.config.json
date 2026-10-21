@@ -1,0 +1,8 @@
+{
+  "appId": "com.biblepeoplemap.app",
+  "appName": "Bible People Map",
+  "webDir": "../dist",
+  "plugins": {
+    "LocalNotifications": { "iconColor": "#27448f" }
+  }
+}

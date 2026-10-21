@@ -156,7 +156,14 @@ def norm(people):
             (good.append(ref) if parse_ref(ref) else issues["bad keyPassage"].append(f"{pid}: {ref}"))
         p["keyPassages"] = good
 
-    for child, slot, par in EXTRA_PARENTS:
+    links = ROOT / "data/people/genealogy_links.json"
+    extra = list(EXTRA_PARENTS)
+    if links.exists():
+        for row in json.loads(links.read_text(encoding="utf-8")):
+            for slot in ("father", "mother"):
+                if row.get(slot):
+                    extra.append((canon(row["child"]), slot, canon(row[slot])))
+    for child, slot, par in extra:
         if child in people and par in people and not people[child].get(slot):
             people[child][slot] = par
 

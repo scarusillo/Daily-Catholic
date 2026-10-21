@@ -16,3 +16,11 @@ Website first; the static site is built to be wrapped as a mobile app later.
     python3 scripts/parse_bible.py
     python3 scripts/build_people.py
     cd site && python3 -m http.server 8765
+
+## v0.2 additions
+- Today: liturgical day (General Roman Calendar, US), Sunday/holy-day readings with the people in them, biblical saints of the day, person of the day
+- Play: Threads (word-path search), Lineage Links (four groups of four), Hidden Name (acrostic), Holy Land Tap (map), Daily Quiz (3 levels); streaks, share results, badges
+- Journeys: 8 guided reading plans with progress
+- Listen (text-to-speech), Suggest a correction (owner-only inbox), 1 Chronicles genealogies (1,811 people)
+- `scripts/build_calendar.mjs`, `scripts/build_geo.mjs`, `scripts/build_web.py` (installable PWA in dist/), `app/` (Capacitor iOS/Android wrapper)
+- Content review log: `data/REVIEW_LOG.md`

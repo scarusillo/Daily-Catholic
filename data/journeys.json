@@ -1,0 +1,831 @@
+{
+ "version": 1,
+ "journeys": [
+  {
+   "id": "abraham-to-jesus",
+   "title": "From Abraham to Jesus in 30 Days",
+   "blurb": "Walk the whole story of salvation in a month, one person a day, from God's call to Abraham to the birth of the Son of David, son of Abraham.",
+   "audience": "all",
+   "steps": [
+    {
+     "person": "abraham",
+     "title": "God calls Abraham",
+     "read": "gen 12:1-9",
+     "reflect": "God asked Abraham to leave everything familiar. What is God asking you to trust him with today?"
+    },
+    {
+     "person": "sarah",
+     "title": "Is anything too hard for the LORD?",
+     "read": "gen 18:1-15",
+     "reflect": "Sarah laughed at God's promise. Where do you find it hard to believe God can still act in your life?"
+    },
+    {
+     "person": "isaac",
+     "title": "The son on the mountain",
+     "read": "gen 22:1-14",
+     "reflect": "The Fathers saw Isaac carrying the wood as a picture of Christ carrying his cross. What does 'God will provide' mean to you?"
+    },
+    {
+     "person": "rebekah",
+     "title": "A bride for Isaac",
+     "read": "gen 24:50-67",
+     "reflect": "Rebekah said 'I will go' to a husband she had never met. How does her quick 'yes' prepare us for Mary's?"
+    },
+    {
+     "person": "jacob",
+     "title": "A ladder to heaven",
+     "read": "gen 28:10-22",
+     "reflect": "Jesus calls himself the ladder between heaven and earth (Jn 1:51). Where has God surprised you with his presence?"
+    },
+    {
+     "person": "joseph-son-of-jacob",
+     "title": "Forgiving his brothers",
+     "read": "gen 45:1-15",
+     "reflect": "Joseph said, 'It was not you who sent me here, but God.' Is there someone you need to forgive this week?"
+    },
+    {
+     "person": "judah",
+     "title": "Judah offers himself",
+     "read": "gen 44:18-34",
+     "reflect": "Judah, who once sold his brother, now offers himself in his brother's place. How does this point to Jesus, the Lion of Judah?"
+    },
+    {
+     "person": "moses",
+     "title": "The burning bush",
+     "read": "exo 3:1-15",
+     "reflect": "God reveals his name, 'I AM.' How can you take off your sandals and approach God with reverence in prayer?"
+    },
+    {
+     "person": "aaron",
+     "title": "Between the dead and the living",
+     "read": "num 16:46-48",
+     "reflect": "Aaron stood between the dead and the living with incense. How does the priest at Mass stand for us before God?"
+    },
+    {
+     "person": "joshua",
+     "title": "Crossing the Jordan",
+     "read": "jos 3:5-17",
+     "reflect": "Joshua's name is the same as Jesus' ('the LORD saves'). What 'river' do you need God's help to cross?"
+    },
+    {
+     "person": "rahab",
+     "title": "The scarlet cord",
+     "read": "jos 2:8-21",
+     "reflect": "Rahab, a foreigner, believed and was saved, and became an ancestor of Jesus. Who might God be calling that we overlook?"
+    },
+    {
+     "person": "gideon",
+     "title": "The LORD is with you",
+     "read": "jdg 6:11-24",
+     "reflect": "Gideon felt like the least in his family. How does God use our weakness to show his strength?"
+    },
+    {
+     "person": "ruth",
+     "title": "Where you go, I will go",
+     "read": "rut 1:15-22",
+     "reflect": "Ruth chose loyalty to Naomi and to Naomi's God. Who has God placed in your life to walk beside?"
+    },
+    {
+     "person": "boaz",
+     "title": "The kinsman-redeemer",
+     "read": "rut 4:9-17",
+     "reflect": "Boaz paid the price to redeem Ruth. How is Christ our Redeemer, the one who buys us back?"
+    },
+    {
+     "person": "hannah",
+     "title": "A mother's prayer",
+     "read": "1sa 1:9-20",
+     "reflect": "Hannah poured out her soul before the LORD. What do you need to bring honestly to God in prayer?"
+    },
+    {
+     "person": "samuel",
+     "title": "Speak, LORD, your servant hears",
+     "read": "1sa 3:1-10",
+     "reflect": "Samuel needed Eli's help to recognize God's voice. Who helps you listen to God?"
+    },
+    {
+     "person": "david",
+     "title": "The LORD looks at the heart",
+     "read": "1sa 16:1-13",
+     "reflect": "God chose the youngest shepherd boy. What does God see in your heart that others might miss?"
+    },
+    {
+     "person": "nathan-prophet",
+     "title": "A house forever",
+     "read": "2sa 7:8-17",
+     "reflect": "God promised David a son whose kingdom would last forever. How does Gabriel's message to Mary (Lk 1:32-33) fulfill this?"
+    },
+    {
+     "person": "solomon",
+     "title": "A listening heart",
+     "read": "1ki 3:5-14",
+     "reflect": "Solomon asked for wisdom, not riches. If God asked you, 'What shall I give you?', what would you ask for?"
+    },
+    {
+     "person": "elijah",
+     "title": "The still, small voice",
+     "read": "1ki 19:9-18",
+     "reflect": "God was not in the wind, earthquake or fire, but in a gentle whisper. How can you make room for silence today?"
+    },
+    {
+     "person": "isaiah",
+     "title": "The virgin shall conceive",
+     "read": "isa 7:10-14",
+     "reflect": "Isaiah promised 'Immanuel,' God with us. How is God with you right now?"
+    },
+    {
+     "person": "josiah",
+     "title": "The Book is found",
+     "read": "2ki 22:8-13",
+     "reflect": "Josiah tore his robes when he heard God's word. How can Scripture become a living word for you, not just a book?"
+    },
+    {
+     "person": "jeremiah",
+     "title": "A new covenant",
+     "read": "jer 31:31-34",
+     "reflect": "God promised to write his law on our hearts. Jesus speaks of the 'new covenant in my blood' at every Mass. What does that mean to you?"
+    },
+    {
+     "person": "daniel",
+     "title": "One like a son of man",
+     "read": "dan 7:13-14",
+     "reflect": "Jesus took the title 'Son of Man' from this vision. What does it mean that Jesus' kingdom will never pass away?"
+    },
+    {
+     "person": "ezra",
+     "title": "Reading the Law to the people",
+     "read": "neh 8:1-8",
+     "reflect": "The people stood and wept as Ezra read God's word. How do you listen to the readings at Mass?"
+    },
+    {
+     "person": "judas-maccabeus",
+     "title": "Rededicating the Temple",
+     "read": "1ma 4:36-59",
+     "reflect": "Judas cleansed and rededicated God's house. Jesus later kept this feast (Jn 10:22). What in your life needs rededicating to God?"
+    },
+    {
+     "person": "zechariah-father-of-john",
+     "title": "The Benedictus",
+     "read": "luk 1:67-79",
+     "reflect": "Zechariah sings that God has 'remembered his holy covenant.' How does this song sum up everything we have read this month?"
+    },
+    {
+     "person": "mary-mother-of-jesus",
+     "title": "The Annunciation",
+     "read": "luk 1:26-38",
+     "reflect": "Every promise of this journey meets in Mary's 'let it be done to me.' What would it look like to say yes to God today?"
+    },
+    {
+     "person": "joseph-husband-of-mary",
+     "title": "Joseph, son of David",
+     "read": "mat 1:18-25",
+     "reflect": "Joseph obeyed without saying a word recorded in Scripture. How can quiet obedience be a form of faith?"
+    },
+    {
+     "person": "jesus",
+     "title": "Son of David, son of Abraham",
+     "read": "mat 1:1-17",
+     "reflect": "Look back at the names in this genealogy that you have met this month. What does it mean that Jesus came through such a real, imperfect family?"
+    }
+   ]
+  },
+  {
+   "id": "women-of-the-bible",
+   "title": "Women of the Bible",
+   "blurb": "Sixteen women whose faith, courage and prayer shaped salvation history, from the mother of all the living to the first witness of the Resurrection.",
+   "audience": "all",
+   "steps": [
+    {
+     "person": "eve",
+     "title": "Mother of all the living",
+     "read": "gen 3:9-20",
+     "reflect": "Even after the Fall, God promised that the woman's offspring would crush the serpent. How does Eve's story make room for hope?"
+    },
+    {
+     "person": "sarah",
+     "title": "Laughter and promise",
+     "read": "gen 21:1-7",
+     "reflect": "Sarah's laughter of doubt became laughter of joy. When has God turned your doubt into joy?"
+    },
+    {
+     "person": "hagar",
+     "title": "The God who sees",
+     "read": "gen 16:7-14",
+     "reflect": "Hagar, a slave woman in the wilderness, named God 'the God who sees me.' Who around you needs to know God sees them?"
+    },
+    {
+     "person": "miriam",
+     "title": "Song at the sea",
+     "read": "exo 15:19-21",
+     "reflect": "Miriam led the women in praise with a tambourine. How can you praise God with your whole self?"
+    },
+    {
+     "person": "rahab",
+     "title": "Faith at Jericho",
+     "read": "jos 2:8-14",
+     "reflect": "Hebrews praises Rahab's faith. What risk of faith might God be asking of you?"
+    },
+    {
+     "person": "deborah",
+     "title": "A mother in Israel",
+     "read": "jdg 4:4-10",
+     "reflect": "Deborah judged Israel under a palm tree and called Barak to act. How do you use the gifts God has given you to lead others?"
+    },
+    {
+     "person": "ruth",
+     "title": "Your God will be my God",
+     "read": "rut 1:16-18",
+     "reflect": "Ruth's loyalty made her an ancestor of David and of Jesus. What does faithful love cost, and what does it bear?"
+    },
+    {
+     "person": "hannah",
+     "title": "Hannah's song",
+     "read": "1sa 2:1-10",
+     "reflect": "Hannah's song anticipates Mary's Magnificat. Compare the two: what does God do for the lowly?"
+    },
+    {
+     "person": "abigail",
+     "title": "The peacemaker",
+     "read": "1sa 25:23-35",
+     "reflect": "Abigail's wisdom kept David from shedding blood. When has someone's wise word kept you from sin?"
+    },
+    {
+     "person": "esther",
+     "title": "For such a time as this",
+     "read": "est 4:13-16",
+     "reflect": "Esther risked her life to intercede for her people. Whom are you called to speak up for?"
+    },
+    {
+     "person": "judith",
+     "title": "Courage in prayer",
+     "read": "jdt 8:11-17",
+     "reflect": "Judith rebuked the elders for putting God to the test. How do you wait on God when help seems slow?"
+    },
+    {
+     "person": "elizabeth",
+     "title": "Blessed are you among women",
+     "read": "luk 1:39-45",
+     "reflect": "Elizabeth recognized the Lord hidden in Mary's womb. How can we recognize Jesus present in others?"
+    },
+    {
+     "person": "mary-mother-of-jesus",
+     "title": "The Magnificat",
+     "read": "luk 1:46-55",
+     "reflect": "Mary's soul magnifies the Lord. Pray her song slowly today: which line speaks to you most?"
+    },
+    {
+     "person": "martha",
+     "title": "I believe you are the Christ",
+     "read": "jhn 11:20-27",
+     "reflect": "Martha, often remembered as busy, makes one of the Gospel's greatest confessions of faith. What do you believe about Jesus in hard moments?"
+    },
+    {
+     "person": "mary-magdalene",
+     "title": "Apostle to the apostles",
+     "read": "jhn 20:11-18",
+     "reflect": "Mary Magdalene recognized Jesus when he called her by name. How does Jesus call you by name?"
+    },
+    {
+     "person": "lydia",
+     "title": "The Lord opened her heart",
+     "read": "act 16:13-15",
+     "reflect": "Lydia's first response to faith was hospitality. How can your home become a place of welcome for Christ?"
+    }
+   ]
+  },
+  {
+   "id": "types-of-christ",
+   "title": "Types of Christ in the Old Testament",
+   "blurb": "The New Testament lies hidden in the Old (CCC 129). Meet thirteen people in whom the Church sees Jesus foreshadowed.",
+   "audience": "adult",
+   "steps": [
+    {
+     "person": "adam",
+     "title": "The first and last Adam",
+     "read": "1co 15:45-49",
+     "reflect": "St Paul calls Christ the 'last Adam.' What did the first Adam lose that Christ restores?"
+    },
+    {
+     "person": "abel",
+     "title": "Blood that speaks",
+     "read": "gen 4:2-10",
+     "reflect": "Hebrews says Jesus' blood 'speaks better than that of Abel' (Heb 12:24). What does Christ's blood speak over you?"
+    },
+    {
+     "person": "noah",
+     "title": "The ark of salvation",
+     "read": "gen 6:13-22",
+     "reflect": "The Church sees the ark as a figure of Baptism and of the Church herself. How is the Church an ark for you?"
+    },
+    {
+     "person": "melchizedek",
+     "title": "Priest of bread and wine",
+     "read": "gen 14:17-20",
+     "reflect": "Melchizedek is named in the Roman Canon. How does his offering of bread and wine point to the Eucharist?"
+    },
+    {
+     "person": "isaac",
+     "title": "The beloved son offered",
+     "read": "gen 22:1-14",
+     "reflect": "Isaac carried the wood up the mountain, and God provided a lamb. Where do you see Calvary in this story?"
+    },
+    {
+     "person": "joseph-son-of-jacob",
+     "title": "Betrayed, then saving his brothers",
+     "read": "gen 50:15-21",
+     "reflect": "'You meant evil against me, but God meant it for good.' How did God bring good out of the evil done to Jesus?"
+    },
+    {
+     "person": "moses",
+     "title": "A prophet like Moses",
+     "read": "deu 18:15-19",
+     "reflect": "Moses promised a greater prophet to come. How does Jesus give a new law on a mountain (Mt 5)?"
+    },
+    {
+     "person": "aaron",
+     "title": "Standing between death and life",
+     "read": "num 16:46-48",
+     "reflect": "Aaron's intercession stopped the plague. How does Christ, our high priest, intercede for us now (Heb 7:25)?"
+    },
+    {
+     "person": "joshua",
+     "title": "The one who leads into the promise",
+     "read": "jos 1:1-9",
+     "reflect": "Joshua and Jesus share the same name. Into what 'promised land' does Jesus lead us?"
+    },
+    {
+     "person": "boaz",
+     "title": "The kinsman-redeemer",
+     "read": "rut 4:9-10",
+     "reflect": "Boaz redeemed Ruth at his own cost. What did our redemption cost Christ?"
+    },
+    {
+     "person": "david",
+     "title": "The shepherd king",
+     "read": "1sa 17:41-50",
+     "reflect": "David fought Goliath not with armor but trusting in God. How did Christ defeat our greatest enemy?"
+    },
+    {
+     "person": "solomon",
+     "title": "Something greater than Solomon",
+     "read": "1ki 3:5-12",
+     "reflect": "Jesus said 'one greater than Solomon is here' (Mt 12:42). How is Christ the very Wisdom of God?"
+    },
+    {
+     "person": "jonah",
+     "title": "The sign of Jonah",
+     "read": "jon 1:15-2:10",
+     "reflect": "Jesus pointed to Jonah's three days in the fish as a sign of his Resurrection. How does Easter change the way you face 'dark' days?"
+    }
+   ]
+  },
+  {
+   "id": "mary-in-the-old-testament",
+   "title": "Mary in the Old Testament",
+   "blurb": "Ten days with the people in whom the Church has seen the Mother of God foreshadowed: the New Eve, the Ark of the Covenant, the Queen Mother and the women who saved their people.",
+   "audience": "adult",
+   "steps": [
+    {
+     "person": "eve",
+     "title": "The woman and her offspring",
+     "read": "gen 3:13-15",
+     "reflect": "The Church calls Genesis 3:15 the 'first gospel.' How is Mary the New Eve who says yes where Eve said no (CCC 411, 494)?"
+    },
+    {
+     "person": "sarah",
+     "title": "Nothing is impossible",
+     "read": "gen 18:9-14",
+     "reflect": "'Is anything too hard for the LORD?' Gabriel echoes this to Mary (Lk 1:37). What seems impossible in your life that you can entrust to God?"
+    },
+    {
+     "person": "hannah",
+     "title": "A song of the lowly",
+     "read": "1sa 2:1-10",
+     "reflect": "Hannah's song is the model for the Magnificat. What does God's habit of lifting up the lowly teach us about Mary?"
+    },
+    {
+     "person": "david",
+     "title": "The Ark comes to the hill country",
+     "read": "2sa 6:9-15",
+     "reflect": "David asked, 'How could the LORD's ark come to me?' and leapt before it; Elizabeth asks the same of Mary, and John leaps in the womb. How is Mary the Ark of the New Covenant?"
+    },
+    {
+     "person": "bathsheba",
+     "title": "The Queen Mother",
+     "read": "1ki 2:13-20",
+     "reflect": "Solomon rose, bowed and set a throne for his mother at his right hand. How does this help us understand Mary as Queen and intercessor?"
+    },
+    {
+     "person": "jael",
+     "title": "Blessed above women",
+     "read": "jdg 5:24-27",
+     "reflect": "Jael crushed the enemy's head, an echo of Genesis 3:15. Why might the Church hear this when Elizabeth calls Mary 'blessed among women'?"
+    },
+    {
+     "person": "judith",
+     "title": "The glory of Jerusalem",
+     "read": "jdt 13:17-20",
+     "reflect": "The Church sings Judith's praises in Marian feasts. How did Mary, like Judith, take part in the defeat of the enemy of God's people?"
+    },
+    {
+     "person": "esther",
+     "title": "The queen who intercedes",
+     "read": "est 4:29-47",
+     "reflect": "Esther prayed and then approached the king for her people. How does Mary's intercession for us resemble hers?"
+    },
+    {
+     "person": "isaiah",
+     "title": "The virgin shall conceive",
+     "read": "isa 7:10-14",
+     "reflect": "Matthew sees Isaiah's sign fulfilled in Mary. What does the virginal conception tell us about who Jesus is (CCC 496-497)?"
+    },
+    {
+     "person": "mary-mother-of-jesus",
+     "title": "All generations will call me blessed",
+     "read": "luk 1:39-56",
+     "reflect": "Having met her Old Testament 'types,' read the Visitation again. Which of them do you now see most clearly in Mary?"
+    }
+   ]
+  },
+  {
+   "id": "twelve-apostles",
+   "title": "The Twelve Apostles",
+   "blurb": "Meet each of the Twelve, plus Matthias and Paul: ordinary men called by name, sent out, and remembered as the foundation stones of the Church.",
+   "audience": "all",
+   "steps": [
+    {
+     "person": "peter",
+     "title": "You are Peter",
+     "read": "mat 16:13-19",
+     "reflect": "Jesus gave Peter the keys of the kingdom. How does the Pope's ministry of unity serve the whole Church today?"
+    },
+    {
+     "person": "andrew",
+     "title": "We have found the Messiah",
+     "read": "jhn 1:35-42",
+     "reflect": "Andrew's first act as a disciple was to bring his brother to Jesus. Whom could you introduce to Jesus?"
+    },
+    {
+     "person": "james-son-of-zebedee",
+     "title": "Can you drink the cup?",
+     "read": "mrk 10:35-45",
+     "reflect": "James asked for glory and was promised a share in Christ's cup; he became the first apostle martyred. What does true greatness look like?"
+    },
+    {
+     "person": "john-apostle",
+     "title": "Behold your mother",
+     "read": "jhn 19:25-27",
+     "reflect": "John took Mary into his home. How can you welcome Mary into your own life?"
+    },
+    {
+     "person": "philip-apostle",
+     "title": "Show us the Father",
+     "read": "jhn 14:8-11",
+     "reflect": "'He who has seen me has seen the Father.' Where do you look for God, and how does Jesus answer?"
+    },
+    {
+     "person": "bartholomew",
+     "title": "An Israelite without guile",
+     "read": "jhn 1:45-51",
+     "reflect": "Tradition identifies Bartholomew with Nathanael. Jesus saw him under the fig tree; what does it mean that Jesus knows you before you come to him?"
+    },
+    {
+     "person": "thomas",
+     "title": "My Lord and my God",
+     "read": "jhn 20:24-29",
+     "reflect": "Thomas's doubt became the Gospel's clearest confession. How can honest questions lead to deeper faith?"
+    },
+    {
+     "person": "matthew",
+     "title": "Follow me",
+     "read": "mat 9:9-13",
+     "reflect": "Jesus called a tax collector and ate with sinners. What does it mean for you that Jesus came 'to call sinners'?"
+    },
+    {
+     "person": "james-son-of-alphaeus",
+     "title": "Called by name",
+     "read": "mrk 3:13-19",
+     "reflect": "We know almost nothing of James son of Alphaeus beyond his name. What does his quiet place among the Twelve say about hidden faithfulness?"
+    },
+    {
+     "person": "jude-thaddeus",
+     "title": "Why to us and not the world?",
+     "read": "jhn 14:22-24",
+     "reflect": "Jude asked Jesus a sincere question at the Last Supper. Jesus answered that he and the Father make their home in those who love him. How can your heart be such a home?"
+    },
+    {
+     "person": "simon-the-zealot",
+     "title": "The Zealot",
+     "read": "luk 6:12-16",
+     "reflect": "Jesus prayed all night before choosing men as different as a zealot and a tax collector. How does Christ unite people who disagree?"
+    },
+    {
+     "person": "judas-iscariot",
+     "title": "The betrayer",
+     "read": "mat 26:14-16",
+     "reflect": "Judas sold Jesus for thirty pieces of silver. What small compromises can lead us away from Christ, and how does confession guard us?"
+    },
+    {
+     "person": "matthias",
+     "title": "Chosen to replace Judas",
+     "read": "act 1:15-26",
+     "reflect": "The apostles prayed and cast lots, and the lot fell on Matthias. Why did the Church need to keep the number Twelve?"
+    },
+    {
+     "person": "paul",
+     "title": "Apostle to the Gentiles",
+     "read": "act 9:1-19",
+     "reflect": "Christ called his fiercest persecutor to be an apostle. Is there anyone you have written off whom God might still call?"
+    }
+   ]
+  },
+  {
+   "id": "the-prophets",
+   "title": "The Prophets",
+   "blurb": "Sixteen prophets who spoke God's word to kings and people, comforted exiles, and pointed ahead to the Messiah.",
+   "audience": "adult",
+   "steps": [
+    {
+     "person": "samuel",
+     "title": "Speak, LORD",
+     "read": "1sa 3:1-10",
+     "reflect": "Samuel's prophetic life began with listening. How do you make time to listen before you speak?"
+    },
+    {
+     "person": "nathan-prophet",
+     "title": "You are the man",
+     "read": "2sa 12:1-13",
+     "reflect": "Nathan confronted the king with a story. Why do we sometimes need someone else to show us our sin?"
+    },
+    {
+     "person": "elijah",
+     "title": "Fire on Carmel",
+     "read": "1ki 18:20-39",
+     "reflect": "'How long will you waver between two opinions?' Where are you trying to serve two masters?"
+    },
+    {
+     "person": "elisha",
+     "title": "Wash and be clean",
+     "read": "2ki 5:1-14",
+     "reflect": "Naaman nearly refused a simple remedy. How does this story speak to us about the sacraments?"
+    },
+    {
+     "person": "amos",
+     "title": "Let justice roll down",
+     "read": "amo 5:21-24",
+     "reflect": "God rejected worship without justice. How does your worship on Sunday shape your treatment of the poor during the week?"
+    },
+    {
+     "person": "hosea",
+     "title": "I led them with cords of love",
+     "read": "hos 11:1-9",
+     "reflect": "God speaks like a parent teaching a child to walk. How have you experienced God's patient love?"
+    },
+    {
+     "person": "isaiah",
+     "title": "Here I am, send me",
+     "read": "isa 6:1-8",
+     "reflect": "Isaiah felt unworthy until his lips were purified. What does the 'Holy, holy, holy' at Mass have to do with this vision?"
+    },
+    {
+     "person": "micah",
+     "title": "What does the LORD require?",
+     "read": "mic 6:6-8",
+     "reflect": "Do justice, love mercy, walk humbly. Which of the three is hardest for you right now?"
+    },
+    {
+     "person": "jeremiah",
+     "title": "Before you were born",
+     "read": "jer 1:4-10",
+     "reflect": "God knew Jeremiah before he was formed in the womb. What does this teach about the dignity of every human life?"
+    },
+    {
+     "person": "ezekiel",
+     "title": "Dry bones live",
+     "read": "ezk 37:1-14",
+     "reflect": "God breathes life into dry bones. What in your life or parish feels dry, and how might the Holy Spirit renew it?"
+    },
+    {
+     "person": "daniel",
+     "title": "In the lions' den",
+     "read": "dan 6:10-23",
+     "reflect": "Daniel kept praying three times a day even when it was forbidden. What helps you keep a steady rhythm of prayer?"
+    },
+    {
+     "person": "jonah",
+     "title": "Mercy for Nineveh",
+     "read": "jon 3:1-10",
+     "reflect": "Jonah was unhappy that God spared his enemies. Whom do you find it hard to want God to forgive?"
+    },
+    {
+     "person": "joel",
+     "title": "I will pour out my Spirit",
+     "read": "jol 2:28-32",
+     "reflect": "Peter quoted Joel at Pentecost. How has the Holy Spirit been poured out on you in Baptism and Confirmation?"
+    },
+    {
+     "person": "zechariah-prophet",
+     "title": "Your king comes, humble",
+     "read": "zec 9:9-10",
+     "reflect": "Jesus fulfilled this on Palm Sunday. What kind of king rides a donkey, and what does that say about his kingdom?"
+    },
+    {
+     "person": "malachi",
+     "title": "I send my messenger",
+     "read": "mal 3:1-4",
+     "reflect": "Malachi's promise is fulfilled in John the Baptist. How can you prepare the way for the Lord this week?"
+    },
+    {
+     "person": "john-the-baptist",
+     "title": "He must increase",
+     "read": "jhn 3:25-30",
+     "reflect": "John, the last and greatest prophet, pointed away from himself to Christ. How can you decrease so that Christ may increase?"
+    }
+   ]
+  },
+  {
+   "id": "kings-of-israel-and-judah",
+   "title": "Kings of Israel and Judah",
+   "blurb": "Fifteen kings, faithful and faithless, from Saul to the exile, and what their reigns teach about the true King, Jesus, Son of David.",
+   "audience": "all",
+   "steps": [
+    {
+     "person": "saul",
+     "title": "Obedience is better than sacrifice",
+     "read": "1sa 15:17-23",
+     "reflect": "Saul did what he wanted and called it worship. How can religious actions become a cover for disobedience?"
+    },
+    {
+     "person": "david",
+     "title": "A clean heart",
+     "read": "psa 51:1-12",
+     "reflect": "David's psalm of repentance after his sin with Bathsheba is prayed every Friday in the Liturgy of the Hours. What does it teach about confession?"
+    },
+    {
+     "person": "solomon",
+     "title": "Dedicating the Temple",
+     "read": "1ki 8:22-30",
+     "reflect": "Solomon admitted that heaven cannot contain God, yet God chose to dwell among his people. How is God present in our churches today?"
+    },
+    {
+     "person": "rehoboam",
+     "title": "Bad advice, divided kingdom",
+     "read": "1ki 12:6-16",
+     "reflect": "Rehoboam rejected the elders' counsel to serve the people. What kind of advice do you seek out?"
+    },
+    {
+     "person": "jeroboam-i",
+     "title": "Golden calves",
+     "read": "1ki 12:25-30",
+     "reflect": "Jeroboam built shrines out of fear of losing power. How can fear push us toward idols?"
+    },
+    {
+     "person": "ahab",
+     "title": "Naboth's vineyard",
+     "read": "1ki 21:1-19",
+     "reflect": "Ahab coveted what he could not rightly have. What does the Tenth Commandment ask of us?"
+    },
+    {
+     "person": "jehu-king-of-israel",
+     "title": "Zeal that stopped short",
+     "read": "2ki 10:28-31",
+     "reflect": "Jehu destroyed Baal worship but kept Jeroboam's calves. Where might your conversion be only partial?"
+    },
+    {
+     "person": "jehoash-king-of-judah",
+     "title": "Repairing the Temple",
+     "read": "2ki 12:1-15",
+     "reflect": "Young Joash did right while the priest Jehoiada guided him. Who are the mentors who keep you faithful?"
+    },
+    {
+     "person": "uzziah",
+     "title": "Pride before a fall",
+     "read": "2ch 26:16-21",
+     "reflect": "Uzziah grew proud and took a priestly role that was not his. Why does God guard the roles he gives in his Church?"
+    },
+    {
+     "person": "ahaz",
+     "title": "Ask a sign",
+     "read": "isa 7:10-14",
+     "reflect": "Ahaz refused to trust God, yet God gave the sign of Immanuel anyway. How does God's faithfulness outlast our faithlessness?"
+    },
+    {
+     "person": "hezekiah",
+     "title": "A king's prayer",
+     "read": "2ki 19:14-19",
+     "reflect": "Hezekiah spread the enemy's letter before the LORD. What 'letters' or worries can you lay before God today?"
+    },
+    {
+     "person": "manasseh-king-of-judah",
+     "title": "The worst king repents",
+     "read": "2ch 33:10-16",
+     "reflect": "Manasseh, the most wicked king, humbled himself and was restored. Is anyone beyond God's mercy?"
+    },
+    {
+     "person": "josiah",
+     "title": "Renewing the covenant",
+     "read": "2ki 23:1-3",
+     "reflect": "Josiah read the covenant aloud and the people pledged themselves. How do we renew our baptismal promises at Easter?"
+    },
+    {
+     "person": "zedekiah-king-of-judah",
+     "title": "The last king",
+     "read": "jer 38:14-20",
+     "reflect": "Zedekiah asked Jeremiah for God's word but was afraid to obey it. Why is knowing God's will not the same as doing it?"
+    },
+    {
+     "person": "jehoiachin",
+     "title": "Hope in exile",
+     "read": "2ki 25:27-30",
+     "reflect": "Kings ends with David's heir released from prison and eating at the king's table. How does this small sign of hope point to Christ's eternal kingdom?"
+    }
+   ]
+  },
+  {
+   "id": "heroes-of-the-deuterocanon",
+   "title": "Heroes of the Deuterocanon",
+   "blurb": "Thirteen people from the books found in the Catholic Old Testament (Tobit, Judith, the Greek parts of Esther and Daniel, Maccabees, Wisdom, Sirach and Baruch) and what they teach about prayer, courage and hope in the resurrection.",
+   "audience": "adult",
+   "steps": [
+    {
+     "person": "tobit",
+     "title": "A father's advice",
+     "read": "tob 4:5-11",
+     "reflect": "Tobit tells his son that almsgiving delivers from death. How does generosity to the poor shape the soul?"
+    },
+    {
+     "person": "sarah-wife-of-tobias",
+     "title": "Prayer at the window",
+     "read": "tob 3:10-15",
+     "reflect": "Sarah turned her despair into prayer. When you feel overwhelmed, where do you turn first?"
+    },
+    {
+     "person": "tobias",
+     "title": "Prayer on the wedding night",
+     "read": "tob 8:4-8",
+     "reflect": "Tobias and Sarah began their marriage with prayer. Why does the Church often read this passage at weddings?"
+    },
+    {
+     "person": "raphael-archangel",
+     "title": "God heals",
+     "read": "tob 12:6-15",
+     "reflect": "Raphael reveals he presented their prayers before God. How does it change your prayer to know the angels join it?"
+    },
+    {
+     "person": "judith",
+     "title": "Faith under siege",
+     "read": "jdt 8:11-17",
+     "reflect": "Judith refused to put God on a deadline. How do you trust God's timing?"
+    },
+    {
+     "person": "esther",
+     "title": "Esther's prayer",
+     "read": "est 4:29-47",
+     "reflect": "In the Greek parts of Esther, the queen prays, 'Help me. I am destitute, and have no helper but you.' When have you prayed like that?"
+    },
+    {
+     "person": "susanna",
+     "title": "Chastity and courage",
+     "read": "dan 13:19-23",
+     "reflect": "Susanna chose to fall into human hands rather than sin before the Lord. What helps you stand firm against pressure to do wrong?"
+    },
+    {
+     "person": "daniel",
+     "title": "Truth that sets free",
+     "read": "dan 13:44-62",
+     "reflect": "God stirred up the young Daniel to defend the innocent. When is God asking you to speak up for justice?"
+    },
+    {
+     "person": "mattathias",
+     "title": "Zeal for the covenant",
+     "read": "1ma 2:15-22",
+     "reflect": "Mattathias refused the king's order: 'We will not listen to the king's words.' When does fidelity to God require us to say no?"
+    },
+    {
+     "person": "eleazar-scribe",
+     "title": "An old man's example",
+     "read": "2ma 6:18-31",
+     "reflect": "Eleazar refused even to pretend, so as not to mislead the young. How does your example affect others' faith?"
+    },
+    {
+     "person": "maccabean-mother",
+     "title": "A mother's faith in the resurrection",
+     "read": "2ma 7:20-29",
+     "reflect": "She told her sons that God made all things from nothing and would give back their lives. How does hope in the resurrection give courage?"
+    },
+    {
+     "person": "judas-maccabeus",
+     "title": "Prayer for the dead",
+     "read": "2ma 12:38-45",
+     "reflect": "Judas made atonement for the dead 'that they might be released from their sin.' How does this passage ground the Church's prayer for the faithful departed (CCC 1032)?"
+    },
+    {
+     "person": "ben-sira",
+     "title": "Prepare for testing",
+     "read": "sir 2:1-11",
+     "reflect": "'My son, if you come to serve the Lord, prepare your soul for temptation.' How can trials become part of your growth in faith?"
+    }
+   ]
+  }
+ ]
+}
