@@ -389,7 +389,7 @@
       <h2 class="p-name">${esc(p.name)}</h2>
       ${p.aliases.length ? `<div class="p-alias">Also called ${esc(p.aliases.join(", "))}</div>` : ""}
       ${p.feast ? `<div class="feast">Feast: ${esc(p.feast)}</div>` : ""}
-      <div class="p-actions">${"speechSynthesis" in window ? `<button class="ghost small" data-speak-person="${p.id}">▶ Listen</button>` : ""}<button class="ghost small" id="fixbtn">Suggest a correction</button></div>
+      <div class="p-actions">${"speechSynthesis" in window ? `<button class="ghost small" data-speak-person="${p.id}">▶ Listen</button>` : ""}${window.claude?.use ? `<button class="ghost small" id="fixbtn">Suggest a correction</button>` : ""}</div>
       <form id="fixform" class="fixform" hidden>
         <label for="fixfield">What needs fixing?</label>
         <select id="fixfield"><option>Summary</option><option>Catholic teaching</option><option>Family links</option><option>Passages</option><option>Feast day</option><option>Other</option></select>
