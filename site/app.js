@@ -73,7 +73,7 @@
 
   /* ---------- routing ---------- */
   const VIEWS = ["today", "map", "canon", "people", "journeys", "play", "music", "sacraments", "mass"];
-  const GAME_VIEWS = ["threads", "links", "acrostic", "tap", "quiz"];
+  const GAME_VIEWS = ["loaves", "threads", "links", "acrostic", "tap", "quiz"];
   const rendered = {};
   function route() {
     const h = location.hash.slice(1);
@@ -643,7 +643,7 @@
   const explored = () => Object.keys(store.get("bpm.seen", {})).length;
   function badges() {
     const n = explored(), seen = store.get("bpm.seen", {});
-    const games = ["threads", "links", "acrostic", "tap", "quiz"];
+    const games = ["loaves", "threads", "links", "acrostic", "tap", "quiz"];
     const plays = games.reduce((a, g) => a + Object.keys(store.get(`bpm.g.${g}`, { days: {} }).days).length, 0);
     const best = Math.max(0, ...games.map((g) => window.BPM_GAMES?.streak(g) || 0));
     const apostles = ["peter", "andrew", "james-son-of-zebedee", "john-apostle", "philip-apostle", "bartholomew", "matthew", "thomas", "james-son-of-alphaeus", "jude-thaddeus", "simon-the-zealot", "matthias"];

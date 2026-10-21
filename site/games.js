@@ -491,10 +491,91 @@
     show();
   }
 
+
+  /* =====================================================================
+     FIVE LOAVES — guess the five-letter word of the day in six tries.
+     ===================================================================== */
+  let WORDLE = null, loavesAbort = null;
+  function scoreGuess(g, ans) {
+    const res = Array(5).fill("absent"), left = {};
+    for (let i = 0; i < 5; i++) if (g[i] === ans[i]) res[i] = "correct"; else left[ans[i]] = (left[ans[i]] || 0) + 1;
+    for (let i = 0; i < 5; i++) if (res[i] !== "correct" && left[g[i]]) { res[i] = "present"; left[g[i]]--; }
+    return res;
+  }
+  async function renderLoaves(root) {
+    root.innerHTML = `<p class="loading">Loading…</p>`;
+    WORDLE ??= await C().getJSON("data/wordle.json");
+    const VALID = new Set(WORDLE.valid);
+    const n = dayNumber();
+    const ans = WORDLE.answers[((n - 1) % WORDLE.answers.length + WORDLE.answers.length) % WORDLE.answers.length];
+    const key = `bpm.loaves.${dayKey()}`;
+    const st = C().store.get(key, { guesses: [] });
+    const save = () => C().store.set(key, st);
+    let cur = "";
+    const KB = ["QWERTYUIOP", "ASDFGHJKL", "↵ZXCVBNM⌫"];
+    root.innerHTML = `<div class="game loaves">
+      <div class="ghead"><button class="back" data-go="play">‹ Games</button><h1>Five Loaves</h1><span class="qmeta">#${n}</span></div>
+      <p class="lede">Guess today's five-letter word of faith in six tries. It may be a word from the Mass, the Bible or Church life, or a person from Scripture.</p>
+      <div class="wgrid" id="wgrid"></div>
+      <p class="tword" id="wmsg">&nbsp;</p>
+      <div class="kb" id="kb">${KB.map((r) => `<div class="kbrow">${[...r].map((k) => `<button data-k="${k}" class="${k === "↵" || k === "⌫" ? "wide" : ""}" aria-label="${k === "↵" ? "Enter" : k === "⌫" ? "Delete" : k}">${k === "↵" ? "Enter" : k}</button>`).join("")}</div>`).join("")}</div>
+      <div id="wdone"></div></div>`;
+    const over = () => st.guesses.includes(ans.w) || st.guesses.length >= 6;
+    function draw() {
+      const rows = [];
+      for (let r = 0; r < 6; r++) {
+        const g = st.guesses[r], live = r === st.guesses.length && !over();
+        const letters = g ? [...g] : live ? [...cur.padEnd(5)] : [..."     "];
+        const sc = g ? scoreGuess(g, ans.w) : [];
+        rows.push(`<div class="wrow">${letters.map((ch, i) => `<span class="wt ${sc[i] || (ch.trim() ? "filled" : "")}">${ch.trim()}</span>`).join("")}</div>`);
+      }
+      $("#wgrid", root).innerHTML = rows.join("");
+      const best = {};
+      const rank = { correct: 3, present: 2, absent: 1 };
+      for (const g of st.guesses) scoreGuess(g, ans.w).forEach((v, i) => { if ((rank[v] || 0) > (rank[best[g[i]]] || 0)) best[g[i]] = v; });
+      root.querySelectorAll("#kb button").forEach((b) => { b.className = (b.className.includes("wide") ? "wide " : "") + (best[b.dataset.k] || ""); });
+      if (over()) finish();
+    }
+    function msg(t) { const el = $("#wmsg", root); el.textContent = t; el.classList.remove("pulse"); void el.offsetWidth; el.classList.add("pulse"); }
+    function press(k) {
+      if (over()) return;
+      if (k === "⌫") cur = cur.slice(0, -1);
+      else if (k === "↵") {
+        if (cur.length < 5) return msg("Not enough letters");
+        if (!VALID.has(cur)) return msg("Not in the word list");
+        st.guesses.push(cur); cur = ""; save();
+        if (st.guesses.at(-1) === ans.w) msg(["Miraculous!", "Glorious!", "Wonderful!", "Well done!", "Good!", "Phew!"][st.guesses.length - 1]);
+        else $("#wmsg", root).textContent = " ";
+      } else if (/^[A-Z]$/.test(k) && cur.length < 5) cur += k;
+      draw();
+    }
+    $("#kb", root).addEventListener("click", (e) => { const b = e.target.closest("button[data-k]"); if (b) press(b.dataset.k); });
+    loavesAbort?.abort(); loavesAbort = new AbortController();
+    window.addEventListener("keydown", (e) => {
+      if (!root.isConnected || root.closest("[hidden]") || e.metaKey || e.ctrlKey || e.altKey || e.target.closest("input,textarea,select")) return;
+      if (e.key === "Enter") press("↵"); else if (e.key === "Backspace") press("⌫"); else if (/^[a-z]$/i.test(e.key)) press(e.key.toUpperCase()); else return;
+      e.preventDefault();
+    }, { signal: loavesAbort.signal });
+    function finish() {
+      if ($("#wdone", root).childElementCount) return;
+      const won = st.guesses.includes(ans.w);
+      if (!playedToday("loaves")) record("loaves", { won, tries: st.guesses.length });
+      $("#kb", root).hidden = true;
+      const grid = st.guesses.map((g) => scoreGuess(g, ans.w).map((v) => (v === "correct" ? "🟩" : v === "present" ? "🟨" : "⬜")).join("")).join("\n");
+      $("#wdone", root).innerHTML = `<div class="qcard"><span class="eyebrow">${won ? `Solved in ${st.guesses.length}` : "Today's word"}</span><h2>${esc(ans.w)}</h2>
+        <p>${esc(ans.explain)}</p>
+        <div class="chips">${ans.person ? C().chip(ans.person) : ""}${ans.ref ? `<button class="ref" data-ref="${esc(ans.ref)}">${esc(C().refLabel(ans.ref))}</button>` : ""}</div>
+        <p class="qmeta">Streak: ${streak("loaves")}</p><button class="qnext" id="wshare">Share result</button></div>`;
+      $("#wshare", root).onclick = (e) => share(`The Daily Catholic · Five Loaves #${n} ${won ? st.guesses.length : "X"}/6\n${grid}\n${SITE}`, e.target);
+    }
+    draw();
+  }
+
   /* =====================================================================
      HUB
      ===================================================================== */
   const GAMES = [
+    { id: "loaves", name: "Five Loaves", desc: "Guess the five-letter word of faith in six tries.", needs: "wordle" },
     { id: "threads", name: "Threads", desc: "Find the hidden names in a grid of letters. One spangram names today's theme.", needs: "themes" },
     { id: "links", name: "Lineage Links", desc: "Sixteen people, four hidden groups. Find what connects them.", needs: "themes" },
     { id: "acrostic", name: "Hidden Name", desc: "Solve the clues; their first letters spell a mystery figure.", needs: null },
@@ -523,10 +604,11 @@
       if (view === "play") return renderHub(root);
       if (view === "threads" || view === "links") { await themes(); return view === "threads" ? renderThreads(root) : renderLinks(root); }
       if (view === "acrostic") return renderAcrostic(root);
+      if (view === "loaves") return renderLoaves(root);
       if (view === "tap") return renderTap(root);
     } catch (e) {
       root.innerHTML = `<p class="loading">This game could not load (${esc(e.message)}). Reload to try again.</p>`;
     }
   }
-  window.BPM_GAMES = { mount, playedToday, streak, GAMES, dayKey, _build: { threads: buildThreads, links: buildLinks, acrostic: buildAcrostic } };
+  window.BPM_GAMES = { mount, playedToday, streak, GAMES, dayKey, _score: scoreGuess, _build: { threads: buildThreads, links: buildLinks, acrostic: buildAcrostic } };
 })();
