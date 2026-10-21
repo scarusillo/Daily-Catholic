@@ -1,0 +1,762 @@
+{
+ "intro": {
+  "en": "The Mass is the central act of Catholic worship: Jesus' own sacrifice made present and the meal he gave us at the Last Supper. It has followed the same basic shape since the early Church, gathering, listening to God's word, offering and receiving the Eucharist, and being sent out (CCC 1345-1346). This guide walks through each part in order, what happens, why we do it, and what the people do, so that newcomers, those in OCIA, and children can pray it with confidence. Don't worry about getting everything right; just watch, listen, and join in when you can.",
+  "es": "La Misa es el acto central del culto católico: el sacrificio de Jesús hecho presente y la cena que nos dejó en la Última Cena. Desde la Iglesia primitiva conserva la misma estructura básica: reunirnos, escuchar la Palabra de Dios, ofrecer y recibir la Eucaristía, y ser enviados (CEC 1345-1346). Esta guía recorre cada parte en orden, qué sucede, por qué lo hacemos y qué hace el pueblo, para que los recién llegados, quienes están en el OCIA y los niños puedan rezarla con confianza. No te preocupes por hacerlo todo perfecto: observa, escucha y únete cuando puedas."
+ },
+ "parts": [
+  {
+   "id": "introductory-rites",
+   "title": {
+    "en": "Introductory Rites",
+    "es": "Ritos iniciales"
+   },
+   "steps": [
+    {
+     "id": "entrance",
+     "title": {
+      "en": "Entrance",
+      "es": "Procesión de entrada"
+     },
+     "posture": "stand",
+     "what": {
+      "en": "The priest and other ministers process to the altar while the people sing. The priest kisses the altar, a sign of reverence for Christ.",
+      "es": "El sacerdote y los demás ministros avanzan en procesión hacia el altar mientras el pueblo canta. El sacerdote besa el altar, signo de reverencia a Cristo."
+     },
+     "why": {
+      "en": "We gather as one family to worship, like the pilgrims who sang as they went up to God's house in Jerusalem.",
+      "es": "Nos reunimos como una sola familia para adorar a Dios, como los peregrinos que cantaban al subir a la casa de Dios en Jerusalén."
+     },
+     "ref": "psa 122:1",
+     "youSay": {
+      "en": "We stand and sing the entrance hymn (or the entrance antiphon is recited).",
+      "es": "Nos ponemos de pie y cantamos el canto de entrada (o se recita la antífona de entrada)."
+     }
+    },
+    {
+     "id": "sign-of-the-cross-greeting",
+     "title": {
+      "en": "Sign of the Cross and Greeting",
+      "es": "Señal de la Cruz y saludo"
+     },
+     "posture": "stand",
+     "what": {
+      "en": "The priest begins in the name of the Father, and of the Son, and of the Holy Spirit, then greets the people with a blessing that the Lord be with them.",
+      "es": "El sacerdote comienza en el nombre del Padre, y del Hijo, y del Espíritu Santo, y luego saluda al pueblo deseándole que el Señor esté con él."
+     },
+     "why": {
+      "en": "Everything we do begins in the Trinity into which we were baptized; one form of the greeting comes straight from Saint Paul's letters.",
+      "es": "Todo lo que hacemos comienza en la Trinidad, en cuyo nombre fuimos bautizados; una de las fórmulas del saludo viene directamente de las cartas de san Pablo."
+     },
+     "ref": "2co 13:14",
+     "youSay": {
+      "en": "We make the Sign of the Cross and answer \"Amen,\" then reply to the greeting: \"And with your spirit.\"",
+      "es": "Hacemos la Señal de la Cruz y respondemos \"Amén\"; luego contestamos al saludo: \"Y con tu espíritu.\""
+     }
+    },
+    {
+     "id": "penitential-act",
+     "title": {
+      "en": "Penitential Act",
+      "es": "Acto penitencial"
+     },
+     "posture": "stand",
+     "what": {
+      "en": "After a brief moment of silence, we acknowledge that we are sinners and ask God's mercy. A common form is a prayer in which we confess to God and to one another, asking Mary, the saints, and our brothers and sisters to pray for us.",
+      "es": "Tras un breve silencio, reconocemos que somos pecadores y pedimos la misericordia de Dios. Una forma común es una oración en la que confesamos ante Dios y ante los hermanos, pidiendo a la Virgen María, a los santos y a los hermanos que oren por nosotros."
+     },
+     "why": {
+      "en": "Before approaching God we humbly ask his mercy, like the tax collector in Jesus' parable. Some people strike their breast at the words of sorrow, as he did.",
+      "es": "Antes de acercarnos a Dios pedimos humildemente su misericordia, como el publicano de la parábola de Jesús. Muchos se golpean el pecho en las palabras de arrepentimiento, como él."
+     },
+     "ref": "luk 18:13",
+     "youSay": {
+      "en": "We pray the penitential prayer together; the priest closes with a prayer for God's forgiveness, and we answer \"Amen.\" (On some Sundays this is replaced by the sprinkling of holy water.)",
+      "es": "Rezamos juntos la oración penitencial; el sacerdote concluye pidiendo el perdón de Dios y respondemos \"Amén\". (Algunos domingos se sustituye por la aspersión con agua bendita.)"
+     }
+    },
+    {
+     "id": "kyrie",
+     "title": {
+      "en": "Lord, Have Mercy (Kyrie)",
+      "es": "Señor, ten piedad (Kyrie)"
+     },
+     "posture": "stand",
+     "what": {
+      "en": "We call on Christ's mercy three times: \"Lord, have mercy,\" \"Christ, have mercy,\" \"Lord, have mercy.\" It may be sung in Greek: Kyrie eleison, Christe eleison.",
+      "es": "Invocamos tres veces la misericordia de Cristo: \"Señor, ten piedad\", \"Cristo, ten piedad\", \"Señor, ten piedad\". Puede cantarse en griego: Kyrie eleison, Christe eleison."
+     },
+     "why": {
+      "en": "It echoes the cry of the blind men and others in the Gospels who called out to Jesus for mercy; these Greek words have been prayed since the earliest centuries.",
+      "es": "Hace eco del grito de los ciegos y de otros que en los Evangelios clamaban a Jesús pidiendo misericordia; estas palabras griegas se rezan desde los primeros siglos."
+     },
+     "ref": "mat 20:31",
+     "youSay": {
+      "en": "We repeat each invocation after the priest, cantor, or choir.",
+      "es": "Repetimos cada invocación después del sacerdote, el cantor o el coro."
+     }
+    },
+    {
+     "id": "gloria",
+     "title": {
+      "en": "Glory to God (Gloria)",
+      "es": "Gloria"
+     },
+     "posture": "stand",
+     "what": {
+      "en": "On Sundays (outside Advent and Lent) and on feasts, we sing or say an ancient hymn of praise to the Father, the Son, and the Holy Spirit.",
+      "es": "Los domingos (fuera de Adviento y Cuaresma) y en las fiestas, cantamos o recitamos un antiguo himno de alabanza al Padre, al Hijo y al Espíritu Santo."
+     },
+     "why": {
+      "en": "It opens with the song of the angels to the shepherds on the night Jesus was born.",
+      "es": "Comienza con el canto de los ángeles a los pastores la noche en que nació Jesús."
+     },
+     "ref": "luk 2:14",
+     "youSay": {
+      "en": "We join in singing or saying the Gloria.",
+      "es": "Nos unimos cantando o recitando el Gloria."
+     }
+    },
+    {
+     "id": "collect",
+     "title": {
+      "en": "Opening Prayer (Collect)",
+      "es": "Oración colecta"
+     },
+     "posture": "stand",
+     "what": {
+      "en": "The priest invites us to pray, pauses in silence, then says a prayer proper to the day that \"collects\" everyone's intentions into one.",
+      "es": "El sacerdote nos invita a orar, guarda un momento de silencio y luego dice una oración propia del día que \"recoge\" las intenciones de todos en una sola."
+     },
+     "why": {
+      "en": "Christian prayer is offered to the Father, through the Son, in the Holy Spirit; the silence lets each person place their own needs before God.",
+      "es": "La oración cristiana se dirige al Padre, por el Hijo, en el Espíritu Santo; el silencio permite que cada uno presente a Dios sus propias necesidades."
+     },
+     "ref": "php 4:6",
+     "youSay": {
+      "en": "We pray silently, then answer \"Amen.\"",
+      "es": "Oramos en silencio y luego respondemos \"Amén\"."
+     }
+    }
+   ]
+  },
+  {
+   "id": "liturgy-of-the-word",
+   "title": {
+    "en": "Liturgy of the Word",
+    "es": "Liturgia de la Palabra"
+   },
+   "steps": [
+    {
+     "id": "first-reading",
+     "title": {
+      "en": "First Reading",
+      "es": "Primera lectura"
+     },
+     "posture": "sit",
+     "what": {
+      "en": "A reader (lector) proclaims a passage, usually from the Old Testament (from the Acts of the Apostles in the Easter season), chosen to connect with the day's Gospel.",
+      "es": "Un lector proclama un pasaje, normalmente del Antiguo Testamento (de los Hechos de los Apóstoles en el tiempo pascual), escogido en relación con el Evangelio del día."
+     },
+     "why": {
+      "en": "God speaks to his people through Scripture, as when Ezra read the Law aloud to the whole assembly; the Old Testament prepares for Christ.",
+      "es": "Dios habla a su pueblo por medio de la Escritura, como cuando Esdras leyó la Ley en voz alta a toda la asamblea; el Antiguo Testamento prepara la venida de Cristo."
+     },
+     "ref": "neh 8:3",
+     "youSay": {
+      "en": "We sit and listen. At the end the reader says this is the word of the Lord, and we answer \"Thanks be to God.\"",
+      "es": "Nos sentamos y escuchamos. Al final el lector proclama que es Palabra de Dios y respondemos \"Te alabamos, Señor\"."
+     }
+    },
+    {
+     "id": "responsorial-psalm",
+     "title": {
+      "en": "Responsorial Psalm",
+      "es": "Salmo responsorial"
+     },
+     "posture": "sit",
+     "what": {
+      "en": "A cantor or reader sings or reads a psalm, and the people repeat a short refrain (the response) between the verses.",
+      "es": "Un salmista o lector canta o lee un salmo, y el pueblo repite una breve antífona (la respuesta) entre las estrofas."
+     },
+     "why": {
+      "en": "The Psalms were the prayer book of Israel and of Jesus himself; here God's word becomes our prayer in reply.",
+      "es": "Los Salmos eran el libro de oración de Israel y del mismo Jesús; aquí la Palabra de Dios se convierte en nuestra respuesta orante."
+     },
+     "ref": "col 3:16",
+     "youSay": {
+      "en": "We sing or say the response each time it comes around.",
+      "es": "Cantamos o decimos la respuesta cada vez que se repite."
+     }
+    },
+    {
+     "id": "second-reading",
+     "title": {
+      "en": "Second Reading",
+      "es": "Segunda lectura"
+     },
+     "posture": "sit",
+     "what": {
+      "en": "On Sundays and solemnities, a second reading is proclaimed, usually from a New Testament letter of an apostle such as Paul, Peter, James, or John.",
+      "es": "Los domingos y solemnidades se proclama una segunda lectura, normalmente de una carta del Nuevo Testamento de un apóstol como Pablo, Pedro, Santiago o Juan."
+     },
+     "why": {
+      "en": "The apostles' letters were written to be read aloud when the early Christians gathered, and they still are.",
+      "es": "Las cartas de los apóstoles se escribieron para ser leídas en voz alta cuando se reunían los primeros cristianos, y así se siguen leyendo."
+     },
+     "ref": "col 4:16",
+     "youSay": {
+      "en": "We listen and answer \"Thanks be to God.\"",
+      "es": "Escuchamos y respondemos \"Te alabamos, Señor\"."
+     }
+    },
+    {
+     "id": "gospel-acclamation",
+     "title": {
+      "en": "Gospel Acclamation",
+      "es": "Aclamación antes del Evangelio"
+     },
+     "posture": "stand",
+     "what": {
+      "en": "We stand and sing \"Alleluia\" with a short verse to welcome the Gospel. During Lent, the Alleluia is replaced by another acclamation of praise.",
+      "es": "Nos ponemos de pie y cantamos \"Aleluya\" con un breve versículo para recibir el Evangelio. En Cuaresma, el Aleluya se sustituye por otra aclamación de alabanza."
+     },
+     "why": {
+      "en": "\"Alleluia\" is Hebrew for \"Praise the Lord!\", the song of heaven itself in the Book of Revelation. We stand to greet Christ, who is about to speak to us.",
+      "es": "\"Aleluya\" es una palabra hebrea que significa \"¡Alaben al Señor!\", el canto del cielo en el libro del Apocalipsis. Nos ponemos de pie para recibir a Cristo, que va a hablarnos."
+     },
+     "ref": "rev 19:6",
+     "youSay": {
+      "en": "We stand and sing the Alleluia (or the Lenten acclamation).",
+      "es": "Nos ponemos de pie y cantamos el Aleluya (o la aclamación de Cuaresma)."
+     }
+    },
+    {
+     "id": "gospel",
+     "title": {
+      "en": "Gospel",
+      "es": "Evangelio"
+     },
+     "posture": "stand",
+     "what": {
+      "en": "A deacon or priest proclaims a passage from Matthew, Mark, Luke, or John. The Book of the Gospels may be carried in procession, honored with candles and incense, and kissed afterward.",
+      "es": "Un diácono o sacerdote proclama un pasaje de Mateo, Marcos, Lucas o Juan. El Evangeliario puede llevarse en procesión, honrarse con velas e incienso, y besarse al final."
+     },
+     "why": {
+      "en": "The Gospels tell the words and deeds of Jesus himself, so they receive the highest honor; Christ is truly present when his word is proclaimed. Jesus himself stood to read the Scriptures in the synagogue at Nazareth.",
+      "es": "Los Evangelios narran las palabras y obras del mismo Jesús, por eso reciben el mayor honor; Cristo está realmente presente cuando se proclama su Palabra. Jesús mismo se puso de pie para leer la Escritura en la sinagoga de Nazaret."
+     },
+     "ref": "luk 4:16-21",
+     "youSay": {
+      "en": "We answer the greeting (\"And with your spirit\"), and as the Gospel is announced we trace a small cross on our forehead, lips, and heart, asking that God's word be in our mind, on our lips, and in our heart. We respond with words of glory and praise to Christ before and after the reading.",
+      "es": "Respondemos al saludo (\"Y con tu espíritu\") y, al anunciarse el Evangelio, trazamos una pequeña cruz en la frente, los labios y el pecho, pidiendo que la Palabra esté en nuestra mente, en nuestros labios y en nuestro corazón. Antes y después de la lectura respondemos con aclamaciones de gloria y alabanza a Cristo."
+     }
+    },
+    {
+     "id": "homily",
+     "title": {
+      "en": "Homily",
+      "es": "Homilía"
+     },
+     "posture": "sit",
+     "what": {
+      "en": "The priest or deacon explains the readings and how they apply to our lives today.",
+      "es": "El sacerdote o diácono explica las lecturas y cómo se aplican a nuestra vida hoy."
+     },
+     "why": {
+      "en": "Like Jesus on the road to Emmaus, the Church opens the Scriptures for us so our hearts can understand and respond.",
+      "es": "Como Jesús en el camino de Emaús, la Iglesia nos abre las Escrituras para que nuestro corazón las entienda y responda."
+     },
+     "ref": "luk 24:27",
+     "youSay": {
+      "en": "We sit and listen; a short silence may follow.",
+      "es": "Nos sentamos y escuchamos; puede seguir un breve silencio."
+     }
+    },
+    {
+     "id": "creed",
+     "title": {
+      "en": "Profession of Faith (Creed)",
+      "es": "Profesión de fe (Credo)"
+     },
+     "posture": "stand",
+     "what": {
+      "en": "On Sundays and solemnities, everyone recites the Nicene Creed (or sometimes the Apostles' Creed), a summary of what Catholics believe about the Father, Son, and Holy Spirit and the Church.",
+      "es": "Los domingos y solemnidades todos recitamos el Credo de Nicea (o a veces el Credo de los Apóstoles), un resumen de lo que creemos los católicos sobre el Padre, el Hijo y el Espíritu Santo y la Iglesia."
+     },
+     "why": {
+      "en": "Having heard God's word, we respond by professing our faith together. The Nicene Creed comes from the Church councils of the 300s.",
+      "es": "Después de escuchar la Palabra de Dios, respondemos profesando juntos nuestra fe. El Credo niceno proviene de los concilios de la Iglesia del siglo IV."
+     },
+     "ref": "rom 10:9",
+     "youSay": {
+      "en": "We say the Creed together. At the words about Jesus becoming man by the Holy Spirit and the Virgin Mary, we bow (on Christmas and the Annunciation we kneel).",
+      "es": "Recitamos juntos el Credo. En las palabras sobre la encarnación de Jesús por obra del Espíritu Santo en la Virgen María, hacemos una inclinación (en Navidad y en la Anunciación nos arrodillamos)."
+     }
+    },
+    {
+     "id": "prayer-of-the-faithful",
+     "title": {
+      "en": "Prayer of the Faithful",
+      "es": "Oración de los fieles"
+     },
+     "posture": "stand",
+     "what": {
+      "en": "A deacon or reader announces intentions for the Church, the world, those in need, and the local community.",
+      "es": "Un diácono o lector propone intenciones por la Iglesia, el mundo, los necesitados y la comunidad local."
+     },
+     "why": {
+      "en": "Saint Paul urged that prayers be offered for everyone, including those in authority; as the baptized, we intercede for the whole world.",
+      "es": "San Pablo pidió que se hicieran oraciones por todos, incluso por los que gobiernan; como bautizados, intercedemos por el mundo entero."
+     },
+     "ref": "1ti 2:1-2",
+     "youSay": {
+      "en": "After each intention we respond with a short prayer such as \"Lord, hear our prayer.\"",
+      "es": "Después de cada intención respondemos con una breve súplica como \"Te rogamos, óyenos\"."
+     }
+    }
+   ]
+  },
+  {
+   "id": "liturgy-of-the-eucharist",
+   "title": {
+    "en": "Liturgy of the Eucharist",
+    "es": "Liturgia eucarística"
+   },
+   "steps": [
+    {
+     "id": "preparation-of-the-gifts",
+     "title": {
+      "en": "Preparation of the Gifts",
+      "es": "Preparación de los dones"
+     },
+     "posture": "sit",
+     "what": {
+      "en": "The altar is prepared, and members of the congregation may bring forward the bread and wine; a collection is taken for the Church and the poor. The priest offers the bread and wine with quiet blessing prayers, adds a drop of water to the wine, and washes his hands.",
+      "es": "Se prepara el altar y algunos fieles pueden llevar el pan y el vino; se hace una colecta para la Iglesia y los pobres. El sacerdote presenta el pan y el vino con oraciones de bendición en voz baja, añade una gota de agua al vino y se lava las manos."
+     },
+     "why": {
+      "en": "Bread and wine were offered by the priest-king Melchizedek long ago and were chosen by Jesus at the Last Supper. The water in the wine recalls our sharing in Christ's life, and the hand-washing expresses the priest's desire to be cleansed.",
+      "es": "El pan y el vino fueron ofrecidos antiguamente por el rey y sacerdote Melquisedec, y Jesús los eligió en la Última Cena. El agua en el vino recuerda nuestra participación en la vida de Cristo, y el lavabo expresa el deseo del sacerdote de ser purificado."
+     },
+     "ref": "gen 14:18",
+     "youSay": {
+      "en": "We sit, give to the collection as we are able, and may sing the offertory hymn. If the priest's prayers are said aloud, we may answer \"Blessed be God for ever.\"",
+      "es": "Nos sentamos, damos a la colecta según nuestras posibilidades y podemos cantar el canto de ofertorio. Si el sacerdote dice las oraciones en voz alta, podemos responder \"Bendito seas por siempre, Señor\"."
+     }
+    },
+    {
+     "id": "prayer-over-the-offerings",
+     "title": {
+      "en": "Invitation to Prayer and Prayer over the Offerings",
+      "es": "Invitación a orar y oración sobre las ofrendas"
+     },
+     "posture": "stand",
+     "what": {
+      "en": "The priest asks us to pray that the sacrifice, his and ours, may be acceptable to God, and then prays over the gifts.",
+      "es": "El sacerdote nos pide orar para que el sacrificio, suyo y nuestro, sea agradable a Dios, y luego dice la oración sobre las ofrendas."
+     },
+     "why": {
+      "en": "We offer not only bread and wine but ourselves, our work and our lives, rising to God like incense.",
+      "es": "Ofrecemos no solo el pan y el vino, sino a nosotros mismos, nuestro trabajo y nuestra vida, que suben a Dios como el incienso."
+     },
+     "ref": "psa 141:2",
+     "youSay": {
+      "en": "We stand and respond, asking the Lord to accept the sacrifice for his glory, our good, and the good of the whole Church; then we answer \"Amen.\"",
+      "es": "Nos ponemos de pie y respondemos pidiendo al Señor que reciba el sacrificio para su gloria, nuestro bien y el de toda la Iglesia; luego respondemos \"Amén\"."
+     }
+    },
+    {
+     "id": "preface",
+     "title": {
+      "en": "Preface Dialogue and Preface",
+      "es": "Diálogo y prefacio"
+     },
+     "posture": "stand",
+     "what": {
+      "en": "The Eucharistic Prayer opens with a dialogue: the priest greets us, invites us to lift up our hearts, and to give thanks to God. He then sings or says the preface, a prayer of thanks for a particular aspect of God's saving work.",
+      "es": "La Plegaria eucarística comienza con un diálogo: el sacerdote nos saluda, nos invita a levantar el corazón y a dar gracias a Dios. Luego canta o dice el prefacio, una acción de gracias por un aspecto particular de la obra salvadora de Dios."
+     },
+     "why": {
+      "en": "\"Eucharist\" means \"thanksgiving.\" This dialogue is one of the oldest parts of the Mass, already found in Christian writings around the year 200.",
+      "es": "\"Eucaristía\" significa \"acción de gracias\". Este diálogo es una de las partes más antiguas de la Misa; ya aparece en escritos cristianos hacia el año 200."
+     },
+     "ref": "lam 3:41",
+     "youSay": {
+      "en": "We answer each line: \"And with your spirit,\" then that our hearts are lifted up to the Lord, and that it is right and just to give him thanks.",
+      "es": "Respondemos a cada invitación: \"Y con tu espíritu\"; luego, que tenemos el corazón levantado hacia el Señor, y que es justo y necesario darle gracias."
+     }
+    },
+    {
+     "id": "holy-holy",
+     "title": {
+      "en": "Holy, Holy, Holy (Sanctus)",
+      "es": "Santo (Sanctus)"
+     },
+     "posture": "stand",
+     "what": {
+      "en": "Everyone sings a hymn joining the angels' praise of God's holiness and welcoming the One who comes in the Lord's name, with \"Hosanna.\"",
+      "es": "Todos cantamos un himno uniéndonos a la alabanza de los ángeles a la santidad de Dios y aclamando con \"Hosanna\" al que viene en nombre del Señor."
+     },
+     "why": {
+      "en": "It joins the seraphim's cry in Isaiah's vision of heaven with the crowd's welcome of Jesus on Palm Sunday: at Mass, heaven and earth worship together.",
+      "es": "Une el canto de los serafines en la visión de Isaías con la aclamación de la multitud a Jesús el Domingo de Ramos: en la Misa, el cielo y la tierra adoran juntos."
+     },
+     "ref": "isa 6:3",
+     "youSay": {
+      "en": "We sing the Holy, Holy, Holy, and in the United States we then kneel for the rest of the Eucharistic Prayer.",
+      "es": "Cantamos el Santo y, en Estados Unidos, después nos arrodillamos durante el resto de la Plegaria eucarística."
+     }
+    },
+    {
+     "id": "epiclesis",
+     "title": {
+      "en": "Calling Down the Holy Spirit (Epiclesis)",
+      "es": "Invocación del Espíritu Santo (epíclesis)"
+     },
+     "posture": "kneel",
+     "what": {
+      "en": "The priest extends his hands over the bread and wine and asks the Father to send the Holy Spirit to make them the Body and Blood of Christ. A bell may be rung.",
+      "es": "El sacerdote extiende las manos sobre el pan y el vino y pide al Padre que envíe el Espíritu Santo para que se conviertan en el Cuerpo y la Sangre de Cristo. Puede sonar una campanilla."
+     },
+     "why": {
+      "en": "The same Holy Spirit who overshadowed Mary so that the Son of God became man now acts on the gifts (CCC 1353).",
+      "es": "El mismo Espíritu Santo que cubrió con su sombra a María para que el Hijo de Dios se hiciera hombre actúa ahora sobre los dones (CEC 1353)."
+     },
+     "ref": "luk 1:35",
+     "youSay": {
+      "en": "We kneel in silent prayer.",
+      "es": "Nos arrodillamos en oración silenciosa."
+     }
+    },
+    {
+     "id": "consecration",
+     "title": {
+      "en": "Institution Narrative and Consecration",
+      "es": "Relato de la institución y consagración"
+     },
+     "posture": "kneel",
+     "what": {
+      "en": "The priest repeats the words Jesus spoke over the bread and the cup at the Last Supper. By the power of the Holy Spirit and Christ's words, the bread and wine become Jesus' Body and Blood. The priest raises each for the people to see and genuflects; bells may ring.",
+      "es": "El sacerdote repite las palabras que Jesús pronunció sobre el pan y el cáliz en la Última Cena. Por el poder del Espíritu Santo y la palabra de Cristo, el pan y el vino se convierten en el Cuerpo y la Sangre de Jesús. El sacerdote eleva cada uno para que el pueblo lo vea y hace genuflexión; puede sonar la campanilla."
+     },
+     "why": {
+      "en": "Jesus commanded, \"Do this in memory of me.\" Catholics believe he is truly, really, and substantially present under the appearances of bread and wine, and that his one sacrifice on the Cross is made present.",
+      "es": "Jesús mandó: \"Hagan esto en memoria mía\". Los católicos creemos que Él está verdadera, real y sustancialmente presente bajo las apariencias de pan y vino, y que su único sacrificio en la Cruz se hace presente."
+     },
+     "ref": "luk 22:19-20",
+     "youSay": {
+      "en": "We kneel and look at the Host and the chalice as they are raised; many pray silently, \"My Lord and my God.\"",
+      "es": "Permanecemos de rodillas y miramos la Hostia y el cáliz cuando se elevan; muchos dicen en silencio: \"Señor mío y Dios mío\"."
+     }
+    },
+    {
+     "id": "mystery-of-faith",
+     "title": {
+      "en": "The Mystery of Faith",
+      "es": "Misterio de la fe"
+     },
+     "posture": "kneel",
+     "what": {
+      "en": "The priest announces \"The mystery of faith,\" and the people respond with an acclamation proclaiming Christ's death, resurrection, and coming again.",
+      "es": "El sacerdote anuncia \"Este es el sacramento de nuestra fe\" (o \"Misterio de la fe\") y el pueblo responde con una aclamación que proclama la muerte, la resurrección y la venida de Cristo."
+     },
+     "why": {
+      "en": "As Saint Paul wrote, every time we eat this bread and drink this cup we proclaim the Lord's death until he comes.",
+      "es": "Como escribió san Pablo, cada vez que comemos este pan y bebemos este cáliz anunciamos la muerte del Señor hasta que Él venga."
+     },
+     "ref": "1co 11:26",
+     "youSay": {
+      "en": "We sing or say one of the memorial acclamations (the words are usually in the missalette or on screen).",
+      "es": "Cantamos o decimos una de las aclamaciones (las palabras suelen estar en el misal del pueblo o en la pantalla)."
+     }
+    },
+    {
+     "id": "doxology-great-amen",
+     "title": {
+      "en": "Doxology and Great Amen",
+      "es": "Doxología y gran Amén"
+     },
+     "posture": "kneel",
+     "what": {
+      "en": "The Eucharistic Prayer continues with prayers for the Church, the living and the dead, and remembrance of Mary and the saints. It ends as the priest lifts the Body and Blood of Christ and gives all glory to the Father through, with, and in Christ, in the unity of the Holy Spirit.",
+      "es": "La Plegaria eucarística continúa con oraciones por la Iglesia, los vivos y los difuntos, y el recuerdo de María y los santos. Termina cuando el sacerdote eleva el Cuerpo y la Sangre de Cristo y da toda la gloria al Padre por Cristo, con Él y en Él, en la unidad del Espíritu Santo."
+     },
+     "why": {
+      "en": "\"Amen\" means \"so be it\" or \"yes, it is true.\" This is the people's great \"yes\" to the entire prayer the priest has offered in their name.",
+      "es": "\"Amén\" significa \"así sea\" o \"sí, es verdad\". Es el gran \"sí\" del pueblo a toda la plegaria que el sacerdote ha ofrecido en su nombre."
+     },
+     "ref": "2co 1:20",
+     "youSay": {
+      "en": "We sing or say the Great Amen, often repeated joyfully.",
+      "es": "Cantamos o decimos el gran Amén, a menudo repetido con alegría."
+     }
+    },
+    {
+     "id": "our-father",
+     "title": {
+      "en": "The Lord's Prayer",
+      "es": "Padre nuestro"
+     },
+     "posture": "stand",
+     "what": {
+      "en": "Everyone prays the Our Father together. The priest continues with a prayer for deliverance and peace, and we conclude with a doxology praising God's kingdom, power, and glory.",
+      "es": "Todos rezamos juntos el Padrenuestro. El sacerdote continúa con una oración pidiendo ser librados del mal y la paz, y concluimos con una aclamación que alaba el reino, el poder y la gloria de Dios."
+     },
+     "why": {
+      "en": "Jesus taught us this prayer himself; we ask for our daily bread just before receiving the Bread of Life, and for forgiveness as we forgive.",
+      "es": "Jesús mismo nos enseñó esta oración; pedimos el pan de cada día justo antes de recibir el Pan de vida, y el perdón así como nosotros perdonamos."
+     },
+     "ref": "mat 6:9-13",
+     "youSay": {
+      "en": "We stand and pray the Our Father aloud (some extend their hands or hold hands, according to local custom), then the closing acclamation.",
+      "es": "Nos ponemos de pie y rezamos el Padrenuestro en voz alta (algunos extienden las manos o se toman de las manos, según la costumbre local), y luego la aclamación final."
+     }
+    },
+    {
+     "id": "sign-of-peace",
+     "title": {
+      "en": "Sign of Peace",
+      "es": "Rito de la paz"
+     },
+     "posture": "stand",
+     "what": {
+      "en": "The priest prays for the Church's peace and unity and wishes the Lord's peace to all; the deacon or priest may invite us to offer each other a sign of peace.",
+      "es": "El sacerdote ora por la paz y la unidad de la Iglesia y desea a todos la paz del Señor; el diácono o el sacerdote puede invitarnos a darnos un signo de paz."
+     },
+     "why": {
+      "en": "Jesus gave his peace to the disciples and taught us to be reconciled with others before bringing our gift to the altar.",
+      "es": "Jesús dio su paz a los discípulos y nos enseñó a reconciliarnos con los demás antes de presentar nuestra ofrenda en el altar."
+     },
+     "ref": "jhn 14:27",
+     "youSay": {
+      "en": "We answer \"And with your spirit,\" then offer those near us a handshake, nod, or other local sign, saying \"Peace be with you.\"",
+      "es": "Respondemos \"Y con tu espíritu\" y damos a quienes están cerca un apretón de manos, una inclinación u otro signo local, diciendo \"La paz esté contigo\"."
+     }
+    },
+    {
+     "id": "lamb-of-god",
+     "title": {
+      "en": "Lamb of God and Breaking of the Bread",
+      "es": "Cordero de Dios y fracción del pan"
+     },
+     "posture": "stand",
+     "what": {
+      "en": "While the priest breaks the consecrated Host and places a small piece in the chalice, everyone sings or says the Lamb of God, asking for mercy and peace.",
+      "es": "Mientras el sacerdote parte la Hostia consagrada y deja caer una pequeña parte en el cáliz, todos cantamos o decimos el Cordero de Dios, pidiendo misericordia y paz."
+     },
+     "why": {
+      "en": "John the Baptist called Jesus \"the Lamb of God, who takes away the sin of the world.\" The breaking of the bread was so central that the first Christians called the whole Mass by that name.",
+      "es": "Juan el Bautista llamó a Jesús \"el Cordero de Dios que quita el pecado del mundo\". La fracción del pan era tan central que los primeros cristianos llamaban así a toda la Misa."
+     },
+     "ref": "jhn 1:29",
+     "youSay": {
+      "en": "We sing or say the Lamb of God; in the United States we kneel when it ends.",
+      "es": "Cantamos o decimos el Cordero de Dios; en Estados Unidos nos arrodillamos cuando termina."
+     }
+    },
+    {
+     "id": "invitation-to-communion",
+     "title": {
+      "en": "Invitation to Communion",
+      "es": "Invitación a la Comunión"
+     },
+     "posture": "kneel",
+     "what": {
+      "en": "The priest holds up the Host above the chalice, presents Jesus as the Lamb of God, and calls blessed those invited to his supper.",
+      "es": "El sacerdote muestra la Hostia sobre el cáliz, presenta a Jesús como el Cordero de Dios y llama dichosos a los invitados a su cena."
+     },
+     "why": {
+      "en": "Our humble reply echoes the Roman centurion who told Jesus he was not worthy to have him under his roof, but trusted that his word alone could heal.",
+      "es": "Nuestra humilde respuesta hace eco del centurión romano que dijo a Jesús que no era digno de que entrara bajo su techo, pero confió en que su sola palabra bastaba para sanar."
+     },
+     "ref": "mat 8:8",
+     "youSay": {
+      "en": "We respond together, in the centurion's spirit, that we are not worthy but that the Lord's word can heal our soul.",
+      "es": "Respondemos juntos, con el espíritu del centurión, que no somos dignos, pero que una palabra del Señor bastará para sanarnos."
+     }
+    },
+    {
+     "id": "communion",
+     "title": {
+      "en": "Holy Communion",
+      "es": "Sagrada Comunión"
+     },
+     "posture": "stand",
+     "what": {
+      "en": "The faithful come forward to receive the Body of Christ, and the Precious Blood if offered. Catholics who are properly prepared, in a state of grace (having confessed any mortal sin) and having kept the one-hour fast, may receive. Before receiving, make a bow of the head. The minister says \"The Body of Christ\" (or \"The Blood of Christ\"), and you answer \"Amen.\" You may receive the Host on the tongue, or in the hand by placing one hand under the other as a throne and consuming the Host right away before stepping aside. Christ is wholly present even under one kind alone (CCC 1390).",
+      "es": "Los fieles se acercan a recibir el Cuerpo de Cristo, y la Sangre de Cristo si se ofrece. Pueden comulgar los católicos debidamente preparados: en estado de gracia (habiendo confesado todo pecado mortal) y habiendo guardado el ayuno de una hora. Antes de recibir, haz una inclinación de cabeza. El ministro dice \"El Cuerpo de Cristo\" (o \"La Sangre de Cristo\") y respondes \"Amén\". Puedes recibir la Hostia en la lengua, o en la mano, colocando una mano debajo de la otra como un trono y consumiéndola de inmediato antes de apartarte. Cristo está presente por entero aun bajo una sola especie (CEC 1390)."
+     },
+     "why": {
+      "en": "Jesus promised that whoever eats this bread will live forever. Because it is truly him, Saint Paul urged believers to examine themselves before receiving. Communion is also a sign of full unity in faith, so Christians not in full communion with the Catholic Church, and Catholics not prepared to receive, do not receive (Code of Canon Law, can. 844, 916).",
+      "es": "Jesús prometió que quien coma de este pan vivirá para siempre. Porque es verdaderamente Él, san Pablo pidió a los creyentes que se examinaran antes de comulgar. La Comunión es también signo de plena unidad en la fe; por eso los cristianos que no están en plena comunión con la Iglesia católica, y los católicos que no están preparados, no comulgan (Código de Derecho Canónico, cc. 844 y 916)."
+     },
+     "ref": "jhn 6:51",
+     "youSay": {
+      "en": "We sing the Communion hymn and come forward if we are receiving. Anyone not receiving is welcome to stay in the pew and pray, or, where the parish invites it, to come forward with arms crossed over the chest to receive a blessing. Afterward we return to our place to kneel or sit in silent thanksgiving.",
+      "es": "Cantamos el canto de Comunión y nos acercamos si vamos a comulgar. Quien no comulga puede quedarse en la banca orando o, donde la parroquia lo invite, acercarse con los brazos cruzados sobre el pecho para recibir una bendición. Después volvemos a nuestro lugar para arrodillarnos o sentarnos en acción de gracias silenciosa."
+     }
+    },
+    {
+     "id": "prayer-after-communion",
+     "title": {
+      "en": "Prayer after Communion",
+      "es": "Oración después de la Comunión"
+     },
+     "posture": "stand",
+     "what": {
+      "en": "After a time of silence or a hymn of praise, the priest invites us to pray and asks that the sacrament we received bear fruit in our lives.",
+      "es": "Tras un tiempo de silencio o un canto de alabanza, el sacerdote nos invita a orar y pide que el sacramento recibido dé fruto en nuestra vida."
+     },
+     "why": {
+      "en": "Like the disciples at Emmaus who recognized Jesus in the breaking of the bread, we give thanks for having met him.",
+      "es": "Como los discípulos de Emaús, que reconocieron a Jesús al partir el pan, damos gracias por haberlo encontrado."
+     },
+     "ref": "luk 24:30-31",
+     "youSay": {
+      "en": "We stand and answer \"Amen.\"",
+      "es": "Nos ponemos de pie y respondemos \"Amén\"."
+     }
+    }
+   ]
+  },
+  {
+   "id": "concluding-rites",
+   "title": {
+    "en": "Concluding Rites",
+    "es": "Ritos de conclusión"
+   },
+   "steps": [
+    {
+     "id": "announcements",
+     "title": {
+      "en": "Announcements",
+      "es": "Avisos"
+     },
+     "posture": "sit",
+     "what": {
+      "en": "Brief parish announcements may be made: upcoming events, ministries, or needs of the community.",
+      "es": "Pueden darse breves avisos parroquiales: próximos eventos, ministerios o necesidades de la comunidad."
+     },
+     "why": {
+      "en": "The Mass sends us back into the life of our parish family; the first Christians, too, devoted themselves to fellowship as well as to the breaking of bread.",
+      "es": "La Misa nos devuelve a la vida de nuestra familia parroquial; también los primeros cristianos perseveraban en la comunión fraterna además de en la fracción del pan."
+     },
+     "ref": "act 2:42",
+     "youSay": {
+      "en": "We sit (or remain standing, according to local custom) and listen.",
+      "es": "Nos sentamos (o permanecemos de pie, según la costumbre local) y escuchamos."
+     }
+    },
+    {
+     "id": "blessing",
+     "title": {
+      "en": "Final Blessing",
+      "es": "Bendición final"
+     },
+     "posture": "stand",
+     "what": {
+      "en": "The priest greets us once more and blesses us in the name of the Father, and of the Son, and of the Holy Spirit. On special days the blessing may be longer, with an invitation to bow our heads.",
+      "es": "El sacerdote nos saluda una vez más y nos bendice en el nombre del Padre, y del Hijo, y del Espíritu Santo. En días especiales la bendición puede ser más solemne, con una invitación a inclinar la cabeza."
+     },
+     "why": {
+      "en": "God's people have been blessed by his priests since the time of Aaron.",
+      "es": "El pueblo de Dios ha sido bendecido por sus sacerdotes desde los tiempos de Aarón."
+     },
+     "ref": "num 6:24-26",
+     "youSay": {
+      "en": "We answer \"And with your spirit,\" make the Sign of the Cross, and say \"Amen.\"",
+      "es": "Respondemos \"Y con tu espíritu\", nos santiguamos y decimos \"Amén\"."
+     }
+    },
+    {
+     "id": "dismissal",
+     "title": {
+      "en": "Dismissal",
+      "es": "Despedida"
+     },
+     "posture": "stand",
+     "what": {
+      "en": "The deacon or priest sends us out, with words such as \"Go in peace\" or a call to announce the Gospel of the Lord.",
+      "es": "El diácono o el sacerdote nos envía, con palabras como \"Pueden ir en paz\" o una invitación a anunciar el Evangelio del Señor."
+     },
+     "why": {
+      "en": "The word \"Mass\" comes from the Latin dismissal \"Ite, missa est\": we are sent on mission, as Jesus sent his disciples into the whole world.",
+      "es": "La palabra \"Misa\" proviene de la despedida latina \"Ite, missa est\": somos enviados en misión, como Jesús envió a sus discípulos a todo el mundo."
+     },
+     "ref": "mrk 16:15",
+     "youSay": {
+      "en": "We answer \"Thanks be to God.\"",
+      "es": "Respondemos \"Demos gracias a Dios\"."
+     }
+    },
+    {
+     "id": "recessional",
+     "title": {
+      "en": "Recessional",
+      "es": "Canto final y salida"
+     },
+     "posture": "stand",
+     "what": {
+      "en": "The priest kisses the altar, and the ministers process out, often during a closing hymn.",
+      "es": "El sacerdote besa el altar y los ministros salen en procesión, a menudo durante un canto final."
+     },
+     "why": {
+      "en": "We leave strengthened to live what we have celebrated. Many people stay a moment afterward to pray quietly.",
+      "es": "Salimos fortalecidos para vivir lo que hemos celebrado. Muchos se quedan un momento después para orar en silencio."
+     },
+     "ref": null,
+     "youSay": {
+      "en": "We sing the closing hymn and leave after the ministers have passed (genuflecting toward the tabernacle on the way out is customary).",
+      "es": "Cantamos el canto final y salimos después de que hayan pasado los ministros (es costumbre hacer genuflexión hacia el sagrario al salir)."
+     }
+    }
+   ]
+  }
+ ],
+ "tips": [
+  {
+   "en": "Fast for one hour before Communion: no food or drink except water and medicine. The elderly, the sick, and those caring for them are excused (CCC 1387; Code of Canon Law, can. 919).",
+   "es": "Guarda ayuno de una hora antes de comulgar: nada de comida ni bebida, salvo agua y medicinas. Las personas mayores, los enfermos y quienes los cuidan están dispensados (CEC 1387; Código de Derecho Canónico, c. 919)."
+  },
+  {
+   "en": "Catholics are obliged to attend Mass on every Sunday and holy day of obligation; the Saturday evening (vigil) Mass counts for Sunday. Missing deliberately without a serious reason, like illness or caring for an infant or sick person, is a grave matter (CCC 2180-2181).",
+   "es": "Los católicos tienen la obligación de asistir a Misa todos los domingos y días de precepto; la Misa del sábado por la tarde (vespertina) cumple el precepto dominical. Faltar deliberadamente sin un motivo grave, como enfermedad o el cuidado de un bebé o de un enfermo, es materia grave (CEC 2180-2181)."
+  },
+  {
+   "en": "In the US, holy days of obligation include Mary, Mother of God (Jan. 1), the Ascension (moved to Sunday in most dioceses), the Assumption (Aug. 15), All Saints (Nov. 1), the Immaculate Conception (Dec. 8), and Christmas (Dec. 25). Some are not obligatory in certain years, so check your parish bulletin.",
+   "es": "En Estados Unidos, los días de precepto incluyen Santa María, Madre de Dios (1 de enero), la Ascensión (trasladada al domingo en la mayoría de las diócesis), la Asunción (15 de agosto), Todos los Santos (1 de noviembre), la Inmaculada Concepción (8 de diciembre) y Navidad (25 de diciembre). Algunos no son obligatorios ciertos años; consulta el boletín parroquial."
+  },
+  {
+   "en": "As you enter, dip your fingers in the holy water font and make the Sign of the Cross, a reminder of your Baptism.",
+   "es": "Al entrar, moja los dedos en la pila de agua bendita y haz la Señal de la Cruz, en recuerdo de tu Bautismo."
+  },
+  {
+   "en": "Before entering your pew, genuflect (touch your right knee to the floor) toward the tabernacle, where the Blessed Sacrament is kept; a lit sanctuary lamp shows that Jesus is present. If you can't genuflect, a deep bow is fine.",
+   "es": "Antes de entrar en la banca, haz genuflexión (dobla la rodilla derecha hasta el suelo) hacia el sagrario, donde se reserva el Santísimo Sacramento; una lámpara encendida indica que Jesús está presente. Si no puedes hacer genuflexión, basta una inclinación profunda."
+  },
+  {
+   "en": "Arrive a few minutes early to quiet your heart, silence your phone, and look over the day's readings. The readings for every day are published online and in most missalettes.",
+   "es": "Llega unos minutos antes para serenar tu corazón, silenciar tu celular y repasar las lecturas del día. Las lecturas de cada día se publican en internet y en la mayoría de los misales del pueblo."
+  },
+  {
+   "en": "If you are aware of a mortal sin, go to confession before receiving Communion (CCC 1385). You can still attend Mass and pray; consider making a spiritual communion, asking Jesus to come into your heart.",
+   "es": "Si tienes conciencia de un pecado mortal, confiésate antes de comulgar (CEC 1385). Puedes asistir a Misa y orar igualmente; considera hacer una comunión espiritual, pidiendo a Jesús que venga a tu corazón."
+  },
+  {
+   "en": "Not Catholic, or not yet receiving? You are very welcome. Join in the prayers and songs you are comfortable with, and remain in the pew during Communion or, if the parish invites it, come forward with arms crossed for a blessing.",
+   "es": "¿No eres católico o todavía no comulgas? Eres muy bienvenido. Únete a las oraciones y cantos con los que te sientas cómodo, y quédate en la banca durante la Comunión o, si la parroquia lo invita, acércate con los brazos cruzados para recibir una bendición."
+  },
+  {
+   "en": "Don't worry about posture; just follow the people around you. If you can't stand or kneel because of age, illness, or injury, simply sit.",
+   "es": "No te preocupes por las posturas; sigue a las personas a tu alrededor. Si no puedes estar de pie o de rodillas por edad, enfermedad o una lesión, simplemente siéntate."
+  },
+  {
+   "en": "Children are welcome at Mass. Bring them close to the front so they can see, quietly point out what is happening, and don't be embarrassed by a little noise; many parishes also have a cry room or a children's Liturgy of the Word.",
+   "es": "Los niños son bienvenidos en Misa. Siéntate cerca del frente para que puedan ver, explícales en voz baja lo que sucede y no te avergüences por un poco de ruido; muchas parroquias tienen también un cuarto para niños o una Liturgia de la Palabra para niños."
+  },
+  {
+   "en": "Dress with simple respect, as for meeting someone important, and stay until the final hymn ends when you can.",
+   "es": "Vístete con un respeto sencillo, como para encontrarte con alguien importante, y quédate hasta que termine el canto final cuando te sea posible."
+  }
+ ]
+}

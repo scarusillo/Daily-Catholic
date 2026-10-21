@@ -9,39 +9,39 @@
   "first": "1jn 2:29-3:6",
   "psalm": "psa 98:1-6",
   "gospel": "jhn 1:29-34",
-  "confidence": "medium"
+  "confidence": "high"
  },
- "christmas-0105": {
+ "christmas-after-epiphany-monday": {
   "first": "1jn 3:22-4:6",
   "psalm": "psa 2:7-12",
   "gospel": "mat 4:12-25",
   "confidence": "medium"
  },
- "christmas-0106": {
+ "christmas-after-epiphany-tuesday": {
   "first": "1jn 4:7-10",
   "psalm": "psa 72:1-8",
   "gospel": "mrk 6:34-44",
-  "confidence": "medium"
+  "confidence": "high"
  },
- "christmas-0107": {
+ "christmas-after-epiphany-wednesday": {
   "first": "1jn 4:11-18",
   "psalm": "psa 72:1-13",
   "gospel": "mrk 6:45-52",
-  "confidence": "medium"
+  "confidence": "high"
  },
- "christmas-0108": {
+ "christmas-after-epiphany-thursday": {
   "first": "1jn 4:19-5:4",
   "psalm": "psa 72:1-17",
   "gospel": "luk 4:14-22",
-  "confidence": "medium"
+  "confidence": "high"
  },
- "christmas-0109": {
+ "christmas-after-epiphany-friday": {
   "first": "1jn 5:5-13",
   "psalm": "psa 147:12-20",
   "gospel": "luk 5:12-16",
-  "confidence": "medium"
+  "confidence": "high"
  },
- "christmas-0110": {
+ "christmas-after-epiphany-saturday": {
   "first": "1jn 5:14-21",
   "psalm": "psa 149:1-9",
   "gospel": "jhn 3:22-30",
@@ -568,12 +568,6 @@
   "psalm": "psa 96:1-13",
   "gospel": "jhn 1:1-18",
   "confidence": "high"
- },
- "christmas-0104": {
-  "first": "1jn 3:22-4:6",
-  "psalm": "psa 2:7-12",
-  "gospel": "mat 4:12-25",
-  "confidence": "medium"
  },
  "lent-4-thursday": {
   "first": "exo 32:7-14",
