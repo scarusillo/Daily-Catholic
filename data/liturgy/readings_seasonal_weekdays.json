@@ -1,0 +1,632 @@
+{
+ "christmas-0102": {
+  "first": "1jn 2:22-28",
+  "psalm": "psa 98:1-4",
+  "gospel": "jhn 1:19-28",
+  "confidence": "high"
+ },
+ "christmas-0103": {
+  "first": "1jn 2:29-3:6",
+  "psalm": "psa 98:1-6",
+  "gospel": "jhn 1:29-34",
+  "confidence": "medium"
+ },
+ "christmas-0105": {
+  "first": "1jn 3:22-4:6",
+  "psalm": "psa 2:7-12",
+  "gospel": "mat 4:12-25",
+  "confidence": "medium"
+ },
+ "christmas-0106": {
+  "first": "1jn 4:7-10",
+  "psalm": "psa 72:1-8",
+  "gospel": "mrk 6:34-44",
+  "confidence": "medium"
+ },
+ "christmas-0107": {
+  "first": "1jn 4:11-18",
+  "psalm": "psa 72:1-13",
+  "gospel": "mrk 6:45-52",
+  "confidence": "medium"
+ },
+ "christmas-0108": {
+  "first": "1jn 4:19-5:4",
+  "psalm": "psa 72:1-17",
+  "gospel": "luk 4:14-22",
+  "confidence": "medium"
+ },
+ "christmas-0109": {
+  "first": "1jn 5:5-13",
+  "psalm": "psa 147:12-20",
+  "gospel": "luk 5:12-16",
+  "confidence": "medium"
+ },
+ "christmas-0110": {
+  "first": "1jn 5:14-21",
+  "psalm": "psa 149:1-9",
+  "gospel": "jhn 3:22-30",
+  "confidence": "high"
+ },
+ "lent-0-thursday": {
+  "first": "deu 30:15-20",
+  "psalm": "psa 1:1-6",
+  "gospel": "luk 9:22-25",
+  "confidence": "high"
+ },
+ "lent-0-friday": {
+  "first": "isa 58:1-9",
+  "psalm": "psa 51:1-17",
+  "gospel": "mat 9:14-15",
+  "confidence": "high"
+ },
+ "lent-0-saturday": {
+  "first": "isa 58:9-14",
+  "psalm": "psa 86:1-6",
+  "gospel": "luk 5:27-32",
+  "confidence": "high"
+ },
+ "lent-1-monday": {
+  "first": "lev 19:1-18",
+  "psalm": "psa 19:7-14",
+  "gospel": "mat 25:31-46",
+  "confidence": "medium"
+ },
+ "lent-1-tuesday": {
+  "first": "isa 55:10-11",
+  "psalm": "psa 34:3-18",
+  "gospel": "mat 6:7-15",
+  "confidence": "high"
+ },
+ "lent-1-wednesday": {
+  "first": "jon 3:1-10",
+  "psalm": "psa 51:1-17",
+  "gospel": "luk 11:29-32",
+  "confidence": "high"
+ },
+ "lent-1-thursday": {
+  "first": "est 4:29-42",
+  "psalm": "psa 138:1-8",
+  "gospel": "mat 7:7-12",
+  "confidence": "medium"
+ },
+ "lent-1-friday": {
+  "first": "ezk 18:21-28",
+  "psalm": "psa 130:1-8",
+  "gospel": "mat 5:20-26",
+  "confidence": "high"
+ },
+ "lent-1-saturday": {
+  "first": "deu 26:16-19",
+  "psalm": "psa 119:1-8",
+  "gospel": "mat 5:43-48",
+  "confidence": "high"
+ },
+ "lent-2-monday": {
+  "first": "dan 9:4-10",
+  "psalm": "psa 79:8-13",
+  "gospel": "luk 6:36-38",
+  "confidence": "high"
+ },
+ "lent-2-tuesday": {
+  "first": "isa 1:10-20",
+  "psalm": "psa 50:8-23",
+  "gospel": "mat 23:1-12",
+  "confidence": "medium"
+ },
+ "lent-2-wednesday": {
+  "first": "jer 18:18-20",
+  "psalm": "psa 31:4-15",
+  "gospel": "mat 20:17-28",
+  "confidence": "high"
+ },
+ "lent-2-thursday": {
+  "first": "jer 17:5-10",
+  "psalm": "psa 1:1-6",
+  "gospel": "luk 16:19-31",
+  "confidence": "high"
+ },
+ "lent-2-friday": {
+  "first": "gen 37:3-28",
+  "psalm": "psa 105:16-21",
+  "gospel": "mat 21:33-46",
+  "confidence": "medium"
+ },
+ "lent-2-saturday": {
+  "first": "mic 7:14-20",
+  "psalm": "psa 103:1-12",
+  "gospel": "luk 15:1-32",
+  "confidence": "medium"
+ },
+ "lent-3-monday": {
+  "first": "2ki 5:1-15",
+  "psalm": "psa 42:1-43:4",
+  "gospel": "luk 4:24-30",
+  "confidence": "high"
+ },
+ "lent-3-tuesday": {
+  "first": "dan 3:25-43",
+  "psalm": "psa 25:4-9",
+  "gospel": "mat 18:21-35",
+  "confidence": "medium"
+ },
+ "lent-3-wednesday": {
+  "first": "deu 4:1-9",
+  "psalm": "psa 147:12-20",
+  "gospel": "mat 5:17-19",
+  "confidence": "high"
+ },
+ "lent-3-thursday": {
+  "first": "jer 7:23-28",
+  "psalm": "psa 95:1-9",
+  "gospel": "luk 11:14-23",
+  "confidence": "high"
+ },
+ "lent-3-friday": {
+  "first": "hos 14:1-9",
+  "psalm": "psa 81:5-16",
+  "gospel": "mrk 12:28-34",
+  "confidence": "high"
+ },
+ "lent-3-saturday": {
+  "first": "hos 6:1-6",
+  "psalm": "psa 51:1-19",
+  "gospel": "luk 18:9-14",
+  "confidence": "high"
+ },
+ "lent-4-monday": {
+  "first": "isa 65:17-21",
+  "psalm": "psa 30:1-12",
+  "gospel": "jhn 4:43-54",
+  "confidence": "high"
+ },
+ "lent-4-tuesday": {
+  "first": "ezk 47:1-12",
+  "psalm": "psa 46:1-8",
+  "gospel": "jhn 5:1-16",
+  "confidence": "high"
+ },
+ "lent-4-wednesday": {
+  "first": "isa 49:8-15",
+  "psalm": "psa 145:8-18",
+  "gospel": "jhn 5:17-30",
+  "confidence": "high"
+ },
+ "lent-4-friday": {
+  "first": "wis 2:12-22",
+  "psalm": "psa 34:16-22",
+  "gospel": "jhn 7:1-30",
+  "confidence": "medium"
+ },
+ "lent-4-saturday": {
+  "first": "jer 11:18-20",
+  "psalm": "psa 7:1-11",
+  "gospel": "jhn 7:40-53",
+  "confidence": "high"
+ },
+ "lent-5-monday": {
+  "first": "dan 13:1-62",
+  "psalm": "psa 23:1-6",
+  "gospel": "jhn 8:1-11",
+  "confidence": "high"
+ },
+ "lent-5-tuesday": {
+  "first": "num 21:4-9",
+  "psalm": "psa 102:1-20",
+  "gospel": "jhn 8:21-30",
+  "confidence": "high"
+ },
+ "lent-5-thursday": {
+  "first": "gen 17:3-9",
+  "psalm": "psa 105:4-9",
+  "gospel": "jhn 8:51-59",
+  "confidence": "high"
+ },
+ "lent-5-friday": {
+  "first": "jer 20:10-13",
+  "psalm": "psa 18:1-6",
+  "gospel": "jhn 10:31-42",
+  "confidence": "high"
+ },
+ "lent-5-saturday": {
+  "first": "ezk 37:21-28",
+  "psalm": "jer 31:10-13",
+  "gospel": "jhn 11:45-56",
+  "confidence": "high"
+ },
+ "easter-2-monday": {
+  "first": "act 4:23-31",
+  "psalm": "psa 2:1-9",
+  "gospel": "jhn 3:1-8",
+  "confidence": "high"
+ },
+ "easter-2-tuesday": {
+  "first": "act 4:32-37",
+  "psalm": "psa 93:1-5",
+  "gospel": "jhn 3:7-15",
+  "confidence": "high"
+ },
+ "easter-2-wednesday": {
+  "first": "act 5:17-26",
+  "psalm": "psa 34:1-8",
+  "gospel": "jhn 3:16-21",
+  "confidence": "high"
+ },
+ "easter-2-thursday": {
+  "first": "act 5:27-33",
+  "psalm": "psa 34:1-19",
+  "gospel": "jhn 3:31-36",
+  "confidence": "high"
+ },
+ "easter-2-friday": {
+  "first": "act 5:34-42",
+  "psalm": "psa 27:1-14",
+  "gospel": "jhn 6:1-15",
+  "confidence": "high"
+ },
+ "easter-2-saturday": {
+  "first": "act 6:1-7",
+  "psalm": "psa 33:1-19",
+  "gospel": "jhn 6:16-21",
+  "confidence": "high"
+ },
+ "easter-3-monday": {
+  "first": "act 6:8-15",
+  "psalm": "psa 119:23-30",
+  "gospel": "jhn 6:22-29",
+  "confidence": "high"
+ },
+ "easter-3-tuesday": {
+  "first": "act 7:51-8:1",
+  "psalm": "psa 31:2-20",
+  "gospel": "jhn 6:30-35",
+  "confidence": "high"
+ },
+ "easter-3-wednesday": {
+  "first": "act 8:1-8",
+  "psalm": "psa 66:1-7",
+  "gospel": "jhn 6:35-40",
+  "confidence": "high"
+ },
+ "easter-3-thursday": {
+  "first": "act 8:26-40",
+  "psalm": "psa 66:8-20",
+  "gospel": "jhn 6:44-51",
+  "confidence": "high"
+ },
+ "easter-3-friday": {
+  "first": "act 9:1-20",
+  "psalm": "psa 117:1-2",
+  "gospel": "jhn 6:52-59",
+  "confidence": "high"
+ },
+ "easter-4-monday": {
+  "first": "act 11:1-18",
+  "psalm": "psa 42:1-43:4",
+  "gospel": "jhn 10:1-10",
+  "confidence": "medium"
+ },
+ "easter-4-tuesday": {
+  "first": "act 11:19-26",
+  "psalm": "psa 87:1-7",
+  "gospel": "jhn 10:22-30",
+  "confidence": "high"
+ },
+ "easter-4-wednesday": {
+  "first": "act 12:24-13:5",
+  "psalm": "psa 67:1-7",
+  "gospel": "jhn 12:44-50",
+  "confidence": "high"
+ },
+ "easter-4-thursday": {
+  "first": "act 13:13-25",
+  "psalm": "psa 89:1-26",
+  "gospel": "jhn 13:16-20",
+  "confidence": "high"
+ },
+ "easter-4-friday": {
+  "first": "act 13:26-33",
+  "psalm": "psa 2:6-11",
+  "gospel": "jhn 14:1-6",
+  "confidence": "high"
+ },
+ "easter-4-saturday": {
+  "first": "act 13:44-52",
+  "psalm": "psa 98:1-4",
+  "gospel": "jhn 14:7-14",
+  "confidence": "high"
+ },
+ "easter-5-monday": {
+  "first": "act 14:5-18",
+  "psalm": "psa 115:1-16",
+  "gospel": "jhn 14:21-26",
+  "confidence": "high"
+ },
+ "easter-5-tuesday": {
+  "first": "act 14:19-28",
+  "psalm": "psa 145:10-21",
+  "gospel": "jhn 14:27-31",
+  "confidence": "high"
+ },
+ "easter-5-wednesday": {
+  "first": "act 15:1-6",
+  "psalm": "psa 122:1-5",
+  "gospel": "jhn 15:1-8",
+  "confidence": "high"
+ },
+ "easter-5-thursday": {
+  "first": "act 15:7-21",
+  "psalm": "psa 96:1-10",
+  "gospel": "jhn 15:9-11",
+  "confidence": "high"
+ },
+ "easter-5-friday": {
+  "first": "act 15:22-31",
+  "psalm": "psa 57:7-11",
+  "gospel": "jhn 15:12-17",
+  "confidence": "high"
+ },
+ "easter-5-saturday": {
+  "first": "act 16:1-10",
+  "psalm": "psa 100:1-5",
+  "gospel": "jhn 15:18-21",
+  "confidence": "high"
+ },
+ "easter-6-monday": {
+  "first": "act 16:11-15",
+  "psalm": "psa 149:1-9",
+  "gospel": "jhn 15:26-16:4",
+  "confidence": "high"
+ },
+ "easter-6-tuesday": {
+  "first": "act 16:22-34",
+  "psalm": "psa 138:1-8",
+  "gospel": "jhn 16:5-11",
+  "confidence": "high"
+ },
+ "easter-6-wednesday": {
+  "first": "act 17:15-18:1",
+  "psalm": "psa 148:1-14",
+  "gospel": "jhn 16:12-15",
+  "confidence": "medium"
+ },
+ "easter-6-friday": {
+  "first": "act 18:9-18",
+  "psalm": "psa 47:1-6",
+  "gospel": "jhn 16:20-23",
+  "confidence": "high"
+ },
+ "easter-6-saturday": {
+  "first": "act 18:23-28",
+  "psalm": "psa 47:1-9",
+  "gospel": "jhn 16:23-28",
+  "confidence": "high"
+ },
+ "easter-7-monday": {
+  "first": "act 19:1-8",
+  "psalm": "psa 68:1-6",
+  "gospel": "jhn 16:29-33",
+  "confidence": "high"
+ },
+ "easter-7-tuesday": {
+  "first": "act 20:17-27",
+  "psalm": "psa 68:9-20",
+  "gospel": "jhn 17:1-11",
+  "confidence": "high"
+ },
+ "easter-7-wednesday": {
+  "first": "act 20:28-38",
+  "psalm": "psa 68:28-35",
+  "gospel": "jhn 17:11-19",
+  "confidence": "high"
+ },
+ "easter-7-thursday": {
+  "first": "act 22:30-23:11",
+  "psalm": "psa 16:1-11",
+  "gospel": "jhn 17:20-26",
+  "confidence": "high"
+ },
+ "easter-7-friday": {
+  "first": "act 25:13-21",
+  "psalm": "psa 103:1-20",
+  "gospel": "jhn 21:15-19",
+  "confidence": "high"
+ },
+ "easter-7-saturday": {
+  "first": "act 28:16-31",
+  "psalm": "psa 11:4-7",
+  "gospel": "jhn 21:20-25",
+  "confidence": "medium"
+ },
+ "advent-1-tuesday": {
+  "first": "isa 11:1-10",
+  "psalm": "psa 72:1-17",
+  "gospel": "luk 10:21-24",
+  "confidence": "high"
+ },
+ "advent-1-wednesday": {
+  "first": "isa 25:6-10",
+  "psalm": "psa 23:1-6",
+  "gospel": "mat 15:29-37",
+  "confidence": "high"
+ },
+ "advent-1-thursday": {
+  "first": "isa 26:1-6",
+  "psalm": "psa 118:1-27",
+  "gospel": "mat 7:21-27",
+  "confidence": "high"
+ },
+ "advent-1-friday": {
+  "first": "isa 29:17-24",
+  "psalm": "psa 27:1-14",
+  "gospel": "mat 9:27-31",
+  "confidence": "high"
+ },
+ "advent-1-saturday": {
+  "first": "isa 30:19-26",
+  "psalm": "psa 147:1-6",
+  "gospel": "mat 9:35-10:8",
+  "confidence": "high"
+ },
+ "advent-2-monday": {
+  "first": "isa 35:1-10",
+  "psalm": "psa 85:8-13",
+  "gospel": "luk 5:17-26",
+  "confidence": "high"
+ },
+ "advent-2-wednesday": {
+  "first": "isa 40:25-31",
+  "psalm": "psa 103:1-10",
+  "gospel": "mat 11:28-30",
+  "confidence": "high"
+ },
+ "advent-2-thursday": {
+  "first": "isa 41:13-20",
+  "psalm": "psa 145:1-13",
+  "gospel": "mat 11:11-15",
+  "confidence": "high"
+ },
+ "advent-2-friday": {
+  "first": "isa 48:17-19",
+  "psalm": "psa 1:1-6",
+  "gospel": "mat 11:16-19",
+  "confidence": "high"
+ },
+ "advent-3-monday": {
+  "first": "num 24:2-17",
+  "psalm": "psa 25:4-9",
+  "gospel": "mat 21:23-27",
+  "confidence": "medium"
+ },
+ "advent-3-tuesday": {
+  "first": "zep 3:1-13",
+  "psalm": "psa 34:1-22",
+  "gospel": "mat 21:28-32",
+  "confidence": "medium"
+ },
+ "advent-3-wednesday": {
+  "first": "isa 45:6-25",
+  "psalm": "psa 85:8-13",
+  "gospel": "luk 7:18-23",
+  "confidence": "medium"
+ },
+ "advent-dec17": {
+  "first": "gen 49:2-10",
+  "psalm": "psa 72:1-17",
+  "gospel": "mat 1:1-17",
+  "confidence": "medium"
+ },
+ "advent-dec18": {
+  "first": "jer 23:5-8",
+  "psalm": "psa 72:1-19",
+  "gospel": "mat 1:18-25",
+  "confidence": "high"
+ },
+ "advent-dec19": {
+  "first": "jdg 13:2-25",
+  "psalm": "psa 71:3-17",
+  "gospel": "luk 1:5-25",
+  "confidence": "medium"
+ },
+ "advent-dec21": {
+  "first": "sng 2:8-14",
+  "psalm": "psa 33:2-21",
+  "gospel": "luk 1:39-45",
+  "confidence": "high"
+ },
+ "advent-dec22": {
+  "first": "1sa 1:24-28",
+  "psalm": "1sa 2:1-8",
+  "gospel": "luk 1:46-56",
+  "confidence": "high"
+ },
+ "advent-dec23": {
+  "first": "mal 3:1-4",
+  "psalm": "psa 25:4-14",
+  "gospel": "luk 1:57-66",
+  "confidence": "medium"
+ },
+ "advent-dec24": {
+  "first": "2sa 7:1-16",
+  "psalm": "psa 89:1-28",
+  "gospel": "luk 1:67-79",
+  "confidence": "high"
+ },
+ "christmas-1229": {
+  "first": "1jn 2:3-11",
+  "psalm": "psa 96:1-6",
+  "gospel": "luk 2:22-35",
+  "confidence": "high"
+ },
+ "christmas-1230": {
+  "first": "1jn 2:12-17",
+  "psalm": "psa 96:7-10",
+  "gospel": "luk 2:36-40",
+  "confidence": "high"
+ },
+ "christmas-1231": {
+  "first": "1jn 2:18-21",
+  "psalm": "psa 96:1-13",
+  "gospel": "jhn 1:1-18",
+  "confidence": "high"
+ },
+ "christmas-0104": {
+  "first": "1jn 3:22-4:6",
+  "psalm": "psa 2:7-12",
+  "gospel": "mat 4:12-25",
+  "confidence": "medium"
+ },
+ "lent-4-thursday": {
+  "first": "exo 32:7-14",
+  "psalm": "psa 106:19-23",
+  "gospel": "jhn 5:31-47",
+  "confidence": "high"
+ },
+ "lent-5-wednesday": {
+  "first": "dan 3:14-20",
+  "psalm": "dan 3:52-56",
+  "gospel": "jhn 8:31-42",
+  "confidence": "medium"
+ },
+ "easter-3-saturday": {
+  "first": "act 9:31-42",
+  "psalm": "psa 116:12-17",
+  "gospel": "jhn 6:60-69",
+  "confidence": "high"
+ },
+ "easter-6-thursday": {
+  "first": "act 18:1-8",
+  "psalm": "psa 98:1-4",
+  "gospel": "jhn 16:16-20",
+  "confidence": "high"
+ },
+ "advent-1-monday": {
+  "first": "isa 2:1-5",
+  "psalm": "psa 122:1-9",
+  "gospel": "mat 8:5-11",
+  "confidence": "high"
+ },
+ "advent-2-tuesday": {
+  "first": "isa 40:1-11",
+  "psalm": "psa 96:1-13",
+  "gospel": "mat 18:12-14",
+  "confidence": "high"
+ },
+ "advent-2-saturday": {
+  "first": "sir 48:1-11",
+  "psalm": "psa 80:1-18",
+  "gospel": "mat 17:9-13",
+  "confidence": "high"
+ },
+ "advent-3-thursday": {
+  "first": "isa 54:1-10",
+  "psalm": "psa 30:1-12",
+  "gospel": "luk 7:24-30",
+  "confidence": "high"
+ },
+ "advent-dec20": {
+  "first": "isa 7:10-14",
+  "psalm": "psa 24:1-6",
+  "gospel": "luk 1:26-38",
+  "confidence": "high"
+ }
+}

@@ -1,0 +1,2821 @@
+{
+"mother_of_god": {
+"title": "Solemnity of Mary, the Holy Mother of God",
+"rank": "solemnity",
+"colour": "white",
+"dates": [
+"2026-01-01",
+"2027-01-01",
+"2028-01-01"
+]
+},
+"pre_epiphany_friday_january2": {
+"title": "Friday of Christmas Time: January 2",
+"rank": "ferial",
+"colour": "white",
+"dates": [
+"2026-01-02"
+]
+},
+"basil_gregory": {
+"title": "Saints Basil the Great and Gregory Nazianzen, Bishops and Doctors of the Church",
+"rank": "commemoration",
+"colour": "white",
+"dates": [
+"2026-01-02",
+"2027-01-02"
+]
+},
+"pre_epiphany_saturday_january3": {
+"title": "Saturday of Christmas Time: January 3",
+"rank": "ferial",
+"colour": "white",
+"dates": [
+"2026-01-03"
+]
+},
+"name_jesus": {
+"title": "The Most Holy Name of Jesus",
+"rank": "commemoration",
+"colour": "white",
+"dates": [
+"2026-01-03",
+"2028-01-03"
+]
+},
+"epiphany_vigil": {
+"title": "The Epiphany of the Lord: At the Vigil Mass",
+"rank": "Primary liturgical days",
+"colour": "white",
+"dates": [
+"2026-01-03",
+"2027-01-02",
+"2028-01-01"
+]
+},
+"epiphany": {
+"title": "The Epiphany of the Lord",
+"rank": "Primary liturgical days",
+"colour": "white",
+"dates": [
+"2026-01-04",
+"2027-01-03",
+"2028-01-02"
+]
+},
+"neumann": {
+"title": "Saint John Neumann, Bishop",
+"rank": "memorial",
+"colour": "white",
+"dates": [
+"2026-01-05",
+"2027-01-05",
+"2028-01-05"
+]
+},
+"bessette": {
+"title": "Saint Andr\u00e9 Bessette, Religious",
+"rank": "optional memorial",
+"colour": "white",
+"dates": [
+"2026-01-06",
+"2027-01-06",
+"2028-01-06"
+]
+},
+"raymond": {
+"title": "Saint Raymond of Penyafort, Priest",
+"rank": "optional memorial",
+"colour": "white",
+"dates": [
+"2026-01-07",
+"2027-01-07",
+"2028-01-07"
+]
+},
+"baptism_of_lord": {
+"title": "The Baptism of the Lord",
+"rank": "feast",
+"colour": "white",
+"dates": [
+"2026-01-11",
+"2027-01-10",
+"2028-01-09"
+]
+},
+"hilary": {
+"title": "Saint Hilary, Bishop and Doctor of the Church",
+"rank": "optional memorial",
+"colour": "white",
+"dates": [
+"2026-01-13",
+"2027-01-13",
+"2028-01-13"
+]
+},
+"anthony_of_egypt": {
+"title": "Saint Anthony, Abbot",
+"rank": "memorial",
+"colour": "white",
+"dates": [
+"2026-01-17",
+"2028-01-17"
+]
+},
+"fabian": {
+"title": "Saint Fabian, Pope and Martyr",
+"rank": "optional memorial",
+"colour": "red",
+"dates": [
+"2026-01-20",
+"2027-01-20",
+"2028-01-20"
+]
+},
+"sebastian": {
+"title": "Saint Sebastian, Martyr",
+"rank": "optional memorial",
+"colour": "red",
+"dates": [
+"2026-01-20",
+"2027-01-20",
+"2028-01-20"
+]
+},
+"agnes": {
+"title": "Saint Agnes, Virgin and Martyr",
+"rank": "memorial",
+"colour": "red",
+"dates": [
+"2026-01-21",
+"2027-01-21",
+"2028-01-21"
+]
+},
+"unborn_children": {
+"title": "Day of Prayer for the Legal Protection of Unborn Children",
+"rank": "optional memorial",
+"colour": "white",
+"dates": [
+"2026-01-22",
+"2027-01-22",
+"2028-01-22"
+]
+},
+"vincent_deacon": {
+"title": "Saint Vincent, Deacon and Martyr",
+"rank": "optional memorial",
+"colour": "red",
+"dates": [
+"2026-01-23",
+"2027-01-23"
+]
+},
+"marianne_cope": {
+"title": "Saint Marianne Cope, Virgin",
+"rank": "optional memorial",
+"colour": "white",
+"dates": [
+"2026-01-23",
+"2027-01-23"
+]
+},
+"francis_de_sales": {
+"title": "Saint Francis de Sales, Bishop and Doctor of the Church",
+"rank": "memorial",
+"colour": "white",
+"dates": [
+"2026-01-24",
+"2028-01-24"
+]
+},
+"timothy_titus": {
+"title": "Saints Timothy and Titus, Bishops",
+"rank": "memorial",
+"colour": "white",
+"dates": [
+"2026-01-26",
+"2027-01-26",
+"2028-01-26"
+]
+},
+"merici": {
+"title": "Saint Angela Merici, Virgin",
+"rank": "optional memorial",
+"colour": "white",
+"dates": [
+"2026-01-27",
+"2027-01-27",
+"2028-01-27"
+]
+},
+"aquinas": {
+"title": "Saint Thomas Aquinas, Priest and Doctor of the Church",
+"rank": "memorial",
+"colour": "white",
+"dates": [
+"2026-01-28",
+"2027-01-28",
+"2028-01-28"
+]
+},
+"bosco": {
+"title": "Saint John Bosco, Priest",
+"rank": "memorial",
+"colour": "white",
+"dates": [
+"2026-01-31",
+"2028-01-31"
+]
+},
+"presentation_of_lord": {
+"title": "The Presentation of the Lord",
+"rank": "feast",
+"colour": "white",
+"dates": [
+"2026-02-02",
+"2027-02-02",
+"2028-02-02"
+]
+},
+"blase": {
+"title": "Saint Blaise, Bishop and Martyr",
+"rank": "optional memorial",
+"colour": "red",
+"dates": [
+"2026-02-03",
+"2027-02-03",
+"2028-02-03"
+]
+},
+"ansgar": {
+"title": "Saint Ansgar, Bishop",
+"rank": "optional memorial",
+"colour": "white",
+"dates": [
+"2026-02-03",
+"2027-02-03",
+"2028-02-03"
+]
+},
+"agatha": {
+"title": "Saint Agatha, Virgin and Martyr",
+"rank": "memorial",
+"colour": "red",
+"dates": [
+"2026-02-05",
+"2027-02-05",
+"2028-02-05"
+]
+},
+"paul_miki": {
+"title": "Saint Paul Miki and Companions, Martyrs",
+"rank": "memorial",
+"colour": "red",
+"dates": [
+"2026-02-06",
+"2027-02-06"
+]
+},
+"saturday_memorial_bvm": {
+"title": "Mass for the Blessed Virgin Mary on Saturday",
+"rank": "optional memorial",
+"colour": "white",
+"dates": [
+"2026-02-07",
+"2026-05-30",
+"2026-06-06",
+"2026-06-20",
+"2026-06-27",
+"2026-07-04",
+"2026-07-18",
+"2026-09-05",
+"2026-09-12",
+"2026-09-19",
+"2026-09-26",
+"2026-10-03",
+"2026-10-10",
+"2026-10-24",
+"2026-10-31",
+"2026-11-07",
+"2026-11-14",
+"2026-11-28",
+"2027-01-16",
+"2027-01-23",
+"2027-01-30",
+"2027-05-22",
+"2027-05-29",
+"2027-06-12",
+"2027-06-19",
+"2027-06-26",
+"2027-07-10",
+"2027-07-17",
+"2027-07-24",
+"2027-08-07",
+"2027-09-04",
+"2027-09-11",
+"2027-09-18",
+"2027-09-25",
+"2027-10-09",
+"2027-10-16",
+"2027-10-23",
+"2027-10-30",
+"2027-11-06",
+"2027-11-20",
+"2027-11-27",
+"2028-01-15",
+"2028-01-22",
+"2028-01-29",
+"2028-02-12",
+"2028-02-19",
+"2028-02-26",
+"2028-06-10",
+"2028-06-17",
+"2028-07-01",
+"2028-07-08",
+"2028-08-05",
+"2028-08-12",
+"2028-08-19",
+"2028-08-26",
+"2028-09-02",
+"2028-10-14",
+"2028-10-21",
+"2028-11-18",
+"2028-11-25",
+"2028-12-02"
+]
+},
+"scholastica": {
+"title": "Saint Scholastica, Virgin",
+"rank": "memorial",
+"colour": "white",
+"dates": [
+"2026-02-10",
+"2028-02-10"
+]
+},
+"bvm_lourdes": {
+"title": "Our Lady of Lourdes",
+"rank": "optional memorial",
+"colour": "white",
+"dates": [
+"2026-02-11",
+"2027-02-11",
+"2028-02-11"
+]
+},
+"cyril_methodius": {
+"title": "Saints Cyril, Monk, and Methodius, Bishop",
+"rank": "memorial",
+"colour": "white",
+"dates": [
+"2026-02-14",
+"2028-02-14"
+]
+},
+"servite_founders": {
+"title": "The Seven Holy Founders of the Servite Order",
+"rank": "optional memorial",
+"colour": "white",
+"dates": [
+"2026-02-17",
+"2027-02-17",
+"2028-02-17"
+]
+},
+"ash_wednesday": {
+"title": "Ash Wednesday",
+"rank": "Primary liturgical days",
+"colour": "violet",
+"dates": [
+"2026-02-18",
+"2027-02-10",
+"2028-03-01"
+]
+},
+"peter_damian": {
+"title": "Saint Peter Damian, Bishop and Doctor of the Church",
+"rank": "commemoration",
+"colour": "violet",
+"dates": [
+"2026-02-21",
+"2028-02-21"
+]
+},
+"polycarp": {
+"title": "Saint Polycarp, Bishop and Martyr",
+"rank": "commemoration",
+"colour": "violet",
+"dates": [
+"2026-02-23",
+"2027-02-23",
+"2028-02-23"
+]
+},
+"gregory_narek": {
+"title": "Saint Gregory of Narek, Abbot and Doctor of the Church",
+"rank": "commemoration",
+"colour": "violet",
+"dates": [
+"2026-02-27",
+"2027-02-27"
+]
+},
+"drexel": {
+"title": "Saint Katharine Drexel, Virgin",
+"rank": "commemoration",
+"colour": "violet",
+"dates": [
+"2026-03-03",
+"2027-03-03",
+"2028-03-03"
+]
+},
+"casimir": {
+"title": "Saint Casimir",
+"rank": "commemoration",
+"colour": "violet",
+"dates": [
+"2026-03-04",
+"2027-03-04",
+"2028-03-04"
+]
+},
+"perpetua_felicity": {
+"title": "Saints Perpetua and Felicity, Martyrs",
+"rank": "commemoration",
+"colour": "violet",
+"dates": [
+"2026-03-07",
+"2028-03-07"
+]
+},
+"frances_of_rome": {
+"title": "Saint Frances of Rome, Religious",
+"rank": "commemoration",
+"colour": "violet",
+"dates": [
+"2026-03-09",
+"2027-03-09",
+"2028-03-09"
+]
+},
+"patrick": {
+"title": "Saint Patrick, Bishop",
+"rank": "commemoration",
+"colour": "violet",
+"dates": [
+"2026-03-17",
+"2027-03-17",
+"2028-03-17"
+]
+},
+"cyril_of_jerusalem": {
+"title": "Saint Cyril of Jerusalem, Bishop and Doctor of the Church",
+"rank": "commemoration",
+"colour": "violet",
+"dates": [
+"2026-03-18",
+"2027-03-18",
+"2028-03-18"
+]
+},
+"joseph": {
+"title": "Saint Joseph, Spouse of the Blessed Virgin Mary",
+"rank": "solemnity",
+"colour": "white",
+"dates": [
+"2026-03-19",
+"2027-03-19",
+"2028-03-20"
+]
+},
+"turibius": {
+"title": "Saint Turibius of Mogrovejo, Bishop",
+"rank": "commemoration",
+"colour": "violet",
+"dates": [
+"2026-03-23",
+"2028-03-23"
+]
+},
+"annunciation": {
+"title": "The Annunciation of the Lord",
+"rank": "solemnity",
+"colour": "white",
+"dates": [
+"2026-03-25",
+"2027-04-05",
+"2028-03-25"
+]
+},
+"palm_sunday": {
+"title": "Palm Sunday of the Passion of the Lord",
+"rank": "Primary liturgical days",
+"colour": "red",
+"dates": [
+"2026-03-29",
+"2027-03-21",
+"2028-04-09"
+]
+},
+"lent_holy_monday": {
+"title": "Monday of Holy Week",
+"rank": "Primary liturgical days",
+"colour": "violet",
+"dates": [
+"2026-03-30",
+"2027-03-22",
+"2028-04-10"
+]
+},
+"lent_holy_tuesday": {
+"title": "Tuesday of Holy Week",
+"rank": "Primary liturgical days",
+"colour": "violet",
+"dates": [
+"2026-03-31",
+"2027-03-23",
+"2028-04-11"
+]
+},
+"lent_holy_wednesday": {
+"title": "Wednesday of Holy Week",
+"rank": "Primary liturgical days",
+"colour": "violet",
+"dates": [
+"2026-04-01",
+"2027-03-24",
+"2028-04-12"
+]
+},
+"holy_thursday": {
+"title": "Thursday of Holy Week [Holy Thursday]: The Chrism Mass",
+"rank": "Easter triduum",
+"colour": "violet",
+"dates": [
+"2026-04-02",
+"2027-03-25",
+"2028-04-13"
+]
+},
+"holy_thursday_evening": {
+"title": "Thursday of the Lord\u2019s Supper: At the Evening Mass",
+"rank": "Easter triduum",
+"colour": "violet",
+"dates": [
+"2026-04-02",
+"2027-03-25",
+"2028-04-13"
+]
+},
+"good_friday": {
+"title": "Friday of the Passion of the Lord [Good Friday]",
+"rank": "Easter triduum",
+"colour": "red",
+"dates": [
+"2026-04-03",
+"2027-03-26",
+"2028-04-14"
+]
+},
+"holy_saturday": {
+"title": "Holy Saturday",
+"rank": "Easter triduum",
+"colour": "violet",
+"dates": [
+"2026-04-04",
+"2027-03-27",
+"2028-04-15"
+]
+},
+"easter_sunday_vigil": {
+"title": "Easter Sunday of the Resurrection of the Lord: The Easter Vigil in the Holy Night",
+"rank": "Easter triduum",
+"colour": "white",
+"dates": [
+"2026-04-04",
+"2027-03-27",
+"2028-04-15"
+]
+},
+"easter_sunday": {
+"title": "Easter Sunday of the Resurrection of the Lord",
+"rank": "Easter triduum",
+"colour": "white",
+"dates": [
+"2026-04-05",
+"2027-03-28",
+"2028-04-16"
+]
+},
+"martin_i": {
+"title": "Saint Martin I, Pope and Martyr",
+"rank": "optional memorial",
+"colour": "red",
+"dates": [
+"2026-04-13",
+"2027-04-13"
+]
+},
+"anselm": {
+"title": "Saint Anselm, Bishop and Doctor of the Church",
+"rank": "optional memorial",
+"colour": "white",
+"dates": [
+"2026-04-21",
+"2027-04-21"
+]
+},
+"george": {
+"title": "Saint George, Martyr",
+"rank": "optional memorial",
+"colour": "red",
+"dates": [
+"2026-04-23",
+"2027-04-23"
+]
+},
+"adalbert": {
+"title": "Saint Adalbert, Bishop and Martyr",
+"rank": "optional memorial",
+"colour": "red",
+"dates": [
+"2026-04-23",
+"2027-04-23"
+]
+},
+"fidelis": {
+"title": "Saint Fidelis of Sigmaringen, Priest and Martyr",
+"rank": "optional memorial",
+"colour": "red",
+"dates": [
+"2026-04-24",
+"2027-04-24",
+"2028-04-24"
+]
+},
+"mark": {
+"title": "Saint Mark, Evangelist",
+"rank": "feast",
+"colour": "red",
+"dates": [
+"2026-04-25",
+"2028-04-25"
+]
+},
+"peter_chanel": {
+"title": "Saint Peter Chanel, Priest and Martyr",
+"rank": "optional memorial",
+"colour": "red",
+"dates": [
+"2026-04-28",
+"2027-04-28",
+"2028-04-28"
+]
+},
+"de_montfort": {
+"title": "Saint Louis Grignion de Montfort, Priest",
+"rank": "optional memorial",
+"colour": "white",
+"dates": [
+"2026-04-28",
+"2027-04-28",
+"2028-04-28"
+]
+},
+"catherine_of_siena": {
+"title": "Saint Catherine of Siena, Virgin and Doctor of the Church",
+"rank": "memorial",
+"colour": "white",
+"dates": [
+"2026-04-29",
+"2027-04-29",
+"2028-04-29"
+]
+},
+"pius_v": {
+"title": "Saint Pius V, Pope",
+"rank": "optional memorial",
+"colour": "white",
+"dates": [
+"2026-04-30",
+"2027-04-30"
+]
+},
+"joseph_worker": {
+"title": "Saint Joseph the Worker",
+"rank": "optional memorial",
+"colour": "white",
+"dates": [
+"2026-05-01",
+"2027-05-01",
+"2028-05-01"
+]
+},
+"athanasius": {
+"title": "Saint Athanasius, Bishop and Doctor of the Church",
+"rank": "memorial",
+"colour": "white",
+"dates": [
+"2026-05-02",
+"2028-05-02"
+]
+},
+"nereus_achilleus": {
+"title": "Saints Nereus and Achilleus, Martyrs",
+"rank": "optional memorial",
+"colour": "red",
+"dates": [
+"2026-05-12",
+"2027-05-12",
+"2028-05-12"
+]
+},
+"pancras": {
+"title": "Saint Pancras, Martyr",
+"rank": "optional memorial",
+"colour": "red",
+"dates": [
+"2026-05-12",
+"2027-05-12",
+"2028-05-12"
+]
+},
+"bvm_fatima": {
+"title": "Our Lady of Fatima",
+"rank": "optional memorial",
+"colour": "white",
+"dates": [
+"2026-05-13",
+"2027-05-13",
+"2028-05-13"
+]
+},
+"matthias": {
+"title": "Saint Matthias, Apostle",
+"rank": "feast",
+"colour": "red",
+"dates": [
+"2026-05-14",
+"2027-05-14"
+]
+},
+"isidore_the_farmer": {
+"title": "Saint Isidore",
+"rank": "optional memorial",
+"colour": "white",
+"dates": [
+"2026-05-15",
+"2027-05-15",
+"2028-05-15"
+]
+},
+"ascension_vigil": {
+"title": "The Ascension of the Lord: At the Vigil Mass",
+"rank": "Primary liturgical days",
+"colour": "white",
+"dates": [
+"2026-05-16",
+"2027-05-08",
+"2028-05-27"
+]
+},
+"ascension": {
+"title": "The Ascension of the Lord",
+"rank": "Primary liturgical days",
+"colour": "white",
+"dates": [
+"2026-05-17",
+"2027-05-09",
+"2028-05-28"
+]
+},
+"john_i": {
+"title": "Saint John I, Pope and Martyr",
+"rank": "optional memorial",
+"colour": "red",
+"dates": [
+"2026-05-18",
+"2027-05-18",
+"2028-05-18"
+]
+},
+"bernardine": {
+"title": "Saint Bernardine of Siena, Priest",
+"rank": "optional memorial",
+"colour": "white",
+"dates": [
+"2026-05-20",
+"2027-05-20",
+"2028-05-20"
+]
+},
+"magallanes": {
+"title": "Saint Christopher Magallanes, Priest, and Companions, Martyrs",
+"rank": "optional memorial",
+"colour": "red",
+"dates": [
+"2026-05-21",
+"2027-05-21"
+]
+},
+"rita": {
+"title": "Saint Rita of Cascia, Religious",
+"rank": "optional memorial",
+"colour": "white",
+"dates": [
+"2026-05-22",
+"2027-05-22",
+"2028-05-22"
+]
+},
+"pentecost_vigil": {
+"title": "Pentecost Sunday: At the Vigil Mass",
+"rank": "Primary liturgical days",
+"colour": "red",
+"dates": [
+"2026-05-23",
+"2027-05-15",
+"2028-06-03"
+]
+},
+"pentecost": {
+"title": "Pentecost Sunday",
+"rank": "Primary liturgical days",
+"colour": "red",
+"dates": [
+"2026-05-24",
+"2027-05-16",
+"2028-06-04"
+]
+},
+"mother_of_church": {
+"title": "The Blessed Virgin Mary, Mother of the Church",
+"rank": "memorial",
+"colour": "white",
+"dates": [
+"2026-05-25",
+"2027-05-17",
+"2028-06-05"
+]
+},
+"neri": {
+"title": "Saint Philip Neri, Priest",
+"rank": "memorial",
+"colour": "white",
+"dates": [
+"2026-05-26",
+"2027-05-26",
+"2028-05-26"
+]
+},
+"augustine_of_canterbury": {
+"title": "Saint Augustine of Canterbury, Bishop",
+"rank": "optional memorial",
+"colour": "white",
+"dates": [
+"2026-05-27",
+"2027-05-27",
+"2028-05-27"
+]
+},
+"paul_vi": {
+"title": "Saint Paul VI, Pope",
+"rank": "optional memorial",
+"colour": "white",
+"dates": [
+"2026-05-29",
+"2027-05-29",
+"2028-05-29"
+]
+},
+"holy_trinity": {
+"title": "The Most Holy Trinity",
+"rank": "solemnity",
+"colour": "white",
+"dates": [
+"2026-05-31",
+"2027-05-23",
+"2028-06-11"
+]
+},
+"justin": {
+"title": "Saint Justin, Martyr",
+"rank": "memorial",
+"colour": "red",
+"dates": [
+"2026-06-01",
+"2027-06-01",
+"2028-06-01"
+]
+},
+"marcellinus_peter": {
+"title": "Saints Marcellinus and Peter, Martyrs",
+"rank": "optional memorial",
+"colour": "red",
+"dates": [
+"2026-06-02",
+"2027-06-02",
+"2028-06-02"
+]
+},
+"ugandan_martyrs": {
+"title": "Saint Charles Lwanga and Companions, Martyrs",
+"rank": "memorial",
+"colour": "red",
+"dates": [
+"2026-06-03",
+"2027-06-03",
+"2028-06-03"
+]
+},
+"boniface": {
+"title": "Saint Boniface, Bishop and Martyr",
+"rank": "memorial",
+"colour": "red",
+"dates": [
+"2026-06-05",
+"2027-06-05"
+]
+},
+"norbert": {
+"title": "Saint Norbert, Bishop",
+"rank": "optional memorial",
+"colour": "white",
+"dates": [
+"2026-06-06",
+"2028-06-06"
+]
+},
+"corpus_christi": {
+"title": "The Most Holy Body and Blood of Christ (CORPUS CHRISTI)",
+"rank": "solemnity",
+"colour": "white",
+"dates": [
+"2026-06-07",
+"2027-05-30",
+"2028-06-18"
+]
+},
+"ephrem": {
+"title": "Saint Ephrem, Deacon and Doctor of the Church",
+"rank": "optional memorial",
+"colour": "white",
+"dates": [
+"2026-06-09",
+"2027-06-09",
+"2028-06-09"
+]
+},
+"barnabas": {
+"title": "Saint Barnabas, Apostle",
+"rank": "memorial",
+"colour": "red",
+"dates": [
+"2026-06-11",
+"2027-06-11"
+]
+},
+"sacred_heart": {
+"title": "The Most Sacred Heart of Jesus",
+"rank": "solemnity",
+"colour": "white",
+"dates": [
+"2026-06-12",
+"2027-06-04",
+"2028-06-23"
+]
+},
+"immaculate_heart": {
+"title": "The Immaculate Heart of the Blessed Virgin Mary",
+"rank": "optional memorial",
+"colour": "white",
+"dates": [
+"2026-06-13",
+"2027-06-05"
+]
+},
+"anthony_of_padua": {
+"title": "Saint Anthony of Padua, Priest and Doctor of the Church",
+"rank": "optional memorial",
+"colour": "white",
+"dates": [
+"2026-06-13",
+"2028-06-13"
+]
+},
+"romuald": {
+"title": "Saint Romuald, Abbot",
+"rank": "optional memorial",
+"colour": "white",
+"dates": [
+"2026-06-19",
+"2027-06-19",
+"2028-06-19"
+]
+},
+"paulinus": {
+"title": "Saint Paulinus of Nola, Bishop",
+"rank": "optional memorial",
+"colour": "white",
+"dates": [
+"2026-06-22",
+"2027-06-22",
+"2028-06-22"
+]
+},
+"fisher_more": {
+"title": "Saints John Fisher, Bishop, and Thomas More, Martyrs",
+"rank": "optional memorial",
+"colour": "red",
+"dates": [
+"2026-06-22",
+"2027-06-22",
+"2028-06-22"
+]
+},
+"baptist_birth_vigil": {
+"title": "The Nativity of Saint John the Baptist: At the Vigil Mass",
+"rank": "solemnity",
+"colour": "white",
+"dates": [
+"2026-06-23",
+"2027-06-23",
+"2028-06-23"
+]
+},
+"baptist_birth": {
+"title": "The Nativity of Saint John the Baptist",
+"rank": "solemnity",
+"colour": "white",
+"dates": [
+"2026-06-24",
+"2027-06-24",
+"2028-06-24"
+]
+},
+"cyril_of_alexandria": {
+"title": "Saint Cyril of Alexandria, Bishop and Doctor of the Church",
+"rank": "optional memorial",
+"colour": "white",
+"dates": [
+"2026-06-27",
+"2028-06-27"
+]
+},
+"peter_paul_vigil": {
+"title": "Saints Peter and Paul, Apostles: At the Vigil Mass",
+"rank": "solemnity",
+"colour": "red",
+"dates": [
+"2026-06-28",
+"2027-06-28",
+"2028-06-28"
+]
+},
+"peter_paul": {
+"title": "Saints Peter and Paul, Apostles",
+"rank": "solemnity",
+"colour": "red",
+"dates": [
+"2026-06-29",
+"2027-06-29",
+"2028-06-29"
+]
+},
+"first_martyrs_of_rome": {
+"title": "The First Martyrs of the Holy Roman Church",
+"rank": "optional memorial",
+"colour": "red",
+"dates": [
+"2026-06-30",
+"2027-06-30",
+"2028-06-30"
+]
+},
+"junipero_serra": {
+"title": "Saint Jun\u00edpero Serra, Priest",
+"rank": "optional memorial",
+"colour": "white",
+"dates": [
+"2026-07-01",
+"2027-07-01",
+"2028-07-01"
+]
+},
+"thomas_apostle": {
+"title": "Saint Thomas, Apostle",
+"rank": "feast",
+"colour": "red",
+"dates": [
+"2026-07-03",
+"2027-07-03",
+"2028-07-03"
+]
+},
+"independence_day": {
+"title": "Independence Day",
+"rank": "optional memorial",
+"colour": "white",
+"dates": [
+"2026-07-04",
+"2028-07-04"
+]
+},
+"goretti": {
+"title": "Saint Maria Goretti, Virgin and Martyr",
+"rank": "optional memorial",
+"colour": "red",
+"dates": [
+"2026-07-06",
+"2027-07-06",
+"2028-07-06"
+]
+},
+"chinese_martyrs": {
+"title": "Saint Augustine Zhao Rong, Priest, and Companions, Martyrs",
+"rank": "optional memorial",
+"colour": "red",
+"dates": [
+"2026-07-09",
+"2027-07-09"
+]
+},
+"benedict": {
+"title": "Saint Benedict, Abbot",
+"rank": "memorial",
+"colour": "white",
+"dates": [
+"2026-07-11",
+"2028-07-11"
+]
+},
+"henry": {
+"title": "Saint Henry",
+"rank": "optional memorial",
+"colour": "white",
+"dates": [
+"2026-07-13",
+"2027-07-13",
+"2028-07-13"
+]
+},
+"kateri": {
+"title": "Blessed Kateri Tekakwitha, Virgin",
+"rank": "memorial",
+"colour": "white",
+"dates": [
+"2026-07-14",
+"2027-07-14",
+"2028-07-14"
+]
+},
+"bonaventure": {
+"title": "Saint Bonaventure, Bishop and Doctor of the Church",
+"rank": "memorial",
+"colour": "white",
+"dates": [
+"2026-07-15",
+"2027-07-15",
+"2028-07-15"
+]
+},
+"bvm_mount_carmel": {
+"title": "Our Lady of Mount Carmel",
+"rank": "optional memorial",
+"colour": "white",
+"dates": [
+"2026-07-16",
+"2027-07-16"
+]
+},
+"camillus_de_lellis": {
+"title": "Saint Camillus de Lellis, Priest",
+"rank": "optional memorial",
+"colour": "white",
+"dates": [
+"2026-07-18",
+"2028-07-18"
+]
+},
+"apollinaris": {
+"title": "Saint Apollinaris, Bishop and Martyr",
+"rank": "optional memorial",
+"colour": "red",
+"dates": [
+"2026-07-20",
+"2027-07-20",
+"2028-07-20"
+]
+},
+"lawrence_of_brindisi": {
+"title": "Saint Lawrence of Brindisi, Priest and Doctor of the Church",
+"rank": "optional memorial",
+"colour": "white",
+"dates": [
+"2026-07-21",
+"2027-07-21",
+"2028-07-21"
+]
+},
+"mary_magdalene": {
+"title": "Saint Mary Magdalene",
+"rank": "feast",
+"colour": "white",
+"dates": [
+"2026-07-22",
+"2027-07-22",
+"2028-07-22"
+]
+},
+"birgitta": {
+"title": "Saint Bridget, Religious",
+"rank": "optional memorial",
+"colour": "white",
+"dates": [
+"2026-07-23",
+"2027-07-23"
+]
+},
+"sharbel": {
+"title": "Saint Sharbel Makhl\u016bf, Priest",
+"rank": "optional memorial",
+"colour": "white",
+"dates": [
+"2026-07-24",
+"2027-07-24",
+"2028-07-24"
+]
+},
+"james": {
+"title": "Saint James, Apostle",
+"rank": "feast",
+"colour": "red",
+"dates": [
+"2026-07-25",
+"2028-07-25"
+]
+},
+"martha": {
+"title": "Saints Martha, Mary, and Lazarus",
+"rank": "memorial",
+"colour": "white",
+"dates": [
+"2026-07-29",
+"2027-07-29",
+"2028-07-29"
+]
+},
+"peter_chrysologus": {
+"title": "Saint Peter Chrysologus, Bishop and Doctor of the Church",
+"rank": "optional memorial",
+"colour": "white",
+"dates": [
+"2026-07-30",
+"2027-07-30"
+]
+},
+"ignatius_of_loyola": {
+"title": "Saint Ignatius of Loyola, Priest",
+"rank": "memorial",
+"colour": "white",
+"dates": [
+"2026-07-31",
+"2027-07-31",
+"2028-07-31"
+]
+},
+"alphonsus": {
+"title": "Saint Alphonsus Liguori, Bishop and Doctor of the Church",
+"rank": "memorial",
+"colour": "white",
+"dates": [
+"2026-08-01",
+"2028-08-01"
+]
+},
+"vianney": {
+"title": "Saint John Vianney, Priest",
+"rank": "memorial",
+"colour": "white",
+"dates": [
+"2026-08-04",
+"2027-08-04",
+"2028-08-04"
+]
+},
+"mary_major": {
+"title": "The Dedication of the Basilica of Saint Mary Major",
+"rank": "optional memorial",
+"colour": "white",
+"dates": [
+"2026-08-05",
+"2027-08-05",
+"2028-08-05"
+]
+},
+"transfiguration": {
+"title": "The Transfiguration of the Lord",
+"rank": "feast",
+"colour": "white",
+"dates": [
+"2026-08-06",
+"2027-08-06",
+"2028-08-06"
+]
+},
+"sixtus_ii": {
+"title": "Saint Sixtus II, Pope, and Companions, Martyrs",
+"rank": "optional memorial",
+"colour": "red",
+"dates": [
+"2026-08-07",
+"2027-08-07",
+"2028-08-07"
+]
+},
+"cajetan": {
+"title": "Saint Cajetan, Priest",
+"rank": "optional memorial",
+"colour": "white",
+"dates": [
+"2026-08-07",
+"2027-08-07",
+"2028-08-07"
+]
+},
+"dominic": {
+"title": "Saint Dominic, Priest",
+"rank": "memorial",
+"colour": "white",
+"dates": [
+"2026-08-08",
+"2028-08-08"
+]
+},
+"lawrence": {
+"title": "Saint Lawrence, Deacon and Martyr",
+"rank": "feast",
+"colour": "red",
+"dates": [
+"2026-08-10",
+"2027-08-10",
+"2028-08-10"
+]
+},
+"clare": {
+"title": "Saint Clare, Virgin",
+"rank": "memorial",
+"colour": "white",
+"dates": [
+"2026-08-11",
+"2027-08-11",
+"2028-08-11"
+]
+},
+"de_chantal": {
+"title": "Saint Jane Frances de Chantal, Religious",
+"rank": "optional memorial",
+"colour": "white",
+"dates": [
+"2026-08-12",
+"2027-08-12",
+"2028-08-12"
+]
+},
+"pontian_hippolytus": {
+"title": "Saints Pontian, Pope, and Hippolytus, Priest, Martyrs",
+"rank": "optional memorial",
+"colour": "red",
+"dates": [
+"2026-08-13",
+"2027-08-13"
+]
+},
+"kolbe": {
+"title": "Saint Maximilian Kolbe, Priest and Martyr",
+"rank": "memorial",
+"colour": "red",
+"dates": [
+"2026-08-14",
+"2027-08-14",
+"2028-08-14"
+]
+},
+"assumption_vigil": {
+"title": "The Assumption of the Blessed Virgin Mary: At the Vigil Mass",
+"rank": "solemnity",
+"colour": "white",
+"dates": [
+"2026-08-14",
+"2027-08-14",
+"2028-08-14"
+]
+},
+"assumption": {
+"title": "The Assumption of the Blessed Virgin Mary",
+"rank": "solemnity",
+"colour": "white",
+"dates": [
+"2026-08-15",
+"2027-08-15",
+"2028-08-15"
+]
+},
+"eudes": {
+"title": "Saint John Eudes, Priest",
+"rank": "optional memorial",
+"colour": "white",
+"dates": [
+"2026-08-19",
+"2027-08-19",
+"2028-08-19"
+]
+},
+"bernard": {
+"title": "Saint Bernard, Abbot and Doctor of the Church",
+"rank": "memorial",
+"colour": "white",
+"dates": [
+"2026-08-20",
+"2027-08-20"
+]
+},
+"pius_x": {
+"title": "Saint Pius X, Pope",
+"rank": "memorial",
+"colour": "white",
+"dates": [
+"2026-08-21",
+"2027-08-21",
+"2028-08-21"
+]
+},
+"bvm_queenship": {
+"title": "The Queenship of the Blessed Virgin Mary",
+"rank": "memorial",
+"colour": "white",
+"dates": [
+"2026-08-22",
+"2028-08-22"
+]
+},
+"bartholomew": {
+"title": "Saint Bartholomew, Apostle",
+"rank": "feast",
+"colour": "red",
+"dates": [
+"2026-08-24",
+"2027-08-24",
+"2028-08-24"
+]
+},
+"louis": {
+"title": "Saint Louis",
+"rank": "optional memorial",
+"colour": "white",
+"dates": [
+"2026-08-25",
+"2027-08-25",
+"2028-08-25"
+]
+},
+"joseph_calasanz": {
+"title": "Saint Joseph Calasanz, Priest",
+"rank": "optional memorial",
+"colour": "white",
+"dates": [
+"2026-08-25",
+"2027-08-25",
+"2028-08-25"
+]
+},
+"monica": {
+"title": "Saint Monica",
+"rank": "memorial",
+"colour": "white",
+"dates": [
+"2026-08-27",
+"2027-08-27"
+]
+},
+"augustine": {
+"title": "Saint Augustine, Bishop and Doctor of the Church",
+"rank": "memorial",
+"colour": "white",
+"dates": [
+"2026-08-28",
+"2027-08-28",
+"2028-08-28"
+]
+},
+"baptist_beheading": {
+"title": "The Passion of Saint John the Baptist",
+"rank": "memorial",
+"colour": "red",
+"dates": [
+"2026-08-29",
+"2028-08-29"
+]
+},
+"gregory_great": {
+"title": "Saint Gregory the Great, Pope and Doctor of the Church",
+"rank": "memorial",
+"colour": "white",
+"dates": [
+"2026-09-03",
+"2027-09-03"
+]
+},
+"mother_teresa": {
+"title": "Saint Teresa of Calcutta, Virgin",
+"rank": "optional memorial",
+"colour": "white",
+"dates": [
+"2026-09-05",
+"2028-09-05"
+]
+},
+"bvm_birth": {
+"title": "The Nativity of the Blessed Virgin Mary",
+"rank": "feast",
+"colour": "white",
+"dates": [
+"2026-09-08",
+"2027-09-08",
+"2028-09-08"
+]
+},
+"claver": {
+"title": "Saint Peter Claver, Priest",
+"rank": "memorial",
+"colour": "white",
+"dates": [
+"2026-09-09",
+"2027-09-09",
+"2028-09-09"
+]
+},
+"bvm_name": {
+"title": "The Most Holy Name of Mary",
+"rank": "optional memorial",
+"colour": "white",
+"dates": [
+"2026-09-12",
+"2028-09-12"
+]
+},
+"cross": {
+"title": "The Exaltation of the Holy Cross",
+"rank": "feast",
+"colour": "red",
+"dates": [
+"2026-09-14",
+"2027-09-14",
+"2028-09-14"
+]
+},
+"bvm_sorrows": {
+"title": "Our Lady of Sorrows",
+"rank": "memorial",
+"colour": "white",
+"dates": [
+"2026-09-15",
+"2027-09-15",
+"2028-09-15"
+]
+},
+"cornelius_cyprian": {
+"title": "Saints Cornelius, Pope, and Cyprian, Bishop, Martyrs",
+"rank": "memorial",
+"colour": "red",
+"dates": [
+"2026-09-16",
+"2027-09-16",
+"2028-09-16"
+]
+},
+"bellarmine": {
+"title": "Saint Robert Bellarmine, Bishop and Doctor of the Church",
+"rank": "optional memorial",
+"colour": "white",
+"dates": [
+"2026-09-17",
+"2027-09-17"
+]
+},
+"hildegard": {
+"title": "Saint Hildegard of Bingen, Virgin and Doctor of the Church",
+"rank": "optional memorial",
+"colour": "white",
+"dates": [
+"2026-09-17",
+"2027-09-17"
+]
+},
+"januarius": {
+"title": "Saint Januarius, Bishop and Martyr",
+"rank": "optional memorial",
+"colour": "red",
+"dates": [
+"2026-09-19",
+"2028-09-19"
+]
+},
+"matthew": {
+"title": "Saint Matthew, Apostle and Evangelist",
+"rank": "feast",
+"colour": "red",
+"dates": [
+"2026-09-21",
+"2027-09-21",
+"2028-09-21"
+]
+},
+"padre_pio": {
+"title": "Saint Pius of Pietrelcina, Priest",
+"rank": "memorial",
+"colour": "white",
+"dates": [
+"2026-09-23",
+"2027-09-23",
+"2028-09-23"
+]
+},
+"cosmas_damian": {
+"title": "Saints Cosmas and Damian, Martyrs",
+"rank": "optional memorial",
+"colour": "red",
+"dates": [
+"2026-09-26",
+"2028-09-26"
+]
+},
+"wenceslaus": {
+"title": "Saint Wenceslaus, Martyr",
+"rank": "optional memorial",
+"colour": "red",
+"dates": [
+"2026-09-28",
+"2027-09-28",
+"2028-09-28"
+]
+},
+"ruiz": {
+"title": "Saint Lawrence Ruiz and Companions, Martyrs",
+"rank": "optional memorial",
+"colour": "red",
+"dates": [
+"2026-09-28",
+"2027-09-28",
+"2028-09-28"
+]
+},
+"archangels": {
+"title": "Saints Michael, Gabriel and Raphael, Archangels",
+"rank": "feast",
+"colour": "white",
+"dates": [
+"2026-09-29",
+"2027-09-29",
+"2028-09-29"
+]
+},
+"jerome": {
+"title": "Saint Jerome, Priest and Doctor of the Church",
+"rank": "memorial",
+"colour": "white",
+"dates": [
+"2026-09-30",
+"2027-09-30",
+"2028-09-30"
+]
+},
+"therese_lisieux": {
+"title": "Saint Th\u00e9r\u00e8se of the Child Jesus, Virgin and Doctor of the Church",
+"rank": "memorial",
+"colour": "white",
+"dates": [
+"2026-10-01",
+"2027-10-01"
+]
+},
+"guardian_angels": {
+"title": "The Holy Guardian Angels",
+"rank": "memorial",
+"colour": "white",
+"dates": [
+"2026-10-02",
+"2027-10-02",
+"2028-10-02"
+]
+},
+"faustina_kowalska": {
+"title": "Saint Faustina Kowalska, Virgin",
+"rank": "optional memorial",
+"colour": "white",
+"dates": [
+"2026-10-05",
+"2027-10-05",
+"2028-10-05"
+]
+},
+"francis_xavier_seelos": {
+"title": "Blessed Francis Xavier Seelos, Priest",
+"rank": "optional memorial",
+"colour": "white",
+"dates": [
+"2026-10-05",
+"2027-10-05",
+"2028-10-05"
+]
+},
+"bruno": {
+"title": "Saint Bruno, Priest",
+"rank": "optional memorial",
+"colour": "white",
+"dates": [
+"2026-10-06",
+"2027-10-06",
+"2028-10-06"
+]
+},
+"durocher": {
+"title": "Blessed Marie Rose Durocher, Virgin",
+"rank": "optional memorial",
+"colour": "white",
+"dates": [
+"2026-10-06",
+"2027-10-06",
+"2028-10-06"
+]
+},
+"bvm_rosary": {
+"title": "Our Lady of the Rosary",
+"rank": "memorial",
+"colour": "white",
+"dates": [
+"2026-10-07",
+"2027-10-07",
+"2028-10-07"
+]
+},
+"denis": {
+"title": "Saint Denis, Bishop, and Companions, Martyrs",
+"rank": "optional memorial",
+"colour": "red",
+"dates": [
+"2026-10-09",
+"2027-10-09",
+"2028-10-09"
+]
+},
+"leonardi": {
+"title": "Saint John Leonardi, Priest",
+"rank": "optional memorial",
+"colour": "white",
+"dates": [
+"2026-10-09",
+"2027-10-09",
+"2028-10-09"
+]
+},
+"callistus_i": {
+"title": "Saint Callistus I, Pope and Martyr",
+"rank": "optional memorial",
+"colour": "red",
+"dates": [
+"2026-10-14",
+"2027-10-14",
+"2028-10-14"
+]
+},
+"teresa_avila": {
+"title": "Saint Teresa of Jesus, Virgin and Doctor of the Church",
+"rank": "memorial",
+"colour": "white",
+"dates": [
+"2026-10-15",
+"2027-10-15"
+]
+},
+"hedwig": {
+"title": "Saint Hedwig, Religious",
+"rank": "optional memorial",
+"colour": "white",
+"dates": [
+"2026-10-16",
+"2027-10-16",
+"2028-10-16"
+]
+},
+"alacoque": {
+"title": "Saint Margaret Mary Alacoque, Virgin",
+"rank": "optional memorial",
+"colour": "white",
+"dates": [
+"2026-10-16",
+"2027-10-16",
+"2028-10-16"
+]
+},
+"ignatius_of_antioch": {
+"title": "Saint Ignatius of Antioch, Bishop and Martyr",
+"rank": "memorial",
+"colour": "red",
+"dates": [
+"2026-10-17",
+"2028-10-17"
+]
+},
+"brebeuf_jogues": {
+"title": "Saints John de Br\u00e9beuf and Isaac Jogues, Priests, and Companions, Martyrs",
+"rank": "memorial",
+"colour": "red",
+"dates": [
+"2026-10-19",
+"2027-10-19",
+"2028-10-19"
+]
+},
+"paul_of_cross": {
+"title": "Saint Paul of the Cross, Priest",
+"rank": "optional memorial",
+"colour": "white",
+"dates": [
+"2026-10-20",
+"2027-10-20",
+"2028-10-20"
+]
+},
+"john_paul_ii": {
+"title": "Saint John Paul II, Pope",
+"rank": "optional memorial",
+"colour": "white",
+"dates": [
+"2026-10-22",
+"2027-10-22"
+]
+},
+"john_capistrano": {
+"title": "Saint John of Capistrano, Priest",
+"rank": "optional memorial",
+"colour": "white",
+"dates": [
+"2026-10-23",
+"2027-10-23",
+"2028-10-23"
+]
+},
+"claret": {
+"title": "Saint Anthony Mary Claret, Bishop",
+"rank": "optional memorial",
+"colour": "white",
+"dates": [
+"2026-10-24",
+"2028-10-24"
+]
+},
+"simon_jude": {
+"title": "Saints Simon and Jude, Apostles",
+"rank": "feast",
+"colour": "red",
+"dates": [
+"2026-10-28",
+"2027-10-28",
+"2028-10-28"
+]
+},
+"all_saints": {
+"title": "All Saints",
+"rank": "solemnity",
+"colour": "white",
+"dates": [
+"2026-11-01",
+"2027-11-01",
+"2028-11-01"
+]
+},
+"all_souls": {
+"title": "The Commemoration of All the Faithful Departed (All Souls\u2019 Day)",
+"rank": "solemnity",
+"colour": "violet",
+"dates": [
+"2026-11-02",
+"2027-11-02",
+"2028-11-02"
+]
+},
+"de_porres": {
+"title": "Saint Martin de Porres, Religious",
+"rank": "optional memorial",
+"colour": "white",
+"dates": [
+"2026-11-03",
+"2027-11-03",
+"2028-11-03"
+]
+},
+"borromeo": {
+"title": "Saint Charles Borromeo, Bishop",
+"rank": "memorial",
+"colour": "white",
+"dates": [
+"2026-11-04",
+"2027-11-04",
+"2028-11-04"
+]
+},
+"lateran_basilica": {
+"title": "The Dedication of the Lateran Basilica",
+"rank": "feast",
+"colour": "white",
+"dates": [
+"2026-11-09",
+"2027-11-09",
+"2028-11-09"
+]
+},
+"leo_great": {
+"title": "Saint Leo the Great, Pope and Doctor of the Church",
+"rank": "memorial",
+"colour": "white",
+"dates": [
+"2026-11-10",
+"2027-11-10",
+"2028-11-10"
+]
+},
+"martin": {
+"title": "Saint Martin of Tours, Bishop",
+"rank": "memorial",
+"colour": "white",
+"dates": [
+"2026-11-11",
+"2027-11-11",
+"2028-11-11"
+]
+},
+"josaphat": {
+"title": "Saint Josaphat, Bishop and Martyr",
+"rank": "memorial",
+"colour": "red",
+"dates": [
+"2026-11-12",
+"2027-11-12"
+]
+},
+"cabrini": {
+"title": "Saint Frances Xavier Cabrini, Virgin",
+"rank": "memorial",
+"colour": "white",
+"dates": [
+"2026-11-13",
+"2027-11-13",
+"2028-11-13"
+]
+},
+"margaret_of_scotland": {
+"title": "Saint Margaret of Scotland",
+"rank": "optional memorial",
+"colour": "white",
+"dates": [
+"2026-11-16",
+"2027-11-16",
+"2028-11-16"
+]
+},
+"gertrude": {
+"title": "Saint Gertrude, Virgin",
+"rank": "optional memorial",
+"colour": "white",
+"dates": [
+"2026-11-16",
+"2027-11-16",
+"2028-11-16"
+]
+},
+"elizabeth_of_hungary": {
+"title": "Saint Elizabeth of Hungary, Religious",
+"rank": "memorial",
+"colour": "white",
+"dates": [
+"2026-11-17",
+"2027-11-17",
+"2028-11-17"
+]
+},
+"peter_paul_basilicas": {
+"title": "The Dedication of the Basilicas of Saints Peter and Paul, Apostles",
+"rank": "optional memorial",
+"colour": "white",
+"dates": [
+"2026-11-18",
+"2027-11-18",
+"2028-11-18"
+]
+},
+"rose_duchesne": {
+"title": "Saint Rose Philippine Duchesne, Virgin",
+"rank": "optional memorial",
+"colour": "white",
+"dates": [
+"2026-11-18",
+"2027-11-18",
+"2028-11-18"
+]
+},
+"bvm_presentation": {
+"title": "The Presentation of the Blessed Virgin Mary",
+"rank": "memorial",
+"colour": "white",
+"dates": [
+"2026-11-21",
+"2028-11-21"
+]
+},
+"christ_king": {
+"title": "Our Lord Jesus Christ, King of the Universe",
+"rank": "solemnity",
+"colour": "white",
+"dates": [
+"2026-11-22",
+"2027-11-21",
+"2028-11-26"
+]
+},
+"clement_i": {
+"title": "Saint Clement I, Pope and Martyr",
+"rank": "optional memorial",
+"colour": "red",
+"dates": [
+"2026-11-23",
+"2027-11-23",
+"2028-11-23"
+]
+},
+"columban": {
+"title": "Saint Columban, Abbot",
+"rank": "optional memorial",
+"colour": "white",
+"dates": [
+"2026-11-23",
+"2027-11-23",
+"2028-11-23"
+]
+},
+"miguel_pro": {
+"title": "Blessed Miguel Agust\u00edn Pro, Priest and Martyr",
+"rank": "optional memorial",
+"colour": "red",
+"dates": [
+"2026-11-23",
+"2027-11-23",
+"2028-11-23"
+]
+},
+"vietnamese_martyrs": {
+"title": "Saint Andrew D\u0169ng-L\u1ea1c, Priest, and Companions, Martyrs",
+"rank": "memorial",
+"colour": "red",
+"dates": [
+"2026-11-24",
+"2027-11-24",
+"2028-11-24"
+]
+},
+"catherine_of_alexandria": {
+"title": "Saint Catherine of Alexandria, Virgin and Martyr",
+"rank": "optional memorial",
+"colour": "red",
+"dates": [
+"2026-11-25",
+"2027-11-25",
+"2028-11-25"
+]
+},
+"thanksgiving": {
+"title": "Thanksgiving Day",
+"rank": "optional memorial",
+"colour": "white",
+"dates": [
+"2026-11-26",
+"2027-11-25",
+"2028-11-23"
+]
+},
+"andrew": {
+"title": "Saint Andrew, Apostle",
+"rank": "feast",
+"colour": "red",
+"dates": [
+"2026-11-30",
+"2027-11-30",
+"2028-11-30"
+]
+},
+"francis_xavier": {
+"title": "Saint Francis Xavier, Priest",
+"rank": "memorial",
+"colour": "white",
+"dates": [
+"2026-12-03",
+"2027-12-03"
+]
+},
+"john_damascene": {
+"title": "Saint John Damascene, Priest and Doctor of the Church",
+"rank": "optional memorial",
+"colour": "white",
+"dates": [
+"2026-12-04",
+"2027-12-04",
+"2028-12-04"
+]
+},
+"ambrose": {
+"title": "Saint Ambrose, Bishop and Doctor of the Church",
+"rank": "memorial",
+"colour": "white",
+"dates": [
+"2026-12-07",
+"2027-12-07",
+"2028-12-07"
+]
+},
+"bvm_immaculate": {
+"title": "The Immaculate Conception of the Blessed Virgin Mary",
+"rank": "solemnity",
+"colour": "white",
+"dates": [
+"2026-12-08",
+"2027-12-08",
+"2028-12-08"
+]
+},
+"juan_diego": {
+"title": "Saint Juan Diego Cuauhtlatoatzin",
+"rank": "optional memorial",
+"colour": "white",
+"dates": [
+"2026-12-09",
+"2027-12-09",
+"2028-12-09"
+]
+},
+"bvm_loreto": {
+"title": "Our Lady of Loreto",
+"rank": "optional memorial",
+"colour": "white",
+"dates": [
+"2026-12-10",
+"2027-12-10"
+]
+},
+"damasus_i": {
+"title": "Saint Damasus I, Pope",
+"rank": "optional memorial",
+"colour": "white",
+"dates": [
+"2026-12-11",
+"2027-12-11",
+"2028-12-11"
+]
+},
+"bvm_guadalupe": {
+"title": "Our Lady of Guadalupe",
+"rank": "feast",
+"colour": "white",
+"dates": [
+"2026-12-12",
+"2028-12-12"
+]
+},
+"john_of_cross": {
+"title": "Saint John of the Cross, Priest and Doctor of the Church",
+"rank": "memorial",
+"colour": "white",
+"dates": [
+"2026-12-14",
+"2027-12-14",
+"2028-12-14"
+]
+},
+"advent_thursday_december17": {
+"title": "December 17th",
+"rank": "ferial",
+"colour": "violet",
+"dates": [
+"2026-12-17"
+]
+},
+"advent_friday_december18": {
+"title": "December 18th",
+"rank": "ferial",
+"colour": "violet",
+"dates": [
+"2026-12-18"
+]
+},
+"advent_saturday_december19": {
+"title": "December 19th",
+"rank": "ferial",
+"colour": "violet",
+"dates": [
+"2026-12-19"
+]
+},
+"advent_monday_december21": {
+"title": "December 21st",
+"rank": "ferial",
+"colour": "violet",
+"dates": [
+"2026-12-21"
+]
+},
+"canisius": {
+"title": "Saint Peter Canisius, Priest and Doctor of the Church",
+"rank": "commemoration",
+"colour": "violet",
+"dates": [
+"2026-12-21",
+"2027-12-21",
+"2028-12-21"
+]
+},
+"advent_tuesday_december22": {
+"title": "December 22nd",
+"rank": "ferial",
+"colour": "violet",
+"dates": [
+"2026-12-22"
+]
+},
+"advent_wednesday_december23": {
+"title": "December 23rd",
+"rank": "ferial",
+"colour": "violet",
+"dates": [
+"2026-12-23"
+]
+},
+"john_of_kanty": {
+"title": "Saint John of Kanty, Priest",
+"rank": "commemoration",
+"colour": "violet",
+"dates": [
+"2026-12-23",
+"2027-12-23",
+"2028-12-23"
+]
+},
+"advent_thursday_december24": {
+"title": "December 24th",
+"rank": "ferial",
+"colour": "violet",
+"dates": [
+"2026-12-24"
+]
+},
+"nativity_vigil": {
+"title": "The Nativity of the Lord [CHRISTMAS]: At the Vigil Mass",
+"rank": "Primary liturgical days",
+"colour": "white",
+"dates": [
+"2026-12-24",
+"2027-12-24",
+"2028-12-24"
+]
+},
+"nativity": {
+"title": "The Nativity of the Lord [CHRISTMAS]",
+"rank": "Primary liturgical days",
+"colour": "white",
+"dates": [
+"2026-12-25",
+"2027-12-25",
+"2028-12-25"
+]
+},
+"stephen": {
+"title": "Saint Stephen, the First Martyr",
+"rank": "feast",
+"colour": "red",
+"dates": [
+"2026-12-26",
+"2028-12-26"
+]
+},
+"holy_family": {
+"title": "The Holy Family of Jesus, Mary and Joseph",
+"rank": "feast",
+"colour": "white",
+"dates": [
+"2026-12-27",
+"2027-12-26",
+"2028-12-31"
+]
+},
+"innocents": {
+"title": "The Holy Innocents, Martyrs",
+"rank": "feast",
+"colour": "red",
+"dates": [
+"2026-12-28",
+"2027-12-28",
+"2028-12-28"
+]
+},
+"christmas_octave_5": {
+"title": "5th Day within the Octave of the Nativity of the Lord [Christmas]",
+"rank": "ferial",
+"colour": "white",
+"dates": [
+"2026-12-29",
+"2027-12-29",
+"2028-12-29"
+]
+},
+"becket": {
+"title": "Saint Thomas Becket, Bishop and Martyr",
+"rank": "commemoration",
+"colour": "white",
+"dates": [
+"2026-12-29",
+"2027-12-29",
+"2028-12-29"
+]
+},
+"christmas_octave_6": {
+"title": "6th Day within the Octave of the Nativity of the Lord [Christmas]",
+"rank": "ferial",
+"colour": "white",
+"dates": [
+"2026-12-30",
+"2027-12-30",
+"2028-12-30"
+]
+},
+"christmas_octave_7": {
+"title": "7th Day within the Octave of the Nativity of the Lord [Christmas]",
+"rank": "ferial",
+"colour": "white",
+"dates": [
+"2026-12-31",
+"2027-12-31"
+]
+},
+"sylvester_i": {
+"title": "Saint Sylvester I, Pope",
+"rank": "commemoration",
+"colour": "white",
+"dates": [
+"2026-12-31",
+"2027-12-31"
+]
+},
+"pre_epiphany_saturday_january2": {
+"title": "Saturday of Christmas Time: January 2",
+"rank": "ferial",
+"colour": "white",
+"dates": [
+"2027-01-02"
+]
+},
+"seton": {
+"title": "Saint Elizabeth Ann Seton, Religious",
+"rank": "memorial",
+"colour": "white",
+"dates": [
+"2027-01-04",
+"2028-01-04"
+]
+},
+"paul_conversion": {
+"title": "The Conversion of Saint Paul the Apostle",
+"rank": "feast",
+"colour": "white",
+"dates": [
+"2027-01-25",
+"2028-01-25"
+]
+},
+"jerome_emiliani": {
+"title": "Saint Jerome Emiliani",
+"rank": "optional memorial",
+"colour": "white",
+"dates": [
+"2027-02-08",
+"2028-02-08"
+]
+},
+"josephine_bakhita": {
+"title": "Saint Josephine Bakhita, Virgin",
+"rank": "optional memorial",
+"colour": "white",
+"dates": [
+"2027-02-08",
+"2028-02-08"
+]
+},
+"chair_of_peter": {
+"title": "The Chair of Saint Peter the Apostle",
+"rank": "feast",
+"colour": "white",
+"dates": [
+"2027-02-22",
+"2028-02-22"
+]
+},
+"john_of_god": {
+"title": "Saint John of God, Religious",
+"rank": "commemoration",
+"colour": "violet",
+"dates": [
+"2027-03-08",
+"2028-03-08"
+]
+},
+"de_la_salle": {
+"title": "Saint John Baptist de la Salle, Priest",
+"rank": "memorial",
+"colour": "white",
+"dates": [
+"2027-04-07",
+"2028-04-07"
+]
+},
+"philip_james": {
+"title": "Saints Philip and James, Apostles",
+"rank": "feast",
+"colour": "red",
+"dates": [
+"2027-05-03",
+"2028-05-03"
+]
+},
+"john_of_avila": {
+"title": "Saint John of Avila, Priest and Doctor of the Church",
+"rank": "optional memorial",
+"colour": "white",
+"dates": [
+"2027-05-10",
+"2028-05-10"
+]
+},
+"de_veuster": {
+"title": "Saint Damien de Veuster, Priest",
+"rank": "optional memorial",
+"colour": "white",
+"dates": [
+"2027-05-10",
+"2028-05-10"
+]
+},
+"bede_venerable": {
+"title": "Saint Bede the Venerable, Priest and Doctor of the Church",
+"rank": "optional memorial",
+"colour": "white",
+"dates": [
+"2027-05-25",
+"2028-05-25"
+]
+},
+"gregory_vii": {
+"title": "Saint Gregory VII, Pope",
+"rank": "optional memorial",
+"colour": "white",
+"dates": [
+"2027-05-25",
+"2028-05-25"
+]
+},
+"de_pazzi": {
+"title": "Saint Mary Magdalene de\u2019 Pazzi, Virgin",
+"rank": "optional memorial",
+"colour": "white",
+"dates": [
+"2027-05-25",
+"2028-05-25"
+]
+},
+"visitation": {
+"title": "The Visitation of the Blessed Virgin Mary",
+"rank": "feast",
+"colour": "white",
+"dates": [
+"2027-05-31",
+"2028-05-31"
+]
+},
+"aloysius": {
+"title": "Saint Aloysius Gonzaga, Religious",
+"rank": "memorial",
+"colour": "white",
+"dates": [
+"2027-06-21",
+"2028-06-21"
+]
+},
+"irenaeus": {
+"title": "Saint Irenaeus, Bishop and Martyr",
+"rank": "memorial",
+"colour": "red",
+"dates": [
+"2027-06-28",
+"2028-06-28"
+]
+},
+"anthony_zaccaria": {
+"title": "Saint Anthony Zaccaria, Priest",
+"rank": "optional memorial",
+"colour": "white",
+"dates": [
+"2027-07-05",
+"2028-07-05"
+]
+},
+"elizabeth_of_portugal": {
+"title": "Saint Elizabeth of Portugal",
+"rank": "optional memorial",
+"colour": "white",
+"dates": [
+"2027-07-05",
+"2028-07-05"
+]
+},
+"joachim_anne": {
+"title": "Saints Joachim and Anne, Parents of the Blessed Virgin Mary",
+"rank": "memorial",
+"colour": "white",
+"dates": [
+"2027-07-26",
+"2028-07-26"
+]
+},
+"eusebius": {
+"title": "Saint Eusebius of Vercelli, Bishop",
+"rank": "optional memorial",
+"colour": "white",
+"dates": [
+"2027-08-02",
+"2028-08-02"
+]
+},
+"eymard": {
+"title": "Saint Peter Julian Eymard, Priest",
+"rank": "optional memorial",
+"colour": "white",
+"dates": [
+"2027-08-02",
+"2028-08-02"
+]
+},
+"stein": {
+"title": "Saint Teresa Benedicta of the Cross, Virgin and Martyr",
+"rank": "optional memorial",
+"colour": "red",
+"dates": [
+"2027-08-09",
+"2028-08-09"
+]
+},
+"stephen_hungary": {
+"title": "Saint Stephen of Hungary",
+"rank": "optional memorial",
+"colour": "white",
+"dates": [
+"2027-08-16",
+"2028-08-16"
+]
+},
+"rose_lima": {
+"title": "Saint Rose of Lima, Virgin",
+"rank": "optional memorial",
+"colour": "white",
+"dates": [
+"2027-08-23",
+"2028-08-23"
+]
+},
+"john_chrysostom": {
+"title": "Saint John Chrysostom, Bishop and Doctor of the Church",
+"rank": "memorial",
+"colour": "white",
+"dates": [
+"2027-09-13",
+"2028-09-13"
+]
+},
+"korean_martyrs": {
+"title": "Saint Andrew Kim Tae-g\u01d2n, Priest, and Paul Ch\u01d2ng Ha-sang, and Companions, Martyrs",
+"rank": "memorial",
+"colour": "red",
+"dates": [
+"2027-09-20",
+"2028-09-20"
+]
+},
+"vincent_de_paul": {
+"title": "Saint Vincent de Paul, Priest",
+"rank": "memorial",
+"colour": "white",
+"dates": [
+"2027-09-27",
+"2028-09-27"
+]
+},
+"francis_assisi": {
+"title": "Saint Francis of Assisi",
+"rank": "memorial",
+"colour": "white",
+"dates": [
+"2027-10-04",
+"2028-10-04"
+]
+},
+"john_xxiii": {
+"title": "Saint John XXIII, Pope",
+"rank": "optional memorial",
+"colour": "white",
+"dates": [
+"2027-10-11",
+"2028-10-11"
+]
+},
+"luke": {
+"title": "Saint Luke, Evangelist",
+"rank": "feast",
+"colour": "red",
+"dates": [
+"2027-10-18",
+"2028-10-18"
+]
+},
+"albert": {
+"title": "Saint Albert the Great, Bishop and Doctor of the Church",
+"rank": "optional memorial",
+"colour": "white",
+"dates": [
+"2027-11-15",
+"2028-11-15"
+]
+},
+"cecilia": {
+"title": "Saint Cecilia, Virgin and Martyr",
+"rank": "memorial",
+"colour": "red",
+"dates": [
+"2027-11-22",
+"2028-11-22"
+]
+},
+"nicholas": {
+"title": "Saint Nicholas, Bishop",
+"rank": "optional memorial",
+"colour": "white",
+"dates": [
+"2027-12-06",
+"2028-12-06"
+]
+},
+"lucy": {
+"title": "Saint Lucy, Virgin and Martyr",
+"rank": "memorial",
+"colour": "red",
+"dates": [
+"2027-12-13",
+"2028-12-13"
+]
+},
+"advent_friday_december17": {
+"title": "December 17th",
+"rank": "ferial",
+"colour": "violet",
+"dates": [
+"2027-12-17"
+]
+},
+"advent_saturday_december18": {
+"title": "December 18th",
+"rank": "ferial",
+"colour": "violet",
+"dates": [
+"2027-12-18"
+]
+},
+"advent_monday_december20": {
+"title": "December 20th",
+"rank": "ferial",
+"colour": "violet",
+"dates": [
+"2027-12-20"
+]
+},
+"advent_tuesday_december21": {
+"title": "December 21st",
+"rank": "ferial",
+"colour": "violet",
+"dates": [
+"2027-12-21"
+]
+},
+"advent_wednesday_december22": {
+"title": "December 22nd",
+"rank": "ferial",
+"colour": "violet",
+"dates": [
+"2027-12-22"
+]
+},
+"advent_thursday_december23": {
+"title": "December 23rd",
+"rank": "ferial",
+"colour": "violet",
+"dates": [
+"2027-12-23"
+]
+},
+"advent_friday_december24": {
+"title": "December 24th",
+"rank": "ferial",
+"colour": "violet",
+"dates": [
+"2027-12-24"
+]
+},
+"john_evangelist": {
+"title": "Saint John, Apostle and Evangelist",
+"rank": "feast",
+"colour": "white",
+"dates": [
+"2027-12-27",
+"2028-12-27"
+]
+},
+"isidore": {
+"title": "Saint Isidore, Bishop and Doctor of the Church",
+"rank": "commemoration",
+"colour": "violet",
+"dates": [
+"2028-04-04"
+]
+},
+"vincent_ferrer": {
+"title": "Saint Vincent Ferrer, Priest",
+"rank": "commemoration",
+"colour": "violet",
+"dates": [
+"2028-04-05"
+]
+},
+"advent_monday_december18": {
+"title": "December 18th",
+"rank": "ferial",
+"colour": "violet",
+"dates": [
+"2028-12-18"
+]
+},
+"advent_tuesday_december19": {
+"title": "December 19th",
+"rank": "ferial",
+"colour": "violet",
+"dates": [
+"2028-12-19"
+]
+},
+"advent_wednesday_december20": {
+"title": "December 20th",
+"rank": "ferial",
+"colour": "violet",
+"dates": [
+"2028-12-20"
+]
+},
+"advent_thursday_december21": {
+"title": "December 21st",
+"rank": "ferial",
+"colour": "violet",
+"dates": [
+"2028-12-21"
+]
+},
+"advent_friday_december22": {
+"title": "December 22nd",
+"rank": "ferial",
+"colour": "violet",
+"dates": [
+"2028-12-22"
+]
+},
+"advent_saturday_december23": {
+"title": "December 23rd",
+"rank": "ferial",
+"colour": "violet",
+"dates": [
+"2028-12-23"
+]
+}
+}

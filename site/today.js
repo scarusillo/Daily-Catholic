@@ -10,7 +10,7 @@
   const SEASON = { ordinary: "Ordinary Time", advent: "Advent", christmas: "Christmas", lent: "Lent", triduum: "Easter Triduum", easter: "Easter" };
   const dayKey = (d) => `${d.getFullYear()}-${String(d.getMonth() + 1).padStart(2, "0")}-${String(d.getDate()).padStart(2, "0")}`;
 
-  let CAL = null, READ = null, JOURNEYS = null;
+  let CAL = null, READ = null, JOURNEYS = null, SAINTS = null;
 
   /* feasts: "October 18" / "June 29 (Sts Peter and Paul); February 22 (...)" → people by month-day */
   function feastIndex() {
@@ -42,58 +42,71 @@
   }
 
   async function renderToday(root) {
-    const ctx = C();
-    root.innerHTML = `<p class="loading">Loading today…</p>`;
-    try { [CAL, READ] = await Promise.all([CAL || ctx.getJSON("data/calendar.json"), READ || ctx.getJSON("data/readings.json").catch(() => ({}))]); }
-    catch { CAL = CAL || {}; READ = READ || {}; }
+    const ctx = C(), T = (k) => window.I18N.T(k), L = (o) => window.I18N.L(o), loc = window.I18N.locale();
+    root.innerHTML = `<p class="loading">…</p>`;
+    try {
+      [CAL, READ, SAINTS] = await Promise.all([CAL || ctx.getJSON("data/calendar.json"), READ || ctx.getJSON("data/readings.json").catch(() => ({})),
+        SAINTS || ctx.getJSON("data/saints.json").catch(() => ({}))]);
+    } catch { CAL = CAL || {}; READ = READ || {}; SAINTS = SAINTS || {}; }
     await Promise.all([ctx.loadBible(), ctx.loadMentions()]);
     const now = new Date(), dk = dayKey(now), day = CAL[dk];
     const fi = feastIndex();
-    const md = dk.slice(5);
-    const saints = fi[md] || [];
-    // readings: today if it has its own Sunday/feast readings, otherwise the coming Sunday
-    let rdate = null;
-    for (let i = 0; i < 8; i++) { const d = new Date(now); d.setDate(d.getDate() + i); const k = dayKey(d); if (CAL[k]?.[5] && READ[CAL[k][5]]) { rdate = k; break; } }
-    const rday = rdate && CAL[rdate], rd = rday && READ[rday[5]];
+    const saints = fi[dk.slice(5)] || [];
+    // today's own readings (Sunday/feast key, else weekday key); fall back to the coming Sunday
+    const todayKeyR = day && (day[5] || day[6]);
+    let rdate = todayKeyR && READ[todayKeyR] ? dk : null;
+    if (!rdate) for (let i = 1; i < 8; i++) { const d = new Date(now); d.setDate(d.getDate() + i); const k = dayKey(d); if (CAL[k]?.[5] && READ[CAL[k][5]]) { rdate = k; break; } }
+    const rday = rdate && CAL[rdate], rd = rday && READ[rday[5] || rday[6]];
     const P = ctx.P;
     const notable = ctx.PEOPLE.filter((p) => p.summary.length > 120 && p.mentions >= 10);
     const potd = notable[Math.floor((Date.parse(dk) / 864e5) * 7919) % notable.length];
     const cel = day?.[4] || [];
     const main = cel[0];
     const G = window.BPM_GAMES;
+    // saint of the day: today's memorials/feasts with a write-up
+    const sotd = cel.map((c) => c[3] && SAINTS[c[3]] ? { id: c[3], s: SAINTS[c[3]] } : null).filter(Boolean);
+    const dateStr = now.toLocaleDateString(loc, { weekday: "long", month: "long", day: "numeric", year: "numeric" });
+    const celTitle = (c, dayRow = null) => (c[3] && SAINTS[c[3]] ? L(SAINTS[c[3]]).title || c[0] : esTitle(c[0], dayRow) || c[0]);
     root.innerHTML = `<div class="today">
       <section class="tband" style="--lit:${COLOURS[main?.[1]] || "var(--gold)"}">
-        <div class="eyebrow">${now.toLocaleDateString(undefined, { weekday: "long", month: "long", day: "numeric", year: "numeric" })}</div>
-        <h1>${esc(main?.[0] || "Today")}</h1>
-        <p class="qmeta">${day ? `${esc(SEASON[day[0]] || day[0])}${day[1] ? `, week ${day[1]}` : ""} · Sunday cycle ${esc(day[2])} · weekday cycle ${esc(day[3] === 1 ? "I" : "II")} · liturgical colour ${esc(main?.[1] || "")}` : "Liturgical calendar unavailable for this date."}</p>
-        ${cel.slice(1).length ? `<p>Also today: ${cel.slice(1).map((c) => esc(c[0])).join("; ")}</p>` : ""}
+        <div class="eyebrow">${esc(dateStr)}</div>
+        <h1>${esc(main ? celTitle(main, day) : T("today"))}</h1>
+        <p class="qmeta">${day ? `${esc(T("season." + day[0]))}${day[1] ? `, ${esc(T("week"))} ${day[1]}` : ""} · ${esc(T("colour"))}: ${esc(T("colours." + main?.[1]) !== "colours." + main?.[1] ? T("colours." + main?.[1]) : main?.[1] || "")}` : ""}</p>
+        ${cel.slice(1).length ? `<p>${esc(T("alsoToday"))} ${cel.slice(1).map((c) => esc(celTitle(c))).join("; ")}</p>` : ""}
       </section>
 
-      ${saints.length ? `<section class="tsec"><h2>Biblical saints celebrated today</h2><div class="chips">${saints.map((id) => ctx.chip(id)).join("")}</div></section>` : ""}
+      ${sotd.length ? `<section class="tsec"><h2>${esc(T("saintOfDay"))}</h2>${sotd.map(({ s }) => `<div class="saint">
+          <b>${esc(L(s).title || s.name)}</b>${s.years ? ` <span class="qmeta">${esc(s.years)}</span>` : ""}
+          <p>${esc(L(s).bio)}</p>${L(s).quote ? `<blockquote>${esc(L(s).quote)}</blockquote>` : ""}${s.patron ? `<p class="qmeta">${esc(s.patron)}</p>` : ""}
+          ${(s.people || []).filter((id) => P[id]).length ? `<div class="chips">${s.people.filter((id) => P[id]).map((id) => ctx.chip(id)).join("")}</div>` : ""}</div>`).join("")}</section>` : ""}
 
-      <section class="tsec"><h2>${rdate === dk ? "Today's Mass readings" : rd ? `This Sunday's readings · ${new Date(rdate + "T12:00").toLocaleDateString(undefined, { month: "long", day: "numeric" })}` : "Sunday readings"}</h2>
-        ${rd ? `<p class="qmeta">${esc(rday[4][0][0])}${rd.confidence && rd.confidence !== "high" ? " · citation not yet verified, check your missal" : ""}</p>
-          <div class="readings">${[["First reading", rd.first], ["Responsorial Psalm", rd.psalm], ["Second reading", rd.second], ["Gospel", rd.gospel]].filter(([, r]) => r).map(([lbl, ref]) => {
+      ${saints.filter((id) => !sotd.some(({ s }) => (s.people || []).includes(id))).length ? `<section class="tsec"><h2>${esc(T("biblicalSaints"))}</h2><div class="chips">${saints.map((id) => ctx.chip(id)).join("")}</div></section>` : ""}
+
+      <section class="tsec"><h2>${rdate === dk ? esc(T("todayReadings")) : `${esc(T("sundayReadings"))} · ${new Date(rdate + "T12:00").toLocaleDateString(loc, { month: "long", day: "numeric" })}`}</h2>
+        ${rd ? `<p class="qmeta">${esc(celTitle(rday[4][0], rday))}${rd.confidence && rd.confidence !== "high" ? ` · ${esc(T("unverified"))}` : ""}</p>
+          ${T("scriptureEnglish") ? `<p class="qmeta">${esc(T("scriptureEnglish"))}</p>` : ""}
+          <div class="readings">${[["firstReading", rd.first], ["psalm", rd.psalm], ["secondReading", rd.second], ["gospel", rd.gospel]].filter(([, r]) => r).map(([lbl, ref]) => {
             const r = ctx.parseRef(ref), who = peopleInRange(r).slice(0, 10);
-            return `<details class="reading"><summary><span class="eyebrow">${lbl}</span> <b>${esc(ctx.refLabel(ref))}</b>${who.length ? `<span class="who">${who.slice(0, 4).map((id) => esc(P[id].name)).join(", ")}${who.length > 4 ? "…" : ""}</span>` : ""}</summary>
-              <div class="passage"><p>${r ? ctx.verses(r).map((v) => `<sup>${v.v}</sup>${esc(v.t)}`).join(" ") : ""}</p><button class="ghost small" data-speak-ref="${esc(ref)}">▶ Listen</button></div>
-              ${who.length ? `<div class="chips"><span class="qmeta">People in this reading:</span>${who.map((id) => ctx.chip(id)).join("")}</div>` : ""}</details>`;
+            return `<details class="reading"><summary><span class="eyebrow">${esc(T(lbl))}</span> <b>${esc(ctx.refLabel(ref))}</b>${who.length ? `<span class="who">${who.slice(0, 4).map((id) => esc(P[id].name)).join(", ")}${who.length > 4 ? "…" : ""}</span>` : ""}</summary>
+              <div class="passage"><p>${r ? ctx.verses(r).map((v) => `<sup>${v.v}</sup>${esc(v.t)}`).join(" ") : ""}</p><button class="ghost small" data-speak-ref="${esc(ref)}">${esc(T("listen"))}</button></div>
+              ${who.length ? `<div class="chips"><span class="qmeta">${esc(T("peopleInReading"))}</span>${who.map((id) => ctx.chip(id)).join("")}</div>` : ""}</details>`;
           }).join("")}</div>
-          <p class="gfoot">Readings follow the Lectionary for Mass (US) for Sundays and holy days; weekday readings are not included yet. Verse numbers follow the World English Bible and can differ slightly from your missal.</p>`
-        : `<p class="qmeta">Sunday readings are being prepared.</p>`}
+          <p class="gfoot">${esc(T("readingsNote"))}</p>` : ""}
       </section>
 
-      <section class="tsec"><h2>Person of the day</h2>
+      <section class="tsec"><h2>${esc(T("personOfDay"))}</h2>
         <button class="potd" data-id="${potd.id}"><span class="eyebrow">${esc(potd.role)} · ${esc(potd.era)}</span><b>${esc(potd.name)}</b><span>${esc(potd.summary)}</span></button>
       </section>
 
-      <section class="tsec"><h2>Today's games</h2>
-        <div class="gmini">${G.GAMES.map((g) => `<button class="gm" data-go="${g.id}"><b>${g.name}</b><span>${G.playedToday(g.id) ? "✓ Played" : "Play"}${G.streak(g.id) ? ` · ${G.streak(g.id)}🔥` : ""}</span></button>`).join("")}</div>
+      <section class="tsec"><h2>${esc(T("todaysGames"))}</h2>
+        <div class="gmini">${G.GAMES.map((g) => `<button class="gm" data-go="${g.id}"><b>${esc(g.name)}</b><span>${G.playedToday(g.id) ? esc(T("played")) : esc(T("playNow"))}${G.streak(g.id) ? ` · ${G.streak(g.id)}🔥` : ""}</span></button>`).join("")}</div>
       </section>
 
       <section class="tsec" id="jcont"></section>
+      <section class="tsec" id="remind"></section>
       <section class="tsec" id="inbox" hidden></section>
     </div>`;
+    renderReminder($("#remind", root));
     // continue a journey
     try {
       JOURNEYS ??= await ctx.getJSON("data/journeys.json");
@@ -146,6 +159,60 @@
       prog[j.id] = [...set].sort((a, b) => a - b);
       ctx.store.set("bpm.journeys", prog);
       renderJourneys(root, j.id);
+    });
+  }
+
+  /* Spanish names for Sundays and weekdays (proper feasts come from saints.json) */
+  function esTitle(en, dayRow) {
+    if (window.I18N.lang !== "es" || !dayRow) return null;
+    const SEAS = { ordinary: "del Tiempo Ordinario", advent: "de Adviento", lent: "de Cuaresma", easter: "de Pascua", christmas: "de Navidad" };
+    const DAYS = { monday: "Lunes", tuesday: "Martes", wednesday: "Miércoles", thursday: "Jueves", friday: "Viernes", saturday: "Sábado" };
+    const [season, week] = dayRow;
+    let m = /^(\d+)\w\w Sunday (?:in|of)/.exec(en);
+    if (m && SEAS[season]) return `${m[1]}.º Domingo ${SEAS[season]}`;
+    m = /^(Monday|Tuesday|Wednesday|Thursday|Friday|Saturday) of the (\d+)\w\w Week/.exec(en);
+    if (m && SEAS[season]) return `${DAYS[m[1].toLowerCase()]} de la ${m[2]}.ª semana ${SEAS[season]}`;
+    m = /^(Monday|Tuesday|Wednesday|Thursday|Friday|Saturday) after Ash Wednesday/.exec(en);
+    if (m) return `${DAYS[m[1].toLowerCase()]} después del Miércoles de Ceniza`;
+    return null;
+  }
+
+  /* ---------- daily reminder ---------- */
+  // In the iPhone/Android app (Capacitor) this schedules a real local notification; on the web it
+  // creates a repeating calendar event (.ics), which every phone calendar can import.
+  function renderReminder(el) {
+    const T = (k) => window.I18N.T(k), ctx = C();
+    const st = ctx.store.get("bpm.remind", { time: "08:00" });
+    const LN = window.Capacitor?.Plugins?.LocalNotifications;
+    if (window.claude?.use && !LN) { el.hidden = true; return; } // downloads are blocked in the Claude preview
+    el.innerHTML = `<h2>${esc(T("reminders"))}</h2><p class="qmeta">${esc(T("reminderLede"))}</p>
+      <div class="findform"><label for="rtime">${esc(T("reminderTime"))}</label><input id="rtime" type="time" value="${esc(st.time)}"><button class="qnext" id="rset">${esc(T("addToCalendar"))}</button></div>
+      <p class="qmeta" id="rmsg"></p>`;
+    $("#rset", el).addEventListener("click", async () => {
+      const time = $("#rtime", el).value || "08:00";
+      ctx.store.set("bpm.remind", { time });
+      const [h, m] = time.split(":").map(Number);
+      const title = window.I18N.lang === "es" ? "The Daily Catholic: lecturas y juegos de hoy" : "The Daily Catholic: today's readings and games";
+      const url = "https://scarusillo.github.io/Daily-Catholic/#today";
+      if (LN) {
+        try {
+          await LN.requestPermissions();
+          await LN.schedule({ notifications: [{ id: 1, title: "The Daily Catholic", body: title, schedule: { on: { hour: h, minute: m }, repeats: true } }] });
+          $("#rmsg", el).textContent = `${T("reminderSet")} ${time}.`;
+        } catch { $("#rmsg", el).textContent = "Notifications are turned off for this app in your phone's settings."; }
+        return;
+      }
+      const d = new Date(); d.setHours(h, m, 0, 0);
+      const pad = (n) => String(n).padStart(2, "0");
+      const stamp = `${d.getFullYear()}${pad(d.getMonth() + 1)}${pad(d.getDate())}T${pad(h)}${pad(m)}00`;
+      const ics = ["BEGIN:VCALENDAR", "VERSION:2.0", "PRODID:-//The Daily Catholic//EN", "BEGIN:VEVENT", `UID:daily-catholic-reminder@scarusillo.github.io`,
+        `DTSTAMP:${new Date().toISOString().replace(/[-:]/g, "").slice(0, 15)}Z`, `DTSTART:${stamp}`, "DURATION:PT10M", "RRULE:FREQ=DAILY",
+        `SUMMARY:${title}`, `DESCRIPTION:${url}`, `URL:${url}`, "BEGIN:VALARM", "ACTION:DISPLAY", `DESCRIPTION:${title}`, "TRIGGER:PT0M", "END:VALARM", "END:VEVENT", "END:VCALENDAR"].join("\r\n");
+      const a = document.createElement("a");
+      a.href = URL.createObjectURL(new Blob([ics], { type: "text/calendar" }));
+      a.download = "daily-catholic-reminder.ics";
+      document.body.append(a); a.click(); a.remove();
+      $("#rmsg", el).textContent = T("reminderIcs");
     });
   }
 

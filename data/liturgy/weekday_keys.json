@@ -1,0 +1,3198 @@
+{
+"christmas-0102": {
+"title": "Friday of Christmas Time: January 2",
+"dates": [
+"2026-01-02",
+"2027-01-02"
+]
+},
+"christmas-0103": {
+"title": "Saturday of Christmas Time: January 3",
+"dates": [
+"2026-01-03"
+]
+},
+"christmas-after-epiphany-monday": {
+"title": "Saint John Neumann, Bishop",
+"dates": [
+"2026-01-05",
+"2027-01-04",
+"2028-01-03"
+]
+},
+"christmas-after-epiphany-tuesday": {
+"title": "Tuesday after Epiphany",
+"dates": [
+"2026-01-06",
+"2027-01-05",
+"2028-01-04"
+]
+},
+"christmas-after-epiphany-wednesday": {
+"title": "Wednesday after Epiphany",
+"dates": [
+"2026-01-07",
+"2027-01-06",
+"2028-01-05"
+]
+},
+"christmas-after-epiphany-thursday": {
+"title": "Thursday after Epiphany",
+"dates": [
+"2026-01-08",
+"2027-01-07",
+"2028-01-06"
+]
+},
+"christmas-after-epiphany-friday": {
+"title": "Friday after Epiphany",
+"dates": [
+"2026-01-09",
+"2027-01-08",
+"2028-01-07"
+]
+},
+"christmas-after-epiphany-saturday": {
+"title": "Saturday after Epiphany",
+"dates": [
+"2026-01-10",
+"2027-01-09",
+"2028-01-08"
+]
+},
+"ordinary-1-monday|II": {
+"title": "Monday of the 1st Week in Ordinary Time",
+"dates": [
+"2026-01-12",
+"2028-01-10"
+]
+},
+"ordinary-1-tuesday|II": {
+"title": "Tuesday of the 1st Week in Ordinary Time",
+"dates": [
+"2026-01-13",
+"2028-01-11"
+]
+},
+"ordinary-1-wednesday|II": {
+"title": "Wednesday of the 1st Week in Ordinary Time",
+"dates": [
+"2026-01-14",
+"2028-01-12"
+]
+},
+"ordinary-1-thursday|II": {
+"title": "Thursday of the 1st Week in Ordinary Time",
+"dates": [
+"2026-01-15",
+"2028-01-13"
+]
+},
+"ordinary-1-friday|II": {
+"title": "Friday of the 1st Week in Ordinary Time",
+"dates": [
+"2026-01-16",
+"2028-01-14"
+]
+},
+"ordinary-1-saturday|II": {
+"title": "Saint Anthony, Abbot",
+"dates": [
+"2026-01-17",
+"2028-01-15"
+]
+},
+"ordinary-2-monday|II": {
+"title": "Monday of the 2nd Week in Ordinary Time",
+"dates": [
+"2026-01-19",
+"2028-01-17"
+]
+},
+"ordinary-2-tuesday|II": {
+"title": "Tuesday of the 2nd Week in Ordinary Time",
+"dates": [
+"2026-01-20",
+"2028-01-18"
+]
+},
+"ordinary-2-wednesday|II": {
+"title": "Saint Agnes, Virgin and Martyr",
+"dates": [
+"2026-01-21",
+"2028-01-19"
+]
+},
+"ordinary-2-thursday|II": {
+"title": "Thursday of the 2nd Week in Ordinary Time",
+"dates": [
+"2026-01-22",
+"2028-01-20"
+]
+},
+"ordinary-2-friday|II": {
+"title": "Friday of the 2nd Week in Ordinary Time",
+"dates": [
+"2026-01-23",
+"2028-01-21"
+]
+},
+"ordinary-2-saturday|II": {
+"title": "Saint Francis de Sales, Bishop and Doctor of the Church",
+"dates": [
+"2026-01-24",
+"2028-01-22"
+]
+},
+"ordinary-3-monday|II": {
+"title": "Saints Timothy and Titus, Bishops",
+"dates": [
+"2026-01-26",
+"2028-01-24"
+]
+},
+"ordinary-3-tuesday|II": {
+"title": "Tuesday of the 3rd Week in Ordinary Time",
+"dates": [
+"2026-01-27"
+]
+},
+"ordinary-3-wednesday|II": {
+"title": "Saint Thomas Aquinas, Priest and Doctor of the Church",
+"dates": [
+"2026-01-28",
+"2028-01-26"
+]
+},
+"ordinary-3-thursday|II": {
+"title": "Thursday of the 3rd Week in Ordinary Time",
+"dates": [
+"2026-01-29",
+"2028-01-27"
+]
+},
+"ordinary-3-friday|II": {
+"title": "Friday of the 3rd Week in Ordinary Time",
+"dates": [
+"2026-01-30",
+"2028-01-28"
+]
+},
+"ordinary-3-saturday|II": {
+"title": "Saint John Bosco, Priest",
+"dates": [
+"2026-01-31",
+"2028-01-29"
+]
+},
+"ordinary-4-tuesday|II": {
+"title": "Tuesday of the 4th Week in Ordinary Time",
+"dates": [
+"2026-02-03",
+"2028-02-01"
+]
+},
+"ordinary-4-wednesday|II": {
+"title": "Wednesday of the 4th Week in Ordinary Time",
+"dates": [
+"2026-02-04"
+]
+},
+"ordinary-4-thursday|II": {
+"title": "Saint Agatha, Virgin and Martyr",
+"dates": [
+"2026-02-05",
+"2028-02-03"
+]
+},
+"ordinary-4-friday|II": {
+"title": "Saint Paul Miki and Companions, Martyrs",
+"dates": [
+"2026-02-06",
+"2028-02-04"
+]
+},
+"ordinary-4-saturday|II": {
+"title": "Saturday of the 4th Week in Ordinary Time",
+"dates": [
+"2026-02-07",
+"2028-02-05"
+]
+},
+"ordinary-5-monday|II": {
+"title": "Monday of the 5th Week in Ordinary Time",
+"dates": [
+"2026-02-09",
+"2028-02-07"
+]
+},
+"ordinary-5-tuesday|II": {
+"title": "Saint Scholastica, Virgin",
+"dates": [
+"2026-02-10",
+"2028-02-08"
+]
+},
+"ordinary-5-wednesday|II": {
+"title": "Wednesday of the 5th Week in Ordinary Time",
+"dates": [
+"2026-02-11",
+"2028-02-09"
+]
+},
+"ordinary-5-thursday|II": {
+"title": "Thursday of the 5th Week in Ordinary Time",
+"dates": [
+"2026-02-12",
+"2028-02-10"
+]
+},
+"ordinary-5-friday|II": {
+"title": "Friday of the 5th Week in Ordinary Time",
+"dates": [
+"2026-02-13",
+"2028-02-11"
+]
+},
+"ordinary-5-saturday|II": {
+"title": "Saints Cyril, Monk, and Methodius, Bishop",
+"dates": [
+"2026-02-14",
+"2028-02-12"
+]
+},
+"ordinary-6-monday|II": {
+"title": "Monday of the 6th Week in Ordinary Time",
+"dates": [
+"2026-02-16",
+"2028-02-14"
+]
+},
+"ordinary-6-tuesday|II": {
+"title": "Tuesday of the 6th Week in Ordinary Time",
+"dates": [
+"2026-02-17",
+"2028-02-15"
+]
+},
+"lent-0-thursday": {
+"title": "Thursday after Ash Wednesday",
+"dates": [
+"2026-02-19",
+"2027-02-11",
+"2028-03-02"
+]
+},
+"lent-0-friday": {
+"title": "Friday after Ash Wednesday",
+"dates": [
+"2026-02-20",
+"2027-02-12",
+"2028-03-03"
+]
+},
+"lent-0-saturday": {
+"title": "Saturday after Ash Wednesday",
+"dates": [
+"2026-02-21",
+"2027-02-13",
+"2028-03-04"
+]
+},
+"lent-1-monday": {
+"title": "Monday of the 1st Week of Lent",
+"dates": [
+"2026-02-23",
+"2027-02-15",
+"2028-03-06"
+]
+},
+"lent-1-tuesday": {
+"title": "Tuesday of the 1st Week of Lent",
+"dates": [
+"2026-02-24",
+"2027-02-16",
+"2028-03-07"
+]
+},
+"lent-1-wednesday": {
+"title": "Wednesday of the 1st Week of Lent",
+"dates": [
+"2026-02-25",
+"2027-02-17",
+"2028-03-08"
+]
+},
+"lent-1-thursday": {
+"title": "Thursday of the 1st Week of Lent",
+"dates": [
+"2026-02-26",
+"2027-02-18",
+"2028-03-09"
+]
+},
+"lent-1-friday": {
+"title": "Friday of the 1st Week of Lent",
+"dates": [
+"2026-02-27",
+"2027-02-19",
+"2028-03-10"
+]
+},
+"lent-1-saturday": {
+"title": "Saturday of the 1st Week of Lent",
+"dates": [
+"2026-02-28",
+"2027-02-20",
+"2028-03-11"
+]
+},
+"lent-2-monday": {
+"title": "Monday of the 2nd Week of Lent",
+"dates": [
+"2026-03-02",
+"2028-03-13"
+]
+},
+"lent-2-tuesday": {
+"title": "Tuesday of the 2nd Week of Lent",
+"dates": [
+"2026-03-03",
+"2027-02-23",
+"2028-03-14"
+]
+},
+"lent-2-wednesday": {
+"title": "Wednesday of the 2nd Week of Lent",
+"dates": [
+"2026-03-04",
+"2027-02-24",
+"2028-03-15"
+]
+},
+"lent-2-thursday": {
+"title": "Thursday of the 2nd Week of Lent",
+"dates": [
+"2026-03-05",
+"2027-02-25",
+"2028-03-16"
+]
+},
+"lent-2-friday": {
+"title": "Friday of the 2nd Week of Lent",
+"dates": [
+"2026-03-06",
+"2027-02-26",
+"2028-03-17"
+]
+},
+"lent-2-saturday": {
+"title": "Saturday of the 2nd Week of Lent",
+"dates": [
+"2026-03-07",
+"2027-02-27",
+"2028-03-18"
+]
+},
+"lent-3-monday": {
+"title": "Monday of the 3rd Week of Lent",
+"dates": [
+"2026-03-09",
+"2027-03-01"
+]
+},
+"lent-3-tuesday": {
+"title": "Tuesday of the 3rd Week of Lent",
+"dates": [
+"2026-03-10",
+"2027-03-02",
+"2028-03-21"
+]
+},
+"lent-3-wednesday": {
+"title": "Wednesday of the 3rd Week of Lent",
+"dates": [
+"2026-03-11",
+"2027-03-03",
+"2028-03-22"
+]
+},
+"lent-3-thursday": {
+"title": "Thursday of the 3rd Week of Lent",
+"dates": [
+"2026-03-12",
+"2027-03-04",
+"2028-03-23"
+]
+},
+"lent-3-friday": {
+"title": "Friday of the 3rd Week of Lent",
+"dates": [
+"2026-03-13",
+"2027-03-05",
+"2028-03-24"
+]
+},
+"lent-3-saturday": {
+"title": "Saturday of the 3rd Week of Lent",
+"dates": [
+"2026-03-14",
+"2027-03-06"
+]
+},
+"lent-4-monday": {
+"title": "Monday of the 4th Week of Lent",
+"dates": [
+"2026-03-16",
+"2027-03-08",
+"2028-03-27"
+]
+},
+"lent-4-tuesday": {
+"title": "Tuesday of the 4th Week of Lent",
+"dates": [
+"2026-03-17",
+"2027-03-09",
+"2028-03-28"
+]
+},
+"lent-4-wednesday": {
+"title": "Wednesday of the 4th Week of Lent",
+"dates": [
+"2026-03-18",
+"2027-03-10",
+"2028-03-29"
+]
+},
+"lent-4-friday": {
+"title": "Friday of the 4th Week of Lent",
+"dates": [
+"2026-03-20",
+"2027-03-12",
+"2028-03-31"
+]
+},
+"lent-4-saturday": {
+"title": "Saturday of the 4th Week of Lent",
+"dates": [
+"2026-03-21",
+"2027-03-13",
+"2028-04-01"
+]
+},
+"lent-5-monday": {
+"title": "Monday of the 5th Week of Lent",
+"dates": [
+"2026-03-23",
+"2027-03-15",
+"2028-04-03"
+]
+},
+"lent-5-tuesday": {
+"title": "Tuesday of the 5th Week of Lent",
+"dates": [
+"2026-03-24",
+"2027-03-16",
+"2028-04-04"
+]
+},
+"lent-5-thursday": {
+"title": "Thursday of the 5th Week of Lent",
+"dates": [
+"2026-03-26",
+"2027-03-18",
+"2028-04-06"
+]
+},
+"lent-5-friday": {
+"title": "Friday of the 5th Week of Lent",
+"dates": [
+"2026-03-27",
+"2028-04-07"
+]
+},
+"lent-5-saturday": {
+"title": "Saturday of the 5th Week of Lent",
+"dates": [
+"2026-03-28",
+"2027-03-20",
+"2028-04-08"
+]
+},
+"easter-2-monday": {
+"title": "Monday of the 2nd week of Easter",
+"dates": [
+"2026-04-13",
+"2028-04-24"
+]
+},
+"easter-2-tuesday": {
+"title": "Tuesday of the 2nd week of Easter",
+"dates": [
+"2026-04-14",
+"2027-04-06"
+]
+},
+"easter-2-wednesday": {
+"title": "Wednesday of the 2nd week of Easter",
+"dates": [
+"2026-04-15",
+"2027-04-07",
+"2028-04-26"
+]
+},
+"easter-2-thursday": {
+"title": "Thursday of the 2nd week of Easter",
+"dates": [
+"2026-04-16",
+"2027-04-08",
+"2028-04-27"
+]
+},
+"easter-2-friday": {
+"title": "Friday of the 2nd week of Easter",
+"dates": [
+"2026-04-17",
+"2027-04-09",
+"2028-04-28"
+]
+},
+"easter-2-saturday": {
+"title": "Saturday of the 2nd week of Easter",
+"dates": [
+"2026-04-18",
+"2027-04-10",
+"2028-04-29"
+]
+},
+"easter-3-monday": {
+"title": "Monday of the 3rd week of Easter",
+"dates": [
+"2026-04-20",
+"2027-04-12",
+"2028-05-01"
+]
+},
+"easter-3-tuesday": {
+"title": "Tuesday of the 3rd week of Easter",
+"dates": [
+"2026-04-21",
+"2027-04-13",
+"2028-05-02"
+]
+},
+"easter-3-wednesday": {
+"title": "Wednesday of the 3rd week of Easter",
+"dates": [
+"2026-04-22",
+"2027-04-14"
+]
+},
+"easter-3-thursday": {
+"title": "Thursday of the 3rd week of Easter",
+"dates": [
+"2026-04-23",
+"2027-04-15",
+"2028-05-04"
+]
+},
+"easter-3-friday": {
+"title": "Friday of the 3rd week of Easter",
+"dates": [
+"2026-04-24",
+"2027-04-16",
+"2028-05-05"
+]
+},
+"easter-4-monday": {
+"title": "Monday of the 4th week of Easter",
+"dates": [
+"2026-04-27",
+"2027-04-19",
+"2028-05-08"
+]
+},
+"easter-4-tuesday": {
+"title": "Tuesday of the 4th week of Easter",
+"dates": [
+"2026-04-28",
+"2027-04-20",
+"2028-05-09"
+]
+},
+"easter-4-wednesday": {
+"title": "Saint Catherine of Siena, Virgin and Doctor of the Church",
+"dates": [
+"2026-04-29",
+"2027-04-21",
+"2028-05-10"
+]
+},
+"easter-4-thursday": {
+"title": "Thursday of the 4th week of Easter",
+"dates": [
+"2026-04-30",
+"2027-04-22",
+"2028-05-11"
+]
+},
+"easter-4-friday": {
+"title": "Friday of the 4th week of Easter",
+"dates": [
+"2026-05-01",
+"2027-04-23",
+"2028-05-12"
+]
+},
+"easter-4-saturday": {
+"title": "Saint Athanasius, Bishop and Doctor of the Church",
+"dates": [
+"2026-05-02",
+"2027-04-24",
+"2028-05-13"
+]
+},
+"easter-5-monday": {
+"title": "Monday of the 5th week of Easter",
+"dates": [
+"2026-05-04",
+"2027-04-26",
+"2028-05-15"
+]
+},
+"easter-5-tuesday": {
+"title": "Tuesday of the 5th week of Easter",
+"dates": [
+"2026-05-05",
+"2027-04-27",
+"2028-05-16"
+]
+},
+"easter-5-wednesday": {
+"title": "Wednesday of the 5th week of Easter",
+"dates": [
+"2026-05-06",
+"2027-04-28",
+"2028-05-17"
+]
+},
+"easter-5-thursday": {
+"title": "Thursday of the 5th week of Easter",
+"dates": [
+"2026-05-07",
+"2027-04-29",
+"2028-05-18"
+]
+},
+"easter-5-friday": {
+"title": "Friday of the 5th week of Easter",
+"dates": [
+"2026-05-08",
+"2027-04-30",
+"2028-05-19"
+]
+},
+"easter-5-saturday": {
+"title": "Saturday of the 5th week of Easter",
+"dates": [
+"2026-05-09",
+"2027-05-01",
+"2028-05-20"
+]
+},
+"easter-6-monday": {
+"title": "Monday of the 6th week of Easter",
+"dates": [
+"2026-05-11",
+"2028-05-22"
+]
+},
+"easter-6-tuesday": {
+"title": "Tuesday of the 6th week of Easter",
+"dates": [
+"2026-05-12",
+"2027-05-04",
+"2028-05-23"
+]
+},
+"easter-6-wednesday": {
+"title": "Wednesday of the 6th week of Easter",
+"dates": [
+"2026-05-13",
+"2027-05-05",
+"2028-05-24"
+]
+},
+"easter-6-friday": {
+"title": "Friday of the 6th week of Easter",
+"dates": [
+"2026-05-15",
+"2027-05-07",
+"2028-05-26"
+]
+},
+"easter-6-saturday": {
+"title": "Saturday of the 6th week of Easter",
+"dates": [
+"2026-05-16",
+"2027-05-08",
+"2028-05-27"
+]
+},
+"easter-7-monday": {
+"title": "Monday of the 7th week of Easter",
+"dates": [
+"2026-05-18",
+"2027-05-10",
+"2028-05-29"
+]
+},
+"easter-7-tuesday": {
+"title": "Tuesday of the 7th week of Easter",
+"dates": [
+"2026-05-19",
+"2027-05-11",
+"2028-05-30"
+]
+},
+"easter-7-wednesday": {
+"title": "Wednesday of the 7th week of Easter",
+"dates": [
+"2026-05-20",
+"2027-05-12"
+]
+},
+"easter-7-thursday": {
+"title": "Thursday of the 7th week of Easter",
+"dates": [
+"2026-05-21",
+"2027-05-13",
+"2028-06-01"
+]
+},
+"easter-7-friday": {
+"title": "Friday of the 7th week of Easter",
+"dates": [
+"2026-05-22",
+"2028-06-02"
+]
+},
+"easter-7-saturday": {
+"title": "Saturday of the 7th week of Easter",
+"dates": [
+"2026-05-23",
+"2027-05-15",
+"2028-06-03"
+]
+},
+"ordinary-8-monday|II": {
+"title": "The Blessed Virgin Mary, Mother of the Church",
+"dates": [
+"2026-05-25",
+"2028-02-28"
+]
+},
+"ordinary-8-tuesday|II": {
+"title": "Saint Philip Neri, Priest",
+"dates": [
+"2026-05-26",
+"2028-02-29"
+]
+},
+"ordinary-8-wednesday|II": {
+"title": "Wednesday of the 8th Week in Ordinary Time",
+"dates": [
+"2026-05-27"
+]
+},
+"ordinary-8-thursday|II": {
+"title": "Thursday of the 8th Week in Ordinary Time",
+"dates": [
+"2026-05-28"
+]
+},
+"ordinary-8-friday|II": {
+"title": "Friday of the 8th Week in Ordinary Time",
+"dates": [
+"2026-05-29"
+]
+},
+"ordinary-8-saturday|II": {
+"title": "Saturday of the 8th Week in Ordinary Time",
+"dates": [
+"2026-05-30"
+]
+},
+"ordinary-9-monday|II": {
+"title": "Saint Justin, Martyr",
+"dates": [
+"2026-06-01",
+"2028-06-05"
+]
+},
+"ordinary-9-tuesday|II": {
+"title": "Tuesday of the 9th Week in Ordinary Time",
+"dates": [
+"2026-06-02",
+"2028-06-06"
+]
+},
+"ordinary-9-wednesday|II": {
+"title": "Saint Charles Lwanga and Companions, Martyrs",
+"dates": [
+"2026-06-03",
+"2028-06-07"
+]
+},
+"ordinary-9-thursday|II": {
+"title": "Thursday of the 9th Week in Ordinary Time",
+"dates": [
+"2026-06-04",
+"2028-06-08"
+]
+},
+"ordinary-9-friday|II": {
+"title": "Saint Boniface, Bishop and Martyr",
+"dates": [
+"2026-06-05",
+"2028-06-09"
+]
+},
+"ordinary-9-saturday|II": {
+"title": "Saturday of the 9th Week in Ordinary Time",
+"dates": [
+"2026-06-06",
+"2028-06-10"
+]
+},
+"ordinary-10-monday|II": {
+"title": "Monday of the 10th Week in Ordinary Time",
+"dates": [
+"2026-06-08",
+"2028-06-12"
+]
+},
+"ordinary-10-tuesday|II": {
+"title": "Tuesday of the 10th Week in Ordinary Time",
+"dates": [
+"2026-06-09",
+"2028-06-13"
+]
+},
+"ordinary-10-wednesday|II": {
+"title": "Wednesday of the 10th Week in Ordinary Time",
+"dates": [
+"2026-06-10",
+"2028-06-14"
+]
+},
+"ordinary-10-thursday|II": {
+"title": "Saint Barnabas, Apostle",
+"dates": [
+"2026-06-11",
+"2028-06-15"
+]
+},
+"ordinary-10-saturday|II": {
+"title": "Saturday of the 10th Week in Ordinary Time",
+"dates": [
+"2026-06-13",
+"2028-06-17"
+]
+},
+"ordinary-11-monday|II": {
+"title": "Monday of the 11th Week in Ordinary Time",
+"dates": [
+"2026-06-15",
+"2028-06-19"
+]
+},
+"ordinary-11-tuesday|II": {
+"title": "Tuesday of the 11th Week in Ordinary Time",
+"dates": [
+"2026-06-16",
+"2028-06-20"
+]
+},
+"ordinary-11-wednesday|II": {
+"title": "Wednesday of the 11th Week in Ordinary Time",
+"dates": [
+"2026-06-17",
+"2028-06-21"
+]
+},
+"ordinary-11-thursday|II": {
+"title": "Thursday of the 11th Week in Ordinary Time",
+"dates": [
+"2026-06-18",
+"2028-06-22"
+]
+},
+"ordinary-11-friday|II": {
+"title": "Friday of the 11th Week in Ordinary Time",
+"dates": [
+"2026-06-19"
+]
+},
+"ordinary-11-saturday|II": {
+"title": "Saturday of the 11th Week in Ordinary Time",
+"dates": [
+"2026-06-20"
+]
+},
+"ordinary-12-monday|II": {
+"title": "Monday of the 12th Week in Ordinary Time",
+"dates": [
+"2026-06-22",
+"2028-06-26"
+]
+},
+"ordinary-12-tuesday|II": {
+"title": "Tuesday of the 12th Week in Ordinary Time",
+"dates": [
+"2026-06-23",
+"2028-06-27"
+]
+},
+"ordinary-12-thursday|II": {
+"title": "Thursday of the 12th Week in Ordinary Time",
+"dates": [
+"2026-06-25"
+]
+},
+"ordinary-12-friday|II": {
+"title": "Friday of the 12th Week in Ordinary Time",
+"dates": [
+"2026-06-26",
+"2028-06-30"
+]
+},
+"ordinary-12-saturday|II": {
+"title": "Saturday of the 12th Week in Ordinary Time",
+"dates": [
+"2026-06-27",
+"2028-07-01"
+]
+},
+"ordinary-13-tuesday|II": {
+"title": "Tuesday of the 13th Week in Ordinary Time",
+"dates": [
+"2026-06-30",
+"2028-07-04"
+]
+},
+"ordinary-13-wednesday|II": {
+"title": "Wednesday of the 13th Week in Ordinary Time",
+"dates": [
+"2026-07-01",
+"2028-07-05"
+]
+},
+"ordinary-13-thursday|II": {
+"title": "Thursday of the 13th Week in Ordinary Time",
+"dates": [
+"2026-07-02",
+"2028-07-06"
+]
+},
+"ordinary-13-saturday|II": {
+"title": "Saturday of the 13th Week in Ordinary Time",
+"dates": [
+"2026-07-04",
+"2028-07-08"
+]
+},
+"ordinary-14-monday|II": {
+"title": "Monday of the 14th Week in Ordinary Time",
+"dates": [
+"2026-07-06",
+"2028-07-10"
+]
+},
+"ordinary-14-tuesday|II": {
+"title": "Tuesday of the 14th Week in Ordinary Time",
+"dates": [
+"2026-07-07",
+"2028-07-11"
+]
+},
+"ordinary-14-wednesday|II": {
+"title": "Wednesday of the 14th Week in Ordinary Time",
+"dates": [
+"2026-07-08",
+"2028-07-12"
+]
+},
+"ordinary-14-thursday|II": {
+"title": "Thursday of the 14th Week in Ordinary Time",
+"dates": [
+"2026-07-09",
+"2028-07-13"
+]
+},
+"ordinary-14-friday|II": {
+"title": "Friday of the 14th Week in Ordinary Time",
+"dates": [
+"2026-07-10",
+"2028-07-14"
+]
+},
+"ordinary-14-saturday|II": {
+"title": "Saint Benedict, Abbot",
+"dates": [
+"2026-07-11",
+"2028-07-15"
+]
+},
+"ordinary-15-monday|II": {
+"title": "Monday of the 15th Week in Ordinary Time",
+"dates": [
+"2026-07-13",
+"2028-07-17"
+]
+},
+"ordinary-15-tuesday|II": {
+"title": "Blessed Kateri Tekakwitha, Virgin",
+"dates": [
+"2026-07-14",
+"2028-07-18"
+]
+},
+"ordinary-15-wednesday|II": {
+"title": "Saint Bonaventure, Bishop and Doctor of the Church",
+"dates": [
+"2026-07-15",
+"2028-07-19"
+]
+},
+"ordinary-15-thursday|II": {
+"title": "Thursday of the 15th Week in Ordinary Time",
+"dates": [
+"2026-07-16",
+"2028-07-20"
+]
+},
+"ordinary-15-friday|II": {
+"title": "Friday of the 15th Week in Ordinary Time",
+"dates": [
+"2026-07-17",
+"2028-07-21"
+]
+},
+"ordinary-15-saturday|II": {
+"title": "Saturday of the 15th Week in Ordinary Time",
+"dates": [
+"2026-07-18"
+]
+},
+"ordinary-16-monday|II": {
+"title": "Monday of the 16th Week in Ordinary Time",
+"dates": [
+"2026-07-20",
+"2028-07-24"
+]
+},
+"ordinary-16-tuesday|II": {
+"title": "Tuesday of the 16th Week in Ordinary Time",
+"dates": [
+"2026-07-21"
+]
+},
+"ordinary-16-thursday|II": {
+"title": "Thursday of the 16th Week in Ordinary Time",
+"dates": [
+"2026-07-23",
+"2028-07-27"
+]
+},
+"ordinary-16-friday|II": {
+"title": "Friday of the 16th Week in Ordinary Time",
+"dates": [
+"2026-07-24",
+"2028-07-28"
+]
+},
+"ordinary-17-monday|II": {
+"title": "Monday of the 17th Week in Ordinary Time",
+"dates": [
+"2026-07-27",
+"2028-07-31"
+]
+},
+"ordinary-17-tuesday|II": {
+"title": "Tuesday of the 17th Week in Ordinary Time",
+"dates": [
+"2026-07-28",
+"2028-08-01"
+]
+},
+"ordinary-17-wednesday|II": {
+"title": "Saints Martha, Mary, and Lazarus",
+"dates": [
+"2026-07-29",
+"2028-08-02"
+]
+},
+"ordinary-17-thursday|II": {
+"title": "Thursday of the 17th Week in Ordinary Time",
+"dates": [
+"2026-07-30",
+"2028-08-03"
+]
+},
+"ordinary-17-friday|II": {
+"title": "Saint Ignatius of Loyola, Priest",
+"dates": [
+"2026-07-31",
+"2028-08-04"
+]
+},
+"ordinary-17-saturday|II": {
+"title": "Saint Alphonsus Liguori, Bishop and Doctor of the Church",
+"dates": [
+"2026-08-01",
+"2028-08-05"
+]
+},
+"ordinary-18-monday|II": {
+"title": "Monday of the 18th Week in Ordinary Time",
+"dates": [
+"2026-08-03",
+"2028-08-07"
+]
+},
+"ordinary-18-tuesday|II": {
+"title": "Saint John Vianney, Priest",
+"dates": [
+"2026-08-04",
+"2028-08-08"
+]
+},
+"ordinary-18-wednesday|II": {
+"title": "Wednesday of the 18th Week in Ordinary Time",
+"dates": [
+"2026-08-05",
+"2028-08-09"
+]
+},
+"ordinary-18-friday|II": {
+"title": "Friday of the 18th Week in Ordinary Time",
+"dates": [
+"2026-08-07",
+"2028-08-11"
+]
+},
+"ordinary-18-saturday|II": {
+"title": "Saint Dominic, Priest",
+"dates": [
+"2026-08-08",
+"2028-08-12"
+]
+},
+"ordinary-19-tuesday|II": {
+"title": "Saint Clare, Virgin",
+"dates": [
+"2026-08-11"
+]
+},
+"ordinary-19-wednesday|II": {
+"title": "Wednesday of the 19th Week in Ordinary Time",
+"dates": [
+"2026-08-12",
+"2028-08-16"
+]
+},
+"ordinary-19-thursday|II": {
+"title": "Thursday of the 19th Week in Ordinary Time",
+"dates": [
+"2026-08-13",
+"2028-08-17"
+]
+},
+"ordinary-19-friday|II": {
+"title": "Saint Maximilian Kolbe, Priest and Martyr",
+"dates": [
+"2026-08-14",
+"2028-08-18"
+]
+},
+"ordinary-20-monday|II": {
+"title": "Monday of the 20th Week in Ordinary Time",
+"dates": [
+"2026-08-17",
+"2028-08-21"
+]
+},
+"ordinary-20-tuesday|II": {
+"title": "Tuesday of the 20th Week in Ordinary Time",
+"dates": [
+"2026-08-18",
+"2028-08-22"
+]
+},
+"ordinary-20-wednesday|II": {
+"title": "Wednesday of the 20th Week in Ordinary Time",
+"dates": [
+"2026-08-19",
+"2028-08-23"
+]
+},
+"ordinary-20-thursday|II": {
+"title": "Saint Bernard, Abbot and Doctor of the Church",
+"dates": [
+"2026-08-20"
+]
+},
+"ordinary-20-friday|II": {
+"title": "Saint Pius X, Pope",
+"dates": [
+"2026-08-21",
+"2028-08-25"
+]
+},
+"ordinary-20-saturday|II": {
+"title": "The Queenship of the Blessed Virgin Mary",
+"dates": [
+"2026-08-22",
+"2028-08-26"
+]
+},
+"ordinary-21-tuesday|II": {
+"title": "Tuesday of the 21st Week in Ordinary Time",
+"dates": [
+"2026-08-25",
+"2028-08-29"
+]
+},
+"ordinary-21-wednesday|II": {
+"title": "Wednesday of the 21st Week in Ordinary Time",
+"dates": [
+"2026-08-26",
+"2028-08-30"
+]
+},
+"ordinary-21-thursday|II": {
+"title": "Saint Monica",
+"dates": [
+"2026-08-27",
+"2028-08-31"
+]
+},
+"ordinary-21-friday|II": {
+"title": "Saint Augustine, Bishop and Doctor of the Church",
+"dates": [
+"2026-08-28",
+"2028-09-01"
+]
+},
+"ordinary-21-saturday|II": {
+"title": "The Passion of Saint John the Baptist",
+"dates": [
+"2026-08-29",
+"2028-09-02"
+]
+},
+"ordinary-22-monday|II": {
+"title": "Monday of the 22nd Week in Ordinary Time",
+"dates": [
+"2026-08-31",
+"2028-09-04"
+]
+},
+"ordinary-22-tuesday|II": {
+"title": "Tuesday of the 22nd Week in Ordinary Time",
+"dates": [
+"2026-09-01",
+"2028-09-05"
+]
+},
+"ordinary-22-wednesday|II": {
+"title": "Wednesday of the 22nd Week in Ordinary Time",
+"dates": [
+"2026-09-02",
+"2028-09-06"
+]
+},
+"ordinary-22-thursday|II": {
+"title": "Saint Gregory the Great, Pope and Doctor of the Church",
+"dates": [
+"2026-09-03",
+"2028-09-07"
+]
+},
+"ordinary-22-friday|II": {
+"title": "Friday of the 22nd Week in Ordinary Time",
+"dates": [
+"2026-09-04"
+]
+},
+"ordinary-22-saturday|II": {
+"title": "Saturday of the 22nd Week in Ordinary Time",
+"dates": [
+"2026-09-05",
+"2028-09-09"
+]
+},
+"ordinary-23-monday|II": {
+"title": "Monday of the 23rd Week in Ordinary Time",
+"dates": [
+"2026-09-07",
+"2028-09-11"
+]
+},
+"ordinary-23-wednesday|II": {
+"title": "Saint Peter Claver, Priest",
+"dates": [
+"2026-09-09",
+"2028-09-13"
+]
+},
+"ordinary-23-thursday|II": {
+"title": "Thursday of the 23rd Week in Ordinary Time",
+"dates": [
+"2026-09-10"
+]
+},
+"ordinary-23-friday|II": {
+"title": "Friday of the 23rd Week in Ordinary Time",
+"dates": [
+"2026-09-11",
+"2028-09-15"
+]
+},
+"ordinary-23-saturday|II": {
+"title": "Saturday of the 23rd Week in Ordinary Time",
+"dates": [
+"2026-09-12",
+"2028-09-16"
+]
+},
+"ordinary-24-tuesday|II": {
+"title": "Our Lady of Sorrows",
+"dates": [
+"2026-09-15",
+"2028-09-19"
+]
+},
+"ordinary-24-wednesday|II": {
+"title": "Saints Cornelius, Pope, and Cyprian, Bishop, Martyrs",
+"dates": [
+"2026-09-16",
+"2028-09-20"
+]
+},
+"ordinary-24-thursday|II": {
+"title": "Thursday of the 24th Week in Ordinary Time",
+"dates": [
+"2026-09-17"
+]
+},
+"ordinary-24-friday|II": {
+"title": "Friday of the 24th Week in Ordinary Time",
+"dates": [
+"2026-09-18",
+"2028-09-22"
+]
+},
+"ordinary-24-saturday|II": {
+"title": "Saturday of the 24th Week in Ordinary Time",
+"dates": [
+"2026-09-19",
+"2028-09-23"
+]
+},
+"ordinary-25-tuesday|II": {
+"title": "Tuesday of the 25th Week in Ordinary Time",
+"dates": [
+"2026-09-22",
+"2028-09-26"
+]
+},
+"ordinary-25-wednesday|II": {
+"title": "Saint Pius of Pietrelcina, Priest",
+"dates": [
+"2026-09-23",
+"2028-09-27"
+]
+},
+"ordinary-25-thursday|II": {
+"title": "Thursday of the 25th Week in Ordinary Time",
+"dates": [
+"2026-09-24",
+"2028-09-28"
+]
+},
+"ordinary-25-friday|II": {
+"title": "Friday of the 25th Week in Ordinary Time",
+"dates": [
+"2026-09-25"
+]
+},
+"ordinary-25-saturday|II": {
+"title": "Saturday of the 25th Week in Ordinary Time",
+"dates": [
+"2026-09-26",
+"2028-09-30"
+]
+},
+"ordinary-26-monday|II": {
+"title": "Monday of the 26th Week in Ordinary Time",
+"dates": [
+"2026-09-28",
+"2028-10-02"
+]
+},
+"ordinary-26-wednesday|II": {
+"title": "Saint Jerome, Priest and Doctor of the Church",
+"dates": [
+"2026-09-30",
+"2028-10-04"
+]
+},
+"ordinary-26-thursday|II": {
+"title": "Saint Th\u00e9r\u00e8se of the Child Jesus, Virgin and Doctor of the Church",
+"dates": [
+"2026-10-01",
+"2028-10-05"
+]
+},
+"ordinary-26-friday|II": {
+"title": "The Holy Guardian Angels",
+"dates": [
+"2026-10-02",
+"2028-10-06"
+]
+},
+"ordinary-26-saturday|II": {
+"title": "Saturday of the 26th Week in Ordinary Time",
+"dates": [
+"2026-10-03",
+"2028-10-07"
+]
+},
+"ordinary-27-monday|II": {
+"title": "Monday of the 27th Week in Ordinary Time",
+"dates": [
+"2026-10-05",
+"2028-10-09"
+]
+},
+"ordinary-27-tuesday|II": {
+"title": "Tuesday of the 27th Week in Ordinary Time",
+"dates": [
+"2026-10-06",
+"2028-10-10"
+]
+},
+"ordinary-27-wednesday|II": {
+"title": "Our Lady of the Rosary",
+"dates": [
+"2026-10-07",
+"2028-10-11"
+]
+},
+"ordinary-27-thursday|II": {
+"title": "Thursday of the 27th Week in Ordinary Time",
+"dates": [
+"2026-10-08",
+"2028-10-12"
+]
+},
+"ordinary-27-friday|II": {
+"title": "Friday of the 27th Week in Ordinary Time",
+"dates": [
+"2026-10-09",
+"2028-10-13"
+]
+},
+"ordinary-27-saturday|II": {
+"title": "Saturday of the 27th Week in Ordinary Time",
+"dates": [
+"2026-10-10",
+"2028-10-14"
+]
+},
+"ordinary-28-monday|II": {
+"title": "Monday of the 28th Week in Ordinary Time",
+"dates": [
+"2026-10-12",
+"2028-10-16"
+]
+},
+"ordinary-28-tuesday|II": {
+"title": "Tuesday of the 28th Week in Ordinary Time",
+"dates": [
+"2026-10-13",
+"2028-10-17"
+]
+},
+"ordinary-28-wednesday|II": {
+"title": "Wednesday of the 28th Week in Ordinary Time",
+"dates": [
+"2026-10-14"
+]
+},
+"ordinary-28-thursday|II": {
+"title": "Saint Teresa of Jesus, Virgin and Doctor of the Church",
+"dates": [
+"2026-10-15",
+"2028-10-19"
+]
+},
+"ordinary-28-friday|II": {
+"title": "Friday of the 28th Week in Ordinary Time",
+"dates": [
+"2026-10-16",
+"2028-10-20"
+]
+},
+"ordinary-28-saturday|II": {
+"title": "Saint Ignatius of Antioch, Bishop and Martyr",
+"dates": [
+"2026-10-17",
+"2028-10-21"
+]
+},
+"ordinary-29-monday|II": {
+"title": "Saints John de Br\u00e9beuf and Isaac Jogues, Priests, and Companions, Martyrs",
+"dates": [
+"2026-10-19",
+"2028-10-23"
+]
+},
+"ordinary-29-tuesday|II": {
+"title": "Tuesday of the 29th Week in Ordinary Time",
+"dates": [
+"2026-10-20",
+"2028-10-24"
+]
+},
+"ordinary-29-wednesday|II": {
+"title": "Wednesday of the 29th Week in Ordinary Time",
+"dates": [
+"2026-10-21",
+"2028-10-25"
+]
+},
+"ordinary-29-thursday|II": {
+"title": "Thursday of the 29th Week in Ordinary Time",
+"dates": [
+"2026-10-22",
+"2028-10-26"
+]
+},
+"ordinary-29-friday|II": {
+"title": "Friday of the 29th Week in Ordinary Time",
+"dates": [
+"2026-10-23",
+"2028-10-27"
+]
+},
+"ordinary-29-saturday|II": {
+"title": "Saturday of the 29th Week in Ordinary Time",
+"dates": [
+"2026-10-24"
+]
+},
+"ordinary-30-monday|II": {
+"title": "Monday of the 30th Week in Ordinary Time",
+"dates": [
+"2026-10-26",
+"2028-10-30"
+]
+},
+"ordinary-30-tuesday|II": {
+"title": "Tuesday of the 30th Week in Ordinary Time",
+"dates": [
+"2026-10-27",
+"2028-10-31"
+]
+},
+"ordinary-30-thursday|II": {
+"title": "Thursday of the 30th Week in Ordinary Time",
+"dates": [
+"2026-10-29"
+]
+},
+"ordinary-30-friday|II": {
+"title": "Friday of the 30th Week in Ordinary Time",
+"dates": [
+"2026-10-30",
+"2028-11-03"
+]
+},
+"ordinary-30-saturday|II": {
+"title": "Saturday of the 30th Week in Ordinary Time",
+"dates": [
+"2026-10-31",
+"2028-11-04"
+]
+},
+"ordinary-31-tuesday|II": {
+"title": "Tuesday of the 31st Week in Ordinary Time",
+"dates": [
+"2026-11-03",
+"2028-11-07"
+]
+},
+"ordinary-31-wednesday|II": {
+"title": "Saint Charles Borromeo, Bishop",
+"dates": [
+"2026-11-04",
+"2028-11-08"
+]
+},
+"ordinary-31-thursday|II": {
+"title": "Thursday of the 31st Week in Ordinary Time",
+"dates": [
+"2026-11-05"
+]
+},
+"ordinary-31-friday|II": {
+"title": "Friday of the 31st Week in Ordinary Time",
+"dates": [
+"2026-11-06",
+"2028-11-10"
+]
+},
+"ordinary-31-saturday|II": {
+"title": "Saturday of the 31st Week in Ordinary Time",
+"dates": [
+"2026-11-07",
+"2028-11-11"
+]
+},
+"ordinary-32-tuesday|II": {
+"title": "Saint Leo the Great, Pope and Doctor of the Church",
+"dates": [
+"2026-11-10",
+"2028-11-14"
+]
+},
+"ordinary-32-wednesday|II": {
+"title": "Saint Martin of Tours, Bishop",
+"dates": [
+"2026-11-11",
+"2028-11-15"
+]
+},
+"ordinary-32-thursday|II": {
+"title": "Saint Josaphat, Bishop and Martyr",
+"dates": [
+"2026-11-12",
+"2028-11-16"
+]
+},
+"ordinary-32-friday|II": {
+"title": "Saint Frances Xavier Cabrini, Virgin",
+"dates": [
+"2026-11-13",
+"2028-11-17"
+]
+},
+"ordinary-32-saturday|II": {
+"title": "Saturday of the 32nd Week in Ordinary Time",
+"dates": [
+"2026-11-14",
+"2028-11-18"
+]
+},
+"ordinary-33-monday|II": {
+"title": "Monday of the 33rd Week in Ordinary Time",
+"dates": [
+"2026-11-16",
+"2028-11-20"
+]
+},
+"ordinary-33-tuesday|II": {
+"title": "Saint Elizabeth of Hungary, Religious",
+"dates": [
+"2026-11-17",
+"2028-11-21"
+]
+},
+"ordinary-33-wednesday|II": {
+"title": "Wednesday of the 33rd Week in Ordinary Time",
+"dates": [
+"2026-11-18",
+"2028-11-22"
+]
+},
+"ordinary-33-thursday|II": {
+"title": "Thursday of the 33rd Week in Ordinary Time",
+"dates": [
+"2026-11-19",
+"2028-11-23"
+]
+},
+"ordinary-33-friday|II": {
+"title": "Friday of the 33rd Week in Ordinary Time",
+"dates": [
+"2026-11-20",
+"2028-11-24"
+]
+},
+"ordinary-33-saturday|II": {
+"title": "The Presentation of the Blessed Virgin Mary",
+"dates": [
+"2026-11-21",
+"2028-11-25"
+]
+},
+"ordinary-34-monday|II": {
+"title": "Monday of the 34th Week in Ordinary Time",
+"dates": [
+"2026-11-23",
+"2028-11-27"
+]
+},
+"ordinary-34-tuesday|II": {
+"title": "Saint Andrew D\u0169ng-L\u1ea1c, Priest, and Companions, Martyrs",
+"dates": [
+"2026-11-24",
+"2028-11-28"
+]
+},
+"ordinary-34-wednesday|II": {
+"title": "Wednesday of the 34th Week in Ordinary Time",
+"dates": [
+"2026-11-25",
+"2028-11-29"
+]
+},
+"ordinary-34-thursday|II": {
+"title": "Thursday of the 34th Week in Ordinary Time",
+"dates": [
+"2026-11-26"
+]
+},
+"ordinary-34-friday|II": {
+"title": "Friday of the 34th Week in Ordinary Time",
+"dates": [
+"2026-11-27",
+"2028-12-01"
+]
+},
+"ordinary-34-saturday|II": {
+"title": "Saturday of the 34th Week in Ordinary Time",
+"dates": [
+"2026-11-28",
+"2028-12-02"
+]
+},
+"advent-1-tuesday": {
+"title": "Tuesday of the 1st Week of Advent",
+"dates": [
+"2026-12-01",
+"2028-12-05"
+]
+},
+"advent-1-wednesday": {
+"title": "Wednesday of the 1st Week of Advent",
+"dates": [
+"2026-12-02",
+"2027-12-01",
+"2028-12-06"
+]
+},
+"advent-1-thursday": {
+"title": "Saint Francis Xavier, Priest",
+"dates": [
+"2026-12-03",
+"2027-12-02",
+"2028-12-07"
+]
+},
+"advent-1-friday": {
+"title": "Friday of the 1st Week of Advent",
+"dates": [
+"2026-12-04",
+"2027-12-03"
+]
+},
+"advent-1-saturday": {
+"title": "Saturday of the 1st Week of Advent",
+"dates": [
+"2026-12-05",
+"2027-12-04",
+"2028-12-09"
+]
+},
+"advent-2-monday": {
+"title": "Saint Ambrose, Bishop and Doctor of the Church",
+"dates": [
+"2026-12-07",
+"2027-12-06",
+"2028-12-11"
+]
+},
+"advent-2-wednesday": {
+"title": "Wednesday of the 2nd Week of Advent",
+"dates": [
+"2026-12-09",
+"2028-12-13"
+]
+},
+"advent-2-thursday": {
+"title": "Thursday of the 2nd Week of Advent",
+"dates": [
+"2026-12-10",
+"2027-12-09",
+"2028-12-14"
+]
+},
+"advent-2-friday": {
+"title": "Friday of the 2nd Week of Advent",
+"dates": [
+"2026-12-11",
+"2027-12-10",
+"2028-12-15"
+]
+},
+"advent-3-monday": {
+"title": "Saint John of the Cross, Priest and Doctor of the Church",
+"dates": [
+"2026-12-14",
+"2027-12-13"
+]
+},
+"advent-3-tuesday": {
+"title": "Tuesday of the 3rd Week of Advent",
+"dates": [
+"2026-12-15",
+"2027-12-14"
+]
+},
+"advent-3-wednesday": {
+"title": "Wednesday of the 3rd Week of Advent",
+"dates": [
+"2026-12-16",
+"2027-12-15"
+]
+},
+"advent-dec17": {
+"title": "December 17th",
+"dates": [
+"2026-12-17",
+"2027-12-17"
+]
+},
+"advent-dec18": {
+"title": "December 18th",
+"dates": [
+"2026-12-18",
+"2027-12-18",
+"2028-12-18"
+]
+},
+"advent-dec19": {
+"title": "December 19th",
+"dates": [
+"2026-12-19",
+"2028-12-19"
+]
+},
+"advent-dec21": {
+"title": "December 21st",
+"dates": [
+"2026-12-21",
+"2027-12-21",
+"2028-12-21"
+]
+},
+"advent-dec22": {
+"title": "December 22nd",
+"dates": [
+"2026-12-22",
+"2027-12-22",
+"2028-12-22"
+]
+},
+"advent-dec23": {
+"title": "December 23rd",
+"dates": [
+"2026-12-23",
+"2027-12-23",
+"2028-12-23"
+]
+},
+"advent-dec24": {
+"title": "December 24th",
+"dates": [
+"2026-12-24",
+"2027-12-24"
+]
+},
+"christmas-1229": {
+"title": "5th Day within the Octave of the Nativity of the Lord [Christmas]",
+"dates": [
+"2026-12-29",
+"2027-12-29",
+"2028-12-29"
+]
+},
+"christmas-1230": {
+"title": "6th Day within the Octave of the Nativity of the Lord [Christmas]",
+"dates": [
+"2026-12-30",
+"2027-12-30",
+"2028-12-30"
+]
+},
+"christmas-1231": {
+"title": "7th Day within the Octave of the Nativity of the Lord [Christmas]",
+"dates": [
+"2026-12-31",
+"2027-12-31"
+]
+},
+"ordinary-1-monday|I": {
+"title": "Monday of the 1st Week in Ordinary Time",
+"dates": [
+"2027-01-11"
+]
+},
+"ordinary-1-tuesday|I": {
+"title": "Tuesday of the 1st Week in Ordinary Time",
+"dates": [
+"2027-01-12"
+]
+},
+"ordinary-1-wednesday|I": {
+"title": "Wednesday of the 1st Week in Ordinary Time",
+"dates": [
+"2027-01-13"
+]
+},
+"ordinary-1-thursday|I": {
+"title": "Thursday of the 1st Week in Ordinary Time",
+"dates": [
+"2027-01-14"
+]
+},
+"ordinary-1-friday|I": {
+"title": "Friday of the 1st Week in Ordinary Time",
+"dates": [
+"2027-01-15"
+]
+},
+"ordinary-1-saturday|I": {
+"title": "Saturday of the 1st Week in Ordinary Time",
+"dates": [
+"2027-01-16"
+]
+},
+"ordinary-2-monday|I": {
+"title": "Monday of the 2nd Week in Ordinary Time",
+"dates": [
+"2027-01-18"
+]
+},
+"ordinary-2-tuesday|I": {
+"title": "Tuesday of the 2nd Week in Ordinary Time",
+"dates": [
+"2027-01-19"
+]
+},
+"ordinary-2-wednesday|I": {
+"title": "Wednesday of the 2nd Week in Ordinary Time",
+"dates": [
+"2027-01-20"
+]
+},
+"ordinary-2-thursday|I": {
+"title": "Saint Agnes, Virgin and Martyr",
+"dates": [
+"2027-01-21"
+]
+},
+"ordinary-2-friday|I": {
+"title": "Friday of the 2nd Week in Ordinary Time",
+"dates": [
+"2027-01-22"
+]
+},
+"ordinary-2-saturday|I": {
+"title": "Saturday of the 2nd Week in Ordinary Time",
+"dates": [
+"2027-01-23"
+]
+},
+"ordinary-3-tuesday|I": {
+"title": "Saints Timothy and Titus, Bishops",
+"dates": [
+"2027-01-26"
+]
+},
+"ordinary-3-wednesday|I": {
+"title": "Wednesday of the 3rd Week in Ordinary Time",
+"dates": [
+"2027-01-27"
+]
+},
+"ordinary-3-thursday|I": {
+"title": "Saint Thomas Aquinas, Priest and Doctor of the Church",
+"dates": [
+"2027-01-28"
+]
+},
+"ordinary-3-friday|I": {
+"title": "Friday of the 3rd Week in Ordinary Time",
+"dates": [
+"2027-01-29"
+]
+},
+"ordinary-3-saturday|I": {
+"title": "Saturday of the 3rd Week in Ordinary Time",
+"dates": [
+"2027-01-30"
+]
+},
+"ordinary-4-monday|I": {
+"title": "Monday of the 4th Week in Ordinary Time",
+"dates": [
+"2027-02-01"
+]
+},
+"ordinary-4-wednesday|I": {
+"title": "Wednesday of the 4th Week in Ordinary Time",
+"dates": [
+"2027-02-03"
+]
+},
+"ordinary-4-thursday|I": {
+"title": "Thursday of the 4th Week in Ordinary Time",
+"dates": [
+"2027-02-04"
+]
+},
+"ordinary-4-friday|I": {
+"title": "Saint Agatha, Virgin and Martyr",
+"dates": [
+"2027-02-05"
+]
+},
+"ordinary-4-saturday|I": {
+"title": "Saint Paul Miki and Companions, Martyrs",
+"dates": [
+"2027-02-06"
+]
+},
+"ordinary-5-monday|I": {
+"title": "Monday of the 5th Week in Ordinary Time",
+"dates": [
+"2027-02-08"
+]
+},
+"ordinary-5-tuesday|I": {
+"title": "Tuesday of the 5th Week in Ordinary Time",
+"dates": [
+"2027-02-09"
+]
+},
+"lent-4-thursday": {
+"title": "Thursday of the 4th Week of Lent",
+"dates": [
+"2027-03-11",
+"2028-03-30"
+]
+},
+"lent-5-wednesday": {
+"title": "Wednesday of the 5th Week of Lent",
+"dates": [
+"2027-03-17",
+"2028-04-05"
+]
+},
+"easter-3-saturday": {
+"title": "Saturday of the 3rd week of Easter",
+"dates": [
+"2027-04-17",
+"2028-05-06"
+]
+},
+"easter-6-thursday": {
+"title": "Thursday of the 6th week of Easter",
+"dates": [
+"2027-05-06",
+"2028-05-25"
+]
+},
+"ordinary-7-monday|I": {
+"title": "The Blessed Virgin Mary, Mother of the Church",
+"dates": [
+"2027-05-17"
+]
+},
+"ordinary-7-tuesday|I": {
+"title": "Tuesday of the 7th Week in Ordinary Time",
+"dates": [
+"2027-05-18"
+]
+},
+"ordinary-7-wednesday|I": {
+"title": "Wednesday of the 7th Week in Ordinary Time",
+"dates": [
+"2027-05-19"
+]
+},
+"ordinary-7-thursday|I": {
+"title": "Thursday of the 7th Week in Ordinary Time",
+"dates": [
+"2027-05-20"
+]
+},
+"ordinary-7-friday|I": {
+"title": "Friday of the 7th Week in Ordinary Time",
+"dates": [
+"2027-05-21"
+]
+},
+"ordinary-7-saturday|I": {
+"title": "Saturday of the 7th Week in Ordinary Time",
+"dates": [
+"2027-05-22"
+]
+},
+"ordinary-8-monday|I": {
+"title": "Monday of the 8th Week in Ordinary Time",
+"dates": [
+"2027-05-24"
+]
+},
+"ordinary-8-tuesday|I": {
+"title": "Tuesday of the 8th Week in Ordinary Time",
+"dates": [
+"2027-05-25"
+]
+},
+"ordinary-8-wednesday|I": {
+"title": "Saint Philip Neri, Priest",
+"dates": [
+"2027-05-26"
+]
+},
+"ordinary-8-thursday|I": {
+"title": "Thursday of the 8th Week in Ordinary Time",
+"dates": [
+"2027-05-27"
+]
+},
+"ordinary-8-friday|I": {
+"title": "Friday of the 8th Week in Ordinary Time",
+"dates": [
+"2027-05-28"
+]
+},
+"ordinary-8-saturday|I": {
+"title": "Saturday of the 8th Week in Ordinary Time",
+"dates": [
+"2027-05-29"
+]
+},
+"ordinary-9-tuesday|I": {
+"title": "Saint Justin, Martyr",
+"dates": [
+"2027-06-01"
+]
+},
+"ordinary-9-wednesday|I": {
+"title": "Wednesday of the 9th Week in Ordinary Time",
+"dates": [
+"2027-06-02"
+]
+},
+"ordinary-9-thursday|I": {
+"title": "Saint Charles Lwanga and Companions, Martyrs",
+"dates": [
+"2027-06-03"
+]
+},
+"ordinary-9-saturday|I": {
+"title": "Saturday of the 9th Week in Ordinary Time",
+"dates": [
+"2027-06-05"
+]
+},
+"ordinary-10-monday|I": {
+"title": "Monday of the 10th Week in Ordinary Time",
+"dates": [
+"2027-06-07"
+]
+},
+"ordinary-10-tuesday|I": {
+"title": "Tuesday of the 10th Week in Ordinary Time",
+"dates": [
+"2027-06-08"
+]
+},
+"ordinary-10-wednesday|I": {
+"title": "Wednesday of the 10th Week in Ordinary Time",
+"dates": [
+"2027-06-09"
+]
+},
+"ordinary-10-thursday|I": {
+"title": "Thursday of the 10th Week in Ordinary Time",
+"dates": [
+"2027-06-10"
+]
+},
+"ordinary-10-friday|I": {
+"title": "Saint Barnabas, Apostle",
+"dates": [
+"2027-06-11"
+]
+},
+"ordinary-10-saturday|I": {
+"title": "Saturday of the 10th Week in Ordinary Time",
+"dates": [
+"2027-06-12"
+]
+},
+"ordinary-11-monday|I": {
+"title": "Monday of the 11th Week in Ordinary Time",
+"dates": [
+"2027-06-14"
+]
+},
+"ordinary-11-tuesday|I": {
+"title": "Tuesday of the 11th Week in Ordinary Time",
+"dates": [
+"2027-06-15"
+]
+},
+"ordinary-11-wednesday|I": {
+"title": "Wednesday of the 11th Week in Ordinary Time",
+"dates": [
+"2027-06-16"
+]
+},
+"ordinary-11-thursday|I": {
+"title": "Thursday of the 11th Week in Ordinary Time",
+"dates": [
+"2027-06-17"
+]
+},
+"ordinary-11-friday|I": {
+"title": "Friday of the 11th Week in Ordinary Time",
+"dates": [
+"2027-06-18"
+]
+},
+"ordinary-11-saturday|I": {
+"title": "Saturday of the 11th Week in Ordinary Time",
+"dates": [
+"2027-06-19"
+]
+},
+"ordinary-12-monday|I": {
+"title": "Saint Aloysius Gonzaga, Religious",
+"dates": [
+"2027-06-21"
+]
+},
+"ordinary-12-tuesday|I": {
+"title": "Tuesday of the 12th Week in Ordinary Time",
+"dates": [
+"2027-06-22"
+]
+},
+"ordinary-12-wednesday|I": {
+"title": "Wednesday of the 12th Week in Ordinary Time",
+"dates": [
+"2027-06-23"
+]
+},
+"ordinary-12-friday|I": {
+"title": "Friday of the 12th Week in Ordinary Time",
+"dates": [
+"2027-06-25"
+]
+},
+"ordinary-12-saturday|I": {
+"title": "Saturday of the 12th Week in Ordinary Time",
+"dates": [
+"2027-06-26"
+]
+},
+"ordinary-13-monday|I": {
+"title": "Saint Irenaeus, Bishop and Martyr",
+"dates": [
+"2027-06-28"
+]
+},
+"ordinary-13-wednesday|I": {
+"title": "Wednesday of the 13th Week in Ordinary Time",
+"dates": [
+"2027-06-30"
+]
+},
+"ordinary-13-thursday|I": {
+"title": "Thursday of the 13th Week in Ordinary Time",
+"dates": [
+"2027-07-01"
+]
+},
+"ordinary-13-friday|I": {
+"title": "Friday of the 13th Week in Ordinary Time",
+"dates": [
+"2027-07-02"
+]
+},
+"ordinary-14-monday|I": {
+"title": "Monday of the 14th Week in Ordinary Time",
+"dates": [
+"2027-07-05"
+]
+},
+"ordinary-14-tuesday|I": {
+"title": "Tuesday of the 14th Week in Ordinary Time",
+"dates": [
+"2027-07-06"
+]
+},
+"ordinary-14-wednesday|I": {
+"title": "Wednesday of the 14th Week in Ordinary Time",
+"dates": [
+"2027-07-07"
+]
+},
+"ordinary-14-thursday|I": {
+"title": "Thursday of the 14th Week in Ordinary Time",
+"dates": [
+"2027-07-08"
+]
+},
+"ordinary-14-friday|I": {
+"title": "Friday of the 14th Week in Ordinary Time",
+"dates": [
+"2027-07-09"
+]
+},
+"ordinary-14-saturday|I": {
+"title": "Saturday of the 14th Week in Ordinary Time",
+"dates": [
+"2027-07-10"
+]
+},
+"ordinary-15-monday|I": {
+"title": "Monday of the 15th Week in Ordinary Time",
+"dates": [
+"2027-07-12"
+]
+},
+"ordinary-15-tuesday|I": {
+"title": "Tuesday of the 15th Week in Ordinary Time",
+"dates": [
+"2027-07-13"
+]
+},
+"ordinary-15-wednesday|I": {
+"title": "Blessed Kateri Tekakwitha, Virgin",
+"dates": [
+"2027-07-14"
+]
+},
+"ordinary-15-thursday|I": {
+"title": "Saint Bonaventure, Bishop and Doctor of the Church",
+"dates": [
+"2027-07-15"
+]
+},
+"ordinary-15-friday|I": {
+"title": "Friday of the 15th Week in Ordinary Time",
+"dates": [
+"2027-07-16"
+]
+},
+"ordinary-15-saturday|I": {
+"title": "Saturday of the 15th Week in Ordinary Time",
+"dates": [
+"2027-07-17"
+]
+},
+"ordinary-16-monday|I": {
+"title": "Monday of the 16th Week in Ordinary Time",
+"dates": [
+"2027-07-19"
+]
+},
+"ordinary-16-tuesday|I": {
+"title": "Tuesday of the 16th Week in Ordinary Time",
+"dates": [
+"2027-07-20"
+]
+},
+"ordinary-16-wednesday|I": {
+"title": "Wednesday of the 16th Week in Ordinary Time",
+"dates": [
+"2027-07-21"
+]
+},
+"ordinary-16-friday|I": {
+"title": "Friday of the 16th Week in Ordinary Time",
+"dates": [
+"2027-07-23"
+]
+},
+"ordinary-16-saturday|I": {
+"title": "Saturday of the 16th Week in Ordinary Time",
+"dates": [
+"2027-07-24"
+]
+},
+"ordinary-17-monday|I": {
+"title": "Saints Joachim and Anne, Parents of the Blessed Virgin Mary",
+"dates": [
+"2027-07-26"
+]
+},
+"ordinary-17-tuesday|I": {
+"title": "Tuesday of the 17th Week in Ordinary Time",
+"dates": [
+"2027-07-27"
+]
+},
+"ordinary-17-wednesday|I": {
+"title": "Wednesday of the 17th Week in Ordinary Time",
+"dates": [
+"2027-07-28"
+]
+},
+"ordinary-17-thursday|I": {
+"title": "Saints Martha, Mary, and Lazarus",
+"dates": [
+"2027-07-29"
+]
+},
+"ordinary-17-friday|I": {
+"title": "Friday of the 17th Week in Ordinary Time",
+"dates": [
+"2027-07-30"
+]
+},
+"ordinary-17-saturday|I": {
+"title": "Saint Ignatius of Loyola, Priest",
+"dates": [
+"2027-07-31"
+]
+},
+"ordinary-18-monday|I": {
+"title": "Monday of the 18th Week in Ordinary Time",
+"dates": [
+"2027-08-02"
+]
+},
+"ordinary-18-tuesday|I": {
+"title": "Tuesday of the 18th Week in Ordinary Time",
+"dates": [
+"2027-08-03"
+]
+},
+"ordinary-18-wednesday|I": {
+"title": "Saint John Vianney, Priest",
+"dates": [
+"2027-08-04"
+]
+},
+"ordinary-18-thursday|I": {
+"title": "Thursday of the 18th Week in Ordinary Time",
+"dates": [
+"2027-08-05"
+]
+},
+"ordinary-18-saturday|I": {
+"title": "Saturday of the 18th Week in Ordinary Time",
+"dates": [
+"2027-08-07"
+]
+},
+"ordinary-19-monday|I": {
+"title": "Monday of the 19th Week in Ordinary Time",
+"dates": [
+"2027-08-09"
+]
+},
+"ordinary-19-wednesday|I": {
+"title": "Saint Clare, Virgin",
+"dates": [
+"2027-08-11"
+]
+},
+"ordinary-19-thursday|I": {
+"title": "Thursday of the 19th Week in Ordinary Time",
+"dates": [
+"2027-08-12"
+]
+},
+"ordinary-19-friday|I": {
+"title": "Friday of the 19th Week in Ordinary Time",
+"dates": [
+"2027-08-13"
+]
+},
+"ordinary-19-saturday|I": {
+"title": "Saint Maximilian Kolbe, Priest and Martyr",
+"dates": [
+"2027-08-14"
+]
+},
+"ordinary-20-monday|I": {
+"title": "Monday of the 20th Week in Ordinary Time",
+"dates": [
+"2027-08-16"
+]
+},
+"ordinary-20-tuesday|I": {
+"title": "Tuesday of the 20th Week in Ordinary Time",
+"dates": [
+"2027-08-17"
+]
+},
+"ordinary-20-wednesday|I": {
+"title": "Wednesday of the 20th Week in Ordinary Time",
+"dates": [
+"2027-08-18"
+]
+},
+"ordinary-20-thursday|I": {
+"title": "Thursday of the 20th Week in Ordinary Time",
+"dates": [
+"2027-08-19"
+]
+},
+"ordinary-20-friday|I": {
+"title": "Saint Bernard, Abbot and Doctor of the Church",
+"dates": [
+"2027-08-20"
+]
+},
+"ordinary-20-saturday|I": {
+"title": "Saint Pius X, Pope",
+"dates": [
+"2027-08-21"
+]
+},
+"ordinary-21-monday|I": {
+"title": "Monday of the 21st Week in Ordinary Time",
+"dates": [
+"2027-08-23"
+]
+},
+"ordinary-21-wednesday|I": {
+"title": "Wednesday of the 21st Week in Ordinary Time",
+"dates": [
+"2027-08-25"
+]
+},
+"ordinary-21-thursday|I": {
+"title": "Thursday of the 21st Week in Ordinary Time",
+"dates": [
+"2027-08-26"
+]
+},
+"ordinary-21-friday|I": {
+"title": "Saint Monica",
+"dates": [
+"2027-08-27"
+]
+},
+"ordinary-21-saturday|I": {
+"title": "Saint Augustine, Bishop and Doctor of the Church",
+"dates": [
+"2027-08-28"
+]
+},
+"ordinary-22-monday|I": {
+"title": "Monday of the 22nd Week in Ordinary Time",
+"dates": [
+"2027-08-30"
+]
+},
+"ordinary-22-tuesday|I": {
+"title": "Tuesday of the 22nd Week in Ordinary Time",
+"dates": [
+"2027-08-31"
+]
+},
+"ordinary-22-wednesday|I": {
+"title": "Wednesday of the 22nd Week in Ordinary Time",
+"dates": [
+"2027-09-01"
+]
+},
+"ordinary-22-thursday|I": {
+"title": "Thursday of the 22nd Week in Ordinary Time",
+"dates": [
+"2027-09-02"
+]
+},
+"ordinary-22-friday|I": {
+"title": "Saint Gregory the Great, Pope and Doctor of the Church",
+"dates": [
+"2027-09-03"
+]
+},
+"ordinary-22-saturday|I": {
+"title": "Saturday of the 22nd Week in Ordinary Time",
+"dates": [
+"2027-09-04"
+]
+},
+"ordinary-23-monday|I": {
+"title": "Monday of the 23rd Week in Ordinary Time",
+"dates": [
+"2027-09-06"
+]
+},
+"ordinary-23-tuesday|I": {
+"title": "Tuesday of the 23rd Week in Ordinary Time",
+"dates": [
+"2027-09-07"
+]
+},
+"ordinary-23-thursday|I": {
+"title": "Saint Peter Claver, Priest",
+"dates": [
+"2027-09-09"
+]
+},
+"ordinary-23-friday|I": {
+"title": "Friday of the 23rd Week in Ordinary Time",
+"dates": [
+"2027-09-10"
+]
+},
+"ordinary-23-saturday|I": {
+"title": "Saturday of the 23rd Week in Ordinary Time",
+"dates": [
+"2027-09-11"
+]
+},
+"ordinary-24-monday|I": {
+"title": "Saint John Chrysostom, Bishop and Doctor of the Church",
+"dates": [
+"2027-09-13"
+]
+},
+"ordinary-24-wednesday|I": {
+"title": "Our Lady of Sorrows",
+"dates": [
+"2027-09-15"
+]
+},
+"ordinary-24-thursday|I": {
+"title": "Saints Cornelius, Pope, and Cyprian, Bishop, Martyrs",
+"dates": [
+"2027-09-16"
+]
+},
+"ordinary-24-friday|I": {
+"title": "Friday of the 24th Week in Ordinary Time",
+"dates": [
+"2027-09-17"
+]
+},
+"ordinary-24-saturday|I": {
+"title": "Saturday of the 24th Week in Ordinary Time",
+"dates": [
+"2027-09-18"
+]
+},
+"ordinary-25-monday|I": {
+"title": "Saint Andrew Kim Tae-g\u01d2n, Priest, and Paul Ch\u01d2ng Ha-sang, and Companions, Martyrs",
+"dates": [
+"2027-09-20"
+]
+},
+"ordinary-25-wednesday|I": {
+"title": "Wednesday of the 25th Week in Ordinary Time",
+"dates": [
+"2027-09-22"
+]
+},
+"ordinary-25-thursday|I": {
+"title": "Saint Pius of Pietrelcina, Priest",
+"dates": [
+"2027-09-23"
+]
+},
+"ordinary-25-friday|I": {
+"title": "Friday of the 25th Week in Ordinary Time",
+"dates": [
+"2027-09-24"
+]
+},
+"ordinary-25-saturday|I": {
+"title": "Saturday of the 25th Week in Ordinary Time",
+"dates": [
+"2027-09-25"
+]
+},
+"ordinary-26-monday|I": {
+"title": "Saint Vincent de Paul, Priest",
+"dates": [
+"2027-09-27"
+]
+},
+"ordinary-26-tuesday|I": {
+"title": "Tuesday of the 26th Week in Ordinary Time",
+"dates": [
+"2027-09-28"
+]
+},
+"ordinary-26-thursday|I": {
+"title": "Saint Jerome, Priest and Doctor of the Church",
+"dates": [
+"2027-09-30"
+]
+},
+"ordinary-26-friday|I": {
+"title": "Saint Th\u00e9r\u00e8se of the Child Jesus, Virgin and Doctor of the Church",
+"dates": [
+"2027-10-01"
+]
+},
+"ordinary-26-saturday|I": {
+"title": "The Holy Guardian Angels",
+"dates": [
+"2027-10-02"
+]
+},
+"ordinary-27-monday|I": {
+"title": "Saint Francis of Assisi",
+"dates": [
+"2027-10-04"
+]
+},
+"ordinary-27-tuesday|I": {
+"title": "Tuesday of the 27th Week in Ordinary Time",
+"dates": [
+"2027-10-05"
+]
+},
+"ordinary-27-wednesday|I": {
+"title": "Wednesday of the 27th Week in Ordinary Time",
+"dates": [
+"2027-10-06"
+]
+},
+"ordinary-27-thursday|I": {
+"title": "Our Lady of the Rosary",
+"dates": [
+"2027-10-07"
+]
+},
+"ordinary-27-friday|I": {
+"title": "Friday of the 27th Week in Ordinary Time",
+"dates": [
+"2027-10-08"
+]
+},
+"ordinary-27-saturday|I": {
+"title": "Saturday of the 27th Week in Ordinary Time",
+"dates": [
+"2027-10-09"
+]
+},
+"ordinary-28-monday|I": {
+"title": "Monday of the 28th Week in Ordinary Time",
+"dates": [
+"2027-10-11"
+]
+},
+"ordinary-28-tuesday|I": {
+"title": "Tuesday of the 28th Week in Ordinary Time",
+"dates": [
+"2027-10-12"
+]
+},
+"ordinary-28-wednesday|I": {
+"title": "Wednesday of the 28th Week in Ordinary Time",
+"dates": [
+"2027-10-13"
+]
+},
+"ordinary-28-thursday|I": {
+"title": "Thursday of the 28th Week in Ordinary Time",
+"dates": [
+"2027-10-14"
+]
+},
+"ordinary-28-friday|I": {
+"title": "Saint Teresa of Jesus, Virgin and Doctor of the Church",
+"dates": [
+"2027-10-15"
+]
+},
+"ordinary-28-saturday|I": {
+"title": "Saturday of the 28th Week in Ordinary Time",
+"dates": [
+"2027-10-16"
+]
+},
+"ordinary-29-tuesday|I": {
+"title": "Saints John de Br\u00e9beuf and Isaac Jogues, Priests, and Companions, Martyrs",
+"dates": [
+"2027-10-19"
+]
+},
+"ordinary-29-wednesday|I": {
+"title": "Wednesday of the 29th Week in Ordinary Time",
+"dates": [
+"2027-10-20"
+]
+},
+"ordinary-29-thursday|I": {
+"title": "Thursday of the 29th Week in Ordinary Time",
+"dates": [
+"2027-10-21"
+]
+},
+"ordinary-29-friday|I": {
+"title": "Friday of the 29th Week in Ordinary Time",
+"dates": [
+"2027-10-22"
+]
+},
+"ordinary-29-saturday|I": {
+"title": "Saturday of the 29th Week in Ordinary Time",
+"dates": [
+"2027-10-23"
+]
+},
+"ordinary-30-monday|I": {
+"title": "Monday of the 30th Week in Ordinary Time",
+"dates": [
+"2027-10-25"
+]
+},
+"ordinary-30-tuesday|I": {
+"title": "Tuesday of the 30th Week in Ordinary Time",
+"dates": [
+"2027-10-26"
+]
+},
+"ordinary-30-wednesday|I": {
+"title": "Wednesday of the 30th Week in Ordinary Time",
+"dates": [
+"2027-10-27"
+]
+},
+"ordinary-30-friday|I": {
+"title": "Friday of the 30th Week in Ordinary Time",
+"dates": [
+"2027-10-29"
+]
+},
+"ordinary-30-saturday|I": {
+"title": "Saturday of the 30th Week in Ordinary Time",
+"dates": [
+"2027-10-30"
+]
+},
+"ordinary-31-wednesday|I": {
+"title": "Wednesday of the 31st Week in Ordinary Time",
+"dates": [
+"2027-11-03"
+]
+},
+"ordinary-31-thursday|I": {
+"title": "Saint Charles Borromeo, Bishop",
+"dates": [
+"2027-11-04"
+]
+},
+"ordinary-31-friday|I": {
+"title": "Friday of the 31st Week in Ordinary Time",
+"dates": [
+"2027-11-05"
+]
+},
+"ordinary-31-saturday|I": {
+"title": "Saturday of the 31st Week in Ordinary Time",
+"dates": [
+"2027-11-06"
+]
+},
+"ordinary-32-monday|I": {
+"title": "Monday of the 32nd Week in Ordinary Time",
+"dates": [
+"2027-11-08"
+]
+},
+"ordinary-32-wednesday|I": {
+"title": "Saint Leo the Great, Pope and Doctor of the Church",
+"dates": [
+"2027-11-10"
+]
+},
+"ordinary-32-thursday|I": {
+"title": "Saint Martin of Tours, Bishop",
+"dates": [
+"2027-11-11"
+]
+},
+"ordinary-32-friday|I": {
+"title": "Saint Josaphat, Bishop and Martyr",
+"dates": [
+"2027-11-12"
+]
+},
+"ordinary-32-saturday|I": {
+"title": "Saint Frances Xavier Cabrini, Virgin",
+"dates": [
+"2027-11-13"
+]
+},
+"ordinary-33-monday|I": {
+"title": "Monday of the 33rd Week in Ordinary Time",
+"dates": [
+"2027-11-15"
+]
+},
+"ordinary-33-tuesday|I": {
+"title": "Tuesday of the 33rd Week in Ordinary Time",
+"dates": [
+"2027-11-16"
+]
+},
+"ordinary-33-wednesday|I": {
+"title": "Saint Elizabeth of Hungary, Religious",
+"dates": [
+"2027-11-17"
+]
+},
+"ordinary-33-thursday|I": {
+"title": "Thursday of the 33rd Week in Ordinary Time",
+"dates": [
+"2027-11-18"
+]
+},
+"ordinary-33-friday|I": {
+"title": "Friday of the 33rd Week in Ordinary Time",
+"dates": [
+"2027-11-19"
+]
+},
+"ordinary-33-saturday|I": {
+"title": "Saturday of the 33rd Week in Ordinary Time",
+"dates": [
+"2027-11-20"
+]
+},
+"ordinary-34-monday|I": {
+"title": "Saint Cecilia, Virgin and Martyr",
+"dates": [
+"2027-11-22"
+]
+},
+"ordinary-34-tuesday|I": {
+"title": "Tuesday of the 34th Week in Ordinary Time",
+"dates": [
+"2027-11-23"
+]
+},
+"ordinary-34-wednesday|I": {
+"title": "Saint Andrew D\u0169ng-L\u1ea1c, Priest, and Companions, Martyrs",
+"dates": [
+"2027-11-24"
+]
+},
+"ordinary-34-thursday|I": {
+"title": "Thursday of the 34th Week in Ordinary Time",
+"dates": [
+"2027-11-25"
+]
+},
+"ordinary-34-friday|I": {
+"title": "Friday of the 34th Week in Ordinary Time",
+"dates": [
+"2027-11-26"
+]
+},
+"ordinary-34-saturday|I": {
+"title": "Saturday of the 34th Week in Ordinary Time",
+"dates": [
+"2027-11-27"
+]
+},
+"advent-1-monday": {
+"title": "Monday of the 1st Week of Advent",
+"dates": [
+"2027-11-29",
+"2028-12-04"
+]
+},
+"advent-2-tuesday": {
+"title": "Saint Ambrose, Bishop and Doctor of the Church",
+"dates": [
+"2027-12-07"
+]
+},
+"advent-2-saturday": {
+"title": "Saturday of the 2nd Week of Advent",
+"dates": [
+"2027-12-11",
+"2028-12-16"
+]
+},
+"advent-3-thursday": {
+"title": "Thursday of the 3rd Week of Advent",
+"dates": [
+"2027-12-16"
+]
+},
+"advent-dec20": {
+"title": "December 20th",
+"dates": [
+"2027-12-20",
+"2028-12-20"
+]
+},
+"ordinary-4-monday|II": {
+"title": "Saint John Bosco, Priest",
+"dates": [
+"2028-01-31"
+]
+},
+"ordinary-6-wednesday|II": {
+"title": "Wednesday of the 6th Week in Ordinary Time",
+"dates": [
+"2028-02-16"
+]
+},
+"ordinary-6-thursday|II": {
+"title": "Thursday of the 6th Week in Ordinary Time",
+"dates": [
+"2028-02-17"
+]
+},
+"ordinary-6-friday|II": {
+"title": "Friday of the 6th Week in Ordinary Time",
+"dates": [
+"2028-02-18"
+]
+},
+"ordinary-6-saturday|II": {
+"title": "Saturday of the 6th Week in Ordinary Time",
+"dates": [
+"2028-02-19"
+]
+},
+"ordinary-7-monday|II": {
+"title": "Monday of the 7th Week in Ordinary Time",
+"dates": [
+"2028-02-21"
+]
+},
+"ordinary-7-wednesday|II": {
+"title": "Saint Polycarp, Bishop and Martyr",
+"dates": [
+"2028-02-23"
+]
+},
+"ordinary-7-thursday|II": {
+"title": "Thursday of the 7th Week in Ordinary Time",
+"dates": [
+"2028-02-24"
+]
+},
+"ordinary-7-friday|II": {
+"title": "Friday of the 7th Week in Ordinary Time",
+"dates": [
+"2028-02-25"
+]
+},
+"ordinary-7-saturday|II": {
+"title": "Saturday of the 7th Week in Ordinary Time",
+"dates": [
+"2028-02-26"
+]
+},
+"ordinary-10-friday|II": {
+"title": "Friday of the 10th Week in Ordinary Time",
+"dates": [
+"2028-06-16"
+]
+},
+"ordinary-12-wednesday|II": {
+"title": "Saint Irenaeus, Bishop and Martyr",
+"dates": [
+"2028-06-28"
+]
+},
+"ordinary-13-friday|II": {
+"title": "Friday of the 13th Week in Ordinary Time",
+"dates": [
+"2028-07-07"
+]
+},
+"ordinary-16-wednesday|II": {
+"title": "Saints Joachim and Anne, Parents of the Blessed Virgin Mary",
+"dates": [
+"2028-07-26"
+]
+},
+"ordinary-16-saturday|II": {
+"title": "Saints Martha, Mary, and Lazarus",
+"dates": [
+"2028-07-29"
+]
+},
+"ordinary-19-monday|II": {
+"title": "Saint Maximilian Kolbe, Priest and Martyr",
+"dates": [
+"2028-08-14"
+]
+},
+"ordinary-19-saturday|II": {
+"title": "Saturday of the 19th Week in Ordinary Time",
+"dates": [
+"2028-08-19"
+]
+},
+"ordinary-21-monday|II": {
+"title": "Saint Augustine, Bishop and Doctor of the Church",
+"dates": [
+"2028-08-28"
+]
+},
+"ordinary-23-tuesday|II": {
+"title": "Tuesday of the 23rd Week in Ordinary Time",
+"dates": [
+"2028-09-12"
+]
+},
+"ordinary-24-monday|II": {
+"title": "Monday of the 24th Week in Ordinary Time",
+"dates": [
+"2028-09-18"
+]
+},
+"ordinary-25-monday|II": {
+"title": "Monday of the 25th Week in Ordinary Time",
+"dates": [
+"2028-09-25"
+]
+},
+"ordinary-26-tuesday|II": {
+"title": "Tuesday of the 26th Week in Ordinary Time",
+"dates": [
+"2028-10-03"
+]
+},
+"ordinary-31-monday|II": {
+"title": "Monday of the 31st Week in Ordinary Time",
+"dates": [
+"2028-11-06"
+]
+},
+"ordinary-32-monday|II": {
+"title": "Saint Frances Xavier Cabrini, Virgin",
+"dates": [
+"2028-11-13"
+]
+}
+}

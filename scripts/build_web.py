@@ -36,7 +36,7 @@ def main():
     if DIST.exists():
         shutil.rmtree(DIST)
     (DIST / "data").mkdir(parents=True)
-    for f in ("app.js", "app.css", "games.js", "today.js", "parish.js"):
+    for f in ("app.js", "app.css", "i18n.js", "games.js", "today.js", "parish.js", "pray.js"):
         shutil.copy(SITE / f, DIST / f)
     for f in DATA.glob("*.json"):
         shutil.copy(f, DIST / "data" / f.name)
@@ -72,7 +72,7 @@ def main():
                   {"src": "icon-512.png", "sizes": "512x512", "type": "image/png"},
                   {"src": "icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable"}],
     }, indent=1), encoding="utf-8")
-    files = ["./", "index.html", "app.js", "app.css", "games.js", "today.js", "parish.js", "manifest.webmanifest", "icon-192.png"] + \
+    files = ["./", "index.html", "app.js", "app.css", "i18n.js", "games.js", "today.js", "parish.js", "pray.js", "manifest.webmanifest", "icon-192.png"] + \
             [f"data/{f.name}" for f in DATA.glob("*.json")] + ["https://cdnjs.cloudflare.com/ajax/libs/d3/7.8.5/d3.min.js"]
     version = str(int(max(p.stat().st_mtime for p in DIST.rglob("*") if p.is_file())))
     (DIST / "sw.js").write_text(f"""// Offline support: cache the app shell and data; refresh in the background.

@@ -1,0 +1,805 @@
+{
+"christmas-0102": {
+"title": "Friday of Christmas Time: January 2",
+"dates": [
+"2026-01-02",
+"2027-01-02"
+]
+},
+"christmas-0103": {
+"title": "Saturday of Christmas Time: January 3",
+"dates": [
+"2026-01-03",
+"2028-01-03"
+]
+},
+"christmas-0105": {
+"title": "Saint John Neumann, Bishop",
+"dates": [
+"2026-01-05",
+"2027-01-05",
+"2028-01-05"
+]
+},
+"christmas-0106": {
+"title": "Tuesday after Epiphany",
+"dates": [
+"2026-01-06",
+"2027-01-06",
+"2028-01-06"
+]
+},
+"christmas-0107": {
+"title": "Wednesday after Epiphany",
+"dates": [
+"2026-01-07",
+"2027-01-07",
+"2028-01-07"
+]
+},
+"christmas-0108": {
+"title": "Thursday after Epiphany",
+"dates": [
+"2026-01-08",
+"2027-01-08",
+"2028-01-08"
+]
+},
+"christmas-0109": {
+"title": "Friday after Epiphany",
+"dates": [
+"2026-01-09",
+"2027-01-09"
+]
+},
+"christmas-0110": {
+"title": "Saturday after Epiphany",
+"dates": [
+"2026-01-10"
+]
+},
+"lent-0-thursday": {
+"title": "Thursday after Ash Wednesday",
+"dates": [
+"2026-02-19",
+"2027-02-11",
+"2028-03-02"
+]
+},
+"lent-0-friday": {
+"title": "Friday after Ash Wednesday",
+"dates": [
+"2026-02-20",
+"2027-02-12",
+"2028-03-03"
+]
+},
+"lent-0-saturday": {
+"title": "Saturday after Ash Wednesday",
+"dates": [
+"2026-02-21",
+"2027-02-13",
+"2028-03-04"
+]
+},
+"lent-1-monday": {
+"title": "Monday of the 1st Week of Lent",
+"dates": [
+"2026-02-23",
+"2027-02-15",
+"2028-03-06"
+]
+},
+"lent-1-tuesday": {
+"title": "Tuesday of the 1st Week of Lent",
+"dates": [
+"2026-02-24",
+"2027-02-16",
+"2028-03-07"
+]
+},
+"lent-1-wednesday": {
+"title": "Wednesday of the 1st Week of Lent",
+"dates": [
+"2026-02-25",
+"2027-02-17",
+"2028-03-08"
+]
+},
+"lent-1-thursday": {
+"title": "Thursday of the 1st Week of Lent",
+"dates": [
+"2026-02-26",
+"2027-02-18",
+"2028-03-09"
+]
+},
+"lent-1-friday": {
+"title": "Friday of the 1st Week of Lent",
+"dates": [
+"2026-02-27",
+"2027-02-19",
+"2028-03-10"
+]
+},
+"lent-1-saturday": {
+"title": "Saturday of the 1st Week of Lent",
+"dates": [
+"2026-02-28",
+"2027-02-20",
+"2028-03-11"
+]
+},
+"lent-2-monday": {
+"title": "Monday of the 2nd Week of Lent",
+"dates": [
+"2026-03-02",
+"2028-03-13"
+]
+},
+"lent-2-tuesday": {
+"title": "Tuesday of the 2nd Week of Lent",
+"dates": [
+"2026-03-03",
+"2027-02-23",
+"2028-03-14"
+]
+},
+"lent-2-wednesday": {
+"title": "Wednesday of the 2nd Week of Lent",
+"dates": [
+"2026-03-04",
+"2027-02-24",
+"2028-03-15"
+]
+},
+"lent-2-thursday": {
+"title": "Thursday of the 2nd Week of Lent",
+"dates": [
+"2026-03-05",
+"2027-02-25",
+"2028-03-16"
+]
+},
+"lent-2-friday": {
+"title": "Friday of the 2nd Week of Lent",
+"dates": [
+"2026-03-06",
+"2027-02-26",
+"2028-03-17"
+]
+},
+"lent-2-saturday": {
+"title": "Saturday of the 2nd Week of Lent",
+"dates": [
+"2026-03-07",
+"2027-02-27",
+"2028-03-18"
+]
+},
+"lent-3-monday": {
+"title": "Monday of the 3rd Week of Lent",
+"dates": [
+"2026-03-09",
+"2027-03-01"
+]
+},
+"lent-3-tuesday": {
+"title": "Tuesday of the 3rd Week of Lent",
+"dates": [
+"2026-03-10",
+"2027-03-02",
+"2028-03-21"
+]
+},
+"lent-3-wednesday": {
+"title": "Wednesday of the 3rd Week of Lent",
+"dates": [
+"2026-03-11",
+"2027-03-03",
+"2028-03-22"
+]
+},
+"lent-3-thursday": {
+"title": "Thursday of the 3rd Week of Lent",
+"dates": [
+"2026-03-12",
+"2027-03-04",
+"2028-03-23"
+]
+},
+"lent-3-friday": {
+"title": "Friday of the 3rd Week of Lent",
+"dates": [
+"2026-03-13",
+"2027-03-05",
+"2028-03-24"
+]
+},
+"lent-3-saturday": {
+"title": "Saturday of the 3rd Week of Lent",
+"dates": [
+"2026-03-14",
+"2027-03-06"
+]
+},
+"lent-4-monday": {
+"title": "Monday of the 4th Week of Lent",
+"dates": [
+"2026-03-16",
+"2027-03-08",
+"2028-03-27"
+]
+},
+"lent-4-tuesday": {
+"title": "Tuesday of the 4th Week of Lent",
+"dates": [
+"2026-03-17",
+"2027-03-09",
+"2028-03-28"
+]
+},
+"lent-4-wednesday": {
+"title": "Wednesday of the 4th Week of Lent",
+"dates": [
+"2026-03-18",
+"2027-03-10",
+"2028-03-29"
+]
+},
+"lent-4-friday": {
+"title": "Friday of the 4th Week of Lent",
+"dates": [
+"2026-03-20",
+"2027-03-12",
+"2028-03-31"
+]
+},
+"lent-4-saturday": {
+"title": "Saturday of the 4th Week of Lent",
+"dates": [
+"2026-03-21",
+"2027-03-13",
+"2028-04-01"
+]
+},
+"lent-5-monday": {
+"title": "Monday of the 5th Week of Lent",
+"dates": [
+"2026-03-23",
+"2027-03-15",
+"2028-04-03"
+]
+},
+"lent-5-tuesday": {
+"title": "Tuesday of the 5th Week of Lent",
+"dates": [
+"2026-03-24",
+"2027-03-16",
+"2028-04-04"
+]
+},
+"lent-5-thursday": {
+"title": "Thursday of the 5th Week of Lent",
+"dates": [
+"2026-03-26",
+"2027-03-18",
+"2028-04-06"
+]
+},
+"lent-5-friday": {
+"title": "Friday of the 5th Week of Lent",
+"dates": [
+"2026-03-27",
+"2028-04-07"
+]
+},
+"lent-5-saturday": {
+"title": "Saturday of the 5th Week of Lent",
+"dates": [
+"2026-03-28",
+"2027-03-20",
+"2028-04-08"
+]
+},
+"easter-2-monday": {
+"title": "Monday of the 2nd week of Easter",
+"dates": [
+"2026-04-13",
+"2028-04-24"
+]
+},
+"easter-2-tuesday": {
+"title": "Tuesday of the 2nd week of Easter",
+"dates": [
+"2026-04-14",
+"2027-04-06"
+]
+},
+"easter-2-wednesday": {
+"title": "Wednesday of the 2nd week of Easter",
+"dates": [
+"2026-04-15",
+"2027-04-07",
+"2028-04-26"
+]
+},
+"easter-2-thursday": {
+"title": "Thursday of the 2nd week of Easter",
+"dates": [
+"2026-04-16",
+"2027-04-08",
+"2028-04-27"
+]
+},
+"easter-2-friday": {
+"title": "Friday of the 2nd week of Easter",
+"dates": [
+"2026-04-17",
+"2027-04-09",
+"2028-04-28"
+]
+},
+"easter-2-saturday": {
+"title": "Saturday of the 2nd week of Easter",
+"dates": [
+"2026-04-18",
+"2027-04-10",
+"2028-04-29"
+]
+},
+"easter-3-monday": {
+"title": "Monday of the 3rd week of Easter",
+"dates": [
+"2026-04-20",
+"2027-04-12",
+"2028-05-01"
+]
+},
+"easter-3-tuesday": {
+"title": "Tuesday of the 3rd week of Easter",
+"dates": [
+"2026-04-21",
+"2027-04-13",
+"2028-05-02"
+]
+},
+"easter-3-wednesday": {
+"title": "Wednesday of the 3rd week of Easter",
+"dates": [
+"2026-04-22",
+"2027-04-14"
+]
+},
+"easter-3-thursday": {
+"title": "Thursday of the 3rd week of Easter",
+"dates": [
+"2026-04-23",
+"2027-04-15",
+"2028-05-04"
+]
+},
+"easter-3-friday": {
+"title": "Friday of the 3rd week of Easter",
+"dates": [
+"2026-04-24",
+"2027-04-16",
+"2028-05-05"
+]
+},
+"easter-4-monday": {
+"title": "Monday of the 4th week of Easter",
+"dates": [
+"2026-04-27",
+"2027-04-19",
+"2028-05-08"
+]
+},
+"easter-4-tuesday": {
+"title": "Tuesday of the 4th week of Easter",
+"dates": [
+"2026-04-28",
+"2027-04-20",
+"2028-05-09"
+]
+},
+"easter-4-wednesday": {
+"title": "Saint Catherine of Siena, Virgin and Doctor of the Church",
+"dates": [
+"2026-04-29",
+"2027-04-21",
+"2028-05-10"
+]
+},
+"easter-4-thursday": {
+"title": "Thursday of the 4th week of Easter",
+"dates": [
+"2026-04-30",
+"2027-04-22",
+"2028-05-11"
+]
+},
+"easter-4-friday": {
+"title": "Friday of the 4th week of Easter",
+"dates": [
+"2026-05-01",
+"2027-04-23",
+"2028-05-12"
+]
+},
+"easter-4-saturday": {
+"title": "Saint Athanasius, Bishop and Doctor of the Church",
+"dates": [
+"2026-05-02",
+"2027-04-24",
+"2028-05-13"
+]
+},
+"easter-5-monday": {
+"title": "Monday of the 5th week of Easter",
+"dates": [
+"2026-05-04",
+"2027-04-26",
+"2028-05-15"
+]
+},
+"easter-5-tuesday": {
+"title": "Tuesday of the 5th week of Easter",
+"dates": [
+"2026-05-05",
+"2027-04-27",
+"2028-05-16"
+]
+},
+"easter-5-wednesday": {
+"title": "Wednesday of the 5th week of Easter",
+"dates": [
+"2026-05-06",
+"2027-04-28",
+"2028-05-17"
+]
+},
+"easter-5-thursday": {
+"title": "Thursday of the 5th week of Easter",
+"dates": [
+"2026-05-07",
+"2027-04-29",
+"2028-05-18"
+]
+},
+"easter-5-friday": {
+"title": "Friday of the 5th week of Easter",
+"dates": [
+"2026-05-08",
+"2027-04-30",
+"2028-05-19"
+]
+},
+"easter-5-saturday": {
+"title": "Saturday of the 5th week of Easter",
+"dates": [
+"2026-05-09",
+"2027-05-01",
+"2028-05-20"
+]
+},
+"easter-6-monday": {
+"title": "Monday of the 6th week of Easter",
+"dates": [
+"2026-05-11",
+"2028-05-22"
+]
+},
+"easter-6-tuesday": {
+"title": "Tuesday of the 6th week of Easter",
+"dates": [
+"2026-05-12",
+"2027-05-04",
+"2028-05-23"
+]
+},
+"easter-6-wednesday": {
+"title": "Wednesday of the 6th week of Easter",
+"dates": [
+"2026-05-13",
+"2027-05-05",
+"2028-05-24"
+]
+},
+"easter-6-friday": {
+"title": "Friday of the 6th week of Easter",
+"dates": [
+"2026-05-15",
+"2027-05-07",
+"2028-05-26"
+]
+},
+"easter-6-saturday": {
+"title": "Saturday of the 6th week of Easter",
+"dates": [
+"2026-05-16",
+"2027-05-08",
+"2028-05-27"
+]
+},
+"easter-7-monday": {
+"title": "Monday of the 7th week of Easter",
+"dates": [
+"2026-05-18",
+"2027-05-10",
+"2028-05-29"
+]
+},
+"easter-7-tuesday": {
+"title": "Tuesday of the 7th week of Easter",
+"dates": [
+"2026-05-19",
+"2027-05-11",
+"2028-05-30"
+]
+},
+"easter-7-wednesday": {
+"title": "Wednesday of the 7th week of Easter",
+"dates": [
+"2026-05-20",
+"2027-05-12"
+]
+},
+"easter-7-thursday": {
+"title": "Thursday of the 7th week of Easter",
+"dates": [
+"2026-05-21",
+"2027-05-13",
+"2028-06-01"
+]
+},
+"easter-7-friday": {
+"title": "Friday of the 7th week of Easter",
+"dates": [
+"2026-05-22",
+"2028-06-02"
+]
+},
+"easter-7-saturday": {
+"title": "Saturday of the 7th week of Easter",
+"dates": [
+"2026-05-23",
+"2027-05-15",
+"2028-06-03"
+]
+},
+"advent-1-tuesday": {
+"title": "Tuesday of the 1st Week of Advent",
+"dates": [
+"2026-12-01",
+"2028-12-05"
+]
+},
+"advent-1-wednesday": {
+"title": "Wednesday of the 1st Week of Advent",
+"dates": [
+"2026-12-02",
+"2027-12-01",
+"2028-12-06"
+]
+},
+"advent-1-thursday": {
+"title": "Saint Francis Xavier, Priest",
+"dates": [
+"2026-12-03",
+"2027-12-02",
+"2028-12-07"
+]
+},
+"advent-1-friday": {
+"title": "Friday of the 1st Week of Advent",
+"dates": [
+"2026-12-04",
+"2027-12-03"
+]
+},
+"advent-1-saturday": {
+"title": "Saturday of the 1st Week of Advent",
+"dates": [
+"2026-12-05",
+"2027-12-04",
+"2028-12-09"
+]
+},
+"advent-2-monday": {
+"title": "Saint Ambrose, Bishop and Doctor of the Church",
+"dates": [
+"2026-12-07",
+"2027-12-06",
+"2028-12-11"
+]
+},
+"advent-2-wednesday": {
+"title": "Wednesday of the 2nd Week of Advent",
+"dates": [
+"2026-12-09",
+"2028-12-13"
+]
+},
+"advent-2-thursday": {
+"title": "Thursday of the 2nd Week of Advent",
+"dates": [
+"2026-12-10",
+"2027-12-09",
+"2028-12-14"
+]
+},
+"advent-2-friday": {
+"title": "Friday of the 2nd Week of Advent",
+"dates": [
+"2026-12-11",
+"2027-12-10",
+"2028-12-15"
+]
+},
+"advent-3-monday": {
+"title": "Saint John of the Cross, Priest and Doctor of the Church",
+"dates": [
+"2026-12-14",
+"2027-12-13"
+]
+},
+"advent-3-tuesday": {
+"title": "Tuesday of the 3rd Week of Advent",
+"dates": [
+"2026-12-15",
+"2027-12-14"
+]
+},
+"advent-3-wednesday": {
+"title": "Wednesday of the 3rd Week of Advent",
+"dates": [
+"2026-12-16",
+"2027-12-15"
+]
+},
+"advent-dec17": {
+"title": "December 17th",
+"dates": [
+"2026-12-17",
+"2027-12-17"
+]
+},
+"advent-dec18": {
+"title": "December 18th",
+"dates": [
+"2026-12-18",
+"2027-12-18",
+"2028-12-18"
+]
+},
+"advent-dec19": {
+"title": "December 19th",
+"dates": [
+"2026-12-19",
+"2028-12-19"
+]
+},
+"advent-dec21": {
+"title": "December 21st",
+"dates": [
+"2026-12-21",
+"2027-12-21",
+"2028-12-21"
+]
+},
+"advent-dec22": {
+"title": "December 22nd",
+"dates": [
+"2026-12-22",
+"2027-12-22",
+"2028-12-22"
+]
+},
+"advent-dec23": {
+"title": "December 23rd",
+"dates": [
+"2026-12-23",
+"2027-12-23",
+"2028-12-23"
+]
+},
+"advent-dec24": {
+"title": "December 24th",
+"dates": [
+"2026-12-24",
+"2027-12-24"
+]
+},
+"christmas-1229": {
+"title": "5th Day within the Octave of the Nativity of the Lord [Christmas]",
+"dates": [
+"2026-12-29",
+"2027-12-29",
+"2028-12-29"
+]
+},
+"christmas-1230": {
+"title": "6th Day within the Octave of the Nativity of the Lord [Christmas]",
+"dates": [
+"2026-12-30",
+"2027-12-30",
+"2028-12-30"
+]
+},
+"christmas-1231": {
+"title": "7th Day within the Octave of the Nativity of the Lord [Christmas]",
+"dates": [
+"2026-12-31",
+"2027-12-31"
+]
+},
+"christmas-0104": {
+"title": "Saint Elizabeth Ann Seton, Religious",
+"dates": [
+"2027-01-04",
+"2028-01-04"
+]
+},
+"lent-4-thursday": {
+"title": "Thursday of the 4th Week of Lent",
+"dates": [
+"2027-03-11",
+"2028-03-30"
+]
+},
+"lent-5-wednesday": {
+"title": "Wednesday of the 5th Week of Lent",
+"dates": [
+"2027-03-17",
+"2028-04-05"
+]
+},
+"easter-3-saturday": {
+"title": "Saturday of the 3rd week of Easter",
+"dates": [
+"2027-04-17",
+"2028-05-06"
+]
+},
+"easter-6-thursday": {
+"title": "Thursday of the 6th week of Easter",
+"dates": [
+"2027-05-06",
+"2028-05-25"
+]
+},
+"advent-1-monday": {
+"title": "Monday of the 1st Week of Advent",
+"dates": [
+"2027-11-29",
+"2028-12-04"
+]
+},
+"advent-2-tuesday": {
+"title": "Saint Ambrose, Bishop and Doctor of the Church",
+"dates": [
+"2027-12-07"
+]
+},
+"advent-2-saturday": {
+"title": "Saturday of the 2nd Week of Advent",
+"dates": [
+"2027-12-11",
+"2028-12-16"
+]
+},
+"advent-3-thursday": {
+"title": "Thursday of the 3rd Week of Advent",
+"dates": [
+"2027-12-16"
+]
+},
+"advent-dec20": {
+"title": "December 20th",
+"dates": [
+"2027-12-20",
+"2028-12-20"
+]
+}
+}

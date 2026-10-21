@@ -1,0 +1,36 @@
+{
+  "name": "rosario",
+  "version": "0.14.0",
+  "description": "A tiny Holy Rosary prayer engine for web apps",
+  "keywords": [
+    "rosary",
+    "rosario",
+    "rosarium",
+    "catholic"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/atgeo/rosario#readme",
+  "bugs": "https://github.com/atgeo/rosario/issues",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/atgeo/rosario.git"
+  },
+  "author": "Georges Kmeid <georgesk117@gmail.com>",
+  "type": "module",
+  "sideEffects": false,
+  "exports": {
+    ".": {
+      "types": "./index.d.ts",
+      "default": "./index.js"
+    }
+  },
+  "files": [
+    "LICENSE",
+    "index.js",
+    "index.d.ts",
+    "src/"
+  ],
+  "scripts": {
+    "test": "node --test"
+  }
+}

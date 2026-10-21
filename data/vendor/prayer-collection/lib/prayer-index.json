@@ -1,0 +1,787 @@
+{
+  "total": 56,
+  "primaryCategories": [
+    "penitential",
+    "seasonal",
+    "marian",
+    "christological",
+    "creeds",
+    "devotional",
+    "liturgical",
+    "holy-spirit",
+    "for-the-dead",
+    "daily",
+    "saints"
+  ],
+  "labels": [
+    "penitential",
+    "confession",
+    "common",
+    "virtues",
+    "essential",
+    "seasonal",
+    "advent",
+    "liturgical",
+    "ancient",
+    "marian",
+    "daily",
+    "devotional",
+    "christological",
+    "eucharistic",
+    "creeds",
+    "mass",
+    "trinitarian",
+    "spiritual-warfare",
+    "biblical",
+    "protection",
+    "evening",
+    "morning",
+    "mercy",
+    "chaplet",
+    "angels",
+    "st-michael",
+    "christmas",
+    "holy-spirit",
+    "easter",
+    "for-the-dead",
+    "brief",
+    "fatima",
+    "rosary",
+    "core",
+    "meals",
+    "family",
+    "contemplative",
+    "eastern",
+    "lent",
+    "litany",
+    "petition",
+    "passion",
+    "intercession",
+    "peace",
+    "franciscan",
+    "st-francis",
+    "saints",
+    "anthony",
+    "st-anthony",
+    "joseph",
+    "st-joseph",
+    "jude",
+    "st-jude",
+    "patrick",
+    "st-patrick",
+    "rita",
+    "st-rita",
+    "therese",
+    "st-therese",
+    "praise"
+  ],
+  "importanceLevels": [
+    "common",
+    "essential"
+  ],
+  "lastBuilt": "2025-10-27T18:12:43.146Z",
+  "prayersByCategory": {
+    "penitential": {
+      "count": 5,
+      "prayers": [
+        "act-of-contrition",
+        "act-of-faith",
+        "act-of-hope",
+        "act-of-love",
+        "confiteor"
+      ]
+    },
+    "seasonal": {
+      "count": 4,
+      "prayers": [
+        "advent-antiphons",
+        "christmas-prayer",
+        "easter-prayer",
+        "lenten-prayer"
+      ]
+    },
+    "marian": {
+      "count": 9,
+      "prayers": [
+        "alma-redemptoris-mater",
+        "angelus",
+        "ave-regina-caelorum",
+        "hail-mary",
+        "litany-of-loreto",
+        "memorare",
+        "regina-caeli",
+        "salve-regina",
+        "sub-tuum-praesidium"
+      ]
+    },
+    "christological": {
+      "count": 5,
+      "prayers": [
+        "anima-christi",
+        "jesus-prayer",
+        "litany-of-the-sacred-heart",
+        "our-father",
+        "prayer-before-crucifix"
+      ]
+    },
+    "creeds": {
+      "count": 1,
+      "prayers": [
+        "apostles-creed"
+      ]
+    },
+    "devotional": {
+      "count": 10,
+      "prayers": [
+        "armor-of-god",
+        "chaplet-of-divine-mercy",
+        "chaplet-of-st-michael",
+        "divine-mercy-closing-prayer",
+        "divine-mercy-opening-prayer",
+        "eternal-father",
+        "fatima-prayer",
+        "for-the-sake-of-his-sorrowful-passion",
+        "holy-god",
+        "prayer-of-st-francis"
+      ]
+    },
+    "liturgical": {
+      "count": 6,
+      "prayers": [
+        "canticle-of-simeon",
+        "canticle-of-zechariah",
+        "glory-be",
+        "magnificat",
+        "sign-of-the-cross",
+        "te-deum"
+      ]
+    },
+    "holy-spirit": {
+      "count": 2,
+      "prayers": [
+        "come-holy-spirit",
+        "veni-creator-spiritus"
+      ]
+    },
+    "for-the-dead": {
+      "count": 2,
+      "prayers": [
+        "eternal-rest",
+        "prayer-for-the-dead"
+      ]
+    },
+    "daily": {
+      "count": 4,
+      "prayers": [
+        "evening-prayer",
+        "grace-after-meals",
+        "grace-before-meals",
+        "morning-offering"
+      ]
+    },
+    "saints": {
+      "count": 8,
+      "prayers": [
+        "prayer-to-guardian-angel",
+        "prayer-to-st-anthony",
+        "prayer-to-st-joseph",
+        "prayer-to-st-jude",
+        "prayer-to-st-michael",
+        "prayer-to-st-patrick",
+        "prayer-to-st-rita",
+        "prayer-to-st-therese"
+      ]
+    }
+  },
+  "prayersByLabel": {
+    "penitential": {
+      "count": 6,
+      "prayers": [
+        "act-of-contrition",
+        "act-of-faith",
+        "act-of-hope",
+        "act-of-love",
+        "confiteor",
+        "lenten-prayer"
+      ]
+    },
+    "confession": {
+      "count": 1,
+      "prayers": [
+        "act-of-contrition"
+      ]
+    },
+    "common": {
+      "count": 28,
+      "prayers": [
+        "act-of-contrition",
+        "alma-redemptoris-mater",
+        "anima-christi",
+        "ave-regina-caelorum",
+        "canticle-of-simeon",
+        "canticle-of-zechariah",
+        "chaplet-of-divine-mercy",
+        "come-holy-spirit",
+        "confiteor",
+        "eternal-rest",
+        "evening-prayer",
+        "grace-after-meals",
+        "grace-before-meals",
+        "jesus-prayer",
+        "litany-of-loreto",
+        "morning-offering",
+        "prayer-for-the-dead",
+        "prayer-to-guardian-angel",
+        "prayer-to-st-anthony",
+        "prayer-to-st-joseph",
+        "prayer-to-st-michael",
+        "prayer-to-st-patrick",
+        "prayer-to-st-rita",
+        "prayer-to-st-therese",
+        "regina-caeli",
+        "salve-regina",
+        "sub-tuum-praesidium",
+        "te-deum"
+      ]
+    },
+    "virtues": {
+      "count": 3,
+      "prayers": [
+        "act-of-faith",
+        "act-of-hope",
+        "act-of-love"
+      ]
+    },
+    "essential": {
+      "count": 11,
+      "prayers": [
+        "act-of-faith",
+        "act-of-hope",
+        "act-of-love",
+        "apostles-creed",
+        "armor-of-god",
+        "glory-be",
+        "hail-mary",
+        "magnificat",
+        "our-father",
+        "sign-of-the-cross",
+        "veni-creator-spiritus"
+      ]
+    },
+    "seasonal": {
+      "count": 7,
+      "prayers": [
+        "advent-antiphons",
+        "alma-redemptoris-mater",
+        "ave-regina-caelorum",
+        "christmas-prayer",
+        "easter-prayer",
+        "lenten-prayer",
+        "regina-caeli"
+      ]
+    },
+    "advent": {
+      "count": 1,
+      "prayers": [
+        "advent-antiphons"
+      ]
+    },
+    "liturgical": {
+      "count": 14,
+      "prayers": [
+        "advent-antiphons",
+        "alma-redemptoris-mater",
+        "ave-regina-caelorum",
+        "canticle-of-simeon",
+        "canticle-of-zechariah",
+        "confiteor",
+        "easter-prayer",
+        "glory-be",
+        "magnificat",
+        "regina-caeli",
+        "salve-regina",
+        "sign-of-the-cross",
+        "te-deum",
+        "veni-creator-spiritus"
+      ]
+    },
+    "ancient": {
+      "count": 4,
+      "prayers": [
+        "advent-antiphons",
+        "sub-tuum-praesidium",
+        "te-deum",
+        "veni-creator-spiritus"
+      ]
+    },
+    "marian": {
+      "count": 11,
+      "prayers": [
+        "alma-redemptoris-mater",
+        "angelus",
+        "ave-regina-caelorum",
+        "fatima-prayer",
+        "hail-mary",
+        "litany-of-loreto",
+        "magnificat",
+        "memorare",
+        "regina-caeli",
+        "salve-regina",
+        "sub-tuum-praesidium"
+      ]
+    },
+    "daily": {
+      "count": 10,
+      "prayers": [
+        "angelus",
+        "armor-of-god",
+        "evening-prayer",
+        "glory-be",
+        "grace-after-meals",
+        "grace-before-meals",
+        "hail-mary",
+        "morning-offering",
+        "our-father",
+        "sign-of-the-cross"
+      ]
+    },
+    "devotional": {
+      "count": 25,
+      "prayers": [
+        "angelus",
+        "anima-christi",
+        "armor-of-god",
+        "chaplet-of-divine-mercy",
+        "chaplet-of-st-michael",
+        "christmas-prayer",
+        "come-holy-spirit",
+        "divine-mercy-closing-prayer",
+        "divine-mercy-opening-prayer",
+        "eternal-father",
+        "evening-prayer",
+        "fatima-prayer",
+        "for-the-sake-of-his-sorrowful-passion",
+        "holy-god",
+        "litany-of-loreto",
+        "litany-of-the-sacred-heart",
+        "memorare",
+        "morning-offering",
+        "prayer-before-crucifix",
+        "prayer-of-st-francis",
+        "prayer-to-st-anthony",
+        "prayer-to-st-jude",
+        "prayer-to-st-patrick",
+        "prayer-to-st-rita",
+        "prayer-to-st-therese"
+      ]
+    },
+    "christological": {
+      "count": 5,
+      "prayers": [
+        "anima-christi",
+        "jesus-prayer",
+        "litany-of-the-sacred-heart",
+        "our-father",
+        "prayer-before-crucifix"
+      ]
+    },
+    "eucharistic": {
+      "count": 1,
+      "prayers": [
+        "anima-christi"
+      ]
+    },
+    "creeds": {
+      "count": 1,
+      "prayers": [
+        "apostles-creed"
+      ]
+    },
+    "mass": {
+      "count": 3,
+      "prayers": [
+        "apostles-creed",
+        "confiteor",
+        "our-father"
+      ]
+    },
+    "trinitarian": {
+      "count": 5,
+      "prayers": [
+        "apostles-creed",
+        "glory-be",
+        "holy-god",
+        "sign-of-the-cross",
+        "te-deum"
+      ]
+    },
+    "spiritual-warfare": {
+      "count": 3,
+      "prayers": [
+        "armor-of-god",
+        "chaplet-of-st-michael",
+        "prayer-to-st-michael"
+      ]
+    },
+    "biblical": {
+      "count": 4,
+      "prayers": [
+        "armor-of-god",
+        "canticle-of-simeon",
+        "canticle-of-zechariah",
+        "magnificat"
+      ]
+    },
+    "protection": {
+      "count": 5,
+      "prayers": [
+        "armor-of-god",
+        "chaplet-of-st-michael",
+        "prayer-to-guardian-angel",
+        "prayer-to-st-michael",
+        "sub-tuum-praesidium"
+      ]
+    },
+    "evening": {
+      "count": 2,
+      "prayers": [
+        "canticle-of-simeon",
+        "evening-prayer"
+      ]
+    },
+    "morning": {
+      "count": 2,
+      "prayers": [
+        "canticle-of-zechariah",
+        "morning-offering"
+      ]
+    },
+    "mercy": {
+      "count": 6,
+      "prayers": [
+        "chaplet-of-divine-mercy",
+        "divine-mercy-closing-prayer",
+        "divine-mercy-opening-prayer",
+        "eternal-father",
+        "for-the-sake-of-his-sorrowful-passion",
+        "holy-god"
+      ]
+    },
+    "chaplet": {
+      "count": 7,
+      "prayers": [
+        "chaplet-of-divine-mercy",
+        "chaplet-of-st-michael",
+        "divine-mercy-closing-prayer",
+        "divine-mercy-opening-prayer",
+        "eternal-father",
+        "for-the-sake-of-his-sorrowful-passion",
+        "holy-god"
+      ]
+    },
+    "angels": {
+      "count": 2,
+      "prayers": [
+        "chaplet-of-st-michael",
+        "prayer-to-guardian-angel"
+      ]
+    },
+    "st-michael": {
+      "count": 2,
+      "prayers": [
+        "chaplet-of-st-michael",
+        "prayer-to-st-michael"
+      ]
+    },
+    "christmas": {
+      "count": 1,
+      "prayers": [
+        "christmas-prayer"
+      ]
+    },
+    "holy-spirit": {
+      "count": 2,
+      "prayers": [
+        "come-holy-spirit",
+        "veni-creator-spiritus"
+      ]
+    },
+    "easter": {
+      "count": 1,
+      "prayers": [
+        "easter-prayer"
+      ]
+    },
+    "for-the-dead": {
+      "count": 2,
+      "prayers": [
+        "eternal-rest",
+        "prayer-for-the-dead"
+      ]
+    },
+    "brief": {
+      "count": 1,
+      "prayers": [
+        "eternal-rest"
+      ]
+    },
+    "fatima": {
+      "count": 1,
+      "prayers": [
+        "fatima-prayer"
+      ]
+    },
+    "rosary": {
+      "count": 4,
+      "prayers": [
+        "fatima-prayer",
+        "glory-be",
+        "hail-mary",
+        "our-father"
+      ]
+    },
+    "core": {
+      "count": 4,
+      "prayers": [
+        "glory-be",
+        "hail-mary",
+        "our-father",
+        "sign-of-the-cross"
+      ]
+    },
+    "meals": {
+      "count": 2,
+      "prayers": [
+        "grace-after-meals",
+        "grace-before-meals"
+      ]
+    },
+    "family": {
+      "count": 2,
+      "prayers": [
+        "grace-after-meals",
+        "grace-before-meals"
+      ]
+    },
+    "contemplative": {
+      "count": 1,
+      "prayers": [
+        "jesus-prayer"
+      ]
+    },
+    "eastern": {
+      "count": 1,
+      "prayers": [
+        "jesus-prayer"
+      ]
+    },
+    "lent": {
+      "count": 1,
+      "prayers": [
+        "lenten-prayer"
+      ]
+    },
+    "litany": {
+      "count": 2,
+      "prayers": [
+        "litany-of-loreto",
+        "litany-of-the-sacred-heart"
+      ]
+    },
+    "petition": {
+      "count": 1,
+      "prayers": [
+        "memorare"
+      ]
+    },
+    "passion": {
+      "count": 1,
+      "prayers": [
+        "prayer-before-crucifix"
+      ]
+    },
+    "intercession": {
+      "count": 1,
+      "prayers": [
+        "prayer-for-the-dead"
+      ]
+    },
+    "peace": {
+      "count": 1,
+      "prayers": [
+        "prayer-of-st-francis"
+      ]
+    },
+    "franciscan": {
+      "count": 1,
+      "prayers": [
+        "prayer-of-st-francis"
+      ]
+    },
+    "st-francis": {
+      "count": 1,
+      "prayers": [
+        "prayer-of-st-francis"
+      ]
+    },
+    "saints": {
+      "count": 8,
+      "prayers": [
+        "prayer-to-guardian-angel",
+        "prayer-to-st-anthony",
+        "prayer-to-st-joseph",
+        "prayer-to-st-jude",
+        "prayer-to-st-michael",
+        "prayer-to-st-patrick",
+        "prayer-to-st-rita",
+        "prayer-to-st-therese"
+      ]
+    },
+    "anthony": {
+      "count": 1,
+      "prayers": [
+        "prayer-to-st-anthony"
+      ]
+    },
+    "st-anthony": {
+      "count": 1,
+      "prayers": [
+        "prayer-to-st-anthony"
+      ]
+    },
+    "joseph": {
+      "count": 1,
+      "prayers": [
+        "prayer-to-st-joseph"
+      ]
+    },
+    "st-joseph": {
+      "count": 1,
+      "prayers": [
+        "prayer-to-st-joseph"
+      ]
+    },
+    "jude": {
+      "count": 1,
+      "prayers": [
+        "prayer-to-st-jude"
+      ]
+    },
+    "st-jude": {
+      "count": 1,
+      "prayers": [
+        "prayer-to-st-jude"
+      ]
+    },
+    "patrick": {
+      "count": 1,
+      "prayers": [
+        "prayer-to-st-patrick"
+      ]
+    },
+    "st-patrick": {
+      "count": 1,
+      "prayers": [
+        "prayer-to-st-patrick"
+      ]
+    },
+    "rita": {
+      "count": 1,
+      "prayers": [
+        "prayer-to-st-rita"
+      ]
+    },
+    "st-rita": {
+      "count": 1,
+      "prayers": [
+        "prayer-to-st-rita"
+      ]
+    },
+    "therese": {
+      "count": 1,
+      "prayers": [
+        "prayer-to-st-therese"
+      ]
+    },
+    "st-therese": {
+      "count": 1,
+      "prayers": [
+        "prayer-to-st-therese"
+      ]
+    },
+    "praise": {
+      "count": 1,
+      "prayers": [
+        "te-deum"
+      ]
+    }
+  },
+  "prayersByImportance": {
+    "common": {
+      "count": 45,
+      "prayers": [
+        "act-of-contrition",
+        "advent-antiphons",
+        "alma-redemptoris-mater",
+        "angelus",
+        "anima-christi",
+        "ave-regina-caelorum",
+        "canticle-of-simeon",
+        "canticle-of-zechariah",
+        "chaplet-of-divine-mercy",
+        "chaplet-of-st-michael",
+        "christmas-prayer",
+        "come-holy-spirit",
+        "confiteor",
+        "divine-mercy-closing-prayer",
+        "divine-mercy-opening-prayer",
+        "easter-prayer",
+        "eternal-father",
+        "eternal-rest",
+        "evening-prayer",
+        "fatima-prayer",
+        "for-the-sake-of-his-sorrowful-passion",
+        "grace-after-meals",
+        "grace-before-meals",
+        "holy-god",
+        "jesus-prayer",
+        "lenten-prayer",
+        "litany-of-loreto",
+        "litany-of-the-sacred-heart",
+        "memorare",
+        "morning-offering",
+        "prayer-before-crucifix",
+        "prayer-for-the-dead",
+        "prayer-of-st-francis",
+        "prayer-to-guardian-angel",
+        "prayer-to-st-anthony",
+        "prayer-to-st-joseph",
+        "prayer-to-st-jude",
+        "prayer-to-st-michael",
+        "prayer-to-st-patrick",
+        "prayer-to-st-rita",
+        "prayer-to-st-therese",
+        "regina-caeli",
+        "salve-regina",
+        "sub-tuum-praesidium",
+        "te-deum"
+      ]
+    },
+    "essential": {
+      "count": 11,
+      "prayers": [
+        "act-of-faith",
+        "act-of-hope",
+        "act-of-love",
+        "apostles-creed",
+        "armor-of-god",
+        "glory-be",
+        "hail-mary",
+        "magnificat",
+        "our-father",
+        "sign-of-the-cross",
+        "veni-creator-spiritus"
+      ]
+    }
+  }
+}

@@ -12,31 +12,34 @@
       <span>The Daily Catholic</span>
     </a>
     <nav class="tabs" aria-label="Views">
-      <a href="#today" data-view="today">Today</a>
-      <a href="#play" data-view="play">Play</a>
-      <a href="#map" data-view="bible">Bible</a>
-      <a href="#journeys" data-view="journeys">Journeys</a>
-      <a href="#music" data-view="music">Music</a>
-      <a href="#sacraments" data-view="sacraments">Sacraments</a>
-      <a href="#mass" data-view="mass">Find a Mass</a>
+      <a href="#today" data-view="today" data-t="today">Today</a>
+      <a href="#pray" data-view="pray" data-t="pray">Pray</a>
+      <a href="#play" data-view="play" data-t="play">Play</a>
+      <a href="#map" data-view="bible" data-t="bible">Bible</a>
+      <a href="#journeys" data-view="journeys" data-t="journeys">Journeys</a>
+      <a href="#music" data-view="music" data-t="music">Music</a>
+      <a href="#sacraments" data-view="sacraments" data-t="sacraments">Sacraments</a>
+      <a href="#mass" data-view="mass" data-t="mass">Find a Mass</a>
     </nav>
     <label class="search">
       <span class="sr">Find a person</span>
-      <input id="q" type="search" placeholder="Find a person…" autocomplete="off">
+      <input id="q" type="search" placeholder="Find a person…" data-t-ph="findPerson" autocomplete="off">
       <div id="qres" class="qres" hidden></div>
     </label>
+    <div class="langtog" role="group" aria-label="Language / Idioma"><button data-lang="en" lang="en">EN</button><button data-lang="es" lang="es">ES</button></div>
   </div>
 </header>
 
 <main>
   <section id="view-today" class="view"></section>
+  <section id="view-pray" class="view" hidden></section>
   <section id="view-play" class="view" hidden></section>
   <section id="view-journeys" class="view" hidden></section>
   <section id="view-music" class="view" hidden></section>
   <section id="view-sacraments" class="view" hidden></section>
   <section id="view-mass" class="view" hidden></section>
   <section id="view-map" class="view" hidden>
-    <nav class="subnav" aria-label="Bible views"><a href="#map" data-sub="map">Map</a><a href="#people" data-sub="people">People</a><a href="#canon" data-sub="canon">Books</a></nav>
+    <nav class="subnav" aria-label="Bible views"><a href="#map" data-sub="map" data-t="map">Map</a><a href="#people" data-sub="people" data-t="people">People</a><a href="#canon" data-sub="canon" data-t="books">Books</a></nav>
     <div class="map-head">
       <div>
         <h1>Everyone in the Catholic Bible, and how they connect</h1>
@@ -56,7 +59,7 @@
   </section>
 
   <section id="view-canon" class="view" hidden>
-    <nav class="subnav" aria-label="Bible views"><a href="#map" data-sub="map">Map</a><a href="#people" data-sub="people">People</a><a href="#canon" data-sub="canon">Books</a></nav>
+    <nav class="subnav" aria-label="Bible views"><a href="#map" data-sub="map" data-t="map">Map</a><a href="#people" data-sub="people" data-t="people">People</a><a href="#canon" data-sub="canon" data-t="books">Books</a></nav>
     <h1>Who appears where</h1>
     <p class="lede">The 73 books of the Catholic canon run across the top. Each row is a person; the dot shows how many verses mention them in that book. Tap a row to open the person.</p>
     <div class="canon-tools">
@@ -71,7 +74,7 @@
   </section>
 
   <section id="view-people" class="view" hidden>
-    <nav class="subnav" aria-label="Bible views"><a href="#map" data-sub="map">Map</a><a href="#people" data-sub="people">People</a><a href="#canon" data-sub="canon">Books</a></nav>
+    <nav class="subnav" aria-label="Bible views"><a href="#map" data-sub="map" data-t="map">Map</a><a href="#people" data-sub="people" data-t="people">People</a><a href="#canon" data-sub="canon" data-t="books">Books</a></nav>
     <h1>People</h1>
     <div class="people-tools">
       <input id="pf" type="search" placeholder="Filter by name or role" autocomplete="off">
@@ -90,11 +93,13 @@
 </aside>
 
 <footer class="foot">
-  Scripture: World English Bible, Catholic Edition (public domain). Teaching notes are study summaries; consult the Catechism of the Catholic Church for authoritative teaching.
+  <span data-t="footer">Scripture: World English Bible, Catholic Edition (public domain). Teaching notes are study summaries; consult the Catechism of the Catholic Church for authoritative teaching.</span>
 </footer>
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/7.8.5/d3.min.js"></script>
+<script src="i18n.js"></script>
 <script src="games.js"></script>
 <script src="today.js"></script>
 <script src="parish.js"></script>
+<script src="pray.js"></script>
 <script src="app.js"></script>

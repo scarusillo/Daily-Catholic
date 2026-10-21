@@ -49,7 +49,8 @@
     const r = parseRef(s);
     if (!r || !BOOK[r.b]) return s;
     const tail = s.slice(s.indexOf(" ") + 1);
-    return `${BOOK[r.b].name} ${tail}`;
+    const es = window.I18N?.lang === "es" ? window.I18N.T("books." + r.b) : null;
+    return `${es && es !== "books." + r.b ? es : BOOK[r.b].name} ${tail}`;
   }
   function verses(r) {
     const out = [], chs = BIBLE[r.b];
@@ -72,15 +73,16 @@
   }
 
   /* ---------- routing ---------- */
-  const VIEWS = ["today", "map", "canon", "people", "journeys", "play", "music", "sacraments", "mass"];
+  const VIEWS = ["today", "pray", "map", "canon", "people", "journeys", "play", "music", "sacraments", "mass"];
+  const PRAY_VIEWS = ["pray", "rosary", "chaplet", "confession", "massguide"];
   const GAME_VIEWS = ["loaves", "threads", "links", "acrostic", "tap", "quiz"];
   const rendered = {};
   function route() {
     const h = location.hash.slice(1);
-    let view = VIEWS.includes(h) || GAME_VIEWS.includes(h) ? h : null;
+    let view = VIEWS.includes(h) || GAME_VIEWS.includes(h) || PRAY_VIEWS.includes(h) ? h : null;
     if (!view && P[h]) { openPerson(h, false); view = store.get("bpm.view", "today"); }
     view ||= "today";
-    const section = GAME_VIEWS.includes(view) ? "play" : view;
+    const section = GAME_VIEWS.includes(view) ? "play" : PRAY_VIEWS.includes(view) ? "pray" : view;
     for (const v of VIEWS) $(`#view-${v}`).hidden = v !== section;
     const tab = ["map", "canon", "people"].includes(section) ? "bible" : section;
     document.querySelectorAll(".tabs a").forEach((a) => a.classList.toggle("on", a.dataset.view === tab));
@@ -90,6 +92,7 @@
     if (section === "today") window.BPM_TODAY.renderToday(el);
     else if (section === "journeys") window.BPM_TODAY.renderJourneys(el, journeyReq);
     else if (view === "quiz") renderQuiz(el);
+    else if (section === "pray") window.BPM_PRAY.render(view, el);
     else if (section === "music") window.BPM_PARISH.renderMusic(el, subReq);
     else if (section === "sacraments") window.BPM_PARISH.renderSacraments(el, subReq);
     else if (section === "mass") { if (!rendered.mass) { rendered.mass = true; window.BPM_PARISH.renderFinder(el); } }
@@ -456,6 +459,10 @@
       if (sc) { subReq = sc.dataset.sac || null; if (location.hash !== "#sacraments") location.hash = "sacraments"; else route(); return; }
       const c = e.target.closest(".chip[data-id], .potd[data-id]");
       if (c && !c.classList.contains("self")) return openPerson(c.dataset.id);
+      const lg = e.target.closest("[data-lang]");
+      if (lg) { window.I18N.set(lg.dataset.lang); return; }
+      const stx = e.target.closest("[data-speak-text]");
+      if (stx) return speak(stx.dataset.speakText, stx);
       const sp = e.target.closest("[data-speak-person]");
       if (sp) { const p = P[sp.dataset.speakPerson]; return speak(`${p.name}. ${p.summary} ${p.catholic}`, sp); }
       const sr = e.target.closest("[data-speak-ref]");
@@ -602,13 +609,15 @@
   function speak(text, btn) {
     const ss = window.speechSynthesis;
     if (!ss) return;
-    if (speaking === btn) { ss.cancel(); btn.textContent = "▶ Listen"; speaking = null; return; }
+    const L0 = window.I18N.T("listen"), S0 = window.I18N.T("stop");
+    if (speaking === btn) { ss.cancel(); btn.textContent = L0; speaking = null; return; }
     ss.cancel();
-    if (speaking) speaking.textContent = "▶ Listen";
+    if (speaking) speaking.textContent = L0;
     const u = new SpeechSynthesisUtterance(text);
+    u.lang = btn.dataset.speakRef || btn.dataset.speakPerson ? "en-US" : window.I18N.locale();
     u.rate = 0.95;
-    u.onend = () => { if (speaking === btn) { btn.textContent = "▶ Listen"; speaking = null; } };
-    speaking = btn; btn.textContent = "■ Stop";
+    u.onend = () => { if (speaking === btn) { btn.textContent = L0; speaking = null; } };
+    speaking = btn; btn.textContent = S0;
     ss.speak(u);
   }
 
@@ -677,6 +686,7 @@
     };
     setupSearch(); setupPanel();
     window.addEventListener("hashchange", route);
+    window.I18N.on(() => { rendered.mass = false; if (current) openPerson(current, false); route(); });
     route();
     loadBible();
   }
