@@ -1,0 +1,6726 @@
+[
+  {
+    "id": "zerubbabel",
+    "name": "Zerubbabel",
+    "aliases": [],
+    "gender": "m",
+    "role": "Governor of Judah",
+    "era": "Return & Restoration",
+    "summary": "A grandson of King Jehoiachin who led the first great return of exiles from Babylon under Cyrus and served as Persian governor of Judah. With the high priest Jeshua he rebuilt the altar and laid the foundation of the Second Temple, and, spurred on by the prophets Haggai and Zechariah, finished the Temple in the reign of Darius (515 BC).",
+    "catholic": "Zerubbabel keeps the royal line of David alive after the Exile, and both Matthew and Luke name him among the ancestors of Jesus. God's promise through Haggai to make him 'like a signet ring' (Hag 2:23) reverses the curse on his grandfather Jeconiah and points forward to the Messiah, the true Son of David who builds the true Temple of his Body (John 2:19-21). Sirach praises him in the 'praise of the fathers' (Sir 49:11). The pairing of a Davidic prince and a high priest (Zerubbabel and Jeshua, Zech 4) foreshadows Christ, who is both King and Priest.",
+    "know": [
+      "Grandson of Jeconiah (Jehoiachin), the exiled king of Judah.",
+      "Led the first return and rebuilt the altar and Temple foundation (Ezra 3).",
+      "Haggai calls him God's 'signet ring' (Hag 2:23).",
+      "Named in both genealogies of Jesus (Matt 1:12-13; Luke 3:27).",
+      "1 Chr 3:19 lists him as a son of Pedaiah, Shealtiel's brother — possibly a levirate or legal-heir arrangement."
+    ],
+    "keyPassages": [
+      "ezr 3:1-13",
+      "ezr 5:1-2",
+      "hag 1:1-15",
+      "hag 2:20-23",
+      "zec 4:6-10",
+      "sir 49:11",
+      "mat 1:12-13",
+      "luk 3:27"
+    ],
+    "father": "shealtiel",
+    "mother": null,
+    "spouses": [],
+    "children": [],
+    "relations": [
+      {
+        "to": "jeshua-high-priest",
+        "type": "co-leader with",
+        "ref": "ezr 3:2"
+      },
+      {
+        "to": "haggai",
+        "type": "encouraged by",
+        "ref": "hag 1:1"
+      },
+      {
+        "to": "zechariah-prophet",
+        "type": "encouraged by",
+        "ref": "zec 4:9"
+      },
+      {
+        "to": "cyrus",
+        "type": "returned under",
+        "ref": "ezr 1:1-4"
+      },
+      {
+        "to": "darius-i",
+        "type": "finished Temple under",
+        "ref": "ezr 6:14-15"
+      },
+      {
+        "to": "sheshbazzar",
+        "type": "succeeded or identified with",
+        "ref": "ezr 5:16"
+      },
+      {
+        "to": "jesus",
+        "type": "ancestor of",
+        "ref": "mat 1:12-13"
+      }
+    ],
+    "search": {
+      "names": [
+        "Zerubbabel"
+      ],
+      "books": null
+    }
+  },
+  {
+    "id": "shealtiel",
+    "name": "Shealtiel",
+    "aliases": [],
+    "gender": "m",
+    "role": "Davidic prince in exile",
+    "era": "Exile",
+    "summary": "The son of the exiled King Jeconiah (Jehoiachin) born in Babylon and the father (or legal father) of Zerubbabel. He appears mainly in genealogies and in the formula 'Zerubbabel son of Shealtiel'.",
+    "catholic": "Shealtiel is a link in the genealogy of Jesus in both Matthew and Luke, a sign that God preserved the house of David through the darkness of the Exile, as he had promised (2 Sam 7:16).",
+    "know": [
+      "Son of Jeconiah, born in captivity.",
+      "Father of Zerubbabel in Ezra, Haggai, Matthew and Luke.",
+      "Listed in both Gospel genealogies of Jesus."
+    ],
+    "keyPassages": [
+      "1ch 3:17",
+      "ezr 3:2",
+      "hag 1:1",
+      "mat 1:12",
+      "luk 3:27"
+    ],
+    "father": "jehoiachin",
+    "mother": null,
+    "spouses": [],
+    "children": [
+      "zerubbabel"
+    ],
+    "relations": [
+      {
+        "to": "jesus",
+        "type": "ancestor of",
+        "ref": "mat 1:12"
+      }
+    ],
+    "search": {
+      "names": [
+        "Shealtiel"
+      ],
+      "books": null
+    }
+  },
+  {
+    "id": "jeshua-high-priest",
+    "name": "Jeshua the high priest",
+    "aliases": [
+      "Joshua son of Jehozadak",
+      "Jesus the son of Josedek"
+    ],
+    "gender": "m",
+    "role": "High Priest",
+    "era": "Return & Restoration",
+    "summary": "Jeshua (Joshua) son of Jozadak was the first high priest after the return from Babylon. With Zerubbabel he rebuilt the altar, offered the first sacrifices and laid the foundations of the Second Temple. In Zechariah's visions he is cleansed of filthy garments and crowned as a sign of 'the Branch'.",
+    "catholic": "Jeshua bears the same name as Jesus (Hebrew Yeshua; Sirach's Greek even calls him 'Jesus the son of Josedek', Sir 49:12). The Fathers saw in Zechariah 3 and 6 — the high priest stripped of filthy garments, clothed anew and crowned — a striking figure of Christ, the great High Priest who is also King (Heb 4:14). His restoration of daily sacrifice anticipates the perfect worship of the New Covenant.",
+    "know": [
+      "Son of Jozadak, of the high-priestly line.",
+      "Called Joshua in Haggai and Zechariah.",
+      "Crowned in Zechariah 6:11 as a sign of 'the Branch'.",
+      "Praised in Sirach 49:12 as 'Jesus the son of Josedek'."
+    ],
+    "keyPassages": [
+      "ezr 3:2-9",
+      "ezr 5:2",
+      "hag 1:12-14",
+      "zec 3:1-10",
+      "zec 6:11-13",
+      "sir 49:12"
+    ],
+    "father": "jozadak",
+    "mother": null,
+    "spouses": [],
+    "children": [
+      "joiakim"
+    ],
+    "relations": [
+      {
+        "to": "zerubbabel",
+        "type": "co-leader with",
+        "ref": "ezr 3:2"
+      },
+      {
+        "to": "zechariah-prophet",
+        "type": "seen in vision by",
+        "ref": "zec 3:1"
+      }
+    ],
+    "search": {
+      "names": [
+        "Jeshua",
+        "Joshua",
+        "Jesus"
+      ],
+      "books": [
+        "ezr:2-5",
+        "neh:12",
+        "hag",
+        "zec:3",
+        "zec:6",
+        "sir:49"
+      ]
+    }
+  },
+  {
+    "id": "jozadak",
+    "name": "Jozadak",
+    "aliases": [
+      "Jehozadak",
+      "Josedek"
+    ],
+    "gender": "m",
+    "role": "Priest in exile",
+    "era": "Exile",
+    "summary": "Jozadak (Jehozadak, Josedek) was the priest carried into exile by Nebuchadnezzar, of the high-priestly line, and the father of the returning high priest Jeshua.",
+    "catholic": "",
+    "know": [
+      "Father of Jeshua the high priest.",
+      "Spelled Jehozadak in Haggai/Zechariah and Josedek in Sirach."
+    ],
+    "keyPassages": [
+      "ezr 3:2",
+      "neh 12:26",
+      "sir 49:12"
+    ],
+    "father": null,
+    "mother": null,
+    "spouses": [],
+    "children": [
+      "jeshua-high-priest"
+    ],
+    "relations": [],
+    "search": {
+      "names": [
+        "Jozadak",
+        "Jehozadak",
+        "Josedek"
+      ],
+      "books": null
+    }
+  },
+  {
+    "id": "joiakim",
+    "name": "Joiakim",
+    "aliases": [],
+    "gender": "m",
+    "role": "High Priest",
+    "era": "Return & Restoration",
+    "summary": "Son of Jeshua and his successor as high priest in the generation after the return.",
+    "catholic": "",
+    "know": [
+      "Son of Jeshua the high priest.",
+      "Father of the high priest Eliashib (Neh 12:10)."
+    ],
+    "keyPassages": [
+      "neh 12:10",
+      "neh 12:12",
+      "neh 12:26"
+    ],
+    "father": "jeshua-high-priest",
+    "mother": null,
+    "spouses": [],
+    "children": [
+      "eliashib-high-priest"
+    ],
+    "relations": [],
+    "search": {
+      "names": [
+        "Joiakim"
+      ],
+      "books": null
+    }
+  },
+  {
+    "id": "eliashib-high-priest",
+    "name": "Eliashib the high priest",
+    "aliases": [],
+    "gender": "m",
+    "role": "High Priest",
+    "era": "Return & Restoration",
+    "summary": "High priest in Nehemiah's day who, with his fellow priests, rebuilt the Sheep Gate of Jerusalem. Later, while Nehemiah was away, he gave Tobiah the Ammonite a room in the Temple courts, which Nehemiah angrily cleared out.",
+    "catholic": "",
+    "know": [
+      "Rebuilt the Sheep Gate (Neh 3:1).",
+      "Allied with Tobiah and housed him in the Temple (Neh 13:4-7).",
+      "A grandson married Sanballat's daughter (Neh 13:28)."
+    ],
+    "keyPassages": [
+      "neh 3:1",
+      "neh 12:10",
+      "neh 13:4-9",
+      "neh 13:28"
+    ],
+    "father": "joiakim",
+    "mother": null,
+    "spouses": [],
+    "children": [
+      "joiada-son-of-eliashib",
+      "jehohanan-son-of-eliashib"
+    ],
+    "relations": [
+      {
+        "to": "tobiah-the-ammonite",
+        "type": "allied with",
+        "ref": "neh 13:4"
+      },
+      {
+        "to": "nehemiah",
+        "type": "rebuked by",
+        "ref": "neh 13:7-9"
+      }
+    ],
+    "search": {
+      "names": [
+        "Eliashib"
+      ],
+      "books": [
+        "neh:3",
+        "neh:12-13"
+      ]
+    }
+  },
+  {
+    "id": "joiada-son-of-eliashib",
+    "name": "Joiada son of Eliashib",
+    "aliases": [],
+    "gender": "m",
+    "role": "High Priest",
+    "era": "Return & Restoration",
+    "summary": "Son of the high priest Eliashib and next in the high-priestly line; one of his sons married a daughter of Sanballat and was driven away by Nehemiah.",
+    "catholic": "",
+    "know": [
+      "Son of Eliashib, father of Jonathan/Johanan.",
+      "His son became Sanballat's son-in-law (Neh 13:28)."
+    ],
+    "keyPassages": [
+      "neh 12:10-11",
+      "neh 13:28"
+    ],
+    "father": "eliashib-high-priest",
+    "mother": null,
+    "spouses": [],
+    "children": [],
+    "relations": [
+      {
+        "to": "sanballat",
+        "type": "son became son-in-law of",
+        "ref": "neh 13:28"
+      }
+    ],
+    "search": {
+      "names": [
+        "Joiada"
+      ],
+      "books": [
+        "neh:12-13"
+      ]
+    }
+  },
+  {
+    "id": "cyrus",
+    "name": "Cyrus",
+    "aliases": [],
+    "gender": "m",
+    "role": "King of Persia",
+    "era": "Return & Restoration",
+    "summary": "Cyrus the Great, founder of the Persian Empire, conquered Babylon in 539 BC and issued the decree allowing the Jews to return home and rebuild the Temple, sending back the sacred vessels Nebuchadnezzar had taken. Isaiah names him as the Lord's 'shepherd' and 'anointed' long in advance.",
+    "catholic": "Cyrus is the only Gentile in Scripture called God's 'anointed' (Hebrew mashiach, Isa 45:1). The Church reads him as an instrument of Providence: God uses even a pagan king to fulfil his word through Jeremiah (2 Chr 36:22) and free his people, a figure of Christ the Anointed who frees humanity from the captivity of sin. His decree closes the Hebrew Bible (2 Chr 36:23) and opens Ezra.",
+    "know": [
+      "Conquered Babylon in 539 BC.",
+      "His decree (Ezra 1:1-4) allowed the return and the rebuilding of the Temple.",
+      "Called God's 'anointed' and 'shepherd' in Isaiah 44:28-45:1.",
+      "Daniel served into his reign (Dan 1:21; 6:28)."
+    ],
+    "keyPassages": [
+      "2ch 36:22-23",
+      "ezr 1:1-11",
+      "ezr 6:3-5",
+      "isa 44:28",
+      "isa 45:1-6"
+    ],
+    "father": null,
+    "mother": null,
+    "spouses": [],
+    "children": [],
+    "relations": [
+      {
+        "to": "sheshbazzar",
+        "type": "entrusted the Temple vessels to",
+        "ref": "ezr 1:8"
+      },
+      {
+        "to": "zerubbabel",
+        "type": "permitted return of",
+        "ref": "ezr 1:1-4"
+      },
+      {
+        "to": "jeremiah",
+        "type": "fulfilled prophecy of",
+        "ref": "2ch 36:22"
+      },
+      {
+        "to": "isaiah",
+        "type": "named in prophecy of",
+        "ref": "isa 45:1"
+      },
+      {
+        "to": "daniel",
+        "type": "ruled during service of",
+        "ref": "dan 6:28"
+      }
+    ],
+    "search": {
+      "names": [
+        "Cyrus"
+      ],
+      "books": null
+    }
+  },
+  {
+    "id": "darius-i",
+    "name": "Darius I the Persian",
+    "aliases": [],
+    "gender": "m",
+    "role": "King of Persia",
+    "era": "Return & Restoration",
+    "summary": "Darius I (522-486 BC), the Persian king in whose reign Haggai and Zechariah prophesied. When local officials questioned the rebuilding of the Temple, he searched the archives, found Cyrus' decree, confirmed it and paid for the work, and the Temple was completed in his sixth year.",
+    "catholic": "Darius is remembered as another Gentile ruler whom Providence used to restore true worship in Jerusalem. He should not be confused with 'Darius the Mede' of the book of Daniel.",
+    "know": [
+      "Confirmed Cyrus' decree after finding it at Ecbatana (Ezra 6:1-12).",
+      "The Second Temple was finished in his sixth year (Ezra 6:15).",
+      "Haggai and Zechariah date their prophecies by his reign.",
+      "Distinct from 'Darius the Mede' in Daniel."
+    ],
+    "keyPassages": [
+      "ezr 4:24",
+      "ezr 6:1-15",
+      "hag 1:1",
+      "zec 1:1"
+    ],
+    "father": null,
+    "mother": null,
+    "spouses": [],
+    "children": [],
+    "relations": [
+      {
+        "to": "tattenai",
+        "type": "received letter from",
+        "ref": "ezr 5:6"
+      },
+      {
+        "to": "zerubbabel",
+        "type": "authorized",
+        "ref": "ezr 6:7"
+      },
+      {
+        "to": "haggai",
+        "type": "reigned during ministry of",
+        "ref": "hag 1:1"
+      }
+    ],
+    "search": {
+      "names": [
+        "Darius"
+      ],
+      "books": [
+        "ezr",
+        "hag",
+        "zec:1",
+        "zec:7"
+      ]
+    }
+  },
+  {
+    "id": "artaxerxes-i",
+    "name": "Artaxerxes",
+    "aliases": [],
+    "gender": "m",
+    "role": "King of Persia",
+    "era": "Return & Restoration",
+    "summary": "Artaxerxes I (465-424 BC) was the Persian king who first halted the rebuilding of Jerusalem's walls after hostile letters, then commissioned the priest-scribe Ezra to teach and enforce the Law, and later sent his cupbearer Nehemiah to rebuild Jerusalem's walls as governor.",
+    "catholic": "Like Cyrus and Darius, Artaxerxes shows God turning the hearts of kings (Prov 21:1) for the good of his people; Nehemiah's silent prayer before answering the king (Neh 2:4) is a classic example of short, trusting prayer in the midst of work.",
+    "know": [
+      "Stopped work on the walls after Rehum's letter (Ezra 4:7-23).",
+      "Sent Ezra with a royal decree (Ezra 7:11-26).",
+      "Nehemiah was his cupbearer (Neh 1:11; 2:1-8)."
+    ],
+    "keyPassages": [
+      "ezr 4:7-23",
+      "ezr 7:1",
+      "ezr 7:11-26",
+      "neh 2:1-8",
+      "neh 13:6"
+    ],
+    "father": null,
+    "mother": null,
+    "spouses": [],
+    "children": [],
+    "relations": [
+      {
+        "to": "ezra",
+        "type": "commissioned",
+        "ref": "ezr 7:11-26"
+      },
+      {
+        "to": "nehemiah",
+        "type": "commissioned",
+        "ref": "neh 2:1-8"
+      },
+      {
+        "to": "rehum-the-chancellor",
+        "type": "received letter from",
+        "ref": "ezr 4:8"
+      }
+    ],
+    "search": {
+      "names": [
+        "Artaxerxes"
+      ],
+      "books": null
+    }
+  },
+  {
+    "id": "sheshbazzar",
+    "name": "Sheshbazzar",
+    "aliases": [],
+    "gender": "m",
+    "role": "Prince of Judah",
+    "era": "Return & Restoration",
+    "summary": "The 'prince of Judah' to whom Cyrus handed over the Temple vessels through the treasurer Mithredath; he brought them back to Jerusalem and laid the foundations of the house of God. Whether he is the same person as Zerubbabel or his predecessor as governor is debated.",
+    "catholic": "",
+    "know": [
+      "Received the 5,400 gold and silver vessels (Ezra 1:8-11).",
+      "Appointed governor by Cyrus (Ezra 5:14).",
+      "Sometimes identified with Zerubbabel."
+    ],
+    "keyPassages": [
+      "ezr 1:8-11",
+      "ezr 5:14-16"
+    ],
+    "father": null,
+    "mother": null,
+    "spouses": [],
+    "children": [],
+    "relations": [
+      {
+        "to": "cyrus",
+        "type": "appointed by",
+        "ref": "ezr 5:14"
+      },
+      {
+        "to": "mithredath",
+        "type": "received vessels via",
+        "ref": "ezr 1:8"
+      }
+    ],
+    "search": {
+      "names": [
+        "Sheshbazzar"
+      ],
+      "books": null
+    }
+  },
+  {
+    "id": "mithredath",
+    "name": "Mithredath",
+    "aliases": [],
+    "gender": "m",
+    "role": "Persian treasurer",
+    "era": "Return & Restoration",
+    "summary": "Cyrus' treasurer who counted out the Temple vessels to Sheshbazzar.",
+    "catholic": "",
+    "know": [
+      "Persian royal treasurer.",
+      "A different Mithredath wrote against Jerusalem in Ezra 4:7."
+    ],
+    "keyPassages": [
+      "ezr 1:8"
+    ],
+    "father": null,
+    "mother": null,
+    "spouses": [],
+    "children": [],
+    "relations": [],
+    "search": {
+      "names": [
+        "Mithredath"
+      ],
+      "books": [
+        "ezr:1"
+      ]
+    }
+  },
+  {
+    "id": "tattenai",
+    "name": "Tattenai",
+    "aliases": [],
+    "gender": "m",
+    "role": "Persian governor beyond the River",
+    "era": "Return & Restoration",
+    "summary": "Persian governor of the province 'beyond the River' who, with Shethar-bozenai, questioned the Temple rebuilding and wrote to Darius; when Darius confirmed Cyrus' decree, he complied 'with all diligence'.",
+    "catholic": "",
+    "know": [
+      "Wrote to Darius about the Temple work.",
+      "Obeyed Darius' order to assist the builders."
+    ],
+    "keyPassages": [
+      "ezr 5:3-17",
+      "ezr 6:6-13"
+    ],
+    "father": null,
+    "mother": null,
+    "spouses": [],
+    "children": [],
+    "relations": [
+      {
+        "to": "darius-i",
+        "type": "wrote to",
+        "ref": "ezr 5:6"
+      },
+      {
+        "to": "shethar-bozenai",
+        "type": "colleague of",
+        "ref": "ezr 5:3"
+      }
+    ],
+    "search": {
+      "names": [
+        "Tattenai"
+      ],
+      "books": null
+    }
+  },
+  {
+    "id": "shethar-bozenai",
+    "name": "Shethar-bozenai",
+    "aliases": [
+      "Shetharbozenai"
+    ],
+    "gender": "m",
+    "role": "Persian official",
+    "era": "Return & Restoration",
+    "summary": "Colleague of Tattenai who joined in questioning the Temple rebuilding.",
+    "catholic": "",
+    "know": [
+      "Spelled 'Shetharbozenai' in the text."
+    ],
+    "keyPassages": [
+      "ezr 5:3",
+      "ezr 6:13"
+    ],
+    "father": null,
+    "mother": null,
+    "spouses": [],
+    "children": [],
+    "relations": [
+      {
+        "to": "tattenai",
+        "type": "colleague of",
+        "ref": "ezr 5:3"
+      }
+    ],
+    "search": {
+      "names": [
+        "Shetharbozenai"
+      ],
+      "books": null
+    }
+  },
+  {
+    "id": "rehum-the-chancellor",
+    "name": "Rehum the chancellor",
+    "aliases": [],
+    "gender": "m",
+    "role": "Persian official in Samaria",
+    "era": "Return & Restoration",
+    "summary": "Persian official in Samaria who, with Shimshai the scribe, wrote to Artaxerxes accusing Jerusalem of rebellion and then forcibly stopped the work.",
+    "catholic": "",
+    "know": [
+      "Wrote the accusing letter of Ezra 4:8-16.",
+      "Stopped the rebuilding by force (Ezra 4:23)."
+    ],
+    "keyPassages": [
+      "ezr 4:8-15",
+      "ezr 4:16-23"
+    ],
+    "father": null,
+    "mother": null,
+    "spouses": [],
+    "children": [],
+    "relations": [
+      {
+        "to": "artaxerxes-i",
+        "type": "wrote to",
+        "ref": "ezr 4:8"
+      },
+      {
+        "to": "shimshai",
+        "type": "colleague of",
+        "ref": "ezr 4:8"
+      }
+    ],
+    "search": {
+      "names": [
+        "Rehum"
+      ],
+      "books": [
+        "ezr:4"
+      ]
+    }
+  },
+  {
+    "id": "shimshai",
+    "name": "Shimshai",
+    "aliases": [],
+    "gender": "m",
+    "role": "Scribe",
+    "era": "Return & Restoration",
+    "summary": "The scribe who co-wrote the letter against Jerusalem with Rehum.",
+    "catholic": "",
+    "know": [
+      "Persian-appointed scribe in Samaria."
+    ],
+    "keyPassages": [
+      "ezr 4:8-9",
+      "ezr 4:17"
+    ],
+    "father": null,
+    "mother": null,
+    "spouses": [],
+    "children": [],
+    "relations": [
+      {
+        "to": "rehum-the-chancellor",
+        "type": "colleague of",
+        "ref": "ezr 4:8"
+      }
+    ],
+    "search": {
+      "names": [
+        "Shimshai"
+      ],
+      "books": null
+    }
+  },
+  {
+    "id": "ezra",
+    "name": "Ezra",
+    "aliases": [],
+    "gender": "m",
+    "role": "Priest and Scribe",
+    "era": "Return & Restoration",
+    "summary": "A priest descended from Aaron and 'a skilled scribe in the law of Moses', Ezra led a second group of exiles from Babylon to Jerusalem under Artaxerxes (c. 458 BC). He confronted the problem of mixed marriages with penitential prayer and reform, and, together with Nehemiah, publicly read the Law to the assembled people, who wept and then celebrated the Feast of Tabernacles.",
+    "catholic": "Ezra is honored as a father of Judaism as a 'people of the Book'. The great assembly of Nehemiah 8 — the Word proclaimed from a raised platform, explained so that the people understood, answered with 'Amen' and followed by a feast — is often taken as a model of the Liturgy of the Word, and Neh 8:2-10 is read on the Third Sunday in Ordinary Time (Year C) alongside Jesus reading Isaiah in the synagogue (Luke 4). His penitential prayer (Ezra 9) is a model of confession on behalf of the whole people.",
+    "know": [
+      "Descended from Aaron (Ezra 7:1-5).",
+      "Came to Jerusalem in the seventh year of Artaxerxes (Ezra 7:7-8).",
+      "Led the reform against mixed marriages (Ezra 9-10).",
+      "Read the Law publicly at the Water Gate (Neh 8).",
+      "Notably absent from Sirach's 'praise of the fathers', which praises Nehemiah instead."
+    ],
+    "keyPassages": [
+      "ezr 7:1-10",
+      "ezr 7:11-26",
+      "ezr 9:1-15",
+      "ezr 10:1-17",
+      "neh 8:1-18",
+      "neh 12:36"
+    ],
+    "father": null,
+    "mother": null,
+    "spouses": [],
+    "children": [],
+    "relations": [
+      {
+        "to": "aaron",
+        "type": "descendant of",
+        "ref": "ezr 7:5"
+      },
+      {
+        "to": "artaxerxes-i",
+        "type": "commissioned by",
+        "ref": "ezr 7:11-26"
+      },
+      {
+        "to": "nehemiah",
+        "type": "colleague of",
+        "ref": "neh 8:9"
+      },
+      {
+        "to": "shecaniah-son-of-jehiel",
+        "type": "supported by",
+        "ref": "ezr 10:2-4"
+      }
+    ],
+    "search": {
+      "names": [
+        "Ezra"
+      ],
+      "books": null
+    }
+  },
+  {
+    "id": "shecaniah-son-of-jehiel",
+    "name": "Shecaniah son of Jehiel",
+    "aliases": [],
+    "gender": "m",
+    "role": "Elder of Judah",
+    "era": "Return & Restoration",
+    "summary": "A layman of the clan of Elam who confessed Israel's sin of mixed marriages and urged Ezra to lead a covenant of reform, promising the people's support.",
+    "catholic": "",
+    "know": [
+      "Said 'there is hope for Israel concerning this thing' (Ezra 10:2)."
+    ],
+    "keyPassages": [
+      "ezr 10:2-4"
+    ],
+    "father": null,
+    "mother": null,
+    "spouses": [],
+    "children": [],
+    "relations": [
+      {
+        "to": "ezra",
+        "type": "encouraged",
+        "ref": "ezr 10:4"
+      }
+    ],
+    "search": {
+      "names": [
+        "Shecaniah"
+      ],
+      "books": [
+        "ezr:10"
+      ]
+    }
+  },
+  {
+    "id": "nehemiah",
+    "name": "Nehemiah",
+    "aliases": [],
+    "gender": "m",
+    "role": "Governor of Judah",
+    "era": "Return & Restoration",
+    "summary": "Nehemiah son of Hacaliah was cupbearer to Artaxerxes I at Susa. Hearing of Jerusalem's ruin, he prayed and fasted, then obtained the king's leave to return as governor (445 BC), rebuilding the city walls in fifty-two days despite the threats of Sanballat, Tobiah and Geshem. He reformed social injustice, restored the Sabbath and, with Ezra, renewed the covenant.",
+    "catholic": "Nehemiah is a model of the layman who unites prayer and action: he prays before every decision (Neh 1:4-11; 2:4) and builds the wall 'with one of his hands' while 'with the other' he holds a weapon (Neh 4:17). Sirach praises him for raising up the fallen walls (Sir 49:13), and 2 Maccabees credits him with recovering the sacred fire and founding a library of the sacred books (2 Macc 1:18-36; 2:13). His rebuilding of the walls has long been read spiritually as the rebuilding of the soul and of the Church.",
+    "know": [
+      "Cupbearer to Artaxerxes I (Neh 1:11).",
+      "Rebuilt Jerusalem's walls in 52 days (Neh 6:15).",
+      "Opposed by Sanballat, Tobiah and Geshem.",
+      "Praised in Sirach 49:13 and 2 Maccabees 1-2."
+    ],
+    "keyPassages": [
+      "neh 1:1-11",
+      "neh 2:1-20",
+      "neh 4:1-23",
+      "neh 5:1-19",
+      "neh 6:1-16",
+      "neh 13:15-31",
+      "sir 49:13",
+      "2ma 1:18-36"
+    ],
+    "father": "hacaliah",
+    "mother": null,
+    "spouses": [],
+    "children": [],
+    "relations": [
+      {
+        "to": "hanani-brother-of-nehemiah",
+        "type": "brother of",
+        "ref": "neh 1:2"
+      },
+      {
+        "to": "artaxerxes-i",
+        "type": "cupbearer to",
+        "ref": "neh 2:1"
+      },
+      {
+        "to": "sanballat",
+        "type": "opposed by",
+        "ref": "neh 2:19"
+      },
+      {
+        "to": "tobiah-the-ammonite",
+        "type": "opposed by",
+        "ref": "neh 2:19"
+      },
+      {
+        "to": "geshem",
+        "type": "opposed by",
+        "ref": "neh 6:1-2"
+      },
+      {
+        "to": "ezra",
+        "type": "colleague of",
+        "ref": "neh 8:9"
+      },
+      {
+        "to": "eliashib-high-priest",
+        "type": "rebuked",
+        "ref": "neh 13:7-9"
+      }
+    ],
+    "search": {
+      "names": [
+        "Nehemiah"
+      ],
+      "books": [
+        "neh:1-2",
+        "neh:4-8",
+        "neh:10",
+        "neh:12-13",
+        "sir",
+        "2ma"
+      ]
+    }
+  },
+  {
+    "id": "hacaliah",
+    "name": "Hacaliah",
+    "aliases": [],
+    "gender": "m",
+    "role": "Father of Nehemiah",
+    "era": "Return & Restoration",
+    "summary": "The father of Nehemiah, known only from his son's title.",
+    "catholic": "",
+    "know": [
+      "Father of Nehemiah."
+    ],
+    "keyPassages": [
+      "neh 1:1",
+      "neh 10:1"
+    ],
+    "father": null,
+    "mother": null,
+    "spouses": [],
+    "children": [
+      "nehemiah"
+    ],
+    "relations": [],
+    "search": {
+      "names": [
+        "Hacaliah"
+      ],
+      "books": null
+    }
+  },
+  {
+    "id": "hanani-brother-of-nehemiah",
+    "name": "Hanani",
+    "aliases": [],
+    "gender": "m",
+    "role": "Brother of Nehemiah",
+    "era": "Return & Restoration",
+    "summary": "Nehemiah's brother, whose report of Jerusalem's broken walls moved Nehemiah to act; later he was put in charge of Jerusalem.",
+    "catholic": "",
+    "know": [
+      "Brought the news of Jerusalem's ruin (Neh 1:2-3).",
+      "Given charge of Jerusalem (Neh 7:2)."
+    ],
+    "keyPassages": [
+      "neh 1:2-3",
+      "neh 7:2"
+    ],
+    "father": null,
+    "mother": null,
+    "spouses": [],
+    "children": [],
+    "relations": [
+      {
+        "to": "nehemiah",
+        "type": "brother of",
+        "ref": "neh 1:2"
+      }
+    ],
+    "search": {
+      "names": [
+        "Hanani"
+      ],
+      "books": [
+        "neh:1",
+        "neh:7"
+      ]
+    }
+  },
+  {
+    "id": "hananiah-governor-of-the-fortress",
+    "name": "Hananiah, governor of the fortress",
+    "aliases": [],
+    "gender": "m",
+    "role": "Commander of Jerusalem's citadel",
+    "era": "Return & Restoration",
+    "summary": "Commander of the fortress whom Nehemiah set over Jerusalem with Hanani, 'a faithful man who feared God above many'.",
+    "catholic": "",
+    "know": [
+      "Praised as faithful and God-fearing (Neh 7:2)."
+    ],
+    "keyPassages": [
+      "neh 7:2"
+    ],
+    "father": null,
+    "mother": null,
+    "spouses": [],
+    "children": [],
+    "relations": [
+      {
+        "to": "nehemiah",
+        "type": "appointed by",
+        "ref": "neh 7:2"
+      }
+    ],
+    "search": {
+      "names": [
+        "Hananiah"
+      ],
+      "books": [
+        "neh:7"
+      ]
+    }
+  },
+  {
+    "id": "sanballat",
+    "name": "Sanballat the Horonite",
+    "aliases": [],
+    "gender": "m",
+    "role": "Governor of Samaria (opponent)",
+    "era": "Return & Restoration",
+    "summary": "The chief opponent of Nehemiah's rebuilding: he mocked the Jews, plotted an armed attack and tried to lure Nehemiah into a trap and to discredit him through hired prophets. One of the high priest's grandsons married his daughter.",
+    "catholic": "",
+    "know": [
+      "Mocked the 'feeble Jews' (Neh 4:2).",
+      "Tried to lure Nehemiah to the plain of Ono (Neh 6:2).",
+      "Became father-in-law to a grandson of Eliashib (Neh 13:28)."
+    ],
+    "keyPassages": [
+      "neh 2:10",
+      "neh 2:19",
+      "neh 4:1-8",
+      "neh 6:1-14",
+      "neh 13:28"
+    ],
+    "father": null,
+    "mother": null,
+    "spouses": [],
+    "children": [],
+    "relations": [
+      {
+        "to": "nehemiah",
+        "type": "opposed",
+        "ref": "neh 4:1"
+      },
+      {
+        "to": "tobiah-the-ammonite",
+        "type": "ally of",
+        "ref": "neh 6:1"
+      },
+      {
+        "to": "geshem",
+        "type": "ally of",
+        "ref": "neh 6:2"
+      }
+    ],
+    "search": {
+      "names": [
+        "Sanballat"
+      ],
+      "books": null
+    }
+  },
+  {
+    "id": "tobiah-the-ammonite",
+    "name": "Tobiah the Ammonite",
+    "aliases": [],
+    "gender": "m",
+    "role": "Official (opponent)",
+    "era": "Return & Restoration",
+    "summary": "An Ammonite official ('servant') allied with Sanballat who ridiculed and threatened the wall builders and kept up a network of Jewish allies through marriage. While Nehemiah was away, the priest Eliashib gave him a room in the Temple; Nehemiah threw his furniture out.",
+    "catholic": "",
+    "know": [
+      "Mocked: 'if a fox climbed up it, he would break down their stone wall' (Neh 4:3).",
+      "Related by marriage to leading Jerusalem families (Neh 6:17-19).",
+      "Expelled from the Temple room (Neh 13:4-9)."
+    ],
+    "keyPassages": [
+      "neh 2:10",
+      "neh 4:3",
+      "neh 6:12-19",
+      "neh 13:4-9"
+    ],
+    "father": null,
+    "mother": null,
+    "spouses": [],
+    "children": [],
+    "relations": [
+      {
+        "to": "nehemiah",
+        "type": "opposed",
+        "ref": "neh 2:10"
+      },
+      {
+        "to": "sanballat",
+        "type": "ally of",
+        "ref": "neh 2:19"
+      },
+      {
+        "to": "eliashib-high-priest",
+        "type": "allied with",
+        "ref": "neh 13:4"
+      }
+    ],
+    "search": {
+      "names": [
+        "Tobiah"
+      ],
+      "books": [
+        "neh"
+      ]
+    }
+  },
+  {
+    "id": "geshem",
+    "name": "Geshem the Arabian",
+    "aliases": [
+      "Gashmu"
+    ],
+    "gender": "m",
+    "role": "Arab chieftain (opponent)",
+    "era": "Return & Restoration",
+    "summary": "An Arabian leader who joined Sanballat and Tobiah in mocking Nehemiah and spreading the rumor that he planned to rebel and make himself king.",
+    "catholic": "",
+    "know": [
+      "Also called Gashmu (Neh 6:6)."
+    ],
+    "keyPassages": [
+      "neh 2:19",
+      "neh 6:1-6"
+    ],
+    "father": null,
+    "mother": null,
+    "spouses": [],
+    "children": [],
+    "relations": [
+      {
+        "to": "sanballat",
+        "type": "ally of",
+        "ref": "neh 6:2"
+      }
+    ],
+    "search": {
+      "names": [
+        "Geshem",
+        "Gashmu"
+      ],
+      "books": null
+    }
+  },
+  {
+    "id": "noadiah",
+    "name": "Noadiah",
+    "aliases": [],
+    "gender": "f",
+    "role": "False prophetess",
+    "era": "Return & Restoration",
+    "summary": "A prophetess who, with other prophets, tried to frighten Nehemiah into abandoning the work.",
+    "catholic": "",
+    "know": [
+      "One of the few named women prophets in the Old Testament — here a hostile one."
+    ],
+    "keyPassages": [
+      "neh 6:14"
+    ],
+    "father": null,
+    "mother": null,
+    "spouses": [],
+    "children": [],
+    "relations": [
+      {
+        "to": "nehemiah",
+        "type": "opposed",
+        "ref": "neh 6:14"
+      }
+    ],
+    "search": {
+      "names": [
+        "Noadiah"
+      ],
+      "books": null
+    }
+  },
+  {
+    "id": "shemaiah-son-of-delaiah",
+    "name": "Shemaiah son of Delaiah",
+    "aliases": [],
+    "gender": "m",
+    "role": "Hired false prophet",
+    "era": "Return & Restoration",
+    "summary": "A man hired by Tobiah and Sanballat to persuade Nehemiah to hide in the Temple so that he could be discredited; Nehemiah refused.",
+    "catholic": "",
+    "know": [
+      "Nehemiah: 'Should a man like me flee?' (Neh 6:11)."
+    ],
+    "keyPassages": [
+      "neh 6:10-11",
+      "neh 6:12-13"
+    ],
+    "father": null,
+    "mother": null,
+    "spouses": [],
+    "children": [],
+    "relations": [
+      {
+        "to": "tobiah-the-ammonite",
+        "type": "hired by",
+        "ref": "neh 6:12"
+      },
+      {
+        "to": "nehemiah",
+        "type": "tried to trap",
+        "ref": "neh 6:10"
+      }
+    ],
+    "search": {
+      "names": [
+        "Shemaiah"
+      ],
+      "books": [
+        "neh:6"
+      ]
+    }
+  },
+  {
+    "id": "tobit",
+    "name": "Tobit",
+    "aliases": [],
+    "gender": "m",
+    "role": "Righteous exile",
+    "era": "Exile",
+    "summary": "An Israelite of the tribe of Naphtali deported to Nineveh, Tobit remained faithful to the Law, gave generous alms and risked his life to bury executed fellow Jews. Blinded by bird droppings, he prayed for death; God answered by sending the angel Raphael, who guided his son Tobias on a journey that brought back Tobit's money, a bride for Tobias and the cure of Tobit's eyes. He died in old age after a hymn of praise and a prophecy of Jerusalem's glory.",
+    "catholic": "This book is one of the deuterocanonical books — part of the Greek Old Testament (Septuagint) used by the apostolic Church, listed in the canon by the councils of Rome (382), Hippo (393) and Carthage (397), reaffirmed at Florence and defined at Trent (1546) — which Protestant Bibles place among the 'Apocrypha'. Tobit is a model of the corporal works of mercy, especially burying the dead, and of almsgiving: 'alms delivers from death, and it purges away all sin' (Tob 12:9). His patient endurance under trial and his canticle (Tob 13) are prayed in the Liturgy of the Hours. The Church reads the book as a lesson in divine Providence, in which God's care works quietly through ordinary family life and the ministry of angels.",
+    "know": [
+      "Tribe of Naphtali, exiled to Nineveh under 'Enemessar' (Shalmaneser).",
+      "Buried executed Israelites at the risk of his life (Tob 1:17-19; 2:3-8).",
+      "Blinded and then healed by the fish's gall at Raphael's instruction (Tob 11:7-15).",
+      "His instruction to Tobias (Tob 4) is a classic of Old Testament moral teaching ('what you yourself hate, do to no man', Tob 4:15).",
+      "Died aged 158 (Tob 14:11)."
+    ],
+    "keyPassages": [
+      "tob 1:1-22",
+      "tob 2:1-14",
+      "tob 3:1-6",
+      "tob 4:1-21",
+      "tob 11:7-15",
+      "tob 12:6-15",
+      "tob 13:1-18",
+      "tob 14:1-11"
+    ],
+    "father": "tobiel",
+    "mother": null,
+    "spouses": [
+      "anna-wife-of-tobit"
+    ],
+    "children": [
+      "tobias"
+    ],
+    "relations": [
+      {
+        "to": "anael",
+        "type": "brother of",
+        "ref": "tob 1:21"
+      },
+      {
+        "to": "achiacharus",
+        "type": "uncle of",
+        "ref": "tob 1:22"
+      },
+      {
+        "to": "raphael-archangel",
+        "type": "healed by",
+        "ref": "tob 11:7-8"
+      },
+      {
+        "to": "raguel",
+        "type": "kinsman of",
+        "ref": "tob 7:2"
+      },
+      {
+        "to": "gabael",
+        "type": "entrusted money to",
+        "ref": "tob 1:14"
+      }
+    ],
+    "search": {
+      "names": [
+        "Tobit"
+      ],
+      "books": null
+    }
+  },
+  {
+    "id": "tobiel",
+    "name": "Tobiel",
+    "aliases": [],
+    "gender": "m",
+    "role": "Father of Tobit",
+    "era": "Exile",
+    "summary": "Father of Tobit, of the tribe of Naphtali; he died while Tobit was young, leaving him an orphan.",
+    "catholic": "",
+    "know": [
+      "Tobit was raised by his grandmother Deborah (Tob 1:8)."
+    ],
+    "keyPassages": [
+      "tob 1:1",
+      "tob 1:8"
+    ],
+    "father": null,
+    "mother": "deborah-grandmother-of-tobit",
+    "spouses": [],
+    "children": [
+      "tobit",
+      "anael"
+    ],
+    "relations": [],
+    "search": {
+      "names": [
+        "Tobiel"
+      ],
+      "books": null
+    }
+  },
+  {
+    "id": "deborah-grandmother-of-tobit",
+    "name": "Deborah (grandmother of Tobit)",
+    "aliases": [],
+    "gender": "f",
+    "role": "Grandmother of Tobit",
+    "era": "Exile",
+    "summary": "Tobit's paternal grandmother, who taught the orphaned Tobit to pay the third tithe for the needy.",
+    "catholic": "",
+    "know": [
+      "Her instruction shaped Tobit's charity."
+    ],
+    "keyPassages": [
+      "tob 1:8"
+    ],
+    "father": null,
+    "mother": null,
+    "spouses": [],
+    "children": [
+      "tobiel"
+    ],
+    "relations": [],
+    "search": {
+      "names": [
+        "Deborah"
+      ],
+      "books": [
+        "tob"
+      ]
+    }
+  },
+  {
+    "id": "anael",
+    "name": "Anael",
+    "aliases": [],
+    "gender": "m",
+    "role": "Brother of Tobit",
+    "era": "Exile",
+    "summary": "Tobit's brother and the father of Achiacharus (Ahikar).",
+    "catholic": "",
+    "know": [
+      "Father of Achiacharus."
+    ],
+    "keyPassages": [
+      "tob 1:21"
+    ],
+    "father": "tobiel",
+    "mother": null,
+    "spouses": [],
+    "children": [
+      "achiacharus"
+    ],
+    "relations": [
+      {
+        "to": "tobit",
+        "type": "brother of",
+        "ref": "tob 1:21"
+      }
+    ],
+    "search": {
+      "names": [
+        "Anael"
+      ],
+      "books": null
+    }
+  },
+  {
+    "id": "anna-wife-of-tobit",
+    "name": "Anna (wife of Tobit)",
+    "aliases": [],
+    "gender": "f",
+    "role": "Wife of Tobit",
+    "era": "Exile",
+    "summary": "Tobit's wife, of his own kindred, who supported the household by weaving when he was blind. Her sharp reply when Tobit doubted her honesty, and her daily vigil watching the road for her son, make her one of the most human figures in the book.",
+    "catholic": "Anna's anxious love for Tobias and her joy at his return (Tob 11:9) show the Old Testament's tender portrait of motherhood; Tobit charges his son to honor her all her days (Tob 4:3-4).",
+    "know": [
+      "Worked as a weaver to support the family (Tob 2:11-12).",
+      "Watched the road daily for Tobias (Tob 10:7).",
+      "Buried with Tobit by their son (Tob 14:12)."
+    ],
+    "keyPassages": [
+      "tob 1:9",
+      "tob 2:11-14",
+      "tob 5:17-21",
+      "tob 10:4-7",
+      "tob 11:5-9"
+    ],
+    "father": null,
+    "mother": null,
+    "spouses": [
+      "tobit"
+    ],
+    "children": [
+      "tobias"
+    ],
+    "relations": [],
+    "search": {
+      "names": [
+        "Anna"
+      ],
+      "books": [
+        "tob"
+      ]
+    }
+  },
+  {
+    "id": "tobias",
+    "name": "Tobias",
+    "aliases": [],
+    "gender": "m",
+    "role": "Son of Tobit",
+    "era": "Exile",
+    "summary": "The son of Tobit, sent to Media to recover his father's money and guided by the angel Raphael disguised as 'Azarias'. On the journey he caught the fish whose heart, liver and gall drove away the demon Asmodaeus and healed his father. He married his kinswoman Sarah, and on their wedding night the couple prayed together before anything else; he then returned home and cured Tobit's blindness.",
+    "catholic": "Tobias and Sarah's prayer (Tob 8:4-8) — 'I take not this my sister for lust, but in truth' — is one of the Old Testament readings offered in the Lectionary for the Celebration of Marriage, and the book is a classic image of marriage as a vocation lived in prayer and chastity. Raphael accompanying Tobias has made him a beloved figure of the guardian angel walking with every Christian.",
+    "know": [
+      "Guided by Raphael under the name Azarias.",
+      "Married Sarah, daughter of Raguel (Tob 7:13).",
+      "Prayed with Sarah on the wedding night (Tob 8:4-8).",
+      "Healed Tobit's eyes with the fish's gall (Tob 11:10-13).",
+      "Had six sons (Tob 14:3) and died at Ecbatana."
+    ],
+    "keyPassages": [
+      "tob 4:1-21",
+      "tob 5:1-22",
+      "tob 6:1-17",
+      "tob 7:9-16",
+      "tob 8:1-9",
+      "tob 11:10-15",
+      "tob 14:12-15"
+    ],
+    "father": "tobit",
+    "mother": "anna-wife-of-tobit",
+    "spouses": [
+      "sarah-wife-of-tobias"
+    ],
+    "children": [],
+    "relations": [
+      {
+        "to": "raphael-archangel",
+        "type": "guided by",
+        "ref": "tob 5:4-16"
+      },
+      {
+        "to": "raguel",
+        "type": "son-in-law of",
+        "ref": "tob 7:13"
+      },
+      {
+        "to": "asmodeus",
+        "type": "delivered Sarah from",
+        "ref": "tob 8:2-3"
+      }
+    ],
+    "search": {
+      "names": [
+        "Tobias"
+      ],
+      "books": [
+        "tob"
+      ]
+    }
+  },
+  {
+    "id": "sarah-wife-of-tobias",
+    "name": "Sarah (wife of Tobias)",
+    "aliases": [],
+    "gender": "f",
+    "role": "Wife of Tobias",
+    "era": "Exile",
+    "summary": "The only daughter of Raguel and Edna at Ecbatana. Seven husbands had died on their wedding night, killed by the demon Asmodaeus, and, mocked by her father's maid, she prayed for death or relief on the same day Tobit prayed. God sent Raphael, and she was married to her kinsman Tobias, who drove the demon away.",
+    "catholic": "Sarah's prayer in her distress (Tob 3:11-15) and her 'Amen' to Tobias' wedding prayer (Tob 8:8) make her a model of faith in suffering and of a marriage founded on prayer. Her deliverance shows that God hears the prayers of the afflicted at the same moment, weaving separate lives into one providential plan (Tob 3:16-17).",
+    "know": [
+      "Only daughter of Raguel and Edna (Tob 3:10).",
+      "Seven husbands died on the wedding night (Tob 3:8).",
+      "Her prayer and Tobit's were heard together (Tob 3:16).",
+      "Married Tobias (Tob 7:13)."
+    ],
+    "keyPassages": [
+      "tob 3:7-17",
+      "tob 6:11-17",
+      "tob 7:13-16",
+      "tob 8:1-9",
+      "tob 10:10-12",
+      "tob 11:17"
+    ],
+    "father": "raguel",
+    "mother": "edna",
+    "spouses": [
+      "tobias"
+    ],
+    "children": [],
+    "relations": [
+      {
+        "to": "asmodeus",
+        "type": "tormented by",
+        "ref": "tob 3:8"
+      }
+    ],
+    "search": {
+      "names": [
+        "Sarah"
+      ],
+      "books": [
+        "tob"
+      ]
+    }
+  },
+  {
+    "id": "raguel",
+    "name": "Raguel",
+    "aliases": [],
+    "gender": "m",
+    "role": "Kinsman of Tobit",
+    "era": "Exile",
+    "summary": "Tobit's kinsman living at Ecbatana in Media, father of Sarah. He welcomed Tobias, gave him Sarah in marriage 'according to the law of Moses', secretly dug a grave expecting him to die, and then celebrated a fourteen-day wedding feast when he survived.",
+    "catholic": "",
+    "know": [
+      "Calls Tobit 'my cousin' (Tob 7:2).",
+      "Dug a grave for Tobias on the wedding night (Tob 8:9-12).",
+      "Gave half his property to Tobias (Tob 8:21)."
+    ],
+    "keyPassages": [
+      "tob 3:7",
+      "tob 7:1-16",
+      "tob 8:9-21",
+      "tob 10:7-12"
+    ],
+    "father": null,
+    "mother": null,
+    "spouses": [
+      "edna"
+    ],
+    "children": [
+      "sarah-wife-of-tobias"
+    ],
+    "relations": [
+      {
+        "to": "tobit",
+        "type": "kinsman of",
+        "ref": "tob 7:2"
+      },
+      {
+        "to": "tobias",
+        "type": "father-in-law of",
+        "ref": "tob 7:13"
+      }
+    ],
+    "search": {
+      "names": [
+        "Raguel"
+      ],
+      "books": null
+    }
+  },
+  {
+    "id": "edna",
+    "name": "Edna",
+    "aliases": [],
+    "gender": "f",
+    "role": "Wife of Raguel",
+    "era": "Exile",
+    "summary": "Raguel's wife and Sarah's mother, who prepared the bridal chamber and comforted her daughter, and blessed Tobias as her own son.",
+    "catholic": "",
+    "know": [
+      "Mother of Sarah.",
+      "Called Tobias 'dear brother' and entrusted Sarah to him (Tob 10:12)."
+    ],
+    "keyPassages": [
+      "tob 7:2",
+      "tob 7:15-16",
+      "tob 10:12"
+    ],
+    "father": null,
+    "mother": null,
+    "spouses": [
+      "raguel"
+    ],
+    "children": [
+      "sarah-wife-of-tobias"
+    ],
+    "relations": [],
+    "search": {
+      "names": [
+        "Edna"
+      ],
+      "books": null
+    }
+  },
+  {
+    "id": "raphael-archangel",
+    "name": "Raphael",
+    "aliases": [
+      "Azarias"
+    ],
+    "gender": "m",
+    "role": "Archangel",
+    "era": "Exile",
+    "summary": "The angel sent by God to answer the prayers of Tobit and Sarah. Disguised as a kinsman named Azarias son of Ananias, he guided Tobias to Media, taught him to use the fish to drive away Asmodaeus and heal Tobit, and bound the demon. At the end he revealed himself: 'I am Raphael, one of the seven holy angels which present the prayers of the saints.'",
+    "catholic": "Raphael ('God heals') is one of only three angels named in the Catholic Bible, with Michael and Gabriel, and is venerated with them on September 29, the feast of the Archangels. Tobit 12 grounds the Church's teaching on angels who present our prayers before God (cf. Rev 8:3-4) and accompany us on the way; the Catechism teaches that 'from its beginning until death human life is surrounded by their watchful care and intercession' (CCC 336). He is patron of travelers, the sick and healers, and of young people seeking a spouse.",
+    "know": [
+      "Name means 'God heals'.",
+      "Used the name Azarias son of Ananias (Tob 5:12).",
+      "Bound the demon Asmodaeus (Tob 8:3).",
+      "'One of the seven holy angels' (Tob 12:15).",
+      "Feast: Sept 29 with Michael and Gabriel (October 24 before the 1969 calendar reform)."
+    ],
+    "keyPassages": [
+      "tob 3:16-17",
+      "tob 5:4-16",
+      "tob 6:1-17",
+      "tob 8:2-3",
+      "tob 11:2-8",
+      "tob 12:6-22"
+    ],
+    "father": null,
+    "mother": null,
+    "spouses": [],
+    "children": [],
+    "relations": [
+      {
+        "to": "tobias",
+        "type": "guided",
+        "ref": "tob 5:16"
+      },
+      {
+        "to": "tobit",
+        "type": "healed",
+        "ref": "tob 12:14"
+      },
+      {
+        "to": "sarah-wife-of-tobias",
+        "type": "healed",
+        "ref": "tob 12:14"
+      },
+      {
+        "to": "asmodeus",
+        "type": "bound",
+        "ref": "tob 8:3"
+      },
+      {
+        "to": "michael-archangel",
+        "type": "fellow archangel of",
+        "ref": "tob 12:15"
+      },
+      {
+        "to": "gabriel-archangel",
+        "type": "fellow archangel of",
+        "ref": "tob 12:15"
+      }
+    ],
+    "search": {
+      "names": [
+        "Raphael",
+        "Azarias"
+      ],
+      "books": [
+        "tob"
+      ]
+    },
+    "feast": "September 29"
+  },
+  {
+    "id": "asmodeus",
+    "name": "Asmodaeus",
+    "aliases": [
+      "Asmodaeus",
+      "Asmodeus"
+    ],
+    "gender": "u",
+    "role": "Demon",
+    "era": "Exile",
+    "summary": "'The evil spirit' who killed each of Sarah's seven husbands on their wedding night. When Tobias burned the fish's heart and liver as Raphael instructed, the demon fled to upper Egypt, where Raphael bound him.",
+    "catholic": "The episode illustrates the Church's teaching that the devil and demons are real but defeated creatures whose power is limited by God (CCC 391-395). The remedy combines a sign with prayer — the couple rise and pray together (Tob 8:4-8) — and Christian tradition has seen in it a figure of deliverance from evil through prayer and the sacramentals.",
+    "know": [
+      "Spelled 'Asmodaeus' in this translation.",
+      "Killed Sarah's seven husbands (Tob 3:8).",
+      "Fled to Egypt and was bound by Raphael (Tob 8:3)."
+    ],
+    "keyPassages": [
+      "tob 3:8",
+      "tob 3:17",
+      "tob 6:14-17",
+      "tob 8:2-3"
+    ],
+    "father": null,
+    "mother": null,
+    "spouses": [],
+    "children": [],
+    "relations": [
+      {
+        "to": "sarah-wife-of-tobias",
+        "type": "tormented",
+        "ref": "tob 3:8"
+      },
+      {
+        "to": "raphael-archangel",
+        "type": "bound by",
+        "ref": "tob 8:3"
+      }
+    ],
+    "search": {
+      "names": [
+        "Asmodaeus"
+      ],
+      "books": null
+    }
+  },
+  {
+    "id": "achiacharus",
+    "name": "Achiacharus (Ahikar)",
+    "aliases": [
+      "Ahikar",
+      "Achiacharus"
+    ],
+    "gender": "m",
+    "role": "Assyrian court official",
+    "era": "Exile",
+    "summary": "Tobit's nephew, son of his brother Anael, who rose to be cupbearer, keeper of the signet and chief administrator under the Assyrian king Esarhaddon ('Sarchedonus'). He interceded to bring Tobit back to Nineveh and supported him during his blindness. He is the hero of the ancient Near Eastern 'Story of Ahikar', in which his adopted nephew betrays him.",
+    "catholic": "Tobit appeals to Ahikar's story as proof that almsgiving delivers from death while treachery falls into its own snare (Tob 14:10-11). The cameo shows the inspired author drawing on wider wisdom traditions.",
+    "know": [
+      "Known outside the Bible as Ahikar.",
+      "Cupbearer and keeper of the signet under Sarchedonus (Esarhaddon).",
+      "Supported blind Tobit (Tob 2:10).",
+      "Attended Tobias' wedding feast with Nasbas (Tob 11:18)."
+    ],
+    "keyPassages": [
+      "tob 1:21-22",
+      "tob 2:10",
+      "tob 11:18",
+      "tob 14:10"
+    ],
+    "father": "anael",
+    "mother": null,
+    "spouses": [],
+    "children": [],
+    "relations": [
+      {
+        "to": "tobit",
+        "type": "nephew of",
+        "ref": "tob 1:22"
+      },
+      {
+        "to": "nasbas",
+        "type": "kinsman of",
+        "ref": "tob 11:18"
+      },
+      {
+        "to": "aman-nephew-of-ahikar",
+        "type": "betrayed by",
+        "ref": "tob 14:10"
+      }
+    ],
+    "search": {
+      "names": [
+        "Achiacharus"
+      ],
+      "books": null
+    }
+  },
+  {
+    "id": "nasbas",
+    "name": "Nasbas",
+    "aliases": [],
+    "gender": "m",
+    "role": "Kinsman of Achiacharus",
+    "era": "Exile",
+    "summary": "Named in Tob 11:18 as coming with Achiacharus to Tobias' wedding feast, described as 'his brother's son' (a nephew).",
+    "catholic": "",
+    "know": [
+      "Appears only in Tob 11:18."
+    ],
+    "keyPassages": [
+      "tob 11:18"
+    ],
+    "father": null,
+    "mother": null,
+    "spouses": [],
+    "children": [],
+    "relations": [
+      {
+        "to": "achiacharus",
+        "type": "nephew of",
+        "ref": "tob 11:18"
+      }
+    ],
+    "search": {
+      "names": [
+        "Nasbas"
+      ],
+      "books": null
+    }
+  },
+  {
+    "id": "aman-nephew-of-ahikar",
+    "name": "Aman (Nadab)",
+    "aliases": [],
+    "gender": "m",
+    "role": "Ungrateful nephew of Ahikar",
+    "era": "Exile",
+    "summary": "The man whom Achiacharus raised but who betrayed him, 'bringing him out of light into darkness'; he himself fell into the snare and perished. In the wider Ahikar story he is called Nadan.",
+    "catholic": "",
+    "know": [
+      "Not to be confused with Haman of Esther.",
+      "Cited by Tobit as a warning (Tob 14:10)."
+    ],
+    "keyPassages": [
+      "tob 14:10"
+    ],
+    "father": null,
+    "mother": null,
+    "spouses": [],
+    "children": [],
+    "relations": [
+      {
+        "to": "achiacharus",
+        "type": "betrayed",
+        "ref": "tob 14:10"
+      }
+    ],
+    "search": {
+      "names": [
+        "Aman"
+      ],
+      "books": [
+        "tob"
+      ]
+    }
+  },
+  {
+    "id": "gabael",
+    "name": "Gabael",
+    "aliases": [],
+    "gender": "m",
+    "role": "Kinsman at Rages",
+    "era": "Exile",
+    "summary": "The kinsman at Rages in Media with whom Tobit left ten talents of silver; Raphael retrieved the money from him and brought him to Tobias' wedding.",
+    "catholic": "",
+    "know": [
+      "Called 'brother of Gabrias' (Tob 1:14) and 'son of Gabrias' (Tob 4:20).",
+      "Came to the wedding feast and blessed Tobias (Tob 9:5-6)."
+    ],
+    "keyPassages": [
+      "tob 1:14",
+      "tob 4:20",
+      "tob 9:1-6"
+    ],
+    "father": null,
+    "mother": null,
+    "spouses": [],
+    "children": [],
+    "relations": [
+      {
+        "to": "tobit",
+        "type": "trustee of",
+        "ref": "tob 1:14"
+      },
+      {
+        "to": "gabrias",
+        "type": "relative of",
+        "ref": "tob 1:14"
+      }
+    ],
+    "search": {
+      "names": [
+        "Gabael"
+      ],
+      "books": [
+        "tob:1",
+        "tob:4-5",
+        "tob:9-10"
+      ]
+    }
+  },
+  {
+    "id": "gabrias",
+    "name": "Gabrias",
+    "aliases": [],
+    "gender": "m",
+    "role": "Relative of Gabael",
+    "era": "Exile",
+    "summary": "Named only to identify Gabael, as his brother (Tob 1:14) or father (Tob 4:20).",
+    "catholic": "",
+    "know": [
+      "Mentioned only as Gabael's relative."
+    ],
+    "keyPassages": [
+      "tob 1:14",
+      "tob 4:20"
+    ],
+    "father": null,
+    "mother": null,
+    "spouses": [],
+    "children": [],
+    "relations": [
+      {
+        "to": "gabael",
+        "type": "relative of",
+        "ref": "tob 4:20"
+      }
+    ],
+    "search": {
+      "names": [
+        "Gabrias"
+      ],
+      "books": null
+    }
+  },
+  {
+    "id": "judith",
+    "name": "Judith",
+    "aliases": [],
+    "gender": "f",
+    "role": "Heroine of Israel",
+    "era": "Return & Restoration",
+    "summary": "A devout and beautiful widow of Bethulia who, when the city was about to surrender to Holofernes' besieging army, rebuked the elders for putting God to the test, prayed, and went into the enemy camp. After four days she cut off the drunken Holofernes' head with his own sword and returned with it, and the Assyrian army fled. She sang a hymn of victory, refused remarriage and died at 105.",
+    "catholic": "This book is one of the deuterocanonical books — part of the Greek Old Testament (Septuagint) used by the apostolic Church, listed in the canon by the councils of Rome (382), Hippo (393) and Carthage (397), reaffirmed at Florence and defined at Trent (1546) — which Protestant Bibles place among the 'Apocrypha'. The Church sees Judith as a type of Mary: as the elder Ozias blessed her 'above all the women upon the earth' (Jdt 13:18; cf. Luke 1:42), and the people acclaimed her, 'You are the exaltation of Jerusalem! You are the great glory of Israel!' (Jdt 15:9 — in the Latin Vulgate 'Tu gloria Ierusalem, tu laetitia Israel, tu honorificentia populi nostri', words sung of the Immaculate Virgin in the antiphon Tota pulchra es and used in Marian feasts). Like Mary, the humble woman crushes the head of the enemy (cf. Gen 3:15). The Catechism lists her among the holy women who kept Israel's hope alive and prepared for Mary (CCC 64, 489).",
+    "know": [
+      "Daughter of Merari, widow of Manasses (Jdt 8:1-2).",
+      "Rebuked the elders for setting a deadline for God (Jdt 8:11-27).",
+      "Beheaded Holofernes (Jdt 13:6-10).",
+      "Her canticle (Jdt 16:1-17) is prayed in the Liturgy of the Hours.",
+      "Lived to 105 and never remarried (Jdt 16:22-23)."
+    ],
+    "keyPassages": [
+      "jdt 8:1-36",
+      "jdt 9:1-14",
+      "jdt 10:1-23",
+      "jdt 13:1-20",
+      "jdt 15:8-13",
+      "jdt 16:1-25"
+    ],
+    "father": "merari-father-of-judith",
+    "mother": null,
+    "spouses": [
+      "manasseh-husband-of-judith"
+    ],
+    "children": [],
+    "relations": [
+      {
+        "to": "holofernes",
+        "type": "killed",
+        "ref": "jdt 13:8"
+      },
+      {
+        "to": "uzziah-of-bethulia",
+        "type": "blessed by",
+        "ref": "jdt 13:18"
+      },
+      {
+        "to": "joakim-high-priest",
+        "type": "praised by",
+        "ref": "jdt 15:8-9"
+      },
+      {
+        "to": "achior",
+        "type": "vindicated",
+        "ref": "jdt 14:6-10"
+      },
+      {
+        "to": "mary-mother-of-jesus",
+        "type": "type of",
+        "ref": "jdt 13:18"
+      }
+    ],
+    "search": {
+      "names": [
+        "Judith"
+      ],
+      "books": [
+        "jdt"
+      ]
+    }
+  },
+  {
+    "id": "merari-father-of-judith",
+    "name": "Merari",
+    "aliases": [],
+    "gender": "m",
+    "role": "Father of Judith",
+    "era": "Return & Restoration",
+    "summary": "The father of Judith, of the tribe of Simeon, named at the head of her long genealogy.",
+    "catholic": "",
+    "know": [
+      "Not the Levite Merari son of Levi.",
+      "Judith is 'the daughter of Merari' in her own song (Jdt 16:7)."
+    ],
+    "keyPassages": [
+      "jdt 8:1",
+      "jdt 16:7"
+    ],
+    "father": null,
+    "mother": null,
+    "spouses": [],
+    "children": [
+      "judith"
+    ],
+    "relations": [],
+    "search": {
+      "names": [
+        "Merari"
+      ],
+      "books": [
+        "jdt"
+      ]
+    }
+  },
+  {
+    "id": "manasseh-husband-of-judith",
+    "name": "Manasses (husband of Judith)",
+    "aliases": [
+      "Manasses"
+    ],
+    "gender": "m",
+    "role": "Husband of Judith",
+    "era": "Return & Restoration",
+    "summary": "Judith's husband, of her own tribe and family, who died of sunstroke during the barley harvest, leaving her wealthy; she was buried beside him.",
+    "catholic": "",
+    "know": [
+      "Died during the barley harvest (Jdt 8:2-3).",
+      "Spelled 'Manasses' in this translation."
+    ],
+    "keyPassages": [
+      "jdt 8:2-7",
+      "jdt 16:22-24"
+    ],
+    "father": null,
+    "mother": null,
+    "spouses": [
+      "judith"
+    ],
+    "children": [],
+    "relations": [],
+    "search": {
+      "names": [
+        "Manasses"
+      ],
+      "books": [
+        "jdt"
+      ]
+    }
+  },
+  {
+    "id": "holofernes",
+    "name": "Holofernes",
+    "aliases": [],
+    "gender": "m",
+    "role": "Assyrian general",
+    "era": "Return & Restoration",
+    "summary": "Chief general of 'Nebuchadnezzar king of the Assyrians', sent to punish the western nations and destroy all worship but the king's. He besieged Bethulia and cut off its water, but was beguiled by Judith's beauty, drank himself into a stupor at a banquet and was beheaded by her with his own sword.",
+    "catholic": "The Fathers read Holofernes as an image of the proud power of evil, overthrown by the weakness of a faithful woman (Jdt 9:10-11; 16:5-6) — the pattern of Mary's Magnificat, 'He has put down the mighty from their thrones' (Luke 1:52).",
+    "know": [
+      "Second only to Nebuchadnezzar (Jdt 2:4).",
+      "Besieged Bethulia (Jdt 7).",
+      "Beheaded by Judith (Jdt 13:6-10)."
+    ],
+    "keyPassages": [
+      "jdt 2:4-13",
+      "jdt 5:1-6:9",
+      "jdt 7:1-32",
+      "jdt 12:10-20",
+      "jdt 13:1-10",
+      "jdt 14:14-18"
+    ],
+    "father": null,
+    "mother": null,
+    "spouses": [],
+    "children": [],
+    "relations": [
+      {
+        "to": "nebuchadnezzar",
+        "type": "general of",
+        "ref": "jdt 2:4"
+      },
+      {
+        "to": "judith",
+        "type": "killed by",
+        "ref": "jdt 13:8"
+      },
+      {
+        "to": "achior",
+        "type": "threatened",
+        "ref": "jdt 6:2-9"
+      },
+      {
+        "to": "bagoas",
+        "type": "master of",
+        "ref": "jdt 12:11"
+      }
+    ],
+    "search": {
+      "names": [
+        "Holofernes"
+      ],
+      "books": null
+    }
+  },
+  {
+    "id": "achior",
+    "name": "Achior",
+    "aliases": [],
+    "gender": "m",
+    "role": "Ammonite leader, convert",
+    "era": "Return & Restoration",
+    "summary": "The leader of the Ammonites in Holofernes' army who warned him that Israel could not be defeated unless it sinned against its God, recounting Israel's history from Abraham onward. Holofernes handed him over to Bethulia to share its fate; after seeing Holofernes' head he believed, was circumcised and joined the house of Israel.",
+    "catholic": "Achior is a remarkable picture of a Gentile who comes to faith through hearing the story of salvation and seeing God's deeds — a foreshadowing of the Church's call to the nations. His conversion is striking since Deut 23:3 had excluded Ammonites from the assembly.",
+    "know": [
+      "Leader of the children of Ammon (Jdt 5:5).",
+      "Recited Israel's salvation history to Holofernes (Jdt 5:5-21).",
+      "Converted and was circumcised (Jdt 14:10)."
+    ],
+    "keyPassages": [
+      "jdt 5:5-21",
+      "jdt 6:1-21",
+      "jdt 14:6-10"
+    ],
+    "father": null,
+    "mother": null,
+    "spouses": [],
+    "children": [],
+    "relations": [
+      {
+        "to": "holofernes",
+        "type": "warned",
+        "ref": "jdt 5:5"
+      },
+      {
+        "to": "uzziah-of-bethulia",
+        "type": "sheltered by",
+        "ref": "jdt 6:21"
+      },
+      {
+        "to": "judith",
+        "type": "witnessed victory of",
+        "ref": "jdt 14:6"
+      }
+    ],
+    "search": {
+      "names": [
+        "Achior"
+      ],
+      "books": null
+    }
+  },
+  {
+    "id": "bagoas",
+    "name": "Bagoas",
+    "aliases": [],
+    "gender": "m",
+    "role": "Eunuch of Holofernes",
+    "era": "Return & Restoration",
+    "summary": "The eunuch in charge of Holofernes' household, who invited Judith to the fatal banquet and next morning discovered his master's headless body.",
+    "catholic": "",
+    "know": [
+      "Shut the tent the night Holofernes died (Jdt 13:1).",
+      "Found the body and raised the alarm (Jdt 14:14-18)."
+    ],
+    "keyPassages": [
+      "jdt 12:11-15",
+      "jdt 13:1-3",
+      "jdt 14:14-18"
+    ],
+    "father": null,
+    "mother": null,
+    "spouses": [],
+    "children": [],
+    "relations": [
+      {
+        "to": "holofernes",
+        "type": "servant of",
+        "ref": "jdt 12:11"
+      }
+    ],
+    "search": {
+      "names": [
+        "Bagoas"
+      ],
+      "books": null
+    }
+  },
+  {
+    "id": "uzziah-of-bethulia",
+    "name": "Ozias (Uzziah) of Bethulia",
+    "aliases": [
+      "Ozias",
+      "Uzziah"
+    ],
+    "gender": "m",
+    "role": "Chief elder of Bethulia",
+    "era": "Return & Restoration",
+    "summary": "Ozias son of Micah, of the tribe of Simeon, chief magistrate of Bethulia. Under the siege he promised to surrender in five days if God did not help, for which Judith rebuked him; afterwards he blessed her 'above all the women upon the earth'.",
+    "catholic": "Ozias' blessing of Judith (Jdt 13:18) anticipates Elizabeth's greeting to Mary (Luke 1:42) and is used in the Church's Marian liturgy.",
+    "know": [
+      "Called Ozias in this translation (Uzziah in others).",
+      "Set a five-day limit for God's help (Jdt 7:30-31).",
+      "Blessed Judith (Jdt 13:18-20)."
+    ],
+    "keyPassages": [
+      "jdt 6:14-21",
+      "jdt 7:23-32",
+      "jdt 8:9-36",
+      "jdt 13:18-20"
+    ],
+    "father": null,
+    "mother": null,
+    "spouses": [],
+    "children": [],
+    "relations": [
+      {
+        "to": "judith",
+        "type": "blessed",
+        "ref": "jdt 13:18"
+      },
+      {
+        "to": "achior",
+        "type": "sheltered",
+        "ref": "jdt 6:21"
+      },
+      {
+        "to": "chabris",
+        "type": "colleague of",
+        "ref": "jdt 6:15"
+      },
+      {
+        "to": "charmis",
+        "type": "colleague of",
+        "ref": "jdt 6:15"
+      }
+    ],
+    "search": {
+      "names": [
+        "Ozias"
+      ],
+      "books": [
+        "jdt"
+      ]
+    }
+  },
+  {
+    "id": "chabris",
+    "name": "Chabris",
+    "aliases": [],
+    "gender": "m",
+    "role": "Elder of Bethulia",
+    "era": "Return & Restoration",
+    "summary": "Chabris son of Gothoniel, one of the three rulers of Bethulia.",
+    "catholic": "",
+    "know": [
+      "Summoned by Judith with Ozias and Charmis (Jdt 8:10)."
+    ],
+    "keyPassages": [
+      "jdt 6:15",
+      "jdt 8:10",
+      "jdt 10:6"
+    ],
+    "father": null,
+    "mother": null,
+    "spouses": [],
+    "children": [],
+    "relations": [
+      {
+        "to": "uzziah-of-bethulia",
+        "type": "colleague of",
+        "ref": "jdt 6:15"
+      }
+    ],
+    "search": {
+      "names": [
+        "Chabris"
+      ],
+      "books": null
+    }
+  },
+  {
+    "id": "charmis",
+    "name": "Charmis",
+    "aliases": [],
+    "gender": "m",
+    "role": "Elder of Bethulia",
+    "era": "Return & Restoration",
+    "summary": "Charmis son of Melchiel, one of the three rulers of Bethulia.",
+    "catholic": "",
+    "know": [
+      "Watched Judith leave the city (Jdt 10:6)."
+    ],
+    "keyPassages": [
+      "jdt 6:15",
+      "jdt 8:10",
+      "jdt 10:6"
+    ],
+    "father": null,
+    "mother": null,
+    "spouses": [],
+    "children": [],
+    "relations": [
+      {
+        "to": "uzziah-of-bethulia",
+        "type": "colleague of",
+        "ref": "jdt 6:15"
+      }
+    ],
+    "search": {
+      "names": [
+        "Charmis"
+      ],
+      "books": null
+    }
+  },
+  {
+    "id": "joakim-high-priest",
+    "name": "Joakim the high priest",
+    "aliases": [],
+    "gender": "m",
+    "role": "High Priest",
+    "era": "Return & Restoration",
+    "summary": "The high priest in Jerusalem in the book of Judith, who organized the defense of the mountain passes, led the people in fasting and prayer, and came with the elders to bless Judith after her victory.",
+    "catholic": "",
+    "know": [
+      "Ordered Bethulia to hold the passes (Jdt 4:6-7).",
+      "Led penitential prayer in the Temple (Jdt 4:14-15).",
+      "Blessed Judith (Jdt 15:8-10)."
+    ],
+    "keyPassages": [
+      "jdt 4:6-15",
+      "jdt 15:8-10"
+    ],
+    "father": null,
+    "mother": null,
+    "spouses": [],
+    "children": [],
+    "relations": [
+      {
+        "to": "judith",
+        "type": "blessed",
+        "ref": "jdt 15:9"
+      }
+    ],
+    "search": {
+      "names": [
+        "Joakim"
+      ],
+      "books": [
+        "jdt"
+      ]
+    }
+  },
+  {
+    "id": "arphaxad",
+    "name": "Arphaxad",
+    "aliases": [],
+    "gender": "m",
+    "role": "King of the Medes",
+    "era": "Return & Restoration",
+    "summary": "The king of the Medes at Ecbatana defeated and killed by Nebuchadnezzar at the opening of the book of Judith.",
+    "catholic": "",
+    "know": [
+      "Not Arphaxad son of Shem.",
+      "Killed in the mountains of Ragau (Jdt 1:15)."
+    ],
+    "keyPassages": [
+      "jdt 1:1-8",
+      "jdt 1:9-15"
+    ],
+    "father": null,
+    "mother": null,
+    "spouses": [],
+    "children": [],
+    "relations": [
+      {
+        "to": "nebuchadnezzar",
+        "type": "defeated by",
+        "ref": "jdt 1:13-15"
+      }
+    ],
+    "search": {
+      "names": [
+        "Arphaxad"
+      ],
+      "books": [
+        "jdt"
+      ]
+    }
+  },
+  {
+    "id": "esther",
+    "name": "Esther",
+    "aliases": [],
+    "gender": "f",
+    "role": "Queen of Persia",
+    "era": "Return & Restoration",
+    "summary": "A Jewish orphan of the tribe of Benjamin raised by her cousin Mordecai, Esther was chosen queen by King Ahasuerus. When Haman obtained a decree to annihilate the Jews, she fasted and prayed, risked death by approaching the king unsummoned, and at her banquets exposed Haman, who was hanged; the Jews were saved, and the feast of Purim was established.",
+    "catholic": "The Catholic canon reads Esther in its longer Greek form: the six 'additions' (Mordecai's dream, the royal letters, the prayers of Mordecai and Esther, Esther's approach to the king and the dream's interpretation) are deuterocanonical and canonical Scripture, defined at Trent; in this text they appear in square brackets within chapters 1-10. Esther is a classic type of Mary: the queen who intercedes with the king for her condemned people, spared from the king's law of death ('You shall not die', Est 5:1 in the Greek addition; the Vulgate adds 'this law is not made for you but for all', words medieval writers applied to the Immaculate Conception) and who finds favor in the king's sight. Her humble prayer in the Greek Addition C (Est 4:29-47) is read on Thursday of the First Week of Lent. The Catechism names Esther among the holy women who kept alive the hope of Israel's salvation and prepared for Mary (CCC 64, 489).",
+    "know": [
+      "Daughter of Aminadab, Mordecai's uncle (Est 2:7, 2:15) — called Abihail in the Hebrew text.",
+      "'Who knows if you have been made queen for this occasion?' — Mordecai's challenge (Est 4:14).",
+      "Fasted three days before going to the king (Est 4:16).",
+      "Her prayer: 'Help me. I am destitute, and have no helper but you' (Est 4:31).",
+      "Mordecai interprets the 'little spring that became a river' as Esther (Est 10:6)."
+    ],
+    "keyPassages": [
+      "est 2:5-18",
+      "est 4:4-17",
+      "est 4:29-47",
+      "est 5:1-8",
+      "est 7:1-10",
+      "est 8:1-8",
+      "est 9:29-32",
+      "est 10:4-13"
+    ],
+    "father": "aminadab-father-of-esther",
+    "mother": null,
+    "spouses": [
+      "ahasuerus"
+    ],
+    "children": [],
+    "relations": [
+      {
+        "to": "mordecai",
+        "type": "cousin and foster daughter of",
+        "ref": "est 2:7"
+      },
+      {
+        "to": "haman",
+        "type": "exposed",
+        "ref": "est 7:6"
+      },
+      {
+        "to": "hegai",
+        "type": "favored by",
+        "ref": "est 2:8-9"
+      },
+      {
+        "to": "hathach",
+        "type": "served by",
+        "ref": "est 4:5"
+      },
+      {
+        "to": "mary-mother-of-jesus",
+        "type": "type of",
+        "ref": "est 4:31"
+      }
+    ],
+    "search": {
+      "names": [
+        "Esther"
+      ],
+      "books": [
+        "est"
+      ]
+    }
+  },
+  {
+    "id": "aminadab-father-of-esther",
+    "name": "Aminadab (father of Esther)",
+    "aliases": [
+      "Abihail"
+    ],
+    "gender": "m",
+    "role": "Father of Esther",
+    "era": "Exile",
+    "summary": "Esther's father, the brother of Mordecai's father; he and his wife died when Esther was young. The Hebrew text calls him Abihail.",
+    "catholic": "",
+    "know": [
+      "Uncle of Mordecai.",
+      "Not the Amminadab of David's genealogy."
+    ],
+    "keyPassages": [
+      "est 2:7",
+      "est 2:15"
+    ],
+    "father": null,
+    "mother": null,
+    "spouses": [],
+    "children": [
+      "esther"
+    ],
+    "relations": [
+      {
+        "to": "jair-father-of-mordecai",
+        "type": "brother of",
+        "ref": "est 2:7"
+      }
+    ],
+    "search": {
+      "names": [
+        "Aminadab"
+      ],
+      "books": [
+        "est"
+      ]
+    }
+  },
+  {
+    "id": "jair-father-of-mordecai",
+    "name": "Jair (father of Mordecai)",
+    "aliases": [
+      "Jairus"
+    ],
+    "gender": "m",
+    "role": "Father of Mordecai",
+    "era": "Exile",
+    "summary": "Mordecai's father, a Benjamite descended from Shimei and Kish.",
+    "catholic": "",
+    "know": [
+      "Spelled Jair (Est 1:1) and Jairus (Est 2:5)."
+    ],
+    "keyPassages": [
+      "est 1:1",
+      "est 2:5"
+    ],
+    "father": null,
+    "mother": null,
+    "spouses": [],
+    "children": [
+      "mordecai"
+    ],
+    "relations": [],
+    "search": {
+      "names": [
+        "Jair",
+        "Jairus"
+      ],
+      "books": [
+        "est"
+      ]
+    }
+  },
+  {
+    "id": "mordecai",
+    "name": "Mordecai",
+    "aliases": [],
+    "gender": "m",
+    "role": "Jewish official at the Persian court",
+    "era": "Return & Restoration",
+    "summary": "A Benjamite exile at Susa who raised his orphaned cousin Esther. He uncovered a plot against King Ahasuerus, refused to bow to Haman, and when Haman decreed the destruction of the Jews, urged Esther to intercede. Haman's plot recoiled on himself; Mordecai was honored, became the king's chief minister and, with Esther, established Purim. His prophetic dream frames the Greek book.",
+    "catholic": "The Catholic canon reads Esther in its longer Greek form: the six 'additions' (Mordecai's dream, the royal letters, the prayers of Mordecai and Esther, Esther's approach to the king and the dream's interpretation) are deuterocanonical and canonical Scripture, defined at Trent; in this text they appear in square brackets within chapters 1-10. In his prayer (Est 4:18-28) Mordecai explains that he refused to bow to Haman not from pride but 'that I might not set the glory of man above the glory of God' — a witness to the first commandment. His dream and its fulfilment (Est 1:1; 10:4-13) show that God governs history even where his name is hidden. 2 Maccabees calls the eve of Purim 'Mordecai's day' (2 Macc 15:36).",
+    "know": [
+      "Son of Jair, of the tribe of Benjamin (Est 2:5).",
+      "Exposed the chamberlains' plot (Est 1:1; 2:21-23).",
+      "Refused to bow to Haman (Est 3:2-6; 4:22-24).",
+      "Paraded in royal honor by Haman himself (Est 6:1-11).",
+      "Second to the king (Est 10:3)."
+    ],
+    "keyPassages": [
+      "est 1:1",
+      "est 2:5-11",
+      "est 3:1-6",
+      "est 4:1-17",
+      "est 4:18-28",
+      "est 6:1-12",
+      "est 8:15-17",
+      "est 10:3-13"
+    ],
+    "father": "jair-father-of-mordecai",
+    "mother": null,
+    "spouses": [],
+    "children": [],
+    "relations": [
+      {
+        "to": "esther",
+        "type": "cousin and guardian of",
+        "ref": "est 2:7"
+      },
+      {
+        "to": "haman",
+        "type": "enemy of",
+        "ref": "est 3:5-6"
+      },
+      {
+        "to": "ahasuerus",
+        "type": "minister of",
+        "ref": "est 10:3"
+      },
+      {
+        "to": "gabatha-and-tharrha",
+        "type": "exposed plot of",
+        "ref": "est 1:1"
+      }
+    ],
+    "search": {
+      "names": [
+        "Mordecai"
+      ],
+      "books": [
+        "est",
+        "2ma:15"
+      ]
+    }
+  },
+  {
+    "id": "haman",
+    "name": "Haman",
+    "aliases": [],
+    "gender": "m",
+    "role": "Persian chief minister",
+    "era": "Return & Restoration",
+    "summary": "Son of Hammedatha (called 'the Bugaean', and in the Greek letter 'the Macedonian'), exalted above all the king's princes. Enraged that Mordecai would not bow to him, he cast lots (purim) and obtained a royal decree to destroy all the Jews of the empire, built a gallows for Mordecai, and was instead hanged on it when Esther exposed him.",
+    "catholic": "Haman embodies pride and hatred of God's people; his fall on his own gallows illustrates the biblical theme that the wicked fall into the pit they dig (Ps 7:15-16). Mordecai's dream presents him and Mordecai as the two warring 'serpents' (Est 10:7).",
+    "know": [
+      "Son of Hammedatha (Est 3:1).",
+      "Cast lots (purim) to fix the day of destruction (Est 3:7; 9:24).",
+      "Forced to honor Mordecai publicly (Est 6:6-11).",
+      "Hanged on the gallows built for Mordecai (Est 7:9-10)."
+    ],
+    "keyPassages": [
+      "est 3:1-15",
+      "est 5:9-14",
+      "est 6:6-14",
+      "est 7:1-10",
+      "est 9:24-25",
+      "est 10:7"
+    ],
+    "father": "hammedatha",
+    "mother": null,
+    "spouses": [
+      "zeresh"
+    ],
+    "children": [
+      "sons-of-haman"
+    ],
+    "relations": [
+      {
+        "to": "mordecai",
+        "type": "enemy of",
+        "ref": "est 3:5-6"
+      },
+      {
+        "to": "esther",
+        "type": "exposed by",
+        "ref": "est 7:6"
+      },
+      {
+        "to": "ahasuerus",
+        "type": "minister of",
+        "ref": "est 3:1"
+      },
+      {
+        "to": "bugathan",
+        "type": "denounced by",
+        "ref": "est 7:9"
+      }
+    ],
+    "search": {
+      "names": [
+        "Haman"
+      ],
+      "books": [
+        "est"
+      ]
+    }
+  },
+  {
+    "id": "hammedatha",
+    "name": "Hammedatha",
+    "aliases": [],
+    "gender": "m",
+    "role": "Father of Haman",
+    "era": "Return & Restoration",
+    "summary": "Father of Haman, called 'the Bugaean' and once 'the Macedonian' (Est 9:24).",
+    "catholic": "",
+    "know": [
+      "Known only as Haman's father."
+    ],
+    "keyPassages": [
+      "est 3:1",
+      "est 9:10",
+      "est 9:24"
+    ],
+    "father": null,
+    "mother": null,
+    "spouses": [],
+    "children": [
+      "haman"
+    ],
+    "relations": [],
+    "search": {
+      "names": [
+        "Hammedatha"
+      ],
+      "books": null
+    }
+  },
+  {
+    "id": "zeresh",
+    "name": "Zeresh",
+    "aliases": [],
+    "gender": "f",
+    "role": "Wife of Haman",
+    "era": "Return & Restoration",
+    "summary": "Haman's wife, who advised him to build the gallows for Mordecai, and later warned that he could not prevail against Mordecai if he was a Jew.",
+    "catholic": "",
+    "know": [
+      "Suggested the gallows (Est 5:14).",
+      "Predicted Haman's fall (Est 6:13)."
+    ],
+    "keyPassages": [
+      "est 5:10-14",
+      "est 6:13"
+    ],
+    "father": null,
+    "mother": null,
+    "spouses": [
+      "haman"
+    ],
+    "children": [
+      "sons-of-haman"
+    ],
+    "relations": [],
+    "search": {
+      "names": [
+        "Zeresh"
+      ],
+      "books": null
+    }
+  },
+  {
+    "id": "sons-of-haman",
+    "name": "Ten sons of Haman",
+    "aliases": [],
+    "gender": "m",
+    "role": "Group",
+    "era": "Return & Restoration",
+    "summary": "Haman's ten sons, named in Greek form (Pharsannes, Delphon, Phasga, Pharadatha, Barea, Sarbaca, Marmasima, Ruphaeus, Arsaeus, Zabuthaeus), killed in Susa when the Jews defended themselves.",
+    "catholic": "",
+    "know": [
+      "Group entry.",
+      "Named in Est 9:7-9."
+    ],
+    "keyPassages": [
+      "est 9:7-10",
+      "est 9:13-14"
+    ],
+    "father": "haman",
+    "mother": "zeresh",
+    "spouses": [],
+    "children": [],
+    "relations": [],
+    "search": {
+      "names": [
+        "Pharsannes",
+        "Delphon",
+        "Phasga",
+        "Pharadatha",
+        "Zabuthaeus"
+      ],
+      "books": [
+        "est"
+      ]
+    }
+  },
+  {
+    "id": "ahasuerus",
+    "name": "Ahasuerus",
+    "aliases": [],
+    "gender": "m",
+    "role": "King of Persia",
+    "era": "Return & Restoration",
+    "summary": "The Persian king (usually identified with Xerxes I, 486-465 BC) who ruled 127 provinces from Susa. He deposed Queen Vashti, chose Esther as queen, approved Haman's decree against the Jews, but, after Esther's intercession, hanged Haman, elevated Mordecai and issued a counter-decree permitting the Jews to defend themselves.",
+    "catholic": "In the Greek additions God himself 'changed the spirit of the king to gentleness' when Esther approached (Est 5:1-2 in the additions), and the king's second letter acknowledges the Jews as 'sons of the living God, the most high and mighty' (Est 8:13 addition). Traditional Marian readings see in the king who extends his golden sceptre to Esther an image of God who grants Mary's intercession.",
+    "know": [
+      "Usually identified with Xerxes I.",
+      "Ruled 127 provinces 'from India' (Est 1:1).",
+      "Extended the golden sceptre to Esther (Est 5:2).",
+      "An accusation against Judah was written in his reign (Ezra 4:6)."
+    ],
+    "keyPassages": [
+      "est 1:1-22",
+      "est 2:16-18",
+      "est 3:8-11",
+      "est 5:1-8",
+      "est 6:1-11",
+      "est 7:5-10",
+      "est 8:7-13",
+      "ezr 4:6"
+    ],
+    "father": null,
+    "mother": null,
+    "spouses": [
+      "vashti",
+      "esther"
+    ],
+    "children": [],
+    "relations": [
+      {
+        "to": "haman",
+        "type": "promoted",
+        "ref": "est 3:1"
+      },
+      {
+        "to": "mordecai",
+        "type": "honored",
+        "ref": "est 6:10-11"
+      },
+      {
+        "to": "memucan",
+        "type": "advised by",
+        "ref": "est 1:16-21"
+      }
+    ],
+    "search": {
+      "names": [
+        "Ahasuerus"
+      ],
+      "books": [
+        "est",
+        "ezr:4"
+      ]
+    }
+  },
+  {
+    "id": "vashti",
+    "name": "Vashti",
+    "aliases": [],
+    "gender": "f",
+    "role": "Queen of Persia",
+    "era": "Return & Restoration",
+    "summary": "Ahasuerus' queen who refused to appear at his feast when summoned; on Memucan's advice she was deposed, opening the way for Esther.",
+    "catholic": "",
+    "know": [
+      "Refused the king's summons (Est 1:12).",
+      "Deposed by royal decree (Est 1:19-21)."
+    ],
+    "keyPassages": [
+      "est 1:9-22",
+      "est 2:1-4",
+      "est 2:17"
+    ],
+    "father": null,
+    "mother": null,
+    "spouses": [
+      "ahasuerus"
+    ],
+    "children": [],
+    "relations": [],
+    "search": {
+      "names": [
+        "Vashti"
+      ],
+      "books": null
+    }
+  },
+  {
+    "id": "memucan",
+    "name": "Memucan",
+    "aliases": [],
+    "gender": "m",
+    "role": "Persian prince",
+    "era": "Return & Restoration",
+    "summary": "One of the king's princes who advised deposing Vashti lest wives everywhere despise their husbands.",
+    "catholic": "",
+    "know": [
+      "His advice led to Vashti's removal (Est 1:16-21)."
+    ],
+    "keyPassages": [
+      "est 1:16-18",
+      "est 1:19-21"
+    ],
+    "father": null,
+    "mother": null,
+    "spouses": [],
+    "children": [],
+    "relations": [
+      {
+        "to": "vashti",
+        "type": "advised deposing",
+        "ref": "est 1:16"
+      }
+    ],
+    "search": {
+      "names": [
+        "Memucan"
+      ],
+      "books": null
+    }
+  },
+  {
+    "id": "hegai",
+    "name": "Hegai",
+    "aliases": [],
+    "gender": "m",
+    "role": "Royal chamberlain",
+    "era": "Return & Restoration",
+    "summary": "The king's chamberlain in charge of the women, who showed Esther special favor.",
+    "catholic": "",
+    "know": [
+      "Keeper of the women (Est 2:8)."
+    ],
+    "keyPassages": [
+      "est 2:8-9",
+      "est 2:14-15"
+    ],
+    "father": null,
+    "mother": null,
+    "spouses": [],
+    "children": [],
+    "relations": [
+      {
+        "to": "esther",
+        "type": "favored",
+        "ref": "est 2:9"
+      }
+    ],
+    "search": {
+      "names": [
+        "Hegai"
+      ],
+      "books": null
+    }
+  },
+  {
+    "id": "hathach",
+    "name": "Hathach",
+    "aliases": [],
+    "gender": "m",
+    "role": "Esther's chamberlain",
+    "era": "Return & Restoration",
+    "summary": "The chamberlain who carried messages between Esther and Mordecai during the crisis.",
+    "catholic": "",
+    "know": [
+      "Carried Mordecai's 'for such a time' message (Est 4:9-14)."
+    ],
+    "keyPassages": [
+      "est 4:5-8",
+      "est 4:9-12"
+    ],
+    "father": null,
+    "mother": null,
+    "spouses": [],
+    "children": [],
+    "relations": [
+      {
+        "to": "esther",
+        "type": "servant of",
+        "ref": "est 4:5"
+      }
+    ],
+    "search": {
+      "names": [
+        "Hathach"
+      ],
+      "books": null
+    }
+  },
+  {
+    "id": "gabatha-and-tharrha",
+    "name": "Gabatha and Tharrha",
+    "aliases": [
+      "Bigthan",
+      "Teresh"
+    ],
+    "gender": "m",
+    "role": "Conspiring chamberlains",
+    "era": "Return & Restoration",
+    "summary": "The two royal chamberlains (Bigthan and Teresh in the Hebrew) whose plot to kill Ahasuerus Mordecai overheard and reported; they were executed.",
+    "catholic": "",
+    "know": [
+      "Group entry for the two conspirators.",
+      "Named in the Greek Addition A (Est 1:1)."
+    ],
+    "keyPassages": [
+      "est 1:1",
+      "est 2:21-23",
+      "est 6:2"
+    ],
+    "father": null,
+    "mother": null,
+    "spouses": [],
+    "children": [],
+    "relations": [
+      {
+        "to": "mordecai",
+        "type": "exposed by",
+        "ref": "est 1:1"
+      }
+    ],
+    "search": {
+      "names": [
+        "Gabatha",
+        "Tharrha"
+      ],
+      "books": [
+        "est"
+      ]
+    }
+  },
+  {
+    "id": "bugathan",
+    "name": "Bugathan",
+    "aliases": [
+      "Harbonah"
+    ],
+    "gender": "m",
+    "role": "Royal chamberlain",
+    "era": "Return & Restoration",
+    "summary": "The chamberlain who pointed out the gallows Haman had prepared for Mordecai, prompting the king to hang Haman on it (Harbonah in the Hebrew).",
+    "catholic": "",
+    "know": [
+      "His remark sealed Haman's fate (Est 7:9)."
+    ],
+    "keyPassages": [
+      "est 7:9"
+    ],
+    "father": null,
+    "mother": null,
+    "spouses": [],
+    "children": [],
+    "relations": [
+      {
+        "to": "haman",
+        "type": "denounced",
+        "ref": "est 7:9"
+      }
+    ],
+    "search": {
+      "names": [
+        "Bugathan"
+      ],
+      "books": null
+    }
+  },
+  {
+    "id": "john-father-of-mattathias",
+    "name": "John (grandfather of the Maccabees)",
+    "aliases": [],
+    "gender": "m",
+    "role": "Priest",
+    "era": "Maccabean",
+    "summary": "The father of Mattathias, son of Simeon, of the priestly course of Joarib.",
+    "catholic": "",
+    "know": [
+      "Known only from Mattathias' genealogy (1 Macc 2:1)."
+    ],
+    "keyPassages": [
+      "1ma 2:1"
+    ],
+    "father": null,
+    "mother": null,
+    "spouses": [],
+    "children": [
+      "mattathias"
+    ],
+    "relations": [],
+    "search": {
+      "names": [],
+      "books": [
+        "1ma:2"
+      ]
+    }
+  },
+  {
+    "id": "mattathias",
+    "name": "Mattathias",
+    "aliases": [],
+    "gender": "m",
+    "role": "Priest, father of the Maccabees",
+    "era": "Maccabean",
+    "summary": "A priest of the line of Joarib living at Modin, Mattathias refused the king's order to sacrifice to idols, killed the apostate Jew and the royal officer at the altar, and fled to the hills with his five sons crying, 'Whoever is zealous for the law... let him follow me!' He began the Maccabean revolt and, dying, charged his sons to remember the faith of their fathers.",
+    "catholic": "1 and 2 Maccabees are deuterocanonical books, received in the Church's canon (Rome 382, Hippo 393, Carthage 397, Florence, and defined at Trent in 1546) though not in the Hebrew Bible or Protestant Old Testament. Mattathias is presented as a new Phinehas, zealous for the covenant (1 Macc 2:26, 54). His deathbed speech (1 Macc 2:49-68) recalls the faithful from Abraham to Daniel, a 'cloud of witnesses' like Hebrews 11. The Church honors his fidelity to God's law under persecution, though it reads the Maccabean use of arms in light of the Gospel's fuller revelation.",
+    "know": [
+      "Son of John, son of Simeon, of the priests of Joarib (1 Macc 2:1).",
+      "Killed an apostate and the king's officer at Modin (1 Macc 2:23-25).",
+      "Allowed fighting on the Sabbath for self-defense (1 Macc 2:39-41).",
+      "Died in the 146th year (166 BC) (1 Macc 2:70)."
+    ],
+    "keyPassages": [
+      "1ma 2:1-28",
+      "1ma 2:39-48",
+      "1ma 2:49-70"
+    ],
+    "father": "john-father-of-mattathias",
+    "mother": null,
+    "spouses": [],
+    "children": [
+      "john-gaddis",
+      "simon-maccabeus",
+      "judas-maccabeus",
+      "eleazar-avaran",
+      "jonathan-maccabeus"
+    ],
+    "relations": [
+      {
+        "to": "phinehas-son-of-eleazar",
+        "type": "zealous like",
+        "ref": "1ma 2:26"
+      },
+      {
+        "to": "antiochus-iv",
+        "type": "rebelled against",
+        "ref": "1ma 2:19-22"
+      }
+    ],
+    "search": {
+      "names": [
+        "Mattathias"
+      ],
+      "books": [
+        "1ma:2",
+        "1ma:14"
+      ]
+    }
+  },
+  {
+    "id": "john-gaddis",
+    "name": "John Gaddis",
+    "aliases": [],
+    "gender": "m",
+    "role": "Eldest son of Mattathias",
+    "era": "Maccabean",
+    "summary": "The eldest of Mattathias' five sons, surnamed Gaddis. He was seized and killed by the 'children of Jambri' while leading the family's baggage to the Nabataeans, and his brothers Jonathan and Simon avenged him.",
+    "catholic": "",
+    "know": [
+      "Surnamed Gaddis (1 Macc 2:2).",
+      "Killed by the sons of Jambri near Medaba (1 Macc 9:35-38).",
+      "Possibly the 'Joseph' of 2 Macc 8:22 (a disputed reading)."
+    ],
+    "keyPassages": [
+      "1ma 2:2",
+      "1ma 9:35-42"
+    ],
+    "father": "mattathias",
+    "mother": null,
+    "spouses": [],
+    "children": [],
+    "relations": [
+      {
+        "to": "jonathan-maccabeus",
+        "type": "brother of",
+        "ref": "1ma 9:35"
+      },
+      {
+        "to": "simon-maccabeus",
+        "type": "brother of",
+        "ref": "1ma 9:37-38"
+      }
+    ],
+    "search": {
+      "names": [
+        "Gaddis",
+        "John"
+      ],
+      "books": [
+        "1ma:2",
+        "1ma:9"
+      ]
+    }
+  },
+  {
+    "id": "judas-maccabeus",
+    "name": "Judas Maccabeus",
+    "aliases": [
+      "Maccabaeus"
+    ],
+    "gender": "m",
+    "role": "Military leader of Israel",
+    "era": "Maccabean",
+    "summary": "The third son of Mattathias, surnamed Maccabaeus ('the hammer'), who led the revolt after his father's death. With small forces he defeated Apollonius, Seron, Gorgias, Nicanor and Lysias, purified and rededicated the Temple on 25 Chislev 164 BC — the origin of Hanukkah — and made an alliance with Rome. He was killed fighting Bacchides at Elasa (160 BC).",
+    "catholic": "1 and 2 Maccabees are deuterocanonical books, received in the Church's canon (Rome 382, Hippo 393, Carthage 397, Florence, and defined at Trent in 1546) though not in the Hebrew Bible or Protestant Old Testament. Judas is central to the Church's doctrine of prayer for the dead: after a battle he took up a collection and sent it to Jerusalem for a sin offering for fallen soldiers, 'for if he wasn't expecting that those who had fallen would rise again, it would be superfluous and idle to pray for the dead' (2 Macc 12:43-45). The Catechism cites this passage in its teaching on purgatory and the Church's practice of offering suffrages, especially the Eucharistic sacrifice, for the dead (CCC 1032; the verse is numbered 12:46 in the Vulgate). Jesus himself kept the feast Judas instituted, the Feast of the Dedication (John 10:22).",
+    "know": [
+      "Surnamed Maccabaeus, 'the hammer' (1 Macc 2:4).",
+      "Rededicated the Temple, origin of Hanukkah (1 Macc 4:36-59).",
+      "Prayer and sacrifice for the dead (2 Macc 12:38-45).",
+      "Vision of Onias and Jeremiah giving him a golden sword (2 Macc 15:12-16).",
+      "Killed at Elasa and buried at Modin (1 Macc 9:5-19)."
+    ],
+    "keyPassages": [
+      "1ma 3:1-9",
+      "1ma 3:10-26",
+      "1ma 4:36-59",
+      "1ma 8:1-20",
+      "1ma 9:5-22",
+      "2ma 8:1-36",
+      "2ma 12:38-45",
+      "2ma 15:6-36"
+    ],
+    "father": "mattathias",
+    "mother": null,
+    "spouses": [],
+    "children": [],
+    "relations": [
+      {
+        "to": "jesus",
+        "type": "feast kept by",
+        "ref": "jhn 10:22"
+      },
+      {
+        "to": "nicanor",
+        "type": "defeated",
+        "ref": "1ma 7:43"
+      },
+      {
+        "to": "lysias",
+        "type": "defeated",
+        "ref": "1ma 4:34-35"
+      },
+      {
+        "to": "bacchides",
+        "type": "killed in battle with",
+        "ref": "1ma 9:17-18"
+      },
+      {
+        "to": "onias-iii",
+        "type": "saw in vision",
+        "ref": "2ma 15:12"
+      },
+      {
+        "to": "jeremiah",
+        "type": "received sword from (vision)",
+        "ref": "2ma 15:14-16"
+      },
+      {
+        "to": "apollonius-governor-of-samaria",
+        "type": "defeated",
+        "ref": "1ma 3:10-12"
+      },
+      {
+        "to": "jonathan-maccabeus",
+        "type": "succeeded by",
+        "ref": "1ma 9:31"
+      }
+    ],
+    "search": {
+      "names": [
+        "Judas",
+        "Maccabaeus"
+      ],
+      "books": [
+        "1ma:2-9",
+        "2ma"
+      ]
+    }
+  },
+  {
+    "id": "eleazar-avaran",
+    "name": "Eleazar Avaran",
+    "aliases": [],
+    "gender": "m",
+    "role": "Son of Mattathias",
+    "era": "Maccabean",
+    "summary": "The fourth son of Mattathias, surnamed Avaran. At the battle of Beth-zechariah he ran beneath the tallest royal war elephant, thinking the king rode on it, stabbed it from beneath and was crushed when it fell — giving his life 'to get himself an everlasting name'.",
+    "catholic": "",
+    "know": [
+      "Surnamed Avaran (1 Macc 2:5).",
+      "Killed beneath an elephant (1 Macc 6:43-46).",
+      "The 'Eleazer' who read the sacred book before battle (2 Macc 8:23) is likely he."
+    ],
+    "keyPassages": [
+      "1ma 2:5",
+      "1ma 6:43-46",
+      "2ma 8:23"
+    ],
+    "father": "mattathias",
+    "mother": null,
+    "spouses": [],
+    "children": [],
+    "relations": [
+      {
+        "to": "judas-maccabeus",
+        "type": "brother of",
+        "ref": "1ma 6:43"
+      }
+    ],
+    "search": {
+      "names": [
+        "Avaran",
+        "Eleazar",
+        "Eleazer"
+      ],
+      "books": [
+        "1ma:2",
+        "1ma:6",
+        "2ma:8"
+      ]
+    }
+  },
+  {
+    "id": "jonathan-maccabeus",
+    "name": "Jonathan Maccabeus",
+    "aliases": [],
+    "gender": "m",
+    "role": "Leader and High Priest",
+    "era": "Maccabean",
+    "summary": "The youngest son of Mattathias, surnamed Apphus, who succeeded Judas as leader (160 BC). Skilfully playing rival Seleucid claimants against each other, he was named high priest by Alexander Balas (152 BC), renewed alliances with Rome and Sparta, and extended Jewish control, until the general Tryphon lured him into Ptolemais, captured him by treachery and later killed him.",
+    "catholic": "1 and 2 Maccabees are deuterocanonical books, received in the Church's canon (Rome 382, Hippo 393, Carthage 397, Florence, and defined at Trent in 1546) though not in the Hebrew Bible or Protestant Old Testament. Jonathan's investiture as high priest at the Feast of Tabernacles (1 Macc 10:21) began the Hasmonean high priesthood outside the line of Zadok, a turning point in the history of the priesthood that forms the background of the Gospels.",
+    "know": [
+      "Surnamed Apphus (1 Macc 2:5).",
+      "Chosen leader after Judas' death (1 Macc 9:28-31).",
+      "Made high priest by Alexander Balas (1 Macc 10:18-21).",
+      "Captured and killed by Tryphon (1 Macc 12:39-13:23)."
+    ],
+    "keyPassages": [
+      "1ma 9:28-31",
+      "1ma 9:58-73",
+      "1ma 10:15-21",
+      "1ma 11:20-37",
+      "1ma 12:1-23",
+      "1ma 12:39-48",
+      "1ma 13:23-30"
+    ],
+    "father": "mattathias",
+    "mother": null,
+    "spouses": [],
+    "children": [],
+    "relations": [
+      {
+        "to": "judas-maccabeus",
+        "type": "succeeded",
+        "ref": "1ma 9:31"
+      },
+      {
+        "to": "alexander-balas",
+        "type": "made high priest by",
+        "ref": "1ma 10:18-21"
+      },
+      {
+        "to": "tryphon",
+        "type": "killed by",
+        "ref": "1ma 13:23"
+      },
+      {
+        "to": "bacchides",
+        "type": "made peace with",
+        "ref": "1ma 9:70-72"
+      },
+      {
+        "to": "simon-maccabeus",
+        "type": "succeeded by",
+        "ref": "1ma 13:8"
+      }
+    ],
+    "search": {
+      "names": [
+        "Jonathan",
+        "Apphus"
+      ],
+      "books": [
+        "1ma:2-13"
+      ]
+    }
+  },
+  {
+    "id": "simon-maccabeus",
+    "name": "Simon Maccabeus",
+    "aliases": [],
+    "gender": "m",
+    "role": "High Priest and Ethnarch",
+    "era": "Maccabean",
+    "summary": "The second son of Mattathias, surnamed Thassi, called by his father 'a man of counsel'. After Jonathan's murder he led the nation, won full independence in 142 BC ('the yoke of the Gentiles was taken away from Israel'), took the citadel of Jerusalem, and was confirmed by the people as leader and high priest 'forever, until there should arise a faithful prophet'. He was murdered with two sons by his son-in-law Ptolemy at Dok near Jericho (134 BC).",
+    "catholic": "1 and 2 Maccabees are deuterocanonical books, received in the Church's canon (Rome 382, Hippo 393, Carthage 397, Florence, and defined at Trent in 1546) though not in the Hebrew Bible or Protestant Old Testament. The hymn on Simon's reign (1 Macc 14:4-15) — every man under his vine and fig tree, peace in the land — uses messianic language from the prophets (Mic 4:4; Zech 3:10), while the people's decree that his rule last 'until a faithful prophet should arise' (1 Macc 14:41) shows Israel still awaiting the definitive prophet whom the New Testament proclaims in Christ.",
+    "know": [
+      "Surnamed Thassi (1 Macc 2:3).",
+      "Mattathias: 'he shall be a father to you' (1 Macc 2:65).",
+      "Year of independence: 'first year of Simon' (1 Macc 13:41-42).",
+      "Built the family tomb with seven pyramids at Modin (1 Macc 13:27-30).",
+      "Murdered by Ptolemy son of Abubus (1 Macc 16:11-17)."
+    ],
+    "keyPassages": [
+      "1ma 2:65",
+      "1ma 13:1-9",
+      "1ma 13:25-30",
+      "1ma 13:41-53",
+      "1ma 14:4-15",
+      "1ma 14:25-49",
+      "1ma 16:1-17"
+    ],
+    "father": "mattathias",
+    "mother": null,
+    "spouses": [],
+    "children": [
+      "john-hyrcanus",
+      "judas-son-of-simon",
+      "mattathias-son-of-simon"
+    ],
+    "relations": [
+      {
+        "to": "jonathan-maccabeus",
+        "type": "succeeded",
+        "ref": "1ma 13:8"
+      },
+      {
+        "to": "tryphon",
+        "type": "opposed",
+        "ref": "1ma 13:20"
+      },
+      {
+        "to": "ptolemy-son-of-abubus",
+        "type": "murdered by",
+        "ref": "1ma 16:16"
+      },
+      {
+        "to": "antiochus-vii",
+        "type": "received letter from",
+        "ref": "1ma 15:1-9"
+      }
+    ],
+    "search": {
+      "names": [
+        "Simon",
+        "Thassi"
+      ],
+      "books": [
+        "1ma:2",
+        "1ma:5",
+        "1ma:9-16"
+      ]
+    }
+  },
+  {
+    "id": "john-hyrcanus",
+    "name": "John Hyrcanus",
+    "aliases": [],
+    "gender": "m",
+    "role": "High Priest and Ruler",
+    "era": "Maccabean",
+    "summary": "Simon's son John, made commander of the army at Gazara, who with his brother Judas defeated Cendebaeus. When his father and brothers were murdered he escaped the assassins sent against him and succeeded Simon as high priest and ruler (134-104 BC); 1 Maccabees ends by referring to the chronicles of his high priesthood.",
+    "catholic": "",
+    "know": [
+      "Called simply 'John' in 1 Maccabees; 'Hyrcanus' is known from Josephus.",
+      "Defeated Cendebaeus (1 Macc 16:1-10).",
+      "Succeeded his father as high priest (1 Macc 16:24).",
+      "Not the Hyrcanus son of Tobias of 2 Macc 3:11."
+    ],
+    "keyPassages": [
+      "1ma 13:53",
+      "1ma 16:1-10",
+      "1ma 16:19-24"
+    ],
+    "father": "simon-maccabeus",
+    "mother": null,
+    "spouses": [],
+    "children": [],
+    "relations": [
+      {
+        "to": "cendebaeus",
+        "type": "defeated",
+        "ref": "1ma 16:8"
+      },
+      {
+        "to": "ptolemy-son-of-abubus",
+        "type": "escaped",
+        "ref": "1ma 16:22"
+      }
+    ],
+    "search": {
+      "names": [
+        "John"
+      ],
+      "books": [
+        "1ma:13",
+        "1ma:16"
+      ]
+    }
+  },
+  {
+    "id": "judas-son-of-simon",
+    "name": "Judas son of Simon",
+    "aliases": [],
+    "gender": "m",
+    "role": "Hasmonean commander",
+    "era": "Maccabean",
+    "summary": "Simon's son, who was wounded fighting Cendebaeus and later murdered with his father at Dok.",
+    "catholic": "",
+    "know": [
+      "Wounded in battle (1 Macc 16:9).",
+      "Killed by Ptolemy son of Abubus (1 Macc 16:14-16)."
+    ],
+    "keyPassages": [
+      "1ma 16:2-9",
+      "1ma 16:14-16"
+    ],
+    "father": "simon-maccabeus",
+    "mother": null,
+    "spouses": [],
+    "children": [],
+    "relations": [],
+    "search": {
+      "names": [
+        "Judas"
+      ],
+      "books": [
+        "1ma:16"
+      ]
+    }
+  },
+  {
+    "id": "mattathias-son-of-simon",
+    "name": "Mattathias son of Simon",
+    "aliases": [],
+    "gender": "m",
+    "role": "Hasmonean prince",
+    "era": "Maccabean",
+    "summary": "A son of Simon murdered with his father at the banquet in Dok.",
+    "catholic": "",
+    "know": [
+      "Killed by Ptolemy son of Abubus (1 Macc 16:14-16)."
+    ],
+    "keyPassages": [
+      "1ma 16:14-16"
+    ],
+    "father": "simon-maccabeus",
+    "mother": null,
+    "spouses": [],
+    "children": [],
+    "relations": [],
+    "search": {
+      "names": [
+        "Mattathias"
+      ],
+      "books": [
+        "1ma:16"
+      ]
+    }
+  },
+  {
+    "id": "ptolemy-son-of-abubus",
+    "name": "Ptolemy son of Abubus",
+    "aliases": [],
+    "gender": "m",
+    "role": "Governor of Jericho",
+    "era": "Maccabean",
+    "summary": "Simon's son-in-law, governor of the plain of Jericho, who, ambitious to rule the country, murdered Simon and two of his sons at a banquet in the fortress of Dok and tried to kill John Hyrcanus.",
+    "catholic": "",
+    "know": [
+      "'The high priest's son-in-law' (1 Macc 16:12).",
+      "Murdered Simon at Dok (1 Macc 16:16)."
+    ],
+    "keyPassages": [
+      "1ma 16:11-16",
+      "1ma 16:17-22"
+    ],
+    "father": null,
+    "mother": null,
+    "spouses": [],
+    "children": [],
+    "relations": [
+      {
+        "to": "simon-maccabeus",
+        "type": "son-in-law and murderer of",
+        "ref": "1ma 16:12-16"
+      },
+      {
+        "to": "john-hyrcanus",
+        "type": "tried to kill",
+        "ref": "1ma 16:19"
+      }
+    ],
+    "search": {
+      "names": [
+        "Ptolemy"
+      ],
+      "books": [
+        "1ma:16"
+      ]
+    }
+  },
+  {
+    "id": "eupolemus",
+    "name": "Eupolemus",
+    "aliases": [],
+    "gender": "m",
+    "role": "Envoy to Rome",
+    "era": "Maccabean",
+    "summary": "Eupolemus son of John son of Accos, one of the two envoys Judas sent to Rome to make the treaty of friendship.",
+    "catholic": "",
+    "know": [
+      "Sent with Jason son of Eleazar (1 Macc 8:17)."
+    ],
+    "keyPassages": [
+      "1ma 8:17-20",
+      "2ma 4:11"
+    ],
+    "father": null,
+    "mother": null,
+    "spouses": [],
+    "children": [],
+    "relations": [
+      {
+        "to": "judas-maccabeus",
+        "type": "envoy of",
+        "ref": "1ma 8:17"
+      }
+    ],
+    "search": {
+      "names": [
+        "Eupolemus"
+      ],
+      "books": null
+    }
+  },
+  {
+    "id": "simon-son-of-onias",
+    "name": "Simon II the high priest",
+    "aliases": [],
+    "gender": "m",
+    "role": "High Priest",
+    "era": "Maccabean",
+    "summary": "Simon son of Onias, high priest around 200 BC, who repaired and fortified the Temple and the city. Sirach ends his 'praise of the fathers' with a glowing portrait of him coming out of the sanctuary in his vestments and offering sacrifice amid the trumpets and the people's prayer, blessing the people in the Lord's name.",
+    "catholic": "Sirach 50 is one of the most vivid descriptions of Temple liturgy in Scripture; the high priest emerging 'like the morning star' to bless the people has been read as a figure of Christ the High Priest who enters the true sanctuary and blesses his people (Heb 9:11-12; Luke 24:50-51).",
+    "know": [
+      "Praised in Sirach 50:1-21.",
+      "Son of Onias (Sir 50:1).",
+      "According to Josephus, father of Onias III (not stated in Scripture)."
+    ],
+    "keyPassages": [
+      "sir 50:1-11",
+      "sir 50:12-21"
+    ],
+    "father": null,
+    "mother": null,
+    "spouses": [],
+    "children": [],
+    "relations": [
+      {
+        "to": "ben-sira",
+        "type": "praised by",
+        "ref": "sir 50:1"
+      }
+    ],
+    "search": {
+      "names": [
+        "Simon"
+      ],
+      "books": [
+        "sir:50"
+      ]
+    }
+  },
+  {
+    "id": "onias-iii",
+    "name": "Onias III",
+    "aliases": [],
+    "gender": "m",
+    "role": "High Priest",
+    "era": "Maccabean",
+    "summary": "The godly high priest at the start of 2 Maccabees under whom Jerusalem lived 'in unbroken peace'. He defended the Temple deposits against Heliodorus and prayed for him, was supplanted by his brother Jason, and was murdered at Daphne near Antioch by Andronicus at Menelaus' instigation. Later Judas saw him in a vision, praying for the whole Jewish people.",
+    "catholic": "1 and 2 Maccabees are deuterocanonical books, received in the Church's canon (Rome 382, Hippo 393, Carthage 397, Florence, and defined at Trent in 1546) though not in the Hebrew Bible or Protestant Old Testament. The vision of the dead Onias and the prophet Jeremiah interceding for the people (2 Macc 15:12-14) is a key Old Testament witness to the intercession of the righteous departed for those on earth, a basis for the Church's teaching on the communion of saints.",
+    "know": [
+      "High priest under Seleucus IV (2 Macc 3:1-3).",
+      "Prayed for the stricken Heliodorus (2 Macc 3:31-33).",
+      "Murdered at Daphne (2 Macc 4:33-35).",
+      "Seen in vision praying for Israel (2 Macc 15:12).",
+      "Josephus calls him son of Simon II; Scripture does not name his father."
+    ],
+    "keyPassages": [
+      "2ma 3:1-3",
+      "2ma 3:31-33",
+      "2ma 4:1-6",
+      "2ma 4:33-38",
+      "2ma 15:12-14"
+    ],
+    "father": null,
+    "mother": null,
+    "spouses": [],
+    "children": [],
+    "relations": [
+      {
+        "to": "jason-high-priest",
+        "type": "brother of",
+        "ref": "2ma 4:7"
+      },
+      {
+        "to": "heliodorus",
+        "type": "prayed for",
+        "ref": "2ma 3:31-33"
+      },
+      {
+        "to": "andronicus",
+        "type": "murdered by",
+        "ref": "2ma 4:34"
+      },
+      {
+        "to": "menelaus",
+        "type": "murdered at instigation of",
+        "ref": "2ma 4:34"
+      },
+      {
+        "to": "simon-the-benjamite",
+        "type": "slandered by",
+        "ref": "2ma 4:1"
+      },
+      {
+        "to": "judas-maccabeus",
+        "type": "appeared in vision to",
+        "ref": "2ma 15:12"
+      },
+      {
+        "to": "jeremiah",
+        "type": "interceded with (vision)",
+        "ref": "2ma 15:12-14"
+      },
+      {
+        "to": "simon-son-of-onias",
+        "type": "son of (per Josephus; not in Scripture)",
+        "ref": "sir 50:1"
+      }
+    ],
+    "search": {
+      "names": [
+        "Onias"
+      ],
+      "books": [
+        "2ma:3-4",
+        "2ma:15"
+      ]
+    }
+  },
+  {
+    "id": "jason-high-priest",
+    "name": "Jason the high priest",
+    "aliases": [],
+    "gender": "m",
+    "role": "High Priest (Hellenizer)",
+    "era": "Maccabean",
+    "summary": "Brother of Onias III, Jason bought the high priesthood from Antiochus IV, built a gymnasium in Jerusalem and led the people into the Greek way of life. Outbid by Menelaus, he fled to Ammon; his later violent attempt to retake Jerusalem failed, and he died a fugitive among the Spartans with no one to mourn him.",
+    "catholic": "",
+    "know": [
+      "Originally named Joshua/Jesus according to Josephus.",
+      "Bought the high priesthood (2 Macc 4:7-10).",
+      "Built a gymnasium under the citadel (2 Macc 4:12).",
+      "Died in exile at Sparta (2 Macc 5:8-10)."
+    ],
+    "keyPassages": [
+      "2ma 4:7-22",
+      "2ma 4:23-26",
+      "2ma 5:5-10"
+    ],
+    "father": null,
+    "mother": null,
+    "spouses": [],
+    "children": [],
+    "relations": [
+      {
+        "to": "onias-iii",
+        "type": "supplanted his brother",
+        "ref": "2ma 4:7"
+      },
+      {
+        "to": "antiochus-iv",
+        "type": "bought office from",
+        "ref": "2ma 4:7-8"
+      },
+      {
+        "to": "menelaus",
+        "type": "outbid by",
+        "ref": "2ma 4:24"
+      }
+    ],
+    "search": {
+      "names": [
+        "Jason"
+      ],
+      "books": [
+        "2ma:1",
+        "2ma:4-5"
+      ]
+    }
+  },
+  {
+    "id": "menelaus",
+    "name": "Menelaus",
+    "aliases": [],
+    "gender": "m",
+    "role": "High Priest (usurper)",
+    "era": "Maccabean",
+    "summary": "Brother of Simon the Benjamite, sent to Antiochus IV by Jason, who outbid him for the high priesthood. He stole Temple vessels, arranged the murder of Onias III, bribed his way out of trials, guided Antiochus when he plundered the Temple, and was finally executed by being thrown into a tower of ashes at Beroea.",
+    "catholic": "",
+    "know": [
+      "Not of the high-priestly family (2 Macc 4:23-25).",
+      "Had Onias murdered (2 Macc 4:34).",
+      "Executed in the ashes at Beroea (2 Macc 13:3-8)."
+    ],
+    "keyPassages": [
+      "2ma 4:23-50",
+      "2ma 5:15-23",
+      "2ma 13:3-8"
+    ],
+    "father": null,
+    "mother": null,
+    "spouses": [],
+    "children": [],
+    "relations": [
+      {
+        "to": "simon-the-benjamite",
+        "type": "brother of",
+        "ref": "2ma 4:23"
+      },
+      {
+        "to": "lysimachus-brother-of-menelaus",
+        "type": "brother of",
+        "ref": "2ma 4:29"
+      },
+      {
+        "to": "jason-high-priest",
+        "type": "outbid",
+        "ref": "2ma 4:24"
+      },
+      {
+        "to": "onias-iii",
+        "type": "had murdered",
+        "ref": "2ma 4:34"
+      },
+      {
+        "to": "lysias",
+        "type": "condemned through",
+        "ref": "2ma 13:4"
+      }
+    ],
+    "search": {
+      "names": [
+        "Menelaus"
+      ],
+      "books": null
+    }
+  },
+  {
+    "id": "lysimachus-brother-of-menelaus",
+    "name": "Lysimachus",
+    "aliases": [],
+    "gender": "m",
+    "role": "Deputy high priest",
+    "era": "Maccabean",
+    "summary": "Menelaus' brother and deputy, who committed sacrileges in Jerusalem and was killed by the outraged people near the treasury.",
+    "catholic": "",
+    "know": [
+      "Killed by a crowd in Jerusalem (2 Macc 4:39-42)."
+    ],
+    "keyPassages": [
+      "2ma 4:29",
+      "2ma 4:39-42"
+    ],
+    "father": null,
+    "mother": null,
+    "spouses": [],
+    "children": [],
+    "relations": [
+      {
+        "to": "menelaus",
+        "type": "brother of",
+        "ref": "2ma 4:29"
+      }
+    ],
+    "search": {
+      "names": [
+        "Lysimachus"
+      ],
+      "books": [
+        "2ma:4"
+      ]
+    }
+  },
+  {
+    "id": "simon-the-benjamite",
+    "name": "Simon the Benjamite",
+    "aliases": [],
+    "gender": "m",
+    "role": "Temple overseer",
+    "era": "Maccabean",
+    "summary": "The Temple official who quarrelled with Onias III and betrayed the Temple treasury to the Seleucids, prompting Heliodorus' mission; he went on slandering Onias.",
+    "catholic": "",
+    "know": [
+      "Told Apollonius of the Temple's wealth (2 Macc 3:4-6).",
+      "Brother of Menelaus (2 Macc 4:23)."
+    ],
+    "keyPassages": [
+      "2ma 3:4-7",
+      "2ma 4:1-6"
+    ],
+    "father": null,
+    "mother": null,
+    "spouses": [],
+    "children": [],
+    "relations": [
+      {
+        "to": "onias-iii",
+        "type": "opponent of",
+        "ref": "2ma 3:4"
+      },
+      {
+        "to": "menelaus",
+        "type": "brother of",
+        "ref": "2ma 4:23"
+      }
+    ],
+    "search": {
+      "names": [
+        "Simon"
+      ],
+      "books": [
+        "2ma:3-4"
+      ]
+    }
+  },
+  {
+    "id": "heliodorus",
+    "name": "Heliodorus",
+    "aliases": [],
+    "gender": "m",
+    "role": "Seleucid chancellor",
+    "era": "Maccabean",
+    "summary": "Chancellor of Seleucus IV, sent to seize the deposits in the Jerusalem Temple. As he entered the treasury a terrifying horseman and two young men appeared and scourged him; he survived only through the high priest Onias' prayer and returned confessing the power of God.",
+    "catholic": "The scene inspired Raphael's famous Vatican fresco 'The Expulsion of Heliodorus from the Temple', commissioned by Pope Julius II as an image of God defending his Church's patrimony.",
+    "know": [
+      "Sent by King Seleucus (2 Macc 3:7).",
+      "Struck down by heavenly riders (2 Macc 3:24-28).",
+      "Saved by Onias' sacrifice (2 Macc 3:31-34)."
+    ],
+    "keyPassages": [
+      "2ma 3:7-40",
+      "2ma 5:18"
+    ],
+    "father": null,
+    "mother": null,
+    "spouses": [],
+    "children": [],
+    "relations": [
+      {
+        "to": "seleucus-iv",
+        "type": "chancellor of",
+        "ref": "2ma 3:7"
+      },
+      {
+        "to": "onias-iii",
+        "type": "healed through prayer of",
+        "ref": "2ma 3:31-33"
+      }
+    ],
+    "search": {
+      "names": [
+        "Heliodorus"
+      ],
+      "books": null
+    }
+  },
+  {
+    "id": "andronicus",
+    "name": "Andronicus",
+    "aliases": [],
+    "gender": "m",
+    "role": "Seleucid deputy",
+    "era": "Maccabean",
+    "summary": "Antiochus IV's deputy at Antioch who, bribed by Menelaus, lured Onias III from sanctuary at Daphne and murdered him; the king, grieved, had him executed at the very spot.",
+    "catholic": "",
+    "know": [
+      "Murdered Onias (2 Macc 4:34).",
+      "Executed by Antiochus (2 Macc 4:38)."
+    ],
+    "keyPassages": [
+      "2ma 4:31-34",
+      "2ma 4:35-38"
+    ],
+    "father": null,
+    "mother": null,
+    "spouses": [],
+    "children": [],
+    "relations": [
+      {
+        "to": "onias-iii",
+        "type": "murdered",
+        "ref": "2ma 4:34"
+      },
+      {
+        "to": "menelaus",
+        "type": "bribed by",
+        "ref": "2ma 4:32-34"
+      }
+    ],
+    "search": {
+      "names": [
+        "Andronicus"
+      ],
+      "books": [
+        "2ma:4"
+      ]
+    }
+  },
+  {
+    "id": "alcimus",
+    "name": "Alcimus",
+    "aliases": [],
+    "gender": "m",
+    "role": "High Priest (Hellenizer)",
+    "era": "Maccabean",
+    "summary": "A priest of Aaron's line who led the Hellenizing party and was made high priest by Demetrius I. He treacherously had sixty pious Hasideans killed, brought Bacchides and Nicanor against Judas, and died of a stroke while tearing down the wall of the inner Temple court.",
+    "catholic": "",
+    "know": [
+      "Appointed by Demetrius I (1 Macc 7:9).",
+      "Killed sixty Hasideans (1 Macc 7:12-16).",
+      "Died struck by palsy (1 Macc 9:54-56)."
+    ],
+    "keyPassages": [
+      "1ma 7:5-25",
+      "1ma 9:54-56",
+      "2ma 14:3-13"
+    ],
+    "father": null,
+    "mother": null,
+    "spouses": [],
+    "children": [],
+    "relations": [
+      {
+        "to": "demetrius-i",
+        "type": "appointed by",
+        "ref": "1ma 7:9"
+      },
+      {
+        "to": "bacchides",
+        "type": "ally of",
+        "ref": "1ma 7:8-9"
+      },
+      {
+        "to": "judas-maccabeus",
+        "type": "opponent of",
+        "ref": "2ma 14:6"
+      }
+    ],
+    "search": {
+      "names": [
+        "Alcimus"
+      ],
+      "books": null
+    }
+  },
+  {
+    "id": "eleazar-scribe",
+    "name": "Eleazar the scribe",
+    "aliases": [],
+    "gender": "m",
+    "role": "Martyr",
+    "era": "Maccabean",
+    "summary": "One of the principal scribes, a man of ninety, who under Antiochus IV refused to eat swine's flesh and even refused the friendly offer to pretend to eat it, lest he lead the young astray. He went willingly to the rack, declaring that he suffered gladly 'because of my fear of him', leaving his death 'an example of nobleness'.",
+    "catholic": "1 and 2 Maccabees are deuterocanonical books, received in the Church's canon (Rome 382, Hippo 393, Carthage 397, Florence, and defined at Trent in 1546) though not in the Hebrew Bible or Protestant Old Testament. Eleazar is a model of integrity: he refuses even a pretended apostasy that would scandalize others (2 Macc 6:24-28), anticipating Christian teaching on scandal and martyrdom. The Fathers (e.g. St Gregory Nazianzen's oration on the Maccabees) honored him among the martyrs of the Old Covenant; the Eastern Churches commemorate him with the Maccabean martyrs on August 1, and Heb 11:35 is often read as alluding to these martyrs.",
+    "know": [
+      "Ninety years old (2 Macc 6:24).",
+      "Refused to pretend to eat pork (2 Macc 6:21-28).",
+      "'Leaving his death for an example of nobleness' (2 Macc 6:31)."
+    ],
+    "keyPassages": [
+      "2ma 6:18-31",
+      "heb 11:35"
+    ],
+    "father": null,
+    "mother": null,
+    "spouses": [],
+    "children": [],
+    "relations": [
+      {
+        "to": "antiochus-iv",
+        "type": "martyred under",
+        "ref": "2ma 6:18-19"
+      }
+    ],
+    "search": {
+      "names": [
+        "Eleazar"
+      ],
+      "books": [
+        "2ma:6"
+      ]
+    }
+  },
+  {
+    "id": "maccabean-mother",
+    "name": "Mother of the seven Maccabean brothers",
+    "aliases": [],
+    "gender": "f",
+    "role": "Martyr",
+    "era": "Maccabean",
+    "summary": "The mother who watched her seven sons tortured and killed in one day under Antiochus IV for refusing to eat pork, encouraging each of them in their ancestral language with faith in the Creator who would give back their breath and life. After urging the youngest not to accept the king's offer, she herself died last.",
+    "catholic": "1 and 2 Maccabees are deuterocanonical books, received in the Church's canon (Rome 382, Hippo 393, Carthage 397, Florence, and defined at Trent in 1546) though not in the Hebrew Bible or Protestant Old Testament. Her words are among Scripture's clearest statements of creation from nothing — God made all things 'not of things that were' (2 Macc 7:28; cited in CCC 297) — and of hope in bodily resurrection (2 Macc 7:22-23, 29). The Church honors her and her sons as the 'Holy Maccabees', the only Old Testament martyrs once kept on the universal Roman calendar (August 1); the Roman Martyrology still commemorates them on that day. Later tradition gives her names such as Solomonia (East) or Hannah (Jewish legend).",
+    "know": [
+      "Saw seven sons die in one day (2 Macc 7:20).",
+      "Taught creation 'not of things that were' (2 Macc 7:28).",
+      "Hoped to 'receive you again with your brothers' (2 Macc 7:29).",
+      "Feast with her sons: August 1."
+    ],
+    "keyPassages": [
+      "2ma 7:1-6",
+      "2ma 7:20-29",
+      "2ma 7:41",
+      "heb 11:35"
+    ],
+    "father": null,
+    "mother": null,
+    "spouses": [],
+    "children": [
+      "seven-maccabean-brothers"
+    ],
+    "relations": [
+      {
+        "to": "antiochus-iv",
+        "type": "martyred under",
+        "ref": "2ma 7:24-25"
+      }
+    ],
+    "search": {
+      "names": [],
+      "books": [
+        "2ma:7"
+      ]
+    },
+    "feast": "August 1"
+  },
+  {
+    "id": "seven-maccabean-brothers",
+    "name": "Seven Maccabean brothers",
+    "aliases": [],
+    "gender": "u",
+    "role": "Martyrs (group)",
+    "era": "Maccabean",
+    "summary": "Seven brothers arrested with their mother and tortured one after another before Antiochus IV for refusing swine's flesh. Each died professing faith: 'the King of the world will raise us who have died for his laws up to an everlasting renewal of life' (2 Macc 7:9).",
+    "catholic": "1 and 2 Maccabees are deuterocanonical books, received in the Church's canon (Rome 382, Hippo 393, Carthage 397, Florence, and defined at Trent in 1546) though not in the Hebrew Bible or Protestant Old Testament. The brothers' confessions are a high point of Old Testament faith in the resurrection of the body (2 Macc 7:9, 11, 14, 23), a step in the progressive revelation of the resurrection the Catechism describes (CCC 992). The youngest's offering of his life to 'bring to an end the wrath of the Almighty' on his nation (2 Macc 7:37-38) anticipates vicarious, redemptive suffering. Honored as the 'Holy Maccabees' on August 1; tradition held their relics at Antioch, and later in Rome at San Pietro in Vincoli.",
+    "know": [
+      "Group entry for the seven sons.",
+      "Hope of resurrection (2 Macc 7:9-14).",
+      "Hebrews 11:35 likely alludes to them.",
+      "Feast: August 1 (Holy Maccabees)."
+    ],
+    "keyPassages": [
+      "2ma 7:1-42",
+      "heb 11:35"
+    ],
+    "father": null,
+    "mother": "maccabean-mother",
+    "spouses": [],
+    "children": [],
+    "relations": [
+      {
+        "to": "antiochus-iv",
+        "type": "martyred under",
+        "ref": "2ma 7:1"
+      }
+    ],
+    "search": {
+      "names": [],
+      "books": [
+        "2ma:7"
+      ]
+    },
+    "feast": "August 1"
+  },
+  {
+    "id": "razis",
+    "name": "Razis",
+    "aliases": [],
+    "gender": "m",
+    "role": "Elder of Jerusalem",
+    "era": "Maccabean",
+    "summary": "An elder of Jerusalem called 'Father of the Jews' for his goodwill, whom Nicanor tried to arrest. Rather than fall into the hands of sinners he took his own life in a dramatic manner, calling on the Lord of life to give his body back to him.",
+    "catholic": "The Church does not hold up Razis' suicide as an example — Catholic moral teaching forbids suicide (CCC 2280-2283) — but the passage is a witness to his faith in bodily resurrection (2 Macc 14:46). St Augustine, answering Donatists who cited Razis, denied that his death was an example to imitate.",
+    "know": [
+      "Called 'Father of the Jews' (2 Macc 14:37).",
+      "Died rather than be captured by Nicanor (2 Macc 14:37-46)."
+    ],
+    "keyPassages": [
+      "2ma 14:37-41",
+      "2ma 14:42-46"
+    ],
+    "father": null,
+    "mother": null,
+    "spouses": [],
+    "children": [],
+    "relations": [
+      {
+        "to": "nicanor",
+        "type": "pursued by",
+        "ref": "2ma 14:37-39"
+      }
+    ],
+    "search": {
+      "names": [
+        "Razis"
+      ],
+      "books": null
+    }
+  },
+  {
+    "id": "jason-of-cyrene",
+    "name": "Jason of Cyrene",
+    "aliases": [],
+    "gender": "m",
+    "role": "Historian",
+    "era": "Maccabean",
+    "summary": "The Jewish historian whose five-volume history of the Maccabean revolt the author of 2 Maccabees abridged into one book.",
+    "catholic": "The epitomist's preface and epilogue (2 Macc 2:19-32; 15:37-39), describing the toil of condensing a source, are a candid witness that inspired authors used human sources and labor — a point the Church notes in teaching that God used human authors 'with their own faculties and powers' (cf. CCC 106).",
+    "know": [
+      "Wrote five books on the revolt (2 Macc 2:23)."
+    ],
+    "keyPassages": [
+      "2ma 2:19-25",
+      "2ma 2:26-32"
+    ],
+    "father": null,
+    "mother": null,
+    "spouses": [],
+    "children": [],
+    "relations": [],
+    "search": {
+      "names": [
+        "Jason"
+      ],
+      "books": [
+        "2ma:2"
+      ]
+    }
+  },
+  {
+    "id": "hyrcanus-son-of-tobias",
+    "name": "Hyrcanus son of Tobias",
+    "aliases": [],
+    "gender": "m",
+    "role": "Jerusalem notable",
+    "era": "Maccabean",
+    "summary": "A wealthy man of high standing whose money was deposited in the Temple treasury that Heliodorus came to seize.",
+    "catholic": "",
+    "know": [
+      "Of the Tobiad family; possibly descended from Nehemiah's Tobiah.",
+      "Not John Hyrcanus."
+    ],
+    "keyPassages": [
+      "2ma 3:11"
+    ],
+    "father": null,
+    "mother": null,
+    "spouses": [],
+    "children": [],
+    "relations": [],
+    "search": {
+      "names": [
+        "Hyrcanus"
+      ],
+      "books": null
+    }
+  },
+  {
+    "id": "alexander-the-great",
+    "name": "Alexander the Great",
+    "aliases": [],
+    "gender": "m",
+    "role": "King of Macedon",
+    "era": "Maccabean",
+    "summary": "Alexander the Macedonian, son of Philip, who conquered the Persian Empire of Darius III and ruled 'to the ends of the earth' for twelve years, then died and left his empire divided among his generals. 1 Maccabees opens with him to explain the origin of the Seleucid kingdom.",
+    "catholic": "The Fathers identified Alexander with the swift he-goat and the 'mighty king' of Daniel's visions (Dan 8:5-8, 21; 11:3-4). His conquests spread the Greek language that became the vehicle of the Septuagint and of the New Testament — a providential preparation for the Gospel.",
+    "know": [
+      "Son of Philip of Macedon (1 Macc 1:1).",
+      "Reigned twelve years (1 Macc 1:7).",
+      "Divided his kingdom among his servants (1 Macc 1:6-9).",
+      "Identified with the he-goat of Daniel 8."
+    ],
+    "keyPassages": [
+      "1ma 1:1-9",
+      "1ma 6:2",
+      "dan 8:5-8",
+      "dan 8:21",
+      "dan 11:3-4"
+    ],
+    "father": null,
+    "mother": null,
+    "spouses": [],
+    "children": [],
+    "relations": [],
+    "search": {
+      "names": [
+        "Alexander"
+      ],
+      "books": [
+        "1ma:1",
+        "1ma:6"
+      ]
+    }
+  },
+  {
+    "id": "antiochus-iii",
+    "name": "Antiochus III the Great",
+    "aliases": [],
+    "gender": "m",
+    "role": "Seleucid king",
+    "era": "Maccabean",
+    "summary": "'Antiochus, the great king of Asia', who fought the Romans with 120 elephants and was defeated (Magnesia, 190 BC). Father of Seleucus IV and Antiochus IV.",
+    "catholic": "",
+    "know": [
+      "Defeated by Rome (1 Macc 8:6-8).",
+      "Father of Antiochus IV (1 Macc 1:10).",
+      "Fatherhood of Seleucus IV is historical, not stated in Scripture."
+    ],
+    "keyPassages": [
+      "1ma 1:10",
+      "1ma 8:6-8"
+    ],
+    "father": null,
+    "mother": null,
+    "spouses": [],
+    "children": [
+      "seleucus-iv",
+      "antiochus-iv"
+    ],
+    "relations": [],
+    "search": {
+      "names": [
+        "Antiochus"
+      ],
+      "books": [
+        "1ma:8"
+      ]
+    }
+  },
+  {
+    "id": "seleucus-iv",
+    "name": "Seleucus IV Philopator",
+    "aliases": [],
+    "gender": "m",
+    "role": "Seleucid king",
+    "era": "Maccabean",
+    "summary": "King of Asia who at first paid for the Temple sacrifices from his own revenues, then sent his chancellor Heliodorus to seize the Temple treasury. Father of Demetrius I; succeeded by his brother Antiochus IV.",
+    "catholic": "",
+    "know": [
+      "Honored the Temple (2 Macc 3:3).",
+      "Sent Heliodorus (2 Macc 3:7).",
+      "Father of Demetrius I (1 Macc 7:1)."
+    ],
+    "keyPassages": [
+      "2ma 3:3",
+      "2ma 3:7",
+      "2ma 4:7",
+      "1ma 7:1"
+    ],
+    "father": "antiochus-iii",
+    "mother": null,
+    "spouses": [],
+    "children": [
+      "demetrius-i"
+    ],
+    "relations": [
+      {
+        "to": "heliodorus",
+        "type": "sent",
+        "ref": "2ma 3:7"
+      },
+      {
+        "to": "antiochus-iv",
+        "type": "brother of",
+        "ref": "2ma 4:7"
+      }
+    ],
+    "search": {
+      "names": [
+        "Seleucus"
+      ],
+      "books": [
+        "1ma",
+        "2ma"
+      ]
+    }
+  },
+  {
+    "id": "antiochus-iv",
+    "name": "Antiochus IV Epiphanes",
+    "aliases": [
+      "Antiochus Epiphanes"
+    ],
+    "gender": "m",
+    "role": "Seleucid king, persecutor",
+    "era": "Maccabean",
+    "summary": "'A sinful root', son of Antiochus III, who reigned 175-164 BC. He sold the high priesthood, plundered the Temple, and in 167 BC outlawed the Jewish religion, setting up 'an abomination of desolation' on the altar and putting to death those who kept the Law — including Eleazar and the seven brothers. His persecution provoked the Maccabean revolt. He died in Persia in agony, after (according to 2 Maccabees) vainly vowing to become a Jew.",
+    "catholic": "Antiochus is the Old Testament's archetype of the persecutor of God's people. The Church, following the Fathers, sees him in Daniel's 'little horn' (Dan 8:9-12; 11:21-45), and his 'abomination of desolation' (1 Macc 1:54; Dan 11:31) is the background of Jesus' warning (Matt 24:15) and a type of the final Antichrist (2 Thess 2:3-4). His miserable end (2 Macc 9) shows that 'it is right to be subject to God' (2 Macc 9:12).",
+    "know": [
+      "Called 'Epiphanes' ('God manifest'); his enemies punned 'Epimanes' (madman).",
+      "Profaned the Temple and set up the abomination of desolation (1 Macc 1:20-24, 54).",
+      "Persecutor of Eleazar and the seven brothers (2 Macc 6-7).",
+      "Died in Persia (1 Macc 6:1-16; 2 Macc 9).",
+      "The 'little horn' of Daniel 8."
+    ],
+    "keyPassages": [
+      "1ma 1:10",
+      "1ma 1:20-64",
+      "1ma 6:1-16",
+      "2ma 4:7",
+      "2ma 5:11-21",
+      "2ma 9:1-29",
+      "dan 11:21-45",
+      "mat 24:15"
+    ],
+    "father": "antiochus-iii",
+    "mother": null,
+    "spouses": [],
+    "children": [
+      "antiochus-v"
+    ],
+    "relations": [
+      {
+        "to": "mattathias",
+        "type": "opposed by",
+        "ref": "1ma 2:19-22"
+      },
+      {
+        "to": "eleazar-scribe",
+        "type": "martyred",
+        "ref": "2ma 6:18-31"
+      },
+      {
+        "to": "seven-maccabean-brothers",
+        "type": "martyred",
+        "ref": "2ma 7:1"
+      },
+      {
+        "to": "jason-high-priest",
+        "type": "sold office to",
+        "ref": "2ma 4:7-8"
+      },
+      {
+        "to": "menelaus",
+        "type": "sold office to",
+        "ref": "2ma 4:24"
+      },
+      {
+        "to": "lysias",
+        "type": "appointed regent",
+        "ref": "1ma 3:32-33"
+      },
+      {
+        "to": "philip-regent",
+        "type": "named guardian",
+        "ref": "1ma 6:14-15"
+      },
+      {
+        "to": "daniel",
+        "type": "foretold by",
+        "ref": "dan 11:31"
+      }
+    ],
+    "search": {
+      "names": [
+        "Antiochus",
+        "Epiphanes"
+      ],
+      "books": [
+        "1ma:1-6",
+        "2ma:2",
+        "2ma:4-9"
+      ]
+    }
+  },
+  {
+    "id": "antiochus-v",
+    "name": "Antiochus V Eupator",
+    "aliases": [
+      "Antiochus Eupator"
+    ],
+    "gender": "m",
+    "role": "Seleucid king",
+    "era": "Maccabean",
+    "summary": "The boy-king son of Antiochus IV, raised by Lysias and made king at his father's death. With Lysias he invaded Judea and besieged Beth-zur and Mount Zion, then made peace when Philip seized Antioch. He and Lysias were killed by the army when Demetrius I came from Rome.",
+    "catholic": "",
+    "know": [
+      "Named Eupator by Lysias (1 Macc 6:17).",
+      "Battle of Beth-zechariah (1 Macc 6:28-47).",
+      "Killed at Demetrius' order (1 Macc 7:2-4)."
+    ],
+    "keyPassages": [
+      "1ma 6:17",
+      "1ma 6:28-63",
+      "1ma 7:2-4",
+      "2ma 10:10-11",
+      "2ma 13:1-26"
+    ],
+    "father": "antiochus-iv",
+    "mother": null,
+    "spouses": [],
+    "children": [],
+    "relations": [
+      {
+        "to": "lysias",
+        "type": "guardian of",
+        "ref": "1ma 6:17"
+      },
+      {
+        "to": "demetrius-i",
+        "type": "killed by",
+        "ref": "1ma 7:2-4"
+      }
+    ],
+    "search": {
+      "names": [
+        "Eupator"
+      ],
+      "books": [
+        "1ma",
+        "2ma"
+      ]
+    }
+  },
+  {
+    "id": "demetrius-i",
+    "name": "Demetrius I Soter",
+    "aliases": [],
+    "gender": "m",
+    "role": "Seleucid king",
+    "era": "Maccabean",
+    "summary": "Son of Seleucus IV, held hostage in Rome, who escaped, seized the throne by killing Antiochus V and Lysias (161 BC), installed Alcimus as high priest and sent Bacchides and Nicanor against Judas. He later lost the throne to Alexander Balas despite lavish offers to Jonathan.",
+    "catholic": "",
+    "know": [
+      "'Demetrius the son of Seleucus came out of Rome' (1 Macc 7:1).",
+      "Appointed Alcimus high priest (1 Macc 7:9).",
+      "Killed in battle with Alexander Balas (1 Macc 10:48-50)."
+    ],
+    "keyPassages": [
+      "1ma 7:1-9",
+      "1ma 7:26",
+      "1ma 10:1-6",
+      "1ma 10:22-50",
+      "2ma 14:1-4"
+    ],
+    "father": "seleucus-iv",
+    "mother": null,
+    "spouses": [],
+    "children": [
+      "demetrius-ii",
+      "antiochus-vii"
+    ],
+    "relations": [
+      {
+        "to": "antiochus-v",
+        "type": "killed",
+        "ref": "1ma 7:4"
+      },
+      {
+        "to": "alcimus",
+        "type": "appointed",
+        "ref": "1ma 7:9"
+      },
+      {
+        "to": "bacchides",
+        "type": "sent",
+        "ref": "1ma 7:8"
+      },
+      {
+        "to": "nicanor",
+        "type": "sent",
+        "ref": "1ma 7:26"
+      },
+      {
+        "to": "alexander-balas",
+        "type": "defeated by",
+        "ref": "1ma 10:49-50"
+      }
+    ],
+    "search": {
+      "names": [
+        "Demetrius"
+      ],
+      "books": [
+        "1ma:7-10",
+        "2ma:14"
+      ]
+    }
+  },
+  {
+    "id": "alexander-balas",
+    "name": "Alexander Balas",
+    "aliases": [],
+    "gender": "m",
+    "role": "Seleucid king",
+    "era": "Maccabean",
+    "summary": "A claimant who presented himself as 'Alexander Epiphanes, the son of Antiochus', seized Ptolemais, won Jonathan's support by naming him high priest, defeated Demetrius I and married Cleopatra, daughter of Ptolemy VI. His father-in-law later turned against him; he fled to Arabia and was beheaded.",
+    "catholic": "",
+    "know": [
+      "Called 'Alexander Epiphanes, son of Antiochus' (1 Macc 10:1) — ancient historians considered his claim false.",
+      "Made Jonathan high priest (1 Macc 10:18-21).",
+      "Married Cleopatra (1 Macc 10:57-58).",
+      "Beheaded by Zabdiel the Arabian (1 Macc 11:17)."
+    ],
+    "keyPassages": [
+      "1ma 10:1-21",
+      "1ma 10:48-66",
+      "1ma 11:1-19"
+    ],
+    "father": null,
+    "mother": null,
+    "spouses": [
+      "cleopatra-thea"
+    ],
+    "children": [
+      "antiochus-vi"
+    ],
+    "relations": [
+      {
+        "to": "antiochus-iv",
+        "type": "claimed to be son of",
+        "ref": "1ma 10:1"
+      },
+      {
+        "to": "jonathan-maccabeus",
+        "type": "made high priest",
+        "ref": "1ma 10:20"
+      },
+      {
+        "to": "demetrius-i",
+        "type": "defeated",
+        "ref": "1ma 10:49-50"
+      },
+      {
+        "to": "ptolemy-vi",
+        "type": "son-in-law of",
+        "ref": "1ma 10:58"
+      }
+    ],
+    "search": {
+      "names": [
+        "Alexander"
+      ],
+      "books": [
+        "1ma:10-11"
+      ]
+    }
+  },
+  {
+    "id": "ptolemy-vi",
+    "name": "Ptolemy VI Philometor",
+    "aliases": [],
+    "gender": "m",
+    "role": "King of Egypt",
+    "era": "Maccabean",
+    "summary": "King of Egypt defeated by Antiochus IV, who later gave his daughter Cleopatra to Alexander Balas, then took her back, gave her to Demetrius II, crowned himself king of Asia at Antioch and died three days after defeating Alexander.",
+    "catholic": "",
+    "know": [
+      "Defeated by Antiochus IV (1 Macc 1:16-19).",
+      "Wore the crowns of Egypt and Asia (1 Macc 11:13).",
+      "Died in 145 BC (1 Macc 11:18)."
+    ],
+    "keyPassages": [
+      "1ma 1:16-19",
+      "1ma 10:51-58",
+      "1ma 11:1-18",
+      "2ma 9:29"
+    ],
+    "father": null,
+    "mother": null,
+    "spouses": [],
+    "children": [
+      "cleopatra-thea"
+    ],
+    "relations": [
+      {
+        "to": "antiochus-iv",
+        "type": "defeated by",
+        "ref": "1ma 1:18"
+      },
+      {
+        "to": "alexander-balas",
+        "type": "father-in-law of",
+        "ref": "1ma 10:58"
+      }
+    ],
+    "search": {
+      "names": [
+        "Ptolemy",
+        "Philometor"
+      ],
+      "books": [
+        "1ma:1",
+        "1ma:10-11",
+        "2ma:9"
+      ]
+    }
+  },
+  {
+    "id": "cleopatra-thea",
+    "name": "Cleopatra",
+    "aliases": [],
+    "gender": "f",
+    "role": "Seleucid queen",
+    "era": "Maccabean",
+    "summary": "Daughter of Ptolemy VI, married with great pomp to Alexander Balas at Ptolemais and then given by her father to Demetrius II.",
+    "catholic": "",
+    "know": [
+      "Not the famous Cleopatra VII of Egypt.",
+      "Wife successively of Alexander Balas and Demetrius II (1 Macc 10:58; 11:12)."
+    ],
+    "keyPassages": [
+      "1ma 10:57-58",
+      "1ma 11:12"
+    ],
+    "father": "ptolemy-vi",
+    "mother": null,
+    "spouses": [
+      "alexander-balas",
+      "demetrius-ii"
+    ],
+    "children": [],
+    "relations": [],
+    "search": {
+      "names": [
+        "Cleopatra"
+      ],
+      "books": [
+        "1ma"
+      ]
+    }
+  },
+  {
+    "id": "demetrius-ii",
+    "name": "Demetrius II Nicator",
+    "aliases": [],
+    "gender": "m",
+    "role": "Seleucid king",
+    "era": "Maccabean",
+    "summary": "Son of Demetrius I, who came from Crete, became king after Ptolemy VI defeated Alexander, confirmed Jonathan as high priest but broke faith with him. Driven from Antioch by Tryphon, he granted Simon independence, then was captured by Arsaces king of Persia.",
+    "catholic": "",
+    "know": [
+      "'Demetrius son of Demetrius' (1 Macc 10:67).",
+      "Rescued at Antioch by Jewish troops (1 Macc 11:43-51).",
+      "Granted Simon immunity (1 Macc 13:34-40).",
+      "Captured by Arsaces (1 Macc 14:1-3)."
+    ],
+    "keyPassages": [
+      "1ma 10:67",
+      "1ma 11:19-53",
+      "1ma 13:34-40",
+      "1ma 14:1-3"
+    ],
+    "father": "demetrius-i",
+    "mother": null,
+    "spouses": [
+      "cleopatra-thea"
+    ],
+    "children": [],
+    "relations": [
+      {
+        "to": "jonathan-maccabeus",
+        "type": "allied with then betrayed",
+        "ref": "1ma 11:53"
+      },
+      {
+        "to": "simon-maccabeus",
+        "type": "granted independence to",
+        "ref": "1ma 13:36-40"
+      },
+      {
+        "to": "tryphon",
+        "type": "opposed by",
+        "ref": "1ma 11:55"
+      }
+    ],
+    "search": {
+      "names": [
+        "Demetrius"
+      ],
+      "books": [
+        "1ma:11-15"
+      ]
+    }
+  },
+  {
+    "id": "antiochus-vi",
+    "name": "Antiochus VI",
+    "aliases": [],
+    "gender": "m",
+    "role": "Seleucid boy-king",
+    "era": "Maccabean",
+    "summary": "The young son of Alexander Balas whom Tryphon set on the throne against Demetrius II; he confirmed Jonathan's high priesthood but was soon murdered by Tryphon.",
+    "catholic": "",
+    "know": [
+      "Raised by Imalcue the Arabian (1 Macc 11:39).",
+      "Confirmed Jonathan (1 Macc 11:57).",
+      "Killed by Tryphon (1 Macc 13:31)."
+    ],
+    "keyPassages": [
+      "1ma 11:39-40",
+      "1ma 11:54-59",
+      "1ma 13:31"
+    ],
+    "father": "alexander-balas",
+    "mother": null,
+    "spouses": [],
+    "children": [],
+    "relations": [
+      {
+        "to": "tryphon",
+        "type": "murdered by",
+        "ref": "1ma 13:31"
+      }
+    ],
+    "search": {
+      "names": [
+        "Antiochus"
+      ],
+      "books": [
+        "1ma:11-13"
+      ]
+    }
+  },
+  {
+    "id": "tryphon",
+    "name": "Tryphon",
+    "aliases": [],
+    "gender": "m",
+    "role": "Seleucid general and usurper",
+    "era": "Maccabean",
+    "summary": "A former officer of Alexander Balas who championed the boy Antiochus VI, then plotted to seize the kingdom himself. He captured Jonathan at Ptolemais by treachery, extorted ransom from Simon, killed Jonathan and later Antiochus VI, and was finally besieged at Dor and driven out by Antiochus VII.",
+    "catholic": "",
+    "know": [
+      "Killed Jonathan at Bascama (1 Macc 13:23).",
+      "Murdered the young Antiochus VI (1 Macc 13:31).",
+      "Fled to Orthosia (1 Macc 15:37)."
+    ],
+    "keyPassages": [
+      "1ma 11:39-40",
+      "1ma 12:39-50",
+      "1ma 13:12-24",
+      "1ma 13:31-32",
+      "1ma 15:10-14",
+      "1ma 15:37"
+    ],
+    "father": null,
+    "mother": null,
+    "spouses": [],
+    "children": [],
+    "relations": [
+      {
+        "to": "jonathan-maccabeus",
+        "type": "killed",
+        "ref": "1ma 13:23"
+      },
+      {
+        "to": "antiochus-vi",
+        "type": "killed",
+        "ref": "1ma 13:31"
+      },
+      {
+        "to": "antiochus-vii",
+        "type": "defeated by",
+        "ref": "1ma 15:25"
+      }
+    ],
+    "search": {
+      "names": [
+        "Tryphon"
+      ],
+      "books": null
+    }
+  },
+  {
+    "id": "antiochus-vii",
+    "name": "Antiochus VII Sidetes",
+    "aliases": [],
+    "gender": "m",
+    "role": "Seleucid king",
+    "era": "Maccabean",
+    "summary": "'Antiochus son of Demetrius the king', who wrote to Simon confirming his privileges and granting him coinage, besieged Tryphon at Dor, then turned against Simon and sent Cendebaeus to invade Judea.",
+    "catholic": "",
+    "know": [
+      "Granted Simon the right to mint coins (1 Macc 15:6).",
+      "Broke his agreement (1 Macc 15:27)."
+    ],
+    "keyPassages": [
+      "1ma 15:1-14",
+      "1ma 15:25-41"
+    ],
+    "father": "demetrius-i",
+    "mother": null,
+    "spouses": [],
+    "children": [],
+    "relations": [
+      {
+        "to": "simon-maccabeus",
+        "type": "wrote to",
+        "ref": "1ma 15:1-2"
+      },
+      {
+        "to": "tryphon",
+        "type": "besieged",
+        "ref": "1ma 15:25"
+      },
+      {
+        "to": "cendebaeus",
+        "type": "appointed",
+        "ref": "1ma 15:38"
+      }
+    ],
+    "search": {
+      "names": [
+        "Antiochus"
+      ],
+      "books": [
+        "1ma:15"
+      ]
+    }
+  },
+  {
+    "id": "cendebaeus",
+    "name": "Cendebaeus",
+    "aliases": [],
+    "gender": "m",
+    "role": "Seleucid commander",
+    "era": "Maccabean",
+    "summary": "Commander of the coast under Antiochus VII who invaded Judea and was routed by John Hyrcanus and Judas, sons of Simon.",
+    "catholic": "",
+    "know": [
+      "Fortified Kidron (1 Macc 15:39).",
+      "Defeated near Modin (1 Macc 16:4-10)."
+    ],
+    "keyPassages": [
+      "1ma 15:38-41",
+      "1ma 16:1-10"
+    ],
+    "father": null,
+    "mother": null,
+    "spouses": [],
+    "children": [],
+    "relations": [
+      {
+        "to": "antiochus-vii",
+        "type": "appointed by",
+        "ref": "1ma 15:38"
+      },
+      {
+        "to": "john-hyrcanus",
+        "type": "defeated by",
+        "ref": "1ma 16:8"
+      }
+    ],
+    "search": {
+      "names": [
+        "Cendebaeus"
+      ],
+      "books": null
+    }
+  },
+  {
+    "id": "lysias",
+    "name": "Lysias",
+    "aliases": [],
+    "gender": "m",
+    "role": "Seleucid regent",
+    "era": "Maccabean",
+    "summary": "A nobleman 'of royal lineage' left by Antiochus IV in charge of the kingdom and of the young Antiochus V. His armies were defeated by Judas (at Beth-zur), he later made Antiochus V king, and negotiated peace with the Jews, but was killed with the boy-king by Demetrius I's army.",
+    "catholic": "In 2 Maccabees he concludes after his defeat that 'the Hebrews could not be overcome, because the Almighty God fought for them' (2 Macc 11:13).",
+    "know": [
+      "Regent from the Euphrates to Egypt (1 Macc 3:32-33).",
+      "Defeated by Judas at Beth-zur (1 Macc 4:28-35).",
+      "Made Antiochus V king (1 Macc 6:17).",
+      "Killed with Antiochus V (1 Macc 7:2-4)."
+    ],
+    "keyPassages": [
+      "1ma 3:32-38",
+      "1ma 4:26-35",
+      "1ma 6:17",
+      "1ma 6:55-63",
+      "2ma 11:1-38",
+      "2ma 13:1-26"
+    ],
+    "father": null,
+    "mother": null,
+    "spouses": [],
+    "children": [],
+    "relations": [
+      {
+        "to": "antiochus-iv",
+        "type": "regent for",
+        "ref": "1ma 3:32-33"
+      },
+      {
+        "to": "antiochus-v",
+        "type": "guardian of",
+        "ref": "1ma 6:17"
+      },
+      {
+        "to": "judas-maccabeus",
+        "type": "defeated by",
+        "ref": "1ma 4:34-35"
+      },
+      {
+        "to": "demetrius-i",
+        "type": "killed by order of",
+        "ref": "1ma 7:2-4"
+      }
+    ],
+    "search": {
+      "names": [
+        "Lysias"
+      ],
+      "books": [
+        "1ma",
+        "2ma"
+      ]
+    }
+  },
+  {
+    "id": "philip-regent",
+    "name": "Philip (regent of Antiochus IV)",
+    "aliases": [],
+    "gender": "m",
+    "role": "Seleucid regent",
+    "era": "Maccabean",
+    "summary": "One of Antiochus IV's friends whom the dying king set over his kingdom and entrusted with his son; Lysias drove him from Antioch. He carried the king's body home and, fearing Antiochus V, withdrew to Egypt.",
+    "catholic": "",
+    "know": [
+      "Called the king's 'foster brother' (2 Macc 9:29).",
+      "Seized Antioch from Lysias (1 Macc 6:55-63).",
+      "Distinct from Philip the Phrygian, governor of Jerusalem (2 Macc 5:22)."
+    ],
+    "keyPassages": [
+      "1ma 6:14-15",
+      "1ma 6:55-63",
+      "2ma 9:29"
+    ],
+    "father": null,
+    "mother": null,
+    "spouses": [],
+    "children": [],
+    "relations": [
+      {
+        "to": "antiochus-iv",
+        "type": "regent of",
+        "ref": "1ma 6:14-15"
+      },
+      {
+        "to": "lysias",
+        "type": "rival of",
+        "ref": "1ma 6:55-56"
+      }
+    ],
+    "search": {
+      "names": [
+        "Philip"
+      ],
+      "books": [
+        "1ma:6",
+        "2ma:9",
+        "2ma:13"
+      ]
+    }
+  },
+  {
+    "id": "nicanor",
+    "name": "Nicanor",
+    "aliases": [],
+    "gender": "m",
+    "role": "Seleucid general",
+    "era": "Maccabean",
+    "summary": "A Seleucid general who hated Israel. Under Demetrius I he tried to capture Judas by treachery, threatened to burn the Temple, and was defeated and killed at Adasa on 13 Adar (161 BC); his head and arm were displayed at Jerusalem and the day was kept as 'Nicanor's Day', the day before Mordecai's Day.",
+    "catholic": "",
+    "know": [
+      "Called son of Patroclus (2 Macc 8:9).",
+      "Threatened the Temple (1 Macc 7:33-35; 2 Macc 14:33).",
+      "Killed on 13 Adar (1 Macc 7:43-49; 2 Macc 15:36).",
+      "Whether the Nicanor of 1 Macc 3 / 2 Macc 8 is the same man is debated."
+    ],
+    "keyPassages": [
+      "1ma 3:38",
+      "1ma 7:26-50",
+      "2ma 8:9-36",
+      "2ma 14:12-36",
+      "2ma 15:1-36"
+    ],
+    "father": null,
+    "mother": null,
+    "spouses": [],
+    "children": [],
+    "relations": [
+      {
+        "to": "judas-maccabeus",
+        "type": "killed in battle with",
+        "ref": "1ma 7:43"
+      },
+      {
+        "to": "demetrius-i",
+        "type": "sent by",
+        "ref": "1ma 7:26"
+      },
+      {
+        "to": "razis",
+        "type": "pursued",
+        "ref": "2ma 14:37-39"
+      }
+    ],
+    "search": {
+      "names": [
+        "Nicanor"
+      ],
+      "books": [
+        "1ma:3-4",
+        "1ma:7",
+        "1ma:9",
+        "2ma:8-9",
+        "2ma:14-15"
+      ]
+    }
+  },
+  {
+    "id": "bacchides",
+    "name": "Bacchides",
+    "aliases": [],
+    "gender": "m",
+    "role": "Seleucid general",
+    "era": "Maccabean",
+    "summary": "A trusted 'friend of the king' under Demetrius I who installed Alcimus as high priest, defeated and killed Judas at Elasa, fortified Judea, and after failing to destroy Jonathan made peace with him.",
+    "catholic": "",
+    "know": [
+      "Killed Judas (1 Macc 9:1-18).",
+      "Made peace with Jonathan (1 Macc 9:70-72)."
+    ],
+    "keyPassages": [
+      "1ma 7:8-20",
+      "1ma 9:1-18",
+      "1ma 9:23-73"
+    ],
+    "father": null,
+    "mother": null,
+    "spouses": [],
+    "children": [],
+    "relations": [
+      {
+        "to": "demetrius-i",
+        "type": "general of",
+        "ref": "1ma 7:8"
+      },
+      {
+        "to": "alcimus",
+        "type": "installed",
+        "ref": "1ma 7:9"
+      },
+      {
+        "to": "judas-maccabeus",
+        "type": "killed",
+        "ref": "1ma 9:17-18"
+      },
+      {
+        "to": "jonathan-maccabeus",
+        "type": "made peace with",
+        "ref": "1ma 9:70-72"
+      }
+    ],
+    "search": {
+      "names": [
+        "Bacchides"
+      ],
+      "books": [
+        "1ma",
+        "2ma"
+      ]
+    }
+  },
+  {
+    "id": "gorgias",
+    "name": "Gorgias",
+    "aliases": [],
+    "gender": "m",
+    "role": "Seleucid general",
+    "era": "Maccabean",
+    "summary": "A general sent by Lysias to destroy Judah who tried to surprise Judas' camp by night at Emmaus and was outmaneuvered; later governor of Idumea, he fought Judas again.",
+    "catholic": "It was after the battle with Gorgias that the bodies of fallen Jews were found wearing idol amulets, leading Judas to offer prayer and sacrifice for the dead (2 Macc 12:32-45).",
+    "know": [
+      "Defeated at Emmaus (1 Macc 4:1-25).",
+      "Governor of Idumea (2 Macc 12:32)."
+    ],
+    "keyPassages": [
+      "1ma 3:38",
+      "1ma 4:1-25",
+      "2ma 12:32-37"
+    ],
+    "father": null,
+    "mother": null,
+    "spouses": [],
+    "children": [],
+    "relations": [
+      {
+        "to": "judas-maccabeus",
+        "type": "defeated by",
+        "ref": "1ma 4:1-25"
+      },
+      {
+        "to": "lysias",
+        "type": "sent by",
+        "ref": "1ma 3:38"
+      }
+    ],
+    "search": {
+      "names": [
+        "Gorgias"
+      ],
+      "books": null
+    }
+  },
+  {
+    "id": "seron",
+    "name": "Seron",
+    "aliases": [],
+    "gender": "m",
+    "role": "Seleucid commander",
+    "era": "Maccabean",
+    "summary": "Commander of the army of Syria routed by Judas at the ascent of Beth-horon.",
+    "catholic": "",
+    "know": [
+      "Judas: 'victory in battle stands not in the multitude of an army' (1 Macc 3:19)."
+    ],
+    "keyPassages": [
+      "1ma 3:13-18",
+      "1ma 3:19-24"
+    ],
+    "father": null,
+    "mother": null,
+    "spouses": [],
+    "children": [],
+    "relations": [
+      {
+        "to": "judas-maccabeus",
+        "type": "defeated by",
+        "ref": "1ma 3:23"
+      }
+    ],
+    "search": {
+      "names": [
+        "Seron"
+      ],
+      "books": null
+    }
+  },
+  {
+    "id": "apollonius-governor-of-samaria",
+    "name": "Apollonius",
+    "aliases": [],
+    "gender": "m",
+    "role": "Seleucid commander",
+    "era": "Maccabean",
+    "summary": "The commander who gathered a Gentile army from Samaria against Israel and was killed by Judas, who took his sword and fought with it all his days. (Several other men named Apollonius appear in 1-2 Maccabees.)",
+    "catholic": "",
+    "know": [
+      "Judas used his sword for the rest of his life (1 Macc 3:12)."
+    ],
+    "keyPassages": [
+      "1ma 3:10-12"
+    ],
+    "father": null,
+    "mother": null,
+    "spouses": [],
+    "children": [],
+    "relations": [
+      {
+        "to": "judas-maccabeus",
+        "type": "killed by",
+        "ref": "1ma 3:11-12"
+      }
+    ],
+    "search": {
+      "names": [
+        "Apollonius"
+      ],
+      "books": [
+        "1ma:3"
+      ]
+    }
+  },
+  {
+    "id": "timotheus",
+    "name": "Timotheus",
+    "aliases": [],
+    "gender": "m",
+    "role": "Ammonite/Seleucid commander",
+    "era": "Maccabean",
+    "summary": "A commander of the Ammonites and of Gentile forces in Gilead repeatedly defeated by Judas; 2 Maccabees reports a Timotheus killed hiding in a cistern at Gazara.",
+    "catholic": "",
+    "know": [
+      "Defeated across the Jordan (1 Macc 5:6-8; 5:37-44).",
+      "The Timotheus of 2 Maccabees may be one or more men."
+    ],
+    "keyPassages": [
+      "1ma 5:6-13",
+      "1ma 5:34-44",
+      "2ma 8:30-32",
+      "2ma 10:24-37",
+      "2ma 12:2-25"
+    ],
+    "father": null,
+    "mother": null,
+    "spouses": [],
+    "children": [],
+    "relations": [
+      {
+        "to": "judas-maccabeus",
+        "type": "defeated by",
+        "ref": "1ma 5:43"
+      }
+    ],
+    "search": {
+      "names": [
+        "Timotheus"
+      ],
+      "books": [
+        "1ma",
+        "2ma"
+      ]
+    }
+  },
+  {
+    "id": "job",
+    "name": "Job",
+    "aliases": [],
+    "gender": "m",
+    "role": "Righteous sufferer",
+    "era": "Patriarchs",
+    "summary": "A blameless and upright man of the land of Uz, the greatest of the people of the east. With God's permission Satan stripped him of his possessions, his ten children and his health. Job refused to curse God, but in long poetic dialogues with his three friends he protested his innocence and demanded an answer. God spoke from the whirlwind, Job repented in dust and ashes, interceded for his friends and was restored twofold.",
+    "catholic": "The Church reads Job as the great biblical meditation on innocent suffering. St John Paul II's Salvifici Doloris (1984) uses Job to show that suffering is not always punishment for sin, and that its full meaning is revealed only in the Cross of Christ. The Fathers, especially St Gregory the Great in his Moralia on Job, saw him as a figure of the suffering Christ and of the Church. His cry 'I know that my Redeemer lives' (Job 19:25) is one of the readings offered for funeral Masses, and the traditional Office of the Dead takes its readings from Job. James 5:11 holds up 'the perseverance of Job', and Ezekiel names him with Noah and Daniel as a model of righteousness. The Roman Martyrology commemorates him on May 10.",
+    "know": [
+      "'The LORD gave, and the LORD has taken away. Blessed be the LORD's name' (Job 1:21).",
+      "'I know that my Redeemer lives' (Job 19:25).",
+      "God answers from the whirlwind (Job 38-41).",
+      "Prayed for his friends and was restored twofold (Job 42:8-10).",
+      "Named with Noah and Daniel (Ezek 14:14) and praised for perseverance (Jas 5:11)."
+    ],
+    "keyPassages": [
+      "job 1:1-22",
+      "job 2:1-10",
+      "job 3:1-26",
+      "job 19:23-27",
+      "job 38:1-11",
+      "job 42:1-17",
+      "ezk 14:14",
+      "jas 5:11"
+    ],
+    "father": null,
+    "mother": null,
+    "spouses": [
+      "wife-of-job"
+    ],
+    "children": [
+      "jemimah",
+      "keziah",
+      "keren-happuch"
+    ],
+    "relations": [
+      {
+        "to": "eliphaz-the-temanite",
+        "type": "comforted by",
+        "ref": "job 2:11"
+      },
+      {
+        "to": "bildad",
+        "type": "comforted by",
+        "ref": "job 2:11"
+      },
+      {
+        "to": "zophar",
+        "type": "comforted by",
+        "ref": "job 2:11"
+      },
+      {
+        "to": "elihu-son-of-barachel",
+        "type": "rebuked by",
+        "ref": "job 32:2"
+      },
+      {
+        "to": "noah",
+        "type": "named with",
+        "ref": "ezk 14:14"
+      },
+      {
+        "to": "daniel",
+        "type": "named with",
+        "ref": "ezk 14:14"
+      }
+    ],
+    "search": {
+      "names": [
+        "Job"
+      ],
+      "books": [
+        "job",
+        "ezk:14",
+        "jas:5"
+      ]
+    },
+    "feast": "May 10"
+  },
+  {
+    "id": "wife-of-job",
+    "name": "Job's wife",
+    "aliases": [],
+    "gender": "f",
+    "role": "Wife of Job",
+    "era": "Patriarchs",
+    "summary": "Job's unnamed wife, who in his affliction told him, 'Do you still maintain your integrity? Renounce God, and die.' Job rebuked her: 'Shall we receive good at the hand of God, and shall we not receive evil?'",
+    "catholic": "Her words are often read as the voice of temptation in suffering (St Augustine called her the devil's helper), though later writers have also pointed out that she too had lost all ten children. Job's reply is a classic expression of trusting acceptance of God's will.",
+    "know": [
+      "Unnamed in Scripture.",
+      "Urged Job to curse God (Job 2:9).",
+      "Mentioned again in Job 19:17."
+    ],
+    "keyPassages": [
+      "job 2:9-10",
+      "job 19:17"
+    ],
+    "father": null,
+    "mother": null,
+    "spouses": [
+      "job"
+    ],
+    "children": [
+      "jemimah",
+      "keziah",
+      "keren-happuch"
+    ],
+    "relations": [],
+    "search": {
+      "names": [],
+      "books": [
+        "job"
+      ]
+    }
+  },
+  {
+    "id": "eliphaz-the-temanite",
+    "name": "Eliphaz the Temanite",
+    "aliases": [],
+    "gender": "m",
+    "role": "Friend of Job",
+    "era": "Patriarchs",
+    "summary": "The first and senior of Job's three friends, from Teman in Edom. He argued that the innocent never perish and that Job must have sinned, appealing to a mysterious night vision. God told him that he and his friends had not spoken rightly of him, and they were forgiven only through Job's prayer.",
+    "catholic": "The friends illustrate a too-simple theology of retribution that the book corrects; their pardon through Job's intercession and sacrifice (Job 42:8-9) has been read as a figure of Christ's priestly intercession.",
+    "know": [
+      "Speaks in Job 4-5, 15, 22.",
+      "Rebuked by God (Job 42:7).",
+      "Not to be confused with Esau's son Eliphaz."
+    ],
+    "keyPassages": [
+      "job 2:11-13",
+      "job 4:1-21",
+      "job 22:1-30",
+      "job 42:7-9"
+    ],
+    "father": null,
+    "mother": null,
+    "spouses": [],
+    "children": [],
+    "relations": [
+      {
+        "to": "job",
+        "type": "friend of",
+        "ref": "job 2:11"
+      }
+    ],
+    "search": {
+      "names": [
+        "Eliphaz"
+      ],
+      "books": [
+        "job"
+      ]
+    }
+  },
+  {
+    "id": "bildad",
+    "name": "Bildad the Shuhite",
+    "aliases": [],
+    "gender": "m",
+    "role": "Friend of Job",
+    "era": "Patriarchs",
+    "summary": "The second of Job's friends, who defended the tradition of the ancients and insisted that God does not reject the blameless, implying Job's children died for their sins.",
+    "catholic": "",
+    "know": [
+      "Speaks in Job 8, 18, 25.",
+      "Rebuked by God (Job 42:7-9)."
+    ],
+    "keyPassages": [
+      "job 2:11",
+      "job 8:1-22",
+      "job 18:1-21",
+      "job 42:9"
+    ],
+    "father": null,
+    "mother": null,
+    "spouses": [],
+    "children": [],
+    "relations": [
+      {
+        "to": "job",
+        "type": "friend of",
+        "ref": "job 2:11"
+      }
+    ],
+    "search": {
+      "names": [
+        "Bildad"
+      ],
+      "books": null
+    }
+  },
+  {
+    "id": "zophar",
+    "name": "Zophar the Naamathite",
+    "aliases": [],
+    "gender": "m",
+    "role": "Friend of Job",
+    "era": "Patriarchs",
+    "summary": "The third of Job's friends, the bluntest, who told Job that God was punishing him less than his guilt deserved.",
+    "catholic": "",
+    "know": [
+      "Speaks in Job 11 and 20.",
+      "Rebuked by God (Job 42:7-9)."
+    ],
+    "keyPassages": [
+      "job 2:11",
+      "job 11:1-20",
+      "job 20:1-29",
+      "job 42:9"
+    ],
+    "father": null,
+    "mother": null,
+    "spouses": [],
+    "children": [],
+    "relations": [
+      {
+        "to": "job",
+        "type": "friend of",
+        "ref": "job 2:11"
+      }
+    ],
+    "search": {
+      "names": [
+        "Zophar"
+      ],
+      "books": null
+    }
+  },
+  {
+    "id": "elihu-son-of-barachel",
+    "name": "Elihu son of Barachel",
+    "aliases": [],
+    "gender": "m",
+    "role": "Young speaker",
+    "era": "Patriarchs",
+    "summary": "A young Buzite who, angry at Job for justifying himself and at the friends for having no answer, delivered four speeches stressing that God teaches through suffering and is beyond human judgment. He is neither answered by Job nor rebuked by God.",
+    "catholic": "Elihu's insight that suffering can be a discipline that instructs and saves (Job 33:14-30; 36:15) prepares for the Christian understanding of the medicinal and purifying value of trials.",
+    "know": [
+      "Son of Barachel the Buzite, of the family of Ram (Job 32:2).",
+      "Speaks in Job 32-37."
+    ],
+    "keyPassages": [
+      "job 32:1-22",
+      "job 33:14-30",
+      "job 36:1-16"
+    ],
+    "father": "barachel",
+    "mother": null,
+    "spouses": [],
+    "children": [],
+    "relations": [
+      {
+        "to": "job",
+        "type": "rebuked",
+        "ref": "job 32:2"
+      }
+    ],
+    "search": {
+      "names": [
+        "Elihu"
+      ],
+      "books": [
+        "job"
+      ]
+    }
+  },
+  {
+    "id": "barachel",
+    "name": "Barachel",
+    "aliases": [],
+    "gender": "m",
+    "role": "Father of Elihu",
+    "era": "Patriarchs",
+    "summary": "The Buzite father of Elihu.",
+    "catholic": "",
+    "know": [
+      "Known only as Elihu's father."
+    ],
+    "keyPassages": [
+      "job 32:2",
+      "job 32:6"
+    ],
+    "father": null,
+    "mother": null,
+    "spouses": [],
+    "children": [
+      "elihu-son-of-barachel"
+    ],
+    "relations": [],
+    "search": {
+      "names": [
+        "Barachel"
+      ],
+      "books": null
+    }
+  },
+  {
+    "id": "jemimah",
+    "name": "Jemimah",
+    "aliases": [],
+    "gender": "f",
+    "role": "Daughter of Job",
+    "era": "Patriarchs",
+    "summary": "The first of the three daughters born to Job after his restoration; Job's daughters were the most beautiful in the land and received an inheritance with their brothers.",
+    "catholic": "",
+    "know": [
+      "Name often taken to mean 'dove'.",
+      "Received an inheritance (Job 42:15)."
+    ],
+    "keyPassages": [
+      "job 42:13-15"
+    ],
+    "father": "job",
+    "mother": "wife-of-job",
+    "spouses": [],
+    "children": [],
+    "relations": [],
+    "search": {
+      "names": [
+        "Jemimah"
+      ],
+      "books": null
+    }
+  },
+  {
+    "id": "keziah",
+    "name": "Keziah",
+    "aliases": [],
+    "gender": "f",
+    "role": "Daughter of Job",
+    "era": "Patriarchs",
+    "summary": "Job's second daughter after his restoration (her name means 'cassia', a fragrant spice).",
+    "catholic": "",
+    "know": [
+      "Received an inheritance with her brothers (Job 42:15)."
+    ],
+    "keyPassages": [
+      "job 42:14-15"
+    ],
+    "father": "job",
+    "mother": "wife-of-job",
+    "spouses": [],
+    "children": [],
+    "relations": [],
+    "search": {
+      "names": [
+        "Keziah"
+      ],
+      "books": null
+    }
+  },
+  {
+    "id": "keren-happuch",
+    "name": "Keren Happuch",
+    "aliases": [],
+    "gender": "f",
+    "role": "Daughter of Job",
+    "era": "Patriarchs",
+    "summary": "Job's third daughter after his restoration (the name means 'horn of eye-paint').",
+    "catholic": "",
+    "know": [
+      "Received an inheritance with her brothers (Job 42:15)."
+    ],
+    "keyPassages": [
+      "job 42:14-15"
+    ],
+    "father": "job",
+    "mother": "wife-of-job",
+    "spouses": [],
+    "children": [],
+    "relations": [],
+    "search": {
+      "names": [
+        "Keren Happuch"
+      ],
+      "books": null
+    }
+  },
+  {
+    "id": "agur",
+    "name": "Agur son of Jakeh",
+    "aliases": [],
+    "gender": "m",
+    "role": "Sage",
+    "era": "United Monarchy",
+    "summary": "The otherwise unknown sage to whom Proverbs 30 is attributed, who confesses his ignorance of the Holy One and asks God for 'neither poverty nor riches'.",
+    "catholic": "Agur's question 'What is his name, and what is his son's name?' (Prov 30:4) has long been read by Christians as a veiled pointer to the Son of God. His prayer for 'neither poverty nor riches' (Prov 30:8-9) is a classic of Christian teaching on detachment and daily bread.",
+    "know": [
+      "Author of Proverbs 30.",
+      "Era unknown; placed here with the wisdom tradition."
+    ],
+    "keyPassages": [
+      "pro 30:1-5",
+      "pro 30:6-9"
+    ],
+    "father": "jakeh",
+    "mother": null,
+    "spouses": [],
+    "children": [],
+    "relations": [
+      {
+        "to": "lemuel",
+        "type": "fellow contributor to Proverbs with",
+        "ref": "pro 31:1"
+      }
+    ],
+    "search": {
+      "names": [
+        "Agur"
+      ],
+      "books": null
+    }
+  },
+  {
+    "id": "jakeh",
+    "name": "Jakeh",
+    "aliases": [],
+    "gender": "m",
+    "role": "Father of Agur",
+    "era": "United Monarchy",
+    "summary": "Father of the sage Agur.",
+    "catholic": "",
+    "know": [
+      "Known only from Prov 30:1."
+    ],
+    "keyPassages": [
+      "pro 30:1"
+    ],
+    "father": null,
+    "mother": null,
+    "spouses": [],
+    "children": [
+      "agur"
+    ],
+    "relations": [],
+    "search": {
+      "names": [
+        "Jakeh"
+      ],
+      "books": null
+    }
+  },
+  {
+    "id": "lemuel",
+    "name": "King Lemuel",
+    "aliases": [],
+    "gender": "m",
+    "role": "King and sage",
+    "era": "United Monarchy",
+    "summary": "An otherwise unknown king to whom Proverbs 31 is attributed, recording 'the revelation which his mother taught him' — advice against wine and women's wiles, a charge to defend the poor, and (probably) the poem of the capable wife.",
+    "catholic": "The poem of the 'worthy woman' (Prov 31:10-31) that closes Proverbs is read in the Church as a portrait of holy womanhood and has been applied to the Church and to Mary; it is read in the Lectionary (e.g. 33rd Sunday in Ordinary Time, Year A).",
+    "know": [
+      "Author of Proverbs 31 (at least 31:1-9).",
+      "Taught by his mother (Prov 31:1)."
+    ],
+    "keyPassages": [
+      "pro 31:1-9",
+      "pro 31:10-31"
+    ],
+    "father": null,
+    "mother": "mother-of-lemuel",
+    "spouses": [],
+    "children": [],
+    "relations": [
+      {
+        "to": "agur",
+        "type": "fellow contributor to Proverbs with",
+        "ref": "pro 30:1"
+      }
+    ],
+    "search": {
+      "names": [
+        "King Lemuel"
+      ],
+      "books": null
+    }
+  },
+  {
+    "id": "mother-of-lemuel",
+    "name": "Mother of King Lemuel",
+    "aliases": [],
+    "gender": "f",
+    "role": "Queen mother and teacher",
+    "era": "United Monarchy",
+    "summary": "The queen mother whose instruction to her son, King Lemuel, forms Proverbs 31 — one of the rare biblical passages of teaching voiced by a woman.",
+    "catholic": "",
+    "know": [
+      "Taught her son to speak for the voiceless (Prov 31:8-9)."
+    ],
+    "keyPassages": [
+      "pro 31:1-5",
+      "pro 31:6-9"
+    ],
+    "father": null,
+    "mother": null,
+    "spouses": [],
+    "children": [
+      "lemuel"
+    ],
+    "relations": [],
+    "search": {
+      "names": [],
+      "books": [
+        "pro:31"
+      ]
+    }
+  },
+  {
+    "id": "asaph",
+    "name": "Asaph",
+    "aliases": [],
+    "gender": "m",
+    "role": "Levite musician, psalmist",
+    "era": "United Monarchy",
+    "summary": "Asaph son of Berechiah, a Levite of the Gershonite line, was appointed by David as chief of the Temple singers with cymbals. Twelve psalms bear his name (Ps 50 and 73-83), and his descendants, 'the sons of Asaph', served as singers down to the return from exile. He is also called 'the seer'.",
+    "catholic": "The psalms of Asaph, prayed daily in the Liturgy of the Hours, include Psalm 50 on true sacrifice ('offer to God the sacrifice of thanksgiving') and Psalm 73, a meditation on the prosperity of the wicked resolved in the sanctuary. The 'sons of Asaph' singing at the founding of the Second Temple (Ezra 3:10) link him to the restoration. Note: psalm superscriptions are not included in this Bible text's verse data, and Catholic liturgical books often use the Greek/Latin psalm numbering (one lower for Ps 10-147).",
+    "know": [
+      "Son of Berechiah (1 Chr 6:39).",
+      "Chief of David's singers (1 Chr 16:5-7).",
+      "Psalms 50 and 73-83 bear his name.",
+      "Called 'Asaph the seer' (2 Chr 29:30).",
+      "His sons sang at the Temple's refounding (Ezra 3:10)."
+    ],
+    "keyPassages": [
+      "1ch 6:39",
+      "1ch 16:4-7",
+      "1ch 25:1-2",
+      "2ch 29:30",
+      "ezr 3:10",
+      "neh 12:46",
+      "psa 50:1-23",
+      "psa 73:1-28"
+    ],
+    "father": null,
+    "mother": null,
+    "spouses": [],
+    "children": [],
+    "relations": [
+      {
+        "to": "david",
+        "type": "appointed by",
+        "ref": "1ch 16:7"
+      },
+      {
+        "to": "heman-the-singer",
+        "type": "colleague of",
+        "ref": "1ch 15:17"
+      },
+      {
+        "to": "ethan-the-ezrahite",
+        "type": "colleague of",
+        "ref": "1ch 15:19"
+      },
+      {
+        "to": "jeduthun",
+        "type": "colleague of",
+        "ref": "1ch 25:1"
+      }
+    ],
+    "search": {
+      "names": [
+        "Asaph"
+      ],
+      "books": null
+    }
+  },
+  {
+    "id": "heman-the-singer",
+    "name": "Heman",
+    "aliases": [],
+    "gender": "m",
+    "role": "Levite singer, sage",
+    "era": "United Monarchy",
+    "summary": "Heman son of Joel, grandson of the prophet Samuel, of the Korahite clan of Kohath, was one of David's three chief Temple musicians and 'the king's seer'. Psalm 88, the darkest lament of the Psalter, is ascribed to 'Heman the Ezrahite', and 1 Kings names a Heman among the wise men surpassed by Solomon (whether these are the same man is debated).",
+    "catholic": "Psalm 88 ('my soul is full of troubles, my life draws near to Sheol') is prayed at Night Prayer (Compline) on Fridays in the Liturgy of the Hours, the day of the Passion, and has been read as the prayer of Christ in the darkness of death.",
+    "know": [
+      "Grandson of Samuel (1 Chr 6:33).",
+      "Fourteen sons and three daughters (1 Chr 25:5).",
+      "Psalm 88 bears his name.",
+      "Named among the wise in 1 Kgs 4:31."
+    ],
+    "keyPassages": [
+      "1ch 6:33-38",
+      "1ch 15:17-19",
+      "1ch 25:1-6",
+      "1ki 4:31",
+      "psa 88:1-18"
+    ],
+    "father": null,
+    "mother": null,
+    "spouses": [],
+    "children": [],
+    "relations": [
+      {
+        "to": "samuel",
+        "type": "grandson of",
+        "ref": "1ch 6:33"
+      },
+      {
+        "to": "korah",
+        "type": "descendant of",
+        "ref": "1ch 6:37"
+      },
+      {
+        "to": "asaph",
+        "type": "colleague of",
+        "ref": "1ch 15:17"
+      },
+      {
+        "to": "david",
+        "type": "seer of",
+        "ref": "1ch 25:5"
+      }
+    ],
+    "search": {
+      "names": [
+        "Heman"
+      ],
+      "books": [
+        "1ki:4",
+        "1ch:6",
+        "1ch:15-16",
+        "1ch:25",
+        "2ch:5",
+        "2ch:29",
+        "2ch:35"
+      ]
+    }
+  },
+  {
+    "id": "ethan-the-ezrahite",
+    "name": "Ethan the Ezrahite",
+    "aliases": [],
+    "gender": "m",
+    "role": "Levite singer, sage",
+    "era": "United Monarchy",
+    "summary": "A Merarite Levite musician appointed under David with Heman and Asaph, and one of the wise men whom Solomon surpassed. Psalm 89, on God's covenant with David and its apparent failure, is ascribed to him.",
+    "catholic": "Psalm 89 ('I have made a covenant with my chosen one', Ps 89:3) is a central text for the Church's reading of Christ as the eternal Son of David; it is sung at Christmas Vigil and on the solemnity of St Joseph.",
+    "know": [
+      "Son of Kishi/Kushaiah, of Merari (1 Chr 6:44; 15:17).",
+      "Psalm 89 bears his name.",
+      "Named in 1 Kgs 4:31.",
+      "Possibly identical with Jeduthun."
+    ],
+    "keyPassages": [
+      "1ki 4:31",
+      "1ch 6:44",
+      "1ch 15:17-19",
+      "psa 89:1-4",
+      "psa 89:19-37"
+    ],
+    "father": null,
+    "mother": null,
+    "spouses": [],
+    "children": [],
+    "relations": [
+      {
+        "to": "asaph",
+        "type": "colleague of",
+        "ref": "1ch 15:19"
+      },
+      {
+        "to": "heman-the-singer",
+        "type": "colleague of",
+        "ref": "1ch 15:19"
+      },
+      {
+        "to": "solomon",
+        "type": "surpassed in wisdom by",
+        "ref": "1ki 4:31"
+      }
+    ],
+    "search": {
+      "names": [
+        "Ethan"
+      ],
+      "books": [
+        "1ki:4",
+        "1ch:6",
+        "1ch:15"
+      ]
+    }
+  },
+  {
+    "id": "jeduthun",
+    "name": "Jeduthun",
+    "aliases": [],
+    "gender": "m",
+    "role": "Levite musician",
+    "era": "United Monarchy",
+    "summary": "One of David's three heads of Temple music with Asaph and Heman, whose sons prophesied with the harp; Psalms 39, 62 and 77 mention him in their titles.",
+    "catholic": "",
+    "know": [
+      "Possibly the same as Ethan.",
+      "His sons prophesied with harps (1 Chr 25:3)."
+    ],
+    "keyPassages": [
+      "1ch 16:41-42",
+      "1ch 25:1-3",
+      "2ch 5:12"
+    ],
+    "father": null,
+    "mother": null,
+    "spouses": [],
+    "children": [],
+    "relations": [
+      {
+        "to": "asaph",
+        "type": "colleague of",
+        "ref": "1ch 25:1"
+      },
+      {
+        "to": "heman-the-singer",
+        "type": "colleague of",
+        "ref": "1ch 25:1"
+      }
+    ],
+    "search": {
+      "names": [
+        "Jeduthun"
+      ],
+      "books": null
+    }
+  },
+  {
+    "id": "sons-of-korah",
+    "name": "Sons of Korah",
+    "aliases": [],
+    "gender": "m",
+    "role": "Levite singers (group)",
+    "era": "United Monarchy",
+    "summary": "The Levite descendants of Korah, who survived their ancestor's rebellion and served as Temple gatekeepers and singers. Eleven psalms bear their name (Ps 42-49 and 84, 85, 87, 88), among them 'As the deer pants for the water brooks' and 'How lovely are your dwellings'.",
+    "catholic": "The Korahite psalms are beloved in Catholic liturgy: Psalm 43 (42 in the Vulgate, a continuation of the Korahite Psalm 42) opened the traditional prayers at the foot of the altar ('I will go to the altar of God'), and Psalm 84 expresses longing for God's house. That the sons of a rebel became singers of praise is a sign of God's mercy across generations.",
+    "know": [
+      "Group entry.",
+      "Survived Korah's rebellion (Num 26:11).",
+      "Gatekeepers of the tent (1 Chr 9:19).",
+      "Psalms 42-49, 84-85, 87-88 bear their name.",
+      "Heman the singer was of this family."
+    ],
+    "keyPassages": [
+      "num 26:11",
+      "1ch 9:19",
+      "2ch 20:19",
+      "psa 42:1-11",
+      "psa 84:1-12"
+    ],
+    "father": null,
+    "mother": null,
+    "spouses": [],
+    "children": [],
+    "relations": [
+      {
+        "to": "korah",
+        "type": "descendants of",
+        "ref": "num 26:11"
+      },
+      {
+        "to": "heman-the-singer",
+        "type": "includes",
+        "ref": "1ch 6:33-37"
+      }
+    ],
+    "search": {
+      "names": [
+        "Korahites"
+      ],
+      "books": null
+    }
+  },
+  {
+    "id": "ben-sira",
+    "name": "Jesus son of Sirach",
+    "aliases": [
+      "Ben Sira",
+      "Sirach"
+    ],
+    "gender": "m",
+    "role": "Sage, scribe",
+    "era": "Maccabean",
+    "summary": "Jesus (Yeshua) son of Eleazar son of Sirach, a scribe and teacher of wisdom in Jerusalem around 190-180 BC, wrote the book of Sirach, whose Greek translation was made by his grandson in Egypt. His book unites wisdom with the Law and Temple worship and closes with the great 'praise of the fathers' (Sir 44-50), from Enoch to the high priest Simon son of Onias.",
+    "catholic": "Sirach is a deuterocanonical book, received in the Church's canon (Rome 382, Carthage 397, Trent 1546). Its Latin name Ecclesiasticus ('the Church's book') reflects its constant use in teaching catechumens and the faithful, and it is read often in the Lectionary. Its portrait of Wisdom dwelling in Israel (Sir 24) prepares for John's prologue ('the Word became flesh and dwelt among us'), and its 'praise of the fathers' is a model for Hebrews 11.",
+    "know": [
+      "Signs his book in Sir 50:27.",
+      "Book also called Ecclesiasticus.",
+      "His grandson's translator's prologue is not versified in this text.",
+      "The 'praise of the fathers' omits Ezra but includes Nehemiah (Sir 49:13)."
+    ],
+    "keyPassages": [
+      "sir 24:1-22",
+      "sir 44:1-15",
+      "sir 50:1-21",
+      "sir 50:27-29",
+      "sir 51:13-30"
+    ],
+    "father": null,
+    "mother": null,
+    "spouses": [],
+    "children": [],
+    "relations": [
+      {
+        "to": "enoch",
+        "type": "praised",
+        "ref": "sir 44:16"
+      },
+      {
+        "to": "noah",
+        "type": "praised",
+        "ref": "sir 44:17"
+      },
+      {
+        "to": "abraham",
+        "type": "praised",
+        "ref": "sir 44:19"
+      },
+      {
+        "to": "isaac",
+        "type": "praised",
+        "ref": "sir 44:22"
+      },
+      {
+        "to": "jacob",
+        "type": "praised",
+        "ref": "sir 44:23"
+      },
+      {
+        "to": "moses",
+        "type": "praised",
+        "ref": "sir 45:1"
+      },
+      {
+        "to": "aaron",
+        "type": "praised",
+        "ref": "sir 45:6"
+      },
+      {
+        "to": "phinehas-son-of-eleazar",
+        "type": "praised",
+        "ref": "sir 45:23"
+      },
+      {
+        "to": "joshua",
+        "type": "praised",
+        "ref": "sir 46:1"
+      },
+      {
+        "to": "caleb",
+        "type": "praised",
+        "ref": "sir 46:7-9"
+      },
+      {
+        "to": "samuel",
+        "type": "praised",
+        "ref": "sir 46:13"
+      },
+      {
+        "to": "nathan-prophet",
+        "type": "praised",
+        "ref": "sir 47:1"
+      },
+      {
+        "to": "david",
+        "type": "praised",
+        "ref": "sir 47:2"
+      },
+      {
+        "to": "solomon",
+        "type": "praised",
+        "ref": "sir 47:13"
+      },
+      {
+        "to": "elijah",
+        "type": "praised",
+        "ref": "sir 48:1-11"
+      },
+      {
+        "to": "elisha",
+        "type": "praised",
+        "ref": "sir 48:12"
+      },
+      {
+        "to": "hezekiah",
+        "type": "praised",
+        "ref": "sir 48:17"
+      },
+      {
+        "to": "isaiah",
+        "type": "praised",
+        "ref": "sir 48:22"
+      },
+      {
+        "to": "josiah",
+        "type": "praised",
+        "ref": "sir 49:1"
+      },
+      {
+        "to": "jeremiah",
+        "type": "praised",
+        "ref": "sir 49:6-7"
+      },
+      {
+        "to": "ezekiel",
+        "type": "praised",
+        "ref": "sir 49:8"
+      },
+      {
+        "to": "zerubbabel",
+        "type": "praised",
+        "ref": "sir 49:11"
+      },
+      {
+        "to": "jeshua-high-priest",
+        "type": "praised",
+        "ref": "sir 49:12"
+      },
+      {
+        "to": "nehemiah",
+        "type": "praised",
+        "ref": "sir 49:13"
+      },
+      {
+        "to": "joseph-son-of-jacob",
+        "type": "praised",
+        "ref": "sir 49:15"
+      },
+      {
+        "to": "shem",
+        "type": "praised",
+        "ref": "sir 49:16"
+      },
+      {
+        "to": "seth",
+        "type": "praised",
+        "ref": "sir 49:16"
+      },
+      {
+        "to": "adam",
+        "type": "praised",
+        "ref": "sir 49:16"
+      },
+      {
+        "to": "simon-son-of-onias",
+        "type": "praised",
+        "ref": "sir 50:1"
+      }
+    ],
+    "search": {
+      "names": [
+        "Sirach"
+      ],
+      "books": [
+        "sir"
+      ]
+    }
+  },
+  {
+    "id": "joseph-son-of-zacharias",
+    "name": "Joseph son of Zacharias",
+    "aliases": [],
+    "gender": "m",
+    "role": "Jewish commander",
+    "era": "Maccabean",
+    "summary": "Left with Azarias to guard Judea while Judas and his brothers campaigned in Gilead and Galilee; seeking glory against orders, the two attacked Jamnia and were routed by Gorgias with the loss of two thousand men.",
+    "catholic": "1 Maccabees comments that 'they were not of the family of those men by whose hand deliverance was given to Israel' (1 Macc 5:62) — success depends on God's chosen instruments, not on the desire to 'get a name'.",
+    "know": [
+      "Defeated by Gorgias at Jamnia (1 Macc 5:59-60)."
+    ],
+    "keyPassages": [
+      "1ma 5:18-19",
+      "1ma 5:55-62"
+    ],
+    "father": null,
+    "mother": null,
+    "spouses": [],
+    "children": [],
+    "relations": [
+      {
+        "to": "azarias-commander",
+        "type": "co-commander with",
+        "ref": "1ma 5:18"
+      },
+      {
+        "to": "gorgias",
+        "type": "defeated by",
+        "ref": "1ma 5:59-60"
+      },
+      {
+        "to": "judas-maccabeus",
+        "type": "disobeyed",
+        "ref": "1ma 5:61"
+      }
+    ],
+    "search": {
+      "names": [
+        "Joseph"
+      ],
+      "books": [
+        "1ma:5"
+      ]
+    }
+  },
+  {
+    "id": "azarias-commander",
+    "name": "Azarias (commander)",
+    "aliases": [],
+    "gender": "m",
+    "role": "Jewish commander",
+    "era": "Maccabean",
+    "summary": "Joseph son of Zacharias' co-commander in Judea, defeated with him at Jamnia after disobeying Judas' orders.",
+    "catholic": "",
+    "know": [
+      "Not the angel Raphael's alias 'Azarias' in Tobit."
+    ],
+    "keyPassages": [
+      "1ma 5:18-19",
+      "1ma 5:55-62"
+    ],
+    "father": null,
+    "mother": null,
+    "spouses": [],
+    "children": [],
+    "relations": [
+      {
+        "to": "joseph-son-of-zacharias",
+        "type": "co-commander with",
+        "ref": "1ma 5:18"
+      },
+      {
+        "to": "gorgias",
+        "type": "defeated by",
+        "ref": "1ma 5:60"
+      }
+    ],
+    "search": {
+      "names": [
+        "Azarias"
+      ],
+      "books": [
+        "1ma:5"
+      ]
+    }
+  },
+  {
+    "id": "ptolemy-son-of-dorymenes",
+    "name": "Ptolemy son of Dorymenes",
+    "aliases": [],
+    "gender": "m",
+    "role": "Seleucid governor",
+    "era": "Maccabean",
+    "summary": "One of the generals Lysias chose against Judah and governor of Coelesyria and Phoenicia; Menelaus bribed him to sway Antiochus IV, and he promoted the decree forcing Greek cities to persecute the Jews.",
+    "catholic": "",
+    "know": [
+      "Chosen with Nicanor and Gorgias (1 Macc 3:38).",
+      "Bribed by Menelaus (2 Macc 4:45-47).",
+      "Urged the persecution decree (2 Macc 6:8)."
+    ],
+    "keyPassages": [
+      "1ma 3:38",
+      "2ma 4:45-47",
+      "2ma 6:8",
+      "2ma 8:8-9"
+    ],
+    "father": null,
+    "mother": null,
+    "spouses": [],
+    "children": [],
+    "relations": [
+      {
+        "to": "menelaus",
+        "type": "bribed by",
+        "ref": "2ma 4:45"
+      },
+      {
+        "to": "lysias",
+        "type": "chosen by",
+        "ref": "1ma 3:38"
+      },
+      {
+        "to": "nicanor",
+        "type": "appointed",
+        "ref": "2ma 8:9"
+      }
+    ],
+    "search": {
+      "names": [
+        "Ptolemy"
+      ],
+      "books": [
+        "1ma:3",
+        "2ma:4",
+        "2ma:6",
+        "2ma:8"
+      ]
+    }
+  },
+  {
+    "id": "philip-the-phrygian",
+    "name": "Philip the Phrygian",
+    "aliases": [],
+    "gender": "m",
+    "role": "Seleucid governor of Jerusalem",
+    "era": "Maccabean",
+    "summary": "The governor Antiochus IV left in Jerusalem, 'more barbarous than him who set him there', who burned Jews keeping the Sabbath in caves and called for reinforcements against Judas.",
+    "catholic": "",
+    "know": [
+      "Governor of Jerusalem (2 Macc 5:22).",
+      "Burned Sabbath-keepers in caves (2 Macc 6:11)."
+    ],
+    "keyPassages": [
+      "2ma 5:22",
+      "2ma 6:11",
+      "2ma 8:8"
+    ],
+    "father": null,
+    "mother": null,
+    "spouses": [],
+    "children": [],
+    "relations": [
+      {
+        "to": "antiochus-iv",
+        "type": "appointed by",
+        "ref": "2ma 5:22"
+      }
+    ],
+    "search": {
+      "names": [
+        "Philip"
+      ],
+      "books": [
+        "2ma:5-6",
+        "2ma:8"
+      ]
+    }
+  },
+  {
+    "id": "dositheus-captain",
+    "name": "Dositheus",
+    "aliases": [],
+    "gender": "m",
+    "role": "Captain under Judas",
+    "era": "Maccabean",
+    "summary": "With Sosipater, a captain of Judas Maccabeus who destroyed Timotheus' garrison and captured Timotheus but let him go. (A different Dositheus, a horseman of Bacenor's company, grappled with Gorgias, 2 Macc 12:35.)",
+    "catholic": "",
+    "know": [
+      "Captured and released Timotheus (2 Macc 12:24-25)."
+    ],
+    "keyPassages": [
+      "2ma 12:19-22",
+      "2ma 12:23-25"
+    ],
+    "father": null,
+    "mother": null,
+    "spouses": [],
+    "children": [],
+    "relations": [
+      {
+        "to": "judas-maccabeus",
+        "type": "captain of",
+        "ref": "2ma 12:19"
+      },
+      {
+        "to": "timotheus",
+        "type": "captured",
+        "ref": "2ma 12:24"
+      }
+    ],
+    "search": {
+      "names": [
+        "Dositheus"
+      ],
+      "books": [
+        "2ma:12"
+      ]
+    }
+  },
+  {
+    "id": "arius-king-of-sparta",
+    "name": "Arius king of the Spartans",
+    "aliases": [],
+    "gender": "m",
+    "role": "King of Sparta",
+    "era": "Maccabean",
+    "summary": "The Spartan king (Areus) whose earlier letter to the high priest Onias claimed kinship between Spartans and Jews as descendants of Abraham; Jonathan appealed to it in renewing friendship.",
+    "catholic": "",
+    "know": [
+      "Letter quoted in 1 Macc 12:20-23."
+    ],
+    "keyPassages": [
+      "1ma 12:7-8",
+      "1ma 12:19-23"
+    ],
+    "father": null,
+    "mother": null,
+    "spouses": [],
+    "children": [],
+    "relations": [
+      {
+        "to": "onias-i",
+        "type": "wrote to",
+        "ref": "1ma 12:20"
+      },
+      {
+        "to": "abraham",
+        "type": "claimed descent from",
+        "ref": "1ma 12:21"
+      }
+    ],
+    "search": {
+      "names": [
+        "Arius"
+      ],
+      "books": null
+    }
+  },
+  {
+    "id": "onias-i",
+    "name": "Onias the high priest (of Arius' letter)",
+    "aliases": [],
+    "gender": "m",
+    "role": "High Priest",
+    "era": "Maccabean",
+    "summary": "An earlier high priest named Onias (probably Onias I, c. 300 BC) who received Arius' letter of friendship from Sparta.",
+    "catholic": "",
+    "know": [
+      "Distinct from Onias III of 2 Maccabees."
+    ],
+    "keyPassages": [
+      "1ma 12:7-8",
+      "1ma 12:19-20"
+    ],
+    "father": null,
+    "mother": null,
+    "spouses": [],
+    "children": [],
+    "relations": [
+      {
+        "to": "arius-king-of-sparta",
+        "type": "received letter from",
+        "ref": "1ma 12:20"
+      }
+    ],
+    "search": {
+      "names": [
+        "Onias"
+      ],
+      "books": [
+        "1ma:12"
+      ]
+    }
+  },
+  {
+    "id": "arsaces",
+    "name": "Arsaces",
+    "aliases": [],
+    "gender": "m",
+    "role": "King of Persia and Media",
+    "era": "Maccabean",
+    "summary": "The Parthian king (Mithridates I) who captured Demetrius II when he invaded Media.",
+    "catholic": "",
+    "know": [
+      "'Arsaces' was the dynastic name of the Parthian kings."
+    ],
+    "keyPassages": [
+      "1ma 14:1-3",
+      "1ma 15:22"
+    ],
+    "father": null,
+    "mother": null,
+    "spouses": [],
+    "children": [],
+    "relations": [
+      {
+        "to": "demetrius-ii",
+        "type": "captured",
+        "ref": "1ma 14:3"
+      }
+    ],
+    "search": {
+      "names": [
+        "Arsaces"
+      ],
+      "books": null
+    }
+  },
+  {
+    "id": "zabdiel",
+    "name": "Zabdiel the Arabian",
+    "aliases": [],
+    "gender": "m",
+    "role": "Arab chieftain",
+    "era": "Maccabean",
+    "summary": "The Arab who beheaded the fugitive Alexander Balas and sent his head to Ptolemy VI.",
+    "catholic": "",
+    "know": [
+      "Killed Alexander Balas (1 Macc 11:17)."
+    ],
+    "keyPassages": [
+      "1ma 11:16-17"
+    ],
+    "father": null,
+    "mother": null,
+    "spouses": [],
+    "children": [],
+    "relations": [
+      {
+        "to": "alexander-balas",
+        "type": "beheaded",
+        "ref": "1ma 11:17"
+      }
+    ],
+    "search": {
+      "names": [
+        "Zabdiel"
+      ],
+      "books": null
+    }
+  },
+  {
+    "id": "numenius",
+    "name": "Numenius son of Antiochus",
+    "aliases": [],
+    "gender": "m",
+    "role": "Jewish envoy",
+    "era": "Maccabean",
+    "summary": "Jonathan's and later Simon's envoy to Rome and Sparta, who brought Rome a great gold shield and returned with letters guaranteeing Jewish independence.",
+    "catholic": "",
+    "know": [
+      "Envoy under both Jonathan and Simon."
+    ],
+    "keyPassages": [
+      "1ma 12:16-17",
+      "1ma 14:22-24",
+      "1ma 15:15-24"
+    ],
+    "father": null,
+    "mother": null,
+    "spouses": [],
+    "children": [],
+    "relations": [
+      {
+        "to": "jonathan-maccabeus",
+        "type": "envoy of",
+        "ref": "1ma 12:16"
+      },
+      {
+        "to": "simon-maccabeus",
+        "type": "envoy of",
+        "ref": "1ma 14:24"
+      }
+    ],
+    "search": {
+      "names": [
+        "Numenius"
+      ],
+      "books": null
+    }
+  },
+  {
+    "id": "jehohanan-son-of-eliashib",
+    "name": "Jehohanan son of Eliashib",
+    "aliases": [],
+    "gender": "m",
+    "role": "Priest",
+    "era": "Return & Restoration",
+    "summary": "Son of the priest Eliashib in whose Temple room Ezra fasted and mourned over the people's unfaithfulness; later lists name a Johanan in the high-priestly succession.",
+    "catholic": "",
+    "know": [
+      "Ezra mourned in his chamber (Ezra 10:6).",
+      "Probably the 'Johanan son of Eliashib' of Neh 12:22-23."
+    ],
+    "keyPassages": [
+      "ezr 10:6",
+      "neh 12:22-23"
+    ],
+    "father": "eliashib-high-priest",
+    "mother": null,
+    "spouses": [],
+    "children": [],
+    "relations": [
+      {
+        "to": "ezra",
+        "type": "hosted mourning",
+        "ref": "ezr 10:6"
+      }
+    ],
+    "search": {
+      "names": [
+        "Jehohanan",
+        "Johanan"
+      ],
+      "books": [
+        "ezr:10",
+        "neh:12"
+      ]
+    }
+  },
+  {
+    "id": "dositheus-priest",
+    "name": "Dositheus (bearer of the Purim letter)",
+    "aliases": [],
+    "gender": "m",
+    "role": "Priest and Levite",
+    "era": "Maccabean",
+    "summary": "According to the closing note of Greek Esther, Dositheus 'who said he was a priest and Levite' and his son Ptolemeus brought the Letter of Purim (the Greek Esther) to Egypt in the fourth year of Ptolemy and Cleopatra; it had been translated in Jerusalem by Lysimachus son of Ptolemeus.",
+    "catholic": "This colophon (Est 10:14 in this text) is a rare ancient note about how a biblical book was translated and transmitted.",
+    "know": [
+      "Named in the colophon of Greek Esther."
+    ],
+    "keyPassages": [
+      "est 10:14"
+    ],
+    "father": null,
+    "mother": null,
+    "spouses": [],
+    "children": [],
+    "relations": [
+      {
+        "to": "esther",
+        "type": "brought book of",
+        "ref": "est 10:14"
+      }
+    ],
+    "search": {
+      "names": [
+        "Dositheus"
+      ],
+      "books": [
+        "est"
+      ]
+    }
+  }
+]

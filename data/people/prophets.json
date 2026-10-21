@@ -1,0 +1,4209 @@
+[
+  {
+    "id": "isaiah",
+    "name": "Isaiah",
+    "aliases": [],
+    "gender": "m",
+    "role": "Prophet",
+    "era": "Divided Kingdom",
+    "summary": "Isaiah son of Amoz prophesied in Jerusalem in the days of Uzziah, Jotham, Ahaz and Hezekiah (8th century BC). Called in a vision of the thrice-holy Lord in the Temple, he urged King Ahaz to trust God rather than Assyria, gave him the sign of the virgin who would bear a son named Immanuel, and later strengthened Hezekiah during Sennacherib's siege and his illness. The book bearing his name also contains the Servant Songs and the great oracles of comfort and of the new Jerusalem.",
+    "catholic": "The Church reads Isaiah more than any other prophet in the liturgy, especially in Advent and Christmas; St Jerome called him an evangelist rather than a prophet. Isa 7:14 is read as the prophecy of the virginal conception of Christ (Mt 1:23; CCC 497), Isa 9 and 11 as the birth and Spirit-anointing of the Messiah (Isa 11:1-2 is the scriptural root of the seven gifts of the Holy Spirit, CCC 712, 1831), and the Suffering Servant of Isa 52:13-53:12 as Christ in his Passion (CCC 601, 713). The seraphim's 'Holy, holy, holy' (Isa 6:3) is sung in the Sanctus of every Mass, and Jesus opened his ministry by reading Isa 61:1-2 in Nazareth. Isaiah 54 and 55 are read at the Easter Vigil.",
+    "know": [
+      "Son of Amoz; called in a Temple vision of the seraphim crying 'Holy, holy, holy' (Isa 6).",
+      "Gave Ahaz the Immanuel sign: 'the virgin will conceive and bear a son' (Isa 7:14).",
+      "His sons' names were living prophecies: Shear-jashub ('a remnant will return') and Maher-shalal-hash-baz.",
+      "Counselled Hezekiah during the Assyrian siege and in his sickness (2 Kings 19-20).",
+      "Tradition holds he was martyred under Manasseh by being sawn in two (often linked to Heb 11:37)."
+    ],
+    "keyPassages": [
+      "isa 6:1-8",
+      "isa 7:10-17",
+      "isa 9:2-7",
+      "isa 11:1-10",
+      "isa 40:1-11",
+      "isa 52:13-53:12",
+      "isa 61:1-3",
+      "2ki 20:1-11"
+    ],
+    "father": "amoz",
+    "mother": null,
+    "spouses": [
+      "wife-of-isaiah"
+    ],
+    "children": [
+      "shear-jashub",
+      "maher-shalal-hash-baz"
+    ],
+    "relations": [
+      {
+        "to": "jesus",
+        "type": "prophesied",
+        "ref": "isa 7:14"
+      },
+      {
+        "to": "jesus",
+        "type": "prophesied",
+        "ref": "isa 52:13-53:12"
+      },
+      {
+        "to": "jesus",
+        "type": "prophesied",
+        "ref": "isa 9:6-7"
+      },
+      {
+        "to": "jesus",
+        "type": "prophesied",
+        "ref": "isa 11:1-2"
+      },
+      {
+        "to": "jesus",
+        "type": "read from Isaiah",
+        "ref": "luk 4:17-21"
+      },
+      {
+        "to": "mary-mother-of-jesus",
+        "type": "prophesied",
+        "ref": "isa 7:14"
+      },
+      {
+        "to": "john-the-baptist",
+        "type": "prophesied",
+        "ref": "isa 40:3"
+      },
+      {
+        "to": "uzziah",
+        "type": "prophesied in the reign of",
+        "ref": "isa 6:1"
+      },
+      {
+        "to": "jotham",
+        "type": "prophesied in the reign of",
+        "ref": "isa 1:1"
+      },
+      {
+        "to": "ahaz",
+        "type": "gave a sign to",
+        "ref": "isa 7:10-14"
+      },
+      {
+        "to": "hezekiah",
+        "type": "counselled",
+        "ref": "isa 37:21-35"
+      },
+      {
+        "to": "hezekiah",
+        "type": "foretold healing of",
+        "ref": "isa 38:1-8"
+      },
+      {
+        "to": "cyrus",
+        "type": "prophesied",
+        "ref": "isa 45:1"
+      },
+      {
+        "to": "philip-the-evangelist",
+        "type": "read by the Ethiopian with",
+        "ref": "act 8:30-35"
+      },
+      {
+        "to": "eliakim-son-of-hilkiah",
+        "type": "prophesied about",
+        "ref": "isa 22:20-23"
+      },
+      {
+        "to": "shebna",
+        "type": "rebuked",
+        "ref": "isa 22:15-19"
+      }
+    ],
+    "search": {
+      "names": [
+        "Isaiah"
+      ],
+      "books": [
+        "isa",
+        "2ki:19-20",
+        "2ch:26",
+        "2ch:32",
+        "sir:48",
+        "mat",
+        "mrk",
+        "luk",
+        "jhn",
+        "act",
+        "rom"
+      ]
+    }
+  },
+  {
+    "id": "amoz",
+    "name": "Amoz",
+    "aliases": [],
+    "gender": "m",
+    "role": "Father of Isaiah",
+    "era": "Divided Kingdom",
+    "summary": "Amoz is named only as the father of the prophet Isaiah.",
+    "catholic": "",
+    "know": [
+      "Not to be confused with the prophet Amos — the names differ in Hebrew."
+    ],
+    "keyPassages": [
+      "isa 1:1",
+      "2ki 19:2"
+    ],
+    "father": null,
+    "mother": null,
+    "spouses": [],
+    "children": [
+      "isaiah"
+    ],
+    "relations": [],
+    "search": {
+      "names": [
+        "Amoz"
+      ],
+      "books": null
+    }
+  },
+  {
+    "id": "wife-of-isaiah",
+    "name": "The prophetess (Isaiah's wife)",
+    "aliases": [],
+    "gender": "f",
+    "role": "Prophetess",
+    "era": "Divided Kingdom",
+    "summary": "Isaiah calls his wife 'the prophetess'; she bore him Maher-shalal-hash-baz, whose name was a sign of Assyria's coming plunder of Damascus and Samaria.",
+    "catholic": "",
+    "know": [
+      "Unnamed in Scripture; called 'the prophetess' (Isa 8:3)."
+    ],
+    "keyPassages": [
+      "isa 8:3-4"
+    ],
+    "father": null,
+    "mother": null,
+    "spouses": [
+      "isaiah"
+    ],
+    "children": [
+      "maher-shalal-hash-baz"
+    ],
+    "relations": [],
+    "search": {
+      "names": [],
+      "books": [
+        "isa:8"
+      ]
+    }
+  },
+  {
+    "id": "shear-jashub",
+    "name": "Shear-jashub",
+    "aliases": [],
+    "gender": "m",
+    "role": "Son of Isaiah",
+    "era": "Divided Kingdom",
+    "summary": "Isaiah's son, who went with his father to meet King Ahaz at the upper pool. His name means 'a remnant will return', a living sign of Isaiah's message.",
+    "catholic": "His name embodies the prophetic theme of the faithful remnant, which the Church sees fulfilled in those who receive Christ (cf. Rom 9:27, 11:5).",
+    "know": [
+      "Name means 'a remnant shall return'.",
+      "Accompanied Isaiah to meet Ahaz (Isa 7:3).",
+      "Isaiah says he and his children are 'for signs' in Israel (Isa 8:18)."
+    ],
+    "keyPassages": [
+      "isa 7:3",
+      "isa 8:18",
+      "isa 10:20-22"
+    ],
+    "father": "isaiah",
+    "mother": null,
+    "spouses": [],
+    "children": [],
+    "relations": [],
+    "search": {
+      "names": [
+        "Shearjashub"
+      ],
+      "books": [
+        "isa"
+      ]
+    }
+  },
+  {
+    "id": "maher-shalal-hash-baz",
+    "name": "Maher-shalal-hash-baz",
+    "aliases": [],
+    "gender": "m",
+    "role": "Son of Isaiah",
+    "era": "Divided Kingdom",
+    "summary": "Second named son of Isaiah, born to 'the prophetess'. His name ('swift is the spoil, speedy the plunder') announced that Assyria would plunder Damascus and Samaria before he could say 'my father'.",
+    "catholic": "",
+    "know": [
+      "Longest personal name in the Bible.",
+      "Name was first written on a tablet before witnesses (Isa 8:1-2).",
+      "A sign that Syria and Israel, Ahaz's enemies, would fall to Assyria."
+    ],
+    "keyPassages": [
+      "isa 8:1-4",
+      "isa 8:18"
+    ],
+    "father": "isaiah",
+    "mother": "wife-of-isaiah",
+    "spouses": [],
+    "children": [],
+    "relations": [],
+    "search": {
+      "names": [
+        "Maher Shalal Hash Baz"
+      ],
+      "books": [
+        "isa"
+      ]
+    }
+  },
+  {
+    "id": "uriah-the-priest",
+    "name": "Uriah the priest",
+    "aliases": [],
+    "gender": "m",
+    "role": "Priest",
+    "era": "Divided Kingdom",
+    "summary": "Uriah the priest was one of the two 'faithful witnesses' Isaiah took when he wrote 'Maher Shalal Hash Baz' on a tablet.",
+    "catholic": "",
+    "know": [
+      "Probably the same as Urijah the priest who built Ahaz's Damascus-style altar (2 Kings 16:10-16)."
+    ],
+    "keyPassages": [
+      "isa 8:2"
+    ],
+    "father": null,
+    "mother": null,
+    "spouses": [],
+    "children": [],
+    "relations": [
+      {
+        "to": "isaiah",
+        "type": "witness for",
+        "ref": "isa 8:2"
+      }
+    ],
+    "search": {
+      "names": [
+        "Uriah"
+      ],
+      "books": [
+        "isa:8"
+      ]
+    }
+  },
+  {
+    "id": "zechariah-son-of-jeberechiah",
+    "name": "Zechariah son of Jeberechiah",
+    "aliases": [],
+    "gender": "m",
+    "role": "Witness",
+    "era": "Divided Kingdom",
+    "summary": "The second of Isaiah's two faithful witnesses to the tablet inscribed 'Maher Shalal Hash Baz'.",
+    "catholic": "",
+    "know": [
+      "Not the post-exilic prophet Zechariah."
+    ],
+    "keyPassages": [
+      "isa 8:2"
+    ],
+    "father": null,
+    "mother": null,
+    "spouses": [],
+    "children": [],
+    "relations": [
+      {
+        "to": "isaiah",
+        "type": "witness for",
+        "ref": "isa 8:2"
+      }
+    ],
+    "search": {
+      "names": [
+        "Zechariah"
+      ],
+      "books": [
+        "isa:8"
+      ]
+    }
+  },
+  {
+    "id": "eliakim-son-of-hilkiah",
+    "name": "Eliakim son of Hilkiah",
+    "aliases": [],
+    "gender": "m",
+    "role": "Steward of the royal house",
+    "era": "Divided Kingdom",
+    "summary": "Eliakim was 'over the household' of King Hezekiah. Isaiah prophesied that he would replace the proud steward Shebna and receive 'the key of David's house' on his shoulder; he later led Hezekiah's delegation to the Assyrian Rabshakeh and was sent to ask Isaiah's prayers.",
+    "catholic": "Catholic interpreters see Isa 22:22 behind Jesus' gift of 'the keys of the Kingdom' to Peter (Mt 16:19): a royal steward's office of authority that is handed on to a successor. Revelation 3:7 applies 'the key of David' to Christ himself. Eliakim is thus an Old Testament figure of the Petrine office exercised in Christ's name.",
+    "know": [
+      "Replaced Shebna as master of the palace (Isa 22:15-23).",
+      "Received 'the key of David's house' — opens and none shall shut.",
+      "Negotiated with the Rabshakeh in Hebrew/Aramaic (Isa 36).",
+      "Also in 2 Kings 18-19."
+    ],
+    "keyPassages": [
+      "isa 22:20-25",
+      "isa 36:3",
+      "isa 36:11-22",
+      "isa 37:2"
+    ],
+    "father": null,
+    "mother": null,
+    "spouses": [],
+    "children": [],
+    "relations": [
+      {
+        "to": "hezekiah",
+        "type": "steward of",
+        "ref": "isa 36:3"
+      },
+      {
+        "to": "shebna",
+        "type": "replaced",
+        "ref": "isa 22:20-21"
+      },
+      {
+        "to": "isaiah",
+        "type": "sent to",
+        "ref": "isa 37:2"
+      },
+      {
+        "to": "peter",
+        "type": "foreshadows the keys given to",
+        "ref": "isa 22:22"
+      },
+      {
+        "to": "jesus",
+        "type": "key of David applied to",
+        "ref": "rev 3:7"
+      }
+    ],
+    "search": {
+      "names": [
+        "Eliakim"
+      ],
+      "books": [
+        "isa:22",
+        "isa:36-37",
+        "2ki:18-19"
+      ]
+    }
+  },
+  {
+    "id": "shebna",
+    "name": "Shebna",
+    "aliases": [],
+    "gender": "m",
+    "role": "Steward, later scribe",
+    "era": "Divided Kingdom",
+    "summary": "Shebna was the royal treasurer 'over the house' under Hezekiah, whom Isaiah rebuked for carving himself a grand tomb and told he would be deposed in favour of Eliakim. He appears later as the scribe in Hezekiah's delegation to the Assyrians.",
+    "catholic": "",
+    "know": [
+      "Rebuked for pride in building his own tomb (Isa 22:16).",
+      "Deposed in favour of Eliakim.",
+      "Appears as 'the scribe' in Isa 36-37 and 2 Kings 18-19."
+    ],
+    "keyPassages": [
+      "isa 22:15-19",
+      "isa 36:3",
+      "isa 37:2"
+    ],
+    "father": null,
+    "mother": null,
+    "spouses": [],
+    "children": [],
+    "relations": [
+      {
+        "to": "isaiah",
+        "type": "rebuked by",
+        "ref": "isa 22:15-19"
+      },
+      {
+        "to": "hezekiah",
+        "type": "official of",
+        "ref": "isa 36:3"
+      }
+    ],
+    "search": {
+      "names": [
+        "Shebna"
+      ],
+      "books": [
+        "isa:22",
+        "isa:36-37",
+        "2ki:18-19"
+      ]
+    }
+  },
+  {
+    "id": "jeremiah",
+    "name": "Jeremiah",
+    "aliases": [],
+    "gender": "m",
+    "role": "Prophet",
+    "era": "Divided Kingdom",
+    "summary": "Jeremiah son of Hilkiah, of a priestly family of Anathoth, was called as a youth in the 13th year of Josiah and prophesied for some forty years until after the fall of Jerusalem in 587 BC. He warned Judah to repent and later to submit to Babylon, enduring beatings, the stocks, prison and a muddy cistern; his scribe Baruch wrote down his oracles. After Gedaliah's murder he was taken against his will to Egypt.",
+    "catholic": "The Church sees in Jeremiah, the rejected and suffering prophet who is 'like a gentle lamb led to the slaughter' (Jer 11:19), a striking figure of Christ in his Passion; some even took Jesus for Jeremiah (Mt 16:14). His promise of a New Covenant written on the heart (Jer 31:31-34) is fulfilled in the covenant Christ seals in his Blood at the Last Supper (Lk 22:20; Heb 8:8-12; cf. CCC 64). Matthew sees Rachel weeping (Jer 31:15) fulfilled in the Holy Innocents. 2 Maccabees 15:14 shows Jeremiah in glory as 'he who prays much for the people', a text cited in support of the intercession of the saints.",
+    "know": [
+      "Called before birth: 'Before I formed you in the womb, I knew you' (Jer 1:5).",
+      "Acted out signs: the linen waistband, the potter's house, the broken jar, the yoke.",
+      "Thrown into a cistern and rescued by Ebed-melech the Ethiopian (Jer 38).",
+      "Promised the New Covenant (Jer 31:31-34) and bought a field at Anathoth as a sign of hope (Jer 32).",
+      "Traditionally credited with Lamentations; Tradition holds he died in Egypt."
+    ],
+    "keyPassages": [
+      "jer 1:4-10",
+      "jer 20:7-9",
+      "jer 31:31-34",
+      "jer 32:6-15",
+      "jer 36:1-32",
+      "jer 38:6-13",
+      "lam 1:12",
+      "2ma 15:13-16"
+    ],
+    "father": "hilkiah-of-anathoth",
+    "mother": null,
+    "spouses": [],
+    "children": [],
+    "relations": [
+      {
+        "to": "jesus",
+        "type": "prophesied",
+        "ref": "jer 31:31"
+      },
+      {
+        "to": "jesus",
+        "type": "some took Jesus for",
+        "ref": "mat 16:14"
+      },
+      {
+        "to": "baruch",
+        "type": "dictated to",
+        "ref": "jer 36:4"
+      },
+      {
+        "to": "ebed-melech",
+        "type": "rescued by",
+        "ref": "jer 38:10-13"
+      },
+      {
+        "to": "hananiah-son-of-azzur",
+        "type": "opposed by",
+        "ref": "jer 28:10-17"
+      },
+      {
+        "to": "pashhur-son-of-immer",
+        "type": "put in stocks by",
+        "ref": "jer 20:1-6"
+      },
+      {
+        "to": "josiah",
+        "type": "prophesied in the reign of",
+        "ref": "jer 1:2"
+      },
+      {
+        "to": "josiah",
+        "type": "lamented",
+        "ref": "2ch 35:25"
+      },
+      {
+        "to": "jehoiakim",
+        "type": "scroll burned by",
+        "ref": "jer 36:21-32"
+      },
+      {
+        "to": "jehoiachin",
+        "type": "prophesied against",
+        "ref": "jer 22:24-30"
+      },
+      {
+        "to": "zedekiah-king-of-judah",
+        "type": "consulted by",
+        "ref": "jer 37:17"
+      },
+      {
+        "to": "nebuchadnezzar",
+        "type": "protected by order of",
+        "ref": "jer 39:11-12"
+      },
+      {
+        "to": "nebuzaradan",
+        "type": "released by",
+        "ref": "jer 40:1-5"
+      },
+      {
+        "to": "gedaliah",
+        "type": "lived with",
+        "ref": "jer 40:6"
+      },
+      {
+        "to": "johanan-son-of-kareah",
+        "type": "taken to Egypt by",
+        "ref": "jer 43:4-7"
+      },
+      {
+        "to": "hanamel",
+        "type": "bought field from",
+        "ref": "jer 32:9"
+      },
+      {
+        "to": "jonadab-son-of-rechab",
+        "type": "held up as example",
+        "ref": "jer 35:18-19"
+      },
+      {
+        "to": "judas-maccabeus",
+        "type": "appeared in vision to",
+        "ref": "2ma 15:13-16"
+      },
+      {
+        "to": "daniel",
+        "type": "read by",
+        "ref": "dan 9:2"
+      },
+      {
+        "to": "cyrus",
+        "type": "word fulfilled by",
+        "ref": "ezr 1:1"
+      }
+    ],
+    "search": {
+      "names": [
+        "Jeremiah",
+        "Jeremy"
+      ],
+      "books": [
+        "jer:1-51",
+        "2ch:35-36",
+        "ezr:1",
+        "dan:9",
+        "2ma:2",
+        "2ma:15",
+        "sir:49",
+        "mat:2",
+        "mat:16",
+        "mat:27",
+        "bar:6"
+      ]
+    }
+  },
+  {
+    "id": "hilkiah-of-anathoth",
+    "name": "Hilkiah of Anathoth",
+    "aliases": [],
+    "gender": "m",
+    "role": "Priest",
+    "era": "Divided Kingdom",
+    "summary": "Hilkiah was a priest of Anathoth in Benjamin and the father of Jeremiah.",
+    "catholic": "",
+    "know": [
+      "Not to be identified with certainty with Hilkiah the high priest who found the Book of the Law under Josiah."
+    ],
+    "keyPassages": [
+      "jer 1:1"
+    ],
+    "father": null,
+    "mother": null,
+    "spouses": [],
+    "children": [
+      "jeremiah"
+    ],
+    "relations": [],
+    "search": {
+      "names": [
+        "Hilkiah"
+      ],
+      "books": [
+        "jer:1"
+      ]
+    }
+  },
+  {
+    "id": "shallum-uncle-of-jeremiah",
+    "name": "Shallum (Jeremiah's uncle)",
+    "aliases": [],
+    "gender": "m",
+    "role": "Relative of Jeremiah",
+    "era": "Divided Kingdom",
+    "summary": "Shallum was Jeremiah's uncle and the father of Hanamel, who sold Jeremiah the family field at Anathoth.",
+    "catholic": "",
+    "know": [
+      "Named only as Hanamel's father and Jeremiah's uncle (Jer 32:7)."
+    ],
+    "keyPassages": [
+      "jer 32:7"
+    ],
+    "father": null,
+    "mother": null,
+    "spouses": [],
+    "children": [
+      "hanamel"
+    ],
+    "relations": [
+      {
+        "to": "jeremiah",
+        "type": "uncle of",
+        "ref": "jer 32:7"
+      }
+    ],
+    "search": {
+      "names": [
+        "Shallum"
+      ],
+      "books": [
+        "jer:32"
+      ]
+    }
+  },
+  {
+    "id": "hanamel",
+    "name": "Hanamel",
+    "aliases": [],
+    "gender": "m",
+    "role": "Cousin of Jeremiah",
+    "era": "Divided Kingdom",
+    "summary": "Hanamel, Jeremiah's cousin, came to him in the court of the guard during the Babylonian siege and sold him the family field at Anathoth for seventeen shekels — a sign that houses and fields would again be bought in the land.",
+    "catholic": "",
+    "know": [
+      "Jeremiah's 'uncle's son'.",
+      "The purchase was a prophetic act of hope (Jer 32:15).",
+      "The deed was given to Baruch in clay jars."
+    ],
+    "keyPassages": [
+      "jer 32:6-15"
+    ],
+    "father": "shallum-uncle-of-jeremiah",
+    "mother": null,
+    "spouses": [],
+    "children": [],
+    "relations": [
+      {
+        "to": "jeremiah",
+        "type": "sold field to",
+        "ref": "jer 32:9"
+      }
+    ],
+    "search": {
+      "names": [
+        "Hanamel"
+      ],
+      "books": null
+    }
+  },
+  {
+    "id": "baruch",
+    "name": "Baruch",
+    "aliases": [],
+    "gender": "m",
+    "role": "Scribe",
+    "era": "Exile",
+    "summary": "Baruch son of Neriah was Jeremiah's faithful scribe. He wrote the prophet's oracles at his dictation, read the scroll publicly in the Temple, hid with Jeremiah when Jehoiakim burned it, and wrote it out again; he went with Jeremiah into Egypt. The deuterocanonical Book of Baruch is attributed to him, written in Babylon.",
+    "catholic": "The Book of Baruch belongs to the Catholic canon (deuterocanonical). Its hymn to Wisdom, 'she appeared upon earth and lived with men' (Bar 3:37), was read by the Fathers as a prophecy of the Incarnation of the Word, and Bar 3:9-15, 32-4:4 is the sixth Old Testament reading of the Easter Vigil. Bar 5 ('Jerusalem, take off your robe of mourning') is read in Advent.",
+    "know": [
+      "Son of Neriah, brother of Seraiah the quartermaster.",
+      "Wrote and read Jeremiah's scroll; it was burned by King Jehoiakim (Jer 36).",
+      "Received a personal oracle: 'your life I will give you as a prize of war' (Jer 45).",
+      "The Book of Baruch (incl. ch. 6, the Letter of Jeremiah) is in the Catholic Old Testament."
+    ],
+    "keyPassages": [
+      "jer 36:4-10",
+      "jer 36:26-32",
+      "jer 45:1-5",
+      "bar 1:1-14",
+      "bar 3:9-15",
+      "bar 3:32-4:4"
+    ],
+    "father": "neriah",
+    "mother": null,
+    "spouses": [],
+    "children": [],
+    "relations": [
+      {
+        "to": "jeremiah",
+        "type": "scribe of",
+        "ref": "jer 36:4"
+      },
+      {
+        "to": "jehoiakim",
+        "type": "scroll burned by",
+        "ref": "jer 36:23"
+      },
+      {
+        "to": "jehoiachin",
+        "type": "read his book to",
+        "ref": "bar 1:3"
+      },
+      {
+        "to": "jesus",
+        "type": "prophesied",
+        "ref": "bar 3:37"
+      },
+      {
+        "to": "hanamel",
+        "type": "witnessed deed of",
+        "ref": "jer 32:12"
+      },
+      {
+        "to": "johanan-son-of-kareah",
+        "type": "taken to Egypt by",
+        "ref": "jer 43:6"
+      }
+    ],
+    "search": {
+      "names": [
+        "Baruch"
+      ],
+      "books": [
+        "jer",
+        "bar"
+      ]
+    }
+  },
+  {
+    "id": "neriah",
+    "name": "Neriah",
+    "aliases": [
+      "Nerias"
+    ],
+    "gender": "m",
+    "role": "Father of Baruch",
+    "era": "Divided Kingdom",
+    "summary": "Neriah son of Mahseiah was the father of Baruch the scribe and of Seraiah the quartermaster.",
+    "catholic": "",
+    "know": [
+      "Called 'Nerias' in the Book of Baruch."
+    ],
+    "keyPassages": [
+      "jer 32:12",
+      "jer 51:59",
+      "bar 1:1"
+    ],
+    "father": "mahseiah",
+    "mother": null,
+    "spouses": [],
+    "children": [
+      "baruch",
+      "seraiah-son-of-neriah"
+    ],
+    "relations": [],
+    "search": {
+      "names": [
+        "Neriah",
+        "Nerias"
+      ],
+      "books": null
+    }
+  },
+  {
+    "id": "mahseiah",
+    "name": "Mahseiah",
+    "aliases": [
+      "Maaseas"
+    ],
+    "gender": "m",
+    "role": "Grandfather of Baruch",
+    "era": "Divided Kingdom",
+    "summary": "Mahseiah was the father of Neriah and grandfather of Baruch and Seraiah.",
+    "catholic": "",
+    "know": [
+      "Called 'Maaseas' in Bar 1:1."
+    ],
+    "keyPassages": [
+      "jer 32:12",
+      "jer 51:59"
+    ],
+    "father": null,
+    "mother": null,
+    "spouses": [],
+    "children": [
+      "neriah"
+    ],
+    "relations": [],
+    "search": {
+      "names": [
+        "Mahseiah",
+        "Maaseas"
+      ],
+      "books": [
+        "jer",
+        "bar:1"
+      ]
+    }
+  },
+  {
+    "id": "seraiah-son-of-neriah",
+    "name": "Seraiah son of Neriah",
+    "aliases": [],
+    "gender": "m",
+    "role": "Quartermaster",
+    "era": "Divided Kingdom",
+    "summary": "Seraiah, Baruch's brother, was the chief quartermaster who travelled with King Zedekiah to Babylon. Jeremiah gave him a scroll of oracles against Babylon to read there, tie to a stone and sink in the Euphrates as a sign that Babylon would sink and not rise.",
+    "catholic": "",
+    "know": [
+      "Brother of Baruch.",
+      "Performed Jeremiah's sign-act of sinking the scroll in the Euphrates (Jer 51:59-64)."
+    ],
+    "keyPassages": [
+      "jer 51:59-64"
+    ],
+    "father": "neriah",
+    "mother": null,
+    "spouses": [],
+    "children": [],
+    "relations": [
+      {
+        "to": "jeremiah",
+        "type": "commissioned by",
+        "ref": "jer 51:59"
+      },
+      {
+        "to": "zedekiah-king-of-judah",
+        "type": "travelled with",
+        "ref": "jer 51:59"
+      }
+    ],
+    "search": {
+      "names": [
+        "Seraiah"
+      ],
+      "books": [
+        "jer:51"
+      ]
+    }
+  },
+  {
+    "id": "ebed-melech",
+    "name": "Ebed-melech the Ethiopian",
+    "aliases": [
+      "Ebedmelech"
+    ],
+    "gender": "m",
+    "role": "Royal official (eunuch)",
+    "era": "Divided Kingdom",
+    "summary": "Ebed-melech, an Ethiopian eunuch in Zedekiah's palace, pleaded with the king when Jeremiah was left to die in a muddy cistern, then drew him out with ropes and padded rags. Jeremiah gave him God's promise that he would be spared when the city fell, 'because you have put your trust in me'.",
+    "catholic": "A Gentile who shows mercy to God's prophet when Israel's own leaders do not, Ebed-melech is often read alongside the Ethiopian eunuch of Acts 8 as a sign that salvation is offered to all nations through faith.",
+    "know": [
+      "His name means 'servant of the king'.",
+      "Rescued Jeremiah from the cistern with thirty men (Jer 38:7-13).",
+      "Promised deliverance because he trusted in the Lord (Jer 39:15-18)."
+    ],
+    "keyPassages": [
+      "jer 38:7-13",
+      "jer 39:15-18"
+    ],
+    "father": null,
+    "mother": null,
+    "spouses": [],
+    "children": [],
+    "relations": [
+      {
+        "to": "jeremiah",
+        "type": "rescued",
+        "ref": "jer 38:10-13"
+      },
+      {
+        "to": "zedekiah-king-of-judah",
+        "type": "petitioned",
+        "ref": "jer 38:8-10"
+      }
+    ],
+    "search": {
+      "names": [
+        "Ebedmelech"
+      ],
+      "books": null
+    }
+  },
+  {
+    "id": "hananiah-son-of-azzur",
+    "name": "Hananiah son of Azzur",
+    "aliases": [],
+    "gender": "m",
+    "role": "False prophet",
+    "era": "Divided Kingdom",
+    "summary": "Hananiah, a prophet from Gibeon, publicly contradicted Jeremiah in the Temple, prophesying that Babylon's yoke would be broken within two years, and broke the wooden yoke from Jeremiah's neck. Jeremiah answered that God would put an iron yoke on the nations and that Hananiah would die that year; he died two months later.",
+    "catholic": "",
+    "know": [
+      "The classic example of a false prophet who tells people what they want to hear (Jer 28).",
+      "Broke Jeremiah's wooden yoke; God replaced it with an iron one.",
+      "Died in the seventh month of that year, as Jeremiah foretold."
+    ],
+    "keyPassages": [
+      "jer 28:1-17"
+    ],
+    "father": "azzur",
+    "mother": null,
+    "spouses": [],
+    "children": [],
+    "relations": [
+      {
+        "to": "jeremiah",
+        "type": "opposed",
+        "ref": "jer 28:10-11"
+      }
+    ],
+    "search": {
+      "names": [
+        "Hananiah"
+      ],
+      "books": [
+        "jer:28"
+      ]
+    }
+  },
+  {
+    "id": "azzur",
+    "name": "Azzur",
+    "aliases": [],
+    "gender": "m",
+    "role": "Father of Hananiah",
+    "era": "Divided Kingdom",
+    "summary": "Azzur of Gibeon was the father of the false prophet Hananiah.",
+    "catholic": "",
+    "know": [],
+    "keyPassages": [
+      "jer 28:1"
+    ],
+    "father": null,
+    "mother": null,
+    "spouses": [],
+    "children": [
+      "hananiah-son-of-azzur"
+    ],
+    "relations": [],
+    "search": {
+      "names": [
+        "Azzur"
+      ],
+      "books": [
+        "jer:28"
+      ]
+    }
+  },
+  {
+    "id": "pashhur-son-of-immer",
+    "name": "Pashhur son of Immer",
+    "aliases": [
+      "Magormissabib"
+    ],
+    "gender": "m",
+    "role": "Priest, chief officer of the Temple",
+    "era": "Divided Kingdom",
+    "summary": "Pashhur, the priest in charge of the Temple, had Jeremiah beaten and put in the stocks at the Benjamin gate. Released the next day, Jeremiah renamed him 'Magor-missabib' ('terror on every side') and foretold he would die in captivity in Babylon.",
+    "catholic": "",
+    "know": [
+      "First recorded persecutor of Jeremiah (Jer 20:1-6).",
+      "Renamed 'Magormissabib' by Jeremiah.",
+      "This episode leads into Jeremiah's 'confessions': 'You enticed me, LORD' (Jer 20:7)."
+    ],
+    "keyPassages": [
+      "jer 20:1-6"
+    ],
+    "father": null,
+    "mother": null,
+    "spouses": [],
+    "children": [],
+    "relations": [
+      {
+        "to": "jeremiah",
+        "type": "put in stocks",
+        "ref": "jer 20:2"
+      }
+    ],
+    "search": {
+      "names": [
+        "Pashhur",
+        "Magormissabib"
+      ],
+      "books": [
+        "jer:20"
+      ]
+    }
+  },
+  {
+    "id": "pashhur-son-of-malchijah",
+    "name": "Pashhur son of Malchijah",
+    "aliases": [],
+    "gender": "m",
+    "role": "Royal official",
+    "era": "Divided Kingdom",
+    "summary": "Pashhur son of Malchijah was sent by King Zedekiah to ask Jeremiah about Nebuchadnezzar's attack, and later was among the officials who demanded Jeremiah's death and had him lowered into the cistern of Malchijah.",
+    "catholic": "",
+    "know": [
+      "Different from Pashhur son of Immer (Jer 20)."
+    ],
+    "keyPassages": [
+      "jer 21:1-2",
+      "jer 38:1-6"
+    ],
+    "father": null,
+    "mother": null,
+    "spouses": [],
+    "children": [],
+    "relations": [
+      {
+        "to": "zedekiah-king-of-judah",
+        "type": "envoy of",
+        "ref": "jer 21:1"
+      },
+      {
+        "to": "jeremiah",
+        "type": "sought death of",
+        "ref": "jer 38:4"
+      }
+    ],
+    "search": {
+      "names": [
+        "Pashhur"
+      ],
+      "books": [
+        "jer:21",
+        "jer:38"
+      ]
+    }
+  },
+  {
+    "id": "zephaniah-son-of-maaseiah",
+    "name": "Zephaniah son of Maaseiah",
+    "aliases": [],
+    "gender": "m",
+    "role": "Second priest",
+    "era": "Divided Kingdom",
+    "summary": "Zephaniah son of Maaseiah, the second priest, was twice sent by Zedekiah to ask Jeremiah's prayers and read to Jeremiah the letter of Shemaiah demanding that he be silenced. After Jerusalem fell he was taken to Riblah and executed.",
+    "catholic": "",
+    "know": [
+      "Not the prophet Zephaniah.",
+      "Executed at Riblah with Seraiah the chief priest (Jer 52:24-27)."
+    ],
+    "keyPassages": [
+      "jer 21:1-2",
+      "jer 29:25-29",
+      "jer 37:3",
+      "jer 52:24-27"
+    ],
+    "father": null,
+    "mother": null,
+    "spouses": [],
+    "children": [],
+    "relations": [
+      {
+        "to": "jeremiah",
+        "type": "consulted",
+        "ref": "jer 37:3"
+      },
+      {
+        "to": "shemaiah-the-nehelamite",
+        "type": "received letter from",
+        "ref": "jer 29:25"
+      }
+    ],
+    "search": {
+      "names": [
+        "Zephaniah"
+      ],
+      "books": [
+        "jer:21",
+        "jer:29",
+        "jer:37",
+        "jer:52",
+        "2ki:25"
+      ]
+    }
+  },
+  {
+    "id": "shemaiah-the-nehelamite",
+    "name": "Shemaiah the Nehelamite",
+    "aliases": [],
+    "gender": "m",
+    "role": "False prophet",
+    "era": "Exile",
+    "summary": "Shemaiah, among the exiles in Babylon, wrote to the priests in Jerusalem demanding that Jeremiah be put in the stocks for advising the exiles to settle down. Jeremiah answered that God had not sent him and that none of his descendants would see the good God would do.",
+    "catholic": "",
+    "know": [
+      "A false prophet among the exiles (Jer 29:24-32)."
+    ],
+    "keyPassages": [
+      "jer 29:24-32"
+    ],
+    "father": null,
+    "mother": null,
+    "spouses": [],
+    "children": [],
+    "relations": [
+      {
+        "to": "jeremiah",
+        "type": "opposed",
+        "ref": "jer 29:27"
+      },
+      {
+        "to": "zephaniah-son-of-maaseiah",
+        "type": "wrote to",
+        "ref": "jer 29:25"
+      }
+    ],
+    "search": {
+      "names": [
+        "Shemaiah"
+      ],
+      "books": [
+        "jer:29"
+      ]
+    }
+  },
+  {
+    "id": "ahab-son-of-kolaiah",
+    "name": "Ahab son of Kolaiah",
+    "aliases": [],
+    "gender": "m",
+    "role": "False prophet",
+    "era": "Exile",
+    "summary": "Ahab son of Kolaiah prophesied lies in God's name among the exiles in Babylon and committed adultery; Jeremiah foretold that Nebuchadnezzar would roast him in the fire.",
+    "catholic": "",
+    "know": [
+      "Not King Ahab of Israel.",
+      "His fate became a curse formula among the exiles (Jer 29:22)."
+    ],
+    "keyPassages": [
+      "jer 29:21-23"
+    ],
+    "father": null,
+    "mother": null,
+    "spouses": [],
+    "children": [],
+    "relations": [
+      {
+        "to": "nebuchadnezzar",
+        "type": "executed by",
+        "ref": "jer 29:21-22"
+      }
+    ],
+    "search": {
+      "names": [
+        "Ahab"
+      ],
+      "books": [
+        "jer:29"
+      ]
+    }
+  },
+  {
+    "id": "zedekiah-son-of-maaseiah",
+    "name": "Zedekiah son of Maaseiah",
+    "aliases": [],
+    "gender": "m",
+    "role": "False prophet",
+    "era": "Exile",
+    "summary": "Zedekiah son of Maaseiah was a false prophet among the exiles, condemned with Ahab son of Kolaiah to be roasted in the fire by the king of Babylon.",
+    "catholic": "",
+    "know": [
+      "Not King Zedekiah of Judah."
+    ],
+    "keyPassages": [
+      "jer 29:21-23"
+    ],
+    "father": null,
+    "mother": null,
+    "spouses": [],
+    "children": [],
+    "relations": [
+      {
+        "to": "nebuchadnezzar",
+        "type": "executed by",
+        "ref": "jer 29:21-22"
+      }
+    ],
+    "search": {
+      "names": [
+        "Zedekiah"
+      ],
+      "books": [
+        "jer:29"
+      ]
+    }
+  },
+  {
+    "id": "uriah-son-of-shemaiah",
+    "name": "Uriah son of Shemaiah",
+    "aliases": [],
+    "gender": "m",
+    "role": "Prophet",
+    "era": "Divided Kingdom",
+    "summary": "Uriah of Kiriath-jearim prophesied the same message as Jeremiah. When King Jehoiakim sought to kill him he fled to Egypt, but was brought back by Elnathan and struck down with the sword.",
+    "catholic": "He belongs to the line of prophets slain for God's word whom Jesus laments (Mt 23:37).",
+    "know": [
+      "A faithful prophet martyred by Jehoiakim (Jer 26:20-23).",
+      "His fate shows the danger Jeremiah faced."
+    ],
+    "keyPassages": [
+      "jer 26:20-23"
+    ],
+    "father": null,
+    "mother": null,
+    "spouses": [],
+    "children": [],
+    "relations": [
+      {
+        "to": "jehoiakim",
+        "type": "killed by",
+        "ref": "jer 26:23"
+      },
+      {
+        "to": "elnathan-son-of-achbor",
+        "type": "extradited by",
+        "ref": "jer 26:22"
+      }
+    ],
+    "search": {
+      "names": [
+        "Uriah"
+      ],
+      "books": [
+        "jer:26"
+      ]
+    }
+  },
+  {
+    "id": "elnathan-son-of-achbor",
+    "name": "Elnathan son of Achbor",
+    "aliases": [],
+    "gender": "m",
+    "role": "Royal official",
+    "era": "Divided Kingdom",
+    "summary": "Elnathan was sent by Jehoiakim to bring the prophet Uriah back from Egypt; later he was among the princes who begged the king not to burn Jeremiah's scroll.",
+    "catholic": "",
+    "know": [
+      "Both an agent of Jehoiakim and an intercessor for Jeremiah's scroll."
+    ],
+    "keyPassages": [
+      "jer 26:22",
+      "jer 36:12",
+      "jer 36:25"
+    ],
+    "father": null,
+    "mother": null,
+    "spouses": [],
+    "children": [],
+    "relations": [
+      {
+        "to": "jehoiakim",
+        "type": "official of",
+        "ref": "jer 26:22"
+      },
+      {
+        "to": "uriah-son-of-shemaiah",
+        "type": "brought back",
+        "ref": "jer 26:22"
+      }
+    ],
+    "search": {
+      "names": [
+        "Elnathan"
+      ],
+      "books": [
+        "jer:26",
+        "jer:36"
+      ]
+    }
+  },
+  {
+    "id": "gemariah-son-of-shaphan",
+    "name": "Gemariah son of Shaphan",
+    "aliases": [],
+    "gender": "m",
+    "role": "Royal official",
+    "era": "Divided Kingdom",
+    "summary": "In Gemariah's chamber in the Temple Baruch read Jeremiah's scroll to the people; Gemariah later urged King Jehoiakim not to burn it.",
+    "catholic": "",
+    "know": [
+      "Son of Shaphan the scribe; brother of Ahikam.",
+      "Father of Micaiah, who reported the scroll to the princes."
+    ],
+    "keyPassages": [
+      "jer 36:10-12",
+      "jer 36:25"
+    ],
+    "father": null,
+    "mother": null,
+    "spouses": [],
+    "children": [
+      "micaiah-son-of-gemariah"
+    ],
+    "relations": [
+      {
+        "to": "baruch",
+        "type": "hosted reading of",
+        "ref": "jer 36:10"
+      },
+      {
+        "to": "jehoiakim",
+        "type": "interceded with",
+        "ref": "jer 36:25"
+      }
+    ],
+    "search": {
+      "names": [
+        "Gemariah"
+      ],
+      "books": [
+        "jer:36"
+      ]
+    }
+  },
+  {
+    "id": "micaiah-son-of-gemariah",
+    "name": "Micaiah son of Gemariah",
+    "aliases": [],
+    "gender": "m",
+    "role": "Official",
+    "era": "Divided Kingdom",
+    "summary": "Micaiah heard Baruch read Jeremiah's scroll and reported its words to the princes gathered in the scribe's chamber.",
+    "catholic": "",
+    "know": [
+      "Grandson of Shaphan the scribe."
+    ],
+    "keyPassages": [
+      "jer 36:11-13"
+    ],
+    "father": "gemariah-son-of-shaphan",
+    "mother": null,
+    "spouses": [],
+    "children": [],
+    "relations": [
+      {
+        "to": "baruch",
+        "type": "heard reading of",
+        "ref": "jer 36:11"
+      }
+    ],
+    "search": {
+      "names": [
+        "Micaiah"
+      ],
+      "books": [
+        "jer:36"
+      ]
+    }
+  },
+  {
+    "id": "elishama-the-scribe",
+    "name": "Elishama the scribe",
+    "aliases": [],
+    "gender": "m",
+    "role": "Royal scribe",
+    "era": "Divided Kingdom",
+    "summary": "Elishama was the royal scribe in whose chamber the princes met and where Jeremiah's scroll was kept before it was read to Jehoiakim.",
+    "catholic": "",
+    "know": [],
+    "keyPassages": [
+      "jer 36:12",
+      "jer 36:20-21"
+    ],
+    "father": null,
+    "mother": null,
+    "spouses": [],
+    "children": [],
+    "relations": [
+      {
+        "to": "jehoiakim",
+        "type": "scribe of",
+        "ref": "jer 36:12"
+      }
+    ],
+    "search": {
+      "names": [
+        "Elishama"
+      ],
+      "books": [
+        "jer:36"
+      ]
+    }
+  },
+  {
+    "id": "delaiah-son-of-shemaiah",
+    "name": "Delaiah son of Shemaiah",
+    "aliases": [],
+    "gender": "m",
+    "role": "Royal official",
+    "era": "Divided Kingdom",
+    "summary": "Delaiah was one of the princes who heard Jeremiah's scroll and pleaded with Jehoiakim not to burn it.",
+    "catholic": "",
+    "know": [],
+    "keyPassages": [
+      "jer 36:12",
+      "jer 36:25"
+    ],
+    "father": null,
+    "mother": null,
+    "spouses": [],
+    "children": [],
+    "relations": [
+      {
+        "to": "jehoiakim",
+        "type": "interceded with",
+        "ref": "jer 36:25"
+      }
+    ],
+    "search": {
+      "names": [
+        "Delaiah"
+      ],
+      "books": [
+        "jer:36"
+      ]
+    }
+  },
+  {
+    "id": "jehudi",
+    "name": "Jehudi",
+    "aliases": [],
+    "gender": "m",
+    "role": "Royal official",
+    "era": "Divided Kingdom",
+    "summary": "Jehudi son of Nethaniah fetched Baruch and later read Jeremiah's scroll aloud to King Jehoiakim, who cut off each few columns and threw them into the brazier.",
+    "catholic": "",
+    "know": [
+      "Read the scroll to the king column by column (Jer 36:23)."
+    ],
+    "keyPassages": [
+      "jer 36:14",
+      "jer 36:21-23"
+    ],
+    "father": null,
+    "mother": null,
+    "spouses": [],
+    "children": [],
+    "relations": [
+      {
+        "to": "jehoiakim",
+        "type": "read scroll to",
+        "ref": "jer 36:21"
+      },
+      {
+        "to": "baruch",
+        "type": "summoned",
+        "ref": "jer 36:14"
+      }
+    ],
+    "search": {
+      "names": [
+        "Jehudi"
+      ],
+      "books": null
+    }
+  },
+  {
+    "id": "irijah",
+    "name": "Irijah",
+    "aliases": [],
+    "gender": "m",
+    "role": "Captain of the guard",
+    "era": "Divided Kingdom",
+    "summary": "Irijah, captain of the guard at the Benjamin gate, seized Jeremiah as he was leaving Jerusalem, accused him of deserting to the Chaldeans and brought him to the princes, who imprisoned him.",
+    "catholic": "",
+    "know": [
+      "Arrested Jeremiah despite his denial (Jer 37:13-14)."
+    ],
+    "keyPassages": [
+      "jer 37:11-15"
+    ],
+    "father": null,
+    "mother": null,
+    "spouses": [],
+    "children": [],
+    "relations": [
+      {
+        "to": "jeremiah",
+        "type": "arrested",
+        "ref": "jer 37:13-14"
+      }
+    ],
+    "search": {
+      "names": [
+        "Irijah"
+      ],
+      "books": null
+    }
+  },
+  {
+    "id": "jonathan-the-scribe",
+    "name": "Jonathan the scribe",
+    "aliases": [],
+    "gender": "m",
+    "role": "Scribe",
+    "era": "Divided Kingdom",
+    "summary": "Jeremiah was beaten and imprisoned in the dungeon of Jonathan the scribe's house, which had been made a prison; Jeremiah begged Zedekiah not to be sent back there.",
+    "catholic": "",
+    "know": [],
+    "keyPassages": [
+      "jer 37:15-20",
+      "jer 38:26"
+    ],
+    "father": null,
+    "mother": null,
+    "spouses": [],
+    "children": [],
+    "relations": [
+      {
+        "to": "jeremiah",
+        "type": "jailer of",
+        "ref": "jer 37:15"
+      }
+    ],
+    "search": {
+      "names": [
+        "Jonathan"
+      ],
+      "books": [
+        "jer:37",
+        "jer:38"
+      ]
+    }
+  },
+  {
+    "id": "jehucal",
+    "name": "Jehucal son of Shelemiah",
+    "aliases": [
+      "Jucal"
+    ],
+    "gender": "m",
+    "role": "Royal official",
+    "era": "Divided Kingdom",
+    "summary": "Jehucal (Jucal) was sent by Zedekiah to ask Jeremiah's prayers, but later joined the officials who demanded Jeremiah's death for weakening the soldiers' morale.",
+    "catholic": "",
+    "know": [
+      "Spelled 'Jucal' in Jer 38:1."
+    ],
+    "keyPassages": [
+      "jer 37:3",
+      "jer 38:1-4"
+    ],
+    "father": null,
+    "mother": null,
+    "spouses": [],
+    "children": [],
+    "relations": [
+      {
+        "to": "jeremiah",
+        "type": "sought death of",
+        "ref": "jer 38:4"
+      }
+    ],
+    "search": {
+      "names": [
+        "Jehucal",
+        "Jucal"
+      ],
+      "books": null
+    }
+  },
+  {
+    "id": "shephatiah-son-of-mattan",
+    "name": "Shephatiah son of Mattan",
+    "aliases": [],
+    "gender": "m",
+    "role": "Royal official",
+    "era": "Divided Kingdom",
+    "summary": "Shephatiah was one of the officials who heard Jeremiah urge surrender to Babylon and persuaded Zedekiah to let them throw him into a cistern.",
+    "catholic": "",
+    "know": [],
+    "keyPassages": [
+      "jer 38:1-6"
+    ],
+    "father": null,
+    "mother": null,
+    "spouses": [],
+    "children": [],
+    "relations": [
+      {
+        "to": "jeremiah",
+        "type": "sought death of",
+        "ref": "jer 38:4"
+      }
+    ],
+    "search": {
+      "names": [
+        "Shephatiah"
+      ],
+      "books": [
+        "jer:38"
+      ]
+    }
+  },
+  {
+    "id": "gedaliah-son-of-pashhur",
+    "name": "Gedaliah son of Pashhur",
+    "aliases": [],
+    "gender": "m",
+    "role": "Royal official",
+    "era": "Divided Kingdom",
+    "summary": "Gedaliah son of Pashhur was among the officials who had Jeremiah lowered into the cistern.",
+    "catholic": "",
+    "know": [
+      "Not Gedaliah son of Ahikam, the governor."
+    ],
+    "keyPassages": [
+      "jer 38:1-6"
+    ],
+    "father": null,
+    "mother": null,
+    "spouses": [],
+    "children": [],
+    "relations": [
+      {
+        "to": "jeremiah",
+        "type": "sought death of",
+        "ref": "jer 38:4"
+      }
+    ],
+    "search": {
+      "names": [
+        "Gedaliah"
+      ],
+      "books": [
+        "jer:38"
+      ]
+    }
+  },
+  {
+    "id": "jonadab-son-of-rechab",
+    "name": "Jonadab son of Rechab",
+    "aliases": [
+      "Jehonadab"
+    ],
+    "gender": "m",
+    "role": "Founder of the Rechabites",
+    "era": "Divided Kingdom",
+    "summary": "Jonadab (Jehonadab) son of Rechab rode with Jehu against the worship of Baal and commanded his descendants to drink no wine, build no houses and sow no fields but live in tents. Centuries later Jeremiah tested the Rechabites with wine; their fidelity to their ancestor's command became a rebuke to unfaithful Judah, and God promised Jonadab would never lack a man to stand before him.",
+    "catholic": "The Rechabites' obedience is held up as a model of fidelity to a received rule of life, and is sometimes cited in the tradition of religious life and of temperance.",
+    "know": [
+      "Ally of Jehu against Baal worship (2 Kings 10:15-23).",
+      "His descendants kept his rule for some 250 years (Jer 35).",
+      "God promised: 'Jonadab will not lack a man to stand before me forever' (Jer 35:19)."
+    ],
+    "keyPassages": [
+      "jer 35:1-19",
+      "2ki 10:15-16",
+      "2ki 10:23"
+    ],
+    "father": "rechab",
+    "mother": null,
+    "spouses": [],
+    "children": [],
+    "relations": [
+      {
+        "to": "jeremiah",
+        "type": "praised by",
+        "ref": "jer 35:18-19"
+      },
+      {
+        "to": "jaazaniah-the-rechabite",
+        "type": "ancestor of",
+        "ref": "jer 35:3-6"
+      }
+    ],
+    "search": {
+      "names": [
+        "Jonadab",
+        "Jehonadab"
+      ],
+      "books": [
+        "jer:35",
+        "2ki:10"
+      ]
+    }
+  },
+  {
+    "id": "rechab",
+    "name": "Rechab",
+    "aliases": [],
+    "gender": "m",
+    "role": "Ancestor of the Rechabites",
+    "era": "Divided Kingdom",
+    "summary": "Rechab was the father of Jonadab and gave his name to the Rechabite clan.",
+    "catholic": "",
+    "know": [
+      "The Rechabites are connected with the Kenites in 1 Chronicles 2:55."
+    ],
+    "keyPassages": [
+      "jer 35:6",
+      "2ki 10:15"
+    ],
+    "father": null,
+    "mother": null,
+    "spouses": [],
+    "children": [
+      "jonadab-son-of-rechab"
+    ],
+    "relations": [],
+    "search": {
+      "names": [
+        "Rechab"
+      ],
+      "books": [
+        "jer:35",
+        "2ki:10"
+      ]
+    }
+  },
+  {
+    "id": "jaazaniah-the-rechabite",
+    "name": "Jaazaniah the Rechabite",
+    "aliases": [],
+    "gender": "m",
+    "role": "Rechabite leader",
+    "era": "Divided Kingdom",
+    "summary": "Jaazaniah son of Jeremiah, son of Habazziniah, headed the Rechabite household whom the prophet Jeremiah brought into a Temple chamber and offered wine, which they refused.",
+    "catholic": "",
+    "know": [
+      "His father Jeremiah is not the prophet."
+    ],
+    "keyPassages": [
+      "jer 35:3-6"
+    ],
+    "father": null,
+    "mother": null,
+    "spouses": [],
+    "children": [],
+    "relations": [
+      {
+        "to": "jonadab-son-of-rechab",
+        "type": "descendant of",
+        "ref": "jer 35:6"
+      },
+      {
+        "to": "jeremiah",
+        "type": "tested by",
+        "ref": "jer 35:3-5"
+      }
+    ],
+    "search": {
+      "names": [
+        "Jaazaniah"
+      ],
+      "books": [
+        "jer:35"
+      ]
+    }
+  },
+  {
+    "id": "ishmael-son-of-nethaniah",
+    "name": "Ishmael son of Nethaniah",
+    "aliases": [],
+    "gender": "m",
+    "role": "Army officer of royal blood",
+    "era": "Exile",
+    "summary": "Ishmael, of the royal line, was sent by Baalis king of Ammon to kill Gedaliah, the governor Babylon set over Judah. He murdered Gedaliah at Mizpah, massacred pilgrims, and took the remnant captive, but fled to Ammon when Johanan son of Kareah pursued him.",
+    "catholic": "",
+    "know": [
+      "Murdered Gedaliah despite Johanan's warning (Jer 40:13-41:3).",
+      "His crime drove the remnant to flee to Egypt.",
+      "The fast of the seventh month (Zech 7:5; 8:19) is traditionally linked to Gedaliah's murder."
+    ],
+    "keyPassages": [
+      "jer 40:13-16",
+      "jer 41:1-18",
+      "2ki 25:25"
+    ],
+    "father": "nethaniah",
+    "mother": null,
+    "spouses": [],
+    "children": [],
+    "relations": [
+      {
+        "to": "gedaliah",
+        "type": "murdered",
+        "ref": "jer 41:2"
+      },
+      {
+        "to": "baalis",
+        "type": "sent by",
+        "ref": "jer 40:14"
+      },
+      {
+        "to": "johanan-son-of-kareah",
+        "type": "pursued by",
+        "ref": "jer 41:11-15"
+      }
+    ],
+    "search": {
+      "names": [
+        "Ishmael"
+      ],
+      "books": [
+        "jer:40-41",
+        "2ki:25"
+      ]
+    }
+  },
+  {
+    "id": "nethaniah",
+    "name": "Nethaniah son of Elishama",
+    "aliases": [],
+    "gender": "m",
+    "role": "Father of Ishmael",
+    "era": "Divided Kingdom",
+    "summary": "Nethaniah son of Elishama, of the royal line, was the father of Ishmael who assassinated Gedaliah.",
+    "catholic": "",
+    "know": [],
+    "keyPassages": [
+      "jer 41:1",
+      "2ki 25:25"
+    ],
+    "father": null,
+    "mother": null,
+    "spouses": [],
+    "children": [
+      "ishmael-son-of-nethaniah"
+    ],
+    "relations": [],
+    "search": {
+      "names": [
+        "Nethaniah"
+      ],
+      "books": [
+        "jer:40-41",
+        "2ki:25"
+      ]
+    }
+  },
+  {
+    "id": "johanan-son-of-kareah",
+    "name": "Johanan son of Kareah",
+    "aliases": [],
+    "gender": "m",
+    "role": "Army captain",
+    "era": "Exile",
+    "summary": "Johanan, a captain of the forces left in Judah, warned Gedaliah of Ishmael's plot, rescued the captives Ishmael had seized, and then led the remnant — with Jeremiah and Baruch — to Egypt, despite God's word through Jeremiah that they should stay in the land.",
+    "catholic": "",
+    "know": [
+      "Warned Gedaliah but was not believed (Jer 40:13-16).",
+      "Asked Jeremiah to seek God's will, then rejected the answer (Jer 42-43).",
+      "Took Jeremiah and Baruch to Tahpanhes in Egypt."
+    ],
+    "keyPassages": [
+      "jer 40:13-16",
+      "jer 41:11-16",
+      "jer 42:1-6",
+      "jer 43:1-7"
+    ],
+    "father": "kareah",
+    "mother": null,
+    "spouses": [],
+    "children": [],
+    "relations": [
+      {
+        "to": "gedaliah",
+        "type": "warned",
+        "ref": "jer 40:15"
+      },
+      {
+        "to": "ishmael-son-of-nethaniah",
+        "type": "pursued",
+        "ref": "jer 41:12"
+      },
+      {
+        "to": "jeremiah",
+        "type": "took to Egypt",
+        "ref": "jer 43:5-7"
+      }
+    ],
+    "search": {
+      "names": [
+        "Johanan"
+      ],
+      "books": [
+        "jer:40-43",
+        "2ki:25"
+      ]
+    }
+  },
+  {
+    "id": "jonathan-son-of-kareah",
+    "name": "Jonathan son of Kareah",
+    "aliases": [],
+    "gender": "m",
+    "role": "Army captain",
+    "era": "Exile",
+    "summary": "Jonathan, brother of Johanan, was one of the captains who came to Gedaliah at Mizpah.",
+    "catholic": "",
+    "know": [],
+    "keyPassages": [
+      "jer 40:8"
+    ],
+    "father": "kareah",
+    "mother": null,
+    "spouses": [],
+    "children": [],
+    "relations": [],
+    "search": {
+      "names": [
+        "Jonathan"
+      ],
+      "books": [
+        "jer:40"
+      ]
+    }
+  },
+  {
+    "id": "kareah",
+    "name": "Kareah",
+    "aliases": [],
+    "gender": "m",
+    "role": "Father of Johanan",
+    "era": "Divided Kingdom",
+    "summary": "Kareah was the father of the captains Johanan and Jonathan.",
+    "catholic": "",
+    "know": [],
+    "keyPassages": [
+      "jer 40:8"
+    ],
+    "father": null,
+    "mother": null,
+    "spouses": [],
+    "children": [
+      "johanan-son-of-kareah",
+      "jonathan-son-of-kareah"
+    ],
+    "relations": [],
+    "search": {
+      "names": [
+        "Kareah"
+      ],
+      "books": null
+    }
+  },
+  {
+    "id": "azariah-son-of-hoshaiah",
+    "name": "Azariah son of Hoshaiah",
+    "aliases": [
+      "Jezaniah"
+    ],
+    "gender": "m",
+    "role": "Army leader",
+    "era": "Exile",
+    "summary": "Azariah son of Hoshaiah, with Johanan and 'all the proud men', accused Jeremiah of lying when he told the remnant not to go to Egypt.",
+    "catholic": "",
+    "know": [
+      "Possibly the same as 'Jezaniah son of Hoshaiah' in Jer 42:1."
+    ],
+    "keyPassages": [
+      "jer 43:2-3"
+    ],
+    "father": null,
+    "mother": null,
+    "spouses": [],
+    "children": [],
+    "relations": [
+      {
+        "to": "jeremiah",
+        "type": "accused",
+        "ref": "jer 43:2"
+      }
+    ],
+    "search": {
+      "names": [
+        "Azariah",
+        "Jezaniah"
+      ],
+      "books": [
+        "jer:42-43"
+      ]
+    }
+  },
+  {
+    "id": "nebuzaradan",
+    "name": "Nebuzaradan",
+    "aliases": [],
+    "gender": "m",
+    "role": "Babylonian captain of the guard",
+    "era": "Exile",
+    "summary": "Nebuzaradan, Nebuchadnezzar's captain of the guard, burned the Temple and Jerusalem and deported its people, but on the king's orders freed Jeremiah from his chains at Ramah and let him choose where to live.",
+    "catholic": "",
+    "know": [
+      "Burned the Temple in 587 BC (Jer 52:12-14).",
+      "Released Jeremiah and entrusted him to Gedaliah (Jer 40:1-6)."
+    ],
+    "keyPassages": [
+      "jer 39:9-14",
+      "jer 40:1-5",
+      "jer 52:12-16"
+    ],
+    "father": null,
+    "mother": null,
+    "spouses": [],
+    "children": [],
+    "relations": [
+      {
+        "to": "nebuchadnezzar",
+        "type": "officer of",
+        "ref": "jer 39:11"
+      },
+      {
+        "to": "jeremiah",
+        "type": "released",
+        "ref": "jer 40:4"
+      },
+      {
+        "to": "gedaliah",
+        "type": "entrusted the remnant to",
+        "ref": "jer 41:10"
+      }
+    ],
+    "search": {
+      "names": [
+        "Nebuzaradan"
+      ],
+      "books": [
+        "jer",
+        "2ki:25"
+      ]
+    }
+  },
+  {
+    "id": "baalis",
+    "name": "Baalis",
+    "aliases": [],
+    "gender": "m",
+    "role": "King of the Ammonites",
+    "era": "Exile",
+    "summary": "Baalis, king of Ammon, sent Ishmael son of Nethaniah to assassinate Gedaliah.",
+    "catholic": "",
+    "know": [],
+    "keyPassages": [
+      "jer 40:14"
+    ],
+    "father": null,
+    "mother": null,
+    "spouses": [],
+    "children": [],
+    "relations": [
+      {
+        "to": "ishmael-son-of-nethaniah",
+        "type": "sent",
+        "ref": "jer 40:14"
+      }
+    ],
+    "search": {
+      "names": [
+        "Baalis"
+      ],
+      "books": null
+    }
+  },
+  {
+    "id": "ezekiel",
+    "name": "Ezekiel",
+    "aliases": [],
+    "gender": "m",
+    "role": "Prophet and priest",
+    "era": "Exile",
+    "summary": "Ezekiel son of Buzi, a priest, was deported to Babylon with King Jehoiachin in 597 BC and was called by the river Chebar in a vision of God's glory on a chariot of living creatures. He announced Jerusalem's fall through dramatic sign-acts, saw God's glory leave the Temple, and after 587 BC proclaimed restoration: a new heart and spirit, the valley of dry bones, the good shepherd and a new Temple from which life-giving water flows.",
+    "catholic": "The Church reads Ezek 36:25-27 (clean water, a new heart, God's Spirit within) as a prophecy of Baptism and the gift of the Spirit (cf. Jn 3:5; CCC 1287), and it is the seventh Old Testament reading of the Easter Vigil; the Easter-season sprinkling antiphon 'Vidi aquam' draws on the water flowing from the Temple (Ezek 47). The dry bones (Ezek 37) prefigure the resurrection, and God's promise to shepherd his flock himself (Ezek 34) is fulfilled in Christ the Good Shepherd (Jn 10). Fathers such as St Ambrose and St Jerome read the shut eastern gate through which only the Lord enters (Ezek 44:2) as a figure of Mary's perpetual virginity, and the four faces of the living creatures (Ezek 1:10) became the symbols of the four Evangelists.",
+    "know": [
+      "A priest in exile, called 'son of man' by God over ninety times.",
+      "Ate the scroll of God's word (Ezek 2:8-3:3) and was made Israel's watchman (Ezek 3:17).",
+      "His wife's death became a sign he was forbidden to mourn (Ezek 24:15-24).",
+      "Visions: God's glory, the dry bones, the new Temple and its river (Ezek 1; 37; 47)."
+    ],
+    "keyPassages": [
+      "ezk 1:1-28",
+      "ezk 2:8-3:3",
+      "ezk 34:11-16",
+      "ezk 36:24-28",
+      "ezk 37:1-14",
+      "ezk 44:1-3",
+      "ezk 47:1-12"
+    ],
+    "father": "buzi",
+    "mother": null,
+    "spouses": [
+      "wife-of-ezekiel"
+    ],
+    "children": [],
+    "relations": [
+      {
+        "to": "jesus",
+        "type": "prophesied",
+        "ref": "ezk 34:23-24"
+      },
+      {
+        "to": "jesus",
+        "type": "prophesied",
+        "ref": "ezk 36:25-27"
+      },
+      {
+        "to": "mary-mother-of-jesus",
+        "type": "prophesied (patristic reading)",
+        "ref": "ezk 44:2"
+      },
+      {
+        "to": "jehoiachin",
+        "type": "exiled with",
+        "ref": "ezk 1:2"
+      },
+      {
+        "to": "pelatiah-son-of-benaiah",
+        "type": "saw death of",
+        "ref": "ezk 11:13"
+      },
+      {
+        "to": "noah",
+        "type": "named as righteous",
+        "ref": "ezk 14:14"
+      },
+      {
+        "to": "job",
+        "type": "named as righteous",
+        "ref": "ezk 14:14"
+      }
+    ],
+    "search": {
+      "names": [
+        "Ezekiel"
+      ],
+      "books": null
+    }
+  },
+  {
+    "id": "buzi",
+    "name": "Buzi",
+    "aliases": [],
+    "gender": "m",
+    "role": "Priest, father of Ezekiel",
+    "era": "Divided Kingdom",
+    "summary": "Buzi was a priest and the father of the prophet Ezekiel.",
+    "catholic": "",
+    "know": [],
+    "keyPassages": [
+      "ezk 1:3"
+    ],
+    "father": null,
+    "mother": null,
+    "spouses": [],
+    "children": [
+      "ezekiel"
+    ],
+    "relations": [],
+    "search": {
+      "names": [
+        "Buzi"
+      ],
+      "books": null
+    }
+  },
+  {
+    "id": "wife-of-ezekiel",
+    "name": "Ezekiel's wife",
+    "aliases": [],
+    "gender": "f",
+    "role": "Wife of Ezekiel",
+    "era": "Exile",
+    "summary": "Ezekiel's wife, 'the desire of your eyes', died suddenly; God forbade the prophet to mourn openly, as a sign to the exiles of how they would react to the destruction of the Temple.",
+    "catholic": "",
+    "know": [
+      "Unnamed in Scripture.",
+      "Her death and Ezekiel's silence were a sign-act (Ezek 24:15-24)."
+    ],
+    "keyPassages": [
+      "ezk 24:15-24"
+    ],
+    "father": null,
+    "mother": null,
+    "spouses": [
+      "ezekiel"
+    ],
+    "children": [],
+    "relations": [],
+    "search": {
+      "names": [],
+      "books": [
+        "ezk:24"
+      ]
+    }
+  },
+  {
+    "id": "pelatiah-son-of-benaiah",
+    "name": "Pelatiah son of Benaiah",
+    "aliases": [],
+    "gender": "m",
+    "role": "Prince of the people",
+    "era": "Exile",
+    "summary": "Pelatiah was one of twenty-five leaders Ezekiel saw in vision at the Temple's east gate giving wicked counsel; as Ezekiel prophesied against them, Pelatiah fell dead.",
+    "catholic": "",
+    "know": [
+      "His death moved Ezekiel to cry out for the remnant of Israel (Ezek 11:13)."
+    ],
+    "keyPassages": [
+      "ezk 11:1-13"
+    ],
+    "father": null,
+    "mother": null,
+    "spouses": [],
+    "children": [],
+    "relations": [
+      {
+        "to": "ezekiel",
+        "type": "condemned by",
+        "ref": "ezk 11:4-13"
+      }
+    ],
+    "search": {
+      "names": [
+        "Pelatiah"
+      ],
+      "books": [
+        "ezk:11"
+      ]
+    }
+  },
+  {
+    "id": "jaazaniah-son-of-azzur",
+    "name": "Jaazaniah son of Azzur",
+    "aliases": [],
+    "gender": "m",
+    "role": "Prince of the people",
+    "era": "Exile",
+    "summary": "Jaazaniah son of Azzur was among the twenty-five men at the east gate whom Ezekiel saw devising wicked counsel in Jerusalem.",
+    "catholic": "",
+    "know": [
+      "Different from Jaazaniah son of Shaphan (Ezek 8:11)."
+    ],
+    "keyPassages": [
+      "ezk 11:1-4"
+    ],
+    "father": null,
+    "mother": null,
+    "spouses": [],
+    "children": [],
+    "relations": [],
+    "search": {
+      "names": [
+        "Jaazaniah"
+      ],
+      "books": [
+        "ezk:11"
+      ]
+    }
+  },
+  {
+    "id": "jaazaniah-son-of-shaphan",
+    "name": "Jaazaniah son of Shaphan",
+    "aliases": [],
+    "gender": "m",
+    "role": "Elder of Israel",
+    "era": "Exile",
+    "summary": "Jaazaniah son of Shaphan stood among seventy elders whom Ezekiel saw in vision offering incense to idols in a hidden Temple chamber.",
+    "catholic": "",
+    "know": [
+      "Ironic, since his family (Shaphan's) was otherwise faithful to Jeremiah."
+    ],
+    "keyPassages": [
+      "ezk 8:10-12"
+    ],
+    "father": null,
+    "mother": null,
+    "spouses": [],
+    "children": [],
+    "relations": [],
+    "search": {
+      "names": [
+        "Jaazaniah"
+      ],
+      "books": [
+        "ezk:8"
+      ]
+    }
+  },
+  {
+    "id": "daniel",
+    "name": "Daniel",
+    "aliases": [
+      "Belteshazzar"
+    ],
+    "gender": "m",
+    "role": "Prophet",
+    "era": "Exile",
+    "summary": "Daniel, a young noble of Judah taken to Babylon under Nebuchadnezzar and renamed Belteshazzar, refused the king's food, interpreted Nebuchadnezzar's dreams and the writing on the wall at Belshazzar's feast, and was delivered from the lions' den under Darius the Mede. He received visions of four beasts, the Son of Man, seventy weeks and the resurrection; in the Greek chapters he vindicates Susanna and exposes the idol Bel and the dragon.",
+    "catholic": "The Church reads Daniel's vision of 'one like a son of man' coming with the clouds to receive an everlasting kingdom (Dan 7:13-14) as fulfilled in Christ, who took 'Son of Man' as his own title and quoted this text before the high priest (Mt 26:64). Dan 12:2 is one of the clearest Old Testament witnesses to the resurrection of the dead. Daniel's fidelity in prayer and fasting and his deliverance from the lions were favourite images in early Christian art of the saving power of God. The Catholic Bible includes the Greek additions (Dan 3:24-90; 13; 14), and the Roman Martyrology commemorates the holy prophet Daniel on July 21.",
+    "know": [
+      "Renamed Belteshazzar in Babylon (Dan 1:7).",
+      "Interpreted the statue dream and the writing on the wall (Dan 2; 5).",
+      "Prayed three times a day toward Jerusalem and was saved from the lions (Dan 6; 14).",
+      "Saw the Son of Man vision (Dan 7) and was visited by the angel Gabriel (Dan 8-9).",
+      "Rescued Susanna by cross-examining the two elders separately (Dan 13)."
+    ],
+    "feast": "July 21",
+    "keyPassages": [
+      "dan 1:3-21",
+      "dan 2:14-49",
+      "dan 5:13-30",
+      "dan 6:10-24",
+      "dan 7:9-14",
+      "dan 9:20-27",
+      "dan 13:45-64",
+      "dan 14:23-42"
+    ],
+    "father": null,
+    "mother": null,
+    "spouses": [],
+    "children": [],
+    "relations": [
+      {
+        "to": "jesus",
+        "type": "prophesied",
+        "ref": "dan 7:13-14"
+      },
+      {
+        "to": "jesus",
+        "type": "cited by",
+        "ref": "mat 24:15"
+      },
+      {
+        "to": "shadrach",
+        "type": "companion of",
+        "ref": "dan 1:6-7"
+      },
+      {
+        "to": "meshach",
+        "type": "companion of",
+        "ref": "dan 1:6-7"
+      },
+      {
+        "to": "abednego",
+        "type": "companion of",
+        "ref": "dan 1:6-7"
+      },
+      {
+        "to": "nebuchadnezzar",
+        "type": "interpreted dreams of",
+        "ref": "dan 2:46-49"
+      },
+      {
+        "to": "belshazzar",
+        "type": "read the writing for",
+        "ref": "dan 5:17-28"
+      },
+      {
+        "to": "darius-the-mede",
+        "type": "served",
+        "ref": "dan 6:1-3"
+      },
+      {
+        "to": "cyrus",
+        "type": "served",
+        "ref": "dan 6:28"
+      },
+      {
+        "to": "jehoiakim",
+        "type": "taken captive in the reign of",
+        "ref": "dan 1:1-6"
+      },
+      {
+        "to": "gabriel-archangel",
+        "type": "instructed by",
+        "ref": "dan 9:21-23"
+      },
+      {
+        "to": "michael-archangel",
+        "type": "told of",
+        "ref": "dan 10:21"
+      },
+      {
+        "to": "susanna",
+        "type": "vindicated",
+        "ref": "dan 13:45-62"
+      },
+      {
+        "to": "the-two-elders",
+        "type": "convicted",
+        "ref": "dan 13:51-61"
+      },
+      {
+        "to": "habakkuk",
+        "type": "fed by",
+        "ref": "dan 14:33-39"
+      },
+      {
+        "to": "ashpenaz",
+        "type": "trained by",
+        "ref": "dan 1:3-9"
+      },
+      {
+        "to": "arioch",
+        "type": "dealt with",
+        "ref": "dan 2:14-25"
+      },
+      {
+        "to": "jeremiah",
+        "type": "studied the prophecy of",
+        "ref": "dan 9:2"
+      },
+      {
+        "to": "mattathias",
+        "type": "praised by",
+        "ref": "1ma 2:60"
+      }
+    ],
+    "search": {
+      "names": [
+        "Daniel",
+        "Belteshazzar"
+      ],
+      "books": [
+        "dan",
+        "1ma:2",
+        "mat:24",
+        "mrk:13"
+      ]
+    }
+  },
+  {
+    "id": "shadrach",
+    "name": "Shadrach (Hananiah)",
+    "aliases": [
+      "Hananiah"
+    ],
+    "gender": "m",
+    "role": "Companion of Daniel",
+    "era": "Exile",
+    "summary": "Hananiah, renamed Shadrach in Babylon, was one of Daniel's three companions from Judah. With Mishael and Azariah he refused to bow to Nebuchadnezzar's golden statue, was thrown bound into the fiery furnace, and walked unharmed in the flames with a fourth figure 'like a son of the gods'.",
+    "catholic": "The three young men who would not worship Nebuchadnezzar's golden image and were preserved in the furnace are honoured as models of fidelity unto martyrdom; Mattathias cites them (1 Mac 2:59) and the Fathers saw the 'fourth man' in the fire as a figure of the Son of God. Their hymn in the Greek text, the Song of the Three (Dan 3:52-90, the 'Benedicite'), is the Old Testament canticle of Sunday Morning Prayer in the Liturgy of the Hours (Dan 3:57-88, 56 in Weeks I and III; Dan 3:52-57 in Weeks II and IV), and it is traditionally prayed in thanksgiving after Mass.",
+    "know": [
+      "Hebrew name Hananiah; Babylonian name Shadrach (Dan 1:7).",
+      "Shared Daniel's vegetable diet and was found ten times wiser than the magicians (Dan 1).",
+      "Survived the fiery furnace (Dan 3) and sang the Benedicite.",
+      "Promoted by Nebuchadnezzar afterwards (Dan 3:97)."
+    ],
+    "keyPassages": [
+      "dan 1:6-20",
+      "dan 3:12-30",
+      "dan 3:51-90",
+      "dan 3:91-97",
+      "1ma 2:59"
+    ],
+    "father": null,
+    "mother": null,
+    "spouses": [],
+    "children": [],
+    "relations": [
+      {
+        "to": "daniel",
+        "type": "companion of",
+        "ref": "dan 2:17"
+      },
+      {
+        "to": "nebuchadnezzar",
+        "type": "defied",
+        "ref": "dan 3:16-18"
+      }
+    ],
+    "search": {
+      "names": [
+        "Shadrach",
+        "Hananiah"
+      ],
+      "books": [
+        "dan",
+        "1ma:2"
+      ]
+    }
+  },
+  {
+    "id": "meshach",
+    "name": "Meshach (Mishael)",
+    "aliases": [
+      "Mishael"
+    ],
+    "gender": "m",
+    "role": "Companion of Daniel",
+    "era": "Exile",
+    "summary": "Mishael, renamed Meshach in Babylon, was one of Daniel's three companions. He refused to worship the golden image and was delivered from the fiery furnace with Hananiah and Azariah.",
+    "catholic": "The three young men who would not worship Nebuchadnezzar's golden image and were preserved in the furnace are honoured as models of fidelity unto martyrdom; Mattathias cites them (1 Mac 2:59) and the Fathers saw the 'fourth man' in the fire as a figure of the Son of God. Their hymn in the Greek text, the Song of the Three (Dan 3:52-90, the 'Benedicite'), is the Old Testament canticle of Sunday Morning Prayer in the Liturgy of the Hours (Dan 3:57-88, 56 in Weeks I and III; Dan 3:52-57 in Weeks II and IV), and it is traditionally prayed in thanksgiving after Mass.",
+    "know": [
+      "Hebrew name Mishael; Babylonian name Meshach (Dan 1:7).",
+      "Survived the fiery furnace (Dan 3).",
+      "Named with his companions in the closing verse of the Benedicite (Dan 3:88)."
+    ],
+    "keyPassages": [
+      "dan 1:6-20",
+      "dan 3:12-30",
+      "dan 3:88",
+      "1ma 2:59"
+    ],
+    "father": null,
+    "mother": null,
+    "spouses": [],
+    "children": [],
+    "relations": [
+      {
+        "to": "daniel",
+        "type": "companion of",
+        "ref": "dan 2:17"
+      },
+      {
+        "to": "nebuchadnezzar",
+        "type": "defied",
+        "ref": "dan 3:16-18"
+      }
+    ],
+    "search": {
+      "names": [
+        "Meshach",
+        "Mishael"
+      ],
+      "books": [
+        "dan",
+        "1ma:2"
+      ]
+    }
+  },
+  {
+    "id": "abednego",
+    "name": "Abednego (Azariah)",
+    "aliases": [
+      "Azariah",
+      "Azarias"
+    ],
+    "gender": "m",
+    "role": "Companion of Daniel",
+    "era": "Exile",
+    "summary": "Azariah, renamed Abednego in Babylon, was one of Daniel's three companions. In the Greek text of Daniel 3 it is Azariah (Azarias) who stands in the furnace and prays the great prayer of repentance on behalf of his people before the three sing their hymn of praise.",
+    "catholic": "The three young men who would not worship Nebuchadnezzar's golden image and were preserved in the furnace are honoured as models of fidelity unto martyrdom; Mattathias cites them (1 Mac 2:59) and the Fathers saw the 'fourth man' in the fire as a figure of the Son of God. Their hymn in the Greek text, the Song of the Three (Dan 3:52-90, the 'Benedicite'), is the Old Testament canticle of Sunday Morning Prayer in the Liturgy of the Hours (Dan 3:57-88, 56 in Weeks I and III; Dan 3:52-57 in Weeks II and IV), and it is traditionally prayed in thanksgiving after Mass. The Prayer of Azariah (Dan 3:26-45), a confession of the nation's sin and plea for mercy, is used in the Lenten liturgy and as a canticle in the Liturgy of the Hours ('with a contrite heart and a humble spirit let us be received').",
+    "know": [
+      "Hebrew name Azariah (Greek Azarias); Babylonian name Abednego (Dan 1:7).",
+      "Prayed the Prayer of Azariah in the fire (Dan 3:25-45).",
+      "Survived the fiery furnace (Dan 3)."
+    ],
+    "keyPassages": [
+      "dan 1:6-20",
+      "dan 3:12-30",
+      "dan 3:25-45",
+      "dan 3:49-50",
+      "1ma 2:59"
+    ],
+    "father": null,
+    "mother": null,
+    "spouses": [],
+    "children": [],
+    "relations": [
+      {
+        "to": "daniel",
+        "type": "companion of",
+        "ref": "dan 2:17"
+      },
+      {
+        "to": "nebuchadnezzar",
+        "type": "defied",
+        "ref": "dan 3:16-18"
+      }
+    ],
+    "search": {
+      "names": [
+        "Abednego",
+        "Azariah",
+        "Azarias"
+      ],
+      "books": [
+        "dan",
+        "1ma:2"
+      ]
+    }
+  },
+  {
+    "id": "ashpenaz",
+    "name": "Ashpenaz",
+    "aliases": [],
+    "gender": "m",
+    "role": "Chief of the eunuchs",
+    "era": "Exile",
+    "summary": "Ashpenaz, master of Nebuchadnezzar's eunuchs, selected Daniel and his companions for training and gave them Babylonian names; God gave Daniel favour with him when Daniel asked not to defile himself with the king's food.",
+    "catholic": "",
+    "know": [
+      "Gave Daniel the name Belteshazzar (Dan 1:7)."
+    ],
+    "keyPassages": [
+      "dan 1:3-10"
+    ],
+    "father": null,
+    "mother": null,
+    "spouses": [],
+    "children": [],
+    "relations": [
+      {
+        "to": "daniel",
+        "type": "trained",
+        "ref": "dan 1:7-9"
+      },
+      {
+        "to": "nebuchadnezzar",
+        "type": "official of",
+        "ref": "dan 1:3"
+      }
+    ],
+    "search": {
+      "names": [
+        "Ashpenaz"
+      ],
+      "books": null
+    }
+  },
+  {
+    "id": "arioch",
+    "name": "Arioch",
+    "aliases": [],
+    "gender": "m",
+    "role": "Captain of the king's guard",
+    "era": "Exile",
+    "summary": "Arioch was sent to execute Babylon's wise men when none could tell Nebuchadnezzar his dream; Daniel's tactful question gained time, and Arioch brought Daniel before the king.",
+    "catholic": "",
+    "know": [
+      "Not the King Arioch of Genesis 14."
+    ],
+    "keyPassages": [
+      "dan 2:14-25"
+    ],
+    "father": null,
+    "mother": null,
+    "spouses": [],
+    "children": [],
+    "relations": [
+      {
+        "to": "daniel",
+        "type": "brought before the king",
+        "ref": "dan 2:25"
+      },
+      {
+        "to": "nebuchadnezzar",
+        "type": "officer of",
+        "ref": "dan 2:14"
+      }
+    ],
+    "search": {
+      "names": [
+        "Arioch"
+      ],
+      "books": [
+        "dan"
+      ]
+    }
+  },
+  {
+    "id": "belshazzar",
+    "name": "Belshazzar",
+    "aliases": [
+      "Baltasar"
+    ],
+    "gender": "m",
+    "role": "King of Babylon",
+    "era": "Exile",
+    "summary": "Belshazzar held a great feast using the gold and silver vessels taken from the Jerusalem Temple. A hand wrote MENE, MENE, TEKEL, UPHARSIN on the wall; Daniel interpreted it as God's judgment, and that night Belshazzar was killed and the kingdom passed to Darius the Mede.",
+    "catholic": "His profanation of the Temple vessels is a classic warning against sacrilege and pride; 'weighed in the balances and found wanting' (Dan 5:27) has become proverbial.",
+    "know": [
+      "Daniel 5 calls Nebuchadnezzar his 'father' (i.e., predecessor/ancestor); historically he was the son of Nabonidus.",
+      "Profaned the Temple vessels at his feast (Dan 5:2-4).",
+      "Slain the night of the writing on the wall (Dan 5:30).",
+      "Called 'Baltasar' in Baruch 1:11-12."
+    ],
+    "keyPassages": [
+      "dan 5:1-31",
+      "dan 7:1",
+      "dan 8:1"
+    ],
+    "father": null,
+    "mother": null,
+    "spouses": [],
+    "children": [],
+    "relations": [
+      {
+        "to": "nebuchadnezzar",
+        "type": "called son of",
+        "ref": "dan 5:2"
+      },
+      {
+        "to": "daniel",
+        "type": "honoured",
+        "ref": "dan 5:29"
+      },
+      {
+        "to": "darius-the-mede",
+        "type": "succeeded by",
+        "ref": "dan 5:30-31"
+      }
+    ],
+    "search": {
+      "names": [
+        "Belshazzar",
+        "Baltasar"
+      ],
+      "books": [
+        "dan",
+        "bar:1"
+      ]
+    }
+  },
+  {
+    "id": "darius-the-mede",
+    "name": "Darius the Mede",
+    "aliases": [],
+    "gender": "m",
+    "role": "King",
+    "era": "Exile",
+    "summary": "Darius the Mede received Belshazzar's kingdom and set Daniel over his governors. Tricked by jealous officials into signing an irrevocable decree against prayer to anyone but the king, he reluctantly had Daniel thrown to the lions, rejoiced at his deliverance, and decreed reverence for Daniel's God.",
+    "catholic": "",
+    "know": [
+      "Called 'son of Ahasuerus, of the offspring of the Medes' (Dan 9:1).",
+      "His historical identity is debated.",
+      "Distinct from Darius I of Persia in Haggai, Zechariah and Ezra."
+    ],
+    "keyPassages": [
+      "dan 5:31",
+      "dan 6:1-28",
+      "dan 9:1"
+    ],
+    "father": null,
+    "mother": null,
+    "spouses": [],
+    "children": [],
+    "relations": [
+      {
+        "to": "daniel",
+        "type": "threw to the lions and then honoured",
+        "ref": "dan 6:16-27"
+      },
+      {
+        "to": "belshazzar",
+        "type": "succeeded",
+        "ref": "dan 5:30-31"
+      }
+    ],
+    "search": {
+      "names": [
+        "Darius"
+      ],
+      "books": [
+        "dan"
+      ]
+    }
+  },
+  {
+    "id": "susanna",
+    "name": "Susanna",
+    "aliases": [],
+    "gender": "f",
+    "role": "Righteous wife",
+    "era": "Exile",
+    "summary": "Susanna, the beautiful and God-fearing wife of Joakim in Babylon, was propositioned by two lustful elders while bathing in her garden. She refused, choosing death over sin, and they falsely accused her of adultery; as she was led to execution God stirred up the young Daniel, who questioned the elders separately and exposed their lie.",
+    "catholic": "Susanna is honoured as a model of chastity, trust in God and courage under false accusation; her prayer 'O everlasting God, you know the secrets' (Dan 13:42) is a classic of innocent suffering. The Church reads her story (Dan 13) on Monday of the Fifth Week of Lent, pairing it with Jesus and the woman caught in adultery, and early Christians painted her in the catacombs as a figure of the soul saved by God. Her story is part of the Catholic (Greek) text of Daniel.",
+    "know": [
+      "Daughter of Helkias and wife of Joakim (Dan 13:1-2).",
+      "Said: 'It is better for me to fall into your hands than to sin' (Dan 13:23).",
+      "Saved when Daniel asked each elder under which tree he saw her (mastic vs. evergreen oak)."
+    ],
+    "keyPassages": [
+      "dan 13:1-4",
+      "dan 13:15-27",
+      "dan 13:42-46",
+      "dan 13:51-63"
+    ],
+    "father": "helkias-father-of-susanna",
+    "mother": null,
+    "spouses": [
+      "joakim-husband-of-susanna"
+    ],
+    "children": [],
+    "relations": [
+      {
+        "to": "daniel",
+        "type": "vindicated by",
+        "ref": "dan 13:45-62"
+      },
+      {
+        "to": "the-two-elders",
+        "type": "falsely accused by",
+        "ref": "dan 13:34-41"
+      }
+    ],
+    "search": {
+      "names": [
+        "Susanna"
+      ],
+      "books": [
+        "dan:13"
+      ]
+    }
+  },
+  {
+    "id": "joakim-husband-of-susanna",
+    "name": "Joakim",
+    "aliases": [],
+    "gender": "m",
+    "role": "Husband of Susanna",
+    "era": "Exile",
+    "summary": "Joakim was a wealthy and honoured Jew in Babylon whose house and garden were the gathering place of the community and its judges; his wife Susanna was falsely accused there.",
+    "catholic": "",
+    "know": [
+      "Not King Jehoiakim of Judah.",
+      "Praised God with Susanna's family when she was vindicated (Dan 13:63)."
+    ],
+    "keyPassages": [
+      "dan 13:1-6",
+      "dan 13:63"
+    ],
+    "father": null,
+    "mother": null,
+    "spouses": [
+      "susanna"
+    ],
+    "children": [],
+    "relations": [],
+    "search": {
+      "names": [
+        "Joakim"
+      ],
+      "books": [
+        "dan:13"
+      ]
+    }
+  },
+  {
+    "id": "helkias-father-of-susanna",
+    "name": "Helkias",
+    "aliases": [],
+    "gender": "m",
+    "role": "Father of Susanna",
+    "era": "Exile",
+    "summary": "Helkias was the righteous father of Susanna, who with his wife taught her the law of Moses and praised God when she was vindicated.",
+    "catholic": "",
+    "know": [
+      "Greek form of Hilkiah."
+    ],
+    "keyPassages": [
+      "dan 13:2-3",
+      "dan 13:63"
+    ],
+    "father": null,
+    "mother": null,
+    "spouses": [],
+    "children": [
+      "susanna"
+    ],
+    "relations": [],
+    "search": {
+      "names": [
+        "Helkias"
+      ],
+      "books": [
+        "dan:13"
+      ]
+    }
+  },
+  {
+    "id": "the-two-elders",
+    "name": "The two elders",
+    "aliases": [],
+    "gender": "m",
+    "role": "Corrupt judges (group)",
+    "era": "Exile",
+    "summary": "Two elders appointed as judges in Babylon lusted after Susanna, tried to force her, and when she refused accused her of adultery with a young man. Daniel separated them; one named a mastic tree, the other an evergreen oak, and they were put to death under the law of false witness.",
+    "catholic": "",
+    "know": [
+      "A group entry for two unnamed men.",
+      "Exposed by separate cross-examination (Dan 13:51-59).",
+      "Punished as the law of Moses prescribes for false witnesses (Deut 19:18-19)."
+    ],
+    "keyPassages": [
+      "dan 13:5",
+      "dan 13:19-21",
+      "dan 13:51-62"
+    ],
+    "father": null,
+    "mother": null,
+    "spouses": [],
+    "children": [],
+    "relations": [
+      {
+        "to": "susanna",
+        "type": "falsely accused",
+        "ref": "dan 13:36-41"
+      },
+      {
+        "to": "daniel",
+        "type": "convicted by",
+        "ref": "dan 13:51-61"
+      }
+    ],
+    "search": {
+      "names": [
+        "elders"
+      ],
+      "books": [
+        "dan:13"
+      ]
+    }
+  },
+  {
+    "id": "habakkuk",
+    "name": "Habakkuk",
+    "aliases": [],
+    "gender": "m",
+    "role": "Prophet",
+    "era": "Divided Kingdom",
+    "summary": "Habakkuk prophesied as Babylon rose to power (late 7th century BC), boldly asking God why he tolerates injustice and why he would use the ruthless Chaldeans. God answers that the vision will come in its time and that 'the righteous will live by his faith'; the book ends with a psalm of trust. In the Greek story of Bel and the Dragon, an angel carries 'the prophet Habakkuk' to Babylon to bring food to Daniel in the lions' den.",
+    "catholic": "Hab 2:4, 'the righteous will live by his faith', is quoted three times in the New Testament (Rom 1:17; Gal 3:11; Heb 10:38) and is central to the Church's teaching on faith as the beginning of salvation. His canticle (Hab 3) is used at Morning Prayer in the Liturgy of the Hours, and his final confession, 'though the fig tree does not flourish... yet I will rejoice in the LORD' (Hab 3:17-18), is a classic of hope in desolation.",
+    "know": [
+      "Dialogues with God about evil (Hab 1-2).",
+      "'The righteous will live by his faith' (Hab 2:4).",
+      "Carried by an angel to feed Daniel in the lions' den (Dan 14:33-39)."
+    ],
+    "keyPassages": [
+      "hab 1:1-4",
+      "hab 2:1-4",
+      "hab 3:17-19",
+      "dan 14:33-39"
+    ],
+    "father": null,
+    "mother": null,
+    "spouses": [],
+    "children": [],
+    "relations": [
+      {
+        "to": "daniel",
+        "type": "brought food to",
+        "ref": "dan 14:37"
+      },
+      {
+        "to": "paul",
+        "type": "quoted by",
+        "ref": "rom 1:17"
+      }
+    ],
+    "search": {
+      "names": [
+        "Habakkuk"
+      ],
+      "books": [
+        "hab",
+        "dan:14"
+      ]
+    }
+  },
+  {
+    "id": "gabriel-archangel",
+    "name": "Gabriel",
+    "aliases": [],
+    "gender": "m",
+    "role": "Archangel",
+    "era": "Exile",
+    "summary": "Gabriel is the angel who explains Daniel's vision of the ram and the goat and later brings him the prophecy of the seventy weeks. In the New Testament he announces the birth of John the Baptist to Zechariah and the conception of Jesus to the Virgin Mary.",
+    "catholic": "St Gabriel is venerated as the archangel of the Annunciation; his greeting 'Hail, full of grace' (Lk 1:28) begins the Hail Mary and the Angelus. The Church celebrates him with Sts Michael and Raphael on September 29 and remembers these angels in the liturgy (CCC 335). Daniel's seventy weeks, which Gabriel brings 'to anoint the most holy', were read by the Fathers as pointing to the time of the Messiah.",
+    "know": [
+      "Name means 'God is my strength' (traditional).",
+      "Appears to Daniel twice (Dan 8:16; 9:21).",
+      "'I am Gabriel, who stands in the presence of God' (Lk 1:19).",
+      "Announced the Incarnation to Mary (Lk 1:26-38)."
+    ],
+    "feast": "September 29",
+    "keyPassages": [
+      "dan 8:15-19",
+      "dan 9:20-27",
+      "luk 1:11-20",
+      "luk 1:26-38"
+    ],
+    "father": null,
+    "mother": null,
+    "spouses": [],
+    "children": [],
+    "relations": [
+      {
+        "to": "daniel",
+        "type": "instructed",
+        "ref": "dan 9:21-22"
+      },
+      {
+        "to": "zechariah-father-of-john",
+        "type": "announced John's birth to",
+        "ref": "luk 1:19"
+      },
+      {
+        "to": "mary-mother-of-jesus",
+        "type": "announced the Incarnation to",
+        "ref": "luk 1:26-38"
+      },
+      {
+        "to": "jesus",
+        "type": "announced the conception of",
+        "ref": "luk 1:31"
+      }
+    ],
+    "search": {
+      "names": [
+        "Gabriel"
+      ],
+      "books": null
+    }
+  },
+  {
+    "id": "michael-archangel",
+    "name": "Michael",
+    "aliases": [],
+    "gender": "m",
+    "role": "Archangel",
+    "era": "Exile",
+    "summary": "Michael is 'one of the chief princes' who helps the angel speaking to Daniel against the prince of Persia, and 'the great prince who stands for the children of your people' at the end time. In the New Testament he disputes with the devil over Moses' body and leads the angels in the war in heaven against the dragon.",
+    "catholic": "St Michael is venerated as protector of the Church and defender against Satan; the Prayer to St Michael composed under Pope Leo XIII ('defend us in battle') is widely prayed. The Church celebrates him with Sts Gabriel and Raphael on September 29 and remembers him in the liturgy (CCC 335).",
+    "know": [
+      "Name means 'Who is like God?'",
+      "Protector of God's people (Dan 10:13, 21; 12:1).",
+      "Called 'the archangel' in Jude 9.",
+      "Casts down the dragon in Revelation 12:7-9."
+    ],
+    "feast": "September 29",
+    "keyPassages": [
+      "dan 10:12-14",
+      "dan 10:21",
+      "dan 12:1-3",
+      "jud 1:9",
+      "rev 12:7-9"
+    ],
+    "father": null,
+    "mother": null,
+    "spouses": [],
+    "children": [],
+    "relations": [
+      {
+        "to": "daniel",
+        "type": "protector of Daniel's people",
+        "ref": "dan 12:1"
+      },
+      {
+        "to": "moses",
+        "type": "disputed over the body of",
+        "ref": "jud 1:9"
+      }
+    ],
+    "search": {
+      "names": [
+        "Michael"
+      ],
+      "books": [
+        "dan",
+        "jud",
+        "rev"
+      ]
+    }
+  },
+  {
+    "id": "hosea",
+    "name": "Hosea",
+    "aliases": [],
+    "gender": "m",
+    "role": "Prophet",
+    "era": "Divided Kingdom",
+    "summary": "Hosea son of Beeri prophesied in the northern kingdom in the last decades before its fall (8th century BC). God commanded him to marry Gomer, an unfaithful woman, and to give their children names of judgment — Jezreel, Lo-ruhamah, Lo-ammi — so that his broken marriage became a living parable of Israel's infidelity and of God's unfailing, redeeming love.",
+    "catholic": "Hosea is the great prophet of God's spousal love: the Church teaches that the prophets, seeing God's covenant with Israel in the image of exclusive and faithful married love, prepared the way for the New Covenant in which Christ is Bridegroom of the Church (CCC 1611; Eph 5:25-32). 'Out of Egypt I called my son' (Hos 11:1) is fulfilled in the Holy Family's return (Mt 2:15); Jesus twice quotes 'I desire mercy, not sacrifice' (Hos 6:6; Mt 9:13; 12:7); and 'on the third day he will raise us up' (Hos 6:2) was read by the Fathers in light of the Resurrection. Paul and Peter apply 'Not my people... my people' to the Church gathered from Jews and Gentiles (Rom 9:25-26; 1 Pet 2:10).",
+    "know": [
+      "Son of Beeri, prophet to the northern kingdom under Jeroboam II.",
+      "Married Gomer, daughter of Diblaim (Hos 1:3).",
+      "His children's names were prophecies: Jezreel, Lo-ruhamah ('not pitied'), Lo-ammi ('not my people').",
+      "'I will allure her... into the wilderness, and speak tenderly to her' (Hos 2:14).",
+      "First of the Twelve (Minor) Prophets in canonical order."
+    ],
+    "keyPassages": [
+      "hos 1:2-9",
+      "hos 2:14-23",
+      "hos 3:1-5",
+      "hos 6:1-6",
+      "hos 11:1-9",
+      "mat 2:15"
+    ],
+    "father": "beeri",
+    "mother": null,
+    "spouses": [
+      "gomer"
+    ],
+    "children": [
+      "jezreel-son-of-hosea",
+      "lo-ruhamah",
+      "lo-ammi"
+    ],
+    "relations": [
+      {
+        "to": "jesus",
+        "type": "prophesied",
+        "ref": "hos 11:1"
+      },
+      {
+        "to": "jesus",
+        "type": "quoted by",
+        "ref": "mat 9:13"
+      },
+      {
+        "to": "jeroboam-ii",
+        "type": "prophesied in the reign of",
+        "ref": "hos 1:1"
+      },
+      {
+        "to": "uzziah",
+        "type": "prophesied in the reign of",
+        "ref": "hos 1:1"
+      },
+      {
+        "to": "hezekiah",
+        "type": "prophesied in the reign of",
+        "ref": "hos 1:1"
+      },
+      {
+        "to": "paul",
+        "type": "quoted by",
+        "ref": "rom 9:25-26"
+      }
+    ],
+    "search": {
+      "names": [
+        "Hosea"
+      ],
+      "books": [
+        "hos",
+        "rom:9"
+      ]
+    }
+  },
+  {
+    "id": "beeri",
+    "name": "Beeri",
+    "aliases": [],
+    "gender": "m",
+    "role": "Father of Hosea",
+    "era": "Divided Kingdom",
+    "summary": "Beeri is named only as the father of the prophet Hosea.",
+    "catholic": "",
+    "know": [
+      "Not the Beeri who was Esau's father-in-law."
+    ],
+    "keyPassages": [
+      "hos 1:1"
+    ],
+    "father": null,
+    "mother": null,
+    "spouses": [],
+    "children": [
+      "hosea"
+    ],
+    "relations": [],
+    "search": {
+      "names": [
+        "Beeri"
+      ],
+      "books": [
+        "hos"
+      ]
+    }
+  },
+  {
+    "id": "gomer",
+    "name": "Gomer",
+    "aliases": [],
+    "gender": "f",
+    "role": "Wife of Hosea",
+    "era": "Divided Kingdom",
+    "summary": "Gomer, daughter of Diblaim, was the wife God told Hosea to marry, 'a wife of prostitution'. She bore three children whose names announced judgment on Israel; her unfaithfulness and Hosea's command to love her again mirror Israel's idolatry and God's faithful love.",
+    "catholic": "In the Church's reading Gomer stands for Israel — and every soul — unfaithful to God, whom the divine Bridegroom pursues and restores; the pattern is fulfilled in Christ who loves the Church and gives himself up for her (Eph 5:25).",
+    "know": [
+      "Daughter of Diblaim (Hos 1:3).",
+      "Mother of Jezreel, Lo-ruhamah and Lo-ammi.",
+      "Hos 3:1-3 (Hosea buys back an adulterous woman) is usually understood to refer to Gomer."
+    ],
+    "keyPassages": [
+      "hos 1:2-9",
+      "hos 3:1-3"
+    ],
+    "father": "diblaim",
+    "mother": null,
+    "spouses": [
+      "hosea"
+    ],
+    "children": [
+      "jezreel-son-of-hosea",
+      "lo-ruhamah",
+      "lo-ammi"
+    ],
+    "relations": [],
+    "search": {
+      "names": [
+        "Gomer"
+      ],
+      "books": [
+        "hos"
+      ]
+    }
+  },
+  {
+    "id": "diblaim",
+    "name": "Diblaim",
+    "aliases": [],
+    "gender": "m",
+    "role": "Father of Gomer",
+    "era": "Divided Kingdom",
+    "summary": "Diblaim is named only as the father of Gomer, Hosea's wife.",
+    "catholic": "",
+    "know": [],
+    "keyPassages": [
+      "hos 1:3"
+    ],
+    "father": null,
+    "mother": null,
+    "spouses": [],
+    "children": [
+      "gomer"
+    ],
+    "relations": [],
+    "search": {
+      "names": [
+        "Diblaim"
+      ],
+      "books": null
+    }
+  },
+  {
+    "id": "jezreel-son-of-hosea",
+    "name": "Jezreel",
+    "aliases": [],
+    "gender": "m",
+    "role": "Son of Hosea",
+    "era": "Divided Kingdom",
+    "summary": "Jezreel, Hosea and Gomer's first son, was named for the valley where Jehu shed royal blood, announcing God's judgment on Jehu's dynasty; later the name ('God sows') becomes a promise of restoration.",
+    "catholic": "",
+    "know": [
+      "'She bore him a son' (Hos 1:3).",
+      "Name means 'God sows'.",
+      "'Great will be the day of Jezreel' (Hos 1:11)."
+    ],
+    "keyPassages": [
+      "hos 1:3-5",
+      "hos 1:11",
+      "hos 2:22-23"
+    ],
+    "father": "hosea",
+    "mother": "gomer",
+    "spouses": [],
+    "children": [],
+    "relations": [],
+    "search": {
+      "names": [
+        "Jezreel"
+      ],
+      "books": [
+        "hos:1-2"
+      ]
+    }
+  },
+  {
+    "id": "lo-ruhamah",
+    "name": "Lo-ruhamah",
+    "aliases": [
+      "Lo-Ruhamah"
+    ],
+    "gender": "f",
+    "role": "Daughter of Hosea",
+    "era": "Divided Kingdom",
+    "summary": "Gomer's daughter, named Lo-ruhamah ('not pitied') as a sign that God would no longer show mercy to the house of Israel; God later promises, 'I will have mercy on her who had not obtained mercy'.",
+    "catholic": "Her renaming from 'not pitied' to 'pitied' is applied in the New Testament to the Church: 'who once had not obtained mercy, but now have obtained mercy' (1 Pet 2:10).",
+    "know": [
+      "Name means 'not pitied / not loved'.",
+      "Hos 1:6 does not say she was born 'to him', which some read as a hint of Gomer's infidelity.",
+      "Reversed in Hos 2:23."
+    ],
+    "keyPassages": [
+      "hos 1:6-7",
+      "hos 2:23"
+    ],
+    "father": "hosea",
+    "mother": "gomer",
+    "spouses": [],
+    "children": [],
+    "relations": [],
+    "search": {
+      "names": [
+        "Lo- Ruhamah"
+      ],
+      "books": [
+        "hos"
+      ]
+    }
+  },
+  {
+    "id": "lo-ammi",
+    "name": "Lo-ammi",
+    "aliases": [
+      "Lo-Ammi"
+    ],
+    "gender": "m",
+    "role": "Son of Hosea",
+    "era": "Divided Kingdom",
+    "summary": "Gomer's second son, named Lo-ammi ('not my people') as a sign of the broken covenant; God promises that those called 'not my people' will be called 'sons of the living God'.",
+    "catholic": "St Paul (Rom 9:25-26) and St Peter (1 Pet 2:10) see the reversal 'not my people... my people' fulfilled in the Church, gathered from Jews and Gentiles.",
+    "know": [
+      "Name means 'not my people'.",
+      "Reversed in Hos 1:10 and 2:23; quoted in Rom 9:25-26."
+    ],
+    "keyPassages": [
+      "hos 1:8-10",
+      "hos 2:23",
+      "rom 9:25-26"
+    ],
+    "father": "hosea",
+    "mother": "gomer",
+    "spouses": [],
+    "children": [],
+    "relations": [],
+    "search": {
+      "names": [
+        "Lo-Ammi"
+      ],
+      "books": [
+        "hos"
+      ]
+    }
+  },
+  {
+    "id": "joel",
+    "name": "Joel",
+    "aliases": [],
+    "gender": "m",
+    "role": "Prophet",
+    "era": "Divided Kingdom",
+    "summary": "Joel son of Pethuel saw a devastating plague of locusts as a sign of the coming Day of the LORD and called the people to fasting and wholehearted repentance. He promised that afterwards God would pour out his Spirit on all flesh — sons and daughters, old and young, servants and handmaids.",
+    "catholic": "On Pentecost St Peter declared that Joel's prophecy of the outpouring of the Spirit was fulfilled (Acts 2:16-21); the Church sees in it the gift of the Spirit to the whole messianic people, communicated in Confirmation (CCC 1287). Joel 2:12-18 ('return to me with all your heart... rend your heart and not your garments') is the first reading of Ash Wednesday, opening Lent.",
+    "know": [
+      "Son of Pethuel (Joel 1:1); date of ministry uncertain.",
+      "Locust plague as a call to repentance (Joel 1-2).",
+      "'I will pour out my Spirit on all flesh' (Joel 2:28) — quoted at Pentecost.",
+      "Read on Ash Wednesday."
+    ],
+    "keyPassages": [
+      "jol 1:1-4",
+      "jol 2:12-17",
+      "jol 2:28-32",
+      "act 2:14-21"
+    ],
+    "father": "pethuel",
+    "mother": null,
+    "spouses": [],
+    "children": [],
+    "relations": [
+      {
+        "to": "peter",
+        "type": "quoted at Pentecost by",
+        "ref": "act 2:16-21"
+      }
+    ],
+    "search": {
+      "names": [
+        "Joel"
+      ],
+      "books": [
+        "jol",
+        "act:2"
+      ]
+    }
+  },
+  {
+    "id": "pethuel",
+    "name": "Pethuel",
+    "aliases": [],
+    "gender": "m",
+    "role": "Father of Joel",
+    "era": "Divided Kingdom",
+    "summary": "Pethuel is named only as the father of the prophet Joel.",
+    "catholic": "",
+    "know": [],
+    "keyPassages": [
+      "jol 1:1"
+    ],
+    "father": null,
+    "mother": null,
+    "spouses": [],
+    "children": [
+      "joel"
+    ],
+    "relations": [],
+    "search": {
+      "names": [
+        "Pethuel"
+      ],
+      "books": null
+    }
+  },
+  {
+    "id": "amos",
+    "name": "Amos",
+    "aliases": [],
+    "gender": "m",
+    "role": "Prophet",
+    "era": "Divided Kingdom",
+    "summary": "Amos, a herdsman and dresser of sycamore figs from Tekoa in Judah, was sent to prophesy in the northern kingdom under Jeroboam II (8th century BC). He denounced oppression of the poor, corrupt worship and complacent luxury, saw visions of locusts, fire, a plumb line and summer fruit, and was expelled from Bethel by the priest Amaziah. The book ends with the promise to raise up David's fallen tent.",
+    "catholic": "Amos is the great prophetic voice of social justice: 'let justice roll on like rivers' (Amos 5:24) informs the Church's social teaching on worship that is inseparable from care for the poor. At the Council of Jerusalem St James quoted Amos 9:11-12 to show that the Gentiles' entry into the Church fulfils God's plan to rebuild David's tent (Acts 15:16-17). Tobit recalls Amos' prophecy that feasts would be turned to mourning (Tob 2:6).",
+    "know": [
+      "'I was no prophet, nor a prophet's son, but a herdsman' (Amos 7:14).",
+      "Expelled from Bethel by Amaziah the priest.",
+      "Five visions: locusts, fire, plumb line, summer fruit, the Lord by the altar.",
+      "Promise of David's restored tent quoted in Acts 15."
+    ],
+    "keyPassages": [
+      "amo 1:1-2",
+      "amo 5:21-24",
+      "amo 7:7-17",
+      "amo 8:4-7",
+      "amo 9:11-15",
+      "act 15:13-17"
+    ],
+    "father": null,
+    "mother": null,
+    "spouses": [],
+    "children": [],
+    "relations": [
+      {
+        "to": "amaziah-priest-of-bethel",
+        "type": "expelled by",
+        "ref": "amo 7:12-13"
+      },
+      {
+        "to": "jeroboam-ii",
+        "type": "prophesied against",
+        "ref": "amo 7:10-11"
+      },
+      {
+        "to": "uzziah",
+        "type": "prophesied in the reign of",
+        "ref": "amo 1:1"
+      },
+      {
+        "to": "james-brother-of-the-lord",
+        "type": "quoted by",
+        "ref": "act 15:13-17"
+      },
+      {
+        "to": "tobit",
+        "type": "remembered by",
+        "ref": "tob 2:6"
+      }
+    ],
+    "search": {
+      "names": [
+        "Amos"
+      ],
+      "books": [
+        "amo",
+        "tob:2"
+      ]
+    }
+  },
+  {
+    "id": "amaziah-priest-of-bethel",
+    "name": "Amaziah, priest of Bethel",
+    "aliases": [],
+    "gender": "m",
+    "role": "Priest of the royal sanctuary",
+    "era": "Divided Kingdom",
+    "summary": "Amaziah, priest of the royal shrine at Bethel, reported Amos to King Jeroboam II for conspiracy and ordered the prophet back to Judah; Amos answered with a word of judgment against Amaziah's family.",
+    "catholic": "",
+    "know": [
+      "Not King Amaziah of Judah.",
+      "'Bethel is the king's sanctuary' (Amos 7:13)."
+    ],
+    "keyPassages": [
+      "amo 7:10-17"
+    ],
+    "father": null,
+    "mother": null,
+    "spouses": [],
+    "children": [],
+    "relations": [
+      {
+        "to": "amos",
+        "type": "expelled",
+        "ref": "amo 7:12"
+      },
+      {
+        "to": "jeroboam-ii",
+        "type": "reported to",
+        "ref": "amo 7:10"
+      }
+    ],
+    "search": {
+      "names": [
+        "Amaziah"
+      ],
+      "books": [
+        "amo"
+      ]
+    }
+  },
+  {
+    "id": "obadiah-prophet",
+    "name": "Obadiah",
+    "aliases": [],
+    "gender": "m",
+    "role": "Prophet",
+    "era": "Exile",
+    "summary": "Obadiah is the author of the shortest book of the Old Testament, a single vision against Edom for gloating over and plundering Jerusalem on the day of its fall, ending with the promise that 'the kingdom will be the LORD's'.",
+    "catholic": "Obadiah teaches that God judges pride and cruelty toward a brother nation (Edom descended from Esau, Israel from Jacob) and that the final kingdom belongs to God, fulfilled in the Kingdom Christ inaugurates.",
+    "know": [
+      "Shortest book of the Old Testament (21 verses).",
+      "Not the Obadiah of Ahab's household in 1 Kings 18.",
+      "Usually dated after Jerusalem's fall in 587 BC."
+    ],
+    "keyPassages": [
+      "oba 1:1-4",
+      "oba 1:10-15",
+      "oba 1:21"
+    ],
+    "father": null,
+    "mother": null,
+    "spouses": [],
+    "children": [],
+    "relations": [
+      {
+        "to": "esau",
+        "type": "prophesied against the descendants of",
+        "ref": "oba 1:6"
+      }
+    ],
+    "search": {
+      "names": [
+        "Obadiah"
+      ],
+      "books": [
+        "oba"
+      ]
+    }
+  },
+  {
+    "id": "jonah",
+    "name": "Jonah",
+    "aliases": [],
+    "gender": "m",
+    "role": "Prophet",
+    "era": "Divided Kingdom",
+    "summary": "Jonah son of Amittai, from Gath-hepher, prophesied in the time of Jeroboam II. Sent to preach to Nineveh, he fled by ship toward Tarshish, was thrown overboard in a storm and swallowed by a great fish for three days and nights, then prayed and was cast onto dry land. His preaching brought all Nineveh to repentance, to his displeasure, and God taught him his compassion for the city.",
+    "catholic": "Jesus himself made Jonah a sign of his death and Resurrection: 'as Jonah was three days and three nights in the belly of the huge fish, so will the Son of Man be three days... in the heart of the earth' (Mt 12:40). Nineveh's repentance is a model for Lent — Jonah 3 is read on the Wednesday of the First Week of Lent — and the book proclaims God's mercy to the Gentiles. Jonah and the fish are among the most frequent images in early Christian catacomb art as a figure of resurrection.",
+    "know": [
+      "Son of Amittai from Gath-hepher (2 Kings 14:25).",
+      "Fled toward Tarshish; three days in the fish (Jonah 1:17).",
+      "Nineveh repented at his preaching (Jonah 3).",
+      "'The sign of Jonah' given by Jesus (Mt 12:39-41; Lk 11:29-32)."
+    ],
+    "keyPassages": [
+      "jon 1:1-17",
+      "jon 2:1-10",
+      "jon 3:1-10",
+      "jon 4:1-11",
+      "mat 12:39-41",
+      "2ki 14:25"
+    ],
+    "father": "amittai",
+    "mother": null,
+    "spouses": [],
+    "children": [],
+    "relations": [
+      {
+        "to": "jesus",
+        "type": "sign of the Resurrection of",
+        "ref": "mat 12:40"
+      },
+      {
+        "to": "jeroboam-ii",
+        "type": "prophesied in the reign of",
+        "ref": "2ki 14:25"
+      },
+      {
+        "to": "tobit",
+        "type": "trusted the prophecy of",
+        "ref": "tob 14:4"
+      }
+    ],
+    "search": {
+      "names": [
+        "Jonah"
+      ],
+      "books": [
+        "jon",
+        "2ki:14",
+        "tob:14",
+        "mat:12",
+        "luk:11"
+      ]
+    }
+  },
+  {
+    "id": "amittai",
+    "name": "Amittai",
+    "aliases": [],
+    "gender": "m",
+    "role": "Father of Jonah",
+    "era": "Divided Kingdom",
+    "summary": "Amittai is named only as the father of the prophet Jonah.",
+    "catholic": "",
+    "know": [],
+    "keyPassages": [
+      "jon 1:1",
+      "2ki 14:25"
+    ],
+    "father": null,
+    "mother": null,
+    "spouses": [],
+    "children": [
+      "jonah"
+    ],
+    "relations": [],
+    "search": {
+      "names": [
+        "Amittai"
+      ],
+      "books": null
+    }
+  },
+  {
+    "id": "micah",
+    "name": "Micah",
+    "aliases": [],
+    "gender": "m",
+    "role": "Prophet",
+    "era": "Divided Kingdom",
+    "summary": "Micah of Moresheth, a contemporary of Isaiah, prophesied under Jotham, Ahaz and Hezekiah against the injustice of Samaria and Jerusalem, foretelling that Zion would be ploughed like a field. He also announced a ruler from little Bethlehem Ephrathah and summed up true religion: 'to act justly, to love mercy, and to walk humbly with your God'.",
+    "catholic": "The chief priests and scribes cited Micah 5:2 to Herod as the prophecy that the Messiah would be born in Bethlehem (Mt 2:5-6); the Church reads 'she who is in labour gives birth' (Mic 5:3) of the Virgin Mary, and Mic 5 is read on the Fourth Sunday of Advent (Year C). The 'Reproaches' (Improperia) of the Good Friday liturgy — 'My people, what have I done to you?' — echo Micah 6:3.",
+    "know": [
+      "From Moresheth in Judah; contemporary of Isaiah.",
+      "Bethlehem prophecy (Mic 5:2), quoted in Mt 2:6.",
+      "'Act justly, love mercy, walk humbly' (Mic 6:8).",
+      "His warning to Hezekiah was remembered at Jeremiah's trial (Jer 26:18-19)."
+    ],
+    "keyPassages": [
+      "mic 1:1",
+      "mic 4:1-4",
+      "mic 5:2-5",
+      "mic 6:1-8",
+      "mic 7:18-20",
+      "mat 2:4-6"
+    ],
+    "father": null,
+    "mother": null,
+    "spouses": [],
+    "children": [],
+    "relations": [
+      {
+        "to": "jesus",
+        "type": "prophesied",
+        "ref": "mic 5:2"
+      },
+      {
+        "to": "mary-mother-of-jesus",
+        "type": "prophesied",
+        "ref": "mic 5:3"
+      },
+      {
+        "to": "hezekiah",
+        "type": "prophesied in the reign of",
+        "ref": "jer 26:18-19"
+      },
+      {
+        "to": "jotham",
+        "type": "prophesied in the reign of",
+        "ref": "mic 1:1"
+      },
+      {
+        "to": "ahaz",
+        "type": "prophesied in the reign of",
+        "ref": "mic 1:1"
+      },
+      {
+        "to": "jeremiah",
+        "type": "cited in the defence of",
+        "ref": "jer 26:18"
+      }
+    ],
+    "search": {
+      "names": [
+        "Micah"
+      ],
+      "books": [
+        "mic",
+        "jer:26"
+      ]
+    }
+  },
+  {
+    "id": "nahum",
+    "name": "Nahum",
+    "aliases": [],
+    "gender": "m",
+    "role": "Prophet",
+    "era": "Divided Kingdom",
+    "summary": "Nahum the Elkoshite announced the fall of Nineveh, the cruel Assyrian capital, which happened in 612 BC. His poem celebrates God as slow to anger but great in power, a refuge for those who trust him and a judge of oppressors.",
+    "catholic": "Nahum 1:15 ('on the mountains the feet of him who brings good news, who publishes peace') is echoed in Isaiah 52:7 and applied by St Paul to the preachers of the Gospel (Rom 10:15).",
+    "know": [
+      "From Elkosh (location unknown).",
+      "Prophesied the fall of Nineveh (612 BC).",
+      "Contrast with Jonah, where Nineveh repents."
+    ],
+    "keyPassages": [
+      "nam 1:1-8",
+      "nam 1:15",
+      "nam 3:1-7"
+    ],
+    "father": null,
+    "mother": null,
+    "spouses": [],
+    "children": [],
+    "relations": [],
+    "search": {
+      "names": [
+        "Nahum"
+      ],
+      "books": [
+        "nam"
+      ]
+    }
+  },
+  {
+    "id": "zephaniah",
+    "name": "Zephaniah",
+    "aliases": [],
+    "gender": "m",
+    "role": "Prophet",
+    "era": "Divided Kingdom",
+    "summary": "Zephaniah, son of Cushi and a descendant of a certain Hezekiah, prophesied in the reign of King Josiah. He proclaimed the Day of the LORD as a day of wrath against idolatry in Judah and the nations, promised a humble and lowly remnant, and ended with a joyful song: 'Sing, daughter of Zion... the LORD your God is in the midst of you'.",
+    "catholic": "The medieval sequence 'Dies irae' takes its opening words from Zephaniah 1:15 in the Latin Vulgate ('dies irae dies illa'). His call 'Sing, daughter of Zion' (Zeph 3:14-17), echoed in Gabriel's 'Rejoice' to Mary, is read in Advent and on the feast of the Visitation, and the Church sees Mary as the Daughter of Zion in whom the Lord dwells. His 'humble and lowly people' (Zeph 3:12) are the 'anawim', the poor of the Lord, whose spirituality Mary embodies in the Magnificat.",
+    "know": [
+      "Genealogy back four generations to a 'Hezekiah' (Zeph 1:1), possibly the king.",
+      "Prophesied under Josiah (c. 640-609 BC).",
+      "Source of the 'Dies irae' (Zeph 1:15).",
+      "'Sing, daughter of Zion!' (Zeph 3:14)."
+    ],
+    "keyPassages": [
+      "zep 1:1",
+      "zep 1:14-18",
+      "zep 3:11-13",
+      "zep 3:14-20"
+    ],
+    "father": "cushi",
+    "mother": null,
+    "spouses": [],
+    "children": [],
+    "relations": [
+      {
+        "to": "josiah",
+        "type": "prophesied in the reign of",
+        "ref": "zep 1:1"
+      },
+      {
+        "to": "mary-mother-of-jesus",
+        "type": "foreshadowed (Daughter of Zion)",
+        "ref": "zep 3:14-17"
+      }
+    ],
+    "search": {
+      "names": [
+        "Zephaniah"
+      ],
+      "books": [
+        "zep"
+      ]
+    }
+  },
+  {
+    "id": "cushi",
+    "name": "Cushi",
+    "aliases": [],
+    "gender": "m",
+    "role": "Father of Zephaniah",
+    "era": "Divided Kingdom",
+    "summary": "Cushi son of Gedaliah was the father of the prophet Zephaniah.",
+    "catholic": "",
+    "know": [
+      "Not the 'Cushi' (Cushite messenger) of 2 Samuel 18."
+    ],
+    "keyPassages": [
+      "zep 1:1"
+    ],
+    "father": "gedaliah-son-of-amariah",
+    "mother": null,
+    "spouses": [],
+    "children": [
+      "zephaniah"
+    ],
+    "relations": [],
+    "search": {
+      "names": [
+        "Cushi"
+      ],
+      "books": [
+        "zep"
+      ]
+    }
+  },
+  {
+    "id": "gedaliah-son-of-amariah",
+    "name": "Gedaliah son of Amariah",
+    "aliases": [],
+    "gender": "m",
+    "role": "Ancestor of Zephaniah",
+    "era": "Divided Kingdom",
+    "summary": "Gedaliah son of Amariah was the grandfather of the prophet Zephaniah.",
+    "catholic": "",
+    "know": [
+      "Not Gedaliah the governor, son of Ahikam."
+    ],
+    "keyPassages": [
+      "zep 1:1"
+    ],
+    "father": "amariah-ancestor-of-zephaniah",
+    "mother": null,
+    "spouses": [],
+    "children": [
+      "cushi"
+    ],
+    "relations": [],
+    "search": {
+      "names": [
+        "Gedaliah"
+      ],
+      "books": [
+        "zep"
+      ]
+    }
+  },
+  {
+    "id": "amariah-ancestor-of-zephaniah",
+    "name": "Amariah son of Hezekiah",
+    "aliases": [],
+    "gender": "m",
+    "role": "Ancestor of Zephaniah",
+    "era": "Divided Kingdom",
+    "summary": "Amariah, son of a Hezekiah, was the great-grandfather of the prophet Zephaniah.",
+    "catholic": "",
+    "know": [
+      "Zeph 1:1 calls him 'son of Hezekiah' without saying 'king'; many think this is King Hezekiah of Judah, which would make Zephaniah of royal descent, but the text does not confirm it."
+    ],
+    "keyPassages": [
+      "zep 1:1"
+    ],
+    "father": null,
+    "mother": null,
+    "spouses": [],
+    "children": [
+      "gedaliah-son-of-amariah"
+    ],
+    "relations": [],
+    "search": {
+      "names": [
+        "Amariah"
+      ],
+      "books": [
+        "zep"
+      ]
+    }
+  },
+  {
+    "id": "haggai",
+    "name": "Haggai",
+    "aliases": [],
+    "gender": "m",
+    "role": "Prophet",
+    "era": "Return & Restoration",
+    "summary": "Haggai prophesied in 520 BC, the second year of Darius I, to the returned exiles in Jerusalem. He rebuked them for living in panelled houses while God's house lay in ruins, stirred up the governor Zerubbabel and the high priest Joshua to rebuild the Temple, and promised that the glory of the new house would surpass the old.",
+    "catholic": "Haggai's promise that God would 'shake all nations' and fill the Temple with glory (Hag 2:6-9) was read in the Christian tradition as pointing to Christ's coming into the Temple (cf. Mal 3:1; Lk 2:22-32); the Vulgate's 'the desired of all nations will come' (Hag 2:7) made this verse a classic Advent text. Hebrews 12:26-28 applies his 'once more I will shake the heavens and the earth' to the unshakable Kingdom.",
+    "know": [
+      "Four dated oracles, all in 520 BC (Hag 1:1; 2:1; 2:10; 2:20).",
+      "Rebuilding of the Temple resumed at his preaching (Ezra 5:1-2; 6:14).",
+      "Called Zerubbabel God's 'signet ring' (Hag 2:23)."
+    ],
+    "keyPassages": [
+      "hag 1:1-15",
+      "hag 2:1-9",
+      "hag 2:20-23",
+      "ezr 5:1-2"
+    ],
+    "father": null,
+    "mother": null,
+    "spouses": [],
+    "children": [],
+    "relations": [
+      {
+        "to": "zerubbabel",
+        "type": "encouraged",
+        "ref": "hag 1:12-14"
+      },
+      {
+        "to": "jeshua-high-priest",
+        "type": "encouraged",
+        "ref": "hag 2:4"
+      },
+      {
+        "to": "zechariah-prophet",
+        "type": "prophesied together with",
+        "ref": "ezr 5:1"
+      }
+    ],
+    "search": {
+      "names": [
+        "Haggai"
+      ],
+      "books": [
+        "hag",
+        "ezr:5-6"
+      ]
+    }
+  },
+  {
+    "id": "zechariah-prophet",
+    "name": "Zechariah",
+    "aliases": [],
+    "gender": "m",
+    "role": "Prophet",
+    "era": "Return & Restoration",
+    "summary": "Zechariah son of Berechiah, son of Iddo, began to prophesy in 520 BC alongside Haggai, encouraging the returned exiles to rebuild the Temple. His night visions include the high priest Joshua clothed in clean garments, the golden lampstand and the two olive trees ('not by might, nor by power, but by my Spirit'), and his later oracles speak of a humble king riding on a donkey, a shepherd valued at thirty pieces of silver, and one 'whom they have pierced'.",
+    "catholic": "The Gospels read Zechariah's oracles as fulfilled in the Passion: Jesus enters Jerusalem on Palm Sunday as the king 'humble, and riding on a donkey' (Zech 9:9; Mt 21:4-5; Jn 12:15; CCC 559); he is betrayed for thirty pieces of silver (Zech 11:12-13; Mt 27:9); the shepherd is struck and the sheep scattered (Zech 13:7; Mt 26:31); and they look on him whom they have pierced (Zech 12:10; Jn 19:37), a text the Church contemplates in devotion to the pierced Heart of Jesus. The crowning of Joshua (Jeshua) as 'the Branch' (Zech 6:11-13) was read by the Fathers as a figure of Christ, priest and king — whose Hebrew name is the same as Joshua's.",
+    "know": [
+      "Son of Berechiah, grandson of Iddo (Zech 1:1); Ezra calls him 'son of Iddo'.",
+      "Eight night visions (Zech 1-6).",
+      "King riding on a donkey (Zech 9:9) — Palm Sunday.",
+      "'They will look on me whom they have pierced' (Zech 12:10)."
+    ],
+    "keyPassages": [
+      "zec 1:1-6",
+      "zec 3:1-10",
+      "zec 4:1-14",
+      "zec 6:9-15",
+      "zec 9:9-10",
+      "zec 11:12-13",
+      "zec 12:10",
+      "zec 13:7"
+    ],
+    "father": "berechiah",
+    "mother": null,
+    "spouses": [],
+    "children": [],
+    "relations": [
+      {
+        "to": "jesus",
+        "type": "prophesied",
+        "ref": "zec 9:9"
+      },
+      {
+        "to": "jesus",
+        "type": "prophesied",
+        "ref": "zec 12:10"
+      },
+      {
+        "to": "jesus",
+        "type": "prophesied",
+        "ref": "zec 13:7"
+      },
+      {
+        "to": "jeshua-high-priest",
+        "type": "saw in vision",
+        "ref": "zec 3:1-10"
+      },
+      {
+        "to": "jeshua-high-priest",
+        "type": "crowned",
+        "ref": "zec 6:11"
+      },
+      {
+        "to": "zerubbabel",
+        "type": "prophesied to",
+        "ref": "zec 4:6-10"
+      },
+      {
+        "to": "haggai",
+        "type": "prophesied together with",
+        "ref": "ezr 6:14"
+      }
+    ],
+    "search": {
+      "names": [
+        "Zechariah"
+      ],
+      "books": [
+        "zec:1",
+        "zec:7",
+        "ezr:5-6"
+      ]
+    }
+  },
+  {
+    "id": "berechiah",
+    "name": "Berechiah",
+    "aliases": [],
+    "gender": "m",
+    "role": "Father of Zechariah",
+    "era": "Return & Restoration",
+    "summary": "Berechiah son of Iddo was the father of the prophet Zechariah.",
+    "catholic": "",
+    "know": [
+      "Ezra 5:1 and 6:14 skip him, calling Zechariah 'son of Iddo'."
+    ],
+    "keyPassages": [
+      "zec 1:1"
+    ],
+    "father": "iddo-grandfather-of-zechariah",
+    "mother": null,
+    "spouses": [],
+    "children": [
+      "zechariah-prophet"
+    ],
+    "relations": [],
+    "search": {
+      "names": [
+        "Berechiah"
+      ],
+      "books": [
+        "zec:1"
+      ]
+    }
+  },
+  {
+    "id": "iddo-grandfather-of-zechariah",
+    "name": "Iddo",
+    "aliases": [],
+    "gender": "m",
+    "role": "Grandfather of Zechariah",
+    "era": "Return & Restoration",
+    "summary": "Iddo was the grandfather of the prophet Zechariah, who is sometimes called simply 'son of Iddo'. A priestly family of Iddo returned with Zerubbabel (Neh 12:4, 16).",
+    "catholic": "",
+    "know": [
+      "Not the seer Iddo of Chronicles.",
+      "Probably the priest Iddo who returned from exile (Neh 12:4)."
+    ],
+    "keyPassages": [
+      "zec 1:1",
+      "ezr 5:1"
+    ],
+    "father": null,
+    "mother": null,
+    "spouses": [],
+    "children": [
+      "berechiah"
+    ],
+    "relations": [
+      {
+        "to": "zechariah-prophet",
+        "type": "grandfather of",
+        "ref": "zec 1:1"
+      }
+    ],
+    "search": {
+      "names": [
+        "Iddo"
+      ],
+      "books": [
+        "zec:1",
+        "ezr:5-6"
+      ]
+    }
+  },
+  {
+    "id": "malachi",
+    "name": "Malachi",
+    "aliases": [],
+    "gender": "m",
+    "role": "Prophet",
+    "era": "Return & Restoration",
+    "summary": "Malachi ('my messenger') prophesied in the 5th century BC to a discouraged post-exilic community, rebuking priests who offered blemished sacrifices, men who divorced the wives of their youth, and people who robbed God of tithes. He announced that the Lord would send his messenger to prepare the way and would send Elijah the prophet before the great and terrible Day of the LORD.",
+    "catholic": "Malachi 1:11 — 'in every place incense will be offered to my name, and a pure offering' — is taught by the Council of Trent (Session XXII, ch. 1) to be fulfilled in the Sacrifice of the Mass, offered among all nations, and is echoed in Eucharistic Prayer III ('from the rising of the sun to its setting'). Jesus identifies John the Baptist as the messenger of Mal 3:1 and as the Elijah who was to come (Mt 11:10, 14; cf. Lk 1:17). Mal 3:1-4, the Lord coming suddenly to his Temple, is read on the feast of the Presentation (February 2).",
+    "know": [
+      "Last book of the Old Testament in the Christian canon.",
+      "'A pure offering' among the nations (Mal 1:11) — the Mass.",
+      "'I send my messenger to prepare the way before me' (Mal 3:1).",
+      "Promise of Elijah's return (Mal 4:5-6), fulfilled in John the Baptist."
+    ],
+    "keyPassages": [
+      "mal 1:6-14",
+      "mal 2:13-16",
+      "mal 3:1-4",
+      "mal 3:8-12",
+      "mal 4:4-6",
+      "mat 11:10-14"
+    ],
+    "father": null,
+    "mother": null,
+    "spouses": [],
+    "children": [],
+    "relations": [
+      {
+        "to": "jesus",
+        "type": "prophesied",
+        "ref": "mal 3:1"
+      },
+      {
+        "to": "jesus",
+        "type": "prophesied (the pure offering)",
+        "ref": "mal 1:11"
+      },
+      {
+        "to": "john-the-baptist",
+        "type": "prophesied",
+        "ref": "mal 3:1"
+      },
+      {
+        "to": "john-the-baptist",
+        "type": "prophesied",
+        "ref": "mal 4:5-6"
+      },
+      {
+        "to": "elijah",
+        "type": "foretold the return of",
+        "ref": "mal 4:5"
+      }
+    ],
+    "search": {
+      "names": [
+        "Malachi"
+      ],
+      "books": [
+        "mal"
+      ]
+    }
+  },
+  {
+    "id": "joakim-high-priest",
+    "name": "Joakim the high priest",
+    "aliases": [],
+    "gender": "m",
+    "role": "High priest",
+    "era": "Exile",
+    "summary": "Joakim son of Helkias, son of Salom, was the priest in Jerusalem to whom the exiles in Babylon sent money and the Book of Baruch, asking that sacrifices and prayers be offered for them.",
+    "catholic": "",
+    "know": [
+      "Not King Jehoiakim (also called Joakim in Bar 1:3)."
+    ],
+    "keyPassages": [
+      "bar 1:7-14"
+    ],
+    "father": null,
+    "mother": null,
+    "spouses": [],
+    "children": [],
+    "relations": [
+      {
+        "to": "baruch",
+        "type": "received the book of",
+        "ref": "bar 1:7-14"
+      }
+    ],
+    "search": {
+      "names": [
+        "Joakim"
+      ],
+      "books": [
+        "bar:1"
+      ]
+    }
+  }
+]

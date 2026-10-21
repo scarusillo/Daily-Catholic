@@ -1,0 +1,88 @@
+<meta charset="utf-8">
+<title>Catholic Bible People Map</title>
+<meta name="claude:viewport-fit-sides" content="cover">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Alegreya:ital,wght@0,400;0,500;0,700;1,400&family=Alegreya+SC:wght@500;700&family=Alegreya+Sans:wght@400;500;700&display=swap">
+<link rel="stylesheet" href="app.css">
+
+<header class="bar">
+  <div class="bar-inner">
+    <a class="brand" href="#map" aria-label="Home">
+      <svg viewBox="0 0 24 24" width="22" height="22" aria-hidden="true"><path d="M12 2v20M5 8h14" stroke="currentColor" stroke-width="2.2" fill="none" stroke-linecap="round"/></svg>
+      <span>Bible People Map</span>
+    </a>
+    <nav class="tabs" aria-label="Views">
+      <a href="#map" data-view="map">Map</a>
+      <a href="#canon" data-view="canon">Across the Books</a>
+      <a href="#people" data-view="people">People</a>
+      <a href="#quiz" data-view="quiz">Daily Quiz</a>
+    </nav>
+    <label class="search">
+      <span class="sr">Find a person</span>
+      <input id="q" type="search" placeholder="Find a person…" autocomplete="off">
+      <div id="qres" class="qres" hidden></div>
+    </label>
+  </div>
+</header>
+
+<main>
+  <section id="view-map" class="view">
+    <div class="map-head">
+      <div>
+        <h1>Everyone in the Catholic Bible, and how they connect</h1>
+        <p class="lede">Each dot is a person, placed left to right by era, from Adam to the Apostolic Church. Lines are family ties and other links. Tap a person to see their family, every passage they appear in, and what the Church teaches about them.</p>
+      </div>
+      <div class="legend" id="legend"></div>
+    </div>
+    <div class="map-wrap">
+      <canvas id="graph" aria-label="Network map of biblical people"></canvas>
+      <div class="map-tools">
+        <button id="zin" aria-label="Zoom in">+</button>
+        <button id="zout" aria-label="Zoom out">−</button>
+        <button id="zfit" aria-label="Fit map">Fit</button>
+      </div>
+      <div id="tip" class="tip" hidden></div>
+    </div>
+  </section>
+
+  <section id="view-canon" class="view" hidden>
+    <h1>Who appears where</h1>
+    <p class="lede">The 73 books of the Catholic canon run across the top. Each row is a person; the dot shows how many verses mention them in that book. Tap a row to open the person.</p>
+    <div class="canon-tools">
+      <label>Show <select id="canonFilter">
+        <option value="top">Most mentioned</option>
+        <option value="cross">Cross the Testaments</option>
+        <option value="deutero">In the deuterocanonical books</option>
+        <option value="women">Women</option>
+      </select></label>
+    </div>
+    <div class="canon-scroll"><div id="canon"></div></div>
+  </section>
+
+  <section id="view-people" class="view" hidden>
+    <h1>People</h1>
+    <div class="people-tools">
+      <input id="pf" type="search" placeholder="Filter by name or role" autocomplete="off">
+      <select id="pera" aria-label="Era"><option value="">All eras</option></select>
+      <select id="pbook" aria-label="Book"><option value="">All books</option></select>
+    </div>
+    <p class="count" id="pcount"></p>
+    <ul id="plist" class="plist"></ul>
+  </section>
+
+  <section id="view-quiz" class="view" hidden>
+    <div id="quiz"></div>
+  </section>
+</main>
+
+<aside id="panel" class="panel" hidden aria-live="polite">
+  <button class="close" id="pclose" aria-label="Close">×</button>
+  <div id="pbody"></div>
+</aside>
+
+<footer class="foot">
+  Scripture: World English Bible, Catholic Edition (public domain). Teaching notes are study summaries; consult the Catechism of the Catholic Church for authoritative teaching.
+</footer>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/d3/7.8.5/d3.min.js"></script>
+<script src="app.js"></script>

@@ -1,0 +1,6119 @@
+[
+ {
+  "id": "paul",
+  "name": "Paul",
+  "aliases": [
+   "Saul",
+   "Saul of Tarsus"
+  ],
+  "gender": "m",
+  "role": "Apostle to the Gentiles",
+  "era": "Apostolic Church",
+  "summary": "Saul of Tarsus was a zealous Pharisee, trained under Gamaliel, who approved of Stephen's stoning and persecuted the Church. The risen Jesus appeared to him on the road to Damascus; he was baptized by Ananias and became the great missionary to the Gentiles. His three missionary journeys (Acts 13-20) planted churches across Asia Minor and Greece, and his letters form the largest part of the New Testament. Arrested in Jerusalem, he appealed to Caesar and was brought as a prisoner to Rome, where Acts leaves him preaching openly.",
+  "catholic": "The Church honors Paul as 'the Apostle' par excellence, celebrating both his Conversion (January 25) and, together with Peter, the Solemnity of Saints Peter and Paul (June 29), the twin pillars of the Church of Rome. Tradition holds that he was martyred by beheading at Rome under Nero; his tomb is venerated at the Basilica of St Paul Outside the Walls. His conversion shows that the risen Christ appeared to him 'last of all, as to one untimely born' (1 Cor 15:8; CCC 659), and that persecuting the Church is persecuting Christ himself ('why are you persecuting me?'), a foundation of the doctrine of the Church as the Body of Christ. His letters supply core Catholic teaching on justification by grace through faith working in love, the Eucharist (1 Cor 11:23-29), the Church as Body and Bride of Christ (Eph 5), and the laying on of hands for ordination (2 Tim 1:6; CCC 1590). At the Council of Jerusalem (Acts 15) he submitted the circumcision question to the apostles and elders, and he went up to Jerusalem to confer with Peter (Gal 1:18), a model of communion with apostolic authority.",
+  "know": [
+   "Born a Jew of the tribe of Benjamin in Tarsus and a Roman citizen by birth (Acts 22:3, 22:28; Phil 3:5).",
+   "Converted on the road to Damascus (Acts 9, retold in Acts 22 and 26); feast of his Conversion January 25.",
+   "Thirteen New Testament letters bear his name (Romans through Philemon).",
+   "Acts uses 'Saul' until Acts 13:9 ('Saul, who is also called Paul') and 'Paul' thereafter.",
+   "A nephew, his sister's son, warned him of a plot against his life (Acts 23:16)."
+  ],
+  "feast": "January 25 (Conversion); June 29 (with St Peter)",
+  "keyPassages": [
+   "act 7:58-8:3",
+   "act 9:1-22",
+   "act 13:1-12",
+   "act 15:1-35",
+   "act 17:22-31",
+   "act 26:9-29",
+   "gal 1:11-2:14",
+   "2ti 4:6-8"
+  ],
+  "father": null,
+  "mother": null,
+  "spouses": [],
+  "children": [],
+  "relations": [
+   {
+    "to": "stephen",
+    "type": "approved of the stoning of",
+    "ref": "act 8:1"
+   },
+   {
+    "to": "jesus",
+    "type": "called by the risen Lord on the Damascus road",
+    "ref": "act 9:3-6"
+   },
+   {
+    "to": "ananias-of-damascus",
+    "type": "healed and baptized by",
+    "ref": "act 9:17-18"
+   },
+   {
+    "to": "barnabas",
+    "type": "introduced to the apostles by",
+    "ref": "act 9:27"
+   },
+   {
+    "to": "gamaliel",
+    "type": "educated under",
+    "ref": "act 22:3"
+   },
+   {
+    "to": "peter",
+    "type": "visited at Jerusalem",
+    "ref": "gal 1:18"
+   },
+   {
+    "to": "peter",
+    "type": "rebuked at Antioch",
+    "ref": "gal 2:11"
+   },
+   {
+    "to": "james-brother-of-the-lord",
+    "type": "met at Jerusalem",
+    "ref": "gal 1:19"
+   },
+   {
+    "to": "james-brother-of-the-lord",
+    "type": "received by at Jerusalem",
+    "ref": "act 21:18"
+   },
+   {
+    "to": "john-apostle",
+    "type": "given the right hand of fellowship by",
+    "ref": "gal 2:9"
+   },
+   {
+    "to": "silas",
+    "type": "missionary companion of",
+    "ref": "act 15:40"
+   },
+   {
+    "to": "timothy",
+    "type": "spiritual father of",
+    "ref": "1ti 1:2"
+   },
+   {
+    "to": "titus",
+    "type": "spiritual father of",
+    "ref": "tit 1:4"
+   },
+   {
+    "to": "luke",
+    "type": "accompanied by",
+    "ref": "col 4:14"
+   },
+   {
+    "to": "felix",
+    "type": "tried before",
+    "ref": "act 24:10-21"
+   },
+   {
+    "to": "festus",
+    "type": "appealed to Caesar before",
+    "ref": "act 25:10-12"
+   },
+   {
+    "to": "herod-agrippa-ii",
+    "type": "defended himself before",
+    "ref": "act 26:1-29"
+   },
+   {
+    "to": "peter",
+    "type": "praised as 'our beloved brother Paul' by",
+    "ref": "2pe 3:15"
+   }
+  ],
+  "search": {
+   "names": [
+    "Paul",
+    "Saul@act:7-9,act:11-13,act:22,act:26"
+   ],
+   "books": null
+  }
+ },
+ {
+  "id": "matthias",
+  "name": "Matthias",
+  "aliases": [],
+  "gender": "m",
+  "role": "Apostle",
+  "era": "Apostolic Church",
+  "summary": "After the death of Judas Iscariot, Peter led the 120 disciples in choosing a replacement from among those who had accompanied Jesus from his baptism to his ascension. Two were put forward, Joseph Barsabbas and Matthias; after prayer they cast lots, and the lot fell on Matthias, who was numbered with the eleven apostles.",
+  "catholic": "The election of Matthias is the first act of the Church after the Ascension and shows that the apostolic office ('his office let another take', Acts 1:20) continues after its holder: the root of the doctrine of apostolic succession (CCC 861-862). Peter takes the initiative, an early sign of his primacy among the Twelve. The restoration of the number twelve signifies the Church as the new Israel of twelve tribes. Feast May 14.",
+  "know": [
+   "Chosen by lot after prayer to replace Judas Iscariot.",
+   "Had to be a witness of Jesus' ministry from John's baptism to the Ascension (Acts 1:21-22).",
+   "His election made the Twelve complete again before Pentecost.",
+   "Feast May 14."
+  ],
+  "feast": "May 14",
+  "keyPassages": [
+   "act 1:15-26"
+  ],
+  "father": null,
+  "mother": null,
+  "spouses": [],
+  "children": [],
+  "relations": [
+   {
+    "to": "judas-iscariot",
+    "type": "took the office of",
+    "ref": "act 1:25-26"
+   },
+   {
+    "to": "peter",
+    "type": "chosen at the initiative of",
+    "ref": "act 1:15-22"
+   },
+   {
+    "to": "joseph-barsabbas",
+    "type": "chosen over",
+    "ref": "act 1:23-26"
+   }
+  ],
+  "search": {
+   "names": [
+    "Matthias"
+   ],
+   "books": [
+    "act:1"
+   ]
+  }
+ },
+ {
+  "id": "joseph-barsabbas",
+  "name": "Joseph Barsabbas",
+  "aliases": [
+   "Barsabbas",
+   "Justus"
+  ],
+  "gender": "m",
+  "role": "Disciple",
+  "era": "Apostolic Church",
+  "summary": "Joseph called Barsabbas, surnamed Justus, was one of the two disciples proposed to replace Judas Iscariot among the Twelve; the lot fell on Matthias instead.",
+  "catholic": "He is honored as one of the early disciples who had followed Jesus throughout his public ministry. His candidacy shows the criterion of apostolic witness to the whole ministry of Jesus.",
+  "know": [
+   "Also called Justus (Acts 1:23).",
+   "A witness of Jesus' whole ministry, from John's baptism to the Ascension.",
+   "Not chosen: the lot fell on Matthias."
+  ],
+  "keyPassages": [
+   "act 1:21-26"
+  ],
+  "father": null,
+  "mother": null,
+  "spouses": [],
+  "children": [],
+  "relations": [
+   {
+    "to": "matthias",
+    "type": "candidate alongside",
+    "ref": "act 1:23"
+   }
+  ],
+  "search": {
+   "names": [
+    "Joseph",
+    "Barsabbas",
+    "Justus"
+   ],
+   "books": [
+    "act:1"
+   ]
+  }
+ },
+ {
+  "id": "ananias-husband-of-sapphira",
+  "name": "Ananias",
+  "aliases": [],
+  "gender": "m",
+  "role": "Member of the Jerusalem church",
+  "era": "Apostolic Church",
+  "summary": "Ananias sold a property and, with his wife Sapphira's knowledge, kept back part of the price while presenting the rest to the apostles as if it were the whole. Peter told him he had lied not to men but to the Holy Spirit, and he fell down dead.",
+  "catholic": "The Fathers read the episode as a warning against hypocrisy and sacrilege in the young Church. Peter's words ('you have lied to the Holy Spirit... You haven't lied to men, but to God', Acts 5:3-4) are a classic scriptural witness that the Holy Spirit is God. It also shows Peter exercising authority and discernment over the community.",
+  "know": [
+   "Kept back part of the price of a field while pretending to give all.",
+   "Peter said he had lied to the Holy Spirit, i.e. to God.",
+   "Fell dead at Peter's word; his wife Sapphira died three hours later."
+  ],
+  "keyPassages": [
+   "act 5:1-6",
+   "act 4:32-37"
+  ],
+  "father": null,
+  "mother": null,
+  "spouses": [
+   "sapphira"
+  ],
+  "children": [],
+  "relations": [
+   {
+    "to": "peter",
+    "type": "rebuked by",
+    "ref": "act 5:3-4"
+   }
+  ],
+  "search": {
+   "names": [
+    "Ananias"
+   ],
+   "books": [
+    "act:5"
+   ]
+  }
+ },
+ {
+  "id": "sapphira",
+  "name": "Sapphira",
+  "aliases": [],
+  "gender": "f",
+  "role": "Member of the Jerusalem church",
+  "era": "Apostolic Church",
+  "summary": "Wife of Ananias, she conspired with him to keep back part of the price of their land. Questioned by Peter three hours after her husband's death, she repeated the lie and died at once.",
+  "catholic": "Her story pairs with her husband's as a sober lesson on honesty before God and the seriousness of sins against the Holy Spirit in the Church.",
+  "know": [
+   "Wife of Ananias, she shared in his deception.",
+   "Peter asked her directly the price of the land; she lied.",
+   "She died and was buried beside her husband."
+  ],
+  "keyPassages": [
+   "act 5:1-2",
+   "act 5:7-11"
+  ],
+  "father": null,
+  "mother": null,
+  "spouses": [
+   "ananias-husband-of-sapphira"
+  ],
+  "children": [],
+  "relations": [
+   {
+    "to": "peter",
+    "type": "questioned by",
+    "ref": "act 5:8-9"
+   }
+  ],
+  "search": {
+   "names": [
+    "Sapphira"
+   ],
+   "books": [
+    "act:5"
+   ]
+  }
+ },
+ {
+  "id": "gamaliel",
+  "name": "Gamaliel",
+  "aliases": [],
+  "gender": "m",
+  "role": "Pharisee and teacher of the Law",
+  "era": "Apostolic Church",
+  "summary": "Gamaliel was a Pharisee and teacher of the Law honored by all the people. When the Sanhedrin wanted to kill the apostles, he counselled restraint: if this movement is of men it will fail, but if it is of God they cannot overthrow it. Paul later says he was educated 'at the feet of Gamaliel'.",
+  "catholic": "Gamaliel's counsel (Acts 5:38-39) is often cited as a model of prudent openness to the work of God. Tradition holds that he later became a Christian, and his relics were reported found in 415 together with those of St Stephen.",
+  "know": [
+   "A respected Pharisee and member of the council.",
+   "Advised the Sanhedrin to leave the apostles alone (Acts 5:38-39).",
+   "Paul's teacher in the Law (Acts 22:3).",
+   "Tradition (not Scripture) holds he became a Christian."
+  ],
+  "keyPassages": [
+   "act 5:33-40",
+   "act 22:3"
+  ],
+  "father": null,
+  "mother": null,
+  "spouses": [],
+  "children": [],
+  "relations": [
+   {
+    "to": "peter",
+    "type": "counselled the council about",
+    "ref": "act 5:34-39"
+   },
+   {
+    "to": "paul",
+    "type": "teacher of",
+    "ref": "act 22:3"
+   }
+  ],
+  "search": {
+   "names": [
+    "Gamaliel"
+   ],
+   "books": [
+    "act"
+   ]
+  }
+ },
+ {
+  "id": "theudas",
+  "name": "Theudas",
+  "aliases": [],
+  "gender": "m",
+  "role": "Rebel leader",
+  "era": "Life of Christ",
+  "summary": "Theudas was a would-be leader cited by Gamaliel: he gathered about four hundred men, but he was killed and his followers scattered.",
+  "catholic": "",
+  "know": [
+   "Cited by Gamaliel as a failed movement of merely human origin."
+  ],
+  "keyPassages": [
+   "act 5:36"
+  ],
+  "father": null,
+  "mother": null,
+  "spouses": [],
+  "children": [],
+  "relations": [
+   {
+    "to": "gamaliel",
+    "type": "cited as an example by",
+    "ref": "act 5:36"
+   }
+  ],
+  "search": {
+   "names": [
+    "Theudas"
+   ],
+   "books": [
+    "act"
+   ]
+  }
+ },
+ {
+  "id": "judas-of-galilee",
+  "name": "Judas of Galilee",
+  "aliases": [],
+  "gender": "m",
+  "role": "Rebel leader",
+  "era": "Life of Christ",
+  "summary": "Judas of Galilee led a revolt 'in the days of the enrollment'; he perished and his followers were scattered. Gamaliel cites him as a second example of a movement that came to nothing.",
+  "catholic": "",
+  "know": [
+   "Led a revolt at the time of the census.",
+   "Cited by Gamaliel in Acts 5:37."
+  ],
+  "keyPassages": [
+   "act 5:37"
+  ],
+  "father": null,
+  "mother": null,
+  "spouses": [],
+  "children": [],
+  "relations": [
+   {
+    "to": "gamaliel",
+    "type": "cited as an example by",
+    "ref": "act 5:37"
+   }
+  ],
+  "search": {
+   "names": [
+    "Judas of Galilee"
+   ],
+   "books": [
+    "act:5"
+   ]
+  }
+ },
+ {
+  "id": "alexander-priestly-family",
+  "name": "Alexander (relative of the high priest)",
+  "aliases": [],
+  "gender": "m",
+  "role": "Member of the high-priestly family",
+  "era": "Apostolic Church",
+  "summary": "Alexander was one of the high-priestly family, with Annas, Caiaphas and John, who examined Peter and John after the healing of the lame man.",
+  "catholic": "",
+  "know": [
+   "Sat with Annas and Caiaphas when Peter and John were questioned."
+  ],
+  "keyPassages": [
+   "act 4:5-7"
+  ],
+  "father": null,
+  "mother": null,
+  "spouses": [],
+  "children": [],
+  "relations": [
+   {
+    "to": "annas",
+    "type": "relative of",
+    "ref": "act 4:6"
+   },
+   {
+    "to": "caiaphas",
+    "type": "sat in council with",
+    "ref": "act 4:6"
+   },
+   {
+    "to": "peter",
+    "type": "examined",
+    "ref": "act 4:7"
+   }
+  ],
+  "search": {
+   "names": [
+    "Alexander"
+   ],
+   "books": [
+    "act:4"
+   ]
+  }
+ },
+ {
+  "id": "stephen",
+  "name": "Stephen",
+  "aliases": [],
+  "gender": "m",
+  "role": "Deacon and first martyr",
+  "era": "Apostolic Church",
+  "summary": "Stephen, 'a man full of faith and of the Holy Spirit', was first among the Seven chosen to serve the Jerusalem church. He worked great signs and debated with members of the Synagogue of the Freedmen, who brought him before the council on charges of blasphemy against the Temple and the Law. After a long speech retelling Israel's history, he saw the heavens opened and the Son of Man standing at God's right hand; he was stoned outside the city while praying for his killers, with young Saul approving.",
+  "catholic": "St Stephen is the Protomartyr, the first to give his life for Christ; his feast on December 26, the day after Christmas, joins the birth of Christ to the 'birth into heaven' of his first witness. His death closely echoes Christ's Passion: he commends his spirit to the Lord Jesus and forgives his persecutors (Acts 7:59-60). The choice of the Seven, on whom the apostles laid hands after prayer (Acts 6:6), is traditionally read as the institution of the diaconate, the first degree of Holy Orders, ordained 'not unto the priesthood but unto the ministry' (CCC 1569-1571). The Fathers (e.g. St Augustine) saw Paul's conversion as fruit of Stephen's prayer. His relics were discovered in 415 and spread his cult widely.",
+  "know": [
+   "One of the Seven chosen in Acts 6 and the first named.",
+   "Gave the longest speech in Acts (Acts 7).",
+   "Saw 'the Son of Man standing at the right hand of God' (Acts 7:56).",
+   "First Christian martyr; feast December 26.",
+   "His death began a persecution that scattered the Church beyond Jerusalem (Acts 8:1-4, 11:19)."
+  ],
+  "feast": "December 26",
+  "keyPassages": [
+   "act 6:1-15",
+   "act 7:1-60",
+   "act 8:1-2",
+   "act 22:20"
+  ],
+  "father": null,
+  "mother": null,
+  "spouses": [],
+  "children": [],
+  "relations": [
+   {
+    "to": "paul",
+    "type": "witnessed by (Saul approved his death)",
+    "ref": "act 7:58"
+   },
+   {
+    "to": "jesus",
+    "type": "saw in glory at God's right hand",
+    "ref": "act 7:55-56"
+   },
+   {
+    "to": "philip-the-evangelist",
+    "type": "chosen with",
+    "ref": "act 6:5"
+   }
+  ],
+  "search": {
+   "names": [
+    "Stephen"
+   ],
+   "books": [
+    "act"
+   ]
+  }
+ },
+ {
+  "id": "philip-the-evangelist",
+  "name": "Philip the Evangelist",
+  "aliases": [],
+  "gender": "m",
+  "role": "Deacon and evangelist",
+  "era": "Apostolic Church",
+  "summary": "Philip was one of the Seven. Scattered by the persecution after Stephen's death, he preached Christ in Samaria with great signs, baptizing many, including Simon the sorcerer. An angel then sent him to the desert road to Gaza, where he explained Isaiah 53 to an Ethiopian court official and baptized him. He later lived in Caesarea, where he hosted Paul, and had four virgin daughters who prophesied.",
+  "catholic": "Distinct from Philip the Apostle. His mission in Samaria shows the Church's sacramental order: Philip baptized, but Peter and John came and laid hands on the baptized so they would receive the Holy Spirit, a passage the Church reads as a witness to Confirmation (Acts 8:14-17; CCC 1288). His encounter with the Ethiopian, who asks 'how can I understand unless someone guides me?' (Acts 8:31), is a classic text for reading Scripture within the Church and for the link between catechesis and Baptism. The choice of the Seven, on whom the apostles laid hands after prayer (Acts 6:6), is traditionally read as the institution of the diaconate, the first degree of Holy Orders, ordained 'not unto the priesthood but unto the ministry' (CCC 1569-1571).",
+  "know": [
+   "One of the Seven (Acts 6:5); distinct from the apostle Philip.",
+   "Evangelized Samaria (Acts 8:5-13).",
+   "Baptized the Ethiopian eunuch on the Gaza road (Acts 8:26-40).",
+   "Called 'the evangelist'; hosted Paul at Caesarea (Acts 21:8).",
+   "Father of four prophesying daughters (Acts 21:9)."
+  ],
+  "keyPassages": [
+   "act 6:5-6",
+   "act 8:4-13",
+   "act 8:26-40",
+   "act 21:8-9"
+  ],
+  "father": null,
+  "mother": null,
+  "spouses": [],
+  "children": [
+   "daughters-of-philip"
+  ],
+  "relations": [
+   {
+    "to": "simon-magus",
+    "type": "baptized",
+    "ref": "act 8:13"
+   },
+   {
+    "to": "peter",
+    "type": "work in Samaria confirmed by",
+    "ref": "act 8:14-17"
+   },
+   {
+    "to": "candace",
+    "type": "baptized the treasurer of",
+    "ref": "act 8:27-38"
+   },
+   {
+    "to": "paul",
+    "type": "hosted",
+    "ref": "act 21:8"
+   }
+  ],
+  "search": {
+   "names": [
+    "Philip"
+   ],
+   "books": [
+    "act:6",
+    "act:8",
+    "act:21"
+   ]
+  }
+ },
+ {
+  "id": "prochorus",
+  "name": "Prochorus",
+  "aliases": [],
+  "gender": "m",
+  "role": "One of the Seven (deacon)",
+  "era": "Apostolic Church",
+  "summary": "Prochorus was one of the Seven men of good reputation, full of the Spirit and of wisdom, chosen by the Jerusalem church to serve at table so the apostles could devote themselves to prayer and the ministry of the word.",
+  "catholic": "The choice of the Seven, on whom the apostles laid hands after prayer (Acts 6:6), is traditionally read as the institution of the diaconate, the first degree of Holy Orders, ordained 'not unto the priesthood but unto the ministry' (CCC 1569-1571).",
+  "know": [
+   "Named among the Seven in Acts 6:5.",
+   "Received the laying on of hands from the apostles (Acts 6:6)."
+  ],
+  "keyPassages": [
+   "act 6:1-6"
+  ],
+  "father": null,
+  "mother": null,
+  "spouses": [],
+  "children": [],
+  "relations": [
+   {
+    "to": "stephen",
+    "type": "chosen with",
+    "ref": "act 6:5"
+   }
+  ],
+  "search": {
+   "names": [
+    "Prochorus"
+   ],
+   "books": [
+    "act:6"
+   ]
+  }
+ },
+ {
+  "id": "nicanor-deacon",
+  "name": "Nicanor",
+  "aliases": [],
+  "gender": "m",
+  "role": "One of the Seven (deacon)",
+  "era": "Apostolic Church",
+  "summary": "Nicanor was one of the Seven men of good reputation, full of the Spirit and of wisdom, chosen by the Jerusalem church to serve at table so the apostles could devote themselves to prayer and the ministry of the word.",
+  "catholic": "The choice of the Seven, on whom the apostles laid hands after prayer (Acts 6:6), is traditionally read as the institution of the diaconate, the first degree of Holy Orders, ordained 'not unto the priesthood but unto the ministry' (CCC 1569-1571).",
+  "know": [
+   "Named among the Seven in Acts 6:5.",
+   "Received the laying on of hands from the apostles (Acts 6:6)."
+  ],
+  "keyPassages": [
+   "act 6:1-6"
+  ],
+  "father": null,
+  "mother": null,
+  "spouses": [],
+  "children": [],
+  "relations": [
+   {
+    "to": "stephen",
+    "type": "chosen with",
+    "ref": "act 6:5"
+   }
+  ],
+  "search": {
+   "names": [
+    "Nicanor"
+   ],
+   "books": [
+    "act:6"
+   ]
+  }
+ },
+ {
+  "id": "timon",
+  "name": "Timon",
+  "aliases": [],
+  "gender": "m",
+  "role": "One of the Seven (deacon)",
+  "era": "Apostolic Church",
+  "summary": "Timon was one of the Seven men of good reputation, full of the Spirit and of wisdom, chosen by the Jerusalem church to serve at table so the apostles could devote themselves to prayer and the ministry of the word.",
+  "catholic": "The choice of the Seven, on whom the apostles laid hands after prayer (Acts 6:6), is traditionally read as the institution of the diaconate, the first degree of Holy Orders, ordained 'not unto the priesthood but unto the ministry' (CCC 1569-1571).",
+  "know": [
+   "Named among the Seven in Acts 6:5.",
+   "Received the laying on of hands from the apostles (Acts 6:6)."
+  ],
+  "keyPassages": [
+   "act 6:1-6"
+  ],
+  "father": null,
+  "mother": null,
+  "spouses": [],
+  "children": [],
+  "relations": [
+   {
+    "to": "stephen",
+    "type": "chosen with",
+    "ref": "act 6:5"
+   }
+  ],
+  "search": {
+   "names": [
+    "Timon"
+   ],
+   "books": [
+    "act:6"
+   ]
+  }
+ },
+ {
+  "id": "parmenas",
+  "name": "Parmenas",
+  "aliases": [],
+  "gender": "m",
+  "role": "One of the Seven (deacon)",
+  "era": "Apostolic Church",
+  "summary": "Parmenas was one of the Seven men of good reputation, full of the Spirit and of wisdom, chosen by the Jerusalem church to serve at table so the apostles could devote themselves to prayer and the ministry of the word.",
+  "catholic": "The choice of the Seven, on whom the apostles laid hands after prayer (Acts 6:6), is traditionally read as the institution of the diaconate, the first degree of Holy Orders, ordained 'not unto the priesthood but unto the ministry' (CCC 1569-1571).",
+  "know": [
+   "Named among the Seven in Acts 6:5.",
+   "Received the laying on of hands from the apostles (Acts 6:6)."
+  ],
+  "keyPassages": [
+   "act 6:1-6"
+  ],
+  "father": null,
+  "mother": null,
+  "spouses": [],
+  "children": [],
+  "relations": [
+   {
+    "to": "stephen",
+    "type": "chosen with",
+    "ref": "act 6:5"
+   }
+  ],
+  "search": {
+   "names": [
+    "Parmenas"
+   ],
+   "books": [
+    "act:6"
+   ]
+  }
+ },
+ {
+  "id": "nicolaus",
+  "name": "Nicolaus",
+  "aliases": [],
+  "gender": "m",
+  "role": "One of the Seven (deacon)",
+  "era": "Apostolic Church",
+  "summary": "Nicolaus, 'a proselyte of Antioch', was the last named of the Seven chosen to serve the Jerusalem church; as a convert to Judaism from paganism he shows the early Church already drawing in Gentile-born believers.",
+  "catholic": "The choice of the Seven, on whom the apostles laid hands after prayer (Acts 6:6), is traditionally read as the institution of the diaconate, the first degree of Holy Orders, ordained 'not unto the priesthood but unto the ministry' (CCC 1569-1571). Some early writers (e.g. St Irenaeus) connected the Nicolaitans of Revelation 2 with him, but this is uncertain and other Fathers defended his memory.",
+  "know": [
+   "The only one of the Seven whose origin is given: a proselyte of Antioch.",
+   "Received the laying on of hands (Acts 6:6).",
+   "Any link with the Nicolaitans (Rev 2:6, 2:15) is a later and disputed tradition."
+  ],
+  "keyPassages": [
+   "act 6:5-6"
+  ],
+  "father": null,
+  "mother": null,
+  "spouses": [],
+  "children": [],
+  "relations": [
+   {
+    "to": "stephen",
+    "type": "chosen with",
+    "ref": "act 6:5"
+   }
+  ],
+  "search": {
+   "names": [
+    "Nicolaus"
+   ],
+   "books": [
+    "act:6"
+   ]
+  }
+ },
+ {
+  "id": "daughters-of-philip",
+  "name": "Daughters of Philip (four)",
+  "aliases": [],
+  "gender": "f",
+  "role": "Prophetesses",
+  "era": "Apostolic Church",
+  "summary": "Philip the evangelist had four virgin daughters who prophesied; Paul and his companions stayed in their house at Caesarea.",
+  "catholic": "They witness to the charism of prophecy given to women in the apostolic Church, fulfilling Joel's word quoted at Pentecost ('your daughters will prophesy', Acts 2:17).",
+  "know": [
+   "A group of four unmarried sisters.",
+   "Exercised the gift of prophecy (Acts 21:9)."
+  ],
+  "keyPassages": [
+   "act 21:8-9",
+   "act 2:17"
+  ],
+  "father": "philip-the-evangelist",
+  "mother": null,
+  "spouses": [],
+  "children": [],
+  "relations": [],
+  "search": {
+   "names": [
+    "four virgin daughters"
+   ],
+   "books": [
+    "act:21"
+   ]
+  }
+ },
+ {
+  "id": "simon-magus",
+  "name": "Simon Magus",
+  "aliases": [
+   "Simon the sorcerer"
+  ],
+  "gender": "m",
+  "role": "Sorcerer of Samaria",
+  "era": "Apostolic Church",
+  "summary": "Simon practised sorcery in Samaria and was hailed as 'the great power of God'. He believed Philip's preaching and was baptized, but when he saw the Spirit given through the apostles' laying on of hands he offered them money for that power. Peter sharply rebuked him and called him to repent.",
+  "catholic": "His attempt to buy spiritual power gave its name to the sin of simony, the buying or selling of spiritual things (CCC 2121). The episode also shows the gift of the Spirit through the apostles' laying on of hands after Baptism (Acts 8:17-18), read by the Church as a witness to Confirmation. Later legend (not Scripture) makes him the father of Gnostic heresy and an opponent of Peter at Rome.",
+  "know": [
+   "Called 'the great power of God' by the Samaritans.",
+   "Baptized by Philip.",
+   "Offered money for the power to give the Spirit: origin of the word 'simony'.",
+   "Peter told him: 'May your silver perish with you' (Acts 8:20)."
+  ],
+  "keyPassages": [
+   "act 8:9-24"
+  ],
+  "father": null,
+  "mother": null,
+  "spouses": [],
+  "children": [],
+  "relations": [
+   {
+    "to": "philip-the-evangelist",
+    "type": "baptized by",
+    "ref": "act 8:13"
+   },
+   {
+    "to": "peter",
+    "type": "rebuked by",
+    "ref": "act 8:20-23"
+   },
+   {
+    "to": "john-apostle",
+    "type": "witnessed the laying on of hands by",
+    "ref": "act 8:17-18"
+   }
+  ],
+  "search": {
+   "names": [
+    "Simon"
+   ],
+   "books": [
+    "act:8"
+   ]
+  }
+ },
+ {
+  "id": "candace",
+  "name": "Candace",
+  "aliases": [],
+  "gender": "f",
+  "role": "Queen of the Ethiopians",
+  "era": "Apostolic Church",
+  "summary": "Candace, queen of the Ethiopians, is named as the sovereign whose treasurer, a eunuch, was baptized by Philip on the road to Gaza.",
+  "catholic": "",
+  "know": [
+   "'Candace' was a royal title of the queens of Meroë (Nubia).",
+   "Her official, baptized by Philip, is the first convert from Africa recorded in Acts."
+  ],
+  "keyPassages": [
+   "act 8:27"
+  ],
+  "father": null,
+  "mother": null,
+  "spouses": [],
+  "children": [],
+  "relations": [
+   {
+    "to": "philip-the-evangelist",
+    "type": "her treasurer was baptized by",
+    "ref": "act 8:38"
+   }
+  ],
+  "search": {
+   "names": [
+    "Candace"
+   ],
+   "books": [
+    "act"
+   ]
+  }
+ },
+ {
+  "id": "ananias-of-damascus",
+  "name": "Ananias of Damascus",
+  "aliases": [],
+  "gender": "m",
+  "role": "Disciple",
+  "era": "Apostolic Church",
+  "summary": "Ananias was a devout disciple in Damascus. In a vision the Lord sent him to Saul, who had been blinded on the road; despite his fear of the persecutor, he went, laid his hands on him, and Saul regained his sight and was baptized.",
+  "catholic": "Ananias is honored as the man who welcomed the Church's fiercest enemy as 'Brother Saul' and baptized him (Acts 9:17-18; 22:16). The Lord's words to him, that Saul is 'my chosen vessel', express the Church's understanding of Paul's vocation.",
+  "know": [
+   "Sent by the Lord in a vision to the house of Judah on Straight Street (Acts 9:10-11).",
+   "Called Saul 'Brother' and laid hands on him.",
+   "Baptized Saul (Acts 9:18; 22:16).",
+   "Paul describes him as devout and respected by the Jews (Acts 22:12)."
+  ],
+  "keyPassages": [
+   "act 9:10-19",
+   "act 22:12-16"
+  ],
+  "father": null,
+  "mother": null,
+  "spouses": [],
+  "children": [],
+  "relations": [
+   {
+    "to": "paul",
+    "type": "healed and baptized",
+    "ref": "act 9:17-18"
+   },
+   {
+    "to": "jesus",
+    "type": "sent in a vision by",
+    "ref": "act 9:10-16"
+   }
+  ],
+  "search": {
+   "names": [
+    "Ananias"
+   ],
+   "books": [
+    "act:9",
+    "act:22"
+   ]
+  }
+ },
+ {
+  "id": "judah-of-damascus",
+  "name": "Judah of Damascus",
+  "aliases": [
+   "Judas"
+  ],
+  "gender": "m",
+  "role": "Host of Saul",
+  "era": "Apostolic Church",
+  "summary": "Judah owned the house on Straight Street in Damascus where the newly blinded Saul stayed and prayed until Ananias came to him.",
+  "catholic": "",
+  "know": [
+   "His house was on 'the street which is called Straight'."
+  ],
+  "keyPassages": [
+   "act 9:11"
+  ],
+  "father": null,
+  "mother": null,
+  "spouses": [],
+  "children": [],
+  "relations": [
+   {
+    "to": "paul",
+    "type": "hosted",
+    "ref": "act 9:11"
+   }
+  ],
+  "search": {
+   "names": [
+    "Judah"
+   ],
+   "books": [
+    "act:9"
+   ]
+  }
+ },
+ {
+  "id": "aeneas",
+  "name": "Aeneas",
+  "aliases": [],
+  "gender": "m",
+  "role": "Healed paralytic",
+  "era": "Apostolic Church",
+  "summary": "Aeneas of Lydda had been bedridden and paralysed for eight years. Peter said to him, 'Jesus Christ heals you. Get up and make your bed', and he rose at once; many in Lydda and Sharon turned to the Lord.",
+  "catholic": "His healing, in the name of Jesus Christ, shows the apostles continuing Christ's works of healing, a sign the Church sees fulfilled in the sacraments of healing.",
+  "know": [
+   "Paralysed for eight years.",
+   "Healed by Peter at Lydda in Jesus' name."
+  ],
+  "keyPassages": [
+   "act 9:32-35"
+  ],
+  "father": null,
+  "mother": null,
+  "spouses": [],
+  "children": [],
+  "relations": [
+   {
+    "to": "peter",
+    "type": "healed by",
+    "ref": "act 9:34"
+   }
+  ],
+  "search": {
+   "names": [
+    "Aeneas"
+   ],
+   "books": [
+    "act"
+   ]
+  }
+ },
+ {
+  "id": "tabitha",
+  "name": "Tabitha",
+  "aliases": [
+   "Dorcas"
+  ],
+  "gender": "f",
+  "role": "Disciple of Joppa",
+  "era": "Apostolic Church",
+  "summary": "Tabitha, called Dorcas in Greek (both mean 'gazelle'), was a disciple at Joppa full of good works and almsgiving, who made garments for widows. When she died, Peter was summoned; he knelt, prayed, and said 'Tabitha, get up', and she was restored to life.",
+  "catholic": "She is a model of the corporal works of mercy, especially care for widows and the poor. Her raising echoes Jesus' raising of Jairus' daughter ('Talitha, koum') and shows Peter acting with Christ's own power.",
+  "know": [
+   "Also called Dorcas; both names mean 'gazelle'.",
+   "Known for clothing the widows of Joppa.",
+   "Raised from the dead by Peter."
+  ],
+  "keyPassages": [
+   "act 9:36-42"
+  ],
+  "father": null,
+  "mother": null,
+  "spouses": [],
+  "children": [],
+  "relations": [
+   {
+    "to": "peter",
+    "type": "raised from the dead by",
+    "ref": "act 9:40"
+   }
+  ],
+  "search": {
+   "names": [
+    "Tabitha",
+    "Dorcas"
+   ],
+   "books": [
+    "act"
+   ]
+  }
+ },
+ {
+  "id": "simon-the-tanner",
+  "name": "Simon the tanner",
+  "aliases": [],
+  "gender": "m",
+  "role": "Host of Peter",
+  "era": "Apostolic Church",
+  "summary": "Simon was a tanner at Joppa whose house was by the sea. Peter stayed with him many days, and it was on his roof that Peter saw the vision of the sheet of clean and unclean animals before going to Cornelius.",
+  "catholic": "A tanner's trade made him ritually unclean in the eyes of strict Jews; Peter's lodging with him quietly anticipates the vision that opens the Church to the Gentiles.",
+  "know": [
+   "A tanner whose house stood by the sea at Joppa.",
+   "Peter received the vision of the sheet on his roof (Acts 10:9-16)."
+  ],
+  "keyPassages": [
+   "act 9:43",
+   "act 10:5-6",
+   "act 10:32"
+  ],
+  "father": null,
+  "mother": null,
+  "spouses": [],
+  "children": [],
+  "relations": [
+   {
+    "to": "peter",
+    "type": "hosted",
+    "ref": "act 9:43"
+   }
+  ],
+  "search": {
+   "names": [
+    "tanner named Simon"
+   ],
+   "books": [
+    "act:9",
+    "act:10"
+   ]
+  }
+ },
+ {
+  "id": "cornelius",
+  "name": "Cornelius",
+  "aliases": [],
+  "gender": "m",
+  "role": "Centurion",
+  "era": "Apostolic Church",
+  "summary": "Cornelius was a centurion of the Italian Regiment at Caesarea, a devout God-fearer who gave alms and prayed. An angel told him to send for Peter; while Peter preached in his house, the Holy Spirit fell on all who heard, and Peter commanded that these Gentiles be baptized.",
+  "catholic": "Cornelius is the first Gentile convert, whose household received the Spirit before Baptism and was then baptized at Peter's command. The Church sees here Peter, as head of the apostles, opening the door of the Church to the nations, a decision Peter later invokes at the Council of Jerusalem (Acts 15:7-11). His prayers and alms 'went up for a memorial before God' (Acts 10:4).",
+  "know": [
+   "A centurion of the Italian Regiment stationed at Caesarea.",
+   "A God-fearer who prayed and gave alms.",
+   "First Gentile convert received by Peter; the Spirit fell on his household (Acts 10:44).",
+   "Peter retold the event to defend it (Acts 11:1-18)."
+  ],
+  "keyPassages": [
+   "act 10:1-8",
+   "act 10:24-48",
+   "act 11:1-18",
+   "act 15:7-9"
+  ],
+  "father": null,
+  "mother": null,
+  "spouses": [],
+  "children": [],
+  "relations": [
+   {
+    "to": "peter",
+    "type": "baptized at the command of",
+    "ref": "act 10:48"
+   }
+  ],
+  "search": {
+   "names": [
+    "Cornelius"
+   ],
+   "books": [
+    "act"
+   ]
+  }
+ },
+ {
+  "id": "rhoda",
+  "name": "Rhoda",
+  "aliases": [],
+  "gender": "f",
+  "role": "Servant girl",
+  "era": "Apostolic Church",
+  "summary": "Rhoda was a servant girl in the house of Mary, mother of John Mark. When Peter, freed from prison by an angel, knocked at the gate, she recognized his voice and in her joy ran to tell the others without opening the door.",
+  "catholic": "A vivid detail of the praying Church in Jerusalem, whose prayer for Peter was answered while they still doubted.",
+  "know": [
+   "Recognized Peter's voice at the gate.",
+   "Ran in to announce him before opening, and was not believed at first."
+  ],
+  "keyPassages": [
+   "act 12:12-17"
+  ],
+  "father": null,
+  "mother": null,
+  "spouses": [],
+  "children": [],
+  "relations": [
+   {
+    "to": "peter",
+    "type": "recognized",
+    "ref": "act 12:13-14"
+   },
+   {
+    "to": "mary-mother-of-mark",
+    "type": "servant in the house of",
+    "ref": "act 12:12-13"
+   }
+  ],
+  "search": {
+   "names": [
+    "Rhoda"
+   ],
+   "books": [
+    "act"
+   ]
+  }
+ },
+ {
+  "id": "mary-mother-of-mark",
+  "name": "Mary, mother of John Mark",
+  "aliases": [],
+  "gender": "f",
+  "role": "Disciple in Jerusalem",
+  "era": "Apostolic Church",
+  "summary": "Mary was the mother of John Mark. Her house in Jerusalem was a gathering place where many were praying for Peter during his imprisonment, and Peter went there first after his miraculous release.",
+  "catholic": "She is an early example of a house church, the domestic setting where the first Christians gathered for prayer. Some later tradition identifies her house with the place of the Last Supper, but Scripture does not say so.",
+  "know": [
+   "Mother of John Mark.",
+   "Many gathered to pray in her house during Peter's imprisonment.",
+   "Rhoda was a servant in her house."
+  ],
+  "keyPassages": [
+   "act 12:12-17"
+  ],
+  "father": null,
+  "mother": null,
+  "spouses": [],
+  "children": [
+   "mark"
+  ],
+  "relations": [
+   {
+    "to": "peter",
+    "type": "hosted the prayer for",
+    "ref": "act 12:12"
+   }
+  ],
+  "search": {
+   "names": [
+    "Mary"
+   ],
+   "books": [
+    "act:12"
+   ]
+  }
+ },
+ {
+  "id": "blastus",
+  "name": "Blastus",
+  "aliases": [],
+  "gender": "m",
+  "role": "Royal chamberlain",
+  "era": "Apostolic Church",
+  "summary": "Blastus was the personal aide of King Herod Agrippa I, whom the people of Tyre and Sidon won over to ask the king for peace.",
+  "catholic": "",
+  "know": [
+   "Chamberlain of Herod Agrippa I (Acts 12:20)."
+  ],
+  "keyPassages": [
+   "act 12:20"
+  ],
+  "father": null,
+  "mother": null,
+  "spouses": [],
+  "children": [],
+  "relations": [
+   {
+    "to": "herod-agrippa-i",
+    "type": "chamberlain of",
+    "ref": "act 12:20"
+   }
+  ],
+  "search": {
+   "names": [
+    "Blastus"
+   ],
+   "books": [
+    "act"
+   ]
+  }
+ },
+ {
+  "id": "barnabas",
+  "name": "Barnabas",
+  "aliases": [
+   "Joses"
+  ],
+  "gender": "m",
+  "role": "Apostle and missionary",
+  "era": "Apostolic Church",
+  "summary": "Joses, a Levite from Cyprus, was named Barnabas ('Son of Encouragement') by the apostles; he sold a field and laid the money at their feet. He vouched for the newly converted Saul before the frightened Jerusalem disciples, was sent to the new church at Antioch, and brought Saul there to teach. Set apart by the Holy Spirit with Saul, he led the first missionary journey through Cyprus and Galatia and defended the Gentile mission at the Council of Jerusalem. He and Paul parted over whether to take his cousin John Mark on the second journey.",
+  "catholic": "Though not one of the Twelve, Barnabas is called an apostle in Acts 14:14 and honored as such; his memorial is June 11. His sending with Saul, after prayer, fasting and the laying on of hands by the prophets and teachers of Antioch (Acts 13:2-3), is read as a model of the Church's commissioning of missionaries by the Holy Spirit through the community. His generosity (Acts 4:36-37) is an image of the communion of goods in the early Church, and his reconciling role toward Saul and Mark makes him a patron of encouragement. Tradition holds he was martyred at Salamis in Cyprus.",
+  "know": [
+   "His name means 'Son of Encouragement' (Acts 4:36).",
+   "Introduced the converted Saul to the apostles (Acts 9:27).",
+   "At Antioch, where he worked, the disciples were first called Christians (Acts 11:26).",
+   "Called 'Zeus' by the crowd at Lystra (Acts 14:12).",
+   "Cousin of John Mark (Col 4:10); memorial June 11."
+  ],
+  "feast": "June 11",
+  "keyPassages": [
+   "act 4:36-37",
+   "act 9:26-27",
+   "act 11:22-26",
+   "act 13:1-3",
+   "act 14:8-18",
+   "act 15:1-12",
+   "act 15:36-41",
+   "gal 2:1-13"
+  ],
+  "father": null,
+  "mother": null,
+  "spouses": [],
+  "children": [],
+  "relations": [
+   {
+    "to": "paul",
+    "type": "missionary partner of",
+    "ref": "act 13:2"
+   },
+   {
+    "to": "mark",
+    "type": "cousin of",
+    "ref": "col 4:10"
+   },
+   {
+    "to": "peter",
+    "type": "carried away by the hypocrisy of",
+    "ref": "gal 2:13"
+   },
+   {
+    "to": "james-brother-of-the-lord",
+    "type": "given the right hand of fellowship by",
+    "ref": "gal 2:9"
+   }
+  ],
+  "search": {
+   "names": [
+    "Barnabas",
+    "Joses"
+   ],
+   "books": [
+    "act",
+    "1co",
+    "gal",
+    "col"
+   ]
+  }
+ },
+ {
+  "id": "mark",
+  "name": "Mark",
+  "aliases": [
+   "John Mark",
+   "John"
+  ],
+  "gender": "m",
+  "role": "Evangelist",
+  "era": "Apostolic Church",
+  "summary": "John, called Mark, was the son of Mary, in whose Jerusalem house the church gathered. He went with his cousin Barnabas and with Saul on the first missionary journey but turned back at Perga, causing a sharp disagreement that separated Paul and Barnabas. Later reconciled with Paul, he is with him in prison as a fellow worker and is called 'useful to me for service'; Peter calls him 'Mark, my son'.",
+  "catholic": "The Church honors St Mark as the author of the second Gospel; his feast is April 25 and his symbol is the lion. Early tradition (Papias, via Eusebius) holds that he wrote down Peter's preaching as Peter's interpreter, so that his Gospel transmits the apostolic witness of the head of the apostles. Tradition also holds that he founded the Church of Alexandria and died a martyr there; his relics were brought to Venice, whose patron he is. His restoration to Paul's favor after failure is a picture of reconciliation in the Church.",
+  "know": [
+   "Also called John (Acts 12:12, 13:5, 13:13).",
+   "Son of Mary of Jerusalem and cousin of Barnabas (Col 4:10).",
+   "Left the first missionary journey at Perga (Acts 13:13; 15:38).",
+   "Peter calls him 'my son' (1 Pet 5:13).",
+   "Traditionally the evangelist of the second Gospel; feast April 25."
+  ],
+  "feast": "April 25",
+  "keyPassages": [
+   "act 12:12",
+   "act 12:25",
+   "act 13:13",
+   "act 15:36-39",
+   "col 4:10",
+   "2ti 4:11",
+   "1pe 5:13"
+  ],
+  "father": null,
+  "mother": "mary-mother-of-mark",
+  "spouses": [],
+  "children": [],
+  "relations": [
+   {
+    "to": "barnabas",
+    "type": "cousin of",
+    "ref": "col 4:10"
+   },
+   {
+    "to": "paul",
+    "type": "fellow worker of",
+    "ref": "phm 1:24"
+   },
+   {
+    "to": "peter",
+    "type": "called 'my son' by",
+    "ref": "1pe 5:13"
+   }
+  ],
+  "search": {
+   "names": [
+    "Mark"
+   ],
+   "books": [
+    "act",
+    "col",
+    "2ti",
+    "phm",
+    "1pe"
+   ]
+  }
+ },
+ {
+  "id": "simeon-niger",
+  "name": "Simeon called Niger",
+  "aliases": [
+   "Niger"
+  ],
+  "gender": "m",
+  "role": "Prophet and teacher at Antioch",
+  "era": "Apostolic Church",
+  "summary": "Simeon, called Niger ('black'), was one of the prophets and teachers of the church at Antioch who, at the Spirit's command, laid hands on Barnabas and Saul and sent them out.",
+  "catholic": "With the other leaders of Antioch he took part in the prayer, fasting and laying on of hands that commissioned the first missionary journey (Acts 13:3).",
+  "know": [
+   "Listed among the prophets and teachers at Antioch.",
+   "Some suggest, without certainty, that he is Simon of Cyrene."
+  ],
+  "keyPassages": [
+   "act 13:1-3"
+  ],
+  "father": null,
+  "mother": null,
+  "spouses": [],
+  "children": [],
+  "relations": [
+   {
+    "to": "barnabas",
+    "type": "laid hands on",
+    "ref": "act 13:3"
+   },
+   {
+    "to": "paul",
+    "type": "laid hands on",
+    "ref": "act 13:3"
+   }
+  ],
+  "search": {
+   "names": [
+    "Simeon",
+    "Niger"
+   ],
+   "books": [
+    "act:13"
+   ]
+  }
+ },
+ {
+  "id": "lucius-of-cyrene",
+  "name": "Lucius of Cyrene",
+  "aliases": [],
+  "gender": "m",
+  "role": "Prophet and teacher at Antioch",
+  "era": "Apostolic Church",
+  "summary": "Lucius of Cyrene was one of the prophets and teachers at Antioch who sent out Barnabas and Saul after laying hands on them.",
+  "catholic": "",
+  "know": [
+   "One of the Cyrenian believers who helped found the Antioch church (cf. Acts 11:20).",
+   "Laid hands on Barnabas and Saul (Acts 13:3)."
+  ],
+  "keyPassages": [
+   "act 13:1-3",
+   "act 11:20"
+  ],
+  "father": null,
+  "mother": null,
+  "spouses": [],
+  "children": [],
+  "relations": [
+   {
+    "to": "paul",
+    "type": "laid hands on",
+    "ref": "act 13:3"
+   }
+  ],
+  "search": {
+   "names": [
+    "Lucius"
+   ],
+   "books": [
+    "act:13"
+   ]
+  }
+ },
+ {
+  "id": "manaen",
+  "name": "Manaen",
+  "aliases": [],
+  "gender": "m",
+  "role": "Prophet and teacher at Antioch",
+  "era": "Apostolic Church",
+  "summary": "Manaen, 'the foster brother of Herod the tetrarch', was among the prophets and teachers at Antioch who commissioned Barnabas and Saul.",
+  "catholic": "His presence shows the Gospel reaching even the court of Herod Antipas, who beheaded John the Baptist.",
+  "know": [
+   "Raised with Herod Antipas (Acts 13:1).",
+   "A leader of the church at Antioch."
+  ],
+  "keyPassages": [
+   "act 13:1-3"
+  ],
+  "father": null,
+  "mother": null,
+  "spouses": [],
+  "children": [],
+  "relations": [
+   {
+    "to": "herod-antipas",
+    "type": "foster brother of",
+    "ref": "act 13:1"
+   },
+   {
+    "to": "paul",
+    "type": "laid hands on",
+    "ref": "act 13:3"
+   }
+  ],
+  "search": {
+   "names": [
+    "Manaen"
+   ],
+   "books": [
+    "act"
+   ]
+  }
+ },
+ {
+  "id": "agabus",
+  "name": "Agabus",
+  "aliases": [],
+  "gender": "m",
+  "role": "Prophet",
+  "era": "Apostolic Church",
+  "summary": "Agabus was a prophet from Jerusalem who foretold by the Spirit a great famine in the days of Claudius, prompting the Antioch church to send relief to Judea. Years later at Caesarea he bound his own hands and feet with Paul's belt to foretell Paul's arrest in Jerusalem.",
+  "catholic": "Agabus witnesses to the charism of prophecy in the apostolic Church. His first prophecy led to the first recorded collection between churches (Acts 11:29-30), an early sign of communion and charity among local Churches.",
+  "know": [
+   "Predicted a worldwide famine under Claudius (Acts 11:28).",
+   "Acted out Paul's coming arrest with Paul's belt (Acts 21:10-11)."
+  ],
+  "keyPassages": [
+   "act 11:27-30",
+   "act 21:10-14"
+  ],
+  "father": null,
+  "mother": null,
+  "spouses": [],
+  "children": [],
+  "relations": [
+   {
+    "to": "paul",
+    "type": "prophesied the arrest of",
+    "ref": "act 21:11"
+   },
+   {
+    "to": "claudius-caesar",
+    "type": "foretold a famine in the reign of",
+    "ref": "act 11:28"
+   }
+  ],
+  "search": {
+   "names": [
+    "Agabus"
+   ],
+   "books": [
+    "act"
+   ]
+  }
+ },
+ {
+  "id": "claudius-caesar",
+  "name": "Claudius",
+  "aliases": [],
+  "gender": "m",
+  "role": "Roman emperor",
+  "era": "Apostolic Church",
+  "summary": "Claudius was Roman emperor (AD 41-54). Acts dates the famine foretold by Agabus to his reign and notes that he expelled all Jews from Rome, which brought Aquila and Priscilla to Corinth.",
+  "catholic": "",
+  "know": [
+   "The famine of Acts 11:28 happened 'in the days of Claudius'.",
+   "His edict expelling Jews from Rome (Acts 18:2) is also mentioned by the Roman historian Suetonius."
+  ],
+  "keyPassages": [
+   "act 11:28",
+   "act 18:1-2"
+  ],
+  "father": null,
+  "mother": null,
+  "spouses": [],
+  "children": [],
+  "relations": [
+   {
+    "to": "aquila",
+    "type": "expelled from Rome",
+    "ref": "act 18:2"
+   }
+  ],
+  "search": {
+   "names": [
+    "Claudius"
+   ],
+   "books": [
+    "act:11",
+    "act:18"
+   ]
+  }
+ },
+ {
+  "id": "herod-agrippa-i",
+  "name": "Herod Agrippa I",
+  "aliases": [
+   "Herod",
+   "Herod the king"
+  ],
+  "gender": "m",
+  "role": "King of Judea",
+  "era": "Apostolic Church",
+  "summary": "Herod Agrippa I, grandson of Herod the Great, is called simply 'Herod the king' in Acts 12. To please the Jewish leaders he had James the brother of John killed with the sword and imprisoned Peter, who was freed by an angel. At Caesarea, when the crowd hailed his speech as 'the voice of a god', an angel of the Lord struck him because he did not give God the glory, and he died eaten by worms.",
+  "catholic": "He is the first ruler to make an apostle a martyr (St James, Acts 12:2). The Church's unceasing prayer for the imprisoned Peter (Acts 12:5) is a classic image of the Church praying for the Pope. His death illustrates the downfall of pride that claims divine honor.",
+  "know": [
+   "Called 'Herod' in Acts 12; identified by the historian Josephus as Agrippa I.",
+   "Executed James son of Zebedee and imprisoned Peter.",
+   "Struck down by an angel at Caesarea (Acts 12:23).",
+   "According to Josephus, father of Agrippa II, Bernice and Drusilla."
+  ],
+  "keyPassages": [
+   "act 12:1-11",
+   "act 12:19-23"
+  ],
+  "father": null,
+  "mother": null,
+  "spouses": [],
+  "children": [
+   "herod-agrippa-ii",
+   "bernice",
+   "drusilla"
+  ],
+  "relations": [
+   {
+    "to": "james-son-of-zebedee",
+    "type": "had killed",
+    "ref": "act 12:2"
+   },
+   {
+    "to": "peter",
+    "type": "imprisoned",
+    "ref": "act 12:3-4"
+   }
+  ],
+  "search": {
+   "names": [
+    "Herod"
+   ],
+   "books": [
+    "act:12"
+   ]
+  }
+ },
+ {
+  "id": "herod-agrippa-ii",
+  "name": "Herod Agrippa II",
+  "aliases": [
+   "Agrippa",
+   "King Agrippa"
+  ],
+  "gender": "m",
+  "role": "King",
+  "era": "Apostolic Church",
+  "summary": "King Agrippa, son of Herod Agrippa I, visited Festus at Caesarea with his sister Bernice and heard Paul's defense. Paul appealed to his knowledge of the prophets; Agrippa replied, 'With a little persuasion are you trying to make me a Christian?', and judged that Paul could have been released had he not appealed to Caesar.",
+  "catholic": "Paul's speech before Agrippa (Acts 26) is his fullest account of his conversion and commission to open the eyes of the Gentiles. Agrippa's half-hearted response is often preached as the danger of being 'almost persuaded'.",
+  "know": [
+   "Called 'King Agrippa' in Acts 25-26.",
+   "Heard Paul's defense with Bernice and Festus.",
+   "Said Paul could have been freed if he had not appealed to Caesar (Acts 26:32)."
+  ],
+  "keyPassages": [
+   "act 25:13-27",
+   "act 26:1-32"
+  ],
+  "father": "herod-agrippa-i",
+  "mother": null,
+  "spouses": [],
+  "children": [],
+  "relations": [
+   {
+    "to": "paul",
+    "type": "heard the defense of",
+    "ref": "act 26:1"
+   },
+   {
+    "to": "festus",
+    "type": "visited",
+    "ref": "act 25:13"
+   },
+   {
+    "to": "bernice",
+    "type": "accompanied by his sister",
+    "ref": "act 25:13"
+   }
+  ],
+  "search": {
+   "names": [
+    "Agrippa"
+   ],
+   "books": [
+    "act"
+   ]
+  }
+ },
+ {
+  "id": "bernice",
+  "name": "Bernice",
+  "aliases": [],
+  "gender": "f",
+  "role": "Herodian princess",
+  "era": "Apostolic Church",
+  "summary": "Bernice was the sister of King Agrippa II and accompanied him with great pomp when Paul made his defense before Festus at Caesarea.",
+  "catholic": "",
+  "know": [
+   "Daughter of Herod Agrippa I and sister of Agrippa II (per Josephus).",
+   "Present at Paul's hearing (Acts 25:23; 26:30)."
+  ],
+  "keyPassages": [
+   "act 25:13",
+   "act 25:23",
+   "act 26:30-31"
+  ],
+  "father": "herod-agrippa-i",
+  "mother": null,
+  "spouses": [],
+  "children": [],
+  "relations": [
+   {
+    "to": "herod-agrippa-ii",
+    "type": "sister of",
+    "ref": "act 25:13"
+   },
+   {
+    "to": "paul",
+    "type": "heard the defense of",
+    "ref": "act 25:23"
+   }
+  ],
+  "search": {
+   "names": [
+    "Bernice"
+   ],
+   "books": [
+    "act"
+   ]
+  }
+ },
+ {
+  "id": "drusilla",
+  "name": "Drusilla",
+  "aliases": [],
+  "gender": "f",
+  "role": "Wife of the governor Felix",
+  "era": "Apostolic Church",
+  "summary": "Drusilla, 'who was a Jewess', was the wife of the governor Felix; she was present when Felix sent for Paul and heard him speak about faith in Christ Jesus.",
+  "catholic": "",
+  "know": [
+   "Wife of Felix (Acts 24:24).",
+   "Daughter of Herod Agrippa I and sister of Agrippa II and Bernice (per Josephus)."
+  ],
+  "keyPassages": [
+   "act 24:24-25"
+  ],
+  "father": "herod-agrippa-i",
+  "mother": null,
+  "spouses": [
+   "felix"
+  ],
+  "children": [],
+  "relations": [
+   {
+    "to": "paul",
+    "type": "heard",
+    "ref": "act 24:24"
+   }
+  ],
+  "search": {
+   "names": [
+    "Drusilla"
+   ],
+   "books": [
+    "act"
+   ]
+  }
+ },
+ {
+  "id": "felix",
+  "name": "Felix",
+  "aliases": [],
+  "gender": "m",
+  "role": "Roman governor of Judea",
+  "era": "Apostolic Church",
+  "summary": "Antonius Felix was the Roman governor to whom the tribune Lysias sent Paul under guard. He heard Paul's case against the high priest Ananias and Tertullus but postponed judgment; when Paul spoke of righteousness, self-control and the judgment to come, Felix was terrified, yet he kept Paul in custody for two years hoping for a bribe.",
+  "catholic": "Felix is a figure of the soul that hears the truth, trembles, and still delays conversion ('when it is a convenient season, I will summon you', Acts 24:25).",
+  "know": [
+   "Governor of Judea at Caesarea.",
+   "Husband of Drusilla.",
+   "Kept Paul in prison two years hoping for money (Acts 24:26-27).",
+   "Succeeded by Porcius Festus."
+  ],
+  "keyPassages": [
+   "act 23:23-35",
+   "act 24:1-27"
+  ],
+  "father": null,
+  "mother": null,
+  "spouses": [
+   "drusilla"
+  ],
+  "children": [],
+  "relations": [
+   {
+    "to": "paul",
+    "type": "held prisoner",
+    "ref": "act 24:27"
+   },
+   {
+    "to": "claudius-lysias",
+    "type": "received a letter from",
+    "ref": "act 23:26"
+   },
+   {
+    "to": "festus",
+    "type": "succeeded by",
+    "ref": "act 24:27"
+   }
+  ],
+  "search": {
+   "names": [
+    "Felix"
+   ],
+   "books": [
+    "act"
+   ]
+  }
+ },
+ {
+  "id": "festus",
+  "name": "Porcius Festus",
+  "aliases": [
+   "Porcius Festus"
+  ],
+  "gender": "m",
+  "role": "Roman governor of Judea",
+  "era": "Apostolic Church",
+  "summary": "Porcius Festus succeeded Felix as governor. When he proposed sending Paul to Jerusalem for trial, Paul, a Roman citizen, appealed to Caesar. Festus laid the case before King Agrippa and, hearing Paul speak of the resurrection, exclaimed, 'Paul, you are crazy!'",
+  "catholic": "Paul's appeal before Festus is the providential means by which he reaches Rome, fulfilling the Lord's word that he would bear witness there (Acts 23:11).",
+  "know": [
+   "Successor of Felix (Acts 24:27).",
+   "Paul appealed to Caesar before him (Acts 25:11-12).",
+   "Consulted King Agrippa about the charges."
+  ],
+  "keyPassages": [
+   "act 25:1-12",
+   "act 25:13-27",
+   "act 26:24-32"
+  ],
+  "father": null,
+  "mother": null,
+  "spouses": [],
+  "children": [],
+  "relations": [
+   {
+    "to": "paul",
+    "type": "heard the appeal of",
+    "ref": "act 25:12"
+   },
+   {
+    "to": "herod-agrippa-ii",
+    "type": "consulted",
+    "ref": "act 25:14"
+   }
+  ],
+  "search": {
+   "names": [
+    "Festus"
+   ],
+   "books": [
+    "act"
+   ]
+  }
+ },
+ {
+  "id": "claudius-lysias",
+  "name": "Claudius Lysias",
+  "aliases": [
+   "Lysias"
+  ],
+  "gender": "m",
+  "role": "Roman tribune (commander)",
+  "era": "Apostolic Church",
+  "summary": "Claudius Lysias was the commanding officer of the Roman cohort in Jerusalem who rescued Paul from a mob in the Temple, learned that Paul was a Roman citizen by birth while he had bought his own citizenship, and, on learning of a plot to kill Paul, sent him under heavy guard to Felix with a letter.",
+  "catholic": "",
+  "know": [
+   "Rescued Paul from the Temple riot (Acts 21:31-36).",
+   "Bought his Roman citizenship 'for a great price' (Acts 22:28).",
+   "Wrote to Felix on Paul's behalf (Acts 23:26-30)."
+  ],
+  "keyPassages": [
+   "act 21:31-40",
+   "act 22:24-29",
+   "act 23:23-30"
+  ],
+  "father": null,
+  "mother": null,
+  "spouses": [],
+  "children": [],
+  "relations": [
+   {
+    "to": "paul",
+    "type": "rescued",
+    "ref": "act 23:27"
+   },
+   {
+    "to": "felix",
+    "type": "wrote to",
+    "ref": "act 23:26"
+   }
+  ],
+  "search": {
+   "names": [
+    "Lysias"
+   ],
+   "books": [
+    "act:23",
+    "act:24"
+   ]
+  }
+ },
+ {
+  "id": "ananias-high-priest",
+  "name": "Ananias (high priest)",
+  "aliases": [],
+  "gender": "m",
+  "role": "High priest",
+  "era": "Apostolic Church",
+  "summary": "Ananias was the high priest who ordered Paul struck on the mouth during his hearing before the council; Paul replied, 'God will strike you, you whitewashed wall!' He then went down to Caesarea with the orator Tertullus to accuse Paul before Felix.",
+  "catholic": "",
+  "know": [
+   "Ordered Paul struck on the mouth (Acts 23:2).",
+   "Paul apologized on learning he was the high priest, citing Exodus 22:28 (Acts 23:5).",
+   "Accused Paul before Felix (Acts 24:1)."
+  ],
+  "keyPassages": [
+   "act 23:1-5",
+   "act 24:1"
+  ],
+  "father": null,
+  "mother": null,
+  "spouses": [],
+  "children": [],
+  "relations": [
+   {
+    "to": "paul",
+    "type": "ordered struck",
+    "ref": "act 23:2"
+   },
+   {
+    "to": "tertullus",
+    "type": "brought as accuser",
+    "ref": "act 24:1"
+   },
+   {
+    "to": "felix",
+    "type": "accused Paul before",
+    "ref": "act 24:1"
+   }
+  ],
+  "search": {
+   "names": [
+    "Ananias"
+   ],
+   "books": [
+    "act:23",
+    "act:24"
+   ]
+  }
+ },
+ {
+  "id": "tertullus",
+  "name": "Tertullus",
+  "aliases": [],
+  "gender": "m",
+  "role": "Orator (advocate)",
+  "era": "Apostolic Church",
+  "summary": "Tertullus was the orator who presented the high priest's case against Paul before Felix, flattering the governor and calling Paul 'a pest' and 'a ringleader of the sect of the Nazarenes'.",
+  "catholic": "",
+  "know": [
+   "Advocate for the high priest Ananias (Acts 24:1).",
+   "Called Paul 'a ringleader of the sect of the Nazarenes' (Acts 24:5)."
+  ],
+  "keyPassages": [
+   "act 24:1-9"
+  ],
+  "father": null,
+  "mother": null,
+  "spouses": [],
+  "children": [],
+  "relations": [
+   {
+    "to": "paul",
+    "type": "accused",
+    "ref": "act 24:5"
+   },
+   {
+    "to": "felix",
+    "type": "addressed",
+    "ref": "act 24:2-3"
+   }
+  ],
+  "search": {
+   "names": [
+    "Tertullus"
+   ],
+   "books": [
+    "act"
+   ]
+  }
+ },
+ {
+  "id": "sergius-paulus",
+  "name": "Sergius Paulus",
+  "aliases": [],
+  "gender": "m",
+  "role": "Roman proconsul of Cyprus",
+  "era": "Apostolic Church",
+  "summary": "Sergius Paulus, proconsul of Cyprus and 'a man of understanding', summoned Barnabas and Saul to hear the word of God. When the sorcerer Elymas opposed them and was struck blind, the proconsul believed, astonished at the teaching of the Lord.",
+  "catholic": "The first Roman official recorded as believing in Acts; it is at this encounter that Saul is first called Paul (Acts 13:9).",
+  "know": [
+   "Proconsul of Cyprus at Paphos.",
+   "Believed after Elymas was blinded (Acts 13:12)."
+  ],
+  "keyPassages": [
+   "act 13:6-12"
+  ],
+  "father": null,
+  "mother": null,
+  "spouses": [],
+  "children": [],
+  "relations": [
+   {
+    "to": "paul",
+    "type": "converted through",
+    "ref": "act 13:12"
+   },
+   {
+    "to": "elymas",
+    "type": "advised by",
+    "ref": "act 13:7-8"
+   }
+  ],
+  "search": {
+   "names": [
+    "Sergius Paulus"
+   ],
+   "books": [
+    "act:13"
+   ]
+  }
+ },
+ {
+  "id": "elymas",
+  "name": "Elymas",
+  "aliases": [
+   "Bar Jesus"
+  ],
+  "gender": "m",
+  "role": "Sorcerer and false prophet",
+  "era": "Apostolic Church",
+  "summary": "Elymas, also called Bar Jesus, was a Jewish sorcerer and false prophet at the court of Sergius Paulus in Paphos who tried to turn the proconsul from the faith. Paul, filled with the Holy Spirit, declared him blind for a time, and he groped about seeking someone to lead him by the hand.",
+  "catholic": "",
+  "know": [
+   "Also called Bar Jesus (Acts 13:6).",
+   "Struck blind for a time at Paul's word (Acts 13:11)."
+  ],
+  "keyPassages": [
+   "act 13:6-12"
+  ],
+  "father": null,
+  "mother": null,
+  "spouses": [],
+  "children": [],
+  "relations": [
+   {
+    "to": "paul",
+    "type": "struck blind by",
+    "ref": "act 13:11"
+   }
+  ],
+  "search": {
+   "names": [
+    "Elymas",
+    "Bar Jesus"
+   ],
+   "books": [
+    "act:13"
+   ]
+  }
+ },
+ {
+  "id": "judas-barsabbas",
+  "name": "Judas Barsabbas",
+  "aliases": [
+   "Barsabbas"
+  ],
+  "gender": "m",
+  "role": "Prophet and leader in Jerusalem",
+  "era": "Apostolic Church",
+  "summary": "Judas called Barsabbas was one of the 'chief men among the brothers' chosen by the apostles and elders, with Silas, to carry the decision of the Council of Jerusalem to Antioch. Being a prophet, he encouraged and strengthened the brothers there.",
+  "catholic": "He was one of the bearers of the apostolic letter of Acts 15, which spoke with the authority of 'the Holy Spirit and us' (Acts 15:28), an early witness to the Church's teaching authority.",
+  "know": [
+   "Chosen with Silas to carry the Council's letter to Antioch.",
+   "A prophet who strengthened the church (Acts 15:32)."
+  ],
+  "keyPassages": [
+   "act 15:22-33"
+  ],
+  "father": null,
+  "mother": null,
+  "spouses": [],
+  "children": [],
+  "relations": [
+   {
+    "to": "silas",
+    "type": "sent with",
+    "ref": "act 15:22"
+   },
+   {
+    "to": "paul",
+    "type": "travelled to Antioch with",
+    "ref": "act 15:22"
+   }
+  ],
+  "search": {
+   "names": [
+    "Judas"
+   ],
+   "books": [
+    "act:15"
+   ]
+  }
+ },
+ {
+  "id": "silas",
+  "name": "Silas",
+  "aliases": [
+   "Silvanus"
+  ],
+  "gender": "m",
+  "role": "Prophet and missionary",
+  "era": "Apostolic Church",
+  "summary": "Silas, a leading man and prophet of the Jerusalem church, was sent with Judas Barsabbas to bring the Council's letter to Antioch, and then chosen by Paul as companion on the second missionary journey. Beaten and imprisoned with Paul at Philippi, he sang hymns at midnight before an earthquake opened the prison. As Silvanus he co-sends 1 and 2 Thessalonians, and Peter says he wrote 1 Peter 'through Silvanus'.",
+  "catholic": "At the Council of Jerusalem (Acts 15) the apostles and elders, after Peter and James had spoken, settled the question of circumcision for Gentile converts with a letter beginning 'it seemed good to the Holy Spirit and to us' (Acts 15:28), the model of later Church councils and of the Magisterium's authority to interpret the faith (CCC 85). Silas links the ministries of Paul and Peter, serving both apostles. He is honored as a saint.",
+  "know": [
+   "Called Silvanus in the letters.",
+   "Paul's companion on the second missionary journey (Acts 15:40).",
+   "Sang hymns with Paul in the Philippian prison (Acts 16:25).",
+   "Like Paul, a Roman citizen (Acts 16:37).",
+   "1 Peter was written 'through Silvanus' (1 Pet 5:12)."
+  ],
+  "keyPassages": [
+   "act 15:22-35",
+   "act 15:40-41",
+   "act 16:19-40",
+   "act 17:1-15",
+   "1th 1:1",
+   "1pe 5:12"
+  ],
+  "father": null,
+  "mother": null,
+  "spouses": [],
+  "children": [],
+  "relations": [
+   {
+    "to": "paul",
+    "type": "missionary companion of",
+    "ref": "act 15:40"
+   },
+   {
+    "to": "peter",
+    "type": "secretary or bearer of 1 Peter for",
+    "ref": "1pe 5:12"
+   },
+   {
+    "to": "timothy",
+    "type": "co-sender with",
+    "ref": "1th 1:1"
+   }
+  ],
+  "search": {
+   "names": [
+    "Silas",
+    "Silvanus"
+   ],
+   "books": [
+    "act",
+    "2co",
+    "1th",
+    "2th",
+    "1pe"
+   ]
+  }
+ },
+ {
+  "id": "timothy",
+  "name": "Timothy",
+  "aliases": [],
+  "gender": "m",
+  "role": "Bishop and companion of Paul",
+  "era": "Apostolic Church",
+  "summary": "Timothy, a disciple of Lystra, son of a believing Jewish mother and a Greek father, joined Paul on the second missionary journey; Paul circumcised him because of the Jews of the region. He became Paul's closest co-worker, sent to Thessalonica, Corinth and Philippi, co-sender of six Pauline letters, and recipient of 1 and 2 Timothy, which charge him to guard the deposit of faith at Ephesus.",
+  "catholic": "Saints Timothy and Titus are celebrated together on January 26, the day after Paul's Conversion. Tradition holds that Timothy was the first bishop of Ephesus. Paul reminds him to 'stir up the gift of God which is in you through the laying on of my hands' (2 Tim 1:6; cf. 1 Tim 4:14), texts the Church reads as witness to the sacrament of Holy Orders conferred by the laying on of hands (CCC 1590). The Pastoral Letters addressed to him set out the qualifications of bishops and deacons (1 Tim 3) and the duty to 'guard what has been entrusted' (1 Tim 6:20), foundations of apostolic succession and the deposit of faith. His faith, passed down from his grandmother Lois and mother Eunice, makes him a model of faith handed on in the family, the 'domestic church'.",
+  "know": [
+   "From Lystra; Jewish mother, Greek father (Acts 16:1).",
+   "Paul calls him 'my true child in faith' (1 Tim 1:2).",
+   "Co-sender of 2 Corinthians, Philippians, Colossians, 1-2 Thessalonians and Philemon.",
+   "Ordained by the laying on of hands (1 Tim 4:14; 2 Tim 1:6).",
+   "Feast with Titus January 26."
+  ],
+  "feast": "January 26 (with St Titus)",
+  "keyPassages": [
+   "act 16:1-5",
+   "1co 4:17",
+   "php 2:19-22",
+   "1ti 1:1-3",
+   "1ti 4:12-16",
+   "2ti 1:1-7",
+   "2ti 3:14-17",
+   "heb 13:23"
+  ],
+  "father": null,
+  "mother": "eunice",
+  "spouses": [],
+  "children": [],
+  "relations": [
+   {
+    "to": "paul",
+    "type": "spiritual son of",
+    "ref": "1ti 1:2"
+   },
+   {
+    "to": "lois",
+    "type": "grandson of",
+    "ref": "2ti 1:5"
+   },
+   {
+    "to": "silas",
+    "type": "co-worker of",
+    "ref": "2co 1:19"
+   }
+  ],
+  "search": {
+   "names": [
+    "Timothy"
+   ],
+   "books": [
+    "act",
+    "rom",
+    "1co",
+    "2co",
+    "gal",
+    "eph",
+    "php",
+    "col",
+    "1th",
+    "2th",
+    "1ti",
+    "2ti",
+    "tit",
+    "phm",
+    "heb",
+    "jas",
+    "1pe",
+    "2pe",
+    "1jn",
+    "2jn",
+    "3jn",
+    "jud",
+    "rev"
+   ]
+  }
+ },
+ {
+  "id": "eunice",
+  "name": "Eunice",
+  "aliases": [],
+  "gender": "f",
+  "role": "Mother of Timothy",
+  "era": "Apostolic Church",
+  "summary": "Eunice was a Jewish woman who became a believer, the wife of a Greek, and the mother of Timothy. Paul praises the 'sincere faith' that lived in her and in her mother Lois before it lived in Timothy.",
+  "catholic": "With Lois she is a model of mothers and grandmothers who hand on the faith, the family as 'domestic church' where children first learn the Scriptures (2 Tim 3:15).",
+  "know": [
+   "A believing Jewish woman married to a Greek (Acts 16:1).",
+   "Mother of Timothy (2 Tim 1:5)."
+  ],
+  "keyPassages": [
+   "act 16:1",
+   "2ti 1:5",
+   "2ti 3:14-15"
+  ],
+  "father": null,
+  "mother": null,
+  "spouses": [],
+  "children": [
+   "timothy"
+  ],
+  "relations": [
+   {
+    "to": "lois",
+    "type": "relative of (Lois is Timothy's grandmother)",
+    "ref": "2ti 1:5"
+   }
+  ],
+  "search": {
+   "names": [
+    "Eunice"
+   ],
+   "books": [
+    "2ti"
+   ]
+  }
+ },
+ {
+  "id": "lois",
+  "name": "Lois",
+  "aliases": [],
+  "gender": "f",
+  "role": "Grandmother of Timothy",
+  "era": "Apostolic Church",
+  "summary": "Lois was Timothy's grandmother, in whom, Paul writes, a sincere faith 'lived first' before passing to Timothy's mother Eunice and to Timothy himself.",
+  "catholic": "Honored as an example of grandparents who transmit the faith across generations.",
+  "know": [
+   "Timothy's grandmother (2 Tim 1:5).",
+   "Often assumed to be Eunice's mother, though the text does not say whether she was Timothy's maternal or paternal grandmother."
+  ],
+  "keyPassages": [
+   "2ti 1:5"
+  ],
+  "father": null,
+  "mother": null,
+  "spouses": [],
+  "children": [],
+  "relations": [
+   {
+    "to": "timothy",
+    "type": "grandmother of",
+    "ref": "2ti 1:5"
+   }
+  ],
+  "search": {
+   "names": [
+    "Lois"
+   ],
+   "books": [
+    "2ti"
+   ]
+  }
+ },
+ {
+  "id": "titus",
+  "name": "Titus",
+  "aliases": [],
+  "gender": "m",
+  "role": "Bishop and companion of Paul",
+  "era": "Apostolic Church",
+  "summary": "Titus was a Greek convert and trusted co-worker of Paul. Paul brought him to Jerusalem, where he was not compelled to be circumcised, a test case for the freedom of Gentile believers. He carried out delicate missions to Corinth, organized the collection for Jerusalem, and was left in Crete to 'appoint elders in every city'; the Letter to Titus is addressed to him.",
+  "catholic": "Saints Timothy and Titus are celebrated together on January 26. Tradition holds that Titus was the first bishop of Crete. Paul's charge to him to appoint presbyters in every town (Titus 1:5) is a key witness to the apostolic ordering of ministry and to apostolic succession: those who received authority from the apostles in turn ordained others. The Letter to Titus gives the Church a classic baptismal text, 'the washing of regeneration and renewal by the Holy Spirit' (Titus 3:5), read at the Christmas liturgy with Titus 2:11-14.",
+  "know": [
+   "A Greek, not circumcised (Gal 2:3).",
+   "Paul's 'partner and fellow worker' (2 Cor 8:23).",
+   "Left in Crete to appoint elders (Titus 1:5).",
+   "Feast with Timothy January 26."
+  ],
+  "feast": "January 26 (with St Timothy)",
+  "keyPassages": [
+   "gal 2:1-3",
+   "2co 7:6-7",
+   "2co 8:16-23",
+   "tit 1:4-9",
+   "tit 3:4-7",
+   "2ti 4:10"
+  ],
+  "father": null,
+  "mother": null,
+  "spouses": [],
+  "children": [],
+  "relations": [
+   {
+    "to": "paul",
+    "type": "spiritual son of",
+    "ref": "tit 1:4"
+   },
+   {
+    "to": "barnabas",
+    "type": "went up to Jerusalem with",
+    "ref": "gal 2:1"
+   }
+  ],
+  "search": {
+   "names": [
+    "Titus"
+   ],
+   "books": [
+    "2co",
+    "gal",
+    "2ti",
+    "tit"
+   ]
+  }
+ },
+ {
+  "id": "lydia",
+  "name": "Lydia",
+  "aliases": [],
+  "gender": "f",
+  "role": "Merchant and convert",
+  "era": "Apostolic Church",
+  "summary": "Lydia, a dealer in purple cloth from Thyatira and a worshipper of God, heard Paul at a place of prayer by the river outside Philippi. The Lord opened her heart; she and her household were baptized, and she insisted that the missionaries stay in her house, which became the meeting place of the Philippian church.",
+  "catholic": "Lydia is the first recorded convert in Europe and a model of hospitality and of a woman whose heart the Lord opens to the Word. The baptism of her whole household (Acts 16:15) is among the New Testament passages the Church points to in the tradition of baptizing entire families, including children.",
+  "know": [
+   "A seller of purple from Thyatira.",
+   "First recorded convert in Europe (Philippi).",
+   "Baptized with her household (Acts 16:15).",
+   "Hosted Paul and Silas after their release from prison (Acts 16:40)."
+  ],
+  "keyPassages": [
+   "act 16:11-15",
+   "act 16:40"
+  ],
+  "father": null,
+  "mother": null,
+  "spouses": [],
+  "children": [],
+  "relations": [
+   {
+    "to": "paul",
+    "type": "converted by the preaching of",
+    "ref": "act 16:14"
+   }
+  ],
+  "search": {
+   "names": [
+    "Lydia"
+   ],
+   "books": [
+    "act"
+   ]
+  }
+ },
+ {
+  "id": "jason",
+  "name": "Jason",
+  "aliases": [],
+  "gender": "m",
+  "role": "Host of Paul in Thessalonica",
+  "era": "Apostolic Church",
+  "summary": "Jason welcomed Paul and Silas into his house at Thessalonica. A mob attacked the house and dragged Jason before the city rulers, accusing those who 'turned the world upside down'; he had to give security before being released.",
+  "catholic": "",
+  "know": [
+   "His house was attacked by a mob (Acts 17:5-9).",
+   "A Jason, Paul's relative, sends greetings in Romans 16:21; he may be the same man, but this is not certain."
+  ],
+  "keyPassages": [
+   "act 17:1-9",
+   "rom 16:21"
+  ],
+  "father": null,
+  "mother": null,
+  "spouses": [],
+  "children": [],
+  "relations": [
+   {
+    "to": "paul",
+    "type": "hosted",
+    "ref": "act 17:7"
+   }
+  ],
+  "search": {
+   "names": [
+    "Jason"
+   ],
+   "books": [
+    "act:17",
+    "rom:16"
+   ]
+  }
+ },
+ {
+  "id": "dionysius-the-areopagite",
+  "name": "Dionysius the Areopagite",
+  "aliases": [],
+  "gender": "m",
+  "role": "Convert of Athens",
+  "era": "Apostolic Church",
+  "summary": "Dionysius, a member of the Areopagus council of Athens, was one of the few who believed after Paul's speech on the 'unknown god'.",
+  "catholic": "Early tradition (Dionysius of Corinth, via Eusebius) names him the first bishop of Athens. Influential mystical writings of about AD 500 were later circulated under his name ('Pseudo-Dionysius'), and in the West he was long confused with St Denis of Paris.",
+  "know": [
+   "A member of the Areopagus (Acts 17:34).",
+   "Converted by Paul's Areopagus speech.",
+   "Writings attributed to him are by a later author ('Pseudo-Dionysius')."
+  ],
+  "keyPassages": [
+   "act 17:22-34"
+  ],
+  "father": null,
+  "mother": null,
+  "spouses": [],
+  "children": [],
+  "relations": [
+   {
+    "to": "paul",
+    "type": "converted by",
+    "ref": "act 17:34"
+   }
+  ],
+  "search": {
+   "names": [
+    "Dionysius"
+   ],
+   "books": [
+    "act"
+   ]
+  }
+ },
+ {
+  "id": "damaris",
+  "name": "Damaris",
+  "aliases": [],
+  "gender": "f",
+  "role": "Convert of Athens",
+  "era": "Apostolic Church",
+  "summary": "Damaris was a woman of Athens who believed after hearing Paul's speech at the Areopagus.",
+  "catholic": "",
+  "know": [
+   "Named with Dionysius among the Athenian converts (Acts 17:34)."
+  ],
+  "keyPassages": [
+   "act 17:34"
+  ],
+  "father": null,
+  "mother": null,
+  "spouses": [],
+  "children": [],
+  "relations": [
+   {
+    "to": "paul",
+    "type": "converted by",
+    "ref": "act 17:34"
+   },
+   {
+    "to": "dionysius-the-areopagite",
+    "type": "converted with",
+    "ref": "act 17:34"
+   }
+  ],
+  "search": {
+   "names": [
+    "Damaris"
+   ],
+   "books": [
+    "act"
+   ]
+  }
+ },
+ {
+  "id": "aquila",
+  "name": "Aquila",
+  "aliases": [],
+  "gender": "m",
+  "role": "Tentmaker and missionary",
+  "era": "Apostolic Church",
+  "summary": "Aquila, a Jew from Pontus, came to Corinth with his wife Priscilla after Claudius expelled the Jews from Rome. Paul stayed and worked with them as a fellow tentmaker; they travelled with him to Ephesus, where they took Apollos aside and explained the way of God more accurately.",
+  "catholic": "Priscilla and Aquila are the New Testament's great missionary couple: tentmakers who worked with Paul, risked their lives for him, hosted a church in their home, and taught the faith. They show marriage as a partnership in the apostolate and the home as a 'domestic church' (cf. CCC 1655-1657). They are commemorated together in the Roman Martyrology (July 8).",
+  "know": [
+   "A Jew of Pontus and a tentmaker.",
+   "Always named with his wife Priscilla (Prisca).",
+   "Instructed Apollos at Ephesus (Acts 18:26).",
+   "Hosted a church in their house (1 Cor 16:19; Rom 16:5)."
+  ],
+  "feast": "July 8 (with St Priscilla)",
+  "keyPassages": [
+   "act 18:1-3",
+   "act 18:18-28",
+   "rom 16:3-5",
+   "1co 16:19",
+   "2ti 4:19"
+  ],
+  "father": null,
+  "mother": null,
+  "spouses": [
+   "priscilla"
+  ],
+  "children": [],
+  "relations": [
+   {
+    "to": "paul",
+    "type": "worked with",
+    "ref": "act 18:3"
+   },
+   {
+    "to": "apollos",
+    "type": "instructed",
+    "ref": "act 18:26"
+   }
+  ],
+  "search": {
+   "names": [
+    "Aquila"
+   ],
+   "books": [
+    "act",
+    "rom",
+    "1co",
+    "2ti"
+   ]
+  }
+ },
+ {
+  "id": "priscilla",
+  "name": "Priscilla",
+  "aliases": [
+   "Prisca"
+  ],
+  "gender": "f",
+  "role": "Missionary",
+  "era": "Apostolic Church",
+  "summary": "Priscilla (Prisca) was the wife of Aquila and, with him, a co-worker of Paul at Corinth, Ephesus and Rome. Paul thanks them for risking their necks for his life, and the churches of the Gentiles give thanks for them.",
+  "catholic": "Priscilla and Aquila are the New Testament's great missionary couple: tentmakers who worked with Paul, risked their lives for him, hosted a church in their home, and taught the faith. They show marriage as a partnership in the apostolate and the home as a 'domestic church' (cf. CCC 1655-1657). They are commemorated together in the Roman Martyrology (July 8). That she is often named before her husband suggests her prominence in the community.",
+  "know": [
+   "Called Prisca by Paul.",
+   "Explained the way of God to Apollos with Aquila (Acts 18:26).",
+   "Paul's 'fellow worker in Christ Jesus' (Rom 16:3)."
+  ],
+  "feast": "July 8 (with St Aquila)",
+  "keyPassages": [
+   "act 18:1-3",
+   "act 18:18-28",
+   "rom 16:3-5",
+   "1co 16:19"
+  ],
+  "father": null,
+  "mother": null,
+  "spouses": [
+   "aquila"
+  ],
+  "children": [],
+  "relations": [
+   {
+    "to": "paul",
+    "type": "risked her life for",
+    "ref": "rom 16:3-4"
+   },
+   {
+    "to": "apollos",
+    "type": "instructed",
+    "ref": "act 18:26"
+   }
+  ],
+  "search": {
+   "names": [
+    "Priscilla",
+    "Prisca"
+   ],
+   "books": [
+    "act",
+    "rom",
+    "1co",
+    "2ti"
+   ]
+  }
+ },
+ {
+  "id": "justus-of-corinth",
+  "name": "Justus of Corinth",
+  "aliases": [
+   "Titius Justus"
+  ],
+  "gender": "m",
+  "role": "God-fearer",
+  "era": "Apostolic Church",
+  "summary": "Justus was a God-fearer at Corinth whose house was next door to the synagogue; Paul moved his teaching there when the synagogue rejected him.",
+  "catholic": "",
+  "know": [
+   "Some manuscripts call him Titius Justus.",
+   "His house was next to the synagogue (Acts 18:7)."
+  ],
+  "keyPassages": [
+   "act 18:5-8"
+  ],
+  "father": null,
+  "mother": null,
+  "spouses": [],
+  "children": [],
+  "relations": [
+   {
+    "to": "paul",
+    "type": "hosted the preaching of",
+    "ref": "act 18:7"
+   }
+  ],
+  "search": {
+   "names": [
+    "Justus"
+   ],
+   "books": [
+    "act:18"
+   ]
+  }
+ },
+ {
+  "id": "crispus",
+  "name": "Crispus",
+  "aliases": [],
+  "gender": "m",
+  "role": "Ruler of the synagogue",
+  "era": "Apostolic Church",
+  "summary": "Crispus, ruler of the synagogue at Corinth, believed in the Lord with all his household. He was one of the few Corinthians Paul baptized personally.",
+  "catholic": "",
+  "know": [
+   "Ruler of the Corinthian synagogue (Acts 18:8).",
+   "Baptized by Paul himself (1 Cor 1:14)."
+  ],
+  "keyPassages": [
+   "act 18:8",
+   "1co 1:14"
+  ],
+  "father": null,
+  "mother": null,
+  "spouses": [],
+  "children": [],
+  "relations": [
+   {
+    "to": "paul",
+    "type": "baptized by",
+    "ref": "1co 1:14"
+   }
+  ],
+  "search": {
+   "names": [
+    "Crispus"
+   ],
+   "books": [
+    "act",
+    "1co"
+   ]
+  }
+ },
+ {
+  "id": "sosthenes",
+  "name": "Sosthenes",
+  "aliases": [],
+  "gender": "m",
+  "role": "Ruler of the synagogue",
+  "era": "Apostolic Church",
+  "summary": "Sosthenes, ruler of the synagogue at Corinth, was seized and beaten before Gallio's judgment seat after the failed case against Paul. A 'brother Sosthenes' is co-sender of 1 Corinthians.",
+  "catholic": "",
+  "know": [
+   "Beaten before Gallio (Acts 18:17).",
+   "Possibly the same as the 'brother Sosthenes' of 1 Cor 1:1, though this is not certain."
+  ],
+  "keyPassages": [
+   "act 18:12-17",
+   "1co 1:1"
+  ],
+  "father": null,
+  "mother": null,
+  "spouses": [],
+  "children": [],
+  "relations": [
+   {
+    "to": "gallio",
+    "type": "beaten before",
+    "ref": "act 18:17"
+   },
+   {
+    "to": "paul",
+    "type": "co-sender with",
+    "ref": "1co 1:1"
+   }
+  ],
+  "search": {
+   "names": [
+    "Sosthenes"
+   ],
+   "books": [
+    "act:18",
+    "1co:1"
+   ]
+  }
+ },
+ {
+  "id": "gallio",
+  "name": "Gallio",
+  "aliases": [],
+  "gender": "m",
+  "role": "Roman proconsul of Achaia",
+  "era": "Apostolic Church",
+  "summary": "Gallio, proconsul of Achaia, refused to judge the case the Jews of Corinth brought against Paul, calling it a dispute about words and names and their own law, and drove them from his judgment seat.",
+  "catholic": "",
+  "know": [
+   "Proconsul of Achaia at Corinth (Acts 18:12).",
+   "An inscription at Delphi dates his term to about AD 51-52, a fixed point for dating Paul's ministry.",
+   "Brother of the philosopher Seneca (historical sources)."
+  ],
+  "keyPassages": [
+   "act 18:12-17"
+  ],
+  "father": null,
+  "mother": null,
+  "spouses": [],
+  "children": [],
+  "relations": [
+   {
+    "to": "paul",
+    "type": "dismissed the charges against",
+    "ref": "act 18:14-16"
+   }
+  ],
+  "search": {
+   "names": [
+    "Gallio"
+   ],
+   "books": [
+    "act"
+   ]
+  }
+ },
+ {
+  "id": "apollos",
+  "name": "Apollos",
+  "aliases": [],
+  "gender": "m",
+  "role": "Preacher",
+  "era": "Apostolic Church",
+  "summary": "Apollos, a Jew of Alexandria, was eloquent and mighty in the Scriptures and taught accurately about Jesus, though he knew only the baptism of John. Priscilla and Aquila explained the way of God more accurately to him, and he went on to Corinth, where he powerfully refuted the Jews from the Scriptures. Some Corinthians formed a faction around him, but Paul insists, 'I planted, Apollos watered, but God gave the increase.'",
+  "catholic": "Apollos shows the need for the apostolic faith to be received whole, and Paul's treatment of the Corinthian factions ('I follow Paul... I follow Apollos', 1 Cor 1:12) is a classic plea for unity in the one Body of Christ.",
+  "know": [
+   "An eloquent Alexandrian Jew (Acts 18:24).",
+   "Instructed by Priscilla and Aquila.",
+   "Watered what Paul planted at Corinth (1 Cor 3:6).",
+   "Sent on with Zenas (Titus 3:13)."
+  ],
+  "keyPassages": [
+   "act 18:24-28",
+   "1co 1:10-13",
+   "1co 3:4-9",
+   "1co 16:12",
+   "tit 3:13"
+  ],
+  "father": null,
+  "mother": null,
+  "spouses": [],
+  "children": [],
+  "relations": [
+   {
+    "to": "paul",
+    "type": "co-worker of",
+    "ref": "1co 3:6"
+   },
+   {
+    "to": "priscilla",
+    "type": "taught by",
+    "ref": "act 18:26"
+   }
+  ],
+  "search": {
+   "names": [
+    "Apollos"
+   ],
+   "books": [
+    "act",
+    "1co",
+    "tit"
+   ]
+  }
+ },
+ {
+  "id": "tyrannus",
+  "name": "Tyrannus",
+  "aliases": [],
+  "gender": "m",
+  "role": "Owner of a lecture hall",
+  "era": "Apostolic Church",
+  "summary": "Paul taught daily for two years in the school (lecture hall) of Tyrannus at Ephesus after leaving the synagogue, so that all who lived in Asia heard the word.",
+  "catholic": "",
+  "know": [
+   "Paul taught in his school for two years (Acts 19:9-10)."
+  ],
+  "keyPassages": [
+   "act 19:8-10"
+  ],
+  "father": null,
+  "mother": null,
+  "spouses": [],
+  "children": [],
+  "relations": [
+   {
+    "to": "paul",
+    "type": "his hall used by",
+    "ref": "act 19:9"
+   }
+  ],
+  "search": {
+   "names": [
+    "Tyrannus"
+   ],
+   "books": [
+    "act"
+   ]
+  }
+ },
+ {
+  "id": "sceva",
+  "name": "Sceva",
+  "aliases": [],
+  "gender": "m",
+  "role": "Jewish chief priest",
+  "era": "Apostolic Church",
+  "summary": "Sceva was a Jewish chief priest whose seven sons, itinerant exorcists, tried to cast out demons 'by Jesus whom Paul preaches'; the evil spirit answered, 'Jesus I know, and Paul I know, but who are you?' and overpowered them.",
+  "catholic": "The episode shows that the name of Jesus is not a magic formula; the Church's exorcisms are acts of faith exercised in the Church's authority.",
+  "know": [
+   "Father of seven sons who were itinerant exorcists (Acts 19:14).",
+   "The episode led many in Ephesus to burn their magic books (Acts 19:19)."
+  ],
+  "keyPassages": [
+   "act 19:11-20"
+  ],
+  "father": null,
+  "mother": null,
+  "spouses": [],
+  "children": [],
+  "relations": [
+   {
+    "to": "paul",
+    "type": "his sons invoked the name preached by",
+    "ref": "act 19:13"
+   }
+  ],
+  "search": {
+   "names": [
+    "Sceva"
+   ],
+   "books": [
+    "act"
+   ]
+  }
+ },
+ {
+  "id": "demetrius-silversmith",
+  "name": "Demetrius the silversmith",
+  "aliases": [],
+  "gender": "m",
+  "role": "Silversmith",
+  "era": "Apostolic Church",
+  "summary": "Demetrius, a silversmith of Ephesus who made silver shrines of Artemis, stirred up the craftsmen against Paul because his preaching threatened their trade and the goddess's honor, provoking a riot in the theater.",
+  "catholic": "",
+  "know": [
+   "Made silver shrines of Artemis (Acts 19:24).",
+   "Started the Ephesian riot (Acts 19:23-41)."
+  ],
+  "keyPassages": [
+   "act 19:23-41"
+  ],
+  "father": null,
+  "mother": null,
+  "spouses": [],
+  "children": [],
+  "relations": [
+   {
+    "to": "paul",
+    "type": "stirred up a riot against",
+    "ref": "act 19:26"
+   }
+  ],
+  "search": {
+   "names": [
+    "Demetrius"
+   ],
+   "books": [
+    "act:19"
+   ]
+  }
+ },
+ {
+  "id": "alexander-of-ephesus",
+  "name": "Alexander of Ephesus",
+  "aliases": [],
+  "gender": "m",
+  "role": "Jew of Ephesus",
+  "era": "Apostolic Church",
+  "summary": "Alexander was put forward by the Jews during the Ephesian riot and tried to make a defense to the crowd, but they shouted him down for two hours when they recognized he was a Jew.",
+  "catholic": "",
+  "know": [
+   "Shouted down in the Ephesian theater (Acts 19:33-34)."
+  ],
+  "keyPassages": [
+   "act 19:33-34"
+  ],
+  "father": null,
+  "mother": null,
+  "spouses": [],
+  "children": [],
+  "relations": [
+   {
+    "to": "demetrius-silversmith",
+    "type": "caught up in the riot of",
+    "ref": "act 19:33"
+   }
+  ],
+  "search": {
+   "names": [
+    "Alexander"
+   ],
+   "books": [
+    "act:19"
+   ]
+  }
+ },
+ {
+  "id": "gaius-of-macedonia",
+  "name": "Gaius of Macedonia",
+  "aliases": [],
+  "gender": "m",
+  "role": "Companion of Paul",
+  "era": "Apostolic Church",
+  "summary": "Gaius, a Macedonian travelling companion of Paul, was seized with Aristarchus and dragged into the theater during the riot at Ephesus.",
+  "catholic": "",
+  "know": [
+   "Seized in the Ephesian riot (Acts 19:29).",
+   "Possibly identical with another Gaius of the New Testament; this cannot be determined."
+  ],
+  "keyPassages": [
+   "act 19:29"
+  ],
+  "father": null,
+  "mother": null,
+  "spouses": [],
+  "children": [],
+  "relations": [
+   {
+    "to": "aristarchus",
+    "type": "seized with",
+    "ref": "act 19:29"
+   },
+   {
+    "to": "paul",
+    "type": "companion of",
+    "ref": "act 19:29"
+   }
+  ],
+  "search": {
+   "names": [
+    "Gaius"
+   ],
+   "books": [
+    "act:19"
+   ]
+  }
+ },
+ {
+  "id": "aristarchus",
+  "name": "Aristarchus",
+  "aliases": [],
+  "gender": "m",
+  "role": "Companion of Paul",
+  "era": "Apostolic Church",
+  "summary": "Aristarchus, a Macedonian from Thessalonica, was seized in the Ephesian riot, travelled with Paul toward Jerusalem, and sailed with him on the voyage to Rome. Paul calls him 'my fellow prisoner'.",
+  "catholic": "",
+  "know": [
+   "From Thessalonica (Acts 20:4; 27:2).",
+   "Shared Paul's voyage and imprisonment (Acts 27:2; Col 4:10).",
+   "Sends greetings in Colossians and Philemon."
+  ],
+  "keyPassages": [
+   "act 19:29",
+   "act 20:4",
+   "act 27:2",
+   "col 4:10",
+   "phm 1:24"
+  ],
+  "father": null,
+  "mother": null,
+  "spouses": [],
+  "children": [],
+  "relations": [
+   {
+    "to": "paul",
+    "type": "fellow prisoner of",
+    "ref": "col 4:10"
+   }
+  ],
+  "search": {
+   "names": [
+    "Aristarchus"
+   ],
+   "books": [
+    "act",
+    "col",
+    "phm"
+   ]
+  }
+ },
+ {
+  "id": "sopater",
+  "name": "Sopater",
+  "aliases": [],
+  "gender": "m",
+  "role": "Companion of Paul",
+  "era": "Apostolic Church",
+  "summary": "Sopater of Beroea, son of Pyrrhus in some manuscripts, accompanied Paul from Greece toward Jerusalem.",
+  "catholic": "",
+  "know": [
+   "Possibly the same as Sosipater of Romans 16:21; uncertain."
+  ],
+  "keyPassages": [
+   "act 20:1-6"
+  ],
+  "father": null,
+  "mother": null,
+  "spouses": [],
+  "children": [],
+  "relations": [
+   {
+    "to": "paul",
+    "type": "accompanied",
+    "ref": "act 20:4"
+   }
+  ],
+  "search": {
+   "names": [
+    "Sopater"
+   ],
+   "books": [
+    "act:20"
+   ]
+  }
+ },
+ {
+  "id": "secundus",
+  "name": "Secundus",
+  "aliases": [],
+  "gender": "m",
+  "role": "Companion of Paul",
+  "era": "Apostolic Church",
+  "summary": "Secundus of Thessalonica accompanied Paul from Greece toward Jerusalem.",
+  "catholic": "",
+  "know": [
+   "A Thessalonian delegate for the collection journey."
+  ],
+  "keyPassages": [
+   "act 20:1-6"
+  ],
+  "father": null,
+  "mother": null,
+  "spouses": [],
+  "children": [],
+  "relations": [
+   {
+    "to": "paul",
+    "type": "accompanied",
+    "ref": "act 20:4"
+   }
+  ],
+  "search": {
+   "names": [
+    "Secundus"
+   ],
+   "books": [
+    "act:20"
+   ]
+  }
+ },
+ {
+  "id": "gaius-of-derbe",
+  "name": "Gaius of Derbe",
+  "aliases": [],
+  "gender": "m",
+  "role": "Companion of Paul",
+  "era": "Apostolic Church",
+  "summary": "Gaius of Derbe was among the companions who accompanied Paul from Greece toward Jerusalem at the end of the third missionary journey.",
+  "catholic": "",
+  "know": [
+   "From Derbe in Lycaonia (Acts 20:4)."
+  ],
+  "keyPassages": [
+   "act 20:4"
+  ],
+  "father": null,
+  "mother": null,
+  "spouses": [],
+  "children": [],
+  "relations": [
+   {
+    "to": "paul",
+    "type": "accompanied",
+    "ref": "act 20:4"
+   }
+  ],
+  "search": {
+   "names": [
+    "Gaius"
+   ],
+   "books": [
+    "act:20"
+   ]
+  }
+ },
+ {
+  "id": "tychicus",
+  "name": "Tychicus",
+  "aliases": [],
+  "gender": "m",
+  "role": "Companion and messenger of Paul",
+  "era": "Apostolic Church",
+  "summary": "Tychicus of the province of Asia accompanied Paul toward Jerusalem and later served as his trusted messenger, carrying the letters to the Ephesians and Colossians and news of Paul's imprisonment.",
+  "catholic": "",
+  "know": [
+   "'The beloved brother and faithful servant in the Lord' (Eph 6:21).",
+   "Bearer of Ephesians and Colossians (Eph 6:21-22; Col 4:7-8).",
+   "Sent to Ephesus (2 Tim 4:12)."
+  ],
+  "keyPassages": [
+   "act 20:4",
+   "eph 6:21-22",
+   "col 4:7-9",
+   "2ti 4:12",
+   "tit 3:12"
+  ],
+  "father": null,
+  "mother": null,
+  "spouses": [],
+  "children": [],
+  "relations": [
+   {
+    "to": "paul",
+    "type": "messenger of",
+    "ref": "eph 6:21"
+   },
+   {
+    "to": "onesimus",
+    "type": "travelled with",
+    "ref": "col 4:9"
+   }
+  ],
+  "search": {
+   "names": [
+    "Tychicus"
+   ],
+   "books": [
+    "act",
+    "eph",
+    "col",
+    "2ti",
+    "tit"
+   ]
+  }
+ },
+ {
+  "id": "trophimus",
+  "name": "Trophimus",
+  "aliases": [],
+  "gender": "m",
+  "role": "Companion of Paul",
+  "era": "Apostolic Church",
+  "summary": "Trophimus, an Ephesian Gentile, accompanied Paul to Jerusalem. Jews from Asia, having seen him with Paul in the city, supposed Paul had brought him into the Temple, sparking the riot that led to Paul's arrest. Paul later left him sick at Miletus.",
+  "catholic": "",
+  "know": [
+   "An Ephesian (Acts 21:29).",
+   "Suspicion about him triggered Paul's arrest.",
+   "Left sick at Miletus (2 Tim 4:20)."
+  ],
+  "keyPassages": [
+   "act 20:4",
+   "act 21:27-30",
+   "2ti 4:20"
+  ],
+  "father": null,
+  "mother": null,
+  "spouses": [],
+  "children": [],
+  "relations": [
+   {
+    "to": "paul",
+    "type": "companion of",
+    "ref": "act 21:29"
+   }
+  ],
+  "search": {
+   "names": [
+    "Trophimus"
+   ],
+   "books": [
+    "act",
+    "2ti"
+   ]
+  }
+ },
+ {
+  "id": "erastus",
+  "name": "Erastus",
+  "aliases": [],
+  "gender": "m",
+  "role": "Co-worker of Paul",
+  "era": "Apostolic Church",
+  "summary": "Erastus was sent with Timothy into Macedonia while Paul stayed in Asia. An Erastus, 'the treasurer of the city', sends greetings from Corinth in Romans, and 2 Timothy notes that Erastus remained at Corinth.",
+  "catholic": "",
+  "know": [
+   "Sent with Timothy to Macedonia (Acts 19:22).",
+   "The city treasurer of Rom 16:23 and the Erastus of Acts may or may not be the same man."
+  ],
+  "keyPassages": [
+   "act 19:22",
+   "rom 16:23",
+   "2ti 4:20"
+  ],
+  "father": null,
+  "mother": null,
+  "spouses": [],
+  "children": [],
+  "relations": [
+   {
+    "to": "timothy",
+    "type": "sent with",
+    "ref": "act 19:22"
+   },
+   {
+    "to": "paul",
+    "type": "served",
+    "ref": "act 19:22"
+   }
+  ],
+  "search": {
+   "names": [
+    "Erastus"
+   ],
+   "books": [
+    "act",
+    "rom",
+    "2ti"
+   ]
+  }
+ },
+ {
+  "id": "eutychus",
+  "name": "Eutychus",
+  "aliases": [],
+  "gender": "m",
+  "role": "Young man of Troas",
+  "era": "Apostolic Church",
+  "summary": "Eutychus was a young man at Troas who fell asleep in a window during Paul's long sermon on the first day of the week and fell three stories to his death. Paul went down, embraced him, and he was restored to life; the gathering then broke bread and continued till dawn.",
+  "catholic": "The setting, the community gathered 'on the first day of the week... to break bread' (Acts 20:7), is an early witness to the Sunday Eucharist (cf. CCC 1343).",
+  "know": [
+   "Fell from a third-story window at Troas.",
+   "Raised by Paul (Acts 20:10-12).",
+   "The scene takes place at a Sunday breaking of bread (Acts 20:7)."
+  ],
+  "keyPassages": [
+   "act 20:7-12"
+  ],
+  "father": null,
+  "mother": null,
+  "spouses": [],
+  "children": [],
+  "relations": [
+   {
+    "to": "paul",
+    "type": "raised by",
+    "ref": "act 20:10"
+   }
+  ],
+  "search": {
+   "names": [
+    "Eutychus"
+   ],
+   "books": [
+    "act"
+   ]
+  }
+ },
+ {
+  "id": "mnason",
+  "name": "Mnason",
+  "aliases": [],
+  "gender": "m",
+  "role": "Early disciple",
+  "era": "Apostolic Church",
+  "summary": "Mnason of Cyprus, 'an early disciple', hosted Paul and his companions on their way up to Jerusalem.",
+  "catholic": "",
+  "know": [
+   "An 'early disciple' from Cyprus (Acts 21:16)."
+  ],
+  "keyPassages": [
+   "act 21:15-16"
+  ],
+  "father": null,
+  "mother": null,
+  "spouses": [],
+  "children": [],
+  "relations": [
+   {
+    "to": "paul",
+    "type": "hosted",
+    "ref": "act 21:16"
+   }
+  ],
+  "search": {
+   "names": [
+    "Mnason"
+   ],
+   "books": [
+    "act"
+   ]
+  }
+ },
+ {
+  "id": "julius-centurion",
+  "name": "Julius",
+  "aliases": [],
+  "gender": "m",
+  "role": "Centurion",
+  "era": "Apostolic Church",
+  "summary": "Julius, a centurion of the Augustan cohort, was in charge of Paul on the voyage to Rome. He treated Paul kindly, let him visit friends at Sidon, and during the shipwreck prevented the soldiers from killing the prisoners in order to save Paul.",
+  "catholic": "",
+  "know": [
+   "Of the Augustan band (Acts 27:1).",
+   "Saved Paul's life during the shipwreck (Acts 27:42-44)."
+  ],
+  "keyPassages": [
+   "act 27:1-3",
+   "act 27:42-44"
+  ],
+  "father": null,
+  "mother": null,
+  "spouses": [],
+  "children": [],
+  "relations": [
+   {
+    "to": "paul",
+    "type": "escorted to Rome",
+    "ref": "act 27:1"
+   }
+  ],
+  "search": {
+   "names": [
+    "Julius"
+   ],
+   "books": [
+    "act:27"
+   ]
+  }
+ },
+ {
+  "id": "publius",
+  "name": "Publius",
+  "aliases": [],
+  "gender": "m",
+  "role": "Chief man of Malta",
+  "era": "Apostolic Church",
+  "summary": "Publius, the chief man of Malta, received Paul and the shipwrecked company for three days. Paul prayed, laid his hands on Publius' father, who lay sick with fever and dysentery, and healed him; many others on the island were then healed.",
+  "catholic": "Tradition holds that Publius became the first bishop of Malta. Paul's prayer with the laying on of hands for the sick connects with the Church's ministry of healing.",
+  "know": [
+   "Chief man of Malta (Acts 28:7).",
+   "His father was healed by Paul (Acts 28:8)."
+  ],
+  "keyPassages": [
+   "act 28:1-10"
+  ],
+  "father": null,
+  "mother": null,
+  "spouses": [],
+  "children": [],
+  "relations": [
+   {
+    "to": "paul",
+    "type": "hosted",
+    "ref": "act 28:7"
+   }
+  ],
+  "search": {
+   "names": [
+    "Publius"
+   ],
+   "books": [
+    "act"
+   ]
+  }
+ },
+ {
+  "id": "theophilus",
+  "name": "Theophilus",
+  "aliases": [],
+  "gender": "m",
+  "role": "Addressee of Luke-Acts",
+  "era": "Apostolic Church",
+  "summary": "Theophilus ('friend of God') is the 'most excellent' person to whom Luke dedicates his Gospel and the Acts of the Apostles, so that he may know the certainty of what he was taught.",
+  "catholic": "The Fathers often noted that his name, 'friend of God' or 'loved by God', makes every reader who loves God the addressee of Luke's writings.",
+  "know": [
+   "Addressed in Luke 1:3 and Acts 1:1.",
+   "His name means 'friend of God'."
+  ],
+  "keyPassages": [
+   "luk 1:1-4",
+   "act 1:1-2"
+  ],
+  "father": null,
+  "mother": null,
+  "spouses": [],
+  "children": [],
+  "relations": [
+   {
+    "to": "luke",
+    "type": "addressee of the writings of",
+    "ref": "act 1:1"
+   }
+  ],
+  "search": {
+   "names": [
+    "Theophilus"
+   ],
+   "books": [
+    "luk",
+    "act"
+   ]
+  }
+ },
+ {
+  "id": "luke",
+  "name": "Luke",
+  "aliases": [],
+  "gender": "m",
+  "role": "Evangelist and physician",
+  "era": "Apostolic Church",
+  "summary": "Luke, 'the beloved physician', was a companion of Paul who stayed with him to the end ('Only Luke is with me'). The 'we' passages of Acts (from Acts 16:10) suggest that the author travelled with Paul to Philippi, to Jerusalem, and on the voyage to Rome.",
+  "catholic": "The Church honors St Luke as the author of the third Gospel and the Acts of the Apostles; his feast is October 18 and his symbol is the ox. His Gospel gives the Church the infancy narratives and the canticles prayed daily in the Liturgy of the Hours (the Benedictus, Magnificat and Nunc Dimittis), and Acts recounts the birth of the Church at Pentecost. Tradition holds that he painted icons of the Virgin Mary; he is patron of physicians and artists.",
+  "know": [
+   "Called 'the beloved physician' (Col 4:14).",
+   "Faithful to Paul in his final imprisonment (2 Tim 4:11).",
+   "Traditionally the author of Luke and Acts, both addressed to Theophilus.",
+   "Feast October 18."
+  ],
+  "feast": "October 18",
+  "keyPassages": [
+   "col 4:14",
+   "2ti 4:11",
+   "phm 1:24",
+   "act 16:10-17",
+   "act 27:1-2"
+  ],
+  "father": null,
+  "mother": null,
+  "spouses": [],
+  "children": [],
+  "relations": [
+   {
+    "to": "paul",
+    "type": "companion of",
+    "ref": "2ti 4:11"
+   },
+   {
+    "to": "mark",
+    "type": "fellow worker with",
+    "ref": "phm 1:24"
+   }
+  ],
+  "search": {
+   "names": [
+    "Luke"
+   ],
+   "books": [
+    "col",
+    "2ti",
+    "phm"
+   ]
+  }
+ },
+ {
+  "id": "aretas",
+  "name": "Aretas",
+  "aliases": [],
+  "gender": "m",
+  "role": "King of the Nabataeans",
+  "era": "Apostolic Church",
+  "summary": "King Aretas (Aretas IV of Nabataea) is mentioned by Paul: the governor under him in Damascus guarded the city to arrest Paul, who escaped by being let down through a window in a basket.",
+  "catholic": "",
+  "know": [
+   "Paul's escape from Damascus in a basket (2 Cor 11:32-33; cf. Acts 9:23-25)."
+  ],
+  "keyPassages": [
+   "2co 11:32-33",
+   "act 9:23-25"
+  ],
+  "father": null,
+  "mother": null,
+  "spouses": [],
+  "children": [],
+  "relations": [
+   {
+    "to": "paul",
+    "type": "his governor sought to arrest",
+    "ref": "2co 11:32"
+   }
+  ],
+  "search": {
+   "names": [
+    "Aretas"
+   ],
+   "books": [
+    "2co"
+   ]
+  }
+ },
+ {
+  "id": "onesimus",
+  "name": "Onesimus",
+  "aliases": [],
+  "gender": "m",
+  "role": "Slave become brother",
+  "era": "Apostolic Church",
+  "summary": "Onesimus was a slave of Philemon at Colossae who left his master and came to Paul in prison, where Paul became his father in the faith. Paul sent him back with the Letter to Philemon, asking Philemon to receive him 'no longer as a slave, but more than a slave, a beloved brother', and offering to repay anything he owed. Colossians calls him 'the faithful and beloved brother, who is one of you'.",
+  "catholic": "The Letter to Philemon shows how communion in Christ transforms social relations; the Catechism cites Paul's request that the Christian master treat his Christian slave 'no longer as a slave but... as a brother' in teaching that enslaving human beings is a sin against their dignity (CCC 2414). His name means 'useful', and Paul plays on it (Philem 11). An Onesimus was bishop of Ephesus in the time of St Ignatius of Antioch, and some identify him with this Onesimus; this is possible but not certain.",
+  "know": [
+   "A slave of Philemon; his name means 'useful' (Philem 10-11).",
+   "Converted by Paul during Paul's imprisonment.",
+   "Sent back to Philemon as a 'beloved brother' (Philem 16).",
+   "Travelled with Tychicus to Colossae (Col 4:9)."
+  ],
+  "keyPassages": [
+   "phm 1:8-21",
+   "col 4:9"
+  ],
+  "father": null,
+  "mother": null,
+  "spouses": [],
+  "children": [],
+  "relations": [
+   {
+    "to": "paul",
+    "type": "spiritual son of",
+    "ref": "phm 1:10"
+   },
+   {
+    "to": "philemon",
+    "type": "slave of",
+    "ref": "phm 1:15-16"
+   },
+   {
+    "to": "tychicus",
+    "type": "sent with",
+    "ref": "col 4:9"
+   }
+  ],
+  "search": {
+   "names": [
+    "Onesimus"
+   ],
+   "books": [
+    "col",
+    "phm"
+   ]
+  }
+ },
+ {
+  "id": "philemon",
+  "name": "Philemon",
+  "aliases": [],
+  "gender": "m",
+  "role": "Church host at Colossae",
+  "era": "Apostolic Church",
+  "summary": "Philemon was a beloved fellow worker of Paul, in whose house a church met, and the master of the slave Onesimus. Paul's shortest letter asks him to welcome Onesimus back as a brother in Christ.",
+  "catholic": "Philemon is a model of the house church and of the charity that must reshape relationships between Christians; Paul appeals 'for love's sake' rather than commanding (Philem 8-9). See CCC 2414 on Onesimus.",
+  "know": [
+   "Addressee of the Letter to Philemon.",
+   "A church met in his house (Philem 2).",
+   "Paul says Philemon owes him 'even your own self' (Philem 19), implying Paul converted him.",
+   "Apphia and Archippus are greeted with him; they are often thought to be his wife and son, but the letter does not say so."
+  ],
+  "keyPassages": [
+   "phm 1:1-7",
+   "phm 1:8-22"
+  ],
+  "father": null,
+  "mother": null,
+  "spouses": [],
+  "children": [],
+  "relations": [
+   {
+    "to": "paul",
+    "type": "fellow worker of",
+    "ref": "phm 1:1"
+   },
+   {
+    "to": "onesimus",
+    "type": "master of",
+    "ref": "phm 1:16"
+   },
+   {
+    "to": "apphia",
+    "type": "greeted with",
+    "ref": "phm 1:2"
+   },
+   {
+    "to": "archippus",
+    "type": "greeted with",
+    "ref": "phm 1:2"
+   }
+  ],
+  "search": {
+   "names": [
+    "Philemon"
+   ],
+   "books": [
+    "phm"
+   ]
+  }
+ },
+ {
+  "id": "apphia",
+  "name": "Apphia",
+  "aliases": [],
+  "gender": "f",
+  "role": "Christian of Colossae",
+  "era": "Apostolic Church",
+  "summary": "Apphia, 'the beloved' (or 'our sister'), is greeted with Philemon and Archippus at the head of the Letter to Philemon.",
+  "catholic": "",
+  "know": [
+   "Greeted in Philemon 2.",
+   "Often thought to be Philemon's wife; the text does not say."
+  ],
+  "keyPassages": [
+   "phm 1:2"
+  ],
+  "father": null,
+  "mother": null,
+  "spouses": [],
+  "children": [],
+  "relations": [
+   {
+    "to": "philemon",
+    "type": "greeted with",
+    "ref": "phm 1:2"
+   }
+  ],
+  "search": {
+   "names": [
+    "Apphia"
+   ],
+   "books": [
+    "phm"
+   ]
+  }
+ },
+ {
+  "id": "archippus",
+  "name": "Archippus",
+  "aliases": [],
+  "gender": "m",
+  "role": "Minister at Colossae",
+  "era": "Apostolic Church",
+  "summary": "Archippus, Paul's 'fellow soldier', is greeted in Philemon and told in Colossians to fulfil the ministry he has received in the Lord.",
+  "catholic": "",
+  "know": [
+   "Called 'our fellow soldier' (Philem 2).",
+   "Charged to fulfil his ministry (Col 4:17)."
+  ],
+  "keyPassages": [
+   "phm 1:2",
+   "col 4:17"
+  ],
+  "father": null,
+  "mother": null,
+  "spouses": [],
+  "children": [],
+  "relations": [
+   {
+    "to": "philemon",
+    "type": "greeted with",
+    "ref": "phm 1:2"
+   },
+   {
+    "to": "paul",
+    "type": "fellow soldier of",
+    "ref": "phm 1:2"
+   }
+  ],
+  "search": {
+   "names": [
+    "Archippus"
+   ],
+   "books": [
+    "col",
+    "phm"
+   ]
+  }
+ },
+ {
+  "id": "epaphras",
+  "name": "Epaphras",
+  "aliases": [],
+  "gender": "m",
+  "role": "Founder of the church at Colossae",
+  "era": "Apostolic Church",
+  "summary": "Epaphras, a Colossian, taught the Colossians the gospel and laboured for the churches of Laodicea and Hierapolis. He was with Paul as a 'fellow prisoner', always wrestling in prayer for his people.",
+  "catholic": "He is a model of the pastor who intercedes constantly for his flock (Col 4:12-13).",
+  "know": [
+   "The Colossians learned the gospel from him (Col 1:7).",
+   "Paul's fellow prisoner (Philem 23).",
+   "Prayed earnestly for Colossae, Laodicea and Hierapolis (Col 4:12-13)."
+  ],
+  "keyPassages": [
+   "col 1:7-8",
+   "col 4:12-13",
+   "phm 1:23"
+  ],
+  "father": null,
+  "mother": null,
+  "spouses": [],
+  "children": [],
+  "relations": [
+   {
+    "to": "paul",
+    "type": "fellow prisoner of",
+    "ref": "phm 1:23"
+   }
+  ],
+  "search": {
+   "names": [
+    "Epaphras"
+   ],
+   "books": [
+    "col",
+    "phm"
+   ]
+  }
+ },
+ {
+  "id": "demas",
+  "name": "Demas",
+  "aliases": [],
+  "gender": "m",
+  "role": "Former co-worker of Paul",
+  "era": "Apostolic Church",
+  "summary": "Demas is listed as Paul's fellow worker in Colossians and Philemon, but in 2 Timothy Paul laments that 'Demas left me, having loved this present world'.",
+  "catholic": "Demas is a sobering example of perseverance lost: the love of 'this present world' drawing a disciple away from the mission.",
+  "know": [
+   "A fellow worker of Paul (Philem 24).",
+   "Deserted Paul for Thessalonica (2 Tim 4:10)."
+  ],
+  "keyPassages": [
+   "col 4:14",
+   "phm 1:24",
+   "2ti 4:10"
+  ],
+  "father": null,
+  "mother": null,
+  "spouses": [],
+  "children": [],
+  "relations": [
+   {
+    "to": "paul",
+    "type": "deserted",
+    "ref": "2ti 4:10"
+   },
+   {
+    "to": "luke",
+    "type": "named with",
+    "ref": "col 4:14"
+   }
+  ],
+  "search": {
+   "names": [
+    "Demas"
+   ],
+   "books": [
+    "col",
+    "2ti",
+    "phm"
+   ]
+  }
+ },
+ {
+  "id": "jesus-justus",
+  "name": "Jesus called Justus",
+  "aliases": [],
+  "gender": "m",
+  "role": "Co-worker of Paul",
+  "era": "Apostolic Church",
+  "summary": "Jesus, called Justus, was one of the few Jewish-born fellow workers of Paul who were a comfort to him during his imprisonment.",
+  "catholic": "",
+  "know": [
+   "One of Paul's fellow workers 'of the circumcision' (Col 4:11)."
+  ],
+  "keyPassages": [
+   "col 4:10-11"
+  ],
+  "father": null,
+  "mother": null,
+  "spouses": [],
+  "children": [],
+  "relations": [
+   {
+    "to": "paul",
+    "type": "fellow worker of",
+    "ref": "col 4:11"
+   }
+  ],
+  "search": {
+   "names": [
+    "Justus"
+   ],
+   "books": [
+    "col"
+   ]
+  }
+ },
+ {
+  "id": "nymphas",
+  "name": "Nymphas",
+  "aliases": [],
+  "gender": "m",
+  "role": "Church host at Laodicea",
+  "era": "Apostolic Church",
+  "summary": "Nymphas hosted a church in his house in the region of Laodicea; Paul sends greetings to him.",
+  "catholic": "",
+  "know": [
+   "A church met in his house (Col 4:15).",
+   "Some manuscripts read 'Nympha' and 'her house', a woman."
+  ],
+  "keyPassages": [
+   "col 4:15"
+  ],
+  "father": null,
+  "mother": null,
+  "spouses": [],
+  "children": [],
+  "relations": [
+   {
+    "to": "paul",
+    "type": "greeted by",
+    "ref": "col 4:15"
+   }
+  ],
+  "search": {
+   "names": [
+    "Nymphas"
+   ],
+   "books": [
+    "col"
+   ]
+  }
+ },
+ {
+  "id": "epaphroditus",
+  "name": "Epaphroditus",
+  "aliases": [],
+  "gender": "m",
+  "role": "Envoy of the Philippians",
+  "era": "Apostolic Church",
+  "summary": "Epaphroditus was sent by the Philippian church to bring their gift to the imprisoned Paul and to serve him. He fell sick nearly to death 'for the work of Christ', recovered, and was sent home with the Letter to the Philippians.",
+  "catholic": "Paul calls him 'your apostle' (Greek apostolos, 'envoy') and asks that such people be held in honor (Phil 2:29).",
+  "know": [
+   "'My brother, fellow worker, fellow soldier' (Phil 2:25).",
+   "Nearly died serving Paul (Phil 2:27-30).",
+   "Brought the Philippians' gift (Phil 4:18)."
+  ],
+  "keyPassages": [
+   "php 2:25-30",
+   "php 4:18"
+  ],
+  "father": null,
+  "mother": null,
+  "spouses": [],
+  "children": [],
+  "relations": [
+   {
+    "to": "paul",
+    "type": "served",
+    "ref": "php 2:25"
+   }
+  ],
+  "search": {
+   "names": [
+    "Epaphroditus"
+   ],
+   "books": [
+    "php"
+   ]
+  }
+ },
+ {
+  "id": "euodia",
+  "name": "Euodia",
+  "aliases": [],
+  "gender": "f",
+  "role": "Co-worker of Paul at Philippi",
+  "era": "Apostolic Church",
+  "summary": "Euodia was one of two women at Philippi who had laboured with Paul in the gospel; Paul urges her and Syntyche to 'think the same way in the Lord' and asks a 'true partner' to help them reconcile.",
+  "catholic": "Paul's appeal is a model of fraternal reconciliation within the Church; he honors both women as co-workers whose names are in the book of life.",
+  "know": [
+   "Laboured with Paul in the gospel (Phil 4:3).",
+   "Urged to agree with her fellow worker (Phil 4:2)."
+  ],
+  "keyPassages": [
+   "php 4:2-3"
+  ],
+  "father": null,
+  "mother": null,
+  "spouses": [],
+  "children": [],
+  "relations": [
+   {
+    "to": "syntyche",
+    "type": "urged to be reconciled with",
+    "ref": "php 4:2"
+   },
+   {
+    "to": "paul",
+    "type": "co-worker of",
+    "ref": "php 4:3"
+   }
+  ],
+  "search": {
+   "names": [
+    "Euodia"
+   ],
+   "books": [
+    "php"
+   ]
+  }
+ },
+ {
+  "id": "syntyche",
+  "name": "Syntyche",
+  "aliases": [],
+  "gender": "f",
+  "role": "Co-worker of Paul at Philippi",
+  "era": "Apostolic Church",
+  "summary": "Syntyche was one of two women at Philippi who had laboured with Paul in the gospel; Paul urges her and Euodia to 'think the same way in the Lord' and asks a 'true partner' to help them reconcile.",
+  "catholic": "Paul's appeal is a model of fraternal reconciliation within the Church; he honors both women as co-workers whose names are in the book of life.",
+  "know": [
+   "Laboured with Paul in the gospel (Phil 4:3).",
+   "Urged to agree with her fellow worker (Phil 4:2)."
+  ],
+  "keyPassages": [
+   "php 4:2-3"
+  ],
+  "father": null,
+  "mother": null,
+  "spouses": [],
+  "children": [],
+  "relations": [
+   {
+    "to": "euodia",
+    "type": "urged to be reconciled with",
+    "ref": "php 4:2"
+   },
+   {
+    "to": "paul",
+    "type": "co-worker of",
+    "ref": "php 4:3"
+   }
+  ],
+  "search": {
+   "names": [
+    "Syntyche"
+   ],
+   "books": [
+    "php"
+   ]
+  }
+ },
+ {
+  "id": "clement-of-philippi",
+  "name": "Clement",
+  "aliases": [],
+  "gender": "m",
+  "role": "Co-worker of Paul",
+  "era": "Apostolic Church",
+  "summary": "Clement is named by Paul among his fellow workers at Philippi, 'whose names are in the book of life'.",
+  "catholic": "Some early writers (e.g. Origen and Eusebius) identified him with St Clement of Rome, the third successor of Peter and author of the Letter to the Corinthians; this identification is uncertain.",
+  "know": [
+   "Named as Paul's fellow worker (Phil 4:3)."
+  ],
+  "keyPassages": [
+   "php 4:3"
+  ],
+  "father": null,
+  "mother": null,
+  "spouses": [],
+  "children": [],
+  "relations": [
+   {
+    "to": "paul",
+    "type": "co-worker of",
+    "ref": "php 4:3"
+   }
+  ],
+  "search": {
+   "names": [
+    "Clement"
+   ],
+   "books": [
+    "php"
+   ]
+  }
+ },
+ {
+  "id": "onesiphorus",
+  "name": "Onesiphorus",
+  "aliases": [],
+  "gender": "m",
+  "role": "Friend of Paul",
+  "era": "Apostolic Church",
+  "summary": "Onesiphorus often refreshed Paul and was not ashamed of his chains; when he came to Rome he searched diligently until he found the imprisoned apostle, and he had served much at Ephesus. Paul prays mercy on his household and on him.",
+  "catholic": "Paul prays that the Lord grant Onesiphorus mercy 'in that day' (2 Tim 1:18) while greeting only his household (2 Tim 4:19); many Catholic interpreters infer that he had died, making this a New Testament example of prayer for the dead (cf. CCC 1032). The text does not state that he had died.",
+  "know": [
+   "Sought out and found Paul in prison at Rome (2 Tim 1:17).",
+   "Paul prays mercy for him 'in that day' (2 Tim 1:18).",
+   "Paul greets 'the house of Onesiphorus' (2 Tim 4:19)."
+  ],
+  "keyPassages": [
+   "2ti 1:16-18",
+   "2ti 4:19"
+  ],
+  "father": null,
+  "mother": null,
+  "spouses": [],
+  "children": [],
+  "relations": [
+   {
+    "to": "paul",
+    "type": "refreshed",
+    "ref": "2ti 1:16"
+   }
+  ],
+  "search": {
+   "names": [
+    "Onesiphorus"
+   ],
+   "books": [
+    "2ti"
+   ]
+  }
+ },
+ {
+  "id": "hymenaeus",
+  "name": "Hymenaeus",
+  "aliases": [],
+  "gender": "m",
+  "role": "False teacher",
+  "era": "Apostolic Church",
+  "summary": "Hymenaeus made shipwreck of the faith; Paul 'delivered him to Satan' with Alexander so that they might learn not to blaspheme. With Philetus he taught that the resurrection had already taken place, upsetting the faith of some.",
+  "catholic": "His case illustrates the Church's discipline: exclusion from communion meant to be medicinal ('that they might be taught'), and the duty of pastors to guard sound doctrine, including the bodily resurrection to come.",
+  "know": [
+   "Handed over to Satan by Paul (1 Tim 1:20).",
+   "Taught that the resurrection was already past (2 Tim 2:17-18)."
+  ],
+  "keyPassages": [
+   "1ti 1:18-20",
+   "2ti 2:16-18"
+  ],
+  "father": null,
+  "mother": null,
+  "spouses": [],
+  "children": [],
+  "relations": [
+   {
+    "to": "paul",
+    "type": "excommunicated by",
+    "ref": "1ti 1:20"
+   },
+   {
+    "to": "philetus",
+    "type": "taught error with",
+    "ref": "2ti 2:17"
+   },
+   {
+    "to": "alexander-blasphemer",
+    "type": "disciplined with",
+    "ref": "1ti 1:20"
+   }
+  ],
+  "search": {
+   "names": [
+    "Hymenaeus"
+   ],
+   "books": [
+    "1ti",
+    "2ti"
+   ]
+  }
+ },
+ {
+  "id": "philetus",
+  "name": "Philetus",
+  "aliases": [],
+  "gender": "m",
+  "role": "False teacher",
+  "era": "Apostolic Church",
+  "summary": "Philetus, with Hymenaeus, taught that the resurrection was already past, overthrowing the faith of some.",
+  "catholic": "",
+  "know": [
+   "Named with Hymenaeus in 2 Tim 2:17."
+  ],
+  "keyPassages": [
+   "2ti 2:16-18"
+  ],
+  "father": null,
+  "mother": null,
+  "spouses": [],
+  "children": [],
+  "relations": [
+   {
+    "to": "hymenaeus",
+    "type": "taught error with",
+    "ref": "2ti 2:17"
+   }
+  ],
+  "search": {
+   "names": [
+    "Philetus"
+   ],
+   "books": [
+    "2ti"
+   ]
+  }
+ },
+ {
+  "id": "alexander-blasphemer",
+  "name": "Alexander (with Hymenaeus)",
+  "aliases": [],
+  "gender": "m",
+  "role": "Disciplined teacher",
+  "era": "Apostolic Church",
+  "summary": "Alexander was handed over to Satan by Paul together with Hymenaeus, 'that they might be taught not to blaspheme', after they had made shipwreck of the faith.",
+  "catholic": "",
+  "know": [
+   "Disciplined with Hymenaeus (1 Tim 1:20).",
+   "May be the same as Alexander the coppersmith (2 Tim 4:14); this is uncertain."
+  ],
+  "keyPassages": [
+   "1ti 1:19-20"
+  ],
+  "father": null,
+  "mother": null,
+  "spouses": [],
+  "children": [],
+  "relations": [
+   {
+    "to": "paul",
+    "type": "excommunicated by",
+    "ref": "1ti 1:20"
+   }
+  ],
+  "search": {
+   "names": [
+    "Alexander"
+   ],
+   "books": [
+    "1ti"
+   ]
+  }
+ },
+ {
+  "id": "alexander-coppersmith",
+  "name": "Alexander the coppersmith",
+  "aliases": [],
+  "gender": "m",
+  "role": "Opponent of Paul",
+  "era": "Apostolic Church",
+  "summary": "Alexander the coppersmith did Paul 'much evil' and strongly opposed his message; Paul warns Timothy to beware of him and leaves judgment to the Lord.",
+  "catholic": "",
+  "know": [
+   "'The Lord will repay him according to his deeds' (2 Tim 4:14).",
+   "Possibly the Alexander of 1 Tim 1:20; uncertain."
+  ],
+  "keyPassages": [
+   "2ti 4:14-15"
+  ],
+  "father": null,
+  "mother": null,
+  "spouses": [],
+  "children": [],
+  "relations": [
+   {
+    "to": "paul",
+    "type": "opposed",
+    "ref": "2ti 4:14"
+   }
+  ],
+  "search": {
+   "names": [
+    "Alexander"
+   ],
+   "books": [
+    "2ti"
+   ]
+  }
+ },
+ {
+  "id": "phygelus",
+  "name": "Phygelus",
+  "aliases": [],
+  "gender": "m",
+  "role": "Deserter of Paul",
+  "era": "Apostolic Church",
+  "summary": "Phygelus is named among all those in Asia who turned away from Paul during his final imprisonment.",
+  "catholic": "",
+  "know": [
+   "Named in 2 Tim 1:15 as one who turned away from Paul."
+  ],
+  "keyPassages": [
+   "2ti 1:15"
+  ],
+  "father": null,
+  "mother": null,
+  "spouses": [],
+  "children": [],
+  "relations": [
+   {
+    "to": "paul",
+    "type": "turned away from",
+    "ref": "2ti 1:15"
+   }
+  ],
+  "search": {
+   "names": [
+    "Phygelus"
+   ],
+   "books": [
+    "2ti"
+   ]
+  }
+ },
+ {
+  "id": "hermogenes",
+  "name": "Hermogenes",
+  "aliases": [],
+  "gender": "m",
+  "role": "Deserter of Paul",
+  "era": "Apostolic Church",
+  "summary": "Hermogenes is named among all those in Asia who turned away from Paul during his final imprisonment.",
+  "catholic": "",
+  "know": [
+   "Named in 2 Tim 1:15 as one who turned away from Paul."
+  ],
+  "keyPassages": [
+   "2ti 1:15"
+  ],
+  "father": null,
+  "mother": null,
+  "spouses": [],
+  "children": [],
+  "relations": [
+   {
+    "to": "paul",
+    "type": "turned away from",
+    "ref": "2ti 1:15"
+   }
+  ],
+  "search": {
+   "names": [
+    "Hermogenes"
+   ],
+   "books": [
+    "2ti"
+   ]
+  }
+ },
+ {
+  "id": "crescens",
+  "name": "Crescens",
+  "aliases": [],
+  "gender": "m",
+  "role": "Co-worker of Paul",
+  "era": "Apostolic Church",
+  "summary": "Crescens had left Paul in his final imprisonment to go to Galatia, presumably on mission.",
+  "catholic": "",
+  "know": [
+   "Went to Galatia (2 Tim 4:10)."
+  ],
+  "keyPassages": [
+   "2ti 4:10"
+  ],
+  "father": null,
+  "mother": null,
+  "spouses": [],
+  "children": [],
+  "relations": [
+   {
+    "to": "paul",
+    "type": "sent from",
+    "ref": "2ti 4:10"
+   }
+  ],
+  "search": {
+   "names": [
+    "Crescens"
+   ],
+   "books": [
+    "2ti"
+   ]
+  }
+ },
+ {
+  "id": "carpus",
+  "name": "Carpus",
+  "aliases": [],
+  "gender": "m",
+  "role": "Christian of Troas",
+  "era": "Apostolic Church",
+  "summary": "Carpus kept the cloak Paul had left at Troas; Paul asks Timothy to bring it, together with the books and parchments.",
+  "catholic": "",
+  "know": [
+   "Paul's cloak was left with him at Troas (2 Tim 4:13)."
+  ],
+  "keyPassages": [
+   "2ti 4:13"
+  ],
+  "father": null,
+  "mother": null,
+  "spouses": [],
+  "children": [],
+  "relations": [
+   {
+    "to": "paul",
+    "type": "kept the cloak of",
+    "ref": "2ti 4:13"
+   }
+  ],
+  "search": {
+   "names": [
+    "Carpus"
+   ],
+   "books": [
+    "2ti"
+   ]
+  }
+ },
+ {
+  "id": "eubulus",
+  "name": "Eubulus",
+  "aliases": [],
+  "gender": "m",
+  "role": "Christian at Rome",
+  "era": "Apostolic Church",
+  "summary": "Eubulus is one of the Roman Christians who send greetings to Timothy at the close of Paul's last letter.",
+  "catholic": "",
+  "know": [
+   "Sends greetings in 2 Tim 4:21."
+  ],
+  "keyPassages": [
+   "2ti 4:21"
+  ],
+  "father": null,
+  "mother": null,
+  "spouses": [],
+  "children": [],
+  "relations": [
+   {
+    "to": "paul",
+    "type": "with during his final imprisonment",
+    "ref": "2ti 4:21"
+   },
+   {
+    "to": "linus",
+    "type": "named with",
+    "ref": "2ti 4:21"
+   }
+  ],
+  "search": {
+   "names": [
+    "Eubulus"
+   ],
+   "books": [
+    "2ti"
+   ]
+  }
+ },
+ {
+  "id": "pudens",
+  "name": "Pudens",
+  "aliases": [],
+  "gender": "m",
+  "role": "Christian at Rome",
+  "era": "Apostolic Church",
+  "summary": "Pudens is one of the Roman Christians who send greetings to Timothy at the close of Paul's last letter.",
+  "catholic": "",
+  "know": [
+   "Sends greetings in 2 Tim 4:21."
+  ],
+  "keyPassages": [
+   "2ti 4:21"
+  ],
+  "father": null,
+  "mother": null,
+  "spouses": [],
+  "children": [],
+  "relations": [
+   {
+    "to": "paul",
+    "type": "with during his final imprisonment",
+    "ref": "2ti 4:21"
+   },
+   {
+    "to": "linus",
+    "type": "named with",
+    "ref": "2ti 4:21"
+   }
+  ],
+  "search": {
+   "names": [
+    "Pudens"
+   ],
+   "books": [
+    "2ti"
+   ]
+  }
+ },
+ {
+  "id": "claudia",
+  "name": "Claudia",
+  "aliases": [],
+  "gender": "f",
+  "role": "Christian at Rome",
+  "era": "Apostolic Church",
+  "summary": "Claudia is one of the Roman Christians who send greetings to Timothy at the close of Paul's last letter.",
+  "catholic": "",
+  "know": [
+   "Sends greetings in 2 Tim 4:21."
+  ],
+  "keyPassages": [
+   "2ti 4:21"
+  ],
+  "father": null,
+  "mother": null,
+  "spouses": [],
+  "children": [],
+  "relations": [
+   {
+    "to": "paul",
+    "type": "with during his final imprisonment",
+    "ref": "2ti 4:21"
+   },
+   {
+    "to": "linus",
+    "type": "named with",
+    "ref": "2ti 4:21"
+   }
+  ],
+  "search": {
+   "names": [
+    "Claudia"
+   ],
+   "books": [
+    "2ti"
+   ]
+  }
+ },
+ {
+  "id": "linus",
+  "name": "Linus",
+  "aliases": [],
+  "gender": "m",
+  "role": "Bishop of Rome",
+  "era": "Apostolic Church",
+  "summary": "Linus is one of the Roman Christians who send greetings to Timothy in Paul's final letter.",
+  "catholic": "St Irenaeus (Against Heresies 3.3.3) records that the apostles Peter and Paul entrusted the office of bishop of Rome to Linus, 'of whom Paul makes mention in the Epistles to Timothy'. He is therefore honored as St Linus, the first successor of St Peter as Pope; he is named in the Roman Canon ('Linus, Cletus, Clement') and commemorated on September 23. His place at the head of the list of Roman bishops is a classic witness to apostolic succession.",
+  "know": [
+   "Greets Timothy in 2 Tim 4:21.",
+   "Identified by St Irenaeus as Peter's first successor as bishop of Rome.",
+   "Named in the Roman Canon (Eucharistic Prayer I)."
+  ],
+  "feast": "September 23",
+  "keyPassages": [
+   "2ti 4:21"
+  ],
+  "father": null,
+  "mother": null,
+  "spouses": [],
+  "children": [],
+  "relations": [
+   {
+    "to": "paul",
+    "type": "with during his final imprisonment",
+    "ref": "2ti 4:21"
+   },
+   {
+    "to": "peter",
+    "type": "successor of (per St Irenaeus)",
+    "ref": "2ti 4:21"
+   }
+  ],
+  "search": {
+   "names": [
+    "Linus"
+   ],
+   "books": [
+    "2ti"
+   ]
+  }
+ },
+ {
+  "id": "zenas",
+  "name": "Zenas",
+  "aliases": [],
+  "gender": "m",
+  "role": "Lawyer",
+  "era": "Apostolic Church",
+  "summary": "Zenas 'the lawyer' was travelling with Apollos; Paul asks Titus to speed them on their journey with everything they need.",
+  "catholic": "",
+  "know": [
+   "The only Christian in the New Testament called a lawyer (Titus 3:13)."
+  ],
+  "keyPassages": [
+   "tit 3:13"
+  ],
+  "father": null,
+  "mother": null,
+  "spouses": [],
+  "children": [],
+  "relations": [
+   {
+    "to": "apollos",
+    "type": "travelled with",
+    "ref": "tit 3:13"
+   }
+  ],
+  "search": {
+   "names": [
+    "Zenas"
+   ],
+   "books": [
+    "tit"
+   ]
+  }
+ },
+ {
+  "id": "artemas",
+  "name": "Artemas",
+  "aliases": [],
+  "gender": "m",
+  "role": "Co-worker of Paul",
+  "era": "Apostolic Church",
+  "summary": "Artemas was a co-worker whom Paul intended to send to Crete (or Tychicus instead) so that Titus could join him at Nicopolis.",
+  "catholic": "",
+  "know": [
+   "Might relieve Titus in Crete (Titus 3:12)."
+  ],
+  "keyPassages": [
+   "tit 3:12"
+  ],
+  "father": null,
+  "mother": null,
+  "spouses": [],
+  "children": [],
+  "relations": [
+   {
+    "to": "titus",
+    "type": "to be sent to",
+    "ref": "tit 3:12"
+   }
+  ],
+  "search": {
+   "names": [
+    "Artemas"
+   ],
+   "books": [
+    "tit"
+   ]
+  }
+ },
+ {
+  "id": "jannes",
+  "name": "Jannes",
+  "aliases": [],
+  "gender": "m",
+  "role": "Egyptian magician",
+  "era": "Exodus & Wilderness",
+  "summary": "Jannes is named by Paul, with Jambres, as one who opposed Moses; Jewish tradition gave these names to Pharaoh's magicians who imitated Moses' signs (Exodus 7:11-12).",
+  "catholic": "",
+  "know": [
+   "Named only in 2 Tim 3:8; the names come from Jewish tradition.",
+   "Identified with Pharaoh's magicians of Exodus 7."
+  ],
+  "keyPassages": [
+   "2ti 3:8",
+   "exo 7:10-12"
+  ],
+  "father": null,
+  "mother": null,
+  "spouses": [],
+  "children": [],
+  "relations": [
+   {
+    "to": "moses",
+    "type": "opposed",
+    "ref": "2ti 3:8"
+   }
+  ],
+  "search": {
+   "names": [
+    "Jannes"
+   ],
+   "books": [
+    "2ti"
+   ]
+  }
+ },
+ {
+  "id": "jambres",
+  "name": "Jambres",
+  "aliases": [],
+  "gender": "m",
+  "role": "Egyptian magician",
+  "era": "Exodus & Wilderness",
+  "summary": "Jambres is named by Paul, with Jannes, as one who opposed Moses; Jewish tradition gave these names to Pharaoh's magicians who imitated Moses' signs (Exodus 7:11-12).",
+  "catholic": "",
+  "know": [
+   "Named only in 2 Tim 3:8; the names come from Jewish tradition.",
+   "Identified with Pharaoh's magicians of Exodus 7."
+  ],
+  "keyPassages": [
+   "2ti 3:8",
+   "exo 7:10-12"
+  ],
+  "father": null,
+  "mother": null,
+  "spouses": [],
+  "children": [],
+  "relations": [
+   {
+    "to": "moses",
+    "type": "opposed",
+    "ref": "2ti 3:8"
+   }
+  ],
+  "search": {
+   "names": [
+    "Jambres"
+   ],
+   "books": [
+    "2ti"
+   ]
+  }
+ },
+ {
+  "id": "chloe",
+  "name": "Chloe",
+  "aliases": [],
+  "gender": "f",
+  "role": "Christian of Corinth",
+  "era": "Apostolic Church",
+  "summary": "Members of Chloe's household reported to Paul the quarrels and factions among the Corinthians.",
+  "catholic": "",
+  "know": [
+   "Her people informed Paul of divisions at Corinth (1 Cor 1:11)."
+  ],
+  "keyPassages": [
+   "1co 1:10-12"
+  ],
+  "father": null,
+  "mother": null,
+  "spouses": [],
+  "children": [],
+  "relations": [
+   {
+    "to": "paul",
+    "type": "informed",
+    "ref": "1co 1:11"
+   }
+  ],
+  "search": {
+   "names": [
+    "Chloe"
+   ],
+   "books": [
+    "1co"
+   ]
+  }
+ },
+ {
+  "id": "stephanas",
+  "name": "Stephanas",
+  "aliases": [],
+  "gender": "m",
+  "role": "Leader at Corinth",
+  "era": "Apostolic Church",
+  "summary": "Stephanas and his household were the first converts of Achaia and devoted themselves to serving the saints; Paul baptized them himself. He came to Paul with Fortunatus and Achaicus, and Paul asks the Corinthians to be subject to such workers.",
+  "catholic": "The baptism of his household (1 Cor 1:16) is among the household baptisms cited in the Church's tradition of baptizing whole families.",
+  "know": [
+   "His household was 'the first fruits of Achaia' (1 Cor 16:15).",
+   "Baptized by Paul with his household (1 Cor 1:16).",
+   "Visited Paul at Ephesus (1 Cor 16:17)."
+  ],
+  "keyPassages": [
+   "1co 1:16",
+   "1co 16:15-18"
+  ],
+  "father": null,
+  "mother": null,
+  "spouses": [],
+  "children": [],
+  "relations": [
+   {
+    "to": "paul",
+    "type": "baptized by",
+    "ref": "1co 1:16"
+   },
+   {
+    "to": "fortunatus",
+    "type": "came with",
+    "ref": "1co 16:17"
+   }
+  ],
+  "search": {
+   "names": [
+    "Stephanas"
+   ],
+   "books": [
+    "1co"
+   ]
+  }
+ },
+ {
+  "id": "fortunatus",
+  "name": "Fortunatus",
+  "aliases": [],
+  "gender": "m",
+  "role": "Christian of Corinth",
+  "era": "Apostolic Church",
+  "summary": "Fortunatus came to Paul from Corinth with Stephanas and Achaicus, refreshing Paul's spirit and supplying what the Corinthians lacked.",
+  "catholic": "",
+  "know": [
+   "Visited Paul with Stephanas (1 Cor 16:17)."
+  ],
+  "keyPassages": [
+   "1co 16:17-18"
+  ],
+  "father": null,
+  "mother": null,
+  "spouses": [],
+  "children": [],
+  "relations": [
+   {
+    "to": "stephanas",
+    "type": "came with",
+    "ref": "1co 16:17"
+   },
+   {
+    "to": "paul",
+    "type": "visited",
+    "ref": "1co 16:17"
+   }
+  ],
+  "search": {
+   "names": [
+    "Fortunatus"
+   ],
+   "books": [
+    "1co"
+   ]
+  }
+ },
+ {
+  "id": "achaicus",
+  "name": "Achaicus",
+  "aliases": [],
+  "gender": "m",
+  "role": "Christian of Corinth",
+  "era": "Apostolic Church",
+  "summary": "Achaicus came to Paul from Corinth with Stephanas and Fortunatus, refreshing Paul's spirit and supplying what the Corinthians lacked.",
+  "catholic": "",
+  "know": [
+   "Visited Paul with Stephanas (1 Cor 16:17)."
+  ],
+  "keyPassages": [
+   "1co 16:17-18"
+  ],
+  "father": null,
+  "mother": null,
+  "spouses": [],
+  "children": [],
+  "relations": [
+   {
+    "to": "stephanas",
+    "type": "came with",
+    "ref": "1co 16:17"
+   },
+   {
+    "to": "paul",
+    "type": "visited",
+    "ref": "1co 16:17"
+   }
+  ],
+  "search": {
+   "names": [
+    "Achaicus"
+   ],
+   "books": [
+    "1co"
+   ]
+  }
+ },
+ {
+  "id": "gaius-of-corinth",
+  "name": "Gaius of Corinth",
+  "aliases": [],
+  "gender": "m",
+  "role": "Host of Paul",
+  "era": "Apostolic Church",
+  "summary": "Gaius was one of the few Corinthians Paul baptized himself, and, when Paul wrote Romans from Corinth, he was 'my host and host of the whole assembly'.",
+  "catholic": "",
+  "know": [
+   "Baptized by Paul (1 Cor 1:14).",
+   "Hosted Paul and the church (Rom 16:23)."
+  ],
+  "keyPassages": [
+   "1co 1:14",
+   "rom 16:23"
+  ],
+  "father": null,
+  "mother": null,
+  "spouses": [],
+  "children": [],
+  "relations": [
+   {
+    "to": "paul",
+    "type": "baptized by",
+    "ref": "1co 1:14"
+   }
+  ],
+  "search": {
+   "names": [
+    "Gaius"
+   ],
+   "books": [
+    "rom",
+    "1co"
+   ]
+  }
+ },
+ {
+  "id": "phoebe",
+  "name": "Phoebe",
+  "aliases": [],
+  "gender": "f",
+  "role": "Minister of the church at Cenchreae",
+  "era": "Apostolic Church",
+  "summary": "Phoebe, 'our sister', was a servant (Greek diakonos) of the church at Cenchreae, the port of Corinth. Paul commends her to the Romans, who are to welcome her and help her, for she had been a patron of many, including Paul; she is generally thought to have carried the Letter to the Romans.",
+  "catholic": "She is honored as a saint. Her title diakonos ('servant, minister') shows that women held recognized ministries of service in the apostolic Church; the precise nature of her role is discussed by scholars, and the Church distinguishes later deaconesses from the ordained diaconate.",
+  "know": [
+   "From Cenchreae near Corinth (Rom 16:1).",
+   "Called diakonos, 'servant' or 'minister', of the church.",
+   "A 'helper' (patron) of many and of Paul (Rom 16:2)."
+  ],
+  "keyPassages": [
+   "rom 16:1-2"
+  ],
+  "father": null,
+  "mother": null,
+  "spouses": [],
+  "children": [],
+  "relations": [
+   {
+    "to": "paul",
+    "type": "commended by",
+    "ref": "rom 16:1"
+   }
+  ],
+  "search": {
+   "names": [
+    "Phoebe"
+   ],
+   "books": [
+    "rom"
+   ]
+  }
+ },
+ {
+  "id": "andronicus",
+  "name": "Andronicus",
+  "aliases": [],
+  "gender": "m",
+  "role": "Apostle (missionary)",
+  "era": "Apostolic Church",
+  "summary": "Andronicus, with Junia, was a relative and fellow prisoner of Paul, 'notable among the apostles', who had come to Christ before Paul.",
+  "catholic": "With Junia he is honored as a saint; they are commonly regarded as a missionary couple. 'Apostles' here is generally understood in the wider sense of missionaries sent by the churches, distinct from the Twelve.",
+  "know": [
+   "Greeted with Junia in Rom 16:7.",
+   "A believer before Paul's conversion.",
+   "Shared imprisonment with Paul."
+  ],
+  "keyPassages": [
+   "rom 16:7"
+  ],
+  "father": null,
+  "mother": null,
+  "spouses": [],
+  "children": [],
+  "relations": [
+   {
+    "to": "junia",
+    "type": "named with",
+    "ref": "rom 16:7"
+   },
+   {
+    "to": "paul",
+    "type": "relative and fellow prisoner of",
+    "ref": "rom 16:7"
+   }
+  ],
+  "search": {
+   "names": [
+    "Andronicus"
+   ],
+   "books": [
+    "rom"
+   ]
+  }
+ },
+ {
+  "id": "junia",
+  "name": "Junia",
+  "aliases": [],
+  "gender": "f",
+  "role": "Apostle (missionary)",
+  "era": "Apostolic Church",
+  "summary": "Junia, with Andronicus, was a relative and fellow prisoner of Paul, 'notable among the apostles', and in Christ before Paul.",
+  "catholic": "St John Chrysostom praised her as a woman worthy to be called 'among the apostles'. With Andronicus, commonly thought to be her husband, she is honored as a saint; 'apostles' here is generally understood in the wider sense of missionaries.",
+  "know": [
+   "Greeted with Andronicus in Rom 16:7.",
+   "Called 'notable among the apostles'.",
+   "A believer before Paul."
+  ],
+  "keyPassages": [
+   "rom 16:7"
+  ],
+  "father": null,
+  "mother": null,
+  "spouses": [],
+  "children": [],
+  "relations": [
+   {
+    "to": "andronicus",
+    "type": "named with",
+    "ref": "rom 16:7"
+   },
+   {
+    "to": "paul",
+    "type": "relative and fellow prisoner of",
+    "ref": "rom 16:7"
+   }
+  ],
+  "search": {
+   "names": [
+    "Junia"
+   ],
+   "books": [
+    "rom"
+   ]
+  }
+ },
+ {
+  "id": "mary-of-rome",
+  "name": "Mary of Rome",
+  "aliases": [],
+  "gender": "f",
+  "role": "Christian at Rome",
+  "era": "Apostolic Church",
+  "summary": "Mary is greeted by Paul as one 'who labored much for us' in the church at Rome.",
+  "catholic": "",
+  "know": [
+   "Greeted in Rom 16:6 for her labor."
+  ],
+  "keyPassages": [
+   "rom 16:6"
+  ],
+  "father": null,
+  "mother": null,
+  "spouses": [],
+  "children": [],
+  "relations": [
+   {
+    "to": "paul",
+    "type": "greeted by",
+    "ref": "rom 16:6"
+   }
+  ],
+  "search": {
+   "names": [
+    "Mary"
+   ],
+   "books": [
+    "rom"
+   ]
+  }
+ },
+ {
+  "id": "epaenetus",
+  "name": "Epaenetus",
+  "aliases": [],
+  "gender": "m",
+  "role": "Christian named in Romans 16",
+  "era": "Apostolic Church",
+  "summary": "Epaenetus is named in the greetings of Paul's Letter to the Romans. Paul's 'beloved', 'the first fruits of Achaia to Christ'.",
+  "catholic": "",
+  "know": [
+   "Paul's 'beloved', 'the first fruits of Achaia to Christ'."
+  ],
+  "keyPassages": [
+   "rom 16:5"
+  ],
+  "father": null,
+  "mother": null,
+  "spouses": [],
+  "children": [],
+  "relations": [
+   {
+    "to": "paul",
+    "type": "greeted by",
+    "ref": "rom 16:5"
+   }
+  ],
+  "search": {
+   "names": [
+    "Epaenetus"
+   ],
+   "books": [
+    "rom:16"
+   ]
+  }
+ },
+ {
+  "id": "amplias",
+  "name": "Amplias",
+  "aliases": [],
+  "gender": "m",
+  "role": "Christian named in Romans 16",
+  "era": "Apostolic Church",
+  "summary": "Amplias is named in the greetings of Paul's Letter to the Romans. 'My beloved in the Lord' (also called Ampliatus).",
+  "catholic": "",
+  "know": [
+   "'My beloved in the Lord' (also called Ampliatus)."
+  ],
+  "keyPassages": [
+   "rom 16:8"
+  ],
+  "father": null,
+  "mother": null,
+  "spouses": [],
+  "children": [],
+  "relations": [
+   {
+    "to": "paul",
+    "type": "greeted by",
+    "ref": "rom 16:8"
+   }
+  ],
+  "search": {
+   "names": [
+    "Amplias"
+   ],
+   "books": [
+    "rom:16"
+   ]
+  }
+ },
+ {
+  "id": "urbanus",
+  "name": "Urbanus",
+  "aliases": [],
+  "gender": "m",
+  "role": "Christian named in Romans 16",
+  "era": "Apostolic Church",
+  "summary": "Urbanus is named in the greetings of Paul's Letter to the Romans. 'Our fellow worker in Christ'.",
+  "catholic": "",
+  "know": [
+   "'Our fellow worker in Christ'."
+  ],
+  "keyPassages": [
+   "rom 16:9"
+  ],
+  "father": null,
+  "mother": null,
+  "spouses": [],
+  "children": [],
+  "relations": [
+   {
+    "to": "paul",
+    "type": "greeted by",
+    "ref": "rom 16:9"
+   }
+  ],
+  "search": {
+   "names": [
+    "Urbanus"
+   ],
+   "books": [
+    "rom:16"
+   ]
+  }
+ },
+ {
+  "id": "stachys",
+  "name": "Stachys",
+  "aliases": [],
+  "gender": "m",
+  "role": "Christian named in Romans 16",
+  "era": "Apostolic Church",
+  "summary": "Stachys is named in the greetings of Paul's Letter to the Romans. 'My beloved'.",
+  "catholic": "",
+  "know": [
+   "'My beloved'."
+  ],
+  "keyPassages": [
+   "rom 16:9"
+  ],
+  "father": null,
+  "mother": null,
+  "spouses": [],
+  "children": [],
+  "relations": [
+   {
+    "to": "paul",
+    "type": "greeted by",
+    "ref": "rom 16:9"
+   }
+  ],
+  "search": {
+   "names": [
+    "Stachys"
+   ],
+   "books": [
+    "rom:16"
+   ]
+  }
+ },
+ {
+  "id": "apelles",
+  "name": "Apelles",
+  "aliases": [],
+  "gender": "m",
+  "role": "Christian named in Romans 16",
+  "era": "Apostolic Church",
+  "summary": "Apelles is named in the greetings of Paul's Letter to the Romans. 'The approved in Christ'.",
+  "catholic": "",
+  "know": [
+   "'The approved in Christ'."
+  ],
+  "keyPassages": [
+   "rom 16:10"
+  ],
+  "father": null,
+  "mother": null,
+  "spouses": [],
+  "children": [],
+  "relations": [
+   {
+    "to": "paul",
+    "type": "greeted by",
+    "ref": "rom 16:10"
+   }
+  ],
+  "search": {
+   "names": [
+    "Apelles"
+   ],
+   "books": [
+    "rom:16"
+   ]
+  }
+ },
+ {
+  "id": "aristobulus",
+  "name": "Aristobulus",
+  "aliases": [],
+  "gender": "m",
+  "role": "Christian named in Romans 16",
+  "era": "Apostolic Church",
+  "summary": "Aristobulus is named in the greetings of Paul's Letter to the Romans. Paul greets 'those who are of the household of Aristobulus'.",
+  "catholic": "",
+  "know": [
+   "Paul greets 'those who are of the household of Aristobulus'."
+  ],
+  "keyPassages": [
+   "rom 16:10"
+  ],
+  "father": null,
+  "mother": null,
+  "spouses": [],
+  "children": [],
+  "relations": [
+   {
+    "to": "paul",
+    "type": "greeted by",
+    "ref": "rom 16:10"
+   }
+  ],
+  "search": {
+   "names": [
+    "Aristobulus"
+   ],
+   "books": [
+    "rom:16"
+   ]
+  }
+ },
+ {
+  "id": "herodion",
+  "name": "Herodion",
+  "aliases": [],
+  "gender": "m",
+  "role": "Christian named in Romans 16",
+  "era": "Apostolic Church",
+  "summary": "Herodion is named in the greetings of Paul's Letter to the Romans. 'My kinsman'.",
+  "catholic": "",
+  "know": [
+   "'My kinsman'."
+  ],
+  "keyPassages": [
+   "rom 16:11"
+  ],
+  "father": null,
+  "mother": null,
+  "spouses": [],
+  "children": [],
+  "relations": [
+   {
+    "to": "paul",
+    "type": "greeted by",
+    "ref": "rom 16:11"
+   }
+  ],
+  "search": {
+   "names": [
+    "Herodion"
+   ],
+   "books": [
+    "rom:16"
+   ]
+  }
+ },
+ {
+  "id": "narcissus",
+  "name": "Narcissus",
+  "aliases": [],
+  "gender": "m",
+  "role": "Christian named in Romans 16",
+  "era": "Apostolic Church",
+  "summary": "Narcissus is named in the greetings of Paul's Letter to the Romans. Paul greets those of his household 'who are in the Lord'.",
+  "catholic": "",
+  "know": [
+   "Paul greets those of his household 'who are in the Lord'."
+  ],
+  "keyPassages": [
+   "rom 16:11"
+  ],
+  "father": null,
+  "mother": null,
+  "spouses": [],
+  "children": [],
+  "relations": [
+   {
+    "to": "paul",
+    "type": "greeted by",
+    "ref": "rom 16:11"
+   }
+  ],
+  "search": {
+   "names": [
+    "Narcissus"
+   ],
+   "books": [
+    "rom:16"
+   ]
+  }
+ },
+ {
+  "id": "tryphaena",
+  "name": "Tryphaena",
+  "aliases": [],
+  "gender": "f",
+  "role": "Christian named in Romans 16",
+  "era": "Apostolic Church",
+  "summary": "Tryphaena is named in the greetings of Paul's Letter to the Romans. Greeted with Tryphosa as women 'who labor in the Lord'.",
+  "catholic": "",
+  "know": [
+   "Greeted with Tryphosa as women 'who labor in the Lord'."
+  ],
+  "keyPassages": [
+   "rom 16:12"
+  ],
+  "father": null,
+  "mother": null,
+  "spouses": [],
+  "children": [],
+  "relations": [
+   {
+    "to": "paul",
+    "type": "greeted by",
+    "ref": "rom 16:12"
+   }
+  ],
+  "search": {
+   "names": [
+    "Tryphaena"
+   ],
+   "books": [
+    "rom:16"
+   ]
+  }
+ },
+ {
+  "id": "tryphosa",
+  "name": "Tryphosa",
+  "aliases": [],
+  "gender": "f",
+  "role": "Christian named in Romans 16",
+  "era": "Apostolic Church",
+  "summary": "Tryphosa is named in the greetings of Paul's Letter to the Romans. Greeted with Tryphaena as women 'who labor in the Lord'.",
+  "catholic": "",
+  "know": [
+   "Greeted with Tryphaena as women 'who labor in the Lord'."
+  ],
+  "keyPassages": [
+   "rom 16:12"
+  ],
+  "father": null,
+  "mother": null,
+  "spouses": [],
+  "children": [],
+  "relations": [
+   {
+    "to": "paul",
+    "type": "greeted by",
+    "ref": "rom 16:12"
+   }
+  ],
+  "search": {
+   "names": [
+    "Tryphosa"
+   ],
+   "books": [
+    "rom:16"
+   ]
+  }
+ },
+ {
+  "id": "persis",
+  "name": "Persis",
+  "aliases": [],
+  "gender": "f",
+  "role": "Christian named in Romans 16",
+  "era": "Apostolic Church",
+  "summary": "Persis is named in the greetings of Paul's Letter to the Romans. 'The beloved, who labored much in the Lord'.",
+  "catholic": "",
+  "know": [
+   "'The beloved, who labored much in the Lord'."
+  ],
+  "keyPassages": [
+   "rom 16:12"
+  ],
+  "father": null,
+  "mother": null,
+  "spouses": [],
+  "children": [],
+  "relations": [
+   {
+    "to": "paul",
+    "type": "greeted by",
+    "ref": "rom 16:12"
+   }
+  ],
+  "search": {
+   "names": [
+    "Persis"
+   ],
+   "books": [
+    "rom:16"
+   ]
+  }
+ },
+ {
+  "id": "asyncritus",
+  "name": "Asyncritus",
+  "aliases": [],
+  "gender": "m",
+  "role": "Christian named in Romans 16",
+  "era": "Apostolic Church",
+  "summary": "Asyncritus is named in the greetings of Paul's Letter to the Romans. Greeted with Phlegon, Hermes, Patrobas and Hermas.",
+  "catholic": "",
+  "know": [
+   "Greeted with Phlegon, Hermes, Patrobas and Hermas."
+  ],
+  "keyPassages": [
+   "rom 16:14"
+  ],
+  "father": null,
+  "mother": null,
+  "spouses": [],
+  "children": [],
+  "relations": [
+   {
+    "to": "paul",
+    "type": "greeted by",
+    "ref": "rom 16:14"
+   }
+  ],
+  "search": {
+   "names": [
+    "Asyncritus"
+   ],
+   "books": [
+    "rom:16"
+   ]
+  }
+ },
+ {
+  "id": "phlegon",
+  "name": "Phlegon",
+  "aliases": [],
+  "gender": "m",
+  "role": "Christian named in Romans 16",
+  "era": "Apostolic Church",
+  "summary": "Phlegon is named in the greetings of Paul's Letter to the Romans. Greeted with Asyncritus and others.",
+  "catholic": "",
+  "know": [
+   "Greeted with Asyncritus and others."
+  ],
+  "keyPassages": [
+   "rom 16:14"
+  ],
+  "father": null,
+  "mother": null,
+  "spouses": [],
+  "children": [],
+  "relations": [
+   {
+    "to": "paul",
+    "type": "greeted by",
+    "ref": "rom 16:14"
+   }
+  ],
+  "search": {
+   "names": [
+    "Phlegon"
+   ],
+   "books": [
+    "rom:16"
+   ]
+  }
+ },
+ {
+  "id": "hermes-of-rome",
+  "name": "Hermes",
+  "aliases": [],
+  "gender": "m",
+  "role": "Christian named in Romans 16",
+  "era": "Apostolic Church",
+  "summary": "Hermes is named in the greetings of Paul's Letter to the Romans. A Roman Christian greeted with Asyncritus and others.",
+  "catholic": "",
+  "know": [
+   "A Roman Christian greeted with Asyncritus and others."
+  ],
+  "keyPassages": [
+   "rom 16:14"
+  ],
+  "father": null,
+  "mother": null,
+  "spouses": [],
+  "children": [],
+  "relations": [
+   {
+    "to": "paul",
+    "type": "greeted by",
+    "ref": "rom 16:14"
+   }
+  ],
+  "search": {
+   "names": [
+    "Hermes"
+   ],
+   "books": [
+    "rom:16"
+   ]
+  }
+ },
+ {
+  "id": "patrobas",
+  "name": "Patrobas",
+  "aliases": [],
+  "gender": "m",
+  "role": "Christian named in Romans 16",
+  "era": "Apostolic Church",
+  "summary": "Patrobas is named in the greetings of Paul's Letter to the Romans. Greeted with Asyncritus and others.",
+  "catholic": "",
+  "know": [
+   "Greeted with Asyncritus and others."
+  ],
+  "keyPassages": [
+   "rom 16:14"
+  ],
+  "father": null,
+  "mother": null,
+  "spouses": [],
+  "children": [],
+  "relations": [
+   {
+    "to": "paul",
+    "type": "greeted by",
+    "ref": "rom 16:14"
+   }
+  ],
+  "search": {
+   "names": [
+    "Patrobas"
+   ],
+   "books": [
+    "rom:16"
+   ]
+  }
+ },
+ {
+  "id": "hermas",
+  "name": "Hermas",
+  "aliases": [],
+  "gender": "m",
+  "role": "Christian named in Romans 16",
+  "era": "Apostolic Church",
+  "summary": "Hermas is named in the greetings of Paul's Letter to the Romans. Greeted with Asyncritus and others.",
+  "catholic": "",
+  "know": [
+   "Greeted with Asyncritus and others."
+  ],
+  "keyPassages": [
+   "rom 16:14"
+  ],
+  "father": null,
+  "mother": null,
+  "spouses": [],
+  "children": [],
+  "relations": [
+   {
+    "to": "paul",
+    "type": "greeted by",
+    "ref": "rom 16:14"
+   }
+  ],
+  "search": {
+   "names": [
+    "Hermas"
+   ],
+   "books": [
+    "rom:16"
+   ]
+  }
+ },
+ {
+  "id": "philologus",
+  "name": "Philologus",
+  "aliases": [],
+  "gender": "m",
+  "role": "Christian named in Romans 16",
+  "era": "Apostolic Church",
+  "summary": "Philologus is named in the greetings of Paul's Letter to the Romans. Greeted with Julia; perhaps a married couple.",
+  "catholic": "",
+  "know": [
+   "Greeted with Julia; perhaps a married couple."
+  ],
+  "keyPassages": [
+   "rom 16:15"
+  ],
+  "father": null,
+  "mother": null,
+  "spouses": [],
+  "children": [],
+  "relations": [
+   {
+    "to": "paul",
+    "type": "greeted by",
+    "ref": "rom 16:15"
+   }
+  ],
+  "search": {
+   "names": [
+    "Philologus"
+   ],
+   "books": [
+    "rom:16"
+   ]
+  }
+ },
+ {
+  "id": "julia",
+  "name": "Julia",
+  "aliases": [],
+  "gender": "f",
+  "role": "Christian named in Romans 16",
+  "era": "Apostolic Church",
+  "summary": "Julia is named in the greetings of Paul's Letter to the Romans. Greeted with Philologus; perhaps a married couple.",
+  "catholic": "",
+  "know": [
+   "Greeted with Philologus; perhaps a married couple."
+  ],
+  "keyPassages": [
+   "rom 16:15"
+  ],
+  "father": null,
+  "mother": null,
+  "spouses": [],
+  "children": [],
+  "relations": [
+   {
+    "to": "paul",
+    "type": "greeted by",
+    "ref": "rom 16:15"
+   }
+  ],
+  "search": {
+   "names": [
+    "Julia"
+   ],
+   "books": [
+    "rom:16"
+   ]
+  }
+ },
+ {
+  "id": "nereus",
+  "name": "Nereus",
+  "aliases": [],
+  "gender": "m",
+  "role": "Christian named in Romans 16",
+  "era": "Apostolic Church",
+  "summary": "Nereus is named in the greetings of Paul's Letter to the Romans. Greeted with 'his sister'.",
+  "catholic": "",
+  "know": [
+   "Greeted with 'his sister'."
+  ],
+  "keyPassages": [
+   "rom 16:15"
+  ],
+  "father": null,
+  "mother": null,
+  "spouses": [],
+  "children": [],
+  "relations": [
+   {
+    "to": "paul",
+    "type": "greeted by",
+    "ref": "rom 16:15"
+   }
+  ],
+  "search": {
+   "names": [
+    "Nereus"
+   ],
+   "books": [
+    "rom:16"
+   ]
+  }
+ },
+ {
+  "id": "olympas",
+  "name": "Olympas",
+  "aliases": [],
+  "gender": "m",
+  "role": "Christian named in Romans 16",
+  "era": "Apostolic Church",
+  "summary": "Olympas is named in the greetings of Paul's Letter to the Romans. Greeted with the saints with him.",
+  "catholic": "",
+  "know": [
+   "Greeted with the saints with him."
+  ],
+  "keyPassages": [
+   "rom 16:15"
+  ],
+  "father": null,
+  "mother": null,
+  "spouses": [],
+  "children": [],
+  "relations": [
+   {
+    "to": "paul",
+    "type": "greeted by",
+    "ref": "rom 16:15"
+   }
+  ],
+  "search": {
+   "names": [
+    "Olympas"
+   ],
+   "books": [
+    "rom:16"
+   ]
+  }
+ },
+ {
+  "id": "lucius-relative-of-paul",
+  "name": "Lucius",
+  "aliases": [],
+  "gender": "m",
+  "role": "Christian named in Romans 16",
+  "era": "Apostolic Church",
+  "summary": "Lucius is named in the greetings of Paul's Letter to the Romans. One of Paul's 'relatives' who sends greetings from Corinth; identification with Lucius of Cyrene or with Luke is uncertain.",
+  "catholic": "",
+  "know": [
+   "One of Paul's 'relatives' who sends greetings from Corinth; identification with Lucius of Cyrene or with Luke is uncertain."
+  ],
+  "keyPassages": [
+   "rom 16:21"
+  ],
+  "father": null,
+  "mother": null,
+  "spouses": [],
+  "children": [],
+  "relations": [
+   {
+    "to": "paul",
+    "type": "sent greetings with",
+    "ref": "rom 16:21"
+   }
+  ],
+  "search": {
+   "names": [
+    "Lucius"
+   ],
+   "books": [
+    "rom:16"
+   ]
+  }
+ },
+ {
+  "id": "sosipater",
+  "name": "Sosipater",
+  "aliases": [],
+  "gender": "m",
+  "role": "Christian named in Romans 16",
+  "era": "Apostolic Church",
+  "summary": "Sosipater is named in the greetings of Paul's Letter to the Romans. One of Paul's 'relatives' who sends greetings; possibly Sopater of Beroea (Acts 20:4).",
+  "catholic": "",
+  "know": [
+   "One of Paul's 'relatives' who sends greetings; possibly Sopater of Beroea (Acts 20:4)."
+  ],
+  "keyPassages": [
+   "rom 16:21"
+  ],
+  "father": null,
+  "mother": null,
+  "spouses": [],
+  "children": [],
+  "relations": [
+   {
+    "to": "paul",
+    "type": "sent greetings with",
+    "ref": "rom 16:21"
+   }
+  ],
+  "search": {
+   "names": [
+    "Sosipater"
+   ],
+   "books": [
+    "rom:16"
+   ]
+  }
+ },
+ {
+  "id": "tertius",
+  "name": "Tertius",
+  "aliases": [],
+  "gender": "m",
+  "role": "Christian named in Romans 16",
+  "era": "Apostolic Church",
+  "summary": "Tertius is named in the greetings of Paul's Letter to the Romans. Paul's scribe: 'I, Tertius, who write the letter, greet you in the Lord.'",
+  "catholic": "",
+  "know": [
+   "Paul's scribe: 'I, Tertius, who write the letter, greet you in the Lord.'"
+  ],
+  "keyPassages": [
+   "rom 16:22"
+  ],
+  "father": null,
+  "mother": null,
+  "spouses": [],
+  "children": [],
+  "relations": [
+   {
+    "to": "paul",
+    "type": "sent greetings with",
+    "ref": "rom 16:22"
+   }
+  ],
+  "search": {
+   "names": [
+    "Tertius"
+   ],
+   "books": [
+    "rom:16"
+   ]
+  }
+ },
+ {
+  "id": "quartus",
+  "name": "Quartus",
+  "aliases": [],
+  "gender": "m",
+  "role": "Christian named in Romans 16",
+  "era": "Apostolic Church",
+  "summary": "Quartus is named in the greetings of Paul's Letter to the Romans. 'The brother', who sends greetings from Corinth.",
+  "catholic": "",
+  "know": [
+   "'The brother', who sends greetings from Corinth."
+  ],
+  "keyPassages": [
+   "rom 16:23"
+  ],
+  "father": null,
+  "mother": null,
+  "spouses": [],
+  "children": [],
+  "relations": [
+   {
+    "to": "paul",
+    "type": "sent greetings with",
+    "ref": "rom 16:23"
+   }
+  ],
+  "search": {
+   "names": [
+    "Quartus"
+   ],
+   "books": [
+    "rom:16"
+   ]
+  }
+ },
+ {
+  "id": "rufus",
+  "name": "Rufus",
+  "aliases": [],
+  "gender": "m",
+  "role": "Christian at Rome",
+  "era": "Apostolic Church",
+  "summary": "Paul greets Rufus, 'the chosen in the Lord', and his mother, who had been a mother to Paul as well.",
+  "catholic": "Many interpreters suggest he is the Rufus whom Mark names as a son of Simon of Cyrene, who carried Jesus' cross (Mark 15:21), but this cannot be proven.",
+  "know": [
+   "'Chosen in the Lord' (Rom 16:13).",
+   "His mother had been like a mother to Paul.",
+   "Possibly the son of Simon of Cyrene (Mark 15:21)."
+  ],
+  "keyPassages": [
+   "rom 16:13",
+   "mrk 15:21"
+  ],
+  "father": null,
+  "mother": null,
+  "spouses": [],
+  "children": [],
+  "relations": [
+   {
+    "to": "paul",
+    "type": "greeted by",
+    "ref": "rom 16:13"
+   }
+  ],
+  "search": {
+   "names": [
+    "Rufus"
+   ],
+   "books": [
+    "rom",
+    "mrk:15"
+   ]
+  }
+ },
+ {
+  "id": "gaius-beloved",
+  "name": "Gaius (of 3 John)",
+  "aliases": [],
+  "gender": "m",
+  "role": "Christian host",
+  "era": "Apostolic Church",
+  "summary": "Gaius 'the beloved' is the addressee of the Third Letter of John. The Elder praises him for walking in the truth and for his faithful hospitality to travelling missionaries, in contrast to Diotrephes.",
+  "catholic": "Gaius is a model of Christian hospitality to those who go out 'for the sake of the Name' (3 John 7), making him a 'fellow worker for the truth'.",
+  "know": [
+   "Addressee of 3 John.",
+   "Praised for welcoming travelling brothers (3 John 5-8)."
+  ],
+  "keyPassages": [
+   "3jn 1:1-8"
+  ],
+  "father": null,
+  "mother": null,
+  "spouses": [],
+  "children": [],
+  "relations": [
+   {
+    "to": "diotrephes",
+    "type": "contrasted with",
+    "ref": "3jn 1:9"
+   },
+   {
+    "to": "demetrius-of-3-john",
+    "type": "commended to",
+    "ref": "3jn 1:12"
+   }
+  ],
+  "search": {
+   "names": [
+    "Gaius"
+   ],
+   "books": [
+    "3jn"
+   ]
+  }
+ },
+ {
+  "id": "diotrephes",
+  "name": "Diotrephes",
+  "aliases": [],
+  "gender": "m",
+  "role": "Church leader",
+  "era": "Apostolic Church",
+  "summary": "Diotrephes, 'who loves to be first', refused to acknowledge the Elder's authority, spread malicious words, would not welcome the travelling brothers, and expelled from the church those who did.",
+  "catholic": "He is the New Testament's portrait of ambition and rejection of apostolic authority within the Church.",
+  "know": [
+   "'Loves to be first among them' (3 John 9).",
+   "Refused hospitality to the brothers and expelled those who gave it (3 John 10)."
+  ],
+  "keyPassages": [
+   "3jn 1:9-11"
+  ],
+  "father": null,
+  "mother": null,
+  "spouses": [],
+  "children": [],
+  "relations": [
+   {
+    "to": "gaius-beloved",
+    "type": "contrasted with",
+    "ref": "3jn 1:9"
+   }
+  ],
+  "search": {
+   "names": [
+    "Diotrephes"
+   ],
+   "books": [
+    "3jn"
+   ]
+  }
+ },
+ {
+  "id": "demetrius-of-3-john",
+  "name": "Demetrius (of 3 John)",
+  "aliases": [],
+  "gender": "m",
+  "role": "Christian commended by the Elder",
+  "era": "Apostolic Church",
+  "summary": "Demetrius 'has the testimony of all, and of the truth itself'; the Elder commends him, probably as the bearer of the letter to Gaius.",
+  "catholic": "",
+  "know": [
+   "Commended in 3 John 12."
+  ],
+  "keyPassages": [
+   "3jn 1:12"
+  ],
+  "father": null,
+  "mother": null,
+  "spouses": [],
+  "children": [],
+  "relations": [
+   {
+    "to": "gaius-beloved",
+    "type": "commended to",
+    "ref": "3jn 1:12"
+   }
+  ],
+  "search": {
+   "names": [
+    "Demetrius"
+   ],
+   "books": [
+    "3jn"
+   ]
+  }
+ },
+ {
+  "id": "antipas",
+  "name": "Antipas",
+  "aliases": [],
+  "gender": "m",
+  "role": "Martyr of Pergamum",
+  "era": "Apostolic Church",
+  "summary": "Antipas is called by the risen Christ 'my witness, my faithful one, who was killed among you' in the letter to the church at Pergamum, 'where Satan's throne is'.",
+  "catholic": "He is honored as a martyr; tradition holds that he was bishop of Pergamum. Christ's own title 'faithful witness' (Rev 1:5) is given to him, showing the martyr's share in Christ's witness.",
+  "know": [
+   "Martyred at Pergamum (Rev 2:13).",
+   "Called 'my faithful witness' by Christ."
+  ],
+  "keyPassages": [
+   "rev 2:12-13",
+   "rev 1:5"
+  ],
+  "father": null,
+  "mother": null,
+  "spouses": [],
+  "children": [],
+  "relations": [],
+  "search": {
+   "names": [
+    "Antipas"
+   ],
+   "books": [
+    "rev"
+   ]
+  }
+ },
+ {
+  "id": "jezebel-of-thyatira",
+  "name": "Jezebel of Thyatira",
+  "aliases": [],
+  "gender": "f",
+  "role": "False prophetess",
+  "era": "Apostolic Church",
+  "summary": "In the letter to Thyatira the risen Christ rebukes the church for tolerating 'that woman Jezebel, who calls herself a prophetess' and leads his servants into immorality and eating food sacrificed to idols; she was given time to repent but refused.",
+  "catholic": "Whether a real woman or a symbolic name, she is called after Ahab's queen Jezebel, who led Israel into idolatry; she stands for false teaching that compromises with pagan practice.",
+  "know": [
+   "Named in Rev 2:20.",
+   "Called by the name of the idolatrous queen Jezebel (1 Kings 16-21).",
+   "Given time to repent but refused (Rev 2:21)."
+  ],
+  "keyPassages": [
+   "rev 2:18-29"
+  ],
+  "father": null,
+  "mother": null,
+  "spouses": [],
+  "children": [],
+  "relations": [
+   {
+    "to": "jezebel",
+    "type": "called by the name of",
+    "ref": "rev 2:20"
+   }
+  ],
+  "search": {
+   "names": [
+    "Jezebel"
+   ],
+   "books": [
+    "rev"
+   ]
+  }
+ }
+]

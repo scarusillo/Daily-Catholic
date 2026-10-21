@@ -1,0 +1,5737 @@
+[
+  {
+    "id": "jesus",
+    "name": "Jesus Christ",
+    "aliases": [
+      "Christ",
+      "Jesus Christ",
+      "Jesus of Nazareth",
+      "Immanuel"
+    ],
+    "gender": "m",
+    "role": "Son of God, the Christ",
+    "era": "Life of Christ",
+    "summary": "Jesus of Nazareth, conceived by the Holy Spirit and born of the Virgin Mary in Bethlehem in the days of Herod the Great, grew up in Nazareth as the son (as was supposed) of Joseph the carpenter. After his baptism by John in the Jordan he proclaimed the Kingdom of God in Galilee and Judea, called the Twelve, healed the sick, forgave sins, raised the dead and revealed the Father. At the Last Supper he instituted the Eucharist; he was crucified under Pontius Pilate, died and was buried, rose on the third day, and ascended into heaven, promising and sending the Holy Spirit upon his Church.",
+    "catholic": "The Church confesses Jesus Christ as one divine Person in two natures, true God and true man: 'consubstantial with the Father' (Nicaea, 325) and consubstantial with us, his natures united without confusion, change, division or separation (Chalcedon, 451; CCC 464-469). In the Incarnation the eternal Word took flesh of the Virgin Mary by the power of the Holy Spirit (Jn 1:14; CCC 461-463). His Passion, death, Resurrection and Ascension - the Paschal Mystery - accomplish our redemption and are made present in the liturgy, above all in the Eucharist he instituted at the Last Supper, 'the source and summit of the Christian life' (CCC 1324). He founded his Church on the apostles, with Peter as the rock (Mt 16:18), and remains present to it in word and sacrament until he comes again. Scripture presents him as the New Adam, the Son of David and heir of the promises to Abraham, the new Moses, one greater than Jonah and Solomon, and the fulfilment of the Law and the Prophets (Mt 5:17; Lk 24:27).",
+    "know": [
+      "True God and true man: one divine Person in two natures (Council of Chalcedon, 451).",
+      "'Jesus' means 'God saves'; 'Christ' (Messiah) means 'Anointed One' (CCC 430, 436).",
+      "Born of the Virgin Mary; Joseph was his legal and foster father, through whom he is 'son of David' (Mt 1:16-25).",
+      "Instituted the Eucharist at the Last Supper: 'This is my body ... this is my blood' (Mt 26:26-28).",
+      "Crucified under Pontius Pilate, rose on the third day, ascended into heaven, and will come again in glory (Apostles' and Nicene Creeds)."
+    ],
+    "feast": "December 25 (Christmas); Easter Sunday (movable); also the Epiphany, the Presentation (February 2), the Transfiguration (August 6), Corpus Christi, the Sacred Heart and Christ the King",
+    "keyPassages": [
+      "jhn 1:1-18",
+      "luk 2:1-20",
+      "mat 3:13-17",
+      "mat 16:13-20",
+      "mat 17:1-8",
+      "mat 26:26-29",
+      "jhn 19:16-30",
+      "mat 28:1-20"
+    ],
+    "father": null,
+    "mother": "mary-mother-of-jesus",
+    "spouses": [],
+    "children": [],
+    "relations": [
+      {
+        "to": "joseph-husband-of-mary",
+        "type": "legal/foster father",
+        "ref": "mat 1:16"
+      },
+      {
+        "to": "john-the-baptist",
+        "type": "baptized by",
+        "ref": "mat 3:13-17"
+      },
+      {
+        "to": "john-the-baptist",
+        "type": "kinsman of",
+        "ref": "luk 1:36"
+      },
+      {
+        "to": "david",
+        "type": "Son of David",
+        "ref": "mat 1:1"
+      },
+      {
+        "to": "abraham",
+        "type": "Son of Abraham",
+        "ref": "mat 1:1"
+      },
+      {
+        "to": "abraham",
+        "type": "existed before ('before Abraham came into existence, I AM')",
+        "ref": "jhn 8:58"
+      },
+      {
+        "to": "adam",
+        "type": "descended from ('the son of Adam')",
+        "ref": "luk 3:38"
+      },
+      {
+        "to": "moses",
+        "type": "appeared with him at the Transfiguration",
+        "ref": "mat 17:3"
+      },
+      {
+        "to": "elijah",
+        "type": "appeared with him at the Transfiguration",
+        "ref": "mat 17:3"
+      },
+      {
+        "to": "moses",
+        "type": "fulfils (the lifted-up serpent)",
+        "ref": "jhn 3:14"
+      },
+      {
+        "to": "jonah",
+        "type": "the sign of Jonah (three days in the earth)",
+        "ref": "mat 12:39-41"
+      },
+      {
+        "to": "solomon",
+        "type": "one greater than Solomon",
+        "ref": "mat 12:42"
+      },
+      {
+        "to": "isaiah",
+        "type": "fulfils (reads Isaiah 61 at Nazareth)",
+        "ref": "luk 4:16-21"
+      },
+      {
+        "to": "jacob",
+        "type": "fulfils (the ladder of Bethel)",
+        "ref": "jhn 1:51"
+      },
+      {
+        "to": "noah",
+        "type": "compares his coming to the days of Noah",
+        "ref": "mat 24:37-39"
+      },
+      {
+        "to": "abel",
+        "type": "cites the blood of Abel",
+        "ref": "luk 11:51"
+      },
+      {
+        "to": "gabriel-archangel",
+        "type": "conception announced by",
+        "ref": "luk 1:26-38"
+      },
+      {
+        "to": "peter",
+        "type": "called",
+        "ref": "mat 4:18-20"
+      },
+      {
+        "to": "andrew",
+        "type": "called",
+        "ref": "mat 4:18-20"
+      },
+      {
+        "to": "james-son-of-zebedee",
+        "type": "called",
+        "ref": "mat 4:21-22"
+      },
+      {
+        "to": "john-apostle",
+        "type": "called",
+        "ref": "mat 4:21-22"
+      },
+      {
+        "to": "philip-apostle",
+        "type": "called",
+        "ref": "jhn 1:43"
+      },
+      {
+        "to": "bartholomew",
+        "type": "called",
+        "ref": "jhn 1:45-51"
+      },
+      {
+        "to": "matthew",
+        "type": "called",
+        "ref": "mat 9:9"
+      },
+      {
+        "to": "thomas",
+        "type": "called",
+        "ref": "mat 10:3"
+      },
+      {
+        "to": "james-son-of-alphaeus",
+        "type": "called",
+        "ref": "mat 10:3"
+      },
+      {
+        "to": "jude-thaddeus",
+        "type": "called",
+        "ref": "luk 6:16"
+      },
+      {
+        "to": "simon-the-zealot",
+        "type": "called",
+        "ref": "luk 6:15"
+      },
+      {
+        "to": "judas-iscariot",
+        "type": "called",
+        "ref": "mat 10:4"
+      },
+      {
+        "to": "peter",
+        "type": "named him Cephas/Peter and gave him the keys",
+        "ref": "mat 16:18-19"
+      },
+      {
+        "to": "john-apostle",
+        "type": "the disciple whom Jesus loved; entrusted his mother to him",
+        "ref": "jhn 19:26-27"
+      },
+      {
+        "to": "judas-iscariot",
+        "type": "betrayed by",
+        "ref": "luk 22:47-48"
+      },
+      {
+        "to": "mary-magdalene",
+        "type": "appeared first to",
+        "ref": "jhn 20:11-18"
+      },
+      {
+        "to": "lazarus",
+        "type": "raised from the dead",
+        "ref": "jhn 11:38-44"
+      },
+      {
+        "to": "martha",
+        "type": "friend of",
+        "ref": "jhn 11:5"
+      },
+      {
+        "to": "mary-of-bethany",
+        "type": "anointed by",
+        "ref": "jhn 12:3"
+      },
+      {
+        "to": "nicodemus",
+        "type": "taught (born of water and the Spirit)",
+        "ref": "jhn 3:1-15"
+      },
+      {
+        "to": "joseph-of-arimathea",
+        "type": "buried by",
+        "ref": "mrk 15:42-46"
+      },
+      {
+        "to": "simeon-of-jerusalem",
+        "type": "presented in the Temple, received by",
+        "ref": "luk 2:25-35"
+      },
+      {
+        "to": "anna-prophetess",
+        "type": "proclaimed by",
+        "ref": "luk 2:36-38"
+      },
+      {
+        "to": "herod-the-great",
+        "type": "sought to kill",
+        "ref": "mat 2:13-16"
+      },
+      {
+        "to": "annas",
+        "type": "questioned by",
+        "ref": "jhn 18:19-24"
+      },
+      {
+        "to": "caiaphas",
+        "type": "tried by",
+        "ref": "mat 26:57-66"
+      },
+      {
+        "to": "pontius-pilate",
+        "type": "condemned by",
+        "ref": "jhn 19:16"
+      },
+      {
+        "to": "herod-antipas",
+        "type": "mocked by",
+        "ref": "luk 23:8-11"
+      },
+      {
+        "to": "barabbas",
+        "type": "released instead of",
+        "ref": "mat 27:15-26"
+      },
+      {
+        "to": "simon-of-cyrene",
+        "type": "cross carried by",
+        "ref": "luk 23:26"
+      },
+      {
+        "to": "zacchaeus",
+        "type": "guest of",
+        "ref": "luk 19:1-10"
+      },
+      {
+        "to": "james-brother-of-the-lord",
+        "type": "kinsman ('brother of the Lord')",
+        "ref": "gal 1:19"
+      }
+    ],
+    "search": {
+      "names": [
+        "Jesus",
+        "Christ"
+      ],
+      "books": [
+        "mat",
+        "mrk",
+        "luk",
+        "jhn",
+        "act",
+        "rom",
+        "1co",
+        "2co",
+        "gal",
+        "eph",
+        "php",
+        "col",
+        "1th",
+        "2th",
+        "1ti",
+        "2ti",
+        "tit",
+        "phm",
+        "heb",
+        "jas",
+        "1pe",
+        "2pe",
+        "1jn",
+        "2jn",
+        "3jn",
+        "jud",
+        "rev"
+      ]
+    }
+  },
+  {
+    "id": "mary-mother-of-jesus",
+    "name": "Mary, Mother of Jesus",
+    "aliases": [
+      "Mary",
+      "Jesus’ mother"
+    ],
+    "gender": "f",
+    "role": "Mother of God",
+    "era": "Life of Christ",
+    "summary": "A virgin of Nazareth betrothed to Joseph, Mary was greeted by the angel Gabriel and conceived Jesus by the Holy Spirit, answering 'let it be done to me according to your word'. She visited her relative Elizabeth and sang the Magnificat, gave birth in Bethlehem, presented Jesus in the Temple and found him there at twelve. She prompted his first sign at Cana, stood by the cross where Jesus entrusted her to the beloved disciple, and prayed with the apostles awaiting the Spirit.",
+    "catholic": "The Church professes four Marian dogmas: Mary is the Mother of God (Theotokos), defined at the Council of Ephesus in 431 (CCC 495); she is ever-virgin, before, during and after the birth of Christ (CCC 496-507); she was preserved from all stain of original sin from her conception (Immaculate Conception, defined by Pius IX in 1854; CCC 490-492); and she was assumed body and soul into heavenly glory (Assumption, defined by Pius XII in 1950; CCC 966). The Fathers call her the New Eve, whose obedience untied the knot of Eve's disobedience (St Irenaeus, CCC 494), and she is the Ark of the Covenant where the glory of the Lord dwells (CCC 2676) - Luke's Visitation deliberately echoes David bringing up the Ark (2 Sam 6). From the cross Jesus gave her as mother to the beloved disciple (Jn 19:26-27), which the Church reads as her spiritual motherhood of all believers (CCC 964-970). The 'brothers' of Jesus are understood as kinsmen, not further children of Mary (CCC 500).",
+    "know": [
+      "Mother of God (Theotokos): Council of Ephesus, 431.",
+      "Immaculate Conception defined 1854 (Pius IX); Assumption defined 1950 (Pius XII).",
+      "Perpetual virgin: James and Joses, called Jesus' 'brothers', are sons of 'another Mary' (Mt 27:56; CCC 500).",
+      "Her Magnificat (Lk 1:46-55) is sung daily at Vespers; the Hail Mary joins Gabriel's and Elizabeth's greetings.",
+      "Tradition (Protoevangelium of James), not Scripture, names her parents Joachim and Anne."
+    ],
+    "feast": "January 1 (Mary, Mother of God); March 25 (Annunciation); May 31 (Visitation); August 15 (Assumption); September 8 (Nativity of Mary); December 8 (Immaculate Conception)",
+    "keyPassages": [
+      "luk 1:26-38",
+      "luk 1:39-56",
+      "mat 1:18-25",
+      "luk 2:1-20",
+      "luk 2:41-52",
+      "jhn 2:1-12",
+      "jhn 19:25-27",
+      "act 1:14"
+    ],
+    "father": "joachim",
+    "mother": "anne-mother-of-mary",
+    "spouses": [
+      "joseph-husband-of-mary"
+    ],
+    "children": [
+      "jesus"
+    ],
+    "relations": [
+      {
+        "to": "gabriel-archangel",
+        "type": "greeted at the Annunciation by",
+        "ref": "luk 1:26-38"
+      },
+      {
+        "to": "elizabeth",
+        "type": "relative of",
+        "ref": "luk 1:36"
+      },
+      {
+        "to": "john-the-baptist",
+        "type": "visited before his birth (he leapt in the womb)",
+        "ref": "luk 1:41-44"
+      },
+      {
+        "to": "simeon-of-jerusalem",
+        "type": "received the prophecy of the sword",
+        "ref": "luk 2:34-35"
+      },
+      {
+        "to": "john-apostle",
+        "type": "entrusted to the beloved disciple",
+        "ref": "jhn 19:26-27"
+      },
+      {
+        "to": "eve",
+        "type": "New Eve (the woman of the first promise)",
+        "ref": "gen 3:15"
+      },
+      {
+        "to": "mary-of-clopas",
+        "type": "stood with her at the cross",
+        "ref": "jhn 19:25"
+      }
+    ],
+    "search": {
+      "names": [
+        "Mary",
+        "Jesus’ mother",
+        "mother of Jesus",
+        "his mother"
+      ],
+      "books": [
+        "mat:1-2",
+        "mat:12-13",
+        "luk:1-2",
+        "jhn:2",
+        "jhn:19",
+        "act:1"
+      ]
+    }
+  },
+  {
+    "id": "joseph-husband-of-mary",
+    "name": "Joseph, husband of Mary",
+    "aliases": [],
+    "gender": "m",
+    "role": "Foster father of Jesus",
+    "era": "Life of Christ",
+    "summary": "A righteous man of the house of David, Joseph was betrothed to Mary. When she was found with child by the Holy Spirit, an angel told him in a dream to take her as his wife and to name the child Jesus. He brought the family to Bethlehem for the census, fled with them into Egypt from Herod, and settled in Nazareth, where Jesus was known as 'the carpenter's son'.",
+    "catholic": "St Joseph is honoured as the chaste spouse of the Virgin Mary and the legal and foster father of Jesus, through whom Jesus is legally 'son of David' (Mt 1:16, 20); the Church teaches he was not Jesus' natural father (CCC 496-497). Pius IX declared him Patron of the Universal Church in 1870, and Pope Francis opened a Year of St Joseph (2020-2021) with the letter Patris Corde. Because tradition holds that he died with Jesus and Mary beside him, he is invoked as patron of a happy death (CCC 1014), as well as of workers and families. Like Joseph son of Jacob, he is a dreamer who goes down to Egypt to save his family.",
+    "know": [
+      "Called 'a righteous man' (Mt 1:19); no word of his is recorded in Scripture.",
+      "Receives four angelic messages in dreams in Matthew 1-2.",
+      "Matthew names his father Jacob (Mt 1:16); Luke's genealogy reads 'son of Heli' (Lk 3:23).",
+      "A tekton - carpenter or builder (Mt 13:55).",
+      "Feasts March 19 (Solemnity) and May 1 (St Joseph the Worker)."
+    ],
+    "feast": "March 19 (St Joseph, Spouse of the Blessed Virgin Mary); May 1 (St Joseph the Worker)",
+    "keyPassages": [
+      "mat 1:18-25",
+      "mat 2:13-15",
+      "mat 2:19-23",
+      "luk 2:1-7",
+      "luk 2:41-52",
+      "mat 13:53-58"
+    ],
+    "father": "jacob-father-of-joseph",
+    "mother": null,
+    "spouses": [
+      "mary-mother-of-jesus"
+    ],
+    "children": [],
+    "relations": [
+      {
+        "to": "jesus",
+        "type": "legal/foster father of",
+        "ref": "mat 1:16"
+      },
+      {
+        "to": "heli",
+        "type": "son of (per Luke's genealogy)",
+        "ref": "luk 3:23"
+      },
+      {
+        "to": "david",
+        "type": "of the house of David ('son of David')",
+        "ref": "mat 1:20"
+      },
+      {
+        "to": "joseph-son-of-jacob",
+        "type": "type: the dreamer who went down to Egypt",
+        "ref": "gen 37:5"
+      }
+    ],
+    "search": {
+      "names": [
+        "Joseph"
+      ],
+      "books": [
+        "mat:1-2",
+        "luk:1-2",
+        "luk:4",
+        "jhn:1",
+        "jhn:6"
+      ]
+    }
+  },
+  {
+    "id": "joachim",
+    "name": "Joachim",
+    "aliases": [],
+    "gender": "m",
+    "role": "Father of Mary (Tradition)",
+    "era": "Life of Christ",
+    "summary": "Scripture does not name the Virgin Mary's parents. Tradition, beginning with the second-century Protoevangelium of James, names her father Joachim, a devout and prosperous man who with his wife Anne prayed long for a child.",
+    "catholic": "Tradition holds that Joachim and Anne received Mary as the answer to their prayers and presented her in the Temple (commemorated on November 21). The Church honours them together as the grandparents of Jesus, and Pope Francis tied the World Day for Grandparents and the Elderly to their feast. Their story is not Scripture, but the liturgy honours them as the parents through whom God prepared the Immaculate Mother of his Son.",
+    "know": [
+      "Known only from Tradition (Protoevangelium of James), not from the Bible.",
+      "Husband of St Anne and, by Tradition, father of the Virgin Mary.",
+      "Shares the feast of July 26 with St Anne."
+    ],
+    "feast": "July 26 (Sts Joachim and Anne)",
+    "keyPassages": [],
+    "father": null,
+    "mother": null,
+    "spouses": [
+      "anne-mother-of-mary"
+    ],
+    "children": [
+      "mary-mother-of-jesus"
+    ],
+    "relations": [],
+    "search": {
+      "names": [],
+      "books": null
+    }
+  },
+  {
+    "id": "anne-mother-of-mary",
+    "name": "Anne",
+    "aliases": [],
+    "gender": "f",
+    "role": "Mother of Mary (Tradition)",
+    "era": "Life of Christ",
+    "summary": "Scripture does not name the Virgin Mary's mother. Tradition, beginning with the Protoevangelium of James, names her Anne, a long-childless wife who with Joachim was granted a daughter, Mary.",
+    "catholic": "Tradition holds that Anne conceived Mary after years of barrenness and prayer, and the Church celebrates Mary's Immaculate Conception in Anne's womb (December 8) and her Nativity (September 8). St Anne is a beloved patroness of mothers, grandmothers and expectant women, with great shrines such as Sainte-Anne-de-Beaupre in Quebec. She is honoured with Joachim as grandmother of Jesus.",
+    "know": [
+      "Known only from Tradition, not from the Bible.",
+      "By Tradition the mother of the Virgin Mary and grandmother of Jesus.",
+      "Shares the feast of July 26 with St Joachim."
+    ],
+    "feast": "July 26 (Sts Joachim and Anne)",
+    "keyPassages": [],
+    "father": null,
+    "mother": null,
+    "spouses": [
+      "joachim"
+    ],
+    "children": [
+      "mary-mother-of-jesus"
+    ],
+    "relations": [],
+    "search": {
+      "names": [],
+      "books": null
+    }
+  },
+  {
+    "id": "elizabeth",
+    "name": "Elizabeth",
+    "aliases": [],
+    "gender": "f",
+    "role": "Mother of John the Baptist",
+    "era": "Life of Christ",
+    "summary": "Elizabeth, of the priestly line of Aaron and wife of the priest Zechariah, was righteous but barren and advanced in years. She conceived John in her old age, and when her relative Mary visited, the child leapt in her womb and, filled with the Holy Spirit, she greeted Mary as 'the mother of my Lord'. At John's circumcision she insisted he be named John.",
+    "catholic": "Elizabeth's inspired words 'Blessed are you among women, and blessed is the fruit of your womb' form part of the Hail Mary (CCC 2676), and her greeting of Mary as 'the mother of my Lord' is cited by the Church for Mary's divine motherhood (CCC 495). The Visitation (May 31) celebrates her meeting with Mary. Her late, miraculous motherhood echoes Sarah and Hannah and shows that 'nothing is impossible with God' (Lk 1:37).",
+    "know": [
+      "A descendant of Aaron (Lk 1:5).",
+      "Relative of the Virgin Mary (Lk 1:36).",
+      "First to call Mary 'the mother of my Lord' (Lk 1:43).",
+      "Her words are part of the Hail Mary."
+    ],
+    "feast": "September 23 (Sts Zechariah and Elizabeth, Roman Martyrology)",
+    "keyPassages": [
+      "luk 1:5-25",
+      "luk 1:36-45",
+      "luk 1:57-66"
+    ],
+    "father": null,
+    "mother": null,
+    "spouses": [
+      "zechariah-father-of-john"
+    ],
+    "children": [
+      "john-the-baptist"
+    ],
+    "relations": [
+      {
+        "to": "mary-mother-of-jesus",
+        "type": "relative of",
+        "ref": "luk 1:36"
+      },
+      {
+        "to": "aaron",
+        "type": "descendant of ('of the daughters of Aaron')",
+        "ref": "luk 1:5"
+      }
+    ],
+    "search": {
+      "names": [
+        "Elizabeth"
+      ],
+      "books": null
+    }
+  },
+  {
+    "id": "zechariah-father-of-john",
+    "name": "Zechariah (Zacharias)",
+    "aliases": [
+      "Zacharias"
+    ],
+    "gender": "m",
+    "role": "Priest; father of John the Baptist",
+    "era": "Life of Christ",
+    "summary": "Zechariah was a priest of the division of Abijah. While he offered incense in the Temple, the angel Gabriel announced that his barren wife Elizabeth would bear a son to be named John; because he doubted, he was struck mute. When he wrote 'His name is John', his speech returned and he prophesied the Benedictus.",
+    "catholic": "Zechariah's canticle, the Benedictus (Lk 1:68-79), is prayed every day at Morning Prayer in the Liturgy of the Hours, blessing God for the dawn of salvation and for John's mission as prophet of the Most High. His muteness and restored speech are often contrasted with Mary's faith-filled question at the Annunciation. He and Elizabeth are commemorated together as saints.",
+    "know": [
+      "Priest of the division of Abijah (Lk 1:5).",
+      "Struck mute for doubting Gabriel (Lk 1:20).",
+      "Wrote 'His name is John' (Lk 1:63).",
+      "Spoke the Benedictus (Lk 1:68-79)."
+    ],
+    "feast": "September 23 (Sts Zechariah and Elizabeth, Roman Martyrology)",
+    "keyPassages": [
+      "luk 1:5-25",
+      "luk 1:57-66",
+      "luk 1:67-79"
+    ],
+    "father": null,
+    "mother": null,
+    "spouses": [
+      "elizabeth"
+    ],
+    "children": [
+      "john-the-baptist"
+    ],
+    "relations": [
+      {
+        "to": "gabriel-archangel",
+        "type": "son's birth announced by",
+        "ref": "luk 1:11-20"
+      }
+    ],
+    "search": {
+      "names": [
+        "Zacharias"
+      ],
+      "books": [
+        "luk:1",
+        "luk:3"
+      ]
+    }
+  },
+  {
+    "id": "john-the-baptist",
+    "name": "John the Baptist",
+    "aliases": [
+      "John",
+      "John the Baptizer"
+    ],
+    "gender": "m",
+    "role": "Prophet; Forerunner of Christ",
+    "era": "Life of Christ",
+    "summary": "Son of the priest Zechariah and Elizabeth, John lived in the wilderness, wore camel's hair and ate locusts and wild honey. He preached a baptism of repentance in the Jordan, baptized Jesus, and pointed him out as 'the Lamb of God, who takes away the sin of the world'. Imprisoned by Herod Antipas for condemning his marriage to Herodias, he was beheaded at the request of Herodias's daughter.",
+    "catholic": "John is the Lord's immediate precursor, 'more than a prophet', the last of the prophets of the Old Covenant and the voice foretold by Isaiah (CCC 523, 717-720). Jesus identifies him with the Elijah who was to come (Mt 11:14). His words 'Behold the Lamb of God' are repeated at every Mass before Communion. Besides Christ and Mary he is the only saint whose birth is celebrated in the calendar (June 24), and his martyrdom is kept on August 29. He is honoured as a martyr for truth and for the sanctity of marriage.",
+    "know": [
+      "Kinsman of Jesus: his mother Elizabeth was Mary's relative (Lk 1:36).",
+      "Leapt in his mother's womb at Mary's greeting (Lk 1:41).",
+      "Baptized Jesus in the Jordan (Mt 3:13-17).",
+      "Andrew was first his disciple (Jn 1:35-40).",
+      "Beheaded by Herod Antipas (Mk 6:14-29)."
+    ],
+    "feast": "June 24 (Nativity of St John the Baptist); August 29 (Passion of St John the Baptist)",
+    "keyPassages": [
+      "luk 1:57-80",
+      "mat 3:1-12",
+      "mat 3:13-17",
+      "jhn 1:19-34",
+      "jhn 3:22-30",
+      "mat 11:2-15",
+      "mrk 6:14-29"
+    ],
+    "father": "zechariah-father-of-john",
+    "mother": "elizabeth",
+    "spouses": [],
+    "children": [],
+    "relations": [
+      {
+        "to": "jesus",
+        "type": "baptized",
+        "ref": "mat 3:13-17"
+      },
+      {
+        "to": "jesus",
+        "type": "kinsman of",
+        "ref": "luk 1:36"
+      },
+      {
+        "to": "elijah",
+        "type": "came in the spirit and power of",
+        "ref": "luk 1:17"
+      },
+      {
+        "to": "isaiah",
+        "type": "the voice crying in the wilderness",
+        "ref": "mat 3:3"
+      },
+      {
+        "to": "malachi",
+        "type": "the messenger sent before the Lord",
+        "ref": "mrk 1:2"
+      },
+      {
+        "to": "andrew",
+        "type": "teacher of",
+        "ref": "jhn 1:35-40"
+      },
+      {
+        "to": "herod-antipas",
+        "type": "imprisoned and beheaded by",
+        "ref": "mat 14:3-12"
+      },
+      {
+        "to": "herodias",
+        "type": "condemned the unlawful marriage of",
+        "ref": "mrk 6:17-19"
+      }
+    ],
+    "search": {
+      "names": [
+        "John",
+        "John the Baptizer"
+      ],
+      "books": [
+        "mat:3",
+        "mat:9",
+        "mat:11",
+        "mat:14",
+        "mat:16",
+        "mat:21",
+        "mrk:2",
+        "mrk:6",
+        "mrk:8",
+        "mrk:11",
+        "luk:1",
+        "luk:3",
+        "luk:7",
+        "luk:11",
+        "luk:16",
+        "luk:20",
+        "jhn:1",
+        "jhn:3",
+        "jhn:4",
+        "jhn:5",
+        "jhn:10",
+        "act:10",
+        "act:11",
+        "act:13",
+        "act:18",
+        "act:19"
+      ]
+    }
+  },
+  {
+    "id": "james-brother-of-the-lord",
+    "name": "James, 'brother of the Lord'",
+    "aliases": [
+      "James",
+      "James the less"
+    ],
+    "gender": "m",
+    "role": "Kinsman of Jesus; leader of the Jerusalem Church",
+    "era": "Apostolic Church",
+    "summary": "Named first among Jesus' 'brothers' at Nazareth (Mt 13:55; Mk 6:3), James is 'James the less' whose mother Mary watched at the cross (Mk 15:40). The risen Christ appeared to him (1 Cor 15:7), and he became a leader of the church in Jerusalem, speaking decisively at the Council of Jerusalem (Acts 15:13-21). Paul calls him 'the Lord's brother' and one of the pillars of the Church (Gal 1:19; 2:9).",
+    "catholic": "Following St Jerome, the Church understands 'brother' here in the broad biblical sense of kinsman: James and Joses are sons of another Mary, not of the Virgin Mary (CCC 500). Catholic tradition generally identifies him with the apostle James son of Alphaeus ('St James the Less') and as author of the Letter of James, whose instruction on anointing the sick is the scriptural basis of that sacrament (Jas 5:14-15; CCC 1510). Tradition (Hegesippus) and the historian Josephus record his death by stoning in Jerusalem around AD 62.",
+    "know": [
+      "Called 'the Lord's brother' (Gal 1:19) - a kinsman, not a son of Mary (CCC 500).",
+      "His mother was 'Mary the mother of James the less and of Joses' (Mk 15:40).",
+      "Saw the risen Lord (1 Cor 15:7) and presided at the Council of Jerusalem (Acts 15).",
+      "Catholic tradition generally identifies him with James son of Alphaeus and with the author of the Letter of James."
+    ],
+    "feast": "May 3 (as St James the Less, with St Philip)",
+    "keyPassages": [
+      "mat 13:53-58",
+      "mrk 15:40-41",
+      "1co 15:7",
+      "act 15:13-21",
+      "gal 1:18-19",
+      "gal 2:9",
+      "jas 5:14-15"
+    ],
+    "father": null,
+    "mother": "mary-of-clopas",
+    "spouses": [],
+    "children": [],
+    "relations": [
+      {
+        "to": "jesus",
+        "type": "kinsman ('brother of the Lord')",
+        "ref": "gal 1:19"
+      },
+      {
+        "to": "joses",
+        "type": "brother of",
+        "ref": "mat 27:56"
+      },
+      {
+        "to": "james-son-of-alphaeus",
+        "type": "traditionally identified with",
+        "ref": "mrk 3:18"
+      },
+      {
+        "to": "paul",
+        "type": "received Paul in Jerusalem",
+        "ref": "gal 1:18-19"
+      },
+      {
+        "to": "peter",
+        "type": "a 'pillar' of the Church with",
+        "ref": "gal 2:9"
+      }
+    ],
+    "search": {
+      "names": [
+        "James"
+      ],
+      "books": [
+        "mat:13",
+        "mat:27",
+        "mrk:6",
+        "mrk:15",
+        "mrk:16",
+        "luk:24",
+        "act:12",
+        "act:15",
+        "act:21",
+        "1co:15",
+        "gal:1",
+        "gal:2",
+        "jas:1",
+        "jud:1"
+      ]
+    }
+  },
+  {
+    "id": "joses",
+    "name": "Joses",
+    "aliases": [],
+    "gender": "m",
+    "role": "Kinsman ('brother') of Jesus",
+    "era": "Life of Christ",
+    "summary": "Joses is named among the 'brothers' of Jesus at Nazareth (Mt 13:55; Mk 6:3) and as a son of the Mary who watched the crucifixion and burial (Mt 27:56; Mk 15:40, 47).",
+    "catholic": "Joses shows the Catholic reading of the 'brothers of the Lord': he and James are explicitly sons of another Mary, so they are Jesus' kinsmen rather than children of the Virgin Mary (CCC 500).",
+    "know": [
+      "Brother of James 'the less' (Mk 15:40).",
+      "His mother 'Mary the mother of Joses' saw where Jesus was laid (Mk 15:47).",
+      "Not to be confused with Joses called Barnabas (Acts 4:36)."
+    ],
+    "keyPassages": [
+      "mat 13:55",
+      "mat 27:56",
+      "mrk 15:40",
+      "mrk 15:47"
+    ],
+    "father": null,
+    "mother": "mary-of-clopas",
+    "spouses": [],
+    "children": [],
+    "relations": [
+      {
+        "to": "jesus",
+        "type": "kinsman ('brother') of",
+        "ref": "mrk 6:3"
+      },
+      {
+        "to": "james-brother-of-the-lord",
+        "type": "brother of",
+        "ref": "mat 27:56"
+      }
+    ],
+    "search": {
+      "names": [
+        "Joses"
+      ],
+      "books": [
+        "mat",
+        "mrk"
+      ]
+    }
+  },
+  {
+    "id": "simon-brother-of-the-lord",
+    "name": "Simon, 'brother of the Lord'",
+    "aliases": [],
+    "gender": "m",
+    "role": "Kinsman ('brother') of Jesus",
+    "era": "Life of Christ",
+    "summary": "Simon is listed among the 'brothers' of Jesus by the people of Nazareth (Mt 13:55; Mk 6:3).",
+    "catholic": "As with James and Joses, the Church understands Simon as a kinsman of Jesus, not a son of Mary (CCC 500). Tradition (Hegesippus, in Eusebius) speaks of Symeon son of Clopas, a cousin of the Lord who became the second bishop of Jerusalem and was martyred under Trajan; many identify him with this Simon, though this is not certain.",
+    "know": [
+      "One of four 'brothers' named at Nazareth (Mk 6:3).",
+      "Possibly the Symeon son of Clopas whom Tradition makes second bishop of Jerusalem.",
+      "Distinct from Simon Peter and Simon the Zealot in Scripture."
+    ],
+    "keyPassages": [
+      "mat 13:55",
+      "mrk 6:3"
+    ],
+    "father": null,
+    "mother": null,
+    "spouses": [],
+    "children": [],
+    "relations": [
+      {
+        "to": "jesus",
+        "type": "kinsman ('brother') of",
+        "ref": "mrk 6:3"
+      },
+      {
+        "to": "clopas",
+        "type": "by Tradition, son of (if identified with Symeon of Jerusalem)",
+        "ref": "jhn 19:25"
+      }
+    ],
+    "search": {
+      "names": [
+        "Simon"
+      ],
+      "books": [
+        "mat:13",
+        "mrk:6"
+      ]
+    }
+  },
+  {
+    "id": "judas-brother-of-the-lord",
+    "name": "Judas (Jude), 'brother of the Lord'",
+    "aliases": [
+      "Judah",
+      "Jude"
+    ],
+    "gender": "m",
+    "role": "Kinsman ('brother') of Jesus",
+    "era": "Life of Christ",
+    "summary": "Judas (Mark: 'Judah') is listed among the 'brothers' of Jesus by the people of Nazareth (Mt 13:55; Mk 6:3).",
+    "catholic": "The Church understands him as a kinsman of Jesus (CCC 500). Catholic tradition generally identifies him with Jude, 'brother of James', author of the Letter of Jude (Jude 1), and often also with the apostle Jude Thaddeus, though the identifications are traditional rather than certain.",
+    "know": [
+      "Named among Jesus' 'brothers' (Mt 13:55).",
+      "Mark's Gospel gives the form 'Judah' (Mk 6:3).",
+      "Traditionally linked with the author of the Letter of Jude."
+    ],
+    "keyPassages": [
+      "mat 13:55",
+      "mrk 6:3",
+      "jud 1:1"
+    ],
+    "father": null,
+    "mother": null,
+    "spouses": [],
+    "children": [],
+    "relations": [
+      {
+        "to": "jesus",
+        "type": "kinsman ('brother') of",
+        "ref": "mrk 6:3"
+      },
+      {
+        "to": "jude-thaddeus",
+        "type": "often identified with in tradition",
+        "ref": "jud 1:1"
+      },
+      {
+        "to": "james-brother-of-the-lord",
+        "type": "'brother of James'",
+        "ref": "jud 1:1"
+      }
+    ],
+    "search": {
+      "names": [
+        "Judas",
+        "Judah"
+      ],
+      "books": [
+        "mat:13",
+        "mrk:6"
+      ]
+    }
+  },
+  {
+    "id": "mary-of-clopas",
+    "name": "Mary of Clopas",
+    "aliases": [
+      "Mary the wife of Clopas",
+      "Mary the mother of James",
+      "Mary the mother of Joses",
+      "the other Mary"
+    ],
+    "gender": "f",
+    "role": "Disciple; witness of the Crucifixion",
+    "era": "Life of Christ",
+    "summary": "Mary 'the wife of Clopas' stood by the cross with the Virgin Mary and Mary Magdalene (Jn 19:25). The Synoptic Gospels name among the women at the cross and tomb 'Mary the mother of James and Joses' (Mt 27:56; Mk 15:40), also called 'the other Mary' (Mt 27:61; 28:1); Catholic tradition generally identifies these as one woman.",
+    "catholic": "The Catechism points to her to explain the 'brothers of Jesus': 'James and Joses, brothers of Jesus, are the sons of another Mary, a disciple of Christ, whom St Matthew significantly calls the other Mary' (CCC 500). Some readers take John 19:25 to call her the sister (kinswoman) of the Virgin Mary. She is honoured among the holy women who followed Jesus from Galilee and were first at the empty tomb.",
+    "know": [
+      "Wife of Clopas (Jn 19:25).",
+      "'Mary the mother of James the less and of Joses' (Mk 15:40) - identification with Mary of Clopas is traditional.",
+      "Called 'the other Mary' in Matthew (Mt 28:1).",
+      "Brought spices to anoint Jesus' body (Mk 16:1)."
+    ],
+    "keyPassages": [
+      "jhn 19:25",
+      "mat 27:55-61",
+      "mrk 15:40-41",
+      "mrk 16:1",
+      "mat 28:1-10",
+      "luk 24:10"
+    ],
+    "father": null,
+    "mother": null,
+    "spouses": [
+      "clopas"
+    ],
+    "children": [
+      "james-brother-of-the-lord",
+      "joses"
+    ],
+    "relations": [
+      {
+        "to": "mary-mother-of-jesus",
+        "type": "stood at the cross with ('his mother's sister' in some readings)",
+        "ref": "jhn 19:25"
+      },
+      {
+        "to": "mary-magdalene",
+        "type": "companion at the cross and tomb",
+        "ref": "mat 28:1"
+      }
+    ],
+    "search": {
+      "names": [
+        "Mary the wife of Clopas",
+        "Mary the mother of James",
+        "Mary the mother of Joses",
+        "the other Mary"
+      ],
+      "books": null
+    }
+  },
+  {
+    "id": "clopas",
+    "name": "Clopas",
+    "aliases": [],
+    "gender": "m",
+    "role": "Husband of Mary of Clopas",
+    "era": "Life of Christ",
+    "summary": "Clopas is known only as the husband of Mary who stood by the cross of Jesus (Jn 19:25).",
+    "catholic": "Tradition (Hegesippus, preserved by Eusebius) says Clopas was the brother of St Joseph and the father of Symeon, second bishop of Jerusalem. Some ancient writers identified him with Cleopas of Emmaus or with Alphaeus, but these identifications are uncertain.",
+    "know": [
+      "Named once in Scripture (Jn 19:25).",
+      "By Tradition, brother of St Joseph.",
+      "By Tradition, father of Symeon, second bishop of Jerusalem."
+    ],
+    "keyPassages": [
+      "jhn 19:25"
+    ],
+    "father": null,
+    "mother": null,
+    "spouses": [
+      "mary-of-clopas"
+    ],
+    "children": [],
+    "relations": [
+      {
+        "to": "joseph-husband-of-mary",
+        "type": "by Tradition, brother of",
+        "ref": "jhn 19:25"
+      },
+      {
+        "to": "cleopas",
+        "type": "sometimes identified with",
+        "ref": "luk 24:18"
+      }
+    ],
+    "search": {
+      "names": [
+        "Clopas"
+      ],
+      "books": null
+    }
+  },
+  {
+    "id": "cleopas",
+    "name": "Cleopas",
+    "aliases": [],
+    "gender": "m",
+    "role": "Disciple on the road to Emmaus",
+    "era": "Life of Christ",
+    "summary": "On the evening of the Resurrection, Cleopas and a companion walked to Emmaus. The risen Jesus joined them unrecognized, opened the Scriptures about himself, and was made known to them in the breaking of the bread.",
+    "catholic": "The Emmaus account is a pattern of the Mass: the Liturgy of the Word, in which Christ explains the Scriptures, followed by the Liturgy of the Eucharist, in which he takes, blesses and breaks the bread (CCC 1347). 'Stay with us, for it is nearly evening' inspired St John Paul II's letter Mane Nobiscum Domine for the Year of the Eucharist.",
+    "know": [
+      "One of two disciples on the road to Emmaus (Lk 24:13-18).",
+      "Recognized Jesus 'in the breaking of the bread' (Lk 24:35).",
+      "Sometimes identified with Clopas (Jn 19:25), but this is uncertain."
+    ],
+    "keyPassages": [
+      "luk 24:13-35"
+    ],
+    "father": null,
+    "mother": null,
+    "spouses": [],
+    "children": [],
+    "relations": [
+      {
+        "to": "jesus",
+        "type": "met the risen Lord at Emmaus",
+        "ref": "luk 24:30-31"
+      },
+      {
+        "to": "clopas",
+        "type": "sometimes identified with",
+        "ref": "jhn 19:25"
+      }
+    ],
+    "search": {
+      "names": [
+        "Cleopas"
+      ],
+      "books": null
+    }
+  },
+  {
+    "id": "abiud",
+    "name": "Abiud",
+    "aliases": [],
+    "gender": "m",
+    "role": "Ancestor of Jesus (Matthew 1)",
+    "era": "Return & Restoration",
+    "summary": "Abiud, son of Zerubbabel, appears only in Matthew's genealogy of Jesus as the father of Eliakim (Mt 1:13), in the line of David's royal heirs after the Babylonian exile.",
+    "catholic": "Matthew arranges these generations into three sets of fourteen (Mt 1:17), presenting Jesus as the heir of Abraham and of David's royal house through his legal father Joseph.",
+    "know": [
+      "Named only in Matthew 1 - a link in Jesus' royal Davidic line after the exile.",
+      "Son of Zerubbabel; father of Eliakim."
+    ],
+    "keyPassages": [
+      "mat 1:1-17",
+      "mat 1:13"
+    ],
+    "father": "zerubbabel",
+    "mother": null,
+    "spouses": [],
+    "children": [
+      "eliakim-son-of-abiud"
+    ],
+    "relations": [
+      {
+        "to": "jesus",
+        "type": "ancestor of",
+        "ref": "mat 1:13"
+      }
+    ],
+    "search": {
+      "names": [
+        "Abiud"
+      ],
+      "books": [
+        "mat:1"
+      ]
+    }
+  },
+  {
+    "id": "eliakim-son-of-abiud",
+    "name": "Eliakim",
+    "aliases": [],
+    "gender": "m",
+    "role": "Ancestor of Jesus (Matthew 1)",
+    "era": "Return & Restoration",
+    "summary": "Eliakim, son of Abiud, appears only in Matthew's genealogy of Jesus as the father of Azor (Mt 1:13), in the line of David's royal heirs after the Babylonian exile.",
+    "catholic": "",
+    "know": [
+      "Named only in Matthew 1 - a link in Jesus' royal Davidic line after the exile.",
+      "Son of Abiud; father of Azor."
+    ],
+    "keyPassages": [
+      "mat 1:1-17",
+      "mat 1:13"
+    ],
+    "father": "abiud",
+    "mother": null,
+    "spouses": [],
+    "children": [
+      "azor"
+    ],
+    "relations": [
+      {
+        "to": "jesus",
+        "type": "ancestor of",
+        "ref": "mat 1:13"
+      }
+    ],
+    "search": {
+      "names": [
+        "Eliakim"
+      ],
+      "books": [
+        "mat:1"
+      ]
+    }
+  },
+  {
+    "id": "azor",
+    "name": "Azor",
+    "aliases": [],
+    "gender": "m",
+    "role": "Ancestor of Jesus (Matthew 1)",
+    "era": "Return & Restoration",
+    "summary": "Azor, son of Eliakim, appears only in Matthew's genealogy of Jesus as the father of Zadok (Mt 1:13-14), in the line of David's royal heirs after the Babylonian exile.",
+    "catholic": "",
+    "know": [
+      "Named only in Matthew 1 - a link in Jesus' royal Davidic line after the exile.",
+      "Son of Eliakim; father of Zadok."
+    ],
+    "keyPassages": [
+      "mat 1:1-17",
+      "mat 1:13-14"
+    ],
+    "father": "eliakim-son-of-abiud",
+    "mother": null,
+    "spouses": [],
+    "children": [
+      "zadok-son-of-azor"
+    ],
+    "relations": [
+      {
+        "to": "jesus",
+        "type": "ancestor of",
+        "ref": "mat 1:13-14"
+      }
+    ],
+    "search": {
+      "names": [
+        "Azor"
+      ],
+      "books": [
+        "mat:1"
+      ]
+    }
+  },
+  {
+    "id": "zadok-son-of-azor",
+    "name": "Zadok",
+    "aliases": [],
+    "gender": "m",
+    "role": "Ancestor of Jesus (Matthew 1)",
+    "era": "Return & Restoration",
+    "summary": "Zadok, son of Azor, appears only in Matthew's genealogy of Jesus as the father of Achim (Mt 1:14), in the line of David's royal heirs after the Babylonian exile.",
+    "catholic": "",
+    "know": [
+      "Named only in Matthew 1 - a link in Jesus' royal Davidic line after the exile.",
+      "Son of Azor; father of Achim."
+    ],
+    "keyPassages": [
+      "mat 1:1-17",
+      "mat 1:14"
+    ],
+    "father": "azor",
+    "mother": null,
+    "spouses": [],
+    "children": [
+      "achim"
+    ],
+    "relations": [
+      {
+        "to": "jesus",
+        "type": "ancestor of",
+        "ref": "mat 1:14"
+      }
+    ],
+    "search": {
+      "names": [
+        "Zadok"
+      ],
+      "books": [
+        "mat:1"
+      ]
+    }
+  },
+  {
+    "id": "achim",
+    "name": "Achim",
+    "aliases": [],
+    "gender": "m",
+    "role": "Ancestor of Jesus (Matthew 1)",
+    "era": "Maccabean",
+    "summary": "Achim, son of Zadok, appears only in Matthew's genealogy of Jesus as the father of Eliud (Mt 1:14), in the line of David's royal heirs after the Babylonian exile.",
+    "catholic": "",
+    "know": [
+      "Named only in Matthew 1 - a link in Jesus' royal Davidic line after the exile.",
+      "Son of Zadok; father of Eliud."
+    ],
+    "keyPassages": [
+      "mat 1:1-17",
+      "mat 1:14"
+    ],
+    "father": "zadok-son-of-azor",
+    "mother": null,
+    "spouses": [],
+    "children": [
+      "eliud"
+    ],
+    "relations": [
+      {
+        "to": "jesus",
+        "type": "ancestor of",
+        "ref": "mat 1:14"
+      }
+    ],
+    "search": {
+      "names": [
+        "Achim"
+      ],
+      "books": [
+        "mat:1"
+      ]
+    }
+  },
+  {
+    "id": "eliud",
+    "name": "Eliud",
+    "aliases": [],
+    "gender": "m",
+    "role": "Ancestor of Jesus (Matthew 1)",
+    "era": "Maccabean",
+    "summary": "Eliud, son of Achim, appears only in Matthew's genealogy of Jesus as the father of Eleazar (Mt 1:14-15), in the line of David's royal heirs after the Babylonian exile.",
+    "catholic": "",
+    "know": [
+      "Named only in Matthew 1 - a link in Jesus' royal Davidic line after the exile.",
+      "Son of Achim; father of Eleazar."
+    ],
+    "keyPassages": [
+      "mat 1:1-17",
+      "mat 1:14-15"
+    ],
+    "father": "achim",
+    "mother": null,
+    "spouses": [],
+    "children": [
+      "eleazar-son-of-eliud"
+    ],
+    "relations": [
+      {
+        "to": "jesus",
+        "type": "ancestor of",
+        "ref": "mat 1:14-15"
+      }
+    ],
+    "search": {
+      "names": [
+        "Eliud"
+      ],
+      "books": [
+        "mat:1"
+      ]
+    }
+  },
+  {
+    "id": "eleazar-son-of-eliud",
+    "name": "Eleazar",
+    "aliases": [],
+    "gender": "m",
+    "role": "Ancestor of Jesus (Matthew 1)",
+    "era": "Maccabean",
+    "summary": "Eleazar, son of Eliud, appears only in Matthew's genealogy of Jesus as the father of Matthan (Mt 1:15), in the line of David's royal heirs after the Babylonian exile.",
+    "catholic": "",
+    "know": [
+      "Named only in Matthew 1 - a link in Jesus' royal Davidic line after the exile.",
+      "Son of Eliud; father of Matthan."
+    ],
+    "keyPassages": [
+      "mat 1:1-17",
+      "mat 1:15"
+    ],
+    "father": "eliud",
+    "mother": null,
+    "spouses": [],
+    "children": [
+      "matthan"
+    ],
+    "relations": [
+      {
+        "to": "jesus",
+        "type": "ancestor of",
+        "ref": "mat 1:15"
+      }
+    ],
+    "search": {
+      "names": [
+        "Eleazar"
+      ],
+      "books": [
+        "mat:1"
+      ]
+    }
+  },
+  {
+    "id": "matthan",
+    "name": "Matthan",
+    "aliases": [],
+    "gender": "m",
+    "role": "Ancestor of Jesus (Matthew 1)",
+    "era": "Maccabean",
+    "summary": "Matthan, son of Eleazar, appears only in Matthew's genealogy of Jesus as the father of Jacob (Mt 1:15), in the line of David's royal heirs after the Babylonian exile.",
+    "catholic": "",
+    "know": [
+      "Named only in Matthew 1 - a link in Jesus' royal Davidic line after the exile.",
+      "Son of Eleazar; father of Jacob."
+    ],
+    "keyPassages": [
+      "mat 1:1-17",
+      "mat 1:15"
+    ],
+    "father": "eleazar-son-of-eliud",
+    "mother": null,
+    "spouses": [],
+    "children": [
+      "jacob-father-of-joseph"
+    ],
+    "relations": [
+      {
+        "to": "jesus",
+        "type": "ancestor of",
+        "ref": "mat 1:15"
+      }
+    ],
+    "search": {
+      "names": [
+        "Matthan"
+      ],
+      "books": [
+        "mat:1"
+      ]
+    }
+  },
+  {
+    "id": "jacob-father-of-joseph",
+    "name": "Jacob",
+    "aliases": [],
+    "gender": "m",
+    "role": "Ancestor of Jesus (Matthew 1)",
+    "era": "Life of Christ",
+    "summary": "Jacob son of Matthan is named in Matthew's genealogy as the father of Joseph, the husband of Mary, of whom Jesus was born (Mt 1:15-16).",
+    "catholic": "Matthew arranges these generations into three sets of fourteen (Mt 1:17), presenting Jesus as the heir of Abraham and of David's royal house through his legal father Joseph.",
+    "know": [
+      "Father of St Joseph according to Matthew 1:16.",
+      "Luke 3:23 instead reads Joseph 'son of Heli'; Julius Africanus (3rd c.) explained the two by a levirate marriage, others take Luke's line as Mary's.",
+      "Grandfather (legally) of Jesus."
+    ],
+    "keyPassages": [
+      "mat 1:1-17",
+      "mat 1:15-16"
+    ],
+    "father": "matthan",
+    "mother": null,
+    "spouses": [],
+    "children": [
+      "joseph-husband-of-mary"
+    ],
+    "relations": [
+      {
+        "to": "jesus",
+        "type": "ancestor of",
+        "ref": "mat 1:15-16"
+      }
+    ],
+    "search": {
+      "names": [
+        "Matthan became the father of Jacob",
+        "Jacob became the father of Joseph"
+      ],
+      "books": [
+        "mat:1"
+      ]
+    }
+  },
+  {
+    "id": "heli",
+    "name": "Heli",
+    "aliases": [],
+    "gender": "m",
+    "role": "Ancestor of Jesus (Luke 3)",
+    "era": "Life of Christ",
+    "summary": "Heli is named in Luke's genealogy as the father of Joseph, 'the son (as was supposed) of Joseph, the son of Heli' (Lk 3:23).",
+    "catholic": "Matthew names Joseph's father as Jacob (Mt 1:16). Ancient and modern interpreters reconcile the two: Julius Africanus (3rd century) proposed a levirate marriage, making one the natural and the other the legal father, while others hold that Luke traces Mary's line, Heli being Joseph's father-in-law. The Church has not defined the question.",
+    "know": [
+      "Named only in Luke 3:23.",
+      "Matthew 1:16 names Jacob as Joseph's father - the two genealogies differ here.",
+      "Some interpreters read Luke's line as Mary's, making Heli her father; Tradition otherwise names her father Joachim."
+    ],
+    "keyPassages": [
+      "luk 3:23-38",
+      "luk 3:23"
+    ],
+    "father": "matthat-luke-3-24",
+    "mother": null,
+    "spouses": [],
+    "children": [],
+    "relations": [
+      {
+        "to": "jesus",
+        "type": "ancestor of",
+        "ref": "luk 3:23"
+      },
+      {
+        "to": "joseph-husband-of-mary",
+        "type": "father of (per Luke's genealogy)",
+        "ref": "luk 3:23"
+      }
+    ],
+    "search": {
+      "names": [
+        "Heli"
+      ],
+      "books": [
+        "luk:3"
+      ]
+    }
+  },
+  {
+    "id": "matthat-luke-3-24",
+    "name": "Matthat",
+    "aliases": [],
+    "gender": "m",
+    "role": "Ancestor of Jesus (Luke 3)",
+    "era": "Life of Christ",
+    "summary": "Matthat, son of Levi, appears only in Luke's genealogy of Jesus, which runs from Joseph back through David's son Nathan to Adam; he is listed as the father of Heli (Lk 3:24).",
+    "catholic": "",
+    "know": [
+      "Named only in Luke's genealogy (Lk 3:24).",
+      "Son of Levi; father of Heli."
+    ],
+    "keyPassages": [
+      "luk 3:23-38",
+      "luk 3:24"
+    ],
+    "father": "levi-luke-3-24",
+    "mother": null,
+    "spouses": [],
+    "children": [
+      "heli"
+    ],
+    "relations": [
+      {
+        "to": "jesus",
+        "type": "ancestor of",
+        "ref": "luk 3:24"
+      }
+    ],
+    "search": {
+      "names": [
+        "Matthat"
+      ],
+      "books": [
+        "luk:3"
+      ]
+    }
+  },
+  {
+    "id": "levi-luke-3-24",
+    "name": "Levi",
+    "aliases": [],
+    "gender": "m",
+    "role": "Ancestor of Jesus (Luke 3)",
+    "era": "Maccabean",
+    "summary": "Levi, son of Melchi, appears only in Luke's genealogy of Jesus, which runs from Joseph back through David's son Nathan to Adam; he is listed as the father of Matthat (Lk 3:24).",
+    "catholic": "",
+    "know": [
+      "Named only in Luke's genealogy (Lk 3:24).",
+      "Son of Melchi; father of Matthat."
+    ],
+    "keyPassages": [
+      "luk 3:23-38",
+      "luk 3:24"
+    ],
+    "father": "melchi-luke-3-24",
+    "mother": null,
+    "spouses": [],
+    "children": [
+      "matthat-luke-3-24"
+    ],
+    "relations": [
+      {
+        "to": "jesus",
+        "type": "ancestor of",
+        "ref": "luk 3:24"
+      }
+    ],
+    "search": {
+      "names": [
+        "Levi"
+      ],
+      "books": [
+        "luk:3"
+      ]
+    }
+  },
+  {
+    "id": "melchi-luke-3-24",
+    "name": "Melchi",
+    "aliases": [],
+    "gender": "m",
+    "role": "Ancestor of Jesus (Luke 3)",
+    "era": "Maccabean",
+    "summary": "Melchi, son of Jannai, appears only in Luke's genealogy of Jesus, which runs from Joseph back through David's son Nathan to Adam; he is listed as the father of Levi (Lk 3:24).",
+    "catholic": "",
+    "know": [
+      "Named only in Luke's genealogy (Lk 3:24).",
+      "Son of Jannai; father of Levi."
+    ],
+    "keyPassages": [
+      "luk 3:23-38",
+      "luk 3:24"
+    ],
+    "father": "jannai",
+    "mother": null,
+    "spouses": [],
+    "children": [
+      "levi-luke-3-24"
+    ],
+    "relations": [
+      {
+        "to": "jesus",
+        "type": "ancestor of",
+        "ref": "luk 3:24"
+      }
+    ],
+    "search": {
+      "names": [
+        "Melchi"
+      ],
+      "books": [
+        "luk:3"
+      ]
+    }
+  },
+  {
+    "id": "jannai",
+    "name": "Jannai",
+    "aliases": [],
+    "gender": "m",
+    "role": "Ancestor of Jesus (Luke 3)",
+    "era": "Maccabean",
+    "summary": "Jannai, son of Joseph, appears only in Luke's genealogy of Jesus, which runs from Joseph back through David's son Nathan to Adam; he is listed as the father of Melchi (Lk 3:24).",
+    "catholic": "",
+    "know": [
+      "Named only in Luke's genealogy (Lk 3:24).",
+      "Son of Joseph; father of Melchi."
+    ],
+    "keyPassages": [
+      "luk 3:23-38",
+      "luk 3:24"
+    ],
+    "father": "joseph-luke-3-24",
+    "mother": null,
+    "spouses": [],
+    "children": [
+      "melchi-luke-3-24"
+    ],
+    "relations": [
+      {
+        "to": "jesus",
+        "type": "ancestor of",
+        "ref": "luk 3:24"
+      }
+    ],
+    "search": {
+      "names": [
+        "Jannai"
+      ],
+      "books": [
+        "luk:3"
+      ]
+    }
+  },
+  {
+    "id": "joseph-luke-3-24",
+    "name": "Joseph",
+    "aliases": [],
+    "gender": "m",
+    "role": "Ancestor of Jesus (Luke 3)",
+    "era": "Maccabean",
+    "summary": "Joseph, son of Mattathias, appears only in Luke's genealogy of Jesus, which runs from Joseph back through David's son Nathan to Adam; he is listed as the father of Jannai (Lk 3:24).",
+    "catholic": "",
+    "know": [
+      "Named only in Luke's genealogy (Lk 3:24).",
+      "Son of Mattathias; father of Jannai."
+    ],
+    "keyPassages": [
+      "luk 3:23-38",
+      "luk 3:24"
+    ],
+    "father": "mattathias-luke-3-25",
+    "mother": null,
+    "spouses": [],
+    "children": [
+      "jannai"
+    ],
+    "relations": [
+      {
+        "to": "jesus",
+        "type": "ancestor of",
+        "ref": "luk 3:24"
+      }
+    ],
+    "search": {
+      "names": [
+        "Joseph"
+      ],
+      "books": [
+        "luk:3"
+      ]
+    }
+  },
+  {
+    "id": "mattathias-luke-3-25",
+    "name": "Mattathias",
+    "aliases": [],
+    "gender": "m",
+    "role": "Ancestor of Jesus (Luke 3)",
+    "era": "Maccabean",
+    "summary": "Mattathias, son of Amos, appears only in Luke's genealogy of Jesus, which runs from Joseph back through David's son Nathan to Adam; he is listed as the father of Joseph (Lk 3:25).",
+    "catholic": "",
+    "know": [
+      "Named only in Luke's genealogy (Lk 3:25).",
+      "Son of Amos; father of Joseph."
+    ],
+    "keyPassages": [
+      "luk 3:23-38",
+      "luk 3:25"
+    ],
+    "father": "amos-luke-3-25",
+    "mother": null,
+    "spouses": [],
+    "children": [
+      "joseph-luke-3-24"
+    ],
+    "relations": [
+      {
+        "to": "jesus",
+        "type": "ancestor of",
+        "ref": "luk 3:25"
+      }
+    ],
+    "search": {
+      "names": [
+        "Mattathias"
+      ],
+      "books": [
+        "luk:3"
+      ]
+    }
+  },
+  {
+    "id": "amos-luke-3-25",
+    "name": "Amos",
+    "aliases": [],
+    "gender": "m",
+    "role": "Ancestor of Jesus (Luke 3)",
+    "era": "Maccabean",
+    "summary": "Amos, son of Nahum, appears only in Luke's genealogy of Jesus, which runs from Joseph back through David's son Nathan to Adam; he is listed as the father of Mattathias (Lk 3:25).",
+    "catholic": "",
+    "know": [
+      "Named only in Luke's genealogy (Lk 3:25).",
+      "Son of Nahum; father of Mattathias."
+    ],
+    "keyPassages": [
+      "luk 3:23-38",
+      "luk 3:25"
+    ],
+    "father": "nahum-luke-3-25",
+    "mother": null,
+    "spouses": [],
+    "children": [
+      "mattathias-luke-3-25"
+    ],
+    "relations": [
+      {
+        "to": "jesus",
+        "type": "ancestor of",
+        "ref": "luk 3:25"
+      }
+    ],
+    "search": {
+      "names": [
+        "Amos"
+      ],
+      "books": [
+        "luk:3"
+      ]
+    }
+  },
+  {
+    "id": "nahum-luke-3-25",
+    "name": "Nahum",
+    "aliases": [],
+    "gender": "m",
+    "role": "Ancestor of Jesus (Luke 3)",
+    "era": "Maccabean",
+    "summary": "Nahum, son of Esli, appears only in Luke's genealogy of Jesus, which runs from Joseph back through David's son Nathan to Adam; he is listed as the father of Amos (Lk 3:25).",
+    "catholic": "",
+    "know": [
+      "Named only in Luke's genealogy (Lk 3:25).",
+      "Son of Esli; father of Amos."
+    ],
+    "keyPassages": [
+      "luk 3:23-38",
+      "luk 3:25"
+    ],
+    "father": "esli",
+    "mother": null,
+    "spouses": [],
+    "children": [
+      "amos-luke-3-25"
+    ],
+    "relations": [
+      {
+        "to": "jesus",
+        "type": "ancestor of",
+        "ref": "luk 3:25"
+      }
+    ],
+    "search": {
+      "names": [
+        "Nahum"
+      ],
+      "books": [
+        "luk:3"
+      ]
+    }
+  },
+  {
+    "id": "esli",
+    "name": "Esli",
+    "aliases": [],
+    "gender": "m",
+    "role": "Ancestor of Jesus (Luke 3)",
+    "era": "Return & Restoration",
+    "summary": "Esli, son of Naggai, appears only in Luke's genealogy of Jesus, which runs from Joseph back through David's son Nathan to Adam; he is listed as the father of Nahum (Lk 3:25).",
+    "catholic": "",
+    "know": [
+      "Named only in Luke's genealogy (Lk 3:25).",
+      "Son of Naggai; father of Nahum."
+    ],
+    "keyPassages": [
+      "luk 3:23-38",
+      "luk 3:25"
+    ],
+    "father": "naggai",
+    "mother": null,
+    "spouses": [],
+    "children": [
+      "nahum-luke-3-25"
+    ],
+    "relations": [
+      {
+        "to": "jesus",
+        "type": "ancestor of",
+        "ref": "luk 3:25"
+      }
+    ],
+    "search": {
+      "names": [
+        "Esli"
+      ],
+      "books": [
+        "luk:3"
+      ]
+    }
+  },
+  {
+    "id": "naggai",
+    "name": "Naggai",
+    "aliases": [],
+    "gender": "m",
+    "role": "Ancestor of Jesus (Luke 3)",
+    "era": "Return & Restoration",
+    "summary": "Naggai, son of Maath, appears only in Luke's genealogy of Jesus, which runs from Joseph back through David's son Nathan to Adam; he is listed as the father of Esli (Lk 3:25).",
+    "catholic": "",
+    "know": [
+      "Named only in Luke's genealogy (Lk 3:25).",
+      "Son of Maath; father of Esli."
+    ],
+    "keyPassages": [
+      "luk 3:23-38",
+      "luk 3:25"
+    ],
+    "father": "maath",
+    "mother": null,
+    "spouses": [],
+    "children": [
+      "esli"
+    ],
+    "relations": [
+      {
+        "to": "jesus",
+        "type": "ancestor of",
+        "ref": "luk 3:25"
+      }
+    ],
+    "search": {
+      "names": [
+        "Naggai"
+      ],
+      "books": [
+        "luk:3"
+      ]
+    }
+  },
+  {
+    "id": "maath",
+    "name": "Maath",
+    "aliases": [],
+    "gender": "m",
+    "role": "Ancestor of Jesus (Luke 3)",
+    "era": "Return & Restoration",
+    "summary": "Maath, son of Mattathias, appears only in Luke's genealogy of Jesus, which runs from Joseph back through David's son Nathan to Adam; he is listed as the father of Naggai (Lk 3:26).",
+    "catholic": "",
+    "know": [
+      "Named only in Luke's genealogy (Lk 3:26).",
+      "Son of Mattathias; father of Naggai."
+    ],
+    "keyPassages": [
+      "luk 3:23-38",
+      "luk 3:26"
+    ],
+    "father": "mattathias-luke-3-26",
+    "mother": null,
+    "spouses": [],
+    "children": [
+      "naggai"
+    ],
+    "relations": [
+      {
+        "to": "jesus",
+        "type": "ancestor of",
+        "ref": "luk 3:26"
+      }
+    ],
+    "search": {
+      "names": [
+        "Maath"
+      ],
+      "books": [
+        "luk:3"
+      ]
+    }
+  },
+  {
+    "id": "mattathias-luke-3-26",
+    "name": "Mattathias",
+    "aliases": [],
+    "gender": "m",
+    "role": "Ancestor of Jesus (Luke 3)",
+    "era": "Return & Restoration",
+    "summary": "Mattathias, son of Semein, appears only in Luke's genealogy of Jesus, which runs from Joseph back through David's son Nathan to Adam; he is listed as the father of Maath (Lk 3:26).",
+    "catholic": "",
+    "know": [
+      "Named only in Luke's genealogy (Lk 3:26).",
+      "Son of Semein; father of Maath."
+    ],
+    "keyPassages": [
+      "luk 3:23-38",
+      "luk 3:26"
+    ],
+    "father": "semein",
+    "mother": null,
+    "spouses": [],
+    "children": [
+      "maath"
+    ],
+    "relations": [
+      {
+        "to": "jesus",
+        "type": "ancestor of",
+        "ref": "luk 3:26"
+      }
+    ],
+    "search": {
+      "names": [
+        "Mattathias"
+      ],
+      "books": [
+        "luk:3"
+      ]
+    }
+  },
+  {
+    "id": "semein",
+    "name": "Semein",
+    "aliases": [],
+    "gender": "m",
+    "role": "Ancestor of Jesus (Luke 3)",
+    "era": "Return & Restoration",
+    "summary": "Semein, son of Joseph, appears only in Luke's genealogy of Jesus, which runs from Joseph back through David's son Nathan to Adam; he is listed as the father of Mattathias (Lk 3:26).",
+    "catholic": "",
+    "know": [
+      "Named only in Luke's genealogy (Lk 3:26).",
+      "Son of Joseph; father of Mattathias."
+    ],
+    "keyPassages": [
+      "luk 3:23-38",
+      "luk 3:26"
+    ],
+    "father": "joseph-luke-3-26",
+    "mother": null,
+    "spouses": [],
+    "children": [
+      "mattathias-luke-3-26"
+    ],
+    "relations": [
+      {
+        "to": "jesus",
+        "type": "ancestor of",
+        "ref": "luk 3:26"
+      }
+    ],
+    "search": {
+      "names": [
+        "Semein"
+      ],
+      "books": [
+        "luk:3"
+      ]
+    }
+  },
+  {
+    "id": "joseph-luke-3-26",
+    "name": "Joseph",
+    "aliases": [],
+    "gender": "m",
+    "role": "Ancestor of Jesus (Luke 3)",
+    "era": "Return & Restoration",
+    "summary": "Joseph, son of Judah, appears only in Luke's genealogy of Jesus, which runs from Joseph back through David's son Nathan to Adam; he is listed as the father of Semein (Lk 3:26).",
+    "catholic": "",
+    "know": [
+      "Named only in Luke's genealogy (Lk 3:26).",
+      "Son of Judah; father of Semein."
+    ],
+    "keyPassages": [
+      "luk 3:23-38",
+      "luk 3:26"
+    ],
+    "father": "judah-luke-3-26",
+    "mother": null,
+    "spouses": [],
+    "children": [
+      "semein"
+    ],
+    "relations": [
+      {
+        "to": "jesus",
+        "type": "ancestor of",
+        "ref": "luk 3:26"
+      }
+    ],
+    "search": {
+      "names": [
+        "Joseph"
+      ],
+      "books": [
+        "luk:3"
+      ]
+    }
+  },
+  {
+    "id": "judah-luke-3-26",
+    "name": "Judah",
+    "aliases": [],
+    "gender": "m",
+    "role": "Ancestor of Jesus (Luke 3)",
+    "era": "Return & Restoration",
+    "summary": "Judah, son of Joanan, appears only in Luke's genealogy of Jesus, which runs from Joseph back through David's son Nathan to Adam; he is listed as the father of Joseph (Lk 3:26).",
+    "catholic": "",
+    "know": [
+      "Named only in Luke's genealogy (Lk 3:26).",
+      "Son of Joanan; father of Joseph."
+    ],
+    "keyPassages": [
+      "luk 3:23-38",
+      "luk 3:26"
+    ],
+    "father": "joanan",
+    "mother": null,
+    "spouses": [],
+    "children": [
+      "joseph-luke-3-26"
+    ],
+    "relations": [
+      {
+        "to": "jesus",
+        "type": "ancestor of",
+        "ref": "luk 3:26"
+      }
+    ],
+    "search": {
+      "names": [
+        "Judah"
+      ],
+      "books": [
+        "luk:3"
+      ]
+    }
+  },
+  {
+    "id": "joanan",
+    "name": "Joanan",
+    "aliases": [],
+    "gender": "m",
+    "role": "Ancestor of Jesus (Luke 3)",
+    "era": "Return & Restoration",
+    "summary": "Joanan, son of Rhesa, appears only in Luke's genealogy of Jesus, which runs from Joseph back through David's son Nathan to Adam; he is listed as the father of Judah (Lk 3:27).",
+    "catholic": "",
+    "know": [
+      "Named only in Luke's genealogy (Lk 3:27).",
+      "Son of Rhesa; father of Judah."
+    ],
+    "keyPassages": [
+      "luk 3:23-38",
+      "luk 3:27"
+    ],
+    "father": "rhesa",
+    "mother": null,
+    "spouses": [],
+    "children": [
+      "judah-luke-3-26"
+    ],
+    "relations": [
+      {
+        "to": "jesus",
+        "type": "ancestor of",
+        "ref": "luk 3:27"
+      }
+    ],
+    "search": {
+      "names": [
+        "Joanan"
+      ],
+      "books": [
+        "luk:3"
+      ]
+    }
+  },
+  {
+    "id": "rhesa",
+    "name": "Rhesa",
+    "aliases": [],
+    "gender": "m",
+    "role": "Ancestor of Jesus (Luke 3)",
+    "era": "Return & Restoration",
+    "summary": "Rhesa, son of Zerubbabel, appears only in Luke's genealogy of Jesus, which runs from Joseph back through David's son Nathan to Adam; he is listed as the father of Joanan (Lk 3:27).",
+    "catholic": "Luke traces Jesus' ancestry back to Adam, 'the son of God' (Lk 3:38), showing him as Saviour of the whole human race; unlike Matthew, his line descends through David's son Nathan rather than Solomon.",
+    "know": [
+      "Named only in Luke's genealogy (Lk 3:27).",
+      "Son of Zerubbabel; father of Joanan.",
+      "Luke's line leaves Matthew's at Zerubbabel: Matthew continues through Abiud, Luke through Rhesa."
+    ],
+    "keyPassages": [
+      "luk 3:23-38",
+      "luk 3:27"
+    ],
+    "father": "zerubbabel",
+    "mother": null,
+    "spouses": [],
+    "children": [
+      "joanan"
+    ],
+    "relations": [
+      {
+        "to": "jesus",
+        "type": "ancestor of",
+        "ref": "luk 3:27"
+      }
+    ],
+    "search": {
+      "names": [
+        "Rhesa"
+      ],
+      "books": [
+        "luk:3"
+      ]
+    }
+  },
+  {
+    "id": "neri",
+    "name": "Neri",
+    "aliases": [],
+    "gender": "m",
+    "role": "Ancestor of Jesus (Luke 3)",
+    "era": "Exile",
+    "summary": "Neri, son of Melchi, appears only in Luke's genealogy of Jesus, which runs from Joseph back through David's son Nathan to Adam; he is listed as the father of Shealtiel (Lk 3:27).",
+    "catholic": "Luke traces Jesus' ancestry back to Adam, 'the son of God' (Lk 3:38), showing him as Saviour of the whole human race; unlike Matthew, his line descends through David's son Nathan rather than Solomon.",
+    "know": [
+      "Named only in Luke's genealogy (Lk 3:27).",
+      "Son of Melchi; father of Shealtiel.",
+      "Luke makes him Shealtiel's father, whereas Matthew 1:12 and 1 Chronicles 3:17 give Jechoniah."
+    ],
+    "keyPassages": [
+      "luk 3:23-38",
+      "luk 3:27"
+    ],
+    "father": "melchi-luke-3-28",
+    "mother": null,
+    "spouses": [],
+    "children": [],
+    "relations": [
+      {
+        "to": "jesus",
+        "type": "ancestor of",
+        "ref": "luk 3:27"
+      },
+      {
+        "to": "shealtiel",
+        "type": "father of (per Luke 3:27; Matthew 1:12 gives Jechoniah)",
+        "ref": "luk 3:27"
+      }
+    ],
+    "search": {
+      "names": [
+        "Neri"
+      ],
+      "books": [
+        "luk:3"
+      ]
+    }
+  },
+  {
+    "id": "melchi-luke-3-28",
+    "name": "Melchi",
+    "aliases": [],
+    "gender": "m",
+    "role": "Ancestor of Jesus (Luke 3)",
+    "era": "Divided Kingdom",
+    "summary": "Melchi, son of Addi, appears only in Luke's genealogy of Jesus, which runs from Joseph back through David's son Nathan to Adam; he is listed as the father of Neri (Lk 3:28).",
+    "catholic": "",
+    "know": [
+      "Named only in Luke's genealogy (Lk 3:28).",
+      "Son of Addi; father of Neri."
+    ],
+    "keyPassages": [
+      "luk 3:23-38",
+      "luk 3:28"
+    ],
+    "father": "addi",
+    "mother": null,
+    "spouses": [],
+    "children": [
+      "neri"
+    ],
+    "relations": [
+      {
+        "to": "jesus",
+        "type": "ancestor of",
+        "ref": "luk 3:28"
+      }
+    ],
+    "search": {
+      "names": [
+        "Melchi"
+      ],
+      "books": [
+        "luk:3"
+      ]
+    }
+  },
+  {
+    "id": "addi",
+    "name": "Addi",
+    "aliases": [],
+    "gender": "m",
+    "role": "Ancestor of Jesus (Luke 3)",
+    "era": "Divided Kingdom",
+    "summary": "Addi, son of Cosam, appears only in Luke's genealogy of Jesus, which runs from Joseph back through David's son Nathan to Adam; he is listed as the father of Melchi (Lk 3:28).",
+    "catholic": "",
+    "know": [
+      "Named only in Luke's genealogy (Lk 3:28).",
+      "Son of Cosam; father of Melchi."
+    ],
+    "keyPassages": [
+      "luk 3:23-38",
+      "luk 3:28"
+    ],
+    "father": "cosam",
+    "mother": null,
+    "spouses": [],
+    "children": [
+      "melchi-luke-3-28"
+    ],
+    "relations": [
+      {
+        "to": "jesus",
+        "type": "ancestor of",
+        "ref": "luk 3:28"
+      }
+    ],
+    "search": {
+      "names": [
+        "Addi"
+      ],
+      "books": [
+        "luk:3"
+      ]
+    }
+  },
+  {
+    "id": "cosam",
+    "name": "Cosam",
+    "aliases": [],
+    "gender": "m",
+    "role": "Ancestor of Jesus (Luke 3)",
+    "era": "Divided Kingdom",
+    "summary": "Cosam, son of Elmodam, appears only in Luke's genealogy of Jesus, which runs from Joseph back through David's son Nathan to Adam; he is listed as the father of Addi (Lk 3:28).",
+    "catholic": "",
+    "know": [
+      "Named only in Luke's genealogy (Lk 3:28).",
+      "Son of Elmodam; father of Addi."
+    ],
+    "keyPassages": [
+      "luk 3:23-38",
+      "luk 3:28"
+    ],
+    "father": "elmodam",
+    "mother": null,
+    "spouses": [],
+    "children": [
+      "addi"
+    ],
+    "relations": [
+      {
+        "to": "jesus",
+        "type": "ancestor of",
+        "ref": "luk 3:28"
+      }
+    ],
+    "search": {
+      "names": [
+        "Cosam"
+      ],
+      "books": [
+        "luk:3"
+      ]
+    }
+  },
+  {
+    "id": "elmodam",
+    "name": "Elmodam",
+    "aliases": [],
+    "gender": "m",
+    "role": "Ancestor of Jesus (Luke 3)",
+    "era": "Divided Kingdom",
+    "summary": "Elmodam, son of Er, appears only in Luke's genealogy of Jesus, which runs from Joseph back through David's son Nathan to Adam; he is listed as the father of Cosam (Lk 3:28).",
+    "catholic": "",
+    "know": [
+      "Named only in Luke's genealogy (Lk 3:28).",
+      "Son of Er; father of Cosam."
+    ],
+    "keyPassages": [
+      "luk 3:23-38",
+      "luk 3:28"
+    ],
+    "father": "er-luke-3-28",
+    "mother": null,
+    "spouses": [],
+    "children": [
+      "cosam"
+    ],
+    "relations": [
+      {
+        "to": "jesus",
+        "type": "ancestor of",
+        "ref": "luk 3:28"
+      }
+    ],
+    "search": {
+      "names": [
+        "Elmodam"
+      ],
+      "books": [
+        "luk:3"
+      ]
+    }
+  },
+  {
+    "id": "er-luke-3-28",
+    "name": "Er",
+    "aliases": [],
+    "gender": "m",
+    "role": "Ancestor of Jesus (Luke 3)",
+    "era": "Divided Kingdom",
+    "summary": "Er, son of Jose, appears only in Luke's genealogy of Jesus, which runs from Joseph back through David's son Nathan to Adam; he is listed as the father of Elmodam (Lk 3:28).",
+    "catholic": "",
+    "know": [
+      "Named only in Luke's genealogy (Lk 3:28).",
+      "Son of Jose; father of Elmodam."
+    ],
+    "keyPassages": [
+      "luk 3:23-38",
+      "luk 3:28"
+    ],
+    "father": "jose-luke-3-29",
+    "mother": null,
+    "spouses": [],
+    "children": [
+      "elmodam"
+    ],
+    "relations": [
+      {
+        "to": "jesus",
+        "type": "ancestor of",
+        "ref": "luk 3:28"
+      }
+    ],
+    "search": {
+      "names": [
+        "Er"
+      ],
+      "books": [
+        "luk:3"
+      ]
+    }
+  },
+  {
+    "id": "jose-luke-3-29",
+    "name": "Jose",
+    "aliases": [],
+    "gender": "m",
+    "role": "Ancestor of Jesus (Luke 3)",
+    "era": "Divided Kingdom",
+    "summary": "Jose, son of Eliezer, appears only in Luke's genealogy of Jesus, which runs from Joseph back through David's son Nathan to Adam; he is listed as the father of Er (Lk 3:29).",
+    "catholic": "",
+    "know": [
+      "Named only in Luke's genealogy (Lk 3:29).",
+      "Son of Eliezer; father of Er."
+    ],
+    "keyPassages": [
+      "luk 3:23-38",
+      "luk 3:29"
+    ],
+    "father": "eliezer-luke-3-29",
+    "mother": null,
+    "spouses": [],
+    "children": [
+      "er-luke-3-28"
+    ],
+    "relations": [
+      {
+        "to": "jesus",
+        "type": "ancestor of",
+        "ref": "luk 3:29"
+      }
+    ],
+    "search": {
+      "names": [
+        "Jose"
+      ],
+      "books": [
+        "luk:3"
+      ]
+    }
+  },
+  {
+    "id": "eliezer-luke-3-29",
+    "name": "Eliezer",
+    "aliases": [],
+    "gender": "m",
+    "role": "Ancestor of Jesus (Luke 3)",
+    "era": "Divided Kingdom",
+    "summary": "Eliezer, son of Jorim, appears only in Luke's genealogy of Jesus, which runs from Joseph back through David's son Nathan to Adam; he is listed as the father of Jose (Lk 3:29).",
+    "catholic": "",
+    "know": [
+      "Named only in Luke's genealogy (Lk 3:29).",
+      "Son of Jorim; father of Jose."
+    ],
+    "keyPassages": [
+      "luk 3:23-38",
+      "luk 3:29"
+    ],
+    "father": "jorim",
+    "mother": null,
+    "spouses": [],
+    "children": [
+      "jose-luke-3-29"
+    ],
+    "relations": [
+      {
+        "to": "jesus",
+        "type": "ancestor of",
+        "ref": "luk 3:29"
+      }
+    ],
+    "search": {
+      "names": [
+        "Eliezer"
+      ],
+      "books": [
+        "luk:3"
+      ]
+    }
+  },
+  {
+    "id": "jorim",
+    "name": "Jorim",
+    "aliases": [],
+    "gender": "m",
+    "role": "Ancestor of Jesus (Luke 3)",
+    "era": "Divided Kingdom",
+    "summary": "Jorim, son of Matthat, appears only in Luke's genealogy of Jesus, which runs from Joseph back through David's son Nathan to Adam; he is listed as the father of Eliezer (Lk 3:29).",
+    "catholic": "",
+    "know": [
+      "Named only in Luke's genealogy (Lk 3:29).",
+      "Son of Matthat; father of Eliezer."
+    ],
+    "keyPassages": [
+      "luk 3:23-38",
+      "luk 3:29"
+    ],
+    "father": "matthat-luke-3-29",
+    "mother": null,
+    "spouses": [],
+    "children": [
+      "eliezer-luke-3-29"
+    ],
+    "relations": [
+      {
+        "to": "jesus",
+        "type": "ancestor of",
+        "ref": "luk 3:29"
+      }
+    ],
+    "search": {
+      "names": [
+        "Jorim"
+      ],
+      "books": [
+        "luk:3"
+      ]
+    }
+  },
+  {
+    "id": "matthat-luke-3-29",
+    "name": "Matthat",
+    "aliases": [],
+    "gender": "m",
+    "role": "Ancestor of Jesus (Luke 3)",
+    "era": "Divided Kingdom",
+    "summary": "Matthat, son of Levi, appears only in Luke's genealogy of Jesus, which runs from Joseph back through David's son Nathan to Adam; he is listed as the father of Jorim (Lk 3:29).",
+    "catholic": "",
+    "know": [
+      "Named only in Luke's genealogy (Lk 3:29).",
+      "Son of Levi; father of Jorim."
+    ],
+    "keyPassages": [
+      "luk 3:23-38",
+      "luk 3:29"
+    ],
+    "father": "levi-luke-3-29",
+    "mother": null,
+    "spouses": [],
+    "children": [
+      "jorim"
+    ],
+    "relations": [
+      {
+        "to": "jesus",
+        "type": "ancestor of",
+        "ref": "luk 3:29"
+      }
+    ],
+    "search": {
+      "names": [
+        "Matthat"
+      ],
+      "books": [
+        "luk:3"
+      ]
+    }
+  },
+  {
+    "id": "levi-luke-3-29",
+    "name": "Levi",
+    "aliases": [],
+    "gender": "m",
+    "role": "Ancestor of Jesus (Luke 3)",
+    "era": "Divided Kingdom",
+    "summary": "Levi, son of Simeon, appears only in Luke's genealogy of Jesus, which runs from Joseph back through David's son Nathan to Adam; he is listed as the father of Matthat (Lk 3:29).",
+    "catholic": "",
+    "know": [
+      "Named only in Luke's genealogy (Lk 3:29).",
+      "Son of Simeon; father of Matthat."
+    ],
+    "keyPassages": [
+      "luk 3:23-38",
+      "luk 3:29"
+    ],
+    "father": "simeon-luke-3-30",
+    "mother": null,
+    "spouses": [],
+    "children": [
+      "matthat-luke-3-29"
+    ],
+    "relations": [
+      {
+        "to": "jesus",
+        "type": "ancestor of",
+        "ref": "luk 3:29"
+      }
+    ],
+    "search": {
+      "names": [
+        "Levi"
+      ],
+      "books": [
+        "luk:3"
+      ]
+    }
+  },
+  {
+    "id": "simeon-luke-3-30",
+    "name": "Simeon",
+    "aliases": [],
+    "gender": "m",
+    "role": "Ancestor of Jesus (Luke 3)",
+    "era": "Divided Kingdom",
+    "summary": "Simeon, son of Judah, appears only in Luke's genealogy of Jesus, which runs from Joseph back through David's son Nathan to Adam; he is listed as the father of Levi (Lk 3:30).",
+    "catholic": "",
+    "know": [
+      "Named only in Luke's genealogy (Lk 3:30).",
+      "Son of Judah; father of Levi."
+    ],
+    "keyPassages": [
+      "luk 3:23-38",
+      "luk 3:30"
+    ],
+    "father": "judah-luke-3-30",
+    "mother": null,
+    "spouses": [],
+    "children": [
+      "levi-luke-3-29"
+    ],
+    "relations": [
+      {
+        "to": "jesus",
+        "type": "ancestor of",
+        "ref": "luk 3:30"
+      }
+    ],
+    "search": {
+      "names": [
+        "Simeon"
+      ],
+      "books": [
+        "luk:3"
+      ]
+    }
+  },
+  {
+    "id": "judah-luke-3-30",
+    "name": "Judah",
+    "aliases": [],
+    "gender": "m",
+    "role": "Ancestor of Jesus (Luke 3)",
+    "era": "Divided Kingdom",
+    "summary": "Judah, son of Joseph, appears only in Luke's genealogy of Jesus, which runs from Joseph back through David's son Nathan to Adam; he is listed as the father of Simeon (Lk 3:30).",
+    "catholic": "",
+    "know": [
+      "Named only in Luke's genealogy (Lk 3:30).",
+      "Son of Joseph; father of Simeon."
+    ],
+    "keyPassages": [
+      "luk 3:23-38",
+      "luk 3:30"
+    ],
+    "father": "joseph-luke-3-30",
+    "mother": null,
+    "spouses": [],
+    "children": [
+      "simeon-luke-3-30"
+    ],
+    "relations": [
+      {
+        "to": "jesus",
+        "type": "ancestor of",
+        "ref": "luk 3:30"
+      }
+    ],
+    "search": {
+      "names": [
+        "Judah"
+      ],
+      "books": [
+        "luk:3"
+      ]
+    }
+  },
+  {
+    "id": "joseph-luke-3-30",
+    "name": "Joseph",
+    "aliases": [],
+    "gender": "m",
+    "role": "Ancestor of Jesus (Luke 3)",
+    "era": "Divided Kingdom",
+    "summary": "Joseph, son of Jonan, appears only in Luke's genealogy of Jesus, which runs from Joseph back through David's son Nathan to Adam; he is listed as the father of Judah (Lk 3:30).",
+    "catholic": "",
+    "know": [
+      "Named only in Luke's genealogy (Lk 3:30).",
+      "Son of Jonan; father of Judah."
+    ],
+    "keyPassages": [
+      "luk 3:23-38",
+      "luk 3:30"
+    ],
+    "father": "jonan",
+    "mother": null,
+    "spouses": [],
+    "children": [
+      "judah-luke-3-30"
+    ],
+    "relations": [
+      {
+        "to": "jesus",
+        "type": "ancestor of",
+        "ref": "luk 3:30"
+      }
+    ],
+    "search": {
+      "names": [
+        "Joseph"
+      ],
+      "books": [
+        "luk:3"
+      ]
+    }
+  },
+  {
+    "id": "jonan",
+    "name": "Jonan",
+    "aliases": [],
+    "gender": "m",
+    "role": "Ancestor of Jesus (Luke 3)",
+    "era": "Divided Kingdom",
+    "summary": "Jonan, son of Eliakim, appears only in Luke's genealogy of Jesus, which runs from Joseph back through David's son Nathan to Adam; he is listed as the father of Joseph (Lk 3:30).",
+    "catholic": "",
+    "know": [
+      "Named only in Luke's genealogy (Lk 3:30).",
+      "Son of Eliakim; father of Joseph."
+    ],
+    "keyPassages": [
+      "luk 3:23-38",
+      "luk 3:30"
+    ],
+    "father": "eliakim-luke-3-30",
+    "mother": null,
+    "spouses": [],
+    "children": [
+      "joseph-luke-3-30"
+    ],
+    "relations": [
+      {
+        "to": "jesus",
+        "type": "ancestor of",
+        "ref": "luk 3:30"
+      }
+    ],
+    "search": {
+      "names": [
+        "Jonan"
+      ],
+      "books": [
+        "luk:3"
+      ]
+    }
+  },
+  {
+    "id": "eliakim-luke-3-30",
+    "name": "Eliakim",
+    "aliases": [],
+    "gender": "m",
+    "role": "Ancestor of Jesus (Luke 3)",
+    "era": "Divided Kingdom",
+    "summary": "Eliakim, son of Melea, appears only in Luke's genealogy of Jesus, which runs from Joseph back through David's son Nathan to Adam; he is listed as the father of Jonan (Lk 3:30).",
+    "catholic": "",
+    "know": [
+      "Named only in Luke's genealogy (Lk 3:30).",
+      "Son of Melea; father of Jonan."
+    ],
+    "keyPassages": [
+      "luk 3:23-38",
+      "luk 3:30"
+    ],
+    "father": "melea",
+    "mother": null,
+    "spouses": [],
+    "children": [
+      "jonan"
+    ],
+    "relations": [
+      {
+        "to": "jesus",
+        "type": "ancestor of",
+        "ref": "luk 3:30"
+      }
+    ],
+    "search": {
+      "names": [
+        "Eliakim"
+      ],
+      "books": [
+        "luk:3"
+      ]
+    }
+  },
+  {
+    "id": "melea",
+    "name": "Melea",
+    "aliases": [],
+    "gender": "m",
+    "role": "Ancestor of Jesus (Luke 3)",
+    "era": "Divided Kingdom",
+    "summary": "Melea, son of Menan, appears only in Luke's genealogy of Jesus, which runs from Joseph back through David's son Nathan to Adam; he is listed as the father of Eliakim (Lk 3:31).",
+    "catholic": "",
+    "know": [
+      "Named only in Luke's genealogy (Lk 3:31).",
+      "Son of Menan; father of Eliakim."
+    ],
+    "keyPassages": [
+      "luk 3:23-38",
+      "luk 3:31"
+    ],
+    "father": "menan",
+    "mother": null,
+    "spouses": [],
+    "children": [
+      "eliakim-luke-3-30"
+    ],
+    "relations": [
+      {
+        "to": "jesus",
+        "type": "ancestor of",
+        "ref": "luk 3:31"
+      }
+    ],
+    "search": {
+      "names": [
+        "Melea"
+      ],
+      "books": [
+        "luk:3"
+      ]
+    }
+  },
+  {
+    "id": "menan",
+    "name": "Menan",
+    "aliases": [],
+    "gender": "m",
+    "role": "Ancestor of Jesus (Luke 3)",
+    "era": "Divided Kingdom",
+    "summary": "Menan, son of Mattatha, appears only in Luke's genealogy of Jesus, which runs from Joseph back through David's son Nathan to Adam; he is listed as the father of Melea (Lk 3:31).",
+    "catholic": "",
+    "know": [
+      "Named only in Luke's genealogy (Lk 3:31).",
+      "Son of Mattatha; father of Melea."
+    ],
+    "keyPassages": [
+      "luk 3:23-38",
+      "luk 3:31"
+    ],
+    "father": "mattatha",
+    "mother": null,
+    "spouses": [],
+    "children": [
+      "melea"
+    ],
+    "relations": [
+      {
+        "to": "jesus",
+        "type": "ancestor of",
+        "ref": "luk 3:31"
+      }
+    ],
+    "search": {
+      "names": [
+        "Menan"
+      ],
+      "books": [
+        "luk:3"
+      ]
+    }
+  },
+  {
+    "id": "mattatha",
+    "name": "Mattatha",
+    "aliases": [],
+    "gender": "m",
+    "role": "Ancestor of Jesus (Luke 3)",
+    "era": "United Monarchy",
+    "summary": "Mattatha, son of Nathan son of David, appears only in Luke's genealogy of Jesus, which runs from Joseph back through David's son Nathan to Adam; he is listed as the father of Menan (Lk 3:31).",
+    "catholic": "Luke traces Jesus' ancestry back to Adam, 'the son of God' (Lk 3:38), showing him as Saviour of the whole human race; unlike Matthew, his line descends through David's son Nathan rather than Solomon.",
+    "know": [
+      "Named only in Luke's genealogy (Lk 3:31).",
+      "Son of Nathan son of David; father of Menan."
+    ],
+    "keyPassages": [
+      "luk 3:23-38",
+      "luk 3:31"
+    ],
+    "father": "nathan-son-of-david",
+    "mother": null,
+    "spouses": [],
+    "children": [
+      "menan"
+    ],
+    "relations": [
+      {
+        "to": "jesus",
+        "type": "ancestor of",
+        "ref": "luk 3:31"
+      }
+    ],
+    "search": {
+      "names": [
+        "Mattatha"
+      ],
+      "books": [
+        "luk:3"
+      ]
+    }
+  },
+  {
+    "id": "cainan-son-of-arphaxad",
+    "name": "Cainan, son of Arphaxad",
+    "aliases": [],
+    "gender": "m",
+    "role": "Ancestor of Jesus (Luke 3)",
+    "era": "Primeval",
+    "summary": "Cainan appears in Luke's genealogy between Arphaxad and Shelah ('the son of Shelah, the son of Cainan, the son of Arphaxad', Lk 3:35-36). He is absent from the Hebrew text of Genesis 11 but present in the Greek Septuagint, which Luke follows.",
+    "catholic": "",
+    "know": [
+      "Named only in Luke 3:36 (and the Septuagint of Genesis 11).",
+      "Distinct from Cainan (Kenan) son of Enos in Luke 3:37.",
+      "Shows Luke's use of the Greek Old Testament."
+    ],
+    "keyPassages": [
+      "luk 3:23-38",
+      "luk 3:36"
+    ],
+    "father": null,
+    "mother": null,
+    "spouses": [],
+    "children": [],
+    "relations": [
+      {
+        "to": "jesus",
+        "type": "ancestor of",
+        "ref": "luk 3:36"
+      },
+      {
+        "to": "shem",
+        "type": "descendant of",
+        "ref": "luk 3:36"
+      }
+    ],
+    "search": {
+      "names": [
+        "Cainan"
+      ],
+      "books": [
+        "luk:3"
+      ]
+    }
+  },
+  {
+    "id": "peter",
+    "name": "Peter",
+    "aliases": [
+      "Simon",
+      "Simon Peter",
+      "Cephas",
+      "Simon Bar Jonah"
+    ],
+    "gender": "m",
+    "role": "Apostle; first Pope",
+    "era": "Life of Christ",
+    "summary": "Simon, a Galilean fisherman from Bethsaida living at Capernaum, was brought to Jesus by his brother Andrew and renamed Cephas, 'Rock' (Peter). He confessed Jesus as 'the Christ, the Son of the living God', received the keys of the Kingdom, witnessed the Transfiguration and the agony in Gethsemane, and denied Jesus three times during the Passion. The risen Lord appeared to him and three times charged him to feed his sheep; in Acts he leads the Church, preaching at Pentecost and receiving the first Gentiles.",
+    "catholic": "Jesus' words 'You are Peter, and on this rock I will build my church ... I will give you the keys of the Kingdom of Heaven' (Mt 16:18-19) ground the Petrine office: Peter is to strengthen his brethren (Lk 22:32) and feed Christ's flock (Jn 21:15-17), a ministry continued by his successors, the Bishops of Rome (CCC 552-553, 881). The Church is built on the faith he confessed (CCC 424). Tradition holds he was crucified head downward in Rome under Nero, and St Peter's Basilica stands over his tomb. His triple denial and triple profession of love make him a model of repentance and mercy.",
+    "know": [
+      "Son of John/Jonah and brother of Andrew (Jn 1:40-42; Mt 16:17).",
+      "Married: Jesus healed his mother-in-law (Mk 1:29-31).",
+      "Always named first in the lists of the Twelve (Mt 10:2).",
+      "Traditionally the author of 1 and 2 Peter; Mark's Gospel is said to preserve his preaching.",
+      "Feasts June 29 (Sts Peter and Paul) and February 22 (Chair of St Peter)."
+    ],
+    "feast": "June 29 (Sts Peter and Paul); February 22 (Chair of St Peter)",
+    "keyPassages": [
+      "jhn 1:40-42",
+      "luk 5:1-11",
+      "mat 14:22-33",
+      "mat 16:13-20",
+      "luk 22:31-34",
+      "mrk 14:66-72",
+      "jhn 21:15-19",
+      "act 2:14-41"
+    ],
+    "father": "john-father-of-peter",
+    "mother": null,
+    "spouses": [],
+    "children": [],
+    "relations": [
+      {
+        "to": "jesus",
+        "type": "apostle of; confessed him the Christ",
+        "ref": "mat 16:16"
+      },
+      {
+        "to": "andrew",
+        "type": "brother of",
+        "ref": "mat 4:18"
+      },
+      {
+        "to": "peters-mother-in-law",
+        "type": "son-in-law of",
+        "ref": "mrk 1:30"
+      },
+      {
+        "to": "james-son-of-zebedee",
+        "type": "fishing partner of",
+        "ref": "luk 5:10"
+      },
+      {
+        "to": "john-apostle",
+        "type": "partner of",
+        "ref": "luk 5:10"
+      },
+      {
+        "to": "john-apostle",
+        "type": "ministered with",
+        "ref": "act 3:1"
+      },
+      {
+        "to": "malchus",
+        "type": "cut off the ear of",
+        "ref": "jhn 18:10"
+      },
+      {
+        "to": "cornelius",
+        "type": "baptized the household of",
+        "ref": "act 10:44-48"
+      },
+      {
+        "to": "paul",
+        "type": "visited by; later rebuked by",
+        "ref": "gal 2:11"
+      },
+      {
+        "to": "mark",
+        "type": "calls him 'my son'",
+        "ref": "1pe 5:13"
+      },
+      {
+        "to": "james-brother-of-the-lord",
+        "type": "spoke with at the Council of Jerusalem",
+        "ref": "act 15:7-13"
+      }
+    ],
+    "search": {
+      "names": [
+        "Peter",
+        "Simon Peter",
+        "Cephas",
+        "Simon"
+      ],
+      "books": [
+        "mat:4",
+        "mat:8",
+        "mat:10",
+        "mat:14",
+        "mat:15",
+        "mat:16",
+        "mat:17",
+        "mat:18",
+        "mat:19",
+        "mat:26",
+        "mrk:1",
+        "mrk:3",
+        "mrk:5",
+        "mrk:8",
+        "mrk:9",
+        "mrk:10",
+        "mrk:11",
+        "mrk:13",
+        "mrk:14",
+        "mrk:16",
+        "luk:4",
+        "luk:5",
+        "luk:6",
+        "luk:8",
+        "luk:9",
+        "luk:12",
+        "luk:18",
+        "luk:22",
+        "luk:24",
+        "jhn:1",
+        "jhn:6",
+        "jhn:13",
+        "jhn:18",
+        "jhn:20",
+        "jhn:21",
+        "act:1",
+        "act:2",
+        "act:3",
+        "act:4",
+        "act:5",
+        "act:8",
+        "act:9",
+        "act:10",
+        "act:11",
+        "act:12",
+        "act:15",
+        "1co:1",
+        "1co:3",
+        "1co:9",
+        "1co:15",
+        "gal:1",
+        "gal:2",
+        "1pe:1",
+        "2pe:1"
+      ]
+    }
+  },
+  {
+    "id": "andrew",
+    "name": "Andrew",
+    "aliases": [],
+    "gender": "m",
+    "role": "Apostle",
+    "era": "Life of Christ",
+    "summary": "A fisherman of Bethsaida and first a disciple of John the Baptist, Andrew followed Jesus when John called him the Lamb of God, and at once brought his brother Simon to Jesus. He pointed out the boy with five loaves and two fish at the feeding of the five thousand, and with Philip brought the Greeks who wished to see Jesus.",
+    "catholic": "The Eastern Church calls him Protokletos, 'the First-Called' (Jn 1:40). Tradition holds he preached around the Black Sea and Greece and was crucified at Patras on an X-shaped cross, the 'St Andrew's cross'. He is patron of Scotland, Russia and Greece, and of the Ecumenical Patriarchate of Constantinople, so his feast is a sign of Catholic-Orthodox friendship.",
+    "know": [
+      "Brother of Simon Peter; son of John/Jonah.",
+      "First a disciple of John the Baptist (Jn 1:35-40).",
+      "Brought Peter to Jesus (Jn 1:41-42).",
+      "Feast November 30."
+    ],
+    "feast": "November 30",
+    "keyPassages": [
+      "jhn 1:35-42",
+      "mat 4:18-20",
+      "jhn 6:5-9",
+      "jhn 12:20-22",
+      "mrk 13:3"
+    ],
+    "father": "john-father-of-peter",
+    "mother": null,
+    "spouses": [],
+    "children": [],
+    "relations": [
+      {
+        "to": "peter",
+        "type": "brother of; brought him to Jesus",
+        "ref": "jhn 1:40-42"
+      },
+      {
+        "to": "john-the-baptist",
+        "type": "disciple of",
+        "ref": "jhn 1:35-40"
+      },
+      {
+        "to": "philip-apostle",
+        "type": "townsman and companion of",
+        "ref": "jhn 12:22"
+      }
+    ],
+    "search": {
+      "names": [
+        "Andrew"
+      ],
+      "books": null
+    }
+  },
+  {
+    "id": "john-father-of-peter",
+    "name": "John (Jonah), father of Peter",
+    "aliases": [
+      "Jonah",
+      "Bar Jonah"
+    ],
+    "gender": "m",
+    "role": "Father of Peter and Andrew",
+    "era": "Life of Christ",
+    "summary": "The father of Simon Peter and Andrew is named in Jesus' words 'Simon Bar Jonah' (Mt 16:17) and 'Simon son of Jonah' (Jn 1:42; 21:15-17).",
+    "catholic": "",
+    "know": [
+      "The World English Bible reads 'Jonah'; many manuscripts and translations of John read 'John'.",
+      "Father of the apostles Peter and Andrew."
+    ],
+    "keyPassages": [
+      "mat 16:17",
+      "jhn 1:42",
+      "jhn 21:15-17"
+    ],
+    "father": null,
+    "mother": null,
+    "spouses": [],
+    "children": [
+      "peter",
+      "andrew"
+    ],
+    "relations": [],
+    "search": {
+      "names": [
+        "Bar Jonah",
+        "son of Jonah"
+      ],
+      "books": [
+        "mat:16",
+        "jhn:1",
+        "jhn:21"
+      ]
+    }
+  },
+  {
+    "id": "peters-mother-in-law",
+    "name": "Peter's mother-in-law",
+    "aliases": [],
+    "gender": "f",
+    "role": "Healed by Jesus",
+    "era": "Life of Christ",
+    "summary": "Simon Peter's mother-in-law lay sick with a fever in the house at Capernaum; Jesus took her by the hand, the fever left her, and she began to serve them.",
+    "catholic": "Her immediate service after healing is read as a model of the grace that frees us for service. The episode also shows that Peter was married.",
+    "know": [
+      "Unnamed in Scripture.",
+      "Healed in Peter's house at Capernaum (Mk 1:29-31).",
+      "Shows that Peter was married."
+    ],
+    "keyPassages": [
+      "mrk 1:29-31",
+      "mat 8:14-15",
+      "luk 4:38-39"
+    ],
+    "father": null,
+    "mother": null,
+    "spouses": [],
+    "children": [],
+    "relations": [
+      {
+        "to": "peter",
+        "type": "mother-in-law of",
+        "ref": "mrk 1:30"
+      },
+      {
+        "to": "jesus",
+        "type": "healed by",
+        "ref": "mrk 1:31"
+      }
+    ],
+    "search": {
+      "names": [],
+      "books": null
+    }
+  },
+  {
+    "id": "james-son-of-zebedee",
+    "name": "James, son of Zebedee",
+    "aliases": [
+      "James",
+      "Boanerges"
+    ],
+    "gender": "m",
+    "role": "Apostle",
+    "era": "Life of Christ",
+    "summary": "James and his brother John were fishermen, partners of Simon, who left their father Zebedee in the boat to follow Jesus. Named 'Boanerges', Sons of Thunder, he belonged with Peter and John to the inner circle present at the raising of Jairus's daughter, the Transfiguration and Gethsemane. He was the first of the Twelve to be martyred, put to the sword by Herod Agrippa I.",
+    "catholic": "Known as St James the Greater to distinguish him from James the Less. His request for a place of glory led Jesus to teach that he would drink his cup, fulfilled in his martyrdom (Mk 10:38-39; Acts 12:2). Tradition holds his relics rest at Santiago de Compostela, goal of the great pilgrimage, and he is patron of Spain and of pilgrims.",
+    "know": [
+      "Son of Zebedee; brother of John (Mt 4:21).",
+      "With Peter and John, witness of the Transfiguration (Mt 17:1).",
+      "First apostle martyred (Acts 12:2).",
+      "Feast July 25."
+    ],
+    "feast": "July 25",
+    "keyPassages": [
+      "mat 4:21-22",
+      "mrk 3:17",
+      "mat 17:1-8",
+      "mrk 10:35-45",
+      "luk 9:51-56",
+      "act 12:1-2"
+    ],
+    "father": "zebedee",
+    "mother": "salome",
+    "spouses": [],
+    "children": [],
+    "relations": [
+      {
+        "to": "john-apostle",
+        "type": "brother of",
+        "ref": "mat 4:21"
+      },
+      {
+        "to": "peter",
+        "type": "fishing partner of",
+        "ref": "luk 5:10"
+      },
+      {
+        "to": "herod-agrippa-i",
+        "type": "killed by",
+        "ref": "act 12:1-2"
+      }
+    ],
+    "search": {
+      "names": [
+        "James",
+        "sons of Zebedee"
+      ],
+      "books": [
+        "mat:4",
+        "mat:10",
+        "mat:17",
+        "mat:20",
+        "mat:26",
+        "mrk:1",
+        "mrk:3",
+        "mrk:5",
+        "mrk:9",
+        "mrk:10",
+        "mrk:13",
+        "mrk:14",
+        "luk:5",
+        "luk:6",
+        "luk:8",
+        "luk:9",
+        "jhn:21",
+        "act:1",
+        "act:12"
+      ]
+    }
+  },
+  {
+    "id": "john-apostle",
+    "name": "John, son of Zebedee",
+    "aliases": [
+      "John",
+      "Boanerges",
+      "the disciple whom Jesus loved"
+    ],
+    "gender": "m",
+    "role": "Apostle and Evangelist",
+    "era": "Life of Christ",
+    "summary": "John, a fisherman and brother of James, left his father Zebedee to follow Jesus and with Peter and James formed the inner circle of the Twelve. He and Peter prepared the Passover and later preached together in Jerusalem and Samaria. Catholic tradition identifies him with 'the disciple whom Jesus loved', who leaned on Jesus' breast at the Last Supper, stood at the cross and received Mary as his mother, and ran to the empty tomb.",
+    "catholic": "The Church honours John as Apostle and Evangelist, by tradition author of the Fourth Gospel, three letters and the Book of Revelation, whose symbol is the eagle. In receiving Mary at the foot of the cross (Jn 19:26-27) he represents every disciple entrusted to her motherly care (CCC 964). Paul names him a 'pillar' of the Church (Gal 2:9). Tradition holds he was exiled to Patmos and died in old age at Ephesus, the only apostle not martyred.",
+    "know": [
+      "Son of Zebedee; brother of James; called Boanerges (Mk 3:17).",
+      "Traditionally 'the disciple whom Jesus loved' (Jn 13:23; 19:26).",
+      "Took Mary into his home (Jn 19:27).",
+      "Traditionally the author of John, 1-3 John and Revelation.",
+      "Feast December 27."
+    ],
+    "feast": "December 27",
+    "keyPassages": [
+      "mrk 1:19-20",
+      "luk 9:51-56",
+      "jhn 13:23-25",
+      "jhn 19:25-27",
+      "jhn 20:2-8",
+      "act 3:1-11",
+      "act 8:14",
+      "rev 1:9"
+    ],
+    "father": "zebedee",
+    "mother": "salome",
+    "spouses": [],
+    "children": [],
+    "relations": [
+      {
+        "to": "james-son-of-zebedee",
+        "type": "brother of",
+        "ref": "mat 4:21"
+      },
+      {
+        "to": "mary-mother-of-jesus",
+        "type": "received into his home",
+        "ref": "jhn 19:27"
+      },
+      {
+        "to": "peter",
+        "type": "partner of",
+        "ref": "act 3:1"
+      },
+      {
+        "to": "paul",
+        "type": "a 'pillar' recognized by",
+        "ref": "gal 2:9"
+      }
+    ],
+    "search": {
+      "names": [
+        "John",
+        "whom Jesus loved",
+        "disciple whom he loved",
+        "sons of Zebedee"
+      ],
+      "books": [
+        "mat:4",
+        "mat:10",
+        "mat:17",
+        "mat:26",
+        "mrk:3",
+        "mrk:5",
+        "mrk:9",
+        "mrk:10",
+        "mrk:13",
+        "mrk:14",
+        "luk:5",
+        "luk:6",
+        "luk:8",
+        "luk:9",
+        "luk:22",
+        "jhn:13",
+        "jhn:19",
+        "jhn:20",
+        "jhn:21",
+        "act:3",
+        "act:4",
+        "act:8",
+        "gal:2",
+        "rev:1",
+        "rev:22"
+      ]
+    }
+  },
+  {
+    "id": "zebedee",
+    "name": "Zebedee",
+    "aliases": [],
+    "gender": "m",
+    "role": "Fisherman; father of James and John",
+    "era": "Life of Christ",
+    "summary": "Zebedee was a Galilean fisherman with hired servants, mending nets in the boat with his sons James and John when Jesus called them; they left him and followed Jesus.",
+    "catholic": "",
+    "know": [
+      "Father of the apostles James and John (Mt 4:21).",
+      "Ran a fishing business with hired men (Mk 1:20).",
+      "His wife is generally identified with Salome (compare Mt 27:56 with Mk 15:40)."
+    ],
+    "keyPassages": [
+      "mat 4:21-22",
+      "mrk 1:19-20"
+    ],
+    "father": null,
+    "mother": null,
+    "spouses": [
+      "salome"
+    ],
+    "children": [
+      "james-son-of-zebedee",
+      "john-apostle"
+    ],
+    "relations": [],
+    "search": {
+      "names": [
+        "Zebedee"
+      ],
+      "books": null
+    }
+  },
+  {
+    "id": "salome",
+    "name": "Salome",
+    "aliases": [
+      "mother of the sons of Zebedee"
+    ],
+    "gender": "f",
+    "role": "Disciple; mother of James and John",
+    "era": "Life of Christ",
+    "summary": "Salome was among the women who followed Jesus from Galilee, watched the crucifixion, and came with spices to anoint his body on Easter morning (Mk 15:40; 16:1). Comparing Mark with Matthew's 'mother of the sons of Zebedee' (Mt 27:56), she is generally identified as the mother of James and John, who asked Jesus that her sons sit at his right and left in his Kingdom.",
+    "catholic": "Her request prompted Jesus' teaching that greatness in the Kingdom means service and drinking his cup (Mt 20:20-28). Some interpreters also identify her with the sister of Jesus' mother at the cross (Jn 19:25), which would make James and John kinsmen of Jesus; this is uncertain. She is honoured among the myrrh-bearing women, first witnesses of the empty tomb.",
+    "know": [
+      "Named only in Mark (Mk 15:40; 16:1).",
+      "Generally identified with 'the mother of the sons of Zebedee' (Mt 20:20; 27:56).",
+      "Brought spices to the tomb on Easter morning."
+    ],
+    "keyPassages": [
+      "mat 20:20-28",
+      "mrk 15:40-41",
+      "mrk 16:1-8"
+    ],
+    "father": null,
+    "mother": null,
+    "spouses": [
+      "zebedee"
+    ],
+    "children": [
+      "james-son-of-zebedee",
+      "john-apostle"
+    ],
+    "relations": [
+      {
+        "to": "jesus",
+        "type": "asked places of honour for her sons from",
+        "ref": "mat 20:20-21"
+      }
+    ],
+    "search": {
+      "names": [
+        "Salome",
+        "mother of the sons of Zebedee"
+      ],
+      "books": [
+        "mat:20",
+        "mat:27",
+        "mrk:15",
+        "mrk:16"
+      ]
+    }
+  },
+  {
+    "id": "philip-apostle",
+    "name": "Philip",
+    "aliases": [],
+    "gender": "m",
+    "role": "Apostle",
+    "era": "Life of Christ",
+    "summary": "Philip of Bethsaida was called by Jesus with the words 'Follow me' and at once brought Nathanael, saying 'Come and see'. Jesus tested him before feeding the five thousand; Greeks seeking Jesus came to him; and at the Last Supper he asked, 'Lord, show us the Father'.",
+    "catholic": "Jesus' reply to Philip, 'He who has seen me has seen the Father' (Jn 14:9), is a key text for the unity of the Son with the Father. Tradition holds he preached in Asia Minor and was martyred at Hierapolis. He shares a feast with St James the Less, whose relics with his rest in the Basilica of the Twelve Apostles in Rome. He is distinct from Philip the deacon and evangelist of Acts.",
+    "know": [
+      "From Bethsaida, the town of Andrew and Peter (Jn 1:44).",
+      "Brought Nathanael to Jesus (Jn 1:45-46).",
+      "'Lord, show us the Father' (Jn 14:8).",
+      "Feast May 3, with St James the Less."
+    ],
+    "feast": "May 3 (Sts Philip and James)",
+    "keyPassages": [
+      "jhn 1:43-46",
+      "jhn 6:5-7",
+      "jhn 12:20-22",
+      "jhn 14:8-9",
+      "mat 10:3"
+    ],
+    "father": null,
+    "mother": null,
+    "spouses": [],
+    "children": [],
+    "relations": [
+      {
+        "to": "bartholomew",
+        "type": "brought Nathanael to Jesus",
+        "ref": "jhn 1:45-46"
+      },
+      {
+        "to": "andrew",
+        "type": "companion of",
+        "ref": "jhn 12:22"
+      },
+      {
+        "to": "philip-the-evangelist",
+        "type": "distinct from",
+        "ref": "act 6:5"
+      }
+    ],
+    "search": {
+      "names": [
+        "Philip"
+      ],
+      "books": [
+        "mat:10",
+        "mrk:3",
+        "luk:6",
+        "jhn",
+        "act:1"
+      ]
+    }
+  },
+  {
+    "id": "bartholomew",
+    "name": "Bartholomew (Nathanael)",
+    "aliases": [
+      "Nathanael"
+    ],
+    "gender": "m",
+    "role": "Apostle",
+    "era": "Life of Christ",
+    "summary": "Bartholomew appears in every list of the Twelve, usually beside Philip. Catholic tradition identifies him with Nathanael of Cana, whom Philip brought to Jesus: Jesus called him 'an Israelite indeed, in whom is no deceit', and he confessed, 'Rabbi, you are the Son of God! You are King of Israel!'",
+    "catholic": "The name Bartholomew is a patronymic ('son of Tolmai'), which is why he can also bear the personal name Nathanael; the identification is traditional rather than certain. Jesus' promise to him of 'angels ascending and descending on the Son of Man' (Jn 1:51) presents Christ as Jacob's ladder. Tradition holds he preached in India and Armenia and was flayed alive.",
+    "know": [
+      "Paired with Philip in the lists of the Twelve (Mt 10:3).",
+      "Traditionally identified with Nathanael of Cana (Jn 1:45-51; 21:2).",
+      "Confessed Jesus as Son of God and King of Israel (Jn 1:49).",
+      "Feast August 24."
+    ],
+    "feast": "August 24",
+    "keyPassages": [
+      "jhn 1:45-51",
+      "jhn 21:2",
+      "mat 10:3",
+      "act 1:13"
+    ],
+    "father": null,
+    "mother": null,
+    "spouses": [],
+    "children": [],
+    "relations": [
+      {
+        "to": "philip-apostle",
+        "type": "brought to Jesus by",
+        "ref": "jhn 1:45"
+      }
+    ],
+    "search": {
+      "names": [
+        "Bartholomew",
+        "Nathanael"
+      ],
+      "books": [
+        "mat",
+        "mrk",
+        "luk",
+        "jhn",
+        "act"
+      ]
+    }
+  },
+  {
+    "id": "matthew",
+    "name": "Matthew (Levi)",
+    "aliases": [
+      "Levi"
+    ],
+    "gender": "m",
+    "role": "Apostle and Evangelist",
+    "era": "Life of Christ",
+    "summary": "Matthew, also called Levi son of Alphaeus, was a tax collector at Capernaum. At Jesus' word 'Follow me' he left his tax booth and hosted a banquet for Jesus with tax collectors and sinners, where Jesus said he came to call not the righteous but sinners.",
+    "catholic": "The Church honours him as Apostle and Evangelist, by tradition author of the First Gospel, written to show Jesus as the fulfilment of Israel's Scriptures; his symbol is the man (or angel). His call, painted by Caravaggio, is a classic image of grace meeting a sinner. Tradition holds he died a martyr.",
+    "know": [
+      "Called 'Levi the son of Alphaeus' in Mark 2:14.",
+      "A tax collector (Mt 9:9; 10:3).",
+      "Traditionally author of the Gospel of Matthew.",
+      "Feast September 21."
+    ],
+    "feast": "September 21",
+    "keyPassages": [
+      "mat 9:9-13",
+      "mrk 2:13-17",
+      "luk 5:27-32",
+      "mat 10:3",
+      "act 1:13"
+    ],
+    "father": "alphaeus-father-of-levi",
+    "mother": null,
+    "spouses": [],
+    "children": [],
+    "relations": [
+      {
+        "to": "jesus",
+        "type": "called from the tax office by",
+        "ref": "mat 9:9"
+      }
+    ],
+    "search": {
+      "names": [
+        "Matthew",
+        "Levi"
+      ],
+      "books": [
+        "mat:9",
+        "mat:10",
+        "mrk:2",
+        "mrk:3",
+        "luk:5",
+        "luk:6",
+        "act:1"
+      ]
+    }
+  },
+  {
+    "id": "alphaeus-father-of-levi",
+    "name": "Alphaeus, father of Levi",
+    "aliases": [],
+    "gender": "m",
+    "role": "Father of Matthew (Levi)",
+    "era": "Life of Christ",
+    "summary": "Alphaeus is named once, as the father of Levi the tax collector (Mk 2:14), whom the other Gospels call Matthew.",
+    "catholic": "",
+    "know": [
+      "Named only in Mark 2:14.",
+      "Whether he is the same Alphaeus as the father of James is not stated in Scripture."
+    ],
+    "keyPassages": [
+      "mrk 2:14",
+      "mat 9:9"
+    ],
+    "father": null,
+    "mother": null,
+    "spouses": [],
+    "children": [
+      "matthew"
+    ],
+    "relations": [
+      {
+        "to": "alphaeus",
+        "type": "possibly the same as (uncertain)",
+        "ref": "mrk 3:18"
+      }
+    ],
+    "search": {
+      "names": [
+        "Alphaeus"
+      ],
+      "books": [
+        "mrk:2"
+      ]
+    }
+  },
+  {
+    "id": "thomas",
+    "name": "Thomas (Didymus)",
+    "aliases": [
+      "Didymus"
+    ],
+    "gender": "m",
+    "role": "Apostle",
+    "era": "Life of Christ",
+    "summary": "Thomas, called Didymus ('Twin'), urged the disciples to go with Jesus to Judea 'that we may die with him', and asked at the Last Supper how they could know the way. Absent when the risen Jesus first appeared, he refused to believe without touching the wounds; a week later Jesus invited him to do so, and he confessed, 'My Lord and my God!'",
+    "catholic": "Thomas's confession is one of the clearest New Testament professions of Christ's divinity (CCC 448), and Jesus' reply - 'Blessed are those who have not seen, and have believed' - is addressed to every later believer. Tradition holds he evangelized India, where the 'St Thomas Christians' trace their origin to him, and was martyred near Chennai.",
+    "know": [
+      "Called Didymus, 'the Twin' (Jn 11:16).",
+      "Asked 'How can we know the way?' - 'I am the way, the truth, and the life' (Jn 14:5-6).",
+      "Confessed 'My Lord and my God!' (Jn 20:28).",
+      "Feast July 3."
+    ],
+    "feast": "July 3",
+    "keyPassages": [
+      "jhn 11:16",
+      "jhn 14:5-7",
+      "jhn 20:24-29",
+      "jhn 21:2",
+      "mat 10:3"
+    ],
+    "father": null,
+    "mother": null,
+    "spouses": [],
+    "children": [],
+    "relations": [
+      {
+        "to": "jesus",
+        "type": "confessed 'My Lord and my God'",
+        "ref": "jhn 20:28"
+      }
+    ],
+    "search": {
+      "names": [
+        "Thomas",
+        "Didymus"
+      ],
+      "books": null
+    }
+  },
+  {
+    "id": "james-son-of-alphaeus",
+    "name": "James, son of Alphaeus",
+    "aliases": [
+      "James"
+    ],
+    "gender": "m",
+    "role": "Apostle",
+    "era": "Life of Christ",
+    "summary": "James son of Alphaeus is the ninth name in the lists of the Twelve (Mt 10:3; Mk 3:18; Lk 6:15; Acts 1:13); nothing else is said of him under that name.",
+    "catholic": "Catholic tradition generally identifies him with 'James the less' (Mk 15:40) and with James 'the brother of the Lord' who led the Jerusalem church, and honours him as St James the Less together with St Philip. The identification is traditional rather than certain.",
+    "know": [
+      "Son of Alphaeus (Mt 10:3).",
+      "Traditionally 'St James the Less'.",
+      "Catholic tradition generally identifies him with James the brother of the Lord.",
+      "Feast May 3, with St Philip."
+    ],
+    "feast": "May 3 (Sts Philip and James)",
+    "keyPassages": [
+      "mat 10:1-4",
+      "mrk 3:13-19",
+      "luk 6:12-16",
+      "act 1:13-14"
+    ],
+    "father": "alphaeus",
+    "mother": null,
+    "spouses": [],
+    "children": [],
+    "relations": [
+      {
+        "to": "james-brother-of-the-lord",
+        "type": "traditionally identified with",
+        "ref": "gal 1:19"
+      }
+    ],
+    "search": {
+      "names": [
+        "James"
+      ],
+      "books": [
+        "mat:10",
+        "mrk:3",
+        "luk:6",
+        "act:1"
+      ]
+    }
+  },
+  {
+    "id": "alphaeus",
+    "name": "Alphaeus",
+    "aliases": [],
+    "gender": "m",
+    "role": "Father of James the apostle",
+    "era": "Life of Christ",
+    "summary": "Alphaeus is known only as the father of the apostle James (Mt 10:3; Mk 3:18; Lk 6:15; Acts 1:13).",
+    "catholic": "",
+    "know": [
+      "Father of James son of Alphaeus.",
+      "Some ancient writers identified him with Clopas (Jn 19:25); this is uncertain.",
+      "Scripture does not say whether he is the same as Levi's father (Mk 2:14)."
+    ],
+    "keyPassages": [
+      "mat 10:3",
+      "act 1:13"
+    ],
+    "father": null,
+    "mother": null,
+    "spouses": [],
+    "children": [
+      "james-son-of-alphaeus"
+    ],
+    "relations": [
+      {
+        "to": "clopas",
+        "type": "sometimes identified with",
+        "ref": "jhn 19:25"
+      }
+    ],
+    "search": {
+      "names": [
+        "Alphaeus"
+      ],
+      "books": [
+        "mat:10",
+        "mrk:3",
+        "luk:6",
+        "act:1"
+      ]
+    }
+  },
+  {
+    "id": "jude-thaddeus",
+    "name": "Jude Thaddeus",
+    "aliases": [
+      "Thaddaeus",
+      "Lebbaeus",
+      "Judas the son of James",
+      "Judas (not Iscariot)"
+    ],
+    "gender": "m",
+    "role": "Apostle",
+    "era": "Life of Christ",
+    "summary": "The apostle is called 'Judas the son of James' in Luke and Acts and 'Thaddaeus' (Matthew also 'Lebbaeus') in Matthew and Mark. At the Last Supper 'Judas (not Iscariot)' asked why Jesus would reveal himself to the disciples and not to the world, and Jesus answered that he and the Father would make their home with whoever loves him.",
+    "catholic": "Catholic tradition often identifies him with Jude, 'brother of James', author of the Letter of Jude, reading Luke's Greek 'Judas of James' as 'brother of James' (as the Douay-Rheims does). Tradition holds he preached with Simon the Zealot in Persia, where both were martyred, so they share a feast. He is widely invoked as patron of desperate and lost causes.",
+    "know": [
+      "Called Thaddaeus (Mk 3:18) and 'Judas the son of James' (Lk 6:16).",
+      "'Judas (not Iscariot)' of John 14:22.",
+      "Patron of hopeless causes.",
+      "Feast October 28, with St Simon."
+    ],
+    "feast": "October 28 (Sts Simon and Jude)",
+    "keyPassages": [
+      "luk 6:12-16",
+      "mat 10:3",
+      "mrk 3:18",
+      "jhn 14:22-23",
+      "act 1:13"
+    ],
+    "father": null,
+    "mother": null,
+    "spouses": [],
+    "children": [],
+    "relations": [
+      {
+        "to": "simon-the-zealot",
+        "type": "fellow missionary and martyr (Tradition)",
+        "ref": "luk 6:15-16"
+      },
+      {
+        "to": "judas-brother-of-the-lord",
+        "type": "often identified with in tradition",
+        "ref": "jud 1:1"
+      }
+    ],
+    "search": {
+      "names": [
+        "Thaddaeus",
+        "Lebbaeus",
+        "Judas"
+      ],
+      "books": [
+        "mat:10",
+        "mrk:3",
+        "luk:6",
+        "jhn:14",
+        "act:1"
+      ]
+    }
+  },
+  {
+    "id": "simon-the-zealot",
+    "name": "Simon the Zealot",
+    "aliases": [],
+    "gender": "m",
+    "role": "Apostle",
+    "era": "Life of Christ",
+    "summary": "Simon, called 'the Zealot', appears in each list of the Twelve (Mt 10:4; Mk 3:18; Lk 6:15; Acts 1:13), distinguished from Simon Peter by his surname.",
+    "catholic": "His surname may point to zeal for the Law or to the nationalist movement; either way, Jesus gathered into one band a former 'zealot' and a former tax collector (Matthew). Tradition holds he preached with Jude in Persia, where both were martyred, so they share a feast.",
+    "know": [
+      "Called 'the Zealot' to distinguish him from Peter.",
+      "Nothing else is recorded of him in Scripture.",
+      "Feast October 28, with St Jude."
+    ],
+    "feast": "October 28 (Sts Simon and Jude)",
+    "keyPassages": [
+      "mat 10:1-4",
+      "mrk 3:13-19",
+      "luk 6:12-16",
+      "act 1:13"
+    ],
+    "father": null,
+    "mother": null,
+    "spouses": [],
+    "children": [],
+    "relations": [
+      {
+        "to": "jude-thaddeus",
+        "type": "fellow missionary and martyr (Tradition)",
+        "ref": "luk 6:15-16"
+      }
+    ],
+    "search": {
+      "names": [
+        "Zealot"
+      ],
+      "books": null
+    }
+  },
+  {
+    "id": "judas-iscariot",
+    "name": "Judas Iscariot",
+    "aliases": [
+      "Judas",
+      "Iscariot"
+    ],
+    "gender": "m",
+    "role": "Apostle; betrayer of Jesus",
+    "era": "Life of Christ",
+    "summary": "Judas, son of Simon Iscariot, was one of the Twelve and kept the common purse, from which he stole. He agreed with the chief priests to betray Jesus for thirty pieces of silver, left the Last Supper into the night, and handed Jesus over in Gethsemane with a kiss. Seized with remorse, he returned the silver and hanged himself; Matthias was chosen to take his place.",
+    "catholic": "Judas shows that even one chosen and close to Christ can freely refuse grace. The Fathers contrast him with Peter: both failed, but Peter repented and trusted in mercy while Judas despaired. Matthew sees the thirty pieces of silver and the potter's field as fulfilment of prophecy (Mt 27:9-10). The Church does not declare any individual damned, but Jesus' own words about him are grave (Mt 26:24).",
+    "know": [
+      "Son of Simon Iscariot (Jn 6:71).",
+      "Betrayed Jesus for thirty pieces of silver (Mt 26:14-16).",
+      "Betrayed him with a kiss (Lk 22:47-48).",
+      "Replaced among the Twelve by Matthias (Acts 1:26)."
+    ],
+    "keyPassages": [
+      "mat 26:14-16",
+      "jhn 13:21-30",
+      "mrk 14:43-46",
+      "mat 27:3-10",
+      "act 1:15-26"
+    ],
+    "father": "simon-iscariot",
+    "mother": null,
+    "spouses": [],
+    "children": [],
+    "relations": [
+      {
+        "to": "jesus",
+        "type": "betrayed",
+        "ref": "mat 26:47-50"
+      },
+      {
+        "to": "matthias",
+        "type": "replaced by",
+        "ref": "act 1:26"
+      },
+      {
+        "to": "jeremiah",
+        "type": "fulfilled prophecy attributed to",
+        "ref": "mat 27:9"
+      }
+    ],
+    "search": {
+      "names": [
+        "Judas",
+        "Iscariot"
+      ],
+      "books": [
+        "mat:10",
+        "mat:26",
+        "mat:27",
+        "mrk:3",
+        "mrk:14",
+        "luk:6",
+        "luk:22",
+        "jhn:6",
+        "jhn:12",
+        "jhn:13",
+        "jhn:18",
+        "act:1"
+      ]
+    }
+  },
+  {
+    "id": "simon-iscariot",
+    "name": "Simon Iscariot",
+    "aliases": [],
+    "gender": "m",
+    "role": "Father of Judas Iscariot",
+    "era": "Life of Christ",
+    "summary": "Simon Iscariot is named only as the father of Judas the betrayer (Jn 6:71; 13:26).",
+    "catholic": "",
+    "know": [
+      "Father of Judas Iscariot.",
+      "Named only in John's Gospel."
+    ],
+    "keyPassages": [
+      "jhn 6:71",
+      "jhn 13:26"
+    ],
+    "father": null,
+    "mother": null,
+    "spouses": [],
+    "children": [
+      "judas-iscariot"
+    ],
+    "relations": [],
+    "search": {
+      "names": [
+        "Simon Iscariot",
+        "Simon’s son"
+      ],
+      "books": [
+        "jhn"
+      ]
+    }
+  },
+  {
+    "id": "mary-magdalene",
+    "name": "Mary Magdalene",
+    "aliases": [
+      "Magdalene",
+      "Mary"
+    ],
+    "gender": "f",
+    "role": "Disciple; Apostle of the Apostles",
+    "era": "Life of Christ",
+    "summary": "Mary of Magdala, from whom Jesus cast out seven demons, followed him from Galilee and supported him from her means. She stood by the cross, saw where he was buried, and came to the tomb early on Easter morning. The risen Jesus appeared first to her, calling her by name, and sent her to tell the disciples, 'I have seen the Lord'.",
+    "catholic": "Because she was sent to announce the Resurrection to the apostles, the Fathers and St Thomas Aquinas call her 'Apostle of the Apostles', and in 2016 Pope Francis raised her memorial to a feast. She is honoured among the holy women who were the first witnesses of the Resurrection (CCC 641). Western tradition since St Gregory the Great identified her with the sinful woman of Luke 7 and with Mary of Bethany; the reformed Roman calendar (1969) treats them as distinct.",
+    "know": [
+      "Seven demons were cast out of her (Lk 8:2; Mk 16:9).",
+      "Present at the crucifixion, the burial and the empty tomb.",
+      "First to see the risen Lord (Jn 20:11-18; Mk 16:9).",
+      "Feast July 22."
+    ],
+    "feast": "July 22",
+    "keyPassages": [
+      "luk 8:1-3",
+      "mrk 15:40-41",
+      "mat 27:55-61",
+      "jhn 20:1-2",
+      "jhn 20:11-18",
+      "mrk 16:9"
+    ],
+    "father": null,
+    "mother": null,
+    "spouses": [],
+    "children": [],
+    "relations": [
+      {
+        "to": "jesus",
+        "type": "freed from seven demons by",
+        "ref": "luk 8:2"
+      },
+      {
+        "to": "jesus",
+        "type": "first witness of the risen",
+        "ref": "jhn 20:14-18"
+      },
+      {
+        "to": "peter",
+        "type": "brought news of the empty tomb to",
+        "ref": "jhn 20:2"
+      },
+      {
+        "to": "joanna",
+        "type": "companion of",
+        "ref": "luk 24:10"
+      }
+    ],
+    "search": {
+      "names": [
+        "Magdalene",
+        "Mary"
+      ],
+      "books": [
+        "mat:27",
+        "mat:28",
+        "mrk:15",
+        "mrk:16",
+        "luk:8",
+        "luk:24",
+        "jhn:19",
+        "jhn:20"
+      ]
+    }
+  },
+  {
+    "id": "martha",
+    "name": "Martha",
+    "aliases": [],
+    "gender": "f",
+    "role": "Disciple; friend of Jesus",
+    "era": "Life of Christ",
+    "summary": "Martha of Bethany, sister of Mary and Lazarus, welcomed Jesus into her home and was 'distracted with much serving' while Mary listened at his feet. When Lazarus died she went out to meet Jesus and professed, 'I believe that you are the Christ, the Son of God'; at the supper in Bethany before the Passion she again served.",
+    "catholic": "Martha's confession of faith at Lazarus's tomb (Jn 11:27) parallels Peter's, and Jesus' words to her, 'I am the resurrection and the life', are read at funerals. With Mary she is classically read as the active life beside the contemplative. In 2021 Pope Francis extended her memorial on July 29 to include her sister Mary and brother Lazarus. She is patron of cooks, servers and hospitality.",
+    "know": [
+      "Sister of Mary and Lazarus of Bethany (Jn 11:1).",
+      "'Martha, Martha, you are anxious and troubled about many things' (Lk 10:41).",
+      "Confessed Jesus as the Christ, the Son of God (Jn 11:27).",
+      "Feast July 29 (Sts Martha, Mary and Lazarus)."
+    ],
+    "feast": "July 29 (Sts Martha, Mary and Lazarus)",
+    "keyPassages": [
+      "luk 10:38-42",
+      "jhn 11:17-27",
+      "jhn 11:38-40",
+      "jhn 12:1-2"
+    ],
+    "father": null,
+    "mother": null,
+    "spouses": [],
+    "children": [],
+    "relations": [
+      {
+        "to": "mary-of-bethany",
+        "type": "sister of",
+        "ref": "luk 10:39"
+      },
+      {
+        "to": "lazarus",
+        "type": "sister of",
+        "ref": "jhn 11:1-2"
+      },
+      {
+        "to": "jesus",
+        "type": "confessed the Christ, the Son of God",
+        "ref": "jhn 11:27"
+      }
+    ],
+    "search": {
+      "names": [
+        "Martha"
+      ],
+      "books": null
+    }
+  },
+  {
+    "id": "mary-of-bethany",
+    "name": "Mary of Bethany",
+    "aliases": [
+      "Mary"
+    ],
+    "gender": "f",
+    "role": "Disciple; friend of Jesus",
+    "era": "Life of Christ",
+    "summary": "Mary, sister of Martha and Lazarus, sat at Jesus' feet listening to his word, and Jesus said she had 'chosen the good part'. When Lazarus died she fell at Jesus' feet weeping. Six days before the Passover she anointed Jesus' feet with costly nard and wiped them with her hair, an act Jesus linked to his burial.",
+    "catholic": "Mary is the model of contemplative listening to the Word. John identifies her with the woman who anointed Jesus at Bethany (Jn 11:2; 12:3; compare Mt 26:6-13; Mk 14:3-9), of whom Jesus said that what she did would be told wherever the Gospel is preached. Western tradition long identified her with Mary Magdalene; since 2021 she is celebrated with Martha and Lazarus on July 29.",
+    "know": [
+      "Sister of Martha and Lazarus (Jn 11:1).",
+      "'Mary has chosen the good part' (Lk 10:42).",
+      "Anointed Jesus' feet with nard (Jn 12:3).",
+      "Feast July 29 (Sts Martha, Mary and Lazarus)."
+    ],
+    "feast": "July 29 (Sts Martha, Mary and Lazarus)",
+    "keyPassages": [
+      "luk 10:38-42",
+      "jhn 11:28-33",
+      "jhn 12:1-8"
+    ],
+    "father": null,
+    "mother": null,
+    "spouses": [],
+    "children": [],
+    "relations": [
+      {
+        "to": "martha",
+        "type": "sister of",
+        "ref": "luk 10:39"
+      },
+      {
+        "to": "lazarus",
+        "type": "sister of",
+        "ref": "jhn 11:2"
+      },
+      {
+        "to": "jesus",
+        "type": "anointed the feet of",
+        "ref": "jhn 12:3"
+      }
+    ],
+    "search": {
+      "names": [
+        "Mary"
+      ],
+      "books": [
+        "luk:10",
+        "jhn:11",
+        "jhn:12"
+      ]
+    }
+  },
+  {
+    "id": "lazarus",
+    "name": "Lazarus of Bethany",
+    "aliases": [],
+    "gender": "m",
+    "role": "Friend of Jesus, raised from the dead",
+    "era": "Life of Christ",
+    "summary": "Lazarus of Bethany, brother of Martha and Mary, was a friend whom Jesus loved. When he fell ill and died, Jesus came after four days, wept, and called him from the tomb: 'Lazarus, come out!' Many believed, and the chief priests plotted to kill both Jesus and Lazarus.",
+    "catholic": "The raising of Lazarus, the greatest of Jesus' signs in John, reveals him as 'the resurrection and the life' and anticipates his own Resurrection, though Lazarus returned to an ordinary, mortal life (CCC 646). It is read on the Fifth Sunday of Lent for the scrutinies of those preparing for Baptism. Eastern tradition holds he later became bishop of Kition in Cyprus. Since 2021 he is honoured with his sisters on July 29.",
+    "know": [
+      "Brother of Martha and Mary (Jn 11:1-2).",
+      "'Jesus wept' at his tomb (Jn 11:35).",
+      "Raised after four days in the tomb (Jn 11:39-44).",
+      "Feast July 29 (Sts Martha, Mary and Lazarus)."
+    ],
+    "feast": "July 29 (Sts Martha, Mary and Lazarus)",
+    "keyPassages": [
+      "jhn 11:1-16",
+      "jhn 11:38-44",
+      "jhn 11:45-53",
+      "jhn 12:1-2",
+      "jhn 12:9-11"
+    ],
+    "father": null,
+    "mother": null,
+    "spouses": [],
+    "children": [],
+    "relations": [
+      {
+        "to": "martha",
+        "type": "brother of",
+        "ref": "jhn 11:1"
+      },
+      {
+        "to": "mary-of-bethany",
+        "type": "brother of",
+        "ref": "jhn 11:2"
+      },
+      {
+        "to": "jesus",
+        "type": "raised from the dead by",
+        "ref": "jhn 11:43-44"
+      }
+    ],
+    "search": {
+      "names": [
+        "Lazarus"
+      ],
+      "books": [
+        "jhn"
+      ]
+    }
+  },
+  {
+    "id": "lazarus-the-beggar",
+    "name": "Lazarus (the beggar in the parable)",
+    "aliases": [],
+    "gender": "m",
+    "role": "Parable figure",
+    "era": "Life of Christ",
+    "summary": "In Jesus' parable of the rich man and Lazarus, a poor man covered with sores lay at a rich man's gate; at death he was carried by angels to Abraham's bosom while the rich man suffered torment. Abraham told the rich man that those who will not hear Moses and the prophets would not be persuaded even if someone rose from the dead.",
+    "catholic": "Lazarus is the only named character in any of Jesus' parables. The Church cites the parable for the 'bosom of Abraham' where the just awaited Christ (CCC 633), for the immediate judgment after death, and as a summons to recognize Christ in the poor (CCC 2463).",
+    "know": [
+      "The only named character in a parable of Jesus.",
+      "Carried to 'Abraham's bosom' (Lk 16:22).",
+      "Distinct from Lazarus of Bethany."
+    ],
+    "keyPassages": [
+      "luk 16:19-31"
+    ],
+    "father": null,
+    "mother": null,
+    "spouses": [],
+    "children": [],
+    "relations": [
+      {
+        "to": "abraham",
+        "type": "carried to the bosom of",
+        "ref": "luk 16:22"
+      }
+    ],
+    "search": {
+      "names": [
+        "Lazarus"
+      ],
+      "books": [
+        "luk:16"
+      ]
+    }
+  },
+  {
+    "id": "joanna",
+    "name": "Joanna",
+    "aliases": [],
+    "gender": "f",
+    "role": "Disciple; witness of the Resurrection",
+    "era": "Life of Christ",
+    "summary": "Joanna, wife of Chuza, the steward of Herod Antipas, was healed by Jesus and with other women supported him and the Twelve from her means. She was among the women who found the tomb empty and told the apostles.",
+    "catholic": "Joanna shows the Gospel reaching even Herod's court. She is honoured among the myrrh-bearing women, the first heralds of the Resurrection.",
+    "know": [
+      "Wife of Chuza, Herod's steward (Lk 8:3).",
+      "Provided for Jesus and the Twelve from her possessions.",
+      "Witness of the empty tomb (Lk 24:10)."
+    ],
+    "keyPassages": [
+      "luk 8:1-3",
+      "luk 24:1-10"
+    ],
+    "father": null,
+    "mother": null,
+    "spouses": [
+      "chuza"
+    ],
+    "children": [],
+    "relations": [
+      {
+        "to": "mary-magdalene",
+        "type": "companion of",
+        "ref": "luk 24:10"
+      }
+    ],
+    "search": {
+      "names": [
+        "Joanna"
+      ],
+      "books": [
+        "luk"
+      ]
+    }
+  },
+  {
+    "id": "chuza",
+    "name": "Chuza",
+    "aliases": [
+      "Chuzas"
+    ],
+    "gender": "m",
+    "role": "Steward of Herod Antipas",
+    "era": "Life of Christ",
+    "summary": "Chuza (Chuzas) was the steward of Herod Antipas and husband of Joanna, one of the women who followed and supported Jesus.",
+    "catholic": "",
+    "know": [
+      "Husband of Joanna (Lk 8:3).",
+      "A household official of Herod Antipas."
+    ],
+    "keyPassages": [
+      "luk 8:3"
+    ],
+    "father": null,
+    "mother": null,
+    "spouses": [
+      "joanna"
+    ],
+    "children": [],
+    "relations": [
+      {
+        "to": "herod-antipas",
+        "type": "steward of",
+        "ref": "luk 8:3"
+      }
+    ],
+    "search": {
+      "names": [
+        "Chuzas"
+      ],
+      "books": null
+    }
+  },
+  {
+    "id": "susanna-follower-of-jesus",
+    "name": "Susanna (follower of Jesus)",
+    "aliases": [],
+    "gender": "f",
+    "role": "Disciple",
+    "era": "Life of Christ",
+    "summary": "Susanna is named among the women who had been healed by Jesus and who travelled with him and the Twelve, providing for them from their possessions (Lk 8:3).",
+    "catholic": "",
+    "know": [
+      "Named once, in Luke 8:3.",
+      "Distinct from Susanna of the Book of Daniel."
+    ],
+    "keyPassages": [
+      "luk 8:1-3"
+    ],
+    "father": null,
+    "mother": null,
+    "spouses": [],
+    "children": [],
+    "relations": [],
+    "search": {
+      "names": [
+        "Susanna"
+      ],
+      "books": [
+        "luk"
+      ]
+    }
+  },
+  {
+    "id": "nicodemus",
+    "name": "Nicodemus",
+    "aliases": [],
+    "gender": "m",
+    "role": "Pharisee; ruler of the Jews; disciple",
+    "era": "Life of Christ",
+    "summary": "Nicodemus, a Pharisee and member of the Sanhedrin, came to Jesus by night and was taught that one must be born of water and the Spirit to enter the Kingdom of God. Later he urged the council to give Jesus a fair hearing, and after the crucifixion he brought about a hundred pounds of myrrh and aloes to help Joseph of Arimathea bury Jesus.",
+    "catholic": "Jesus' words to Nicodemus, 'unless one is born of water and the Spirit' (Jn 3:5), are a foundational text for the necessity of Baptism (CCC 1215, 1257), and the same discourse contains 'God so loved the world' (Jn 3:16). He is cited with Joseph of Arimathea as one of the religious leaders who were secret disciples (CCC 595). His journey from night to open devotion models gradual conversion.",
+    "know": [
+      "Came to Jesus by night (Jn 3:2).",
+      "Heard 'born of water and the Spirit' and 'God so loved the world' (Jn 3:5, 16).",
+      "Defended Jesus before the Pharisees (Jn 7:50-51).",
+      "Helped bury Jesus with myrrh and aloes (Jn 19:39)."
+    ],
+    "feast": "August 31 (Sts Joseph of Arimathea and Nicodemus, Roman Martyrology)",
+    "keyPassages": [
+      "jhn 3:1-21",
+      "jhn 7:50-52",
+      "jhn 19:38-42"
+    ],
+    "father": null,
+    "mother": null,
+    "spouses": [],
+    "children": [],
+    "relations": [
+      {
+        "to": "jesus",
+        "type": "taught by night by",
+        "ref": "jhn 3:1-5"
+      },
+      {
+        "to": "joseph-of-arimathea",
+        "type": "buried Jesus with",
+        "ref": "jhn 19:38-42"
+      }
+    ],
+    "search": {
+      "names": [
+        "Nicodemus"
+      ],
+      "books": null
+    }
+  },
+  {
+    "id": "joseph-of-arimathea",
+    "name": "Joseph of Arimathea",
+    "aliases": [],
+    "gender": "m",
+    "role": "Council member; disciple",
+    "era": "Life of Christ",
+    "summary": "Joseph of Arimathea was a rich and respected member of the council, a good and righteous man looking for the Kingdom of God, who had not consented to the council's decision. A secret disciple, he boldly asked Pilate for Jesus' body, wrapped it in clean linen and laid it in his own new tomb cut in the rock.",
+    "catholic": "Joseph fulfils the prophecy that the Servant would be 'with a rich man in his death' (Is 53:9) and is cited with Nicodemus as a secret disciple among the leaders (CCC 595). His care for Jesus' body is honoured in the Fourteenth Station of the Cross and in the corporal work of mercy of burying the dead. Medieval legends link him with Glastonbury and the Holy Grail, but these are not historical tradition.",
+    "know": [
+      "A rich council member from Arimathaea (Mt 27:57; Lk 23:50-51).",
+      "Asked Pilate for Jesus' body (Mk 15:43).",
+      "Laid Jesus in his own new tomb (Mt 27:60).",
+      "Commemorated with Nicodemus on August 31."
+    ],
+    "feast": "August 31 (Sts Joseph of Arimathea and Nicodemus, Roman Martyrology)",
+    "keyPassages": [
+      "mat 27:57-61",
+      "mrk 15:42-47",
+      "luk 23:50-56",
+      "jhn 19:38-42"
+    ],
+    "father": null,
+    "mother": null,
+    "spouses": [],
+    "children": [],
+    "relations": [
+      {
+        "to": "pontius-pilate",
+        "type": "received Jesus' body from",
+        "ref": "mrk 15:43-45"
+      },
+      {
+        "to": "nicodemus",
+        "type": "buried Jesus with",
+        "ref": "jhn 19:38-42"
+      },
+      {
+        "to": "jesus",
+        "type": "buried",
+        "ref": "mat 27:59-60"
+      }
+    ],
+    "search": {
+      "names": [
+        "Joseph",
+        "Arimathaea"
+      ],
+      "books": [
+        "mat:27",
+        "mrk:15",
+        "luk:23",
+        "jhn:19"
+      ]
+    }
+  },
+  {
+    "id": "zacchaeus",
+    "name": "Zacchaeus",
+    "aliases": [],
+    "gender": "m",
+    "role": "Chief tax collector of Jericho",
+    "era": "Life of Christ",
+    "summary": "Zacchaeus, a rich chief tax collector of Jericho, was short and climbed a sycamore tree to see Jesus. Jesus called him down and stayed at his house; Zacchaeus promised half his goods to the poor and fourfold restitution to any he had defrauded, and Jesus declared, 'Today, salvation has come to this house'.",
+    "catholic": "Zacchaeus is the Church's model of conversion shown in restitution: the Catechism cites his pledge in teaching that justice requires restoring what was unjustly taken (CCC 2412). His story is the Gospel for the Dedication of a Church, as Christ comes to dwell in his house, and ends with the mission statement 'the Son of Man came to seek and to save that which was lost'.",
+    "know": [
+      "Chief tax collector at Jericho (Lk 19:2).",
+      "Climbed a sycamore to see Jesus (Lk 19:4).",
+      "Promised fourfold restitution (Lk 19:8).",
+      "'Today, salvation has come to this house' (Lk 19:9)."
+    ],
+    "keyPassages": [
+      "luk 19:1-10"
+    ],
+    "father": null,
+    "mother": null,
+    "spouses": [],
+    "children": [],
+    "relations": [
+      {
+        "to": "jesus",
+        "type": "host of",
+        "ref": "luk 19:5-6"
+      }
+    ],
+    "search": {
+      "names": [
+        "Zacchaeus"
+      ],
+      "books": [
+        "luk"
+      ]
+    }
+  },
+  {
+    "id": "bartimaeus",
+    "name": "Bartimaeus",
+    "aliases": [],
+    "gender": "m",
+    "role": "Blind beggar healed by Jesus",
+    "era": "Life of Christ",
+    "summary": "Bartimaeus, son of Timaeus, was a blind beggar at Jericho. Hearing that Jesus was passing, he cried out, 'Jesus, you son of David, have mercy on me!' and would not be silenced; throwing off his cloak he came to Jesus, received his sight, and followed him on the way.",
+    "catholic": "His persistent cry joins the Gospel prayers of mercy that shaped the 'Jesus Prayer' and the Kyrie eleison. He confesses Jesus by the messianic title 'Son of David', and his following 'on the way' to Jerusalem makes him a model disciple.",
+    "know": [
+      "Son of Timaeus (Mk 10:46).",
+      "Called Jesus 'Son of David' (Mk 10:47).",
+      "Healed at Jericho and followed Jesus (Mk 10:52)."
+    ],
+    "keyPassages": [
+      "mrk 10:46-52"
+    ],
+    "father": "timaeus",
+    "mother": null,
+    "spouses": [],
+    "children": [],
+    "relations": [
+      {
+        "to": "jesus",
+        "type": "healed by",
+        "ref": "mrk 10:52"
+      }
+    ],
+    "search": {
+      "names": [
+        "Bartimaeus"
+      ],
+      "books": null
+    }
+  },
+  {
+    "id": "timaeus",
+    "name": "Timaeus",
+    "aliases": [],
+    "gender": "m",
+    "role": "Father of Bartimaeus",
+    "era": "Life of Christ",
+    "summary": "Timaeus is named only as the father of the blind beggar Bartimaeus of Jericho (Mk 10:46).",
+    "catholic": "",
+    "know": [
+      "Father of Bartimaeus.",
+      "Named only in Mark 10:46."
+    ],
+    "keyPassages": [
+      "mrk 10:46",
+      "mrk 10:46-52"
+    ],
+    "father": null,
+    "mother": null,
+    "spouses": [],
+    "children": [
+      "bartimaeus"
+    ],
+    "relations": [],
+    "search": {
+      "names": [
+        "Timaeus"
+      ],
+      "books": null
+    }
+  },
+  {
+    "id": "jairus",
+    "name": "Jairus",
+    "aliases": [],
+    "gender": "m",
+    "role": "Synagogue ruler",
+    "era": "Life of Christ",
+    "summary": "Jairus, a ruler of the synagogue, begged Jesus to come to his dying twelve-year-old daughter. While Jesus was delayed healing a woman with a flow of blood, word came that the girl had died; Jesus said, 'Don't be afraid, only believe', took her by the hand - 'Talitha cumi' - and raised her.",
+    "catholic": "The raising of Jairus's daughter is one of the Gospel signs restoring the dead to earthly life that point to Christ's own, greater Resurrection (CCC 646). Jesus took only Peter, James and John with the parents, a sign of the inner circle.",
+    "know": [
+      "A ruler of the synagogue (Mk 5:22).",
+      "'Don't be afraid, only believe' (Mk 5:36).",
+      "His daughter, aged twelve, was raised from the dead (Mk 5:41-42)."
+    ],
+    "keyPassages": [
+      "mrk 5:21-43",
+      "luk 8:40-56"
+    ],
+    "father": null,
+    "mother": null,
+    "spouses": [],
+    "children": [],
+    "relations": [
+      {
+        "to": "jesus",
+        "type": "daughter raised by",
+        "ref": "mrk 5:41-42"
+      }
+    ],
+    "search": {
+      "names": [
+        "Jairus"
+      ],
+      "books": [
+        "mrk",
+        "luk"
+      ]
+    }
+  },
+  {
+    "id": "simeon-of-jerusalem",
+    "name": "Simeon",
+    "aliases": [],
+    "gender": "m",
+    "role": "Righteous man who received the Christ child",
+    "era": "Life of Christ",
+    "summary": "Simeon, a righteous and devout man of Jerusalem awaiting the consolation of Israel, had been told by the Holy Spirit he would not die before seeing the Lord's Christ. When Mary and Joseph presented Jesus in the Temple, he took the child in his arms, blessed God, and foretold that Jesus would be a sign spoken against and that a sword would pierce Mary's soul.",
+    "catholic": "Simeon's canticle, the Nunc Dimittis ('Now, Lord, you let your servant go in peace', Lk 2:29-32), is prayed every night at Night Prayer (Compline). At the Presentation (February 2) he recognizes Jesus as 'a light for revelation to the Gentiles', which gives the feast its candle blessing (Candlemas). The Church sees in the Presentation Christ's first offering of himself (CCC 529), and his prophecy is the first of the Seven Sorrows of Mary.",
+    "know": [
+      "Promised he would see the Christ before death (Lk 2:26).",
+      "Took the infant Jesus in his arms in the Temple (Lk 2:28).",
+      "Spoke the Nunc Dimittis (Lk 2:29-32).",
+      "Prophesied the sword that would pierce Mary's soul (Lk 2:35)."
+    ],
+    "keyPassages": [
+      "luk 2:22-35"
+    ],
+    "father": null,
+    "mother": null,
+    "spouses": [],
+    "children": [],
+    "relations": [
+      {
+        "to": "jesus",
+        "type": "received in the Temple",
+        "ref": "luk 2:28"
+      },
+      {
+        "to": "mary-mother-of-jesus",
+        "type": "prophesied to",
+        "ref": "luk 2:34-35"
+      },
+      {
+        "to": "anna-prophetess",
+        "type": "fellow witness at the Presentation",
+        "ref": "luk 2:36-38"
+      }
+    ],
+    "search": {
+      "names": [
+        "Simeon"
+      ],
+      "books": [
+        "luk:2"
+      ]
+    }
+  },
+  {
+    "id": "anna-prophetess",
+    "name": "Anna",
+    "aliases": [],
+    "gender": "f",
+    "role": "Prophetess",
+    "era": "Life of Christ",
+    "summary": "Anna, a prophetess, daughter of Phanuel of the tribe of Asher, was a widow of great age who never left the Temple, worshipping with fasting and prayer night and day. Coming up at the Presentation, she gave thanks to God and spoke of the child to all who were looking for the redemption of Jerusalem.",
+    "catholic": "With Simeon, Anna represents faithful Israel waiting for the Messiah and welcoming him at the Presentation (CCC 529). Her life of prayer and fasting in the Temple makes her a patroness of widows and of consecrated life.",
+    "know": [
+      "Daughter of Phanuel, of the tribe of Asher (Lk 2:36).",
+      "A widow who served God in the Temple night and day (Lk 2:37).",
+      "Spoke of Jesus to all awaiting Jerusalem's redemption (Lk 2:38)."
+    ],
+    "keyPassages": [
+      "luk 2:36-38"
+    ],
+    "father": "phanuel",
+    "mother": null,
+    "spouses": [],
+    "children": [],
+    "relations": [
+      {
+        "to": "jesus",
+        "type": "proclaimed",
+        "ref": "luk 2:38"
+      },
+      {
+        "to": "asher",
+        "type": "of the tribe of",
+        "ref": "luk 2:36"
+      }
+    ],
+    "search": {
+      "names": [
+        "Anna"
+      ],
+      "books": [
+        "luk:2"
+      ]
+    }
+  },
+  {
+    "id": "phanuel",
+    "name": "Phanuel",
+    "aliases": [],
+    "gender": "m",
+    "role": "Father of Anna the prophetess",
+    "era": "Life of Christ",
+    "summary": "Phanuel, of the tribe of Asher, is named only as the father of Anna the prophetess (Lk 2:36).",
+    "catholic": "",
+    "know": [
+      "Father of Anna (Lk 2:36).",
+      "Of the tribe of Asher."
+    ],
+    "keyPassages": [
+      "luk 2:36",
+      "luk 2:36-38"
+    ],
+    "father": null,
+    "mother": null,
+    "spouses": [],
+    "children": [
+      "anna-prophetess"
+    ],
+    "relations": [],
+    "search": {
+      "names": [
+        "Phanuel"
+      ],
+      "books": null
+    }
+  },
+  {
+    "id": "simon-the-leper",
+    "name": "Simon the leper",
+    "aliases": [],
+    "gender": "m",
+    "role": "Host at Bethany",
+    "era": "Life of Christ",
+    "summary": "In the house of Simon the leper at Bethany, a woman poured costly ointment on Jesus' head; Jesus defended her, saying she had anointed his body beforehand for burial.",
+    "catholic": "",
+    "know": [
+      "His house at Bethany was the scene of the anointing before the Passion (Mt 26:6; Mk 14:3).",
+      "John places the Bethany anointing at the home of Lazarus, Martha and Mary (Jn 12:1-3).",
+      "Distinct in the text from Simon the Pharisee (Lk 7)."
+    ],
+    "keyPassages": [
+      "mat 26:6-13",
+      "mrk 14:3-9"
+    ],
+    "father": null,
+    "mother": null,
+    "spouses": [],
+    "children": [],
+    "relations": [
+      {
+        "to": "jesus",
+        "type": "host of",
+        "ref": "mat 26:6"
+      }
+    ],
+    "search": {
+      "names": [
+        "Simon the leper"
+      ],
+      "books": null
+    }
+  },
+  {
+    "id": "simon-the-pharisee",
+    "name": "Simon the Pharisee",
+    "aliases": [],
+    "gender": "m",
+    "role": "Pharisee; host of Jesus",
+    "era": "Life of Christ",
+    "summary": "Simon, a Pharisee, invited Jesus to dine. When a sinful woman wept at Jesus' feet, wiped them with her hair and anointed them, Simon doubted Jesus was a prophet; Jesus told the parable of the two debtors and declared, 'Her sins, which are many, are forgiven, for she loved much'.",
+    "catholic": "The episode teaches the link between forgiveness and love and is a classic text for the sacrament of Penance and for contrition born of love. Western tradition after St Gregory the Great identified the sinful woman with Mary Magdalene, a view the Church no longer assumes.",
+    "know": [
+      "A Pharisee who hosted Jesus (Lk 7:36, 40).",
+      "Heard the parable of the two debtors (Lk 7:41-43).",
+      "Distinct in the text from Simon the leper of Bethany."
+    ],
+    "keyPassages": [
+      "luk 7:36-50"
+    ],
+    "father": null,
+    "mother": null,
+    "spouses": [],
+    "children": [],
+    "relations": [
+      {
+        "to": "jesus",
+        "type": "host of",
+        "ref": "luk 7:36-40"
+      }
+    ],
+    "search": {
+      "names": [
+        "Simon"
+      ],
+      "books": [
+        "luk:7"
+      ]
+    }
+  },
+  {
+    "id": "simon-of-cyrene",
+    "name": "Simon of Cyrene",
+    "aliases": [],
+    "gender": "m",
+    "role": "Carried the cross of Jesus",
+    "era": "Life of Christ",
+    "summary": "Simon, a man of Cyrene coming in from the country, was compelled by the soldiers to carry Jesus' cross to Golgotha. Mark names him as the father of Alexander and Rufus, evidently known to Mark's readers.",
+    "catholic": "Simon is remembered in the Fifth Station of the Cross. Luke's phrase that he carried the cross 'after Jesus' (Lk 23:26) makes him an image of every disciple who takes up the cross and follows Christ (Lk 9:23).",
+    "know": [
+      "From Cyrene in North Africa (Mt 27:32).",
+      "Compelled to carry Jesus' cross (Mk 15:21).",
+      "Father of Alexander and Rufus (Mk 15:21)."
+    ],
+    "keyPassages": [
+      "mat 27:32",
+      "mrk 15:21",
+      "luk 23:26"
+    ],
+    "father": null,
+    "mother": null,
+    "spouses": [],
+    "children": [
+      "alexander-son-of-simon",
+      "rufus-son-of-simon"
+    ],
+    "relations": [
+      {
+        "to": "jesus",
+        "type": "carried the cross of",
+        "ref": "luk 23:26"
+      }
+    ],
+    "search": {
+      "names": [
+        "Simon"
+      ],
+      "books": [
+        "mat:27",
+        "mrk:15",
+        "luk:23"
+      ]
+    }
+  },
+  {
+    "id": "alexander-son-of-simon",
+    "name": "Alexander, son of Simon of Cyrene",
+    "aliases": [],
+    "gender": "m",
+    "role": "Son of Simon of Cyrene",
+    "era": "Life of Christ",
+    "summary": "Alexander is named, with his brother Rufus, as a son of Simon of Cyrene (Mk 15:21), apparently because they were known to Mark's readers.",
+    "catholic": "",
+    "know": [
+      "Son of Simon of Cyrene.",
+      "Brother of Rufus."
+    ],
+    "keyPassages": [
+      "mrk 15:21",
+      "mrk 15:21-22"
+    ],
+    "father": "simon-of-cyrene",
+    "mother": null,
+    "spouses": [],
+    "children": [],
+    "relations": [
+      {
+        "to": "rufus-son-of-simon",
+        "type": "brother of",
+        "ref": "mrk 15:21"
+      }
+    ],
+    "search": {
+      "names": [
+        "Alexander"
+      ],
+      "books": [
+        "mrk:15"
+      ]
+    }
+  },
+  {
+    "id": "rufus-son-of-simon",
+    "name": "Rufus, son of Simon of Cyrene",
+    "aliases": [],
+    "gender": "m",
+    "role": "Son of Simon of Cyrene",
+    "era": "Life of Christ",
+    "summary": "Rufus is named, with his brother Alexander, as a son of Simon of Cyrene (Mk 15:21).",
+    "catholic": "",
+    "know": [
+      "Son of Simon of Cyrene; brother of Alexander.",
+      "Possibly the Rufus 'chosen in the Lord' greeted in Romans 16:13, since Mark is traditionally linked with Rome; this is uncertain."
+    ],
+    "keyPassages": [
+      "mrk 15:21",
+      "rom 16:13"
+    ],
+    "father": "simon-of-cyrene",
+    "mother": null,
+    "spouses": [],
+    "children": [],
+    "relations": [
+      {
+        "to": "alexander-son-of-simon",
+        "type": "brother of",
+        "ref": "mrk 15:21"
+      }
+    ],
+    "search": {
+      "names": [
+        "Rufus"
+      ],
+      "books": [
+        "mrk:15"
+      ]
+    }
+  },
+  {
+    "id": "malchus",
+    "name": "Malchus",
+    "aliases": [],
+    "gender": "m",
+    "role": "Servant of the high priest",
+    "era": "Life of Christ",
+    "summary": "Malchus was the servant of the high priest whose right ear Simon Peter cut off with a sword at Jesus' arrest. Jesus ordered Peter to put away the sword, and Luke records that he touched the ear and healed it.",
+    "catholic": "The scene shows Christ freely accepting his Passion ('the cup which the Father has given me') and healing even an enemy, his last miracle before the cross.",
+    "know": [
+      "Servant of the high priest (Jn 18:10).",
+      "His ear was cut off by Peter (Jn 18:10).",
+      "Healed by Jesus (Lk 22:51)."
+    ],
+    "keyPassages": [
+      "jhn 18:10-11",
+      "luk 22:50-51",
+      "mat 26:51-52"
+    ],
+    "father": null,
+    "mother": null,
+    "spouses": [],
+    "children": [],
+    "relations": [
+      {
+        "to": "peter",
+        "type": "wounded by",
+        "ref": "jhn 18:10"
+      },
+      {
+        "to": "jesus",
+        "type": "healed by",
+        "ref": "luk 22:51"
+      },
+      {
+        "to": "caiaphas",
+        "type": "servant of the high priest",
+        "ref": "jhn 18:10-13"
+      }
+    ],
+    "search": {
+      "names": [
+        "Malchus"
+      ],
+      "books": null
+    }
+  },
+  {
+    "id": "barabbas",
+    "name": "Barabbas",
+    "aliases": [],
+    "gender": "m",
+    "role": "Prisoner released instead of Jesus",
+    "era": "Life of Christ",
+    "summary": "Barabbas was a notorious prisoner, held for insurrection and murder, whom Pilate offered to release at the Passover alongside Jesus. Stirred up by the chief priests, the crowd chose Barabbas and demanded that Jesus be crucified.",
+    "catholic": "The Fathers noted that his name means 'son of the father': the guilty 'son of the father' goes free while the innocent Son of the Father dies in his place, an image of Christ's substitutionary sacrifice for sinners.",
+    "know": [
+      "A 'notable prisoner' (Mt 27:16).",
+      "Imprisoned for insurrection and murder (Mk 15:7; Lk 23:19).",
+      "Released by Pilate at the crowd's demand (Mk 15:15)."
+    ],
+    "keyPassages": [
+      "mat 27:15-26",
+      "mrk 15:6-15",
+      "luk 23:18-25",
+      "jhn 18:39-40"
+    ],
+    "father": null,
+    "mother": null,
+    "spouses": [],
+    "children": [],
+    "relations": [
+      {
+        "to": "pontius-pilate",
+        "type": "released by",
+        "ref": "mrk 15:15"
+      },
+      {
+        "to": "jesus",
+        "type": "released in place of",
+        "ref": "mat 27:26"
+      }
+    ],
+    "search": {
+      "names": [
+        "Barabbas"
+      ],
+      "books": null
+    }
+  },
+  {
+    "id": "theophilus",
+    "name": "Theophilus",
+    "aliases": [],
+    "gender": "m",
+    "role": "Addressee of Luke and Acts",
+    "era": "Life of Christ",
+    "summary": "Theophilus is the 'most excellent' person to whom Luke dedicates his Gospel and the Acts of the Apostles, so that he may know the certainty of what he has been taught.",
+    "catholic": "His title suggests a person of rank, perhaps Luke's patron. Since the name means 'friend of God', the Fathers (e.g. St Ambrose) also read it as addressing every reader who loves God.",
+    "know": [
+      "Addressee of Luke 1:3 and Acts 1:1.",
+      "Name means 'friend of God' or 'loved by God'.",
+      "Called 'most excellent', a title of rank."
+    ],
+    "keyPassages": [
+      "luk 1:1-4",
+      "act 1:1"
+    ],
+    "father": null,
+    "mother": null,
+    "spouses": [],
+    "children": [],
+    "relations": [
+      {
+        "to": "luke",
+        "type": "addressee of the writings of",
+        "ref": "luk 1:3"
+      }
+    ],
+    "search": {
+      "names": [
+        "Theophilus"
+      ],
+      "books": null
+    }
+  },
+  {
+    "id": "herod-the-great",
+    "name": "Herod the Great",
+    "aliases": [
+      "Herod",
+      "King Herod"
+    ],
+    "gender": "m",
+    "role": "King of Judea",
+    "era": "Life of Christ",
+    "summary": "Herod, an Idumean made king of Judea by Rome, ruled from 37 to 4 BC and rebuilt the Jerusalem Temple on a grand scale. Troubled by the Magi's news of a newborn King of the Jews, he ordered the killing of the boys of Bethlehem; Joseph fled with Jesus and Mary into Egypt until Herod died.",
+    "catholic": "The Holy Innocents he massacred are honoured as martyrs on December 28, having died in place of Christ. His hostility to the newborn King recalls Pharaoh's slaughter of Hebrew infants and casts Jesus as the new Moses (Mt 2:15-18). The Temple he expanded is the one Jesus knew (Jn 2:20).",
+    "know": [
+      "King of Judea when Jesus and John the Baptist were born (Mt 2:1; Lk 1:5).",
+      "Ordered the massacre of the Innocents (Mt 2:16).",
+      "Father of Archelaus, Antipas and Philip; grandfather of Herodias and Herod Agrippa I (Josephus)."
+    ],
+    "keyPassages": [
+      "mat 2:1-18",
+      "mat 2:19-22",
+      "luk 1:5"
+    ],
+    "father": null,
+    "mother": null,
+    "spouses": [],
+    "children": [
+      "archelaus",
+      "herod-antipas",
+      "philip-the-tetrarch",
+      "philip-husband-of-herodias"
+    ],
+    "relations": [
+      {
+        "to": "jesus",
+        "type": "sought to kill",
+        "ref": "mat 2:13-16"
+      },
+      {
+        "to": "herod-agrippa-i",
+        "type": "grandfather of",
+        "ref": "act 12:1"
+      },
+      {
+        "to": "herodias",
+        "type": "grandfather of",
+        "ref": "mat 14:3"
+      }
+    ],
+    "search": {
+      "names": [
+        "Herod"
+      ],
+      "books": [
+        "mat:2",
+        "luk:1"
+      ]
+    }
+  },
+  {
+    "id": "archelaus",
+    "name": "Archelaus",
+    "aliases": [],
+    "gender": "m",
+    "role": "Ethnarch of Judea",
+    "era": "Life of Christ",
+    "summary": "Archelaus, son of Herod the Great, ruled Judea, Samaria and Idumea after his father's death (4 BC - AD 6) until Rome deposed him for misrule. Fearing him, Joseph withdrew with the child and Mary to Galilee and settled in Nazareth.",
+    "catholic": "Many commentators see an echo of his journey to Rome to receive his kingdom, and the delegation sent against him, in Jesus' parable of the nobleman (Lk 19:12-14).",
+    "know": [
+      "Son of Herod the Great (Mt 2:22).",
+      "His reign is why the Holy Family settled in Nazareth (Mt 2:22-23).",
+      "Deposed by Augustus in AD 6."
+    ],
+    "keyPassages": [
+      "mat 2:19-23"
+    ],
+    "father": "herod-the-great",
+    "mother": null,
+    "spouses": [],
+    "children": [],
+    "relations": [
+      {
+        "to": "joseph-husband-of-mary",
+        "type": "feared by",
+        "ref": "mat 2:22"
+      }
+    ],
+    "search": {
+      "names": [
+        "Archelaus"
+      ],
+      "books": null
+    }
+  },
+  {
+    "id": "herod-antipas",
+    "name": "Herod Antipas",
+    "aliases": [
+      "Herod",
+      "Herod the tetrarch"
+    ],
+    "gender": "m",
+    "role": "Tetrarch of Galilee",
+    "era": "Life of Christ",
+    "summary": "Herod Antipas, son of Herod the Great, was tetrarch of Galilee and Perea (4 BC - AD 39). He married Herodias, his brother Philip's wife; rebuked by John the Baptist, he imprisoned him and, trapped by an oath at his birthday feast, had him beheaded. Jesus called him 'that fox'; at the Passion Pilate sent Jesus to him, and he mocked him and sent him back.",
+    "catholic": "Antipas is a figure of conscience stifled by pride and human respect: he 'heard John gladly' yet killed him rather than break a rash oath before his guests. The early Church remembered him with Pilate among those gathered against God's 'holy servant Jesus' (Acts 4:27). Rome later exiled him (Josephus).",
+    "know": [
+      "Tetrarch of Galilee (Lk 3:1) - the 'Herod' of Jesus' ministry.",
+      "Beheaded John the Baptist (Mk 6:14-29).",
+      "Called 'that fox' by Jesus (Lk 13:32).",
+      "Mocked Jesus and became friends with Pilate (Lk 23:8-12)."
+    ],
+    "keyPassages": [
+      "mrk 6:14-29",
+      "luk 3:19-20",
+      "luk 9:7-9",
+      "luk 13:31-33",
+      "luk 23:6-12",
+      "act 4:27"
+    ],
+    "father": "herod-the-great",
+    "mother": null,
+    "spouses": [
+      "herodias"
+    ],
+    "children": [],
+    "relations": [
+      {
+        "to": "john-the-baptist",
+        "type": "imprisoned and beheaded",
+        "ref": "mat 14:3-12"
+      },
+      {
+        "to": "jesus",
+        "type": "mocked",
+        "ref": "luk 23:11"
+      },
+      {
+        "to": "pontius-pilate",
+        "type": "became friends with",
+        "ref": "luk 23:12"
+      },
+      {
+        "to": "philip-husband-of-herodias",
+        "type": "took the wife of his brother",
+        "ref": "mrk 6:17"
+      },
+      {
+        "to": "philip-the-tetrarch",
+        "type": "brother of",
+        "ref": "luk 3:1"
+      },
+      {
+        "to": "chuza",
+        "type": "employer of",
+        "ref": "luk 8:3"
+      }
+    ],
+    "search": {
+      "names": [
+        "Herod"
+      ],
+      "books": [
+        "mat:14",
+        "mrk:6",
+        "mrk:8",
+        "luk:3",
+        "luk:8",
+        "luk:9",
+        "luk:13",
+        "luk:23",
+        "act:4",
+        "act:13"
+      ]
+    }
+  },
+  {
+    "id": "philip-the-tetrarch",
+    "name": "Philip the tetrarch",
+    "aliases": [],
+    "gender": "m",
+    "role": "Tetrarch of Ituraea and Trachonitis",
+    "era": "Life of Christ",
+    "summary": "Philip, son of Herod the Great and brother of Antipas, was tetrarch of Ituraea and Trachonitis (4 BC - AD 34) in the fifteenth year of Tiberius (Lk 3:1). He rebuilt Paneas as Caesarea Philippi, where Peter would confess Jesus as the Christ.",
+    "catholic": "",
+    "know": [
+      "Named in Luke 3:1.",
+      "Founder of Caesarea Philippi (Mt 16:13) - historically known from Josephus.",
+      "Married Salome, daughter of Herodias (Josephus).",
+      "Most scholars distinguish him from Herodias's first husband."
+    ],
+    "keyPassages": [
+      "luk 3:1",
+      "mat 16:13"
+    ],
+    "father": "herod-the-great",
+    "mother": null,
+    "spouses": [
+      "salome-daughter-of-herodias"
+    ],
+    "children": [],
+    "relations": [
+      {
+        "to": "herod-antipas",
+        "type": "brother of",
+        "ref": "luk 3:1"
+      }
+    ],
+    "search": {
+      "names": [
+        "Philip"
+      ],
+      "books": [
+        "luk:3"
+      ]
+    }
+  },
+  {
+    "id": "philip-husband-of-herodias",
+    "name": "Philip, first husband of Herodias",
+    "aliases": [],
+    "gender": "m",
+    "role": "Son of Herod the Great",
+    "era": "Life of Christ",
+    "summary": "The Gospels call Herodias 'his brother Philip's wife' (Mt 14:3; Mk 6:17): this Philip, a son of Herod the Great, was her first husband before she left him for Herod Antipas.",
+    "catholic": "",
+    "know": [
+      "Josephus calls Herodias's first husband Herod (often called Herod II or 'Herod Philip'), a son of Herod the Great who held no territory.",
+      "Most scholars distinguish him from Philip the tetrarch of Luke 3:1.",
+      "Father of Salome according to Josephus."
+    ],
+    "keyPassages": [
+      "mat 14:3",
+      "mrk 6:17"
+    ],
+    "father": "herod-the-great",
+    "mother": null,
+    "spouses": [
+      "herodias"
+    ],
+    "children": [
+      "salome-daughter-of-herodias"
+    ],
+    "relations": [
+      {
+        "to": "herod-antipas",
+        "type": "brother of",
+        "ref": "mrk 6:17"
+      }
+    ],
+    "search": {
+      "names": [
+        "Philip"
+      ],
+      "books": [
+        "mat:14",
+        "mrk:6"
+      ]
+    }
+  },
+  {
+    "id": "herodias",
+    "name": "Herodias",
+    "aliases": [],
+    "gender": "f",
+    "role": "Wife of Herod Antipas",
+    "era": "Life of Christ",
+    "summary": "Herodias, granddaughter of Herod the Great, left her husband Philip to marry his brother Herod Antipas. When John the Baptist declared the marriage unlawful, she nursed a grudge against him, and at Herod's birthday feast she prompted her daughter to ask for John's head on a platter.",
+    "catholic": "Herodias is often compared with Jezebel, who persecuted Elijah, since Jesus identifies John with Elijah. John's death for rebuking her marriage makes him a martyr for the indissolubility and holiness of marriage.",
+    "know": [
+      "Wife first of Philip, then of his brother Herod Antipas (Mk 6:17).",
+      "Held a grudge against John the Baptist (Mk 6:19).",
+      "Prompted her daughter to request John's head (Mt 14:8)."
+    ],
+    "keyPassages": [
+      "mat 14:3-11",
+      "mrk 6:17-28",
+      "luk 3:19-20"
+    ],
+    "father": null,
+    "mother": null,
+    "spouses": [
+      "philip-husband-of-herodias",
+      "herod-antipas"
+    ],
+    "children": [
+      "salome-daughter-of-herodias"
+    ],
+    "relations": [
+      {
+        "to": "john-the-baptist",
+        "type": "had beheaded",
+        "ref": "mrk 6:19-24"
+      }
+    ],
+    "search": {
+      "names": [
+        "Herodias"
+      ],
+      "books": null
+    }
+  },
+  {
+    "id": "salome-daughter-of-herodias",
+    "name": "Salome, daughter of Herodias",
+    "aliases": [],
+    "gender": "f",
+    "role": "Daughter of Herodias",
+    "era": "Life of Christ",
+    "summary": "The 'daughter of Herodias' danced at Herod Antipas's birthday feast and so pleased him that he swore to give her whatever she asked; prompted by her mother, she asked for the head of John the Baptist on a platter.",
+    "catholic": "",
+    "know": [
+      "The Gospels do not name her; the name Salome comes from the historian Josephus.",
+      "Josephus says she later married Philip the tetrarch.",
+      "Distinct from Salome the disciple at the cross (Mk 15:40)."
+    ],
+    "keyPassages": [
+      "mat 14:6-11",
+      "mrk 6:21-28"
+    ],
+    "father": "philip-husband-of-herodias",
+    "mother": "herodias",
+    "spouses": [
+      "philip-the-tetrarch"
+    ],
+    "children": [],
+    "relations": [
+      {
+        "to": "john-the-baptist",
+        "type": "requested the head of",
+        "ref": "mrk 6:25"
+      },
+      {
+        "to": "herod-antipas",
+        "type": "danced before",
+        "ref": "mrk 6:22"
+      }
+    ],
+    "search": {
+      "names": [
+        "daughter of Herodias"
+      ],
+      "books": [
+        "mat:14",
+        "mrk:6"
+      ]
+    }
+  },
+  {
+    "id": "pontius-pilate",
+    "name": "Pontius Pilate",
+    "aliases": [
+      "Pilate"
+    ],
+    "gender": "m",
+    "role": "Roman governor of Judea",
+    "era": "Life of Christ",
+    "summary": "Pontius Pilate was Roman prefect of Judea (AD 26-36). At the Passion he questioned Jesus about his kingship ('What is truth?'), found no basis for a charge, sent him to Herod, offered to release him, then had him scourged, presented him to the crowd, released Barabbas, washed his hands, and handed Jesus over to be crucified, posting the inscription 'King of the Jews'.",
+    "catholic": "Pilate is named in the Creed - 'suffered under Pontius Pilate' - which anchors the Passion in real, datable history. The Church sees in him the weakness of a judge who knew the truth but yielded to fear and expediency. His existence is confirmed by Roman historians and by the 'Pilate stone' found at Caesarea in 1961.",
+    "know": [
+      "Prefect of Judea, AD 26-36 (Lk 3:1).",
+      "'What is truth?' (Jn 18:38).",
+      "Washed his hands before the crowd (Mt 27:24).",
+      "Named in the Apostles' and Nicene Creeds."
+    ],
+    "keyPassages": [
+      "mrk 15:1-15",
+      "luk 23:1-25",
+      "jhn 18:28-38",
+      "jhn 19:1-22",
+      "mat 27:24-26"
+    ],
+    "father": null,
+    "mother": null,
+    "spouses": [],
+    "children": [],
+    "relations": [
+      {
+        "to": "jesus",
+        "type": "condemned",
+        "ref": "jhn 19:16"
+      },
+      {
+        "to": "barabbas",
+        "type": "released",
+        "ref": "mrk 15:15"
+      },
+      {
+        "to": "herod-antipas",
+        "type": "became friends with",
+        "ref": "luk 23:12"
+      },
+      {
+        "to": "joseph-of-arimathea",
+        "type": "granted Jesus' body to",
+        "ref": "mrk 15:43-45"
+      },
+      {
+        "to": "tiberius-caesar",
+        "type": "governor under",
+        "ref": "luk 3:1"
+      }
+    ],
+    "search": {
+      "names": [
+        "Pilate"
+      ],
+      "books": null
+    }
+  },
+  {
+    "id": "caiaphas",
+    "name": "Caiaphas",
+    "aliases": [],
+    "gender": "m",
+    "role": "High priest",
+    "era": "Life of Christ",
+    "summary": "Joseph Caiaphas, son-in-law of Annas, was high priest (c. AD 18-36). He counselled the Sanhedrin that it was better for one man to die for the people than for the whole nation to perish, presided over Jesus' night trial, tore his robes at Jesus' claim to be the Christ, and sent him to Pilate. He later interrogated Peter and John.",
+    "catholic": "John notes that Caiaphas unwittingly prophesied that Jesus would die 'for the nation, and not for the nation only, but ... to gather together into one the children of God who are scattered abroad' (Jn 11:51-52; CCC 596). An ossuary inscribed 'Joseph son of Caiaphas', found in Jerusalem in 1990, is widely thought to be his family's.",
+    "know": [
+      "High priest 'that year' (Jn 11:49).",
+      "Son-in-law of Annas (Jn 18:13).",
+      "Presided at Jesus' trial before the council (Mt 26:57-66).",
+      "Questioned Peter and John (Acts 4:6)."
+    ],
+    "keyPassages": [
+      "jhn 11:45-53",
+      "mat 26:3-5",
+      "mat 26:57-66",
+      "jhn 18:24-28",
+      "act 4:5-7"
+    ],
+    "father": null,
+    "mother": null,
+    "spouses": [],
+    "children": [],
+    "relations": [
+      {
+        "to": "annas",
+        "type": "son-in-law of",
+        "ref": "jhn 18:13"
+      },
+      {
+        "to": "jesus",
+        "type": "tried",
+        "ref": "mat 26:57-66"
+      },
+      {
+        "to": "pontius-pilate",
+        "type": "handed Jesus over to",
+        "ref": "jhn 18:28"
+      },
+      {
+        "to": "peter",
+        "type": "interrogated",
+        "ref": "act 4:5-7"
+      }
+    ],
+    "search": {
+      "names": [
+        "Caiaphas"
+      ],
+      "books": null
+    }
+  },
+  {
+    "id": "annas",
+    "name": "Annas",
+    "aliases": [],
+    "gender": "m",
+    "role": "Former high priest",
+    "era": "Life of Christ",
+    "summary": "Annas had been high priest (AD 6-15) and remained the senior power in the priestly family; five of his sons and his son-in-law Caiaphas held the office after him. After his arrest Jesus was led first to Annas, who questioned him about his disciples and teaching before sending him bound to Caiaphas.",
+    "catholic": "Luke's phrase 'the high priesthood of Annas and Caiaphas' (Lk 3:2) reflects Annas's continuing authority. With Caiaphas he later confronted the apostles in Acts 4.",
+    "know": [
+      "Father-in-law of Caiaphas (Jn 18:13).",
+      "Questioned Jesus first after his arrest (Jn 18:19-24).",
+      "Named with Caiaphas in Luke 3:2 and Acts 4:6."
+    ],
+    "keyPassages": [
+      "luk 3:2",
+      "jhn 18:12-14",
+      "jhn 18:19-24",
+      "act 4:5-7"
+    ],
+    "father": null,
+    "mother": null,
+    "spouses": [],
+    "children": [],
+    "relations": [
+      {
+        "to": "caiaphas",
+        "type": "father-in-law of",
+        "ref": "jhn 18:13"
+      },
+      {
+        "to": "jesus",
+        "type": "questioned",
+        "ref": "jhn 18:19-24"
+      }
+    ],
+    "search": {
+      "names": [
+        "Annas"
+      ],
+      "books": null
+    }
+  },
+  {
+    "id": "tiberius-caesar",
+    "name": "Tiberius Caesar",
+    "aliases": [
+      "Caesar"
+    ],
+    "gender": "m",
+    "role": "Roman emperor",
+    "era": "Life of Christ",
+    "summary": "Tiberius succeeded Augustus as emperor (AD 14-37). Luke dates the start of John the Baptist's ministry to 'the fifteenth year of the reign of Tiberius Caesar' (Lk 3:1), and Jesus' public life, death and resurrection took place under his rule.",
+    "catholic": "The 'Caesar' whose image was on the denarius when Jesus said 'Give to Caesar the things that are Caesar's, and to God the things that are God's' (Mt 22:21) was Tiberius - a key text for Catholic teaching on the relation of Church and state. Antipas named the city of Tiberias, on the Sea of Tiberias, after him (Jn 6:1).",
+    "know": [
+      "Emperor AD 14-37; adopted son and successor of Augustus.",
+      "His fifteenth year dates John's ministry (Lk 3:1).",
+      "Reigning emperor during Jesus' ministry and crucifixion."
+    ],
+    "keyPassages": [
+      "luk 3:1-2",
+      "mat 22:17-21"
+    ],
+    "father": null,
+    "mother": null,
+    "spouses": [],
+    "children": [],
+    "relations": [
+      {
+        "to": "caesar-augustus",
+        "type": "successor of",
+        "ref": "luk 3:1"
+      },
+      {
+        "to": "pontius-pilate",
+        "type": "appointed governor under him",
+        "ref": "luk 3:1"
+      }
+    ],
+    "search": {
+      "names": [
+        "Tiberius"
+      ],
+      "books": null
+    }
+  },
+  {
+    "id": "caesar-augustus",
+    "name": "Caesar Augustus",
+    "aliases": [
+      "Augustus"
+    ],
+    "gender": "m",
+    "role": "Roman emperor",
+    "era": "Life of Christ",
+    "summary": "Augustus, the first Roman emperor (27 BC - AD 14), issued the decree that 'all the world should be enrolled', which brought Joseph and Mary to Bethlehem, the city of David, where Jesus was born.",
+    "catholic": "Luke sets the birth of the Prince of Peace in the reign of the emperor hailed as bringer of the Pax Romana and 'saviour', quietly contrasting the two. The Fathers saw God's providence using the census to fulfil the prophecy that the Messiah would be born in Bethlehem (Mic 5:2).",
+    "know": [
+      "First Roman emperor.",
+      "His census decree brought the Holy Family to Bethlehem (Lk 2:1-4).",
+      "Reigned when Jesus was born."
+    ],
+    "keyPassages": [
+      "luk 2:1-7"
+    ],
+    "father": null,
+    "mother": null,
+    "spouses": [],
+    "children": [],
+    "relations": [
+      {
+        "to": "quirinius",
+        "type": "census carried out by",
+        "ref": "luk 2:2"
+      }
+    ],
+    "search": {
+      "names": [
+        "Augustus"
+      ],
+      "books": null
+    }
+  },
+  {
+    "id": "quirinius",
+    "name": "Quirinius",
+    "aliases": [],
+    "gender": "m",
+    "role": "Roman governor of Syria",
+    "era": "Life of Christ",
+    "summary": "Publius Sulpicius Quirinius was governor of Syria; Luke dates the enrollment that brought Joseph and Mary to Bethlehem as 'the first enrollment made when Quirinius was governor of Syria' (Lk 2:2).",
+    "catholic": "",
+    "know": [
+      "Named in Luke 2:2.",
+      "The dating is debated, since Josephus records a census under Quirinius in AD 6; proposed solutions include an earlier administrative role or reading 'first' as 'before'."
+    ],
+    "keyPassages": [
+      "luk 2:1-5"
+    ],
+    "father": null,
+    "mother": null,
+    "spouses": [],
+    "children": [],
+    "relations": [
+      {
+        "to": "caesar-augustus",
+        "type": "official of",
+        "ref": "luk 2:1-2"
+      }
+    ],
+    "search": {
+      "names": [
+        "Quirinius"
+      ],
+      "books": null
+    }
+  },
+  {
+    "id": "lysanias",
+    "name": "Lysanias",
+    "aliases": [],
+    "gender": "m",
+    "role": "Tetrarch of Abilene",
+    "era": "Life of Christ",
+    "summary": "Lysanias is named as tetrarch of Abilene in the fifteenth year of Tiberius, when the word of God came to John the Baptist (Lk 3:1).",
+    "catholic": "",
+    "know": [
+      "Named only in Luke 3:1.",
+      "An inscription from Abila confirms a tetrarch Lysanias in the early first century AD."
+    ],
+    "keyPassages": [
+      "luk 3:1",
+      "luk 3:1-2"
+    ],
+    "father": null,
+    "mother": null,
+    "spouses": [],
+    "children": [],
+    "relations": [],
+    "search": {
+      "names": [
+        "Lysanias"
+      ],
+      "books": null
+    }
+  }
+]
