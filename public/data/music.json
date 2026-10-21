@@ -1,0 +1,5701 @@
+{
+ "parts": [
+  {
+   "id": "entrance",
+   "name": "Entrance Chant",
+   "when": "as the priest and ministers process in",
+   "about": "The opening song begins the celebration, deepens the unity of the gathered people, draws their minds into the season or feast, and accompanies the procession of the priest and ministers (GIRM 47). It may be the antiphon and psalm from the Roman Missal or Graduale, or another suitable liturgical song (GIRM 48).",
+   "examples": [
+    "attende-domine",
+    "hosanna-filio-david",
+    "vidi-aquam",
+    "asperges-me",
+    "veni-creator-spiritus",
+    "rorate-caeli",
+    "puer-natus-est",
+    "requiem-aeternam",
+    "christus-vincit",
+    "holy-god-we-praise-thy-name",
+    "immaculate-mary",
+    "o-come-all-ye-faithful",
+    "o-come-o-come-emmanuel",
+    "holy-holy-holy",
+    "come-holy-ghost",
+    "christ-the-lord-is-risen-today",
+    "jesus-christ-is-risen-today",
+    "crown-him-with-many-crowns",
+    "praise-to-the-lord-the-almighty",
+    "all-creatures-of-our-god-and-king",
+    "to-jesus-christ-our-sovereign-king",
+    "be-thou-my-vision",
+    "joyful-joyful-we-adore-thee",
+    "lift-high-the-cross",
+    "o-god-our-help-in-ages-past",
+    "at-the-name-of-jesus",
+    "hail-redeemer-king-divine",
+    "all-glory-laud-and-honor",
+    "o-come-divine-messiah",
+    "ye-watchers-and-ye-holy-ones",
+    "for-all-the-saints",
+    "forty-days-and-forty-nights",
+    "city-of-god",
+    "gather-us-in",
+    "sing-a-new-song",
+    "christ-be-our-light",
+    "canticle-of-the-sun",
+    "glory-and-praise-to-our-god",
+    "though-the-mountains-may-fall",
+    "sing-to-the-mountains",
+    "lift-up-your-hearts",
+    "sing-of-the-lords-goodness",
+    "christ-be-beside-me"
+   ]
+  },
+  {
+   "id": "kyrie",
+   "name": "Kyrie (Lord, Have Mercy)",
+   "when": "after the Penitential Act, or as part of it",
+   "about": "A short litany in which the people acclaim the Lord and ask his mercy, usually with each invocation sung twice by cantor and assembly (GIRM 52). Its Greek words are among the oldest in the Roman Mass.",
+   "examples": [
+    "kyrie-de-angelis",
+    "kyrie-xviii",
+    "attende-domine",
+    "vidi-aquam",
+    "asperges-me",
+    "mass-of-creation",
+    "mass-of-christ-the-savior",
+    "mass-of-renewal",
+    "heritage-mass",
+    "mass-of-st-ann",
+    "mass-of-joy-and-peace"
+   ]
+  },
+  {
+   "id": "gloria",
+   "name": "Gloria",
+   "when": "after the Kyrie on Sundays (outside Advent and Lent), solemnities, and feasts",
+   "about": "An ancient hymn in which the Church, gathered in the Holy Spirit, praises the Father and the Lamb. It is meant to be sung and its text may not be replaced by another song (GIRM 53); it is omitted on the Sundays of Advent and Lent.",
+   "examples": [
+    "gloria-de-angelis",
+    "angels-we-have-heard-on-high",
+    "mass-of-creation",
+    "mass-of-christ-the-savior",
+    "mass-of-renewal",
+    "heritage-mass",
+    "mass-of-st-ann",
+    "mass-of-joy-and-peace"
+   ]
+  },
+  {
+   "id": "psalm",
+   "name": "Responsorial Psalm",
+   "when": "after the First Reading",
+   "about": "The psalm is an integral part of the Liturgy of the Word, ideally sung with the people answering a refrain (GIRM 61). It should be the psalm itself as given in the Lectionary or an approved collection, so a loose hymn paraphrase is no substitute; the psalm-based songs listed here are better suited to Communion or to seasonal common psalms where approved.",
+   "examples": [
+    "taste-and-see",
+    "shepherd-me-o-god",
+    "sing-to-the-mountains",
+    "center-of-my-life"
+   ]
+  },
+  {
+   "id": "gospel-acclamation",
+   "name": "Gospel Acclamation",
+   "when": "standing, before the Gospel is proclaimed",
+   "about": "The assembly welcomes the Lord who is about to speak in the Gospel and professes its faith by singing (GIRM 62). The Alleluia is sung in every season except Lent, when another acclamation from the Lectionary takes its place (GIRM 62).",
+   "examples": [
+    "lauda-sion",
+    "victimae-paschali-laudes",
+    "veni-sancte-spiritus",
+    "mass-of-creation",
+    "mass-of-christ-the-savior",
+    "mass-of-renewal",
+    "heritage-mass",
+    "mass-of-st-ann",
+    "mass-of-joy-and-peace",
+    "celtic-alleluia"
+   ]
+  },
+  {
+   "id": "offertory",
+   "name": "Preparation of the Gifts (Offertory)",
+   "when": "while the bread and wine are brought forward and the altar is prepared",
+   "about": "A chant may accompany the procession with the gifts and continue until they are placed on the altar (GIRM 74). Unlike the Sanctus or Agnus Dei, its text is not fixed, so hymns and instrumental music are common here.",
+   "examples": [
+    "ave-maria-chant",
+    "ubi-caritas",
+    "what-child-is-this",
+    "let-all-mortal-flesh-keep-silence",
+    "where-charity-and-love-prevail",
+    "here-i-am-lord",
+    "pescador-de-hombres"
+   ]
+  },
+  {
+   "id": "sanctus",
+   "name": "Holy, Holy, Holy (Sanctus)",
+   "when": "at the end of the Preface of the Eucharistic Prayer",
+   "about": "The whole assembly joins the angels' song from Isaiah 6 and the crowds' Hosanna from Palm Sunday (GIRM 79b). It is part of the Eucharistic Prayer and is sung by everyone, priest and people together.",
+   "examples": [
+    "sanctus-de-angelis",
+    "sanctus-xviii",
+    "mass-of-creation",
+    "mass-of-christ-the-savior",
+    "mass-of-renewal",
+    "heritage-mass",
+    "mass-of-st-ann",
+    "mass-of-joy-and-peace"
+   ]
+  },
+  {
+   "id": "mystery-of-faith",
+   "name": "Mystery of Faith (Memorial Acclamation)",
+   "when": "after the consecration, when the priest invites it",
+   "about": "The people proclaim the death and Resurrection of Christ and look to his coming again, using one of the acclamations given in the Roman Missal. Because its texts are fixed, it is sung as part of a Mass setting rather than replaced by a hymn.",
+   "examples": [
+    "mass-of-creation",
+    "mass-of-christ-the-savior",
+    "mass-of-renewal",
+    "heritage-mass",
+    "mass-of-st-ann",
+    "mass-of-joy-and-peace"
+   ]
+  },
+  {
+   "id": "great-amen",
+   "name": "Great Amen",
+   "when": "after the doxology that concludes the Eucharistic Prayer",
+   "about": "The priest offers the final doxology and the people confirm and conclude the whole Eucharistic Prayer with their Amen (GIRM 79h). Many settings stretch it into a festive, repeated acclamation.",
+   "examples": [
+    "per-ipsum",
+    "mass-of-creation",
+    "mass-of-christ-the-savior",
+    "mass-of-renewal",
+    "heritage-mass",
+    "mass-of-st-ann",
+    "mass-of-joy-and-peace"
+   ]
+  },
+  {
+   "id": "agnus-dei",
+   "name": "Lamb of God (Agnus Dei)",
+   "when": "during the breaking of the bread",
+   "about": "The invocation accompanies the fraction of the consecrated bread and may be repeated as long as the breaking continues, always ending with the plea for peace (GIRM 83).",
+   "examples": [
+    "agnus-dei-de-angelis",
+    "agnus-dei-xviii",
+    "mass-of-creation",
+    "mass-of-christ-the-savior",
+    "mass-of-renewal",
+    "heritage-mass",
+    "mass-of-st-ann",
+    "mass-of-joy-and-peace"
+   ]
+  },
+  {
+   "id": "communion",
+   "name": "Communion Chant",
+   "when": "while the priest and people receive Communion",
+   "about": "The singing expresses the communicants' unity of voice and heart and highlights the communal character of the procession (GIRM 86). It begins when the priest receives and may be the Missal or Graduale antiphon, a psalm, or another suitable song (GIRM 87); a hymn of praise may follow once all have received (GIRM 88).",
+   "examples": [
+    "ave-verum-corpus",
+    "panis-angelicus",
+    "o-salutaris-hostia",
+    "adoro-te-devote",
+    "lux-aeterna",
+    "be-thou-my-vision",
+    "o-lord-i-am-not-worthy",
+    "soul-of-my-savior",
+    "jesus-my-lord-my-god-my-all",
+    "alleluia-sing-to-jesus",
+    "humbly-we-adore-thee",
+    "sweet-sacrament-divine",
+    "the-king-of-love-my-shepherd-is",
+    "on-eagles-wings",
+    "be-not-afraid",
+    "one-bread-one-body",
+    "you-are-mine",
+    "taste-and-see",
+    "shepherd-me-o-god",
+    "i-am-the-bread-of-life",
+    "eye-has-not-seen",
+    "prayer-of-st-francis",
+    "pescador-de-hombres",
+    "we-remember",
+    "here-i-am-to-worship",
+    "open-my-eyes",
+    "the-servant-song",
+    "table-of-plenty",
+    "you-satisfy-the-hungry-heart",
+    "come-to-the-water",
+    "earthen-vessels",
+    "center-of-my-life",
+    "ubi-caritas-taize"
+   ]
+  },
+  {
+   "id": "recessional",
+   "name": "Recessional (Closing Song)",
+   "when": "as the priest and ministers leave",
+   "about": "The General Instruction of the Roman Missal does not prescribe a closing hymn: the Mass ends with the dismissal, and the ministers then reverence the altar and withdraw (GIRM 90). A closing hymn or organ music is a widespread custom in the United States rather than a required part of the rite.",
+   "examples": [
+    "in-paradisum",
+    "te-deum",
+    "christus-vincit",
+    "holy-god-we-praise-thy-name",
+    "immaculate-mary",
+    "hark-the-herald-angels-sing",
+    "joy-to-the-world",
+    "faith-of-our-fathers",
+    "christ-the-lord-is-risen-today",
+    "jesus-christ-is-risen-today",
+    "the-strife-is-oer",
+    "crown-him-with-many-crowns",
+    "now-thank-we-all-our-god",
+    "hail-holy-queen-enthroned-above",
+    "to-jesus-christ-our-sovereign-king",
+    "joyful-joyful-we-adore-thee",
+    "lift-high-the-cross",
+    "hail-redeemer-king-divine",
+    "good-christian-friends-rejoice",
+    "ye-watchers-and-ye-holy-ones",
+    "here-i-am-lord",
+    "city-of-god",
+    "lord-of-the-dance",
+    "sing-a-new-song",
+    "canticle-of-the-sun",
+    "the-summons",
+    "let-there-be-peace-on-earth",
+    "how-great-thou-art",
+    "glory-and-praise-to-our-god",
+    "we-are-called",
+    "sing-of-the-lords-goodness"
+   ]
+  }
+ ],
+ "seasons": [
+  {
+   "id": "advent",
+   "name": "Advent",
+   "about": "The four weeks of expectant preparation before Christmas. The Gloria is omitted on the Sundays of Advent, and music is meant to be more restrained than at Christmas, so the full joy of the feast is not anticipated.",
+   "songs": [
+    "kyrie-xviii",
+    "sanctus-xviii",
+    "agnus-dei-xviii",
+    "alma-redemptoris-mater",
+    "ave-maria-chant",
+    "magnificat-latin",
+    "rorate-caeli",
+    "o-come-o-come-emmanuel",
+    "let-all-mortal-flesh-keep-silence",
+    "o-little-town-of-bethlehem",
+    "lo-how-a-rose",
+    "creator-of-the-stars-of-night",
+    "o-come-divine-messiah",
+    "christ-be-our-light",
+    "holy-is-his-name",
+    "holy-darkness"
+   ]
+  },
+  {
+   "id": "christmas",
+   "name": "Christmas",
+   "about": "From the Vigil of Christmas through the Baptism of the Lord, including the Holy Family, Mary Mother of God, and the Epiphany. Carols that stayed quiet in Advent come into their own.",
+   "songs": [
+    "gloria-de-angelis",
+    "alma-redemptoris-mater",
+    "puer-natus-est",
+    "hodie-christus-natus-est",
+    "silent-night",
+    "o-come-all-ye-faithful",
+    "hark-the-herald-angels-sing",
+    "joy-to-the-world",
+    "angels-we-have-heard-on-high",
+    "what-child-is-this",
+    "let-all-mortal-flesh-keep-silence",
+    "sing-of-mary",
+    "good-christian-friends-rejoice",
+    "the-first-noel",
+    "o-little-town-of-bethlehem",
+    "lo-how-a-rose",
+    "we-three-kings",
+    "it-came-upon-the-midnight-clear"
+   ]
+  },
+  {
+   "id": "lent",
+   "name": "Lent",
+   "about": "The forty days from Ash Wednesday leading to the Easter Triduum. The Gloria is omitted and the Alleluia is not sung at all until the Easter Vigil, and instruments are used more sparingly.",
+   "songs": [
+    "kyrie-xviii",
+    "sanctus-xviii",
+    "agnus-dei-xviii",
+    "ave-regina-caelorum",
+    "attende-domine",
+    "parce-domine",
+    "stabat-mater",
+    "vexilla-regis",
+    "asperges-me",
+    "o-sacred-head-surrounded",
+    "were-you-there",
+    "lift-high-the-cross",
+    "at-the-cross-her-station-keeping",
+    "forty-days-and-forty-nights",
+    "on-eagles-wings",
+    "you-are-mine",
+    "hosea",
+    "ashes",
+    "open-my-eyes",
+    "come-to-the-water",
+    "holy-darkness",
+    "jesus-remember-me"
+   ]
+  },
+  {
+   "id": "holy-week",
+   "name": "Holy Week",
+   "about": "From Palm Sunday through the Sacred Paschal Triduum: the Mass of the Lord's Supper, Good Friday, and the Easter Vigil. Each day has its own distinctive chants, from the Palm Sunday Hosannas to the Exsultet.",
+   "songs": [
+    "ave-verum-corpus",
+    "tantum-ergo",
+    "pange-lingua",
+    "ubi-caritas",
+    "stabat-mater",
+    "vexilla-regis",
+    "crux-fidelis",
+    "hosanna-filio-david",
+    "pueri-hebraeorum",
+    "exsultet",
+    "o-sacred-head-surrounded",
+    "were-you-there",
+    "lift-high-the-cross",
+    "at-the-name-of-jesus",
+    "where-charity-and-love-prevail",
+    "at-the-cross-her-station-keeping",
+    "all-glory-laud-and-honor",
+    "the-servant-song",
+    "jesus-remember-me",
+    "ubi-caritas-taize"
+   ]
+  },
+  {
+   "id": "easter",
+   "name": "Easter",
+   "about": "The fifty days from Easter Sunday to Pentecost, celebrated as one great feast. The Alleluia returns and the Gloria is sung on every Sunday.",
+   "songs": [
+    "gloria-de-angelis",
+    "regina-caeli",
+    "exsultet",
+    "victimae-paschali-laudes",
+    "vidi-aquam",
+    "christ-the-lord-is-risen-today",
+    "jesus-christ-is-risen-today",
+    "the-strife-is-oer",
+    "crown-him-with-many-crowns",
+    "joyful-joyful-we-adore-thee",
+    "ye-sons-and-daughters",
+    "alleluia-sing-to-jesus",
+    "lord-of-the-dance",
+    "sing-a-new-song",
+    "celtic-alleluia",
+    "sing-to-the-mountains"
+   ]
+  },
+  {
+   "id": "pentecost",
+   "name": "Pentecost",
+   "about": "The close of the Easter season, celebrating the outpouring of the Holy Spirit; the Sequence Veni Sancte Spiritus is sung before the Gospel on Pentecost Sunday. These songs also suit Confirmation.",
+   "songs": [
+    "veni-creator-spiritus",
+    "veni-sancte-spiritus",
+    "come-holy-ghost",
+    "holy-spirit-lord-of-light",
+    "come-down-o-love-divine"
+   ]
+  },
+  {
+   "id": "ordinary",
+   "name": "Ordinary Time",
+   "about": "The 'counted' weeks of the year outside the major seasons, when the Church follows the public ministry of Christ. A broad repertoire of hymns of praise, discipleship, and mission fits here.",
+   "songs": [
+    "holy-god-we-praise-thy-name",
+    "faith-of-our-fathers",
+    "holy-holy-holy",
+    "crown-him-with-many-crowns",
+    "praise-to-the-lord-the-almighty",
+    "now-thank-we-all-our-god",
+    "all-creatures-of-our-god-and-king",
+    "to-jesus-christ-our-sovereign-king",
+    "be-thou-my-vision",
+    "joyful-joyful-we-adore-thee",
+    "amazing-grace",
+    "o-god-our-help-in-ages-past",
+    "at-the-name-of-jesus",
+    "where-charity-and-love-prevail",
+    "hail-redeemer-king-divine",
+    "come-down-o-love-divine",
+    "the-king-of-love-my-shepherd-is",
+    "here-i-am-lord",
+    "be-not-afraid",
+    "city-of-god",
+    "gather-us-in",
+    "eye-has-not-seen",
+    "pescador-de-hombres",
+    "christ-be-our-light",
+    "blest-are-they",
+    "we-remember",
+    "canticle-of-the-sun",
+    "the-summons",
+    "how-great-thou-art",
+    "mass-of-creation",
+    "mass-of-christ-the-savior",
+    "mass-of-renewal",
+    "heritage-mass",
+    "mass-of-st-ann",
+    "mass-of-joy-and-peace",
+    "glory-and-praise-to-our-god",
+    "open-my-eyes",
+    "the-servant-song",
+    "we-are-called",
+    "though-the-mountains-may-fall",
+    "earthen-vessels",
+    "lift-up-your-hearts",
+    "sing-of-the-lords-goodness",
+    "center-of-my-life",
+    "christ-be-beside-me"
+   ]
+  },
+  {
+   "id": "marian",
+   "name": "Marian Feasts",
+   "about": "Songs honoring the Blessed Virgin Mary for her solemnities and feasts, for May and October devotions, and for the seasonal Marian antiphons sung after Night Prayer.",
+   "songs": [
+    "salve-regina",
+    "regina-caeli",
+    "alma-redemptoris-mater",
+    "ave-regina-caelorum",
+    "ave-maria-chant",
+    "ave-maris-stella",
+    "sub-tuum-praesidium",
+    "o-sanctissima",
+    "magnificat-latin",
+    "stabat-mater",
+    "immaculate-mary",
+    "sing-of-mary",
+    "bring-flowers-of-the-rarest",
+    "hail-holy-queen-enthroned-above",
+    "at-the-cross-her-station-keeping",
+    "ave-maria-schubert",
+    "ave-maria-bach-gounod",
+    "holy-is-his-name",
+    "hail-mary-gentle-woman"
+   ]
+  },
+  {
+   "id": "eucharistic-adoration",
+   "name": "Eucharistic Adoration",
+   "about": "Songs for Exposition and Benediction of the Blessed Sacrament, Holy Hours, and Corpus Christi processions. The Tantum Ergo is traditionally sung before the blessing at Benediction.",
+   "songs": [
+    "ave-verum-corpus",
+    "panis-angelicus",
+    "tantum-ergo",
+    "o-salutaris-hostia",
+    "pange-lingua",
+    "adoro-te-devote",
+    "lauda-sion",
+    "let-all-mortal-flesh-keep-silence",
+    "o-lord-i-am-not-worthy",
+    "soul-of-my-savior",
+    "jesus-my-lord-my-god-my-all",
+    "alleluia-sing-to-jesus",
+    "humbly-we-adore-thee",
+    "sweet-sacrament-divine",
+    "i-am-the-bread-of-life",
+    "here-i-am-to-worship",
+    "you-satisfy-the-hungry-heart"
+   ]
+  },
+  {
+   "id": "funeral",
+   "name": "Funerals",
+   "about": "Songs for the Order of Christian Funerals, which express both grief and hope in the Resurrection. The In Paradisum is the traditional chant as the body is carried from the church.",
+   "songs": [
+    "sanctus-xviii",
+    "agnus-dei-xviii",
+    "salve-regina",
+    "ave-maria-chant",
+    "in-paradisum",
+    "requiem-aeternam",
+    "lux-aeterna",
+    "dies-irae",
+    "amazing-grace",
+    "o-god-our-help-in-ages-past",
+    "for-all-the-saints",
+    "the-king-of-love-my-shepherd-is",
+    "ave-maria-schubert",
+    "ave-maria-bach-gounod",
+    "on-eagles-wings",
+    "be-not-afraid",
+    "you-are-mine",
+    "shepherd-me-o-god",
+    "i-am-the-bread-of-life",
+    "eye-has-not-seen",
+    "prayer-of-st-francis",
+    "blest-are-they",
+    "we-remember",
+    "how-great-thou-art",
+    "jesus-remember-me"
+   ]
+  },
+  {
+   "id": "wedding",
+   "name": "Weddings",
+   "about": "Songs suited to a Catholic wedding, whether celebrated within Mass or not. Music should be sacred rather than secular; check parish guidelines, which often have a list.",
+   "songs": [
+    "ave-maria-chant",
+    "panis-angelicus",
+    "ubi-caritas",
+    "now-thank-we-all-our-god",
+    "joyful-joyful-we-adore-thee",
+    "where-charity-and-love-prevail",
+    "ave-maria-schubert",
+    "ave-maria-bach-gounod",
+    "prayer-of-st-francis",
+    "ubi-caritas-taize"
+   ]
+  },
+  {
+   "id": "saints",
+   "name": "Feasts of Saints",
+   "about": "Songs for All Saints' Day, the feasts of particular saints, and occasions that celebrate the communion of saints.",
+   "songs": [
+    "dies-irae",
+    "te-deum",
+    "christus-vincit",
+    "holy-god-we-praise-thy-name",
+    "faith-of-our-fathers",
+    "all-creatures-of-our-god-and-king",
+    "ye-watchers-and-ye-holy-ones",
+    "for-all-the-saints",
+    "prayer-of-st-francis",
+    "blest-are-they",
+    "canticle-of-the-sun",
+    "christ-be-beside-me"
+   ]
+  }
+ ],
+ "songs": [
+  {
+   "id": "kyrie-de-angelis",
+   "title": "Kyrie (Mass VIII, de Angelis)",
+   "latinTitle": "Kyrie eleison",
+   "composer": "Gregorian chant (Mass VIII, melody c. 15th–16th century)",
+   "textAuthor": "Traditional Latin liturgical text (Greek words, in use in the Roman Mass since antiquity)",
+   "year": null,
+   "publicDomain": true,
+   "lyrics": [
+    [
+     "Kyrie, eleison.",
+     "Kyrie, eleison.",
+     "Kyrie, eleison."
+    ],
+    [
+     "Christe, eleison.",
+     "Christe, eleison.",
+     "Christe, eleison."
+    ],
+    [
+     "Kyrie, eleison.",
+     "Kyrie, eleison.",
+     "Kyrie, eleison."
+    ]
+   ],
+   "translation": [
+    [
+     "Lord, have mercy.",
+     "Lord, have mercy.",
+     "Lord, have mercy."
+    ],
+    [
+     "Christ, have mercy.",
+     "Christ, have mercy.",
+     "Christ, have mercy."
+    ],
+    [
+     "Lord, have mercy.",
+     "Lord, have mercy.",
+     "Lord, have mercy."
+    ]
+   ],
+   "uses": [
+    "kyrie"
+   ],
+   "scripture": [
+    "mat 20:30-31",
+    "luk 18:13"
+   ],
+   "about": "The Kyrie is one of the few Greek texts kept in the Latin Mass, a cry for mercy addressed to Christ. The 'de Angelis' setting is the best-known Gregorian Mass in the United States and is often the first chant Mass a parish learns.",
+   "publisher": null
+  },
+  {
+   "id": "gloria-de-angelis",
+   "title": "Gloria (Mass VIII, de Angelis)",
+   "latinTitle": "Gloria in excelsis Deo",
+   "composer": "Gregorian chant (Mass VIII)",
+   "textAuthor": "Traditional Latin liturgical text (ancient Christian hymn, in the Roman Mass since the early Middle Ages)",
+   "year": null,
+   "publicDomain": true,
+   "lyrics": [
+    [
+     "Gloria in excelsis Deo",
+     "et in terra pax hominibus bonae voluntatis."
+    ],
+    [
+     "Laudamus te, benedicimus te,",
+     "adoramus te, glorificamus te,",
+     "gratias agimus tibi propter magnam gloriam tuam,",
+     "Domine Deus, Rex caelestis,",
+     "Deus Pater omnipotens."
+    ],
+    [
+     "Domine Fili unigenite, Iesu Christe,",
+     "Domine Deus, Agnus Dei, Filius Patris,",
+     "qui tollis peccata mundi, miserere nobis;",
+     "qui tollis peccata mundi, suscipe deprecationem nostram.",
+     "Qui sedes ad dexteram Patris, miserere nobis."
+    ],
+    [
+     "Quoniam tu solus Sanctus, tu solus Dominus,",
+     "tu solus Altissimus, Iesu Christe,",
+     "cum Sancto Spiritu: in gloria Dei Patris.",
+     "Amen."
+    ]
+   ],
+   "translation": [
+    [
+     "Glory be to God on high,",
+     "and peace on earth to people whom he favors."
+    ],
+    [
+     "You we praise, you we bless,",
+     "you we worship, you we glorify;",
+     "we thank you for the greatness of your glory,",
+     "O Lord God, King of heaven,",
+     "God the Father, ruler of all."
+    ],
+    [
+     "O Lord, only-begotten Son, Jesus Christ,",
+     "Lord God, Lamb of God, the Father's Son,",
+     "you take away the world's sins: show us mercy;",
+     "you take away the world's sins: take up our plea.",
+     "You are seated at the Father's right hand: show us mercy."
+    ],
+    [
+     "For you alone are the Holy One, you alone the Lord,",
+     "you alone the Most High, Jesus Christ,",
+     "together with the Holy Spirit, in the glory of God the Father.",
+     "Amen."
+    ]
+   ],
+   "uses": [
+    "gloria",
+    "christmas",
+    "easter"
+   ],
+   "scripture": [
+    "luk 2:14",
+    "jhn 1:29",
+    "rev 15:4"
+   ],
+   "about": "The Gloria opens with the angels' song at Bethlehem and grows into a hymn to the Father and to Christ the Lamb. It is sung on Sundays outside Advent and Lent and on solemnities and feasts.",
+   "publisher": null
+  },
+  {
+   "id": "sanctus-de-angelis",
+   "title": "Sanctus (Mass VIII, de Angelis)",
+   "latinTitle": "Sanctus",
+   "composer": "Gregorian chant (Mass VIII)",
+   "textAuthor": "Traditional Latin liturgical text",
+   "year": null,
+   "publicDomain": true,
+   "lyrics": [
+    [
+     "Sanctus, Sanctus, Sanctus",
+     "Dominus Deus Sabaoth.",
+     "Pleni sunt caeli et terra gloria tua.",
+     "Hosanna in excelsis."
+    ],
+    [
+     "Benedictus qui venit in nomine Domini.",
+     "Hosanna in excelsis."
+    ]
+   ],
+   "translation": [
+    [
+     "Holy, holy, holy",
+     "is the Lord, the God of hosts.",
+     "Heaven and earth are filled with your glory.",
+     "Hosanna in the heights."
+    ],
+    [
+     "Blessed is the one who comes in the Lord's name.",
+     "Hosanna in the heights."
+    ]
+   ],
+   "uses": [
+    "sanctus"
+   ],
+   "scripture": [
+    "isa 6:3",
+    "rev 4:8",
+    "mat 21:9",
+    "psa 118:26"
+   ],
+   "about": "The Sanctus joins the seraphim's cry from Isaiah's vision to the crowd's welcome of Jesus into Jerusalem. It is sung by the whole assembly at the end of the Preface, as the Eucharistic Prayer begins.",
+   "publisher": null
+  },
+  {
+   "id": "agnus-dei-de-angelis",
+   "title": "Agnus Dei (Mass VIII, de Angelis)",
+   "latinTitle": "Agnus Dei",
+   "composer": "Gregorian chant (Mass VIII)",
+   "textAuthor": "Traditional Latin liturgical text (added to the Roman Mass c. 700)",
+   "year": null,
+   "publicDomain": true,
+   "lyrics": [
+    [
+     "Agnus Dei, qui tollis peccata mundi: miserere nobis.",
+     "Agnus Dei, qui tollis peccata mundi: miserere nobis.",
+     "Agnus Dei, qui tollis peccata mundi: dona nobis pacem."
+    ]
+   ],
+   "translation": [
+    [
+     "Lamb of God, you who take away the world's sins: show us mercy.",
+     "Lamb of God, you who take away the world's sins: show us mercy.",
+     "Lamb of God, you who take away the world's sins: give us peace."
+    ]
+   ],
+   "uses": [
+    "agnus-dei"
+   ],
+   "scripture": [
+    "jhn 1:29",
+    "jhn 1:36",
+    "rev 5:6"
+   ],
+   "about": "The Agnus Dei echoes John the Baptist pointing to Jesus as the Lamb of God. It accompanies the breaking of the consecrated Host, and may be repeated as long as the fraction lasts, always ending with the plea for peace.",
+   "publisher": null
+  },
+  {
+   "id": "kyrie-xviii",
+   "title": "Kyrie (Mass XVIII)",
+   "latinTitle": "Kyrie eleison",
+   "composer": "Gregorian chant (Mass XVIII, 'Deus Genitor alme')",
+   "textAuthor": "Traditional Latin liturgical text (Greek)",
+   "year": null,
+   "publicDomain": true,
+   "lyrics": [
+    [
+     "Kyrie, eleison. Kyrie, eleison. Kyrie, eleison.",
+     "Christe, eleison. Christe, eleison. Christe, eleison.",
+     "Kyrie, eleison. Kyrie, eleison. Kyrie, eleison."
+    ]
+   ],
+   "translation": [
+    [
+     "Lord, have mercy (three times).",
+     "Christ, have mercy (three times).",
+     "Lord, have mercy (three times)."
+    ]
+   ],
+   "uses": [
+    "kyrie",
+    "advent",
+    "lent"
+   ],
+   "scripture": [
+    "luk 18:13"
+   ],
+   "about": "Mass XVIII is the simplest chant Ordinary in the Roman Gradual, traditionally used on weekdays of Advent and Lent and at Masses for the dead. Its narrow, almost spoken melody suits penitential seasons.",
+   "publisher": null
+  },
+  {
+   "id": "sanctus-xviii",
+   "title": "Sanctus (Mass XVIII)",
+   "latinTitle": "Sanctus",
+   "composer": "Gregorian chant (Mass XVIII)",
+   "textAuthor": "Traditional Latin liturgical text",
+   "year": null,
+   "publicDomain": true,
+   "lyrics": [
+    [
+     "Sanctus, Sanctus, Sanctus",
+     "Dominus Deus Sabaoth.",
+     "Pleni sunt caeli et terra gloria tua.",
+     "Hosanna in excelsis.",
+     "Benedictus qui venit in nomine Domini.",
+     "Hosanna in excelsis."
+    ]
+   ],
+   "translation": [
+    [
+     "Holy, holy, holy",
+     "is the Lord, the God of hosts.",
+     "Heaven and earth are filled with your glory.",
+     "Hosanna in the heights.",
+     "Blessed is the one who comes in the Lord's name.",
+     "Hosanna in the heights."
+    ]
+   ],
+   "uses": [
+    "sanctus",
+    "advent",
+    "lent",
+    "funeral"
+   ],
+   "scripture": [
+    "isa 6:3",
+    "mat 21:9"
+   ],
+   "about": "A very simple chant Sanctus, close to a recitation tone, that any congregation can learn in one hearing. It appears in the US Roman Missal's chant appendix and many parish worship aids.",
+   "publisher": null
+  },
+  {
+   "id": "agnus-dei-xviii",
+   "title": "Agnus Dei (Mass XVIII)",
+   "latinTitle": "Agnus Dei",
+   "composer": "Gregorian chant (Mass XVIII)",
+   "textAuthor": "Traditional Latin liturgical text",
+   "year": null,
+   "publicDomain": true,
+   "lyrics": [
+    [
+     "Agnus Dei, qui tollis peccata mundi: miserere nobis.",
+     "Agnus Dei, qui tollis peccata mundi: miserere nobis.",
+     "Agnus Dei, qui tollis peccata mundi: dona nobis pacem."
+    ]
+   ],
+   "translation": [
+    [
+     "Lamb of God, you who take away the world's sins: show us mercy.",
+     "Lamb of God, you who take away the world's sins: show us mercy.",
+     "Lamb of God, you who take away the world's sins: give us peace."
+    ]
+   ],
+   "uses": [
+    "agnus-dei",
+    "advent",
+    "lent",
+    "funeral"
+   ],
+   "scripture": [
+    "jhn 1:29"
+   ],
+   "about": "The plain-chant Agnus Dei of Mass XVIII, often paired with its Sanctus during Advent and Lent. Its simplicity makes it a good first Latin chant for a congregation.",
+   "publisher": null
+  },
+  {
+   "id": "pater-noster",
+   "title": "The Lord's Prayer (chant)",
+   "latinTitle": "Pater Noster",
+   "composer": "Gregorian chant (Roman Missal tone)",
+   "textAuthor": "Traditional Latin liturgical text (Matthew 6:9-13, Vulgate)",
+   "year": null,
+   "publicDomain": true,
+   "lyrics": [
+    [
+     "Pater noster, qui es in caelis,",
+     "sanctificetur nomen tuum.",
+     "Adveniat regnum tuum.",
+     "Fiat voluntas tua, sicut in caelo et in terra.",
+     "Panem nostrum cotidianum da nobis hodie,",
+     "et dimitte nobis debita nostra,",
+     "sicut et nos dimittimus debitoribus nostris.",
+     "Et ne nos inducas in tentationem;",
+     "sed libera nos a malo."
+    ]
+   ],
+   "translation": [
+    [
+     "Our Father, you who are in the heavens,",
+     "may your name be held holy.",
+     "May your kingdom come.",
+     "May your will be done, on earth as in heaven.",
+     "Give us today our daily bread,",
+     "and release us from our debts,",
+     "just as we release those indebted to us.",
+     "And do not bring us into testing,",
+     "but deliver us from evil."
+    ]
+   ],
+   "uses": [],
+   "scripture": [
+    "mat 6:9-13",
+    "luk 11:2-4"
+   ],
+   "about": "The prayer Jesus taught his disciples, sung by priest and people together before Communion. The Latin chant tone printed in the Roman Missal is short and widely known; the traditional English Our Father is also commonly sung to a melody adapted from it.",
+   "publisher": null
+  },
+  {
+   "id": "credo-iii",
+   "title": "Creed (Credo III)",
+   "latinTitle": "Credo in unum Deum",
+   "composer": "Gregorian chant (Credo III, 17th century)",
+   "textAuthor": "Traditional Latin liturgical text (Niceno-Constantinopolitan Creed, 325/381)",
+   "year": null,
+   "publicDomain": true,
+   "lyrics": [
+    [
+     "Credo in unum Deum,",
+     "Patrem omnipotentem, factorem caeli et terrae,",
+     "visibilium omnium et invisibilium."
+    ],
+    [
+     "Et in unum Dominum Iesum Christum,",
+     "Filium Dei unigenitum,",
+     "et ex Patre natum ante omnia saecula.",
+     "Deum de Deo, lumen de lumine, Deum verum de Deo vero,",
+     "genitum, non factum, consubstantialem Patri:",
+     "per quem omnia facta sunt.",
+     "Qui propter nos homines et propter nostram salutem",
+     "descendit de caelis.",
+     "Et incarnatus est de Spiritu Sancto",
+     "ex Maria Virgine, et homo factus est.",
+     "Crucifixus etiam pro nobis sub Pontio Pilato;",
+     "passus et sepultus est,",
+     "et resurrexit tertia die, secundum Scripturas,",
+     "et ascendit in caelum, sedet ad dexteram Patris.",
+     "Et iterum venturus est cum gloria,",
+     "iudicare vivos et mortuos,",
+     "cuius regni non erit finis."
+    ],
+    [
+     "Et in Spiritum Sanctum, Dominum et vivificantem:",
+     "qui ex Patre Filioque procedit.",
+     "Qui cum Patre et Filio simul adoratur et conglorificatur:",
+     "qui locutus est per prophetas.",
+     "Et unam, sanctam, catholicam et apostolicam Ecclesiam.",
+     "Confiteor unum baptisma in remissionem peccatorum.",
+     "Et exspecto resurrectionem mortuorum,",
+     "et vitam venturi saeculi.",
+     "Amen."
+    ]
+   ],
+   "translation": [
+    [
+     "I believe in a single God,",
+     "the Father, all-powerful, who made sky and earth",
+     "and everything, seen and unseen."
+    ],
+    [
+     "And in a single Lord, Jesus Christ,",
+     "God's one and only Son,",
+     "born of the Father before all ages:",
+     "God out of God, light out of light, true God out of true God,",
+     "begotten and not made, sharing one being with the Father;",
+     "through him everything came to be.",
+     "For us humans and for our rescue",
+     "he came down from heaven,",
+     "and by the Holy Spirit he took flesh",
+     "from the Virgin Mary, and became a man.",
+     "For our sake he was also crucified under Pontius Pilate;",
+     "he suffered and was buried,",
+     "and on the third day he rose, as the Scriptures had said,",
+     "and went up into heaven, and sits at the Father's right hand.",
+     "He will come again in glory",
+     "to judge the living and the dead,",
+     "and his reign will have no end."
+    ],
+    [
+     "And in the Holy Spirit, Lord and life-giver,",
+     "who comes forth from the Father and the Son,",
+     "who is worshiped and glorified together with Father and Son,",
+     "who spoke through the prophets.",
+     "And in one, holy, catholic and apostolic Church.",
+     "I acknowledge one baptism for sins to be forgiven.",
+     "And I await the rising of the dead",
+     "and the life of the age to come.",
+     "Amen."
+    ]
+   ],
+   "uses": [],
+   "scripture": [
+    "jhn 1:1-3",
+    "1co 15:3-4",
+    "eph 4:4-6"
+   ],
+   "about": "The Creed of Nicaea and Constantinople, professed on Sundays and solemnities after the homily. Credo III, a later Gregorian melody, is the chant setting most parishes know; the creed may be sung or recited.",
+   "publisher": null
+  },
+  {
+   "id": "per-ipsum",
+   "title": "Through Him (Final Doxology)",
+   "latinTitle": "Per ipsum",
+   "composer": "Gregorian chant (Roman Missal tone)",
+   "textAuthor": "Traditional Latin liturgical text (conclusion of the ancient Roman Canon)",
+   "year": null,
+   "publicDomain": true,
+   "lyrics": [
+    [
+     "Per ipsum, et cum ipso, et in ipso,",
+     "est tibi Deo Patri omnipotenti,",
+     "in unitate Spiritus Sancti,",
+     "omnis honor et gloria",
+     "per omnia saecula saeculorum.",
+     "Amen."
+    ]
+   ],
+   "translation": [
+    [
+     "Through him, and with him, and in him,",
+     "to you, God the all-powerful Father,",
+     "in the unity of the Holy Spirit,",
+     "belongs all honor and glory",
+     "through every age of ages.",
+     "Amen."
+    ]
+   ],
+   "uses": [
+    "great-amen"
+   ],
+   "scripture": [
+    "rom 11:36"
+   ],
+   "about": "The priest sings this doxology while raising the Body and Blood of Christ at the end of the Eucharistic Prayer; the people answer with the Great Amen. Only the priest sings the doxology itself; the Amen belongs to everyone.",
+   "publisher": null
+  },
+  {
+   "id": "salve-regina",
+   "title": "Hail, Holy Queen",
+   "latinTitle": "Salve Regina",
+   "composer": "Gregorian chant (simple tone, 17th century; solemn tone medieval)",
+   "textAuthor": "Traditional Latin liturgical text (11th century, often attributed to Hermann of Reichenau)",
+   "year": null,
+   "publicDomain": true,
+   "lyrics": [
+    [
+     "Salve, Regina, mater misericordiae,",
+     "vita, dulcedo, et spes nostra, salve.",
+     "Ad te clamamus, exsules filii Evae.",
+     "Ad te suspiramus, gementes et flentes",
+     "in hac lacrimarum valle.",
+     "Eia ergo, advocata nostra,",
+     "illos tuos misericordes oculos ad nos converte.",
+     "Et Iesum, benedictum fructum ventris tui,",
+     "nobis post hoc exsilium ostende.",
+     "O clemens, O pia, O dulcis Virgo Maria."
+    ]
+   ],
+   "translation": [
+    [
+     "Hail, Queen, mother of mercy,",
+     "our life, our sweetness and our hope, hail.",
+     "To you we cry out, exiled children of Eve.",
+     "To you we sigh, mourning and weeping",
+     "in this valley of tears.",
+     "Come then, our advocate,",
+     "turn those merciful eyes of yours toward us.",
+     "And after this exile show us Jesus,",
+     "the blessed fruit of your womb.",
+     "O gentle, O loving, O sweet Virgin Mary."
+    ]
+   ],
+   "uses": [
+    "marian",
+    "funeral"
+   ],
+   "scripture": [
+    "luk 1:42"
+   ],
+   "about": "The best known of the four seasonal Marian antiphons, sung at the end of Night Prayer from after Pentecost until Advent. Many parishes sing it after the last Mass of the day, at funerals of priests and religious, and at the close of the Rosary.",
+   "publisher": null
+  },
+  {
+   "id": "regina-caeli",
+   "title": "Queen of Heaven, Rejoice",
+   "latinTitle": "Regina Caeli",
+   "composer": "Gregorian chant",
+   "textAuthor": "Traditional Latin liturgical text (12th century or earlier)",
+   "year": null,
+   "publicDomain": true,
+   "lyrics": [
+    [
+     "Regina caeli, laetare, alleluia.",
+     "Quia quem meruisti portare, alleluia,",
+     "resurrexit, sicut dixit, alleluia.",
+     "Ora pro nobis Deum, alleluia."
+    ]
+   ],
+   "translation": [
+    [
+     "Queen of heaven, rejoice, alleluia.",
+     "For he whom you were worthy to carry, alleluia,",
+     "has risen, as he said, alleluia.",
+     "Pray to God for us, alleluia."
+    ]
+   ],
+   "uses": [
+    "easter",
+    "marian"
+   ],
+   "scripture": [
+    "mat 28:6",
+    "luk 1:28"
+   ],
+   "about": "The Easter Marian antiphon, sung from the Easter Vigil until Pentecost; during those weeks it also replaces the Angelus. Its four short lines congratulate Mary on her Son's resurrection.",
+   "publisher": null
+  },
+  {
+   "id": "alma-redemptoris-mater",
+   "title": "Loving Mother of the Redeemer",
+   "latinTitle": "Alma Redemptoris Mater",
+   "composer": "Gregorian chant",
+   "textAuthor": "Traditional Latin liturgical text (11th century, often attributed to Hermann of Reichenau)",
+   "year": null,
+   "publicDomain": true,
+   "lyrics": [
+    [
+     "Alma Redemptoris Mater, quae pervia caeli",
+     "porta manes, et stella maris, succurre cadenti,",
+     "surgere qui curat, populo:",
+     "tu quae genuisti, natura mirante,",
+     "tuum sanctum Genitorem,",
+     "Virgo prius ac posterius,",
+     "Gabrielis ab ore sumens illud Ave,",
+     "peccatorum miserere."
+    ]
+   ],
+   "translation": [
+    [
+     "Loving Mother of the Redeemer, you who remain heaven's",
+     "open gate and star of the sea, come to the aid of a falling people",
+     "who strive to rise again:",
+     "you who, while nature marveled,",
+     "gave birth to your own holy Creator,",
+     "a virgin before and after,",
+     "who heard that 'Ave' from Gabriel's lips,",
+     "have mercy on sinners."
+    ]
+   ],
+   "uses": [
+    "advent",
+    "christmas",
+    "marian"
+   ],
+   "scripture": [
+    "luk 1:28-31"
+   ],
+   "about": "The Marian antiphon of Advent and Christmastide, sung from the First Sunday of Advent until the Presentation of the Lord (February 2). It recalls the Annunciation and Mary's virginal motherhood.",
+   "publisher": null
+  },
+  {
+   "id": "ave-regina-caelorum",
+   "title": "Hail, Queen of Heaven",
+   "latinTitle": "Ave Regina Caelorum",
+   "composer": "Gregorian chant",
+   "textAuthor": "Traditional Latin liturgical text (12th century or earlier)",
+   "year": null,
+   "publicDomain": true,
+   "lyrics": [
+    [
+     "Ave, Regina caelorum,",
+     "ave, Domina angelorum:",
+     "salve, radix, salve, porta,",
+     "ex qua mundo lux est orta.",
+     "Gaude, Virgo gloriosa,",
+     "super omnes speciosa;",
+     "vale, O valde decora,",
+     "et pro nobis Christum exora."
+    ]
+   ],
+   "translation": [
+    [
+     "Hail, Queen of the heavens,",
+     "hail, Lady of the angels:",
+     "hail, root, hail, gate,",
+     "from which light has dawned on the world.",
+     "Rejoice, glorious Virgin,",
+     "lovely beyond all others;",
+     "farewell, O most beautiful,",
+     "and plead with Christ for us."
+    ]
+   ],
+   "uses": [
+    "lent",
+    "marian"
+   ],
+   "scripture": [
+    "isa 11:1",
+    "jhn 8:12"
+   ],
+   "about": "The Marian antiphon from February 2 until Holy Thursday, so it is the one heard through Lent. It greets Mary as the 'root' of Jesse and the gate through which Christ the light entered the world.",
+   "publisher": null
+  },
+  {
+   "id": "ave-maria-chant",
+   "title": "Hail Mary (chant)",
+   "latinTitle": "Ave Maria",
+   "composer": "Gregorian chant (offertory/antiphon melodies); famous later settings by Schubert, Bach–Gounod and Victoria",
+   "textAuthor": "Traditional Latin liturgical text (Luke 1:28, 1:42; petition in use by the 16th century)",
+   "year": null,
+   "publicDomain": true,
+   "lyrics": [
+    [
+     "Ave Maria, gratia plena,",
+     "Dominus tecum.",
+     "Benedicta tu in mulieribus,",
+     "et benedictus fructus ventris tui, Iesus."
+    ],
+    [
+     "Sancta Maria, Mater Dei,",
+     "ora pro nobis peccatoribus,",
+     "nunc et in hora mortis nostrae.",
+     "Amen."
+    ]
+   ],
+   "translation": [
+    [
+     "Hail Mary, full of grace,",
+     "the Lord is with you.",
+     "You are blessed among women,",
+     "and blessed is the fruit of your womb, Jesus."
+    ],
+    [
+     "Holy Mary, Mother of God,",
+     "pray for us sinners,",
+     "now and at the hour of our death.",
+     "Amen."
+    ]
+   ],
+   "uses": [
+    "marian",
+    "advent",
+    "wedding",
+    "funeral",
+    "offertory"
+   ],
+   "scripture": [
+    "luk 1:28",
+    "luk 1:42"
+   ],
+   "about": "The angel's greeting and Elizabeth's blessing, followed by the Church's petition. Beyond the chant, the Latin text is often sung as a solo at weddings (frequently while the couple honors Mary) and at funerals in the settings by Schubert or Bach–Gounod.",
+   "publisher": null
+  },
+  {
+   "id": "ave-maris-stella",
+   "title": "Hail, Star of the Sea",
+   "latinTitle": "Ave Maris Stella",
+   "composer": "Gregorian chant",
+   "textAuthor": "Traditional Latin liturgical text (hymn, 9th century or earlier)",
+   "year": null,
+   "publicDomain": true,
+   "lyrics": [
+    [
+     "Ave, maris stella,",
+     "Dei Mater alma,",
+     "atque semper Virgo,",
+     "felix caeli porta."
+    ],
+    [
+     "Sumens illud Ave",
+     "Gabrielis ore,",
+     "funda nos in pace,",
+     "mutans Evae nomen."
+    ],
+    [
+     "Solve vincla reis,",
+     "profer lumen caecis,",
+     "mala nostra pelle,",
+     "bona cuncta posce."
+    ],
+    [
+     "Monstra te esse matrem,",
+     "sumat per te preces,",
+     "qui pro nobis natus",
+     "tulit esse tuus."
+    ],
+    [
+     "Virgo singularis,",
+     "inter omnes mitis,",
+     "nos culpis solutos",
+     "mites fac et castos."
+    ],
+    [
+     "Vitam praesta puram,",
+     "iter para tutum,",
+     "ut videntes Iesum",
+     "semper collaetemur."
+    ],
+    [
+     "Sit laus Deo Patri,",
+     "summo Christo decus,",
+     "Spiritui Sancto,",
+     "tribus honor unus. Amen."
+    ]
+   ],
+   "translation": [
+    [
+     "Hail, star of the sea,",
+     "nurturing Mother of God,",
+     "and Virgin for ever,",
+     "happy gate of heaven."
+    ],
+    [
+     "Receiving that 'Ave'",
+     "from Gabriel's mouth,",
+     "settle us in peace,",
+     "reversing the name of 'Eva'."
+    ],
+    [
+     "Loosen the chains of the guilty,",
+     "bring light to the blind,",
+     "drive away our evils,",
+     "ask for every good."
+    ],
+    [
+     "Show yourself a mother;",
+     "through you may he receive our prayers",
+     "who, born for our sake,",
+     "chose to be your own."
+    ],
+    [
+     "Virgin without equal,",
+     "gentlest of all,",
+     "free us from our faults",
+     "and make us gentle and chaste."
+    ],
+    [
+     "Grant us a pure life,",
+     "prepare a safe road,",
+     "so that, seeing Jesus,",
+     "we may rejoice together for ever."
+    ],
+    [
+     "Praise be to God the Father,",
+     "glory to Christ most high,",
+     "and to the Holy Spirit:",
+     "to the three, one honor. Amen."
+    ]
+   ],
+   "uses": [
+    "marian"
+   ],
+   "scripture": [
+    "luk 1:28",
+    "jhn 2:5"
+   ],
+   "about": "An ancient Vespers hymn for Marian feasts. The second verse plays on the reversal of 'Eva' into 'Ave', Mary undoing Eve's disobedience.",
+   "publisher": null
+  },
+  {
+   "id": "sub-tuum-praesidium",
+   "title": "We Fly to Thy Protection",
+   "latinTitle": "Sub Tuum Praesidium",
+   "composer": "Gregorian chant",
+   "textAuthor": "Traditional Latin liturgical text (from a Greek prayer known on a papyrus of the 3rd–4th century)",
+   "year": null,
+   "publicDomain": true,
+   "lyrics": [
+    [
+     "Sub tuum praesidium confugimus,",
+     "sancta Dei Genetrix.",
+     "Nostras deprecationes ne despicias",
+     "in necessitatibus,",
+     "sed a periculis cunctis libera nos semper,",
+     "Virgo gloriosa et benedicta."
+    ]
+   ],
+   "translation": [
+    [
+     "Under your protection we take refuge,",
+     "holy Mother of God.",
+     "Do not disregard our pleas",
+     "in our needs,",
+     "but always free us from every danger,",
+     "glorious and blessed Virgin."
+    ]
+   ],
+   "uses": [
+    "marian"
+   ],
+   "scripture": [
+    "luk 1:48"
+   ],
+   "about": "The oldest known prayer to Mary outside Scripture. It is a short, quiet antiphon suited to the end of a Marian devotion or a weekday Mass.",
+   "publisher": null
+  },
+  {
+   "id": "o-sanctissima",
+   "title": "O Most Holy",
+   "latinTitle": "O Sanctissima",
+   "composer": "Traditional melody (often called the 'Sicilian Mariners' Hymn', printed in the 1790s)",
+   "textAuthor": "Traditional Latin liturgical text (Marian hymn, 18th century)",
+   "year": null,
+   "publicDomain": true,
+   "lyrics": [
+    [
+     "O sanctissima, O piissima,",
+     "dulcis Virgo Maria!",
+     "Mater amata, intemerata,",
+     "ora, ora pro nobis."
+    ]
+   ],
+   "translation": [
+    [
+     "O most holy, O most loving,",
+     "sweet Virgin Mary!",
+     "Beloved Mother, undefiled,",
+     "pray, pray for us."
+    ]
+   ],
+   "uses": [
+    "marian"
+   ],
+   "scripture": [
+    "luk 1:28"
+   ],
+   "about": "A short, singable Latin hymn to Mary on a lilting tune, a favorite for May devotions and Marian processions.",
+   "publisher": null
+  },
+  {
+   "id": "magnificat-latin",
+   "title": "Canticle of Mary",
+   "latinTitle": "Magnificat",
+   "composer": "Gregorian chant (psalm tones); countless polyphonic settings",
+   "textAuthor": "Traditional Latin liturgical text (Luke 1:46-55, Vulgate)",
+   "year": null,
+   "publicDomain": true,
+   "lyrics": [
+    [
+     "Magnificat anima mea Dominum,",
+     "et exsultavit spiritus meus in Deo salutari meo,",
+     "quia respexit humilitatem ancillae suae."
+    ],
+    [
+     "Ecce enim ex hoc beatam me dicent omnes generationes,",
+     "quia fecit mihi magna, qui potens est,",
+     "et sanctum nomen eius,",
+     "et misericordia eius in progenies et progenies",
+     "timentibus eum."
+    ],
+    [
+     "Fecit potentiam in brachio suo,",
+     "dispersit superbos mente cordis sui;",
+     "deposuit potentes de sede",
+     "et exaltavit humiles.",
+     "Esurientes implevit bonis",
+     "et divites dimisit inanes."
+    ],
+    [
+     "Suscepit Israel puerum suum,",
+     "recordatus misericordiae suae,",
+     "sicut locutus est ad patres nostros,",
+     "Abraham et semini eius in saecula."
+    ]
+   ],
+   "translation": [
+    [
+     "My soul declares the greatness of the Lord,",
+     "and my spirit leaps for joy in God my Savior,",
+     "for he has looked on his servant in her lowliness."
+    ],
+    [
+     "From now on every generation will call me blessed,",
+     "for the Mighty One has done great things for me,",
+     "and holy is his name,",
+     "and his mercy reaches from generation to generation",
+     "to those who fear him."
+    ],
+    [
+     "He has shown the strength of his arm,",
+     "he has scattered those proud in their hearts' thoughts;",
+     "he has pulled the powerful from their thrones",
+     "and lifted up the lowly.",
+     "The hungry he has filled with good things,",
+     "and the rich he has sent away empty."
+    ],
+    [
+     "He has taken up the cause of Israel his servant,",
+     "remembering his mercy,",
+     "as he promised our fathers,",
+     "Abraham and his descendants for ever."
+    ]
+   ],
+   "uses": [
+    "marian",
+    "advent"
+   ],
+   "scripture": [
+    "luk 1:46-55"
+   ],
+   "about": "Mary's song at the Visitation, sung every evening at Vespers. At Mass it is a fitting song of thanksgiving after Communion, especially on Marian feasts and in late Advent.",
+   "publisher": null
+  },
+  {
+   "id": "ave-verum-corpus",
+   "title": "Hail, True Body",
+   "latinTitle": "Ave Verum Corpus",
+   "composer": "Gregorian chant; best-known setting by Mozart (K. 618, 1791)",
+   "textAuthor": "Traditional Latin liturgical text (14th-century Eucharistic hymn)",
+   "year": null,
+   "publicDomain": true,
+   "lyrics": [
+    [
+     "Ave verum corpus, natum",
+     "de Maria Virgine,",
+     "vere passum, immolatum",
+     "in cruce pro homine,",
+     "cuius latus perforatum",
+     "fluxit aqua et sanguine:",
+     "esto nobis praegustatum",
+     "in mortis examine.",
+     "O Iesu dulcis, O Iesu pie,",
+     "O Iesu, fili Mariae."
+    ]
+   ],
+   "translation": [
+    [
+     "Hail, true body, born",
+     "of the Virgin Mary,",
+     "that truly suffered and was sacrificed",
+     "on the cross for humankind,",
+     "whose pierced side",
+     "flowed with water and blood:",
+     "be for us a foretaste",
+     "in the trial of death.",
+     "O sweet Jesus, O loving Jesus,",
+     "O Jesus, son of Mary."
+    ]
+   ],
+   "uses": [
+    "communion",
+    "eucharistic-adoration",
+    "holy-week"
+   ],
+   "scripture": [
+    "jhn 19:34",
+    "jhn 6:51"
+   ],
+   "about": "A medieval greeting to Christ present in the Eucharist, traditionally sung at the elevation. Mozart's brief, luminous setting is one of the most-sung choral pieces at Communion.",
+   "publisher": null
+  },
+  {
+   "id": "panis-angelicus",
+   "title": "Bread of Angels",
+   "latinTitle": "Panis Angelicus",
+   "composer": "Chant; famous setting by César Franck (1872)",
+   "textAuthor": "St. Thomas Aquinas (1264), Traditional Latin liturgical text (from the hymn Sacris solemniis)",
+   "year": null,
+   "publicDomain": true,
+   "lyrics": [
+    [
+     "Panis angelicus",
+     "fit panis hominum;",
+     "dat panis caelicus",
+     "figuris terminum:",
+     "O res mirabilis!",
+     "manducat Dominum",
+     "pauper, servus et humilis."
+    ],
+    [
+     "Te trina Deitas",
+     "unaque poscimus:",
+     "sic nos tu visita,",
+     "sicut te colimus;",
+     "per tuas semitas",
+     "duc nos quo tendimus,",
+     "ad lucem quam inhabitas. Amen."
+    ]
+   ],
+   "translation": [
+    [
+     "The bread of angels",
+     "becomes the bread of humans;",
+     "the bread of heaven",
+     "brings the old foreshadowings to an end.",
+     "O wondrous thing!",
+     "The poor, the servant and the lowly",
+     "feed upon their Lord."
+    ],
+    [
+     "Godhead, three and one,",
+     "this we beg of you:",
+     "visit us",
+     "as we worship you;",
+     "by your paths",
+     "lead us where we are heading,",
+     "to the light in which you dwell. Amen."
+    ]
+   ],
+   "uses": [
+    "communion",
+    "eucharistic-adoration",
+    "wedding"
+   ],
+   "scripture": [
+    "psa 78:24-25",
+    "jhn 6:31-35"
+   ],
+   "about": "Two stanzas from a hymn St. Thomas Aquinas wrote for the new feast of Corpus Christi. Franck's setting for solo voice is a perennial choice at Communion during weddings and First Communions.",
+   "publisher": null
+  },
+  {
+   "id": "tantum-ergo",
+   "title": "Down in Adoration Falling",
+   "latinTitle": "Tantum Ergo",
+   "composer": "Gregorian chant (and many later settings)",
+   "textAuthor": "St. Thomas Aquinas (1264), Traditional Latin liturgical text (last two stanzas of Pange lingua)",
+   "year": null,
+   "publicDomain": true,
+   "lyrics": [
+    [
+     "Tantum ergo Sacramentum",
+     "veneremur cernui:",
+     "et antiquum documentum",
+     "novo cedat ritui:",
+     "praestet fides supplementum",
+     "sensuum defectui."
+    ],
+    [
+     "Genitori, Genitoque",
+     "laus et iubilatio,",
+     "salus, honor, virtus quoque",
+     "sit et benedictio:",
+     "procedenti ab utroque",
+     "compar sit laudatio. Amen."
+    ]
+   ],
+   "translation": [
+    [
+     "So great a Sacrament, therefore,",
+     "let us revere, bowing low;",
+     "and let the old instruction",
+     "give way to the new rite;",
+     "let faith provide what is lacking",
+     "where the senses fail."
+    ],
+    [
+     "To the Father and the Son",
+     "be praise and jubilation,",
+     "salvation, honor, power too,",
+     "and blessing;",
+     "to the One proceeding from them both",
+     "be equal praise. Amen."
+    ]
+   ],
+   "uses": [
+    "eucharistic-adoration",
+    "holy-week"
+   ],
+   "scripture": [
+    "heb 10:1",
+    "jhn 20:29"
+   ],
+   "about": "Sung at every Benediction before the priest blesses the people with the Monstrance, and at the transfer of the Blessed Sacrament on Holy Thursday. It closes Aquinas's Pange lingua.",
+   "publisher": null
+  },
+  {
+   "id": "o-salutaris-hostia",
+   "title": "O Saving Victim",
+   "latinTitle": "O Salutaris Hostia",
+   "composer": "Gregorian chant (and many later settings)",
+   "textAuthor": "St. Thomas Aquinas (1264), Traditional Latin liturgical text (last two stanzas of Verbum supernum prodiens)",
+   "year": null,
+   "publicDomain": true,
+   "lyrics": [
+    [
+     "O salutaris Hostia,",
+     "quae caeli pandis ostium:",
+     "bella premunt hostilia,",
+     "da robur, fer auxilium."
+    ],
+    [
+     "Uni trinoque Domino",
+     "sit sempiterna gloria,",
+     "qui vitam sine termino",
+     "nobis donet in patria. Amen."
+    ]
+   ],
+   "translation": [
+    [
+     "O saving Victim,",
+     "who open wide the door of heaven:",
+     "hostile wars press hard on us;",
+     "give strength, bring help."
+    ],
+    [
+     "To the Lord, one and three,",
+     "be glory without end;",
+     "may he give us life without limit",
+     "in our homeland. Amen."
+    ]
+   ],
+   "uses": [
+    "eucharistic-adoration",
+    "communion"
+   ],
+   "scripture": [
+    "jhn 10:9",
+    "heb 10:19-20"
+   ],
+   "about": "Traditionally sung as the Blessed Sacrament is placed in the Monstrance at the start of Exposition. With Tantum ergo it frames nearly every Holy Hour in the United States.",
+   "publisher": null
+  },
+  {
+   "id": "pange-lingua",
+   "title": "Sing, My Tongue, the Savior's Glory",
+   "latinTitle": "Pange Lingua Gloriosi Corporis Mysterium",
+   "composer": "Gregorian chant (Phrygian mode melody)",
+   "textAuthor": "St. Thomas Aquinas (1264), Traditional Latin liturgical text",
+   "year": null,
+   "publicDomain": true,
+   "lyrics": [
+    [
+     "Pange, lingua, gloriosi",
+     "Corporis mysterium,",
+     "Sanguinisque pretiosi,",
+     "quem in mundi pretium",
+     "fructus ventris generosi",
+     "Rex effudit gentium."
+    ],
+    [
+     "Nobis datus, nobis natus",
+     "ex intacta Virgine,",
+     "et in mundo conversatus,",
+     "sparso verbi semine,",
+     "sui moras incolatus",
+     "miro clausit ordine."
+    ],
+    [
+     "In supremae nocte cenae",
+     "recumbens cum fratribus",
+     "observata lege plene",
+     "cibis in legalibus,",
+     "cibum turbae duodenae",
+     "se dat suis manibus."
+    ],
+    [
+     "Verbum caro, panem verum",
+     "verbo carnem efficit:",
+     "fitque sanguis Christi merum,",
+     "et si sensus deficit,",
+     "ad firmandum cor sincerum",
+     "sola fides sufficit."
+    ],
+    [
+     "Tantum ergo Sacramentum",
+     "veneremur cernui:",
+     "et antiquum documentum",
+     "novo cedat ritui:",
+     "praestet fides supplementum",
+     "sensuum defectui."
+    ],
+    [
+     "Genitori, Genitoque",
+     "laus et iubilatio,",
+     "salus, honor, virtus quoque",
+     "sit et benedictio:",
+     "procedenti ab utroque",
+     "compar sit laudatio. Amen."
+    ]
+   ],
+   "translation": [
+    [
+     "Sing, my tongue, the mystery",
+     "of the glorious Body",
+     "and of the precious Blood",
+     "which the King of the nations,",
+     "fruit of a noble womb,",
+     "poured out as the world's ransom."
+    ],
+    [
+     "Given to us, born for us",
+     "of a spotless Virgin,",
+     "he lived in the world,",
+     "scattering the seed of the word,",
+     "and closed his time among us",
+     "in a wondrous way."
+    ],
+    [
+     "On the night of the Last Supper,",
+     "reclining with his brothers,",
+     "having kept the law in full",
+     "with the foods it required,",
+     "he gives himself with his own hands",
+     "as food for the Twelve."
+    ],
+    [
+     "The Word made flesh, by his word,",
+     "makes true bread into his flesh,",
+     "and wine becomes the blood of Christ;",
+     "and if the senses fail,",
+     "faith alone is enough",
+     "to make a sincere heart firm."
+    ],
+    [
+     "So great a Sacrament, therefore,",
+     "let us revere, bowing low;",
+     "and let the old instruction",
+     "give way to the new rite;",
+     "let faith provide what is lacking",
+     "where the senses fail."
+    ],
+    [
+     "To the Father and the Son",
+     "be praise and jubilation,",
+     "salvation, honor, power too,",
+     "and blessing;",
+     "to the One proceeding from them both",
+     "be equal praise. Amen."
+    ]
+   ],
+   "uses": [
+    "holy-week",
+    "eucharistic-adoration"
+   ],
+   "scripture": [
+    "luk 22:19-20",
+    "jhn 1:14",
+    "1co 11:23-26"
+   ],
+   "about": "Aquinas's hymn for Corpus Christi, sung above all at the end of the Mass of the Lord's Supper on Holy Thursday, as the Blessed Sacrament is carried to the altar of repose.",
+   "publisher": null
+  },
+  {
+   "id": "adoro-te-devote",
+   "title": "Godhead Here in Hiding",
+   "latinTitle": "Adoro Te Devote",
+   "composer": "Gregorian chant (Mode V)",
+   "textAuthor": "Attributed to St. Thomas Aquinas (13th century), Traditional Latin liturgical text",
+   "year": null,
+   "publicDomain": true,
+   "lyrics": [
+    [
+     "Adoro te devote, latens Deitas,",
+     "quae sub his figuris vere latitas:",
+     "tibi se cor meum totum subicit,",
+     "quia te contemplans totum deficit."
+    ],
+    [
+     "Visus, tactus, gustus in te fallitur,",
+     "sed auditu solo tuto creditur;",
+     "credo quidquid dixit Dei Filius:",
+     "nil hoc verbo Veritatis verius."
+    ],
+    [
+     "In cruce latebat sola Deitas,",
+     "at hic latet simul et humanitas;",
+     "ambo tamen credens atque confitens,",
+     "peto quod petivit latro paenitens."
+    ],
+    [
+     "Plagas, sicut Thomas, non intueor;",
+     "Deum tamen meum te confiteor;",
+     "fac me tibi semper magis credere,",
+     "in te spem habere, te diligere."
+    ],
+    [
+     "O memoriale mortis Domini!",
+     "panis vivus, vitam praestans homini!",
+     "praesta meae menti de te vivere",
+     "et te illi semper dulce sapere."
+    ],
+    [
+     "Pie pellicane, Iesu Domine,",
+     "me immundum munda tuo sanguine:",
+     "cuius una stilla salvum facere",
+     "totum mundum quit ab omni scelere."
+    ],
+    [
+     "Iesu, quem velatum nunc aspicio,",
+     "oro fiat illud quod tam sitio:",
+     "ut te revelata cernens facie,",
+     "visu sim beatus tuae gloriae. Amen."
+    ]
+   ],
+   "translation": [
+    [
+     "I adore you with devotion, hidden Godhead,",
+     "truly hidden beneath these forms:",
+     "my whole heart submits itself to you,",
+     "for in contemplating you it fails entirely."
+    ],
+    [
+     "Sight, touch and taste are deceived in you,",
+     "but hearing alone is safely believed;",
+     "I believe whatever the Son of God has said:",
+     "nothing is truer than this word of Truth."
+    ],
+    [
+     "On the cross the Godhead alone was hidden,",
+     "but here the humanity is hidden too;",
+     "yet believing and confessing both,",
+     "I ask what the repentant thief asked."
+    ],
+    [
+     "I do not see the wounds, as Thomas did,",
+     "yet I confess you are my God;",
+     "make me always believe in you more,",
+     "hope in you, and love you."
+    ],
+    [
+     "O memorial of the Lord's death!",
+     "Living bread that gives life to humankind!",
+     "Grant my mind to live on you",
+     "and always to find you sweet."
+    ],
+    [
+     "Loving pelican, Lord Jesus,",
+     "cleanse me, unclean, with your blood,",
+     "of which one drop could save",
+     "the whole world from all its sin."
+    ],
+    [
+     "Jesus, whom I now see veiled,",
+     "I pray that what I thirst for may come to pass:",
+     "that seeing your face unveiled,",
+     "I may be happy in the sight of your glory. Amen."
+    ]
+   ],
+   "uses": [
+    "eucharistic-adoration",
+    "communion"
+   ],
+   "scripture": [
+    "jhn 20:27-29",
+    "luk 23:42",
+    "1co 13:12"
+   ],
+   "about": "A personal meditation on Christ's hidden presence in the Eucharist, moving from doubting Thomas and the good thief to the hope of seeing God face to face. It is sung during Adoration and as a quiet Communion hymn.",
+   "publisher": null
+  },
+  {
+   "id": "lauda-sion",
+   "title": "Praise, O Zion (Corpus Christi Sequence)",
+   "latinTitle": "Lauda Sion",
+   "composer": "Gregorian chant",
+   "textAuthor": "St. Thomas Aquinas (1264), Traditional Latin liturgical text (selected stanzas)",
+   "year": null,
+   "publicDomain": true,
+   "lyrics": [
+    [
+     "Lauda, Sion, Salvatorem,",
+     "lauda ducem et pastorem",
+     "in hymnis et canticis."
+    ],
+    [
+     "Quantum potes, tantum aude:",
+     "quia maior omni laude,",
+     "nec laudare sufficis."
+    ],
+    [
+     "Ecce panis angelorum,",
+     "factus cibus viatorum:",
+     "vere panis filiorum,",
+     "non mittendus canibus."
+    ],
+    [
+     "Bone pastor, panis vere,",
+     "Iesu, nostri miserere:",
+     "tu nos pasce, nos tuere,",
+     "tu nos bona fac videre",
+     "in terra viventium."
+    ],
+    [
+     "Tu, qui cuncta scis et vales,",
+     "qui nos pascis hic mortales:",
+     "tuos ibi commensales,",
+     "coheredes et sodales",
+     "fac sanctorum civium. Amen. Alleluia."
+    ]
+   ],
+   "translation": [
+    [
+     "Praise, O Zion, your Savior,",
+     "praise your leader and shepherd",
+     "in hymns and songs."
+    ],
+    [
+     "Dare as much as you can:",
+     "for he is greater than all praise,",
+     "and you can never praise him enough."
+    ],
+    [
+     "Behold the bread of angels,",
+     "made food for travelers:",
+     "truly the children's bread,",
+     "not to be thrown to dogs."
+    ],
+    [
+     "Good shepherd, true bread,",
+     "Jesus, have mercy on us:",
+     "feed us, protect us,",
+     "let us see good things",
+     "in the land of the living."
+    ],
+    [
+     "You who know and can do all things,",
+     "who feed us mortals here:",
+     "make us your table-companions there,",
+     "co-heirs and comrades",
+     "of the holy citizens. Amen. Alleluia."
+    ]
+   ],
+   "uses": [
+    "gospel-acclamation",
+    "eucharistic-adoration"
+   ],
+   "scripture": [
+    "jhn 10:11",
+    "jhn 6:35",
+    "psa 27:13"
+   ],
+   "about": "The optional Sequence for the Solemnity of the Most Holy Body and Blood of Christ, sung before the Alleluia. The full text has 24 stanzas; the Missal permits the short form beginning 'Ecce panis angelorum'.",
+   "publisher": null
+  },
+  {
+   "id": "ubi-caritas",
+   "title": "Where Charity and Love Are",
+   "latinTitle": "Ubi Caritas",
+   "composer": "Gregorian chant (Mode VI)",
+   "textAuthor": "Traditional Latin liturgical text (antiphon for the Holy Thursday foot-washing, c. 8th century)",
+   "year": null,
+   "publicDomain": true,
+   "lyrics": [
+    [
+     "Ubi caritas et amor, Deus ibi est."
+    ],
+    [
+     "Congregavit nos in unum Christi amor.",
+     "Exsultemus, et in ipso iucundemur.",
+     "Timeamus, et amemus Deum vivum.",
+     "Et ex corde diligamus nos sincero."
+    ],
+    [
+     "Simul ergo cum in unum congregamur:",
+     "ne nos mente dividamur, caveamus.",
+     "Cessent iurgia maligna, cessent lites.",
+     "Et in medio nostri sit Christus Deus."
+    ],
+    [
+     "Simul quoque cum beatis videamus",
+     "glorianter vultum tuum, Christe Deus:",
+     "gaudium, quod est immensum atque probum,",
+     "saecula per infinita saeculorum. Amen."
+    ]
+   ],
+   "translation": [
+    [
+     "Where charity and love are, God is there."
+    ],
+    [
+     "The love of Christ has gathered us into one.",
+     "Let us rejoice and be glad in him.",
+     "Let us fear and love the living God.",
+     "And let us love one another with a sincere heart."
+    ],
+    [
+     "So when we are gathered together as one,",
+     "let us take care not to be divided in mind.",
+     "Let spiteful quarrels cease, let disputes end.",
+     "And in our midst let Christ our God be present."
+    ],
+    [
+     "And with the blessed may we also see",
+     "your face in glory, O Christ our God:",
+     "a joy that is immense and good,",
+     "through endless ages of ages. Amen."
+    ]
+   ],
+   "uses": [
+    "holy-week",
+    "offertory",
+    "wedding"
+   ],
+   "scripture": [
+    "1jn 4:16",
+    "jhn 13:34-35",
+    "1co 1:10"
+   ],
+   "about": "Sung during or after the washing of feet and at the presentation of gifts on Holy Thursday; the current Missal gives the refrain as 'Ubi caritas est vera' ('where charity is true'). Its theme of love and unity also makes it a favorite at weddings.",
+   "publisher": null
+  },
+  {
+   "id": "attende-domine",
+   "title": "Hear Us, O Lord",
+   "latinTitle": "Attende Domine",
+   "composer": "Gregorian chant (Mode V)",
+   "textAuthor": "Traditional Latin liturgical text (Mozarabic origin, selected stanzas)",
+   "year": null,
+   "publicDomain": true,
+   "lyrics": [
+    [
+     "Attende, Domine, et miserere,",
+     "quia peccavimus tibi."
+    ],
+    [
+     "Ad te Rex summe, omnium Redemptor,",
+     "oculos nostros sublevamus flentes:",
+     "exaudi, Christe, supplicantum preces."
+    ],
+    [
+     "Dextera Patris, lapis angularis,",
+     "via salutis, ianua caelestis,",
+     "ablue nostri maculas delicti."
+    ]
+   ],
+   "translation": [
+    [
+     "Listen, O Lord, and have mercy,",
+     "for we have sinned against you."
+    ],
+    [
+     "To you, highest King, Redeemer of all,",
+     "we lift our weeping eyes:",
+     "hear, O Christ, the prayers of those who plead."
+    ],
+    [
+     "Right hand of the Father, cornerstone,",
+     "way of salvation, gate of heaven,",
+     "wash away the stains of our sin."
+    ]
+   ],
+   "uses": [
+    "lent",
+    "entrance",
+    "kyrie"
+   ],
+   "scripture": [
+    "dan 9:19",
+    "psa 51:4",
+    "psa 118:22"
+   ],
+   "about": "A penitential litany whose refrain asks God to hear and pity his sinful people. It is the classic Lenten entrance or penitential song in Latin.",
+   "publisher": null
+  },
+  {
+   "id": "parce-domine",
+   "title": "Spare, O Lord",
+   "latinTitle": "Parce Domine",
+   "composer": "Gregorian chant",
+   "textAuthor": "Traditional Latin liturgical text (Joel 2:17)",
+   "year": null,
+   "publicDomain": true,
+   "lyrics": [
+    [
+     "Parce, Domine, parce populo tuo:",
+     "ne in aeternum irascaris nobis."
+    ]
+   ],
+   "translation": [
+    [
+     "Spare, O Lord, spare your people:",
+     "do not be angry with us for ever."
+    ]
+   ],
+   "uses": [
+    "lent"
+   ],
+   "scripture": [
+    "jol 2:17"
+   ],
+   "about": "A short refrain built on the prophet Joel's call to the priests to weep between porch and altar; Joel 2 is also read on Ash Wednesday. It is often sung during the distribution of ashes and throughout Lent, alternating with penitential verses.",
+   "publisher": null
+  },
+  {
+   "id": "stabat-mater",
+   "title": "At the Cross Her Station Keeping (Latin)",
+   "latinTitle": "Stabat Mater",
+   "composer": "Gregorian chant (and settings by Pergolesi, Palestrina, Rossini and others)",
+   "textAuthor": "Attributed to Jacopone da Todi (13th century), Traditional Latin liturgical text (selected stanzas)",
+   "year": null,
+   "publicDomain": true,
+   "lyrics": [
+    [
+     "Stabat Mater dolorosa",
+     "iuxta crucem lacrimosa,",
+     "dum pendebat Filius."
+    ],
+    [
+     "Cuius animam gementem,",
+     "contristatam et dolentem",
+     "pertransivit gladius."
+    ],
+    [
+     "O quam tristis et afflicta",
+     "fuit illa benedicta",
+     "mater Unigeniti!"
+    ],
+    [
+     "Quae maerebat et dolebat,",
+     "pia Mater, dum videbat",
+     "nati poenas incliti."
+    ],
+    [
+     "Eia, Mater, fons amoris,",
+     "me sentire vim doloris",
+     "fac, ut tecum lugeam."
+    ],
+    [
+     "Fac, ut ardeat cor meum",
+     "in amando Christum Deum,",
+     "ut sibi complaceam."
+    ],
+    [
+     "Quando corpus morietur,",
+     "fac, ut animae donetur",
+     "paradisi gloria. Amen."
+    ]
+   ],
+   "translation": [
+    [
+     "The sorrowing Mother stood",
+     "in tears beside the cross",
+     "while her Son hung there."
+    ],
+    [
+     "Through her soul, groaning,",
+     "saddened and grieving,",
+     "a sword had passed."
+    ],
+    [
+     "O how sad and stricken",
+     "was that blessed one,",
+     "mother of the Only-begotten!"
+    ],
+    [
+     "She mourned and grieved,",
+     "the loving Mother, as she saw",
+     "the torments of her glorious Son."
+    ],
+    [
+     "Come, Mother, fountain of love,",
+     "make me feel the force of your sorrow,",
+     "so that I may mourn with you."
+    ],
+    [
+     "Make my heart burn",
+     "with love for Christ my God,",
+     "so that I may please him."
+    ],
+    [
+     "When my body dies,",
+     "grant that my soul be given",
+     "the glory of paradise. Amen."
+    ]
+   ],
+   "uses": [
+    "lent",
+    "holy-week",
+    "marian"
+   ],
+   "scripture": [
+    "jhn 19:25-27",
+    "luk 2:35"
+   ],
+   "about": "A medieval meditation on Mary at the foot of the cross. It is the optional Sequence for Our Lady of Sorrows (September 15) and is traditionally sung between the Stations of the Cross.",
+   "publisher": null
+  },
+  {
+   "id": "vexilla-regis",
+   "title": "The Royal Banners Forward Go (Latin)",
+   "latinTitle": "Vexilla Regis",
+   "composer": "Gregorian chant",
+   "textAuthor": "Venantius Fortunatus (569), Traditional Latin liturgical text (first and penultimate stanzas)",
+   "year": null,
+   "publicDomain": true,
+   "lyrics": [
+    [
+     "Vexilla Regis prodeunt,",
+     "fulget Crucis mysterium,",
+     "quo carne carnis conditor",
+     "suspensus est patibulo."
+    ],
+    [
+     "O Crux, ave, spes unica,",
+     "hoc Passionis tempore",
+     "piis adauge gratiam,",
+     "reisque dele crimina."
+    ]
+   ],
+   "translation": [
+    [
+     "The banners of the King go forth,",
+     "the mystery of the Cross shines out,",
+     "on which the maker of flesh, in the flesh,",
+     "was hung upon the gallows."
+    ],
+    [
+     "Hail, O Cross, our only hope!",
+     "In this season of the Passion",
+     "increase grace for the faithful",
+     "and blot out the sins of the guilty."
+    ]
+   ],
+   "uses": [
+    "holy-week",
+    "lent"
+   ],
+   "scripture": [
+    "gal 6:14",
+    "jhn 12:32"
+   ],
+   "about": "Written for the arrival of a relic of the True Cross at Poitiers, this hymn is sung at Vespers in Holy Week and on the Exaltation of the Cross (September 14). The 'O Crux, ave' stanza is often sung on its own.",
+   "publisher": null
+  },
+  {
+   "id": "crux-fidelis",
+   "title": "Faithful Cross",
+   "latinTitle": "Crux Fidelis",
+   "composer": "Gregorian chant",
+   "textAuthor": "Venantius Fortunatus (6th century), Traditional Latin liturgical text (refrain of Pange lingua gloriosi proelium)",
+   "year": null,
+   "publicDomain": true,
+   "lyrics": [
+    [
+     "Crux fidelis, inter omnes",
+     "arbor una nobilis:",
+     "nulla talem silva profert,",
+     "flore, fronde, germine.",
+     "Dulce lignum, dulci clavo,",
+     "dulce pondus sustinens."
+    ]
+   ],
+   "translation": [
+    [
+     "Faithful Cross, the one noble tree",
+     "among all the trees:",
+     "no forest brings forth its like",
+     "in flower, leaf or bud.",
+     "Sweet wood, with sweet nails,",
+     "bearing a sweet weight."
+    ]
+   ],
+   "uses": [
+    "holy-week"
+   ],
+   "scripture": [
+    "1pe 2:24",
+    "gal 6:14"
+   ],
+   "about": "The refrain of the great hymn sung during the Adoration of the Cross on Good Friday. It praises the wood of the cross as the tree of life.",
+   "publisher": null
+  },
+  {
+   "id": "hosanna-filio-david",
+   "title": "Hosanna to the Son of David",
+   "latinTitle": "Hosanna Filio David",
+   "composer": "Gregorian chant",
+   "textAuthor": "Traditional Latin liturgical text (Matthew 21:9)",
+   "year": null,
+   "publicDomain": true,
+   "lyrics": [
+    [
+     "Hosanna filio David:",
+     "benedictus qui venit in nomine Domini.",
+     "O Rex Israel:",
+     "Hosanna in excelsis."
+    ]
+   ],
+   "translation": [
+    [
+     "Hosanna to the Son of David:",
+     "blessed is he who comes in the name of the Lord.",
+     "O King of Israel:",
+     "Hosanna in the highest."
+    ]
+   ],
+   "uses": [
+    "holy-week",
+    "entrance"
+   ],
+   "scripture": [
+    "mat 21:9",
+    "jhn 12:13"
+   ],
+   "about": "The first antiphon given in the Missal for the blessing of palms on Palm Sunday, taken from the Gospel of the Lord's entry into Jerusalem.",
+   "publisher": null
+  },
+  {
+   "id": "pueri-hebraeorum",
+   "title": "The Children of the Hebrews",
+   "latinTitle": "Pueri Hebraeorum",
+   "composer": "Gregorian chant",
+   "textAuthor": "Traditional Latin liturgical text",
+   "year": null,
+   "publicDomain": true,
+   "lyrics": [
+    [
+     "Pueri Hebraeorum, portantes ramos olivarum,",
+     "obviaverunt Domino, clamantes et dicentes:",
+     "Hosanna in excelsis."
+    ]
+   ],
+   "translation": [
+    [
+     "The children of the Hebrews, carrying olive branches,",
+     "went out to meet the Lord, crying out and saying:",
+     "Hosanna in the highest."
+    ]
+   ],
+   "uses": [
+    "holy-week"
+   ],
+   "scripture": [
+    "mat 21:8-9",
+    "mrk 11:8-10"
+   ],
+   "about": "One of the Palm Sunday processional antiphons, traditionally sung as the people carry their palms into church.",
+   "publisher": null
+  },
+  {
+   "id": "exsultet",
+   "title": "Easter Proclamation (opening)",
+   "latinTitle": "Exsultet",
+   "composer": "Gregorian chant",
+   "textAuthor": "Traditional Latin liturgical text (Easter Vigil, 7th century or earlier; opening lines only)",
+   "year": null,
+   "publicDomain": true,
+   "lyrics": [
+    [
+     "Exsultet iam angelica turba caelorum:",
+     "exsultent divina mysteria:",
+     "et pro tanti Regis victoria",
+     "tuba insonet salutaris."
+    ]
+   ],
+   "translation": [
+    [
+     "Let the angelic host of heaven now rejoice;",
+     "let the divine mysteries rejoice;",
+     "and for the victory of so great a King",
+     "let the trumpet of salvation sound."
+    ]
+   ],
+   "uses": [
+    "holy-week",
+    "easter"
+   ],
+   "scripture": [
+    "1co 15:52",
+    "rom 6:9"
+   ],
+   "about": "The long proclamation sung by a deacon or priest beside the paschal candle at the start of the Easter Vigil, after the procession with the acclamation 'Lumen Christi'. Only its opening is given here; the official English text belongs to the Roman Missal and is not reproduced.",
+   "publisher": null
+  },
+  {
+   "id": "victimae-paschali-laudes",
+   "title": "Christians, to the Paschal Victim (Easter Sequence)",
+   "latinTitle": "Victimae Paschali Laudes",
+   "composer": "Gregorian chant",
+   "textAuthor": "Attributed to Wipo of Burgundy (11th century), Traditional Latin liturgical text",
+   "year": null,
+   "publicDomain": true,
+   "lyrics": [
+    [
+     "Victimae paschali laudes",
+     "immolent Christiani."
+    ],
+    [
+     "Agnus redemit oves:",
+     "Christus innocens Patri",
+     "reconciliavit peccatores."
+    ],
+    [
+     "Mors et vita duello",
+     "conflixere mirando:",
+     "dux vitae mortuus,",
+     "regnat vivus."
+    ],
+    [
+     "Dic nobis Maria,",
+     "quid vidisti in via?"
+    ],
+    [
+     "Sepulcrum Christi viventis,",
+     "et gloriam vidi resurgentis:",
+     "angelicos testes,",
+     "sudarium, et vestes."
+    ],
+    [
+     "Surrexit Christus spes mea:",
+     "praecedet suos in Galilaeam."
+    ],
+    [
+     "Scimus Christum surrexisse",
+     "a mortuis vere:",
+     "tu nobis, victor Rex, miserere.",
+     "Amen. Alleluia."
+    ]
+   ],
+   "translation": [
+    [
+     "To the Paschal Victim",
+     "let Christians offer praise."
+    ],
+    [
+     "The Lamb has ransomed the sheep:",
+     "Christ, the innocent one,",
+     "has reconciled sinners to the Father."
+    ],
+    [
+     "Death and life have fought",
+     "in a wondrous duel:",
+     "the leader of life, who died,",
+     "now reigns alive."
+    ],
+    [
+     "Tell us, Mary,",
+     "what did you see on the way?"
+    ],
+    [
+     "I saw the tomb of the living Christ",
+     "and the glory of his rising:",
+     "the angel witnesses,",
+     "the face-cloth and the linens."
+    ],
+    [
+     "Christ my hope has risen:",
+     "he will go before his own into Galilee."
+    ],
+    [
+     "We know that Christ has truly risen",
+     "from the dead:",
+     "O victorious King, have mercy on us.",
+     "Amen. Alleluia."
+    ]
+   ],
+   "uses": [
+    "easter",
+    "gospel-acclamation"
+   ],
+   "scripture": [
+    "1co 5:7",
+    "jhn 20:1-18",
+    "mat 28:7"
+   ],
+   "about": "The Easter Sequence, required on Easter Sunday and optional through the Octave; it is sung before the Alleluia. It stages a short dialogue with Mary Magdalene, the first witness of the empty tomb.",
+   "publisher": null
+  },
+  {
+   "id": "vidi-aquam",
+   "title": "I Saw Water Flowing",
+   "latinTitle": "Vidi Aquam",
+   "composer": "Gregorian chant",
+   "textAuthor": "Traditional Latin liturgical text (Ezekiel 47:1-2, 9)",
+   "year": null,
+   "publicDomain": true,
+   "lyrics": [
+    [
+     "Vidi aquam egredientem de templo,",
+     "a latere dextro, alleluia:",
+     "et omnes ad quos pervenit aqua ista",
+     "salvi facti sunt, et dicent: alleluia, alleluia."
+    ]
+   ],
+   "translation": [
+    [
+     "I saw water flowing out from the temple,",
+     "from its right side, alleluia:",
+     "and all those whom this water reached",
+     "were saved, and they will say: alleluia, alleluia."
+    ]
+   ],
+   "uses": [
+    "easter",
+    "kyrie",
+    "entrance"
+   ],
+   "scripture": [
+    "ezk 47:1-2",
+    "ezk 47:9",
+    "jhn 19:34"
+   ],
+   "about": "The antiphon for the sprinkling rite with blessed water during Easter Time, which may replace the Penitential Act on Sundays. It reads Ezekiel's river from the Temple as the water of baptism flowing from Christ's side.",
+   "publisher": null
+  },
+  {
+   "id": "asperges-me",
+   "title": "Sprinkle Me, O Lord",
+   "latinTitle": "Asperges Me",
+   "composer": "Gregorian chant",
+   "textAuthor": "Traditional Latin liturgical text (Psalm 51)",
+   "year": null,
+   "publicDomain": true,
+   "lyrics": [
+    [
+     "Asperges me, Domine, hyssopo, et mundabor:",
+     "lavabis me, et super nivem dealbabor.",
+     "Miserere mei, Deus,",
+     "secundum magnam misericordiam tuam."
+    ]
+   ],
+   "translation": [
+    [
+     "Sprinkle me, O Lord, with hyssop, and I shall be clean:",
+     "wash me, and I shall be whiter than snow.",
+     "Have mercy on me, O God,",
+     "according to your great mercy."
+    ]
+   ],
+   "uses": [
+    "kyrie",
+    "entrance",
+    "lent"
+   ],
+   "scripture": [
+    "psa 51:1",
+    "psa 51:7"
+   ],
+   "about": "The traditional antiphon for the Sunday sprinkling rite outside Easter Time, from David's great psalm of repentance. The rite recalls baptism and may take the place of the Penitential Act.",
+   "publisher": null
+  },
+  {
+   "id": "veni-creator-spiritus",
+   "title": "Come, Creator Spirit",
+   "latinTitle": "Veni Creator Spiritus",
+   "composer": "Gregorian chant (Mode VIII)",
+   "textAuthor": "Attributed to Rabanus Maurus (9th century), Traditional Latin liturgical text",
+   "year": null,
+   "publicDomain": true,
+   "lyrics": [
+    [
+     "Veni, Creator Spiritus,",
+     "mentes tuorum visita,",
+     "imple superna gratia,",
+     "quae tu creasti pectora."
+    ],
+    [
+     "Qui diceris Paraclitus,",
+     "altissimi donum Dei,",
+     "fons vivus, ignis, caritas,",
+     "et spiritalis unctio."
+    ],
+    [
+     "Tu septiformis munere,",
+     "digitus paternae dexterae,",
+     "tu rite promissum Patris,",
+     "sermone ditans guttura."
+    ],
+    [
+     "Accende lumen sensibus,",
+     "infunde amorem cordibus,",
+     "infirma nostri corporis",
+     "virtute firmans perpeti."
+    ],
+    [
+     "Hostem repellas longius,",
+     "pacemque dones protinus;",
+     "ductore sic te praevio",
+     "vitemus omne noxium."
+    ],
+    [
+     "Per te sciamus da Patrem,",
+     "noscamus atque Filium,",
+     "teque utriusque Spiritum",
+     "credamus omni tempore."
+    ],
+    [
+     "Deo Patri sit gloria,",
+     "et Filio, qui a mortuis",
+     "surrexit, ac Paraclito,",
+     "in saeculorum saecula. Amen."
+    ]
+   ],
+   "translation": [
+    [
+     "Come, Creator Spirit,",
+     "visit the minds of your own,",
+     "fill with grace from above",
+     "the hearts that you have made."
+    ],
+    [
+     "You who are called the Advocate,",
+     "gift of God most high,",
+     "living spring, fire, love,",
+     "and anointing of the spirit."
+    ],
+    [
+     "Sevenfold in your gifts,",
+     "finger of the Father's right hand,",
+     "the Father's promise duly kept,",
+     "you enrich our throats with speech."
+    ],
+    [
+     "Kindle a light in our senses,",
+     "pour love into our hearts,",
+     "strengthening the weakness of our bodies",
+     "with your lasting power."
+    ],
+    [
+     "Drive the enemy far away",
+     "and give us peace at once;",
+     "with you going before us as guide",
+     "may we avoid all harm."
+    ],
+    [
+     "Grant that through you we may know the Father,",
+     "and come to know the Son,",
+     "and believe in you, the Spirit of both,",
+     "at all times."
+    ],
+    [
+     "Glory be to God the Father,",
+     "and to the Son, who rose",
+     "from the dead, and to the Advocate,",
+     "for ages of ages. Amen."
+    ]
+   ],
+   "uses": [
+    "pentecost",
+    "entrance"
+   ],
+   "scripture": [
+    "jhn 14:16-17",
+    "luk 11:20",
+    "act 2:1-4",
+    "isa 11:2"
+   ],
+   "about": "The great hymn to the Holy Spirit, sung at Pentecost, Confirmations, ordinations and the opening of a conclave. It is one of the most widely used hymns in the Latin Church.",
+   "publisher": null
+  },
+  {
+   "id": "veni-sancte-spiritus",
+   "title": "Come, Holy Spirit (Pentecost Sequence)",
+   "latinTitle": "Veni Sancte Spiritus",
+   "composer": "Gregorian chant",
+   "textAuthor": "Attributed to Stephen Langton (c. 1200), Traditional Latin liturgical text",
+   "year": null,
+   "publicDomain": true,
+   "lyrics": [
+    [
+     "Veni, Sancte Spiritus,",
+     "et emitte caelitus",
+     "lucis tuae radium."
+    ],
+    [
+     "Veni, pater pauperum,",
+     "veni, dator munerum,",
+     "veni, lumen cordium."
+    ],
+    [
+     "Consolator optime,",
+     "dulcis hospes animae,",
+     "dulce refrigerium."
+    ],
+    [
+     "In labore requies,",
+     "in aestu temperies,",
+     "in fletu solacium."
+    ],
+    [
+     "O lux beatissima,",
+     "reple cordis intima",
+     "tuorum fidelium."
+    ],
+    [
+     "Sine tuo numine,",
+     "nihil est in homine,",
+     "nihil est innoxium."
+    ],
+    [
+     "Lava quod est sordidum,",
+     "riga quod est aridum,",
+     "sana quod est saucium."
+    ],
+    [
+     "Flecte quod est rigidum,",
+     "fove quod est frigidum,",
+     "rege quod est devium."
+    ],
+    [
+     "Da tuis fidelibus,",
+     "in te confidentibus,",
+     "sacrum septenarium."
+    ],
+    [
+     "Da virtutis meritum,",
+     "da salutis exitum,",
+     "da perenne gaudium. Amen. Alleluia."
+    ]
+   ],
+   "translation": [
+    [
+     "Come, Holy Spirit,",
+     "and send from heaven",
+     "a ray of your light."
+    ],
+    [
+     "Come, father of the poor,",
+     "come, giver of gifts,",
+     "come, light of hearts."
+    ],
+    [
+     "Best of comforters,",
+     "sweet guest of the soul,",
+     "sweet refreshment."
+    ],
+    [
+     "Rest in labor,",
+     "cool in the heat,",
+     "solace in tears."
+    ],
+    [
+     "O most blessed light,",
+     "fill the inmost hearts",
+     "of your faithful."
+    ],
+    [
+     "Without your divine power",
+     "there is nothing in us,",
+     "nothing that is free of harm."
+    ],
+    [
+     "Wash what is soiled,",
+     "water what is dry,",
+     "heal what is wounded."
+    ],
+    [
+     "Bend what is rigid,",
+     "warm what is cold,",
+     "guide what has strayed."
+    ],
+    [
+     "Give to your faithful,",
+     "who trust in you,",
+     "the sacred sevenfold gifts."
+    ],
+    [
+     "Give the reward of virtue,",
+     "give a saving end,",
+     "give everlasting joy. Amen. Alleluia."
+    ]
+   ],
+   "uses": [
+    "pentecost",
+    "gospel-acclamation"
+   ],
+   "scripture": [
+    "act 2:1-4",
+    "jhn 14:26",
+    "isa 11:2"
+   ],
+   "about": "Called the 'Golden Sequence', it is required on Pentecost Sunday, sung before the Alleluia. Each short stanza names a way the Spirit comforts, heals or guides.",
+   "publisher": null
+  },
+  {
+   "id": "rorate-caeli",
+   "title": "Drop Down Dew, You Heavens",
+   "latinTitle": "Rorate Caeli",
+   "composer": "Gregorian chant",
+   "textAuthor": "Traditional Latin liturgical text (Isaiah 45:8 and 64; refrain and first verse)",
+   "year": null,
+   "publicDomain": true,
+   "lyrics": [
+    [
+     "Rorate caeli desuper,",
+     "et nubes pluant iustum."
+    ],
+    [
+     "Ne irascaris, Domine,",
+     "ne ultra memineris iniquitatis:",
+     "ecce civitas Sancti facta est deserta:",
+     "Sion deserta facta est,",
+     "Ierusalem desolata est:",
+     "domus sanctificationis tuae et gloriae tuae,",
+     "ubi laudaverunt te patres nostri."
+    ]
+   ],
+   "translation": [
+    [
+     "Drop down dew, you heavens, from above,",
+     "and let the clouds rain down the Just One."
+    ],
+    [
+     "Do not be angry, O Lord,",
+     "remember our wrongdoing no longer:",
+     "see, the city of the Holy One has become a wilderness:",
+     "Zion has become a wilderness,",
+     "Jerusalem lies desolate:",
+     "the house of your holiness and your glory,",
+     "where our fathers praised you."
+    ]
+   ],
+   "uses": [
+    "advent",
+    "entrance"
+   ],
+   "scripture": [
+    "isa 45:8",
+    "isa 64:9-11"
+   ],
+   "about": "The Advent chant par excellence, built on Isaiah's longing for the heavens to rain down salvation. Its refrain is also the Entrance Antiphon of the Fourth Sunday of Advent.",
+   "publisher": null
+  },
+  {
+   "id": "puer-natus-est",
+   "title": "A Child Is Born to Us",
+   "latinTitle": "Puer Natus Est",
+   "composer": "Gregorian chant",
+   "textAuthor": "Traditional Latin liturgical text (Isaiah 9:6, Vulgate)",
+   "year": null,
+   "publicDomain": true,
+   "lyrics": [
+    [
+     "Puer natus est nobis,",
+     "et filius datus est nobis:",
+     "cuius imperium super humerum eius:",
+     "et vocabitur nomen eius,",
+     "magni consilii Angelus."
+    ]
+   ],
+   "translation": [
+    [
+     "A child is born to us,",
+     "and a son is given to us:",
+     "whose rule rests on his shoulder;",
+     "and his name will be called",
+     "Messenger of great counsel."
+    ]
+   ],
+   "uses": [
+    "christmas",
+    "entrance"
+   ],
+   "scripture": [
+    "isa 9:6"
+   ],
+   "about": "The Gregorian Introit of the Mass during the Day on Christmas. The Vulgate (Greek-based) wording 'Angel of great counsel' differs from modern translations of Isaiah.",
+   "publisher": null
+  },
+  {
+   "id": "hodie-christus-natus-est",
+   "title": "Today Christ Is Born",
+   "latinTitle": "Hodie Christus Natus Est",
+   "composer": "Gregorian chant (and polyphonic settings by Sweelinck, Palestrina and others)",
+   "textAuthor": "Traditional Latin liturgical text (Magnificat antiphon for Christmas Vespers)",
+   "year": null,
+   "publicDomain": true,
+   "lyrics": [
+    [
+     "Hodie Christus natus est;",
+     "hodie Salvator apparuit;",
+     "hodie in terra canunt Angeli,",
+     "laetantur Archangeli;",
+     "hodie exsultant iusti, dicentes:",
+     "Gloria in excelsis Deo, alleluia."
+    ]
+   ],
+   "translation": [
+    [
+     "Today Christ is born;",
+     "today the Savior has appeared;",
+     "today on earth the Angels sing",
+     "and the Archangels rejoice;",
+     "today the just exult, saying:",
+     "Glory to God in the highest, alleluia."
+    ]
+   ],
+   "uses": [
+    "christmas"
+   ],
+   "scripture": [
+    "luk 2:11",
+    "luk 2:13-14"
+   ],
+   "about": "The antiphon for Mary's Canticle at Evening Prayer on Christmas Day, whose repeated 'today' makes the feast present. It is a favorite for choirs as a prelude or after Communion during the Christmas season.",
+   "publisher": null
+  },
+  {
+   "id": "in-paradisum",
+   "title": "May the Angels Lead You into Paradise",
+   "latinTitle": "In Paradisum",
+   "composer": "Gregorian chant",
+   "textAuthor": "Traditional Latin liturgical text",
+   "year": null,
+   "publicDomain": true,
+   "lyrics": [
+    [
+     "In paradisum deducant te Angeli;",
+     "in tuo adventu suscipiant te martyres,",
+     "et perducant te in civitatem sanctam Ierusalem.",
+     "Chorus Angelorum te suscipiat,",
+     "et cum Lazaro quondam paupere",
+     "aeternam habeas requiem."
+    ]
+   ],
+   "translation": [
+    [
+     "May the Angels lead you into paradise;",
+     "at your coming may the martyrs receive you",
+     "and bring you into the holy city, Jerusalem.",
+     "May the choir of Angels receive you,",
+     "and with Lazarus, who once was poor,",
+     "may you have eternal rest."
+    ]
+   ],
+   "uses": [
+    "funeral",
+    "recessional"
+   ],
+   "scripture": [
+    "luk 16:22",
+    "rev 21:2",
+    "heb 12:22-23"
+   ],
+   "about": "Sung as the body is carried from the church at the end of the funeral liturgy. It pictures the angels and martyrs escorting the soul to the heavenly Jerusalem, as the angels carried poor Lazarus to Abraham's side.",
+   "publisher": null
+  },
+  {
+   "id": "requiem-aeternam",
+   "title": "Eternal Rest",
+   "latinTitle": "Requiem Aeternam",
+   "composer": "Gregorian chant",
+   "textAuthor": "Traditional Latin liturgical text (4 Esdras 2:34-35; Psalm 65)",
+   "year": null,
+   "publicDomain": true,
+   "lyrics": [
+    [
+     "Requiem aeternam dona eis, Domine:",
+     "et lux perpetua luceat eis.",
+     "Te decet hymnus, Deus, in Sion,",
+     "et tibi reddetur votum in Ierusalem:",
+     "exaudi orationem meam,",
+     "ad te omnis caro veniet."
+    ]
+   ],
+   "translation": [
+    [
+     "Eternal rest grant them, O Lord,",
+     "and let perpetual light shine on them.",
+     "A hymn befits you, O God, in Zion,",
+     "and to you a vow shall be fulfilled in Jerusalem:",
+     "hear my prayer;",
+     "to you all flesh shall come."
+    ]
+   ],
+   "uses": [
+    "funeral",
+    "entrance"
+   ],
+   "scripture": [
+    "psa 65:1-2"
+   ],
+   "about": "The traditional Introit of the Mass for the Dead, which gave the 'Requiem Mass' its name. Its antiphon draws on the non-canonical 4 Esdras; the verse is from Psalm 65.",
+   "publisher": null
+  },
+  {
+   "id": "lux-aeterna",
+   "title": "Let Eternal Light Shine",
+   "latinTitle": "Lux Aeterna",
+   "composer": "Gregorian chant",
+   "textAuthor": "Traditional Latin liturgical text",
+   "year": null,
+   "publicDomain": true,
+   "lyrics": [
+    [
+     "Lux aeterna luceat eis, Domine,",
+     "cum sanctis tuis in aeternum,",
+     "quia pius es.",
+     "Requiem aeternam dona eis, Domine,",
+     "et lux perpetua luceat eis."
+    ]
+   ],
+   "translation": [
+    [
+     "May eternal light shine on them, O Lord,",
+     "with your saints for ever,",
+     "for you are merciful.",
+     "Eternal rest grant them, O Lord,",
+     "and let perpetual light shine on them."
+    ]
+   ],
+   "uses": [
+    "funeral",
+    "communion"
+   ],
+   "scripture": [
+    "rev 22:5"
+   ],
+   "about": "The traditional Communion antiphon of the Requiem Mass, praying that the departed share the unending light of the saints.",
+   "publisher": null
+  },
+  {
+   "id": "dies-irae",
+   "title": "Day of Wrath",
+   "latinTitle": "Dies Irae",
+   "composer": "Gregorian chant",
+   "textAuthor": "Attributed to Thomas of Celano (13th century), Traditional Latin liturgical text (selected stanzas)",
+   "year": null,
+   "publicDomain": true,
+   "lyrics": [
+    [
+     "Dies irae, dies illa,",
+     "solvet saeclum in favilla,",
+     "teste David cum Sibylla."
+    ],
+    [
+     "Quantus tremor est futurus,",
+     "quando iudex est venturus,",
+     "cuncta stricte discussurus!"
+    ],
+    [
+     "Tuba mirum spargens sonum",
+     "per sepulcra regionum,",
+     "coget omnes ante thronum."
+    ],
+    [
+     "Recordare, Iesu pie,",
+     "quod sum causa tuae viae:",
+     "ne me perdas illa die."
+    ],
+    [
+     "Pie Iesu Domine,",
+     "dona eis requiem. Amen."
+    ]
+   ],
+   "translation": [
+    [
+     "Day of wrath, that day",
+     "will dissolve the world in ashes,",
+     "as David and the Sibyl bear witness."
+    ],
+    [
+     "How great a trembling there will be",
+     "when the judge is to come",
+     "to examine all things strictly!"
+    ],
+    [
+     "The trumpet, scattering its wondrous sound",
+     "through the tombs of every land,",
+     "will summon all before the throne."
+    ],
+    [
+     "Remember, loving Jesus,",
+     "that I am the reason for your journey:",
+     "do not lose me on that day."
+    ],
+    [
+     "Loving Lord Jesus,",
+     "grant them rest. Amen."
+    ]
+   ],
+   "uses": [
+    "funeral",
+    "saints"
+   ],
+   "scripture": [
+    "zep 1:15-16",
+    "1th 4:16",
+    "mat 25:31-32"
+   ],
+   "about": "The medieval Sequence of the Requiem Mass. Since the 1970 reform it is no longer part of the funeral Mass in the ordinary form; it survives as an optional hymn in the Liturgy of the Hours for the last week of Ordinary Time and is still sung in the Extraordinary Form.",
+   "publisher": null
+  },
+  {
+   "id": "te-deum",
+   "title": "We Praise You, O God",
+   "latinTitle": "Te Deum",
+   "composer": "Gregorian chant (solemn and simple tones)",
+   "textAuthor": "Traditional Latin liturgical text (4th century; traditionally linked to St. Ambrose and St. Augustine, often attributed to Nicetas of Remesiana)",
+   "year": null,
+   "publicDomain": true,
+   "lyrics": [
+    [
+     "Te Deum laudamus: te Dominum confitemur.",
+     "Te aeternum Patrem omnis terra veneratur.",
+     "Tibi omnes Angeli, tibi caeli et universae Potestates:",
+     "tibi Cherubim et Seraphim incessabili voce proclamant:",
+     "Sanctus, Sanctus, Sanctus Dominus Deus Sabaoth.",
+     "Pleni sunt caeli et terra maiestatis gloriae tuae."
+    ],
+    [
+     "Te gloriosus Apostolorum chorus,",
+     "te Prophetarum laudabilis numerus,",
+     "te Martyrum candidatus laudat exercitus.",
+     "Te per orbem terrarum sancta confitetur Ecclesia,",
+     "Patrem immensae maiestatis;",
+     "venerandum tuum verum et unicum Filium;",
+     "Sanctum quoque Paraclitum Spiritum."
+    ],
+    [
+     "Tu Rex gloriae, Christe.",
+     "Tu Patris sempiternus es Filius.",
+     "Tu ad liberandum suscepturus hominem, non horruisti Virginis uterum.",
+     "Tu, devicto mortis aculeo, aperuisti credentibus regna caelorum.",
+     "Tu ad dexteram Dei sedes, in gloria Patris.",
+     "Iudex crederis esse venturus.",
+     "Te ergo quaesumus, tuis famulis subveni, quos pretioso sanguine redemisti.",
+     "Aeterna fac cum sanctis tuis in gloria numerari."
+    ],
+    [
+     "Salvum fac populum tuum, Domine, et benedic hereditati tuae.",
+     "Et rege eos, et extolle illos usque in aeternum.",
+     "Per singulos dies benedicimus te;",
+     "et laudamus nomen tuum in saeculum, et in saeculum saeculi.",
+     "Dignare, Domine, die isto sine peccato nos custodire.",
+     "Miserere nostri, Domine, miserere nostri.",
+     "Fiat misericordia tua, Domine, super nos, quemadmodum speravimus in te.",
+     "In te, Domine, speravi: non confundar in aeternum."
+    ]
+   ],
+   "translation": [
+    [
+     "We praise you, O God; we acknowledge you as Lord.",
+     "All the earth reveres you, eternal Father.",
+     "To you all the Angels, the heavens and all the Powers,",
+     "to you the Cherubim and Seraphim cry out with unceasing voice:",
+     "Holy, holy, holy, Lord God of hosts.",
+     "Heaven and earth are full of the majesty of your glory."
+    ],
+    [
+     "The glorious company of Apostles,",
+     "the praiseworthy number of the Prophets,",
+     "the white-robed army of Martyrs praise you.",
+     "Throughout the whole world the holy Church acknowledges you:",
+     "the Father of boundless majesty;",
+     "your true and only Son, worthy of worship;",
+     "and the Holy Spirit, the Advocate."
+    ],
+    [
+     "You, O Christ, are the King of glory.",
+     "You are the everlasting Son of the Father.",
+     "To set humankind free, you did not shrink from the Virgin's womb.",
+     "Having overcome the sting of death, you opened the kingdom of heaven to believers.",
+     "You sit at God's right hand, in the glory of the Father.",
+     "We believe that you will come as judge.",
+     "So we ask you: help your servants, whom you redeemed with your precious blood.",
+     "Make them be numbered with your saints in eternal glory."
+    ],
+    [
+     "Save your people, O Lord, and bless your inheritance.",
+     "Govern them and lift them up for ever.",
+     "Day by day we bless you,",
+     "and we praise your name for ever, for ever and ever.",
+     "Be pleased, O Lord, to keep us this day without sin.",
+     "Have mercy on us, O Lord, have mercy on us.",
+     "Let your mercy, O Lord, be upon us, as we have hoped in you.",
+     "In you, O Lord, I have hoped: let me never be put to shame."
+    ]
+   ],
+   "uses": [
+    "recessional",
+    "saints"
+   ],
+   "scripture": [
+    "isa 6:3",
+    "psa 28:9",
+    "psa 33:22",
+    "psa 31:1"
+   ],
+   "about": "The Church's great hymn of thanksgiving, sung at the end of the Office of Readings on Sundays and feasts and on solemn occasions such as a papal election, an ordination or the last day of the year. 'Holy God, We Praise Thy Name' is a German paraphrase of it.",
+   "publisher": null
+  },
+  {
+   "id": "christus-vincit",
+   "title": "Christ Conquers",
+   "latinTitle": "Christus Vincit (Laudes Regiae)",
+   "composer": "Gregorian chant (Laudes Regiae, 8th century)",
+   "textAuthor": "Traditional Latin liturgical text (refrain only)",
+   "year": null,
+   "publicDomain": true,
+   "lyrics": [
+    [
+     "Christus vincit! Christus regnat! Christus imperat!"
+    ]
+   ],
+   "translation": [
+    [
+     "Christ conquers! Christ reigns! Christ commands!"
+    ]
+   ],
+   "uses": [
+    "recessional",
+    "entrance",
+    "saints"
+   ],
+   "scripture": [
+    "rev 11:15",
+    "php 2:9-11"
+   ],
+   "about": "The ringing refrain of the Carolingian 'royal acclamations', a litany acclaiming Christ the King and invoking the saints. It is used on the Solemnity of Christ the King, at episcopal Masses and on great processional occasions.",
+   "publisher": null
+  },
+  {
+   "id": "holy-god-we-praise-thy-name",
+   "title": "Holy God, We Praise Thy Name",
+   "latinTitle": null,
+   "composer": "GROSSER GOTT, from the Katholisches Gesangbuch (Vienna, c. 1774)",
+   "textAuthor": "Ignaz Franz (German, c. 1771); English by Clarence A. Walworth (1858)",
+   "year": "1858",
+   "publicDomain": true,
+   "lyrics": null,
+   "translation": null,
+   "uses": [
+    "entrance",
+    "recessional",
+    "ordinary",
+    "saints"
+   ],
+   "scripture": [
+    "isa 6:3",
+    "rev 4:8"
+   ],
+   "about": "A German paraphrase of the ancient Te Deum, carried into English by an American Redemptorist-turned-Paulist priest. It is one of the most-sung processional hymns in American parishes, especially on solemn occasions.",
+   "publisher": null
+  },
+  {
+   "id": "immaculate-mary",
+   "title": "Immaculate Mary",
+   "latinTitle": null,
+   "composer": "LOURDES HYMN, traditional French pilgrimage melody (Grenoble, 1882)",
+   "textAuthor": "Traditional Lourdes pilgrimage hymn; English versions vary by hymnal",
+   "year": null,
+   "publicDomain": true,
+   "lyrics": null,
+   "translation": null,
+   "uses": [
+    "marian",
+    "entrance",
+    "recessional"
+   ],
+   "scripture": [
+    "luk 1:28",
+    "rev 12:1"
+   ],
+   "about": "The hymn of the candlelight processions at Lourdes, whose refrain is a simple Ave. American parishes sing it on the Immaculate Conception (the patronal feast of the United States) and throughout May and October.",
+   "publisher": null
+  },
+  {
+   "id": "o-sacred-head-surrounded",
+   "title": "O Sacred Head Surrounded",
+   "latinTitle": "Salve caput cruentatum",
+   "composer": "PASSION CHORALE, Hans Leo Hassler (1601); harmonized by J. S. Bach",
+   "textAuthor": "Medieval Latin poem (attributed to Arnulf of Leuven, formerly to Bernard of Clairvaux); German by Paul Gerhardt (1656); English by Henry W. Baker (1861)",
+   "year": "1861",
+   "publicDomain": true,
+   "lyrics": null,
+   "translation": null,
+   "uses": [
+    "holy-week",
+    "lent"
+   ],
+   "scripture": [
+    "mat 27:29",
+    "isa 53:3-5"
+   ],
+   "about": "A meditation addressed to the wounded face of Christ, passed from Latin to German to English over five centuries. Bach used the melody repeatedly in his St. Matthew Passion, and it remains a staple of Good Friday.",
+   "publisher": null
+  },
+  {
+   "id": "silent-night",
+   "title": "Silent Night",
+   "latinTitle": null,
+   "composer": "Franz Xaver Gruber (1818)",
+   "textAuthor": "Joseph Mohr (German, 1816); English by John Freeman Young (1859)",
+   "year": "1818",
+   "publicDomain": true,
+   "lyrics": null,
+   "translation": null,
+   "uses": [
+    "christmas"
+   ],
+   "scripture": [
+    "luk 2:7-14"
+   ],
+   "about": "First sung on Christmas Eve 1818 at St. Nicholas Church in Oberndorf, Austria, by its young assistant priest and the parish organist, with guitar accompaniment. It is often sung by candlelight at the close of Christmas Midnight Mass.",
+   "publisher": null
+  },
+  {
+   "id": "o-come-all-ye-faithful",
+   "title": "O Come, All Ye Faithful",
+   "latinTitle": "Adeste Fideles",
+   "composer": "ADESTE FIDELES, attributed to John Francis Wade (c. 1743)",
+   "textAuthor": "Latin, attributed to John Francis Wade; English by Frederick Oakeley (1841)",
+   "year": "c. 1743",
+   "publicDomain": true,
+   "lyrics": null,
+   "translation": null,
+   "uses": [
+    "christmas",
+    "entrance"
+   ],
+   "scripture": [
+    "luk 2:15-16"
+   ],
+   "about": "An invitation to come to Bethlehem and adore the newborn King, preserved in manuscripts copied by an English Catholic layman in exile in France. Oakeley, who translated it, later followed John Henry Newman into the Catholic Church.",
+   "publisher": null
+  },
+  {
+   "id": "o-come-o-come-emmanuel",
+   "title": "O Come, O Come, Emmanuel",
+   "latinTitle": "Veni, veni, Emmanuel",
+   "composer": "VENI EMMANUEL, adapted from a 15th-century French processional (arr. Thomas Helmore, 1856)",
+   "textAuthor": "Latin hymn based on the medieval 'O Antiphons' (Cologne, 1710); English by John Mason Neale (1851)",
+   "year": "1851",
+   "publicDomain": true,
+   "lyrics": null,
+   "translation": null,
+   "uses": [
+    "advent",
+    "entrance"
+   ],
+   "scripture": [
+    "isa 7:14",
+    "mat 1:23",
+    "isa 11:1"
+   ],
+   "about": "Each verse takes up one of the 'O Antiphons' the Church sings at Vespers from December 17 to 23, calling on Christ by an Old Testament title. It is the signature hymn of Advent.",
+   "publisher": null
+  },
+  {
+   "id": "hark-the-herald-angels-sing",
+   "title": "Hark! The Herald Angels Sing",
+   "latinTitle": null,
+   "composer": "MENDELSSOHN, Felix Mendelssohn (1840), adapted by William H. Cummings (1855)",
+   "textAuthor": "Charles Wesley (1739), altered by George Whitefield and others",
+   "year": "1739",
+   "publicDomain": true,
+   "lyrics": null,
+   "translation": null,
+   "uses": [
+    "christmas",
+    "recessional"
+   ],
+   "scripture": [
+    "luk 2:13-14",
+    "jhn 1:14"
+   ],
+   "about": "A Methodist hymn that packs much of the doctrine of the Incarnation into its verses. The tune comes from a cantata Mendelssohn wrote to honor Gutenberg and the printing press.",
+   "publisher": null
+  },
+  {
+   "id": "joy-to-the-world",
+   "title": "Joy to the World",
+   "latinTitle": null,
+   "composer": "ANTIOCH, arranged by Lowell Mason (1839)",
+   "textAuthor": "Isaac Watts (1719), a paraphrase of Psalm 98",
+   "year": "1719",
+   "publicDomain": true,
+   "lyrics": null,
+   "translation": null,
+   "uses": [
+    "christmas",
+    "recessional"
+   ],
+   "scripture": [
+    "psa 98:4-9"
+   ],
+   "about": "Watts wrote it as a psalm paraphrase about the Lord's coming to reign, not specifically as a Christmas carol. It has become one of the most familiar recessional hymns of the Christmas season.",
+   "publisher": null
+  },
+  {
+   "id": "angels-we-have-heard-on-high",
+   "title": "Angels We Have Heard on High",
+   "latinTitle": null,
+   "composer": "GLORIA, traditional French carol melody",
+   "textAuthor": "French carol 'Les anges dans nos campagnes' (18th century); English by James Chadwick (1862)",
+   "year": "1862",
+   "publicDomain": true,
+   "lyrics": null,
+   "translation": null,
+   "uses": [
+    "christmas",
+    "gloria"
+   ],
+   "scripture": [
+    "luk 2:8-14"
+   ],
+   "about": "Its famous long-held refrain sets the Latin words the angels sang to the shepherds, the same words that open the Gloria of the Mass. The English version was made by a Catholic bishop of Hexham and Newcastle.",
+   "publisher": null
+  },
+  {
+   "id": "what-child-is-this",
+   "title": "What Child Is This",
+   "latinTitle": null,
+   "composer": "GREENSLEEVES, traditional English melody (16th century)",
+   "textAuthor": "William Chatterton Dix (1865)",
+   "year": "1865",
+   "publicDomain": true,
+   "lyrics": null,
+   "translation": null,
+   "uses": [
+    "christmas",
+    "offertory"
+   ],
+   "scripture": [
+    "luk 2:16-19",
+    "mat 2:11"
+   ],
+   "about": "Dix set his reflective question-and-answer poem to the old English tune Greensleeves. It is often sung at the preparation of the gifts during the Christmas season and on Epiphany.",
+   "publisher": null
+  },
+  {
+   "id": "faith-of-our-fathers",
+   "title": "Faith of Our Fathers",
+   "latinTitle": null,
+   "composer": "ST. CATHERINE, Henri F. Hemy (1864), adapted by James G. Walton (1874)",
+   "textAuthor": "Frederick William Faber (1849)",
+   "year": "1849",
+   "publicDomain": true,
+   "lyrics": null,
+   "translation": null,
+   "uses": [
+    "recessional",
+    "saints",
+    "ordinary"
+   ],
+   "scripture": [
+    "jud 1:3",
+    "heb 11:36-38"
+   ],
+   "about": "Faber, an Oratorian convert, wrote it in honor of the English Catholics who kept the faith through penal times and martyrdom. It became a beloved anthem of American Catholic identity.",
+   "publisher": null
+  },
+  {
+   "id": "holy-holy-holy",
+   "title": "Holy, Holy, Holy! Lord God Almighty",
+   "latinTitle": null,
+   "composer": "NICAEA, John Bacchus Dykes (1861)",
+   "textAuthor": "Reginald Heber (published 1826)",
+   "year": "1826",
+   "publicDomain": true,
+   "lyrics": null,
+   "translation": null,
+   "uses": [
+    "entrance",
+    "ordinary"
+   ],
+   "scripture": [
+    "rev 4:8-11",
+    "isa 6:3"
+   ],
+   "about": "Written for Trinity Sunday, it draws on the vision of the heavenly throne room in Revelation 4. The tune is named for the Council of Nicaea, which defended the doctrine of the Trinity.",
+   "publisher": null
+  },
+  {
+   "id": "come-holy-ghost",
+   "title": "Come, Holy Ghost, Creator Blest",
+   "latinTitle": "Veni Creator Spiritus",
+   "composer": "LAMBILLOTTE, Louis Lambillotte, SJ (19th century)",
+   "textAuthor": "Latin hymn attributed to Rabanus Maurus (9th century); English by Edward Caswall (1849)",
+   "year": "1849",
+   "publicDomain": true,
+   "lyrics": null,
+   "translation": null,
+   "uses": [
+    "pentecost",
+    "entrance"
+   ],
+   "scripture": [
+    "act 2:1-4",
+    "jhn 14:26"
+   ],
+   "about": "An English version of the ancient Veni Creator Spiritus, sung to a melody by a French Jesuit. It is a traditional choice at Confirmation, Pentecost, and the start of a school year.",
+   "publisher": null
+  },
+  {
+   "id": "christ-the-lord-is-risen-today",
+   "title": "Christ the Lord Is Risen Today",
+   "latinTitle": null,
+   "composer": "EASTER HYMN, from Lyra Davidica (1708)",
+   "textAuthor": "Charles Wesley (1739)",
+   "year": "1739",
+   "publicDomain": true,
+   "lyrics": null,
+   "translation": null,
+   "uses": [
+    "easter",
+    "entrance",
+    "recessional"
+   ],
+   "scripture": [
+    "mat 28:6",
+    "1co 15:55-57"
+   ],
+   "about": "Wesley's Easter hymn punctuates each line with an Alleluia. It shares its usual tune with 'Jesus Christ Is Risen Today,' and the two are sometimes confused.",
+   "publisher": null
+  },
+  {
+   "id": "jesus-christ-is-risen-today",
+   "title": "Jesus Christ Is Risen Today",
+   "latinTitle": "Surrexit Christus hodie",
+   "composer": "EASTER HYMN, from Lyra Davidica (1708)",
+   "textAuthor": "14th-century Latin carol; English in Lyra Davidica (1708), with a later stanza by Charles Wesley",
+   "year": "1708",
+   "publicDomain": true,
+   "lyrics": null,
+   "translation": null,
+   "uses": [
+    "easter",
+    "entrance",
+    "recessional"
+   ],
+   "scripture": [
+    "mat 28:5-7",
+    "rom 6:9"
+   ],
+   "about": "One of the most-sung Easter hymns in the English-speaking world, descended from a medieval Latin carol. Its soaring Alleluias make it a natural opening or closing hymn on Easter Sunday.",
+   "publisher": null
+  },
+  {
+   "id": "the-strife-is-oer",
+   "title": "The Strife Is O'er",
+   "latinTitle": "Finita iam sunt praelia",
+   "composer": "VICTORY, adapted by William H. Monk (1861) from a Gloria Patri by Giovanni Pierluigi da Palestrina (1591)",
+   "textAuthor": "Latin hymn (Symphonia Sirenum, Cologne, 1695); English by Francis Pott (1861)",
+   "year": "1861",
+   "publicDomain": true,
+   "lyrics": null,
+   "translation": null,
+   "uses": [
+    "easter",
+    "recessional"
+   ],
+   "scripture": [
+    "1co 15:54-57",
+    "col 2:15"
+   ],
+   "about": "A hymn of Christ's victory over death, framed by triple Alleluias. Its melody was adapted from a piece by Palestrina, the great composer of Renaissance church music.",
+   "publisher": null
+  },
+  {
+   "id": "crown-him-with-many-crowns",
+   "title": "Crown Him with Many Crowns",
+   "latinTitle": null,
+   "composer": "DIADEMATA, George J. Elvey (1868)",
+   "textAuthor": "Matthew Bridges (1851), with stanzas by Godfrey Thring (1874)",
+   "year": "1851",
+   "publicDomain": true,
+   "lyrics": null,
+   "translation": null,
+   "uses": [
+    "entrance",
+    "recessional",
+    "easter",
+    "ordinary"
+   ],
+   "scripture": [
+    "rev 19:12",
+    "rev 5:11-13"
+   ],
+   "about": "Bridges, an Anglican who became a Catholic, built the hymn on the image of the many crowns of the Rider in Revelation 19. It is a favorite for the Solemnity of Christ the King and the Easter season.",
+   "publisher": null
+  },
+  {
+   "id": "praise-to-the-lord-the-almighty",
+   "title": "Praise to the Lord, the Almighty",
+   "latinTitle": null,
+   "composer": "LOBE DEN HERREN, from the Stralsund Gesangbuch (1665)",
+   "textAuthor": "Joachim Neander (German, 1680); English by Catherine Winkworth (1863)",
+   "year": "1680",
+   "publicDomain": true,
+   "lyrics": null,
+   "translation": null,
+   "uses": [
+    "entrance",
+    "ordinary"
+   ],
+   "scripture": [
+    "psa 103:1-6",
+    "psa 150:6"
+   ],
+   "about": "A German hymn of praise drawing on Psalms 103 and 150, given its classic English form by Catherine Winkworth. A strong, stately opening hymn for Ordinary Time.",
+   "publisher": null
+  },
+  {
+   "id": "now-thank-we-all-our-god",
+   "title": "Now Thank We All Our God",
+   "latinTitle": null,
+   "composer": "NUN DANKET, Johann Crüger (1647)",
+   "textAuthor": "Martin Rinkart (German, c. 1636); English by Catherine Winkworth (1858)",
+   "year": "c. 1636",
+   "publicDomain": true,
+   "lyrics": null,
+   "translation": null,
+   "uses": [
+    "recessional",
+    "ordinary",
+    "wedding"
+   ],
+   "scripture": [
+    "sir 50:22-24"
+   ],
+   "about": "Written by a pastor who ministered through the Thirty Years' War and a deadly plague, it draws on Sirach 50. In the United States it is a natural choice for Thanksgiving Day.",
+   "publisher": null
+  },
+  {
+   "id": "all-creatures-of-our-god-and-king",
+   "title": "All Creatures of Our God and King",
+   "latinTitle": null,
+   "composer": "LASST UNS ERFREUEN, from Geistliche Kirchengesäng (Cologne, 1623)",
+   "textAuthor": "Francis of Assisi (Canticle of the Creatures, 1225); paraphrased by William H. Draper (c. 1919)",
+   "year": "1225",
+   "publicDomain": true,
+   "lyrics": null,
+   "translation": null,
+   "uses": [
+    "entrance",
+    "ordinary",
+    "saints"
+   ],
+   "scripture": [
+    "psa 148:1-5",
+    "dan 3:57-60"
+   ],
+   "about": "A free English paraphrase of St. Francis's Canticle of the Creatures, which calls every part of creation to praise God. Popular around the feast of St. Francis (October 4).",
+   "publisher": null
+  },
+  {
+   "id": "let-all-mortal-flesh-keep-silence",
+   "title": "Let All Mortal Flesh Keep Silence",
+   "latinTitle": null,
+   "composer": "PICARDY, traditional French carol melody (17th century)",
+   "textAuthor": "Greek Liturgy of St. James (early centuries); English by Gerard Moultrie (1864)",
+   "year": "1864",
+   "publicDomain": true,
+   "lyrics": null,
+   "translation": null,
+   "uses": [
+    "offertory",
+    "advent",
+    "christmas",
+    "eucharistic-adoration"
+   ],
+   "scripture": [
+    "hab 2:20",
+    "rev 5:11-14"
+   ],
+   "about": "Taken from one of the oldest Eastern liturgies, where it was sung as the gifts were brought to the altar. Its hushed, minor-key melody suits the preparation of the gifts and late Advent.",
+   "publisher": null
+  },
+  {
+   "id": "sing-of-mary",
+   "title": "Sing of Mary, Pure and Lowly",
+   "latinTitle": null,
+   "composer": "PLEADING SAVIOR, from the Plymouth Collection (1855)",
+   "textAuthor": "Roland F. Palmer, SSJE (1914)",
+   "year": "1914",
+   "publicDomain": true,
+   "lyrics": null,
+   "translation": null,
+   "uses": [
+    "marian",
+    "christmas"
+   ],
+   "scripture": [
+    "luk 2:51-52",
+    "luk 1:46-48"
+   ],
+   "about": "A gentle hymn on the hidden life of the Holy Family at Nazareth. It suits Marian feasts and the Feast of the Holy Family.",
+   "publisher": null
+  },
+  {
+   "id": "bring-flowers-of-the-rarest",
+   "title": "Bring Flowers of the Rarest",
+   "latinTitle": null,
+   "composer": null,
+   "textAuthor": null,
+   "year": null,
+   "publicDomain": true,
+   "lyrics": null,
+   "translation": null,
+   "uses": [
+    "marian"
+   ],
+   "scripture": [
+    "luk 1:48"
+   ],
+   "about": "The classic hymn of the May crowning, when a statue of Mary is crowned with flowers. Its authorship is uncertain; it appears in Catholic hymnals from the late 19th century on.",
+   "publisher": null
+  },
+  {
+   "id": "hail-holy-queen-enthroned-above",
+   "title": "Hail, Holy Queen Enthroned Above",
+   "latinTitle": "Salve Regina, coelitum",
+   "composer": "SALVE REGINA COELITUM, German melody (Choralmelodien zum Heiligen Gesänge, 1808)",
+   "textAuthor": "Traditional; English version from The Roman Hymnal (1884)",
+   "year": null,
+   "publicDomain": true,
+   "lyrics": null,
+   "translation": null,
+   "uses": [
+    "marian",
+    "recessional"
+   ],
+   "scripture": [
+    "rev 12:1",
+    "luk 1:42"
+   ],
+   "about": "Not a translation of the chant Salve Regina but a separate hymn honoring Mary as Queen, with a festive 'Salve' refrain. It is a frequent closing hymn on Marian feasts.",
+   "publisher": null
+  },
+  {
+   "id": "to-jesus-christ-our-sovereign-king",
+   "title": "To Jesus Christ, Our Sovereign King",
+   "latinTitle": null,
+   "composer": "ICH GLAUB AN GOTT, from the Mainz Gesangbuch (1870)",
+   "textAuthor": "Martin B. Hellriegel (1941)",
+   "year": "1941",
+   "publicDomain": false,
+   "lyrics": null,
+   "translation": null,
+   "uses": [
+    "entrance",
+    "recessional",
+    "ordinary"
+   ],
+   "scripture": [
+    "rev 19:16",
+    "php 2:9-11"
+   ],
+   "about": "Written by a St. Louis pastor and leader of the American liturgical movement for the feast of Christ the King, instituted by Pope Pius XI in 1925. Its refrain is a rousing acclamation of Christ's kingship.",
+   "publisher": null
+  },
+  {
+   "id": "be-thou-my-vision",
+   "title": "Be Thou My Vision",
+   "latinTitle": null,
+   "composer": "SLANE, traditional Irish melody",
+   "textAuthor": "Old Irish poem; translated by Mary E. Byrne (1905) and versified by Eleanor H. Hull (1912)",
+   "year": "1912",
+   "publicDomain": true,
+   "lyrics": null,
+   "translation": null,
+   "uses": [
+    "ordinary",
+    "entrance",
+    "communion"
+   ],
+   "scripture": [
+    "psa 27:1",
+    "php 3:8"
+   ],
+   "about": "An early Irish prayer asking God to be the center of every part of life. The tune is named for the hill where, by tradition, St. Patrick lit an Easter fire in defiance of the High King.",
+   "publisher": null
+  },
+  {
+   "id": "joyful-joyful-we-adore-thee",
+   "title": "Joyful, Joyful, We Adore Thee",
+   "latinTitle": null,
+   "composer": "HYMN TO JOY, Ludwig van Beethoven (Symphony No. 9, 1824), adapted by Edward Hodges (1864)",
+   "textAuthor": "Henry van Dyke (1907)",
+   "year": "1907",
+   "publicDomain": true,
+   "lyrics": null,
+   "translation": null,
+   "uses": [
+    "entrance",
+    "recessional",
+    "easter",
+    "ordinary",
+    "wedding"
+   ],
+   "scripture": [
+    "psa 98:4-8"
+   ],
+   "about": "An American Presbyterian minister wrote these words for Beethoven's famous 'Ode to Joy' melody. It is a bright, popular hymn for weddings and Easter.",
+   "publisher": null
+  },
+  {
+   "id": "amazing-grace",
+   "title": "Amazing Grace",
+   "latinTitle": null,
+   "composer": "NEW BRITAIN, American folk melody (published 1831)",
+   "textAuthor": "John Newton (1779)",
+   "year": "1779",
+   "publicDomain": true,
+   "lyrics": null,
+   "translation": null,
+   "uses": [
+    "funeral",
+    "ordinary"
+   ],
+   "scripture": [
+    "eph 2:8",
+    "1ch 17:16-17"
+   ],
+   "about": "Written by a former slave-ship captain who became an Anglican clergyman, reflecting on his own conversion. Not a liturgical text, but often requested at funerals.",
+   "publisher": null
+  },
+  {
+   "id": "were-you-there",
+   "title": "Were You There",
+   "latinTitle": null,
+   "composer": "African American spiritual (19th century)",
+   "textAuthor": "African American spiritual (19th century)",
+   "year": null,
+   "publicDomain": true,
+   "lyrics": null,
+   "translation": null,
+   "uses": [
+    "holy-week",
+    "lent"
+   ],
+   "scripture": [
+    "jhn 19:16-18",
+    "mat 27:57-60"
+   ],
+   "about": "A spiritual that places the singer at the foot of the Cross and at the tomb. It is widely sung on Good Friday and during Lent.",
+   "publisher": null
+  },
+  {
+   "id": "lift-high-the-cross",
+   "title": "Lift High the Cross",
+   "latinTitle": null,
+   "composer": "CRUCIFER, Sydney H. Nicholson (1916)",
+   "textAuthor": "George W. Kitchin (1887), revised by Michael R. Newbolt (1916)",
+   "year": "1916",
+   "publicDomain": true,
+   "lyrics": null,
+   "translation": null,
+   "uses": [
+    "entrance",
+    "recessional",
+    "lent",
+    "holy-week"
+   ],
+   "scripture": [
+    "jhn 12:32",
+    "gal 6:14"
+   ],
+   "about": "A processional hymn built for a cross carried at the head of the procession. Especially apt on the Exaltation of the Holy Cross (September 14).",
+   "publisher": null
+  },
+  {
+   "id": "o-god-our-help-in-ages-past",
+   "title": "O God, Our Help in Ages Past",
+   "latinTitle": null,
+   "composer": "ST. ANNE, attributed to William Croft (1708)",
+   "textAuthor": "Isaac Watts (1719), a paraphrase of Psalm 90",
+   "year": "1719",
+   "publicDomain": true,
+   "lyrics": null,
+   "translation": null,
+   "uses": [
+    "funeral",
+    "ordinary",
+    "entrance"
+   ],
+   "scripture": [
+    "psa 90:1-4"
+   ],
+   "about": "Watts's paraphrase of Psalm 90 contrasts human frailty with God's eternity. It is often sung at funerals and on national days of remembrance.",
+   "publisher": null
+  },
+  {
+   "id": "at-the-name-of-jesus",
+   "title": "At the Name of Jesus",
+   "latinTitle": null,
+   "composer": "KING'S WESTON, Ralph Vaughan Williams (1925)",
+   "textAuthor": "Caroline M. Noel (1870)",
+   "year": "1870",
+   "publicDomain": true,
+   "lyrics": null,
+   "translation": null,
+   "uses": [
+    "entrance",
+    "ordinary",
+    "holy-week"
+   ],
+   "scripture": [
+    "php 2:5-11"
+   ],
+   "about": "A hymn on the great Christ-hymn of Philippians 2, in which every knee bends at the name of Jesus. Suited to Palm Sunday and the feast of the Holy Name.",
+   "publisher": null
+  },
+  {
+   "id": "where-charity-and-love-prevail",
+   "title": "Where Charity and Love Prevail",
+   "latinTitle": "Ubi caritas",
+   "composer": "CHRISTIAN LOVE, Paul Benoit, OSB (1960)",
+   "textAuthor": "Omer Westendorf (1960), paraphrasing the Latin Ubi caritas",
+   "year": "1960",
+   "publicDomain": false,
+   "lyrics": null,
+   "translation": null,
+   "uses": [
+    "holy-week",
+    "offertory",
+    "wedding",
+    "ordinary"
+   ],
+   "scripture": [
+    "jhn 13:34-35",
+    "1jn 4:16"
+   ],
+   "about": "A metrical English paraphrase of the chant sung at the washing of feet on Holy Thursday. Also a good fit for weddings and the preparation of the gifts.",
+   "publisher": "WLP"
+  },
+  {
+   "id": "hail-redeemer-king-divine",
+   "title": "Hail, Redeemer, King Divine",
+   "latinTitle": null,
+   "composer": "KING DIVINE, Charles Rigby",
+   "textAuthor": "Patrick Brennan, CSsR",
+   "year": null,
+   "publicDomain": false,
+   "lyrics": null,
+   "translation": null,
+   "uses": [
+    "entrance",
+    "recessional",
+    "ordinary"
+   ],
+   "scripture": [
+    "rev 17:14",
+    "col 1:13-14"
+   ],
+   "about": "A 20th-century hymn of homage to Christ the King with a march-like refrain. A frequent choice for the last Sunday of the liturgical year.",
+   "publisher": null
+  },
+  {
+   "id": "o-lord-i-am-not-worthy",
+   "title": "O Lord, I Am Not Worthy",
+   "latinTitle": "Domine, non sum dignus",
+   "composer": "NON DIGNUS, traditional melody",
+   "textAuthor": "Anonymous",
+   "year": null,
+   "publicDomain": true,
+   "lyrics": null,
+   "translation": null,
+   "uses": [
+    "communion",
+    "eucharistic-adoration"
+   ],
+   "scripture": [
+    "mat 8:8"
+   ],
+   "about": "A simple traditional communion hymn built on the centurion's words of humility, which the faithful echo just before Communion. Long a fixture of First Communion Masses.",
+   "publisher": null
+  },
+  {
+   "id": "soul-of-my-savior",
+   "title": "Soul of My Savior",
+   "latinTitle": "Anima Christi",
+   "composer": "ANIMA CHRISTI, William J. Maher, SJ (19th century)",
+   "textAuthor": "Latin prayer Anima Christi (14th century); English paraphrase anonymous",
+   "year": null,
+   "publicDomain": true,
+   "lyrics": null,
+   "translation": null,
+   "uses": [
+    "communion",
+    "eucharistic-adoration"
+   ],
+   "scripture": [
+    "jhn 19:34",
+    "jhn 6:56"
+   ],
+   "about": "A sung form of the Anima Christi, a medieval prayer after Communion that St. Ignatius of Loyola placed at the start of his Spiritual Exercises.",
+   "publisher": null
+  },
+  {
+   "id": "jesus-my-lord-my-god-my-all",
+   "title": "Jesus, My Lord, My God, My All",
+   "latinTitle": null,
+   "composer": "SWEET SACRAMENT, traditional German melody (19th century)",
+   "textAuthor": "Frederick William Faber (1849)",
+   "year": "1849",
+   "publicDomain": true,
+   "lyrics": null,
+   "translation": null,
+   "uses": [
+    "communion",
+    "eucharistic-adoration"
+   ],
+   "scripture": [
+    "jhn 20:28"
+   ],
+   "about": "Faber's tender hymn to Christ in the Blessed Sacrament takes its first line from the confession of St. Thomas. A traditional choice for Benediction and Corpus Christi.",
+   "publisher": null
+  },
+  {
+   "id": "good-christian-friends-rejoice",
+   "title": "Good Christian Friends, Rejoice",
+   "latinTitle": "In dulci jubilo",
+   "composer": "IN DULCI JUBILO, German melody (14th century)",
+   "textAuthor": "German-Latin carol (14th century); English by John Mason Neale (1853), altered",
+   "year": "1853",
+   "publicDomain": true,
+   "lyrics": null,
+   "translation": null,
+   "uses": [
+    "christmas",
+    "recessional"
+   ],
+   "scripture": [
+    "luk 2:10-11"
+   ],
+   "about": "Neale's version of the medieval carol 'In dulci jubilo,' which mixed Latin and German lines. Older hymnals title it 'Good Christian Men, Rejoice.'",
+   "publisher": null
+  },
+  {
+   "id": "the-first-noel",
+   "title": "The First Noel",
+   "latinTitle": null,
+   "composer": "THE FIRST NOWELL, traditional English melody",
+   "textAuthor": "Traditional English carol (first printed 1823)",
+   "year": "1823",
+   "publicDomain": true,
+   "lyrics": null,
+   "translation": null,
+   "uses": [
+    "christmas"
+   ],
+   "scripture": [
+    "luk 2:8-14",
+    "mat 2:1-11"
+   ],
+   "about": "A folk carol from the west of England that tells the story of the shepherds and the Magi. It fits Epiphany as well as Christmas Day.",
+   "publisher": null
+  },
+  {
+   "id": "o-little-town-of-bethlehem",
+   "title": "O Little Town of Bethlehem",
+   "latinTitle": null,
+   "composer": "ST. LOUIS, Lewis H. Redner (1868)",
+   "textAuthor": "Phillips Brooks (1868)",
+   "year": "1868",
+   "publicDomain": true,
+   "lyrics": null,
+   "translation": null,
+   "uses": [
+    "christmas",
+    "advent"
+   ],
+   "scripture": [
+    "mic 5:2",
+    "luk 2:4-7"
+   ],
+   "about": "Written by a Philadelphia rector after visiting Bethlehem, with music by his church organist. In Britain it is usually sung to Vaughan Williams's FOREST GREEN.",
+   "publisher": null
+  },
+  {
+   "id": "ye-sons-and-daughters",
+   "title": "Ye Sons and Daughters",
+   "latinTitle": "O filii et filiae",
+   "composer": "O FILII ET FILIAE, French melody (15th century)",
+   "textAuthor": "Jean Tisserand, OFM (d. 1494); English by John Mason Neale (1851)",
+   "year": "1851",
+   "publicDomain": true,
+   "lyrics": null,
+   "translation": null,
+   "uses": [
+    "easter"
+   ],
+   "scripture": [
+    "jhn 20:19-29"
+   ],
+   "about": "A narrative Easter hymn that retells the Resurrection appearances, including doubting Thomas. Traditionally associated with the Second Sunday of Easter.",
+   "publisher": null
+  },
+  {
+   "id": "alleluia-sing-to-jesus",
+   "title": "Alleluia! Sing to Jesus",
+   "latinTitle": null,
+   "composer": "HYFRYDOL, Rowland H. Prichard (c. 1830)",
+   "textAuthor": "William Chatterton Dix (1866)",
+   "year": "1866",
+   "publicDomain": true,
+   "lyrics": null,
+   "translation": null,
+   "uses": [
+    "easter",
+    "communion",
+    "eucharistic-adoration"
+   ],
+   "scripture": [
+    "rev 5:9",
+    "heb 7:25"
+   ],
+   "about": "Written for the feast of the Ascension, it joins Christ's heavenly kingship to his presence in the Eucharist. The Welsh tune HYFRYDOL makes it a strong congregational hymn.",
+   "publisher": null
+  },
+  {
+   "id": "humbly-we-adore-thee",
+   "title": "Humbly We Adore Thee",
+   "latinTitle": "Adoro Te Devote",
+   "composer": "ADORO TE DEVOTE, Gregorian chant (Mode V)",
+   "textAuthor": null,
+   "year": null,
+   "publicDomain": false,
+   "lyrics": null,
+   "translation": null,
+   "uses": [
+    "communion",
+    "eucharistic-adoration"
+   ],
+   "scripture": [
+    "jhn 6:51",
+    "1co 13:12"
+   ],
+   "about": "An English singing version of St. Thomas Aquinas's Adoro Te Devote, sung to its chant melody; the translator varies by hymnal. See the Latin original in this collection.",
+   "publisher": null
+  },
+  {
+   "id": "holy-spirit-lord-of-light",
+   "title": "Holy Spirit, Lord of Light",
+   "latinTitle": "Veni Sancte Spiritus",
+   "composer": "VENI SANCTE SPIRITUS, Samuel Webbe (1782)",
+   "textAuthor": "Latin Pentecost Sequence (attributed to Stephen Langton, c. 1200); English by Edward Caswall (1849)",
+   "year": "1849",
+   "publicDomain": true,
+   "lyrics": null,
+   "translation": null,
+   "uses": [
+    "pentecost"
+   ],
+   "scripture": [
+    "act 2:1-4",
+    "jhn 14:26"
+   ],
+   "about": "Caswall's English version of the Golden Sequence sung before the Gospel on Pentecost Sunday. Webbe was organist at the Sardinian Embassy chapel in London, a hub of Catholic music in penal times.",
+   "publisher": null
+  },
+  {
+   "id": "lo-how-a-rose",
+   "title": "Lo, How a Rose E'er Blooming",
+   "latinTitle": null,
+   "composer": "ES IST EIN ROS, German melody (Cologne, 1599); harmonized by Michael Praetorius (1609)",
+   "textAuthor": "German carol (15th–16th century); English by Theodore Baker (1894)",
+   "year": "1894",
+   "publicDomain": true,
+   "lyrics": null,
+   "translation": null,
+   "uses": [
+    "advent",
+    "christmas"
+   ],
+   "scripture": [
+    "isa 11:1",
+    "luk 1:26-27"
+   ],
+   "about": "A German carol on Isaiah's prophecy of a shoot springing from the stump of Jesse. The Praetorius harmonization is a favorite of choirs in late Advent.",
+   "publisher": null
+  },
+  {
+   "id": "at-the-cross-her-station-keeping",
+   "title": "At the Cross Her Station Keeping",
+   "latinTitle": "Stabat Mater",
+   "composer": "STABAT MATER, from the Mainz Gesangbuch (1661)",
+   "textAuthor": "Latin sequence attributed to Jacopone da Todi (13th century); English by Edward Caswall (1849)",
+   "year": "1849",
+   "publicDomain": true,
+   "lyrics": null,
+   "translation": null,
+   "uses": [
+    "lent",
+    "holy-week",
+    "marian"
+   ],
+   "scripture": [
+    "jhn 19:25-27",
+    "luk 2:35"
+   ],
+   "about": "An English version of the Stabat Mater, traditionally sung verse by verse between the Stations of the Cross. Also used on Our Lady of Sorrows (September 15).",
+   "publisher": null
+  },
+  {
+   "id": "all-glory-laud-and-honor",
+   "title": "All Glory, Laud, and Honor",
+   "latinTitle": "Gloria, laus et honor",
+   "composer": "ST. THEODULPH, Melchior Teschner (1615)",
+   "textAuthor": "Theodulf of Orléans (c. 820); English by John Mason Neale (1851)",
+   "year": "1851",
+   "publicDomain": true,
+   "lyrics": null,
+   "translation": null,
+   "uses": [
+    "holy-week",
+    "entrance"
+   ],
+   "scripture": [
+    "mat 21:8-9",
+    "psa 24:7-10"
+   ],
+   "about": "A Palm Sunday processional hymn, said by legend to have been written by a bishop while imprisoned. The Roman Missal names the Latin original among the chants for the Palm Sunday procession.",
+   "publisher": null
+  },
+  {
+   "id": "creator-of-the-stars-of-night",
+   "title": "Creator of the Stars of Night",
+   "latinTitle": "Conditor alme siderum",
+   "composer": "CONDITOR ALME SIDERUM, Gregorian chant (Mode IV)",
+   "textAuthor": "Latin Office hymn (7th–9th century); English by John Mason Neale (1852), altered",
+   "year": "1852",
+   "publicDomain": true,
+   "lyrics": null,
+   "translation": null,
+   "uses": [
+    "advent"
+   ],
+   "scripture": [
+    "php 2:10-11",
+    "gal 4:4"
+   ],
+   "about": "The ancient Vespers hymn of Advent, sung to its plainchant melody. Its quiet, flowing line suits the season's spirit of expectation.",
+   "publisher": null
+  },
+  {
+   "id": "o-come-divine-messiah",
+   "title": "O Come, Divine Messiah",
+   "latinTitle": null,
+   "composer": "VENEZ DIVIN MESSIE, French carol melody (16th century)",
+   "textAuthor": "Simon-Joseph Pellegrin (French, 1708); English by Sister Mary of St. Philip (1877)",
+   "year": "1877",
+   "publicDomain": true,
+   "lyrics": null,
+   "translation": null,
+   "uses": [
+    "advent",
+    "entrance"
+   ],
+   "scripture": [
+    "isa 40:3-5",
+    "isa 64:1"
+   ],
+   "about": "A French Advent carol of longing for the Savior's coming, translated by an English Sister of Notre Dame. A brighter alternative to the minor-key Advent hymns.",
+   "publisher": null
+  },
+  {
+   "id": "ye-watchers-and-ye-holy-ones",
+   "title": "Ye Watchers and Ye Holy Ones",
+   "latinTitle": null,
+   "composer": "LASST UNS ERFREUEN, from Geistliche Kirchengesäng (Cologne, 1623)",
+   "textAuthor": "Athelstan Riley (1906)",
+   "year": "1906",
+   "publicDomain": true,
+   "lyrics": null,
+   "translation": null,
+   "uses": [
+    "saints",
+    "entrance",
+    "recessional"
+   ],
+   "scripture": [
+    "rev 5:11-13",
+    "luk 1:46-47"
+   ],
+   "about": "Calls on the angels, Mary, and all the saints to join in praise; one verse is addressed to the Mother of God. A festive choice for All Saints' Day.",
+   "publisher": null
+  },
+  {
+   "id": "for-all-the-saints",
+   "title": "For All the Saints",
+   "latinTitle": null,
+   "composer": "SINE NOMINE, Ralph Vaughan Williams (1906)",
+   "textAuthor": "William Walsham How (1864)",
+   "year": "1864",
+   "publicDomain": true,
+   "lyrics": null,
+   "translation": null,
+   "uses": [
+    "saints",
+    "funeral",
+    "entrance"
+   ],
+   "scripture": [
+    "heb 12:1",
+    "rev 7:9-12"
+   ],
+   "about": "A processional hymn giving thanks for the saints who have finished their course. It is a staple of All Saints' Day and is also sung at funerals.",
+   "publisher": null
+  },
+  {
+   "id": "come-down-o-love-divine",
+   "title": "Come Down, O Love Divine",
+   "latinTitle": null,
+   "composer": "DOWN AMPNEY, Ralph Vaughan Williams (1906)",
+   "textAuthor": "Bianco da Siena (Italian, d. 1434); English by Richard F. Littledale (1867)",
+   "year": "1867",
+   "publicDomain": true,
+   "lyrics": null,
+   "translation": null,
+   "uses": [
+    "pentecost",
+    "ordinary"
+   ],
+   "scripture": [
+    "rom 5:5",
+    "luk 12:49"
+   ],
+   "about": "A medieval Italian prayer for the fire of the Holy Spirit, set to a tune Vaughan Williams named after his birthplace. Suits Pentecost and Confirmation.",
+   "publisher": null
+  },
+  {
+   "id": "we-three-kings",
+   "title": "We Three Kings",
+   "latinTitle": null,
+   "composer": "John Henry Hopkins Jr. (1857)",
+   "textAuthor": "John Henry Hopkins Jr. (1857)",
+   "year": "1857",
+   "publicDomain": true,
+   "lyrics": null,
+   "translation": null,
+   "uses": [
+    "christmas"
+   ],
+   "scripture": [
+    "mat 2:1-11"
+   ],
+   "about": "Written for a Christmas pageant in New York, with verses for each gift the Magi bring. Its natural home is the Solemnity of the Epiphany.",
+   "publisher": null
+  },
+  {
+   "id": "it-came-upon-the-midnight-clear",
+   "title": "It Came upon the Midnight Clear",
+   "latinTitle": null,
+   "composer": "CAROL, Richard Storrs Willis (1850)",
+   "textAuthor": "Edmund H. Sears (1849)",
+   "year": "1849",
+   "publicDomain": true,
+   "lyrics": null,
+   "translation": null,
+   "uses": [
+    "christmas"
+   ],
+   "scripture": [
+    "luk 2:13-14"
+   ],
+   "about": "An American carol from Massachusetts that dwells on the angels' message of peace to a troubled world.",
+   "publisher": null
+  },
+  {
+   "id": "forty-days-and-forty-nights",
+   "title": "Forty Days and Forty Nights",
+   "latinTitle": null,
+   "composer": "AUS DER TIEFE (HEINLEIN), from the Nürnbergisches Gesangbuch (1676)",
+   "textAuthor": "George Hunt Smyttan (1856), altered by Francis Pott",
+   "year": "1856",
+   "publicDomain": true,
+   "lyrics": null,
+   "translation": null,
+   "uses": [
+    "lent",
+    "entrance"
+   ],
+   "scripture": [
+    "mat 4:1-11",
+    "luk 4:1-13"
+   ],
+   "about": "A Lenten hymn on Christ's forty days of fasting in the desert, the Gospel of the First Sunday of Lent.",
+   "publisher": null
+  },
+  {
+   "id": "sweet-sacrament-divine",
+   "title": "Sweet Sacrament Divine",
+   "latinTitle": null,
+   "composer": "DIVINE MYSTERIES, Francis Stanfield (19th century)",
+   "textAuthor": "Francis Stanfield (19th century)",
+   "year": null,
+   "publicDomain": true,
+   "lyrics": null,
+   "translation": null,
+   "uses": [
+    "eucharistic-adoration",
+    "communion"
+   ],
+   "scripture": [
+    "jhn 6:51",
+    "jhn 6:35"
+   ],
+   "about": "A Victorian English Catholic hymn of devotion to the Blessed Sacrament, by a priest who wrote both words and music. Long used at Benediction and Forty Hours.",
+   "publisher": null
+  },
+  {
+   "id": "the-king-of-love-my-shepherd-is",
+   "title": "The King of Love My Shepherd Is",
+   "latinTitle": null,
+   "composer": "ST. COLUMBA, traditional Irish melody",
+   "textAuthor": "Henry W. Baker (1868), a paraphrase of Psalm 23",
+   "year": "1868",
+   "publicDomain": true,
+   "lyrics": null,
+   "translation": null,
+   "uses": [
+    "communion",
+    "funeral",
+    "ordinary"
+   ],
+   "scripture": [
+    "psa 23:1-6",
+    "luk 15:4-6"
+   ],
+   "about": "A paraphrase of Psalm 23 that reads the Good Shepherd psalm through the Gospel, including the lost sheep carried home. Fitting at Communion and funerals.",
+   "publisher": null
+  },
+  {
+   "id": "ave-maria-schubert",
+   "title": "Ave Maria (Schubert)",
+   "latinTitle": "Ave Maria",
+   "composer": "Franz Schubert (1825)",
+   "textAuthor": "Originally a German song from Walter Scott's 'The Lady of the Lake'; today usually sung to the Latin Ave Maria",
+   "year": "1825",
+   "publicDomain": true,
+   "lyrics": null,
+   "translation": null,
+   "uses": [
+    "marian",
+    "wedding",
+    "funeral"
+   ],
+   "scripture": [
+    "luk 1:28",
+    "luk 1:42"
+   ],
+   "about": "Schubert's song was written as a maiden's prayer to Mary in a setting of Walter Scott's poem; the familiar Latin words were fitted to it later. A perennial request at weddings and funerals. The Latin prayer itself is under 'Hail Mary (chant)'.",
+   "publisher": null
+  },
+  {
+   "id": "ave-maria-bach-gounod",
+   "title": "Ave Maria (Bach/Gounod)",
+   "latinTitle": "Ave Maria",
+   "composer": "Charles Gounod (1859), melody laid over J. S. Bach's Prelude in C major (1722)",
+   "textAuthor": "Latin Ave Maria",
+   "year": "1859",
+   "publicDomain": true,
+   "lyrics": null,
+   "translation": null,
+   "uses": [
+    "marian",
+    "wedding",
+    "funeral"
+   ],
+   "scripture": [
+    "luk 1:28",
+    "luk 1:42"
+   ],
+   "about": "Gounod improvised a soaring melody over the first prelude of Bach's Well-Tempered Clavier, and the Latin Ave Maria was later set to it. Like Schubert's, it is a favorite solo at weddings and funerals.",
+   "publisher": null
+  },
+  {
+   "id": "here-i-am-lord",
+   "title": "Here I Am, Lord",
+   "latinTitle": null,
+   "composer": "Dan Schutte, SJ",
+   "textAuthor": "Dan Schutte, SJ",
+   "year": "1981",
+   "publicDomain": false,
+   "lyrics": null,
+   "translation": null,
+   "uses": [
+    "offertory",
+    "recessional",
+    "ordinary"
+   ],
+   "scripture": [
+    "isa 6:8",
+    "1sa 3:4-10"
+   ],
+   "about": "Written for a diaconate ordination, it pairs God's call with the prophet's answer from Isaiah 6. Perhaps the best-known song of the American post-Vatican II repertoire.",
+   "publisher": "OCP"
+  },
+  {
+   "id": "on-eagles-wings",
+   "title": "On Eagle's Wings",
+   "latinTitle": null,
+   "composer": "Michael Joncas",
+   "textAuthor": "Michael Joncas",
+   "year": "1979",
+   "publicDomain": false,
+   "lyrics": null,
+   "translation": null,
+   "uses": [
+    "funeral",
+    "lent",
+    "communion"
+   ],
+   "scripture": [
+    "psa 91:1-4",
+    "psa 91:11-12",
+    "exo 19:4",
+    "isa 40:31"
+   ],
+   "about": "A paraphrase of Psalm 91 composed by a young Minnesota priest. It is among the most frequently requested songs at Catholic funerals in the United States.",
+   "publisher": "OCP"
+  },
+  {
+   "id": "be-not-afraid",
+   "title": "Be Not Afraid",
+   "latinTitle": null,
+   "composer": "Bob Dufford, SJ",
+   "textAuthor": "Bob Dufford, SJ",
+   "year": "1975",
+   "publicDomain": false,
+   "lyrics": null,
+   "translation": null,
+   "uses": [
+    "funeral",
+    "ordinary",
+    "communion"
+   ],
+   "scripture": [
+    "isa 43:2-3",
+    "luk 6:20-22"
+   ],
+   "about": "One of the St. Louis Jesuits' best-known songs, weaving Isaiah 43 together with the Beatitudes in Luke. A frequent choice for funerals.",
+   "publisher": "OCP"
+  },
+  {
+   "id": "one-bread-one-body",
+   "title": "One Bread, One Body",
+   "latinTitle": null,
+   "composer": "John B. Foley, SJ",
+   "textAuthor": "John B. Foley, SJ",
+   "year": "1978",
+   "publicDomain": false,
+   "lyrics": null,
+   "translation": null,
+   "uses": [
+    "communion"
+   ],
+   "scripture": [
+    "1co 10:16-17",
+    "gal 3:28",
+    "1co 12:13"
+   ],
+   "about": "A Communion song on St. Paul's teaching that sharing the one loaf makes many into one body. Its simple refrain is easy to sing while processing.",
+   "publisher": "OCP"
+  },
+  {
+   "id": "you-are-mine",
+   "title": "You Are Mine",
+   "latinTitle": null,
+   "composer": "David Haas",
+   "textAuthor": "David Haas",
+   "year": "1991",
+   "publicDomain": false,
+   "lyrics": null,
+   "translation": null,
+   "uses": [
+    "communion",
+    "funeral",
+    "lent"
+   ],
+   "scripture": [
+    "isa 43:1-4",
+    "mat 11:28"
+   ],
+   "about": "A song in the voice of God, built on Isaiah 43's promise of a God who calls each person by name. In 2020 several U.S. dioceses and publishers stopped using or promoting David Haas's music after allegations of misconduct, so check local policy.",
+   "publisher": "GIA"
+  },
+  {
+   "id": "city-of-god",
+   "title": "City of God",
+   "latinTitle": null,
+   "composer": "Dan Schutte, SJ",
+   "textAuthor": "Dan Schutte, SJ",
+   "year": "1981",
+   "publicDomain": false,
+   "lyrics": null,
+   "translation": null,
+   "uses": [
+    "entrance",
+    "recessional",
+    "ordinary"
+   ],
+   "scripture": [
+    "isa 60:1",
+    "jhn 1:5",
+    "mat 5:14"
+   ],
+   "about": "An upbeat song of mission: the people of God as a light in the darkness. A common sending-forth song.",
+   "publisher": "OCP"
+  },
+  {
+   "id": "gather-us-in",
+   "title": "Gather Us In",
+   "latinTitle": null,
+   "composer": "Marty Haugen",
+   "textAuthor": "Marty Haugen",
+   "year": "1982",
+   "publicDomain": false,
+   "lyrics": null,
+   "translation": null,
+   "uses": [
+    "entrance",
+    "ordinary"
+   ],
+   "scripture": [
+    "isa 25:6",
+    "eph 2:19"
+   ],
+   "about": "A gathering song about the whole assembly, young and old, rich and poor, called together for worship. Widely used as an opening song.",
+   "publisher": "GIA"
+  },
+  {
+   "id": "taste-and-see",
+   "title": "Taste and See",
+   "latinTitle": null,
+   "composer": "James E. Moore Jr.",
+   "textAuthor": "Psalm 34, adapted by James E. Moore Jr.",
+   "year": "1983",
+   "publicDomain": false,
+   "lyrics": null,
+   "translation": null,
+   "uses": [
+    "communion",
+    "psalm"
+   ],
+   "scripture": [
+    "psa 34:1-8"
+   ],
+   "about": "A gospel-flavored setting of Psalm 34, the psalm the early Church sang during Communion. Its call-and-response refrain invites the whole assembly in.",
+   "publisher": "GIA"
+  },
+  {
+   "id": "shepherd-me-o-god",
+   "title": "Shepherd Me, O God",
+   "latinTitle": null,
+   "composer": "Marty Haugen",
+   "textAuthor": "Marty Haugen, based on Psalm 23",
+   "year": "1986",
+   "publicDomain": false,
+   "lyrics": null,
+   "translation": null,
+   "uses": [
+    "communion",
+    "funeral",
+    "psalm"
+   ],
+   "scripture": [
+    "psa 23:1-6"
+   ],
+   "about": "A gentle setting of Psalm 23, the Good Shepherd psalm. It is very common at funerals and at Communion.",
+   "publisher": "GIA"
+  },
+  {
+   "id": "i-am-the-bread-of-life",
+   "title": "I Am the Bread of Life",
+   "latinTitle": null,
+   "composer": "Suzanne Toolan, RSM",
+   "textAuthor": "Suzanne Toolan, RSM",
+   "year": "1966",
+   "publicDomain": false,
+   "lyrics": null,
+   "translation": null,
+   "uses": [
+    "communion",
+    "funeral",
+    "eucharistic-adoration"
+   ],
+   "scripture": [
+    "jhn 6:35",
+    "jhn 6:51-54",
+    "jhn 11:25-27"
+   ],
+   "about": "Written by a Sister of Mercy in California, its verses come from Jesus' Bread of Life discourse in John 6 and its refrain from his promise of resurrection. A Communion standard for decades.",
+   "publisher": "GIA"
+  },
+  {
+   "id": "hosea",
+   "title": "Hosea",
+   "latinTitle": null,
+   "composer": "Gregory Norbet, OSB (Weston Priory)",
+   "textAuthor": "Gregory Norbet, OSB",
+   "year": "1972",
+   "publicDomain": false,
+   "lyrics": null,
+   "translation": null,
+   "uses": [
+    "lent"
+   ],
+   "scripture": [
+    "hos 6:1",
+    "hos 2:14",
+    "jol 2:12"
+   ],
+   "about": "A song of God calling his people to return, drawn from the prophet Hosea, from the Benedictine monks of Weston Priory in Vermont. A Lenten favorite.",
+   "publisher": null
+  },
+  {
+   "id": "ashes",
+   "title": "Ashes",
+   "latinTitle": null,
+   "composer": "Tom Conry",
+   "textAuthor": "Tom Conry",
+   "year": "1978",
+   "publicDomain": false,
+   "lyrics": null,
+   "translation": null,
+   "uses": [
+    "lent"
+   ],
+   "scripture": [
+    "gen 3:19",
+    "psa 51:10"
+   ],
+   "about": "A song closely tied to Ash Wednesday, sung during the distribution of ashes.",
+   "publisher": "OCP"
+  },
+  {
+   "id": "lord-of-the-dance",
+   "title": "Lord of the Dance",
+   "latinTitle": null,
+   "composer": "Sydney Carter, adapted from the Shaker tune SIMPLE GIFTS (Joseph Brackett, 1848)",
+   "textAuthor": "Sydney Carter",
+   "year": "1963",
+   "publicDomain": false,
+   "lyrics": null,
+   "translation": null,
+   "uses": [
+    "easter",
+    "recessional"
+   ],
+   "scripture": [
+    "jhn 1:14",
+    "1co 15:20"
+   ],
+   "about": "A ballad that retells the life, death, and Resurrection of Christ as a dance, set to the American Shaker tune 'Simple Gifts.' More common at school and youth Masses than at the parish Sunday Mass.",
+   "publisher": "Stainer & Bell"
+  },
+  {
+   "id": "eye-has-not-seen",
+   "title": "Eye Has Not Seen",
+   "latinTitle": null,
+   "composer": "Marty Haugen",
+   "textAuthor": "Marty Haugen",
+   "year": "1982",
+   "publicDomain": false,
+   "lyrics": null,
+   "translation": null,
+   "uses": [
+    "funeral",
+    "communion",
+    "ordinary"
+   ],
+   "scripture": [
+    "1co 2:9-10"
+   ],
+   "about": "Built on St. Paul's words that no eye has seen what God has prepared for those who love him. A frequent choice at funerals.",
+   "publisher": "GIA"
+  },
+  {
+   "id": "prayer-of-st-francis",
+   "title": "Prayer of St. Francis (Make Me a Channel of Your Peace)",
+   "latinTitle": null,
+   "composer": "Sebastian Temple",
+   "textAuthor": "Sebastian Temple, after the Peace Prayer traditionally attributed to St. Francis",
+   "year": "1967",
+   "publicDomain": false,
+   "lyrics": null,
+   "translation": null,
+   "uses": [
+    "communion",
+    "funeral",
+    "wedding",
+    "saints"
+   ],
+   "scripture": [
+    "mat 5:9",
+    "jhn 12:24"
+   ],
+   "about": "A singable version of the 'Peace Prayer,' which first appeared in a French magazine in 1912 and came to be associated with St. Francis. Popular at funerals and on the feast of St. Francis.",
+   "publisher": "OCP"
+  },
+  {
+   "id": "pescador-de-hombres",
+   "title": "Pescador de Hombres (Lord, You Have Come)",
+   "latinTitle": null,
+   "composer": "Cesáreo Gabaráin",
+   "textAuthor": "Cesáreo Gabaráin; English translations vary",
+   "year": "1979",
+   "publicDomain": false,
+   "lyrics": null,
+   "translation": null,
+   "uses": [
+    "offertory",
+    "communion",
+    "ordinary"
+   ],
+   "scripture": [
+    "luk 5:1-11",
+    "mat 4:18-22"
+   ],
+   "about": "A Spanish song by a Basque priest on Jesus calling fishermen by the lakeshore. It is sung in Spanish, English, and bilingual forms across the United States; it is often said to have been a favorite of St. John Paul II.",
+   "publisher": "OCP"
+  },
+  {
+   "id": "sing-a-new-song",
+   "title": "Sing a New Song",
+   "latinTitle": null,
+   "composer": "Dan Schutte, SJ",
+   "textAuthor": "Dan Schutte, SJ",
+   "year": "1972",
+   "publicDomain": false,
+   "lyrics": null,
+   "translation": null,
+   "uses": [
+    "entrance",
+    "recessional",
+    "easter"
+   ],
+   "scripture": [
+    "psa 98:1",
+    "psa 96:1",
+    "isa 42:10"
+   ],
+   "about": "A joyful song drawing on the Psalms' call to sing a new song to the Lord. A lively opening or closing song.",
+   "publisher": "OCP"
+  },
+  {
+   "id": "christ-be-our-light",
+   "title": "Christ, Be Our Light",
+   "latinTitle": null,
+   "composer": "Bernadette Farrell",
+   "textAuthor": "Bernadette Farrell",
+   "year": "1993",
+   "publicDomain": false,
+   "lyrics": null,
+   "translation": null,
+   "uses": [
+    "advent",
+    "entrance",
+    "ordinary"
+   ],
+   "scripture": [
+    "jhn 8:12",
+    "jhn 1:5",
+    "isa 9:2"
+   ],
+   "about": "A song asking Christ to be light, hope, and bread in a world of darkness and need, by an English composer. Common in Advent and at gatherings with a social-justice theme.",
+   "publisher": "OCP"
+  },
+  {
+   "id": "blest-are-they",
+   "title": "Blest Are They",
+   "latinTitle": null,
+   "composer": "David Haas",
+   "textAuthor": "David Haas",
+   "year": "1985",
+   "publicDomain": false,
+   "lyrics": null,
+   "translation": null,
+   "uses": [
+    "saints",
+    "funeral",
+    "ordinary"
+   ],
+   "scripture": [
+    "mat 5:3-12"
+   ],
+   "about": "A setting of the Beatitudes from the Sermon on the Mount, often sung on All Saints' Day. In 2020 several U.S. dioceses and publishers stopped using or promoting David Haas's music after allegations of misconduct, so check local policy.",
+   "publisher": "GIA"
+  },
+  {
+   "id": "we-remember",
+   "title": "We Remember",
+   "latinTitle": null,
+   "composer": "Marty Haugen",
+   "textAuthor": "Marty Haugen",
+   "year": "1980",
+   "publicDomain": false,
+   "lyrics": null,
+   "translation": null,
+   "uses": [
+    "communion",
+    "funeral",
+    "ordinary"
+   ],
+   "scripture": [
+    "isa 43:1-2",
+    "mat 28:20"
+   ],
+   "about": "A song of trust in God's faithfulness, remembered and renewed. Often sung at Communion.",
+   "publisher": "GIA"
+  },
+  {
+   "id": "canticle-of-the-sun",
+   "title": "Canticle of the Sun",
+   "latinTitle": null,
+   "composer": "Marty Haugen",
+   "textAuthor": "Marty Haugen",
+   "year": "1980",
+   "publicDomain": false,
+   "lyrics": null,
+   "translation": null,
+   "uses": [
+    "entrance",
+    "recessional",
+    "saints",
+    "ordinary"
+   ],
+   "scripture": [
+    "psa 148:1-10",
+    "psa 19:1"
+   ],
+   "about": "A modern song inspired by St. Francis's Canticle of the Creatures and the Psalms, inviting all creation to praise.",
+   "publisher": "GIA"
+  },
+  {
+   "id": "the-summons",
+   "title": "The Summons",
+   "latinTitle": null,
+   "composer": "KELVINGROVE, traditional Scottish melody",
+   "textAuthor": "John L. Bell (Iona Community)",
+   "year": "1987",
+   "publicDomain": false,
+   "lyrics": null,
+   "translation": null,
+   "uses": [
+    "recessional",
+    "ordinary"
+   ],
+   "scripture": [
+    "mat 4:19",
+    "mrk 8:34"
+   ],
+   "about": "A song of discipleship from the Iona Community in Scotland, cast as a series of questions from Christ to the one he calls. A strong sending-forth song.",
+   "publisher": "GIA"
+  },
+  {
+   "id": "let-there-be-peace-on-earth",
+   "title": "Let There Be Peace on Earth",
+   "latinTitle": null,
+   "composer": "Sy Miller and Jill Jackson",
+   "textAuthor": "Jill Jackson and Sy Miller",
+   "year": "1955",
+   "publicDomain": false,
+   "lyrics": null,
+   "translation": null,
+   "uses": [
+    "recessional"
+   ],
+   "scripture": [
+    "mat 5:9",
+    "rom 12:18"
+   ],
+   "about": "Written by a husband-and-wife team in California and first taught at a youth retreat. It is a popular closing song, especially at school Masses and civic occasions.",
+   "publisher": "Jan-Lee Music"
+  },
+  {
+   "id": "how-great-thou-art",
+   "title": "How Great Thou Art",
+   "latinTitle": null,
+   "composer": "Swedish folk melody",
+   "textAuthor": "Carl Boberg (Swedish, 1885); English by Stuart K. Hine (1949)",
+   "year": "1949",
+   "publicDomain": false,
+   "lyrics": null,
+   "translation": null,
+   "uses": [
+    "funeral",
+    "recessional",
+    "ordinary"
+   ],
+   "scripture": [
+    "psa 8:3-4",
+    "psa 145:3"
+   ],
+   "about": "A Swedish poem of awe at creation, made famous in English through Stuart Hine's translation and the Billy Graham crusades. Frequently requested at funerals.",
+   "publisher": null
+  },
+  {
+   "id": "holy-is-his-name",
+   "title": "Holy Is His Name",
+   "latinTitle": null,
+   "composer": "John Michael Talbot",
+   "textAuthor": "John Michael Talbot, based on the Magnificat",
+   "year": "1980",
+   "publicDomain": false,
+   "lyrics": null,
+   "translation": null,
+   "uses": [
+    "marian",
+    "advent"
+   ],
+   "scripture": [
+    "luk 1:46-55"
+   ],
+   "about": "A meditative setting of Mary's song of praise, the Magnificat, by the Franciscan musician John Michael Talbot. Fitting on Marian feasts and in late Advent.",
+   "publisher": null
+  },
+  {
+   "id": "mass-of-creation",
+   "title": "Mass of Creation",
+   "latinTitle": null,
+   "composer": "Marty Haugen",
+   "textAuthor": null,
+   "year": "1984 (revised 2010)",
+   "publicDomain": false,
+   "lyrics": null,
+   "translation": null,
+   "uses": [
+    "kyrie",
+    "gloria",
+    "gospel-acclamation",
+    "sanctus",
+    "mystery-of-faith",
+    "great-amen",
+    "agnus-dei",
+    "ordinary"
+   ],
+   "scripture": [
+    "isa 6:3",
+    "jhn 1:29"
+   ],
+   "about": "For decades the most widely sung Mass setting in American parishes. Haugen revised it in 2010 for the new English translation of the Roman Missal.",
+   "publisher": "GIA"
+  },
+  {
+   "id": "mass-of-christ-the-savior",
+   "title": "Mass of Christ the Savior",
+   "latinTitle": null,
+   "composer": "Dan Schutte",
+   "textAuthor": null,
+   "year": "2010",
+   "publicDomain": false,
+   "lyrics": null,
+   "translation": null,
+   "uses": [
+    "kyrie",
+    "gloria",
+    "gospel-acclamation",
+    "sanctus",
+    "mystery-of-faith",
+    "great-amen",
+    "agnus-dei",
+    "ordinary"
+   ],
+   "scripture": [
+    "isa 6:3",
+    "jhn 1:29"
+   ],
+   "about": "Written for the 2011 introduction of the new English translation of the Roman Missal, it quickly became one of the most used settings in the United States.",
+   "publisher": "OCP"
+  },
+  {
+   "id": "mass-of-renewal",
+   "title": "Mass of Renewal",
+   "latinTitle": null,
+   "composer": "Curtis Stephan",
+   "textAuthor": null,
+   "year": null,
+   "publicDomain": false,
+   "lyrics": null,
+   "translation": null,
+   "uses": [
+    "kyrie",
+    "gloria",
+    "gospel-acclamation",
+    "sanctus",
+    "mystery-of-faith",
+    "great-amen",
+    "agnus-dei",
+    "ordinary"
+   ],
+   "scripture": [
+    "isa 6:3",
+    "jhn 1:29"
+   ],
+   "about": "A contemporary Mass setting composed for the current English translation of the Roman Missal, popular with parishes that use contemporary instrumentation.",
+   "publisher": "OCP"
+  },
+  {
+   "id": "heritage-mass",
+   "title": "Heritage Mass",
+   "latinTitle": null,
+   "composer": "Owen Alstott",
+   "textAuthor": null,
+   "year": "1978 (revised 2010)",
+   "publicDomain": false,
+   "lyrics": null,
+   "translation": null,
+   "uses": [
+    "kyrie",
+    "gloria",
+    "gospel-acclamation",
+    "sanctus",
+    "mystery-of-faith",
+    "great-amen",
+    "agnus-dei",
+    "ordinary"
+   ],
+   "scripture": [
+    "isa 6:3",
+    "jhn 1:29"
+   ],
+   "about": "A simple, sturdy setting that has been a staple of OCP's missalettes, revised in 2010 for the current translation.",
+   "publisher": "OCP"
+  },
+  {
+   "id": "mass-of-st-ann",
+   "title": "Mass of St. Ann",
+   "latinTitle": null,
+   "composer": "Ed Bolduc",
+   "textAuthor": null,
+   "year": null,
+   "publicDomain": false,
+   "lyrics": null,
+   "translation": null,
+   "uses": [
+    "kyrie",
+    "gloria",
+    "gospel-acclamation",
+    "sanctus",
+    "mystery-of-faith",
+    "great-amen",
+    "agnus-dei",
+    "ordinary"
+   ],
+   "scripture": [
+    "isa 6:3",
+    "jhn 1:29"
+   ],
+   "about": "A singable, contemporary-leaning Mass setting written for the current English translation of the Roman Missal.",
+   "publisher": "WLP"
+  },
+  {
+   "id": "mass-of-joy-and-peace",
+   "title": "Mass of Joy and Peace",
+   "latinTitle": null,
+   "composer": "Tony Alonso",
+   "textAuthor": null,
+   "year": null,
+   "publicDomain": false,
+   "lyrics": null,
+   "translation": null,
+   "uses": [
+    "kyrie",
+    "gloria",
+    "gospel-acclamation",
+    "sanctus",
+    "mystery-of-faith",
+    "great-amen",
+    "agnus-dei",
+    "ordinary"
+   ],
+   "scripture": [
+    "isa 6:3",
+    "jhn 1:29"
+   ],
+   "about": "A Mass setting with Latin American rhythmic influences, available in English, Spanish, and bilingual editions.",
+   "publisher": "GIA"
+  },
+  {
+   "id": "celtic-alleluia",
+   "title": "Celtic Alleluia",
+   "latinTitle": null,
+   "composer": "Fintan O'Carroll and Christopher Walker",
+   "textAuthor": null,
+   "year": "1985",
+   "publicDomain": false,
+   "lyrics": null,
+   "translation": null,
+   "uses": [
+    "gospel-acclamation",
+    "easter"
+   ],
+   "scripture": [
+    "psa 118:24"
+   ],
+   "about": "A buoyant Irish Alleluia sung before the Gospel, often with seasonal verses. Because the Alleluia is not sung in Lent, it is set aside from Ash Wednesday until the Easter Vigil.",
+   "publisher": "OCP"
+  },
+  {
+   "id": "glory-and-praise-to-our-god",
+   "title": "Glory and Praise to Our God",
+   "latinTitle": null,
+   "composer": "Dan Schutte, SJ",
+   "textAuthor": "Dan Schutte, SJ",
+   "year": "1976",
+   "publicDomain": false,
+   "lyrics": null,
+   "translation": null,
+   "uses": [
+    "entrance",
+    "recessional",
+    "ordinary"
+   ],
+   "scripture": [
+    "psa 65:1-2",
+    "psa 66:1-2"
+   ],
+   "about": "A bright gathering song drawn from the Psalms of praise. It gave its name to a widely used hymnal of contemporary Catholic music.",
+   "publisher": "OCP"
+  },
+  {
+   "id": "here-i-am-to-worship",
+   "title": "Here I Am to Worship",
+   "latinTitle": null,
+   "composer": "Tim Hughes",
+   "textAuthor": "Tim Hughes",
+   "year": "2000",
+   "publicDomain": false,
+   "lyrics": null,
+   "translation": null,
+   "uses": [
+    "communion",
+    "eucharistic-adoration"
+   ],
+   "scripture": [
+    "jhn 1:9",
+    "php 2:6-8"
+   ],
+   "about": "A song from the British contemporary worship movement, adopted in many Catholic youth ministries and at Eucharistic adoration.",
+   "publisher": "Thankyou Music"
+  },
+  {
+   "id": "open-my-eyes",
+   "title": "Open My Eyes",
+   "latinTitle": null,
+   "composer": "Jesse Manibusan",
+   "textAuthor": "Jesse Manibusan",
+   "year": "1988",
+   "publicDomain": false,
+   "lyrics": null,
+   "translation": null,
+   "uses": [
+    "communion",
+    "lent",
+    "ordinary"
+   ],
+   "scripture": [
+    "mrk 8:22-25",
+    "psa 119:18"
+   ],
+   "about": "A prayer to see, hear, and love as Jesus does, with an easy refrain. Popular at youth and school Masses.",
+   "publisher": "OCP"
+  },
+  {
+   "id": "the-servant-song",
+   "title": "The Servant Song",
+   "latinTitle": null,
+   "composer": "Richard Gillard",
+   "textAuthor": "Richard Gillard",
+   "year": "1977",
+   "publicDomain": false,
+   "lyrics": null,
+   "translation": null,
+   "uses": [
+    "holy-week",
+    "communion",
+    "ordinary"
+   ],
+   "scripture": [
+    "jhn 13:14-15",
+    "gal 6:2"
+   ],
+   "about": "A song from New Zealand about serving one another as Christ served, often sung at the washing of feet on Holy Thursday.",
+   "publisher": null
+  },
+  {
+   "id": "table-of-plenty",
+   "title": "Table of Plenty",
+   "latinTitle": null,
+   "composer": "Dan Schutte",
+   "textAuthor": "Dan Schutte",
+   "year": "1992",
+   "publicDomain": false,
+   "lyrics": null,
+   "translation": null,
+   "uses": [
+    "communion"
+   ],
+   "scripture": [
+    "isa 55:1-2",
+    "psa 34:8"
+   ],
+   "about": "An invitation to the Lord's table, drawing on Isaiah's banquet imagery.",
+   "publisher": "OCP"
+  },
+  {
+   "id": "you-satisfy-the-hungry-heart",
+   "title": "You Satisfy the Hungry Heart (Gift of Finest Wheat)",
+   "latinTitle": null,
+   "composer": "Robert E. Kreutz",
+   "textAuthor": "Omer Westendorf",
+   "year": "1976",
+   "publicDomain": false,
+   "lyrics": null,
+   "translation": null,
+   "uses": [
+    "communion",
+    "eucharistic-adoration"
+   ],
+   "scripture": [
+    "psa 81:16",
+    "jhn 6:35",
+    "1co 10:16-17"
+   ],
+   "about": "The winning hymn of a competition for the 41st International Eucharistic Congress, held in Philadelphia in 1976. Its title comes from Psalm 81's promise of the finest wheat.",
+   "publisher": null
+  },
+  {
+   "id": "we-are-called",
+   "title": "We Are Called",
+   "latinTitle": null,
+   "composer": "David Haas",
+   "textAuthor": "David Haas",
+   "year": "1988",
+   "publicDomain": false,
+   "lyrics": null,
+   "translation": null,
+   "uses": [
+    "recessional",
+    "ordinary"
+   ],
+   "scripture": [
+    "mic 6:8"
+   ],
+   "about": "A sending song built on Micah 6:8: act justly, love tenderly, walk humbly with God. In 2020 several U.S. dioceses and publishers stopped using or promoting David Haas's music after allegations of misconduct, so check local policy.",
+   "publisher": "GIA"
+  },
+  {
+   "id": "though-the-mountains-may-fall",
+   "title": "Though the Mountains May Fall",
+   "latinTitle": null,
+   "composer": "Dan Schutte, SJ",
+   "textAuthor": "Dan Schutte, SJ",
+   "year": "1975",
+   "publicDomain": false,
+   "lyrics": null,
+   "translation": null,
+   "uses": [
+    "entrance",
+    "ordinary"
+   ],
+   "scripture": [
+    "isa 54:10",
+    "psa 46:1-3"
+   ],
+   "about": "A song of confidence in God's unshakable love, from Isaiah 54 and Psalm 46.",
+   "publisher": "OCP"
+  },
+  {
+   "id": "come-to-the-water",
+   "title": "Come to the Water",
+   "latinTitle": null,
+   "composer": "John B. Foley, SJ",
+   "textAuthor": "John B. Foley, SJ",
+   "year": "1978",
+   "publicDomain": false,
+   "lyrics": null,
+   "translation": null,
+   "uses": [
+    "lent",
+    "communion"
+   ],
+   "scripture": [
+    "isa 55:1-2",
+    "mat 11:28"
+   ],
+   "about": "An invitation from Isaiah 55 to the thirsty and weary to come and be fed freely. Fitting in Lent, especially around the scrutinies.",
+   "publisher": "OCP"
+  },
+  {
+   "id": "earthen-vessels",
+   "title": "Earthen Vessels",
+   "latinTitle": null,
+   "composer": "John B. Foley, SJ",
+   "textAuthor": "John B. Foley, SJ",
+   "year": "1975",
+   "publicDomain": false,
+   "lyrics": null,
+   "translation": null,
+   "uses": [
+    "communion",
+    "ordinary"
+   ],
+   "scripture": [
+    "2co 4:6-7",
+    "isa 9:2"
+   ],
+   "about": "From St. Paul's image of carrying the treasure of God's light in clay jars.",
+   "publisher": "OCP"
+  },
+  {
+   "id": "sing-to-the-mountains",
+   "title": "Sing to the Mountains",
+   "latinTitle": null,
+   "composer": "Bob Dufford, SJ",
+   "textAuthor": "Bob Dufford, SJ",
+   "year": "1975",
+   "publicDomain": false,
+   "lyrics": null,
+   "translation": null,
+   "uses": [
+    "easter",
+    "entrance",
+    "psalm"
+   ],
+   "scripture": [
+    "psa 118:24",
+    "psa 118:1"
+   ],
+   "about": "An exuberant Easter song built on Psalm 118, the psalm of the Easter Octave: this is the day the Lord has made.",
+   "publisher": "OCP"
+  },
+  {
+   "id": "lift-up-your-hearts",
+   "title": "Lift Up Your Hearts",
+   "latinTitle": null,
+   "composer": "Roc O'Connor, SJ",
+   "textAuthor": "Roc O'Connor, SJ",
+   "year": "1981",
+   "publicDomain": false,
+   "lyrics": null,
+   "translation": null,
+   "uses": [
+    "entrance",
+    "ordinary"
+   ],
+   "scripture": [
+    "psa 66:1-4",
+    "lam 3:41"
+   ],
+   "about": "A St. Louis Jesuits gathering song of praise, based on Psalm 66.",
+   "publisher": "OCP"
+  },
+  {
+   "id": "sing-of-the-lords-goodness",
+   "title": "Sing of the Lord's Goodness",
+   "latinTitle": null,
+   "composer": "Ernest Sands",
+   "textAuthor": "Ernest Sands",
+   "year": "1981",
+   "publicDomain": false,
+   "lyrics": null,
+   "translation": null,
+   "uses": [
+    "entrance",
+    "recessional",
+    "ordinary"
+   ],
+   "scripture": [
+    "psa 145:1-7"
+   ],
+   "about": "A rhythmic, joyful hymn of praise from the English Catholic repertoire, with a jazz-influenced melody.",
+   "publisher": "OCP"
+  },
+  {
+   "id": "center-of-my-life",
+   "title": "Center of My Life",
+   "latinTitle": null,
+   "composer": "Paul Inwood",
+   "textAuthor": "Paul Inwood, based on Psalm 16",
+   "year": "1985",
+   "publicDomain": false,
+   "lyrics": null,
+   "translation": null,
+   "uses": [
+    "communion",
+    "psalm",
+    "ordinary"
+   ],
+   "scripture": [
+    "psa 16:1-11"
+   ],
+   "about": "A setting of Psalm 16 with a prayerful refrain naming the Lord as the center of one's life.",
+   "publisher": "OCP"
+  },
+  {
+   "id": "holy-darkness",
+   "title": "Holy Darkness",
+   "latinTitle": null,
+   "composer": "Dan Schutte",
+   "textAuthor": "Dan Schutte",
+   "year": "1988",
+   "publicDomain": false,
+   "lyrics": null,
+   "translation": null,
+   "uses": [
+    "lent",
+    "advent"
+   ],
+   "scripture": [
+    "isa 45:3",
+    "psa 139:11-12"
+   ],
+   "about": "A reflective song inspired by St. John of the Cross, finding God present even in the dark night of the soul.",
+   "publisher": "OCP"
+  },
+  {
+   "id": "hail-mary-gentle-woman",
+   "title": "Hail Mary: Gentle Woman",
+   "latinTitle": null,
+   "composer": "Carey Landry",
+   "textAuthor": "Carey Landry",
+   "year": "1975",
+   "publicDomain": false,
+   "lyrics": null,
+   "translation": null,
+   "uses": [
+    "marian"
+   ],
+   "scripture": [
+    "luk 1:28",
+    "luk 1:42"
+   ],
+   "about": "A tender Marian song that frames the Hail Mary with a sung refrain addressed to Mary. Popular at May crownings and school Masses.",
+   "publisher": "OCP"
+  },
+  {
+   "id": "jesus-remember-me",
+   "title": "Jesus, Remember Me",
+   "latinTitle": null,
+   "composer": "Jacques Berthier (Taizé Community)",
+   "textAuthor": "Luke 23:42",
+   "year": "1981",
+   "publicDomain": false,
+   "lyrics": null,
+   "translation": null,
+   "uses": [
+    "lent",
+    "holy-week",
+    "funeral"
+   ],
+   "scripture": [
+    "luk 23:42"
+   ],
+   "about": "A Taizé chant repeating the good thief's prayer from the Cross. Its short, repeated phrase makes it a natural meditative song for Lent and Good Friday.",
+   "publisher": "GIA"
+  },
+  {
+   "id": "ubi-caritas-taize",
+   "title": "Ubi Caritas (Taizé)",
+   "latinTitle": "Ubi caritas",
+   "composer": "Jacques Berthier (Taizé Community)",
+   "textAuthor": "Latin antiphon Ubi caritas",
+   "year": "1978",
+   "publicDomain": false,
+   "lyrics": null,
+   "translation": null,
+   "uses": [
+    "holy-week",
+    "communion",
+    "wedding"
+   ],
+   "scripture": [
+    "1jn 4:16",
+    "jhn 13:34-35"
+   ],
+   "about": "A repetitive Taizé setting of the Holy Thursday antiphon in Latin. The chant original, with a translation, is in this collection under 'Where Charity and Love Are.'",
+   "publisher": "GIA"
+  },
+  {
+   "id": "christ-be-beside-me",
+   "title": "Christ Be Beside Me",
+   "latinTitle": null,
+   "composer": "BUNESSAN, traditional Gaelic melody",
+   "textAuthor": "James Quinn, SJ, adapted from St. Patrick's Breastplate",
+   "year": "1969",
+   "publicDomain": false,
+   "lyrics": null,
+   "translation": null,
+   "uses": [
+    "entrance",
+    "saints",
+    "ordinary"
+   ],
+   "scripture": [
+    "psa 139:5",
+    "gal 2:20"
+   ],
+   "about": "A short adaptation of the prayer known as St. Patrick's Breastplate by a Scottish Jesuit, sung to the same tune as 'Morning Has Broken.' A natural choice for St. Patrick's Day.",
+   "publisher": null
+  }
+ ]
+}

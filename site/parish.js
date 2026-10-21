@@ -30,11 +30,11 @@
     const cur = MUSIC.seasons.find((s) => s.id === season);
     root.innerHTML = `<div class="hub">
       <div class="ghead"><h1>Music at Mass</h1></div>
-      <p class="lede">The hymns, chants and songs you hear at church: what each part of the Mass is for, the classic hymns with their words, and the modern songs most parishes sing.</p>
+      <p class="lede">The hymns, chants and songs you hear at church: what each part of the Mass is for, the Latin chants with their words, the classic hymns and the modern songs most parishes sing.</p>
       ${cur ? `<section class="tsec"><h2>Now in ${esc(cur.name)}</h2><p>${esc(cur.about)}</p><div class="chips">${cur.songs.filter((id) => S[id]).slice(0, 12).map((id) => `<button class="chip" data-song="${id}">${esc(S[id].title)}</button>`).join("")}</div></section>` : ""}
       <details class="mparts"><summary><h2>The sung parts of the Mass</h2></summary>
         <ol class="partlist">${MUSIC.parts.map((p) => `<li><b>${esc(p.name)}</b> <span class="qmeta">${esc(p.when || "")}</span><p>${esc(p.about)}</p>
-          ${(p.examples || []).filter((id) => S[id]).length ? `<div class="chips">${p.examples.filter((id) => S[id]).map((id) => `<button class="chip" data-song="${id}">${esc(S[id].title)}</button>`).join("")}</div>` : ""}</li>`).join("")}</ol>
+          ${(p.examples || []).filter((id) => S[id]).length ? `<div class="chips">${p.examples.filter((id) => S[id]).slice(0, 8).map((id) => `<button class="chip" data-song="${id}">${esc(S[id].title)}</button>`).join("")}</div>` : ""}</li>`).join("")}</ol>
       </details>
       <div class="people-tools">
         <input id="mq" type="search" placeholder="Search songs, composers, scripture" autocomplete="off">
