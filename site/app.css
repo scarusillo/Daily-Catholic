@@ -300,3 +300,56 @@ details.bk .vv b { font-family: var(--font-ui); font-size: .8rem; color: var(--l
   .ahidden span { width: min(36px, calc((100vw - 60px) / 10)); height: 42px; font-size: 1.3rem; }
 }
 .lgroup .chip { background: rgb(255 255 255 / .55); border-color: transparent; color: #15130c; font-size: .8rem; }
+
+/* ---------- bible sub-nav ---------- */
+.subnav { display: flex; gap: 4px; font-family: var(--font-ui); border-bottom: 1px solid var(--line); }
+.subnav a { padding: 6px 12px; text-decoration: none; color: var(--muted); font-weight: 500; border-bottom: 2px solid transparent; margin-bottom: -1px; }
+.subnav a.on { color: var(--lapis); border-bottom-color: var(--lapis); }
+
+/* ---------- music ---------- */
+.tag { font-family: var(--font-ui); font-size: .8rem; padding: 2px 10px; border-radius: 999px; background: var(--sunk); color: var(--muted); }
+.mparts summary { cursor: pointer; list-style: none; }
+.mparts summary h2 { display: inline; }
+.mparts summary::before { content: "▸ "; color: var(--gold); }
+.mparts[open] summary::before { content: "▾ "; }
+.partlist { display: grid; gap: 12px; padding-left: 1.3em; }
+.partlist p { margin: 2px 0 6px; }
+.lyrics { display: grid; gap: 18px; font-size: 1.05rem; }
+.lyrics.two { grid-template-columns: repeat(auto-fit, minmax(240px, 1fr)); }
+.lyrics p { margin: 0 0 14px; }
+.lyrics .tr { color: var(--muted); }
+
+/* ---------- sacraments ---------- */
+.facts { display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 10px; }
+.facts > div { background: var(--surface); border: 1px solid var(--line); border-radius: var(--r); padding: 12px 14px; }
+.facts p { margin: 4px 0 0; }
+.checklist { list-style: none; padding: 0; margin: 0; display: grid; gap: 6px; }
+.checklist label { display: flex; gap: 12px; align-items: flex-start; padding: 10px 12px; background: var(--surface); border: 1px solid var(--line); border-radius: var(--r); cursor: pointer; }
+.checklist input { width: 20px; height: 20px; margin-top: 3px; flex: none; accent-color: var(--good); }
+.checklist input:checked + span b { text-decoration: line-through; color: var(--muted); }
+.lvl { font-family: var(--font-ui); font-size: .72rem; font-weight: 700; letter-spacing: .03em; padding: 1px 8px; border-radius: 999px; white-space: nowrap; }
+.lvl-church-law { background: color-mix(in srgb, var(--rubric) 16%, transparent); color: var(--rubric); }
+.lvl-common { background: color-mix(in srgb, var(--lapis) 14%, transparent); color: var(--lapis); }
+.lvl-if-applicable { background: var(--sunk); color: var(--muted); }
+.steplist { display: grid; gap: 6px; padding-left: 1.4em; margin: 0; }
+.faq { border-top: 1px solid var(--line); padding: 8px 0; }
+.faq summary { cursor: pointer; font-weight: 700; }
+.faq p { margin: 6px 0 0; }
+
+/* ---------- find a mass ---------- */
+.findform { display: flex; flex-wrap: wrap; gap: 8px; align-items: center; font-family: var(--font-ui); }
+.findform input, .findform select { padding: 8px 12px; border: 1px solid var(--line); border-radius: 999px; background: var(--surface); }
+.findform input { width: 9ch; letter-spacing: .08em; }
+.churches { list-style: none; padding: 0; margin: 0; display: grid; gap: 8px; }
+.church { background: var(--surface); border: 1px solid var(--line); border-radius: var(--r); padding: 12px 14px; display: grid; gap: 6px; }
+.ctop { display: flex; justify-content: space-between; gap: 10px; align-items: baseline; }
+.ctop b { font-size: 1.08rem; }
+.dist { font-family: var(--font-ui); font-weight: 700; color: var(--gold); white-space: nowrap; font-variant-numeric: tabular-nums; }
+.mtimes { font-family: var(--font-ui); font-size: .9rem; }
+a.chip { text-decoration: none; color: var(--fg); }
+
+@media print {
+  .bar, .foot, .back, #sacprint, .panel, body::before { display: none !important; }
+  .checklist label { border: 0; padding: 4px 0; }
+  body { background: #fff; color: #000; }
+}

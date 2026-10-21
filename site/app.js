@@ -72,7 +72,7 @@
   }
 
   /* ---------- routing ---------- */
-  const VIEWS = ["today", "map", "canon", "people", "journeys", "play"];
+  const VIEWS = ["today", "map", "canon", "people", "journeys", "play", "music", "sacraments", "mass"];
   const GAME_VIEWS = ["threads", "links", "acrostic", "tap", "quiz"];
   const rendered = {};
   function route() {
@@ -82,19 +82,24 @@
     view ||= "today";
     const section = GAME_VIEWS.includes(view) ? "play" : view;
     for (const v of VIEWS) $(`#view-${v}`).hidden = v !== section;
-    document.querySelectorAll(".tabs a").forEach((a) => a.classList.toggle("on", a.dataset.view === section));
+    const tab = ["map", "canon", "people"].includes(section) ? "bible" : section;
+    document.querySelectorAll(".tabs a").forEach((a) => a.classList.toggle("on", a.dataset.view === tab));
+    document.querySelectorAll(".subnav a").forEach((a) => a.classList.toggle("on", a.dataset.sub === section));
     store.set("bpm.view", view);
     const el = $(`#view-${section}`);
     if (section === "today") window.BPM_TODAY.renderToday(el);
     else if (section === "journeys") window.BPM_TODAY.renderJourneys(el, journeyReq);
     else if (view === "quiz") renderQuiz(el);
+    else if (section === "music") window.BPM_PARISH.renderMusic(el, subReq);
+    else if (section === "sacraments") window.BPM_PARISH.renderSacraments(el, subReq);
+    else if (section === "mass") { if (!rendered.mass) { rendered.mass = true; window.BPM_PARISH.renderFinder(el); } }
     else if (section === "play") window.BPM_GAMES.mount(view, el);
     else if (!rendered[view]) { rendered[view] = true; ({ map: renderMap, canon: renderCanon, people: renderPeople })[view](); }
-    journeyReq = undefined;
+    journeyReq = undefined; subReq = undefined;
     if (view === "map") resizeMap();
     if (section !== "map") window.scrollTo(0, 0);
   }
-  let journeyReq;
+  let journeyReq, subReq;
 
   /* ---------- search ---------- */
   function setupSearch() {
@@ -445,6 +450,10 @@
       if (go) { e.preventDefault(); location.hash = go.dataset.go; if (location.hash.slice(1) === go.dataset.go) route(); return; }
       const jr = e.target.closest("[data-journey]");
       if (jr) { journeyReq = jr.dataset.journey || null; store.set("bpm.journeyOpen", journeyReq); if (location.hash !== "#journeys") location.hash = "journeys"; else route(); return; }
+      const sg = e.target.closest("[data-song]");
+      if (sg) { subReq = sg.dataset.song || null; if (location.hash !== "#music") location.hash = "music"; else route(); return; }
+      const sc = e.target.closest("[data-sac]");
+      if (sc) { subReq = sc.dataset.sac || null; if (location.hash !== "#sacraments") location.hash = "sacraments"; else route(); return; }
       const c = e.target.closest(".chip[data-id], .potd[data-id]");
       if (c && !c.classList.contains("self")) return openPerson(c.dataset.id);
       const sp = e.target.closest("[data-speak-person]");

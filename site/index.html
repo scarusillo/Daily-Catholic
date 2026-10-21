@@ -14,10 +14,11 @@
     <nav class="tabs" aria-label="Views">
       <a href="#today" data-view="today">Today</a>
       <a href="#play" data-view="play">Play</a>
-      <a href="#map" data-view="map">Map</a>
+      <a href="#map" data-view="bible">Bible</a>
       <a href="#journeys" data-view="journeys">Journeys</a>
-      <a href="#people" data-view="people">People</a>
-      <a href="#canon" data-view="canon">Books</a>
+      <a href="#music" data-view="music">Music</a>
+      <a href="#sacraments" data-view="sacraments">Sacraments</a>
+      <a href="#mass" data-view="mass">Find a Mass</a>
     </nav>
     <label class="search">
       <span class="sr">Find a person</span>
@@ -31,7 +32,11 @@
   <section id="view-today" class="view"></section>
   <section id="view-play" class="view" hidden></section>
   <section id="view-journeys" class="view" hidden></section>
+  <section id="view-music" class="view" hidden></section>
+  <section id="view-sacraments" class="view" hidden></section>
+  <section id="view-mass" class="view" hidden></section>
   <section id="view-map" class="view" hidden>
+    <nav class="subnav" aria-label="Bible views"><a href="#map" data-sub="map">Map</a><a href="#people" data-sub="people">People</a><a href="#canon" data-sub="canon">Books</a></nav>
     <div class="map-head">
       <div>
         <h1>Everyone in the Catholic Bible, and how they connect</h1>
@@ -51,6 +56,7 @@
   </section>
 
   <section id="view-canon" class="view" hidden>
+    <nav class="subnav" aria-label="Bible views"><a href="#map" data-sub="map">Map</a><a href="#people" data-sub="people">People</a><a href="#canon" data-sub="canon">Books</a></nav>
     <h1>Who appears where</h1>
     <p class="lede">The 73 books of the Catholic canon run across the top. Each row is a person; the dot shows how many verses mention them in that book. Tap a row to open the person.</p>
     <div class="canon-tools">
@@ -65,6 +71,7 @@
   </section>
 
   <section id="view-people" class="view" hidden>
+    <nav class="subnav" aria-label="Bible views"><a href="#map" data-sub="map">Map</a><a href="#people" data-sub="people">People</a><a href="#canon" data-sub="canon">Books</a></nav>
     <h1>People</h1>
     <div class="people-tools">
       <input id="pf" type="search" placeholder="Filter by name or role" autocomplete="off">
@@ -89,4 +96,5 @@
 <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/7.8.5/d3.min.js"></script>
 <script src="games.js"></script>
 <script src="today.js"></script>
+<script src="parish.js"></script>
 <script src="app.js"></script>
