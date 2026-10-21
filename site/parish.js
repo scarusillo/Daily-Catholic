@@ -90,7 +90,7 @@
         <p class="lede">Planning a baptism, wedding, confirmation, First Communion or funeral, or thinking about becoming Catholic? Pick one to see the paperwork to gather, who to call and what to expect. Tick items off as you go; your progress is saved on this device.</p>
         <div class="gcards">${SAC.map((x) => {
           const done = Object.values(ctx.store.get(`bpm.sac.${x.id}`, {})).filter(Boolean).length;
-          return `<button class="gcard" data-sac="${x.id}"><span class="gname">${esc(x.title)}</span><span class="gdesc">${esc(x.summary)}</span>${x.documents?.length ? `<span class="gstat">${done ? `${done} of ${x.documents.length} gathered` : `${x.documents.length} documents`}</span>` : ""}</button>`;
+          return `<button class="gcard" data-sac="${x.id}"><span class="gname">${esc(x.title)}</span><span class="gdesc">${esc(x.summary.replace(/\s*Parishes and dioceses vary[^.]*\.\s*$/, ""))}</span>${x.documents?.length ? `<span class="gstat">${done ? `${done} of ${x.documents.length} gathered` : `${x.documents.length} documents`}</span>` : ""}</button>`;
         }).join("")}</div>
         <p class="gfoot">Requirements follow universal Church law and common practice in US dioceses. Every parish and diocese has its own details, so your parish office has the final word.</p></div>`;
       return;
