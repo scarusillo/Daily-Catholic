@@ -44,10 +44,10 @@
   async function themes() { THEMES ??= await C().getJSON("data/themes.json"); return THEMES; }
 
   /* =====================================================================
-     THREADS — find the theme words hidden as letter paths; the spangram
+     THREADS — find the theme words hidden as letter paths; the golden thread
      names the theme and touches two opposite sides of the grid.
      ===================================================================== */
-  const COLS = 6;
+  const COLS = 7;
   function hamiltonPath(R, rows) {
     // random Hamiltonian path on a rows×COLS grid via backbite moves
     const N = rows * COLS, id = (r, c) => r * COLS + c;
@@ -78,7 +78,7 @@
     const R = rng(seedOf("threads" + dk));
     const pool = shuffle(R, THEMES.filter((t) => t.words.length >= 4));
     for (const t of pool) {
-      for (const rows of [8, 7, 6]) {
+      for (const rows of [7, 6]) {
         const words = subsetSum(R, t.words, t.spangram.length, rows * COLS);
         if (!words) continue;
         for (let attempt = 0; attempt < 400; attempt++) {
@@ -117,7 +117,7 @@
         <div class="tword" id="tword" aria-live="polite">&nbsp;</div>
         <div class="gbtns"><button id="thint" class="ghost">${X("Hint", "Pista")}</button><button id="tclear" class="ghost">${X("Clear", "Borrar")}</button></div>
         <div id="tdone"></div>
-        <p class="gfoot">Drag across touching letters (any direction, diagonals too), or tap letters one by one and tap the last letter again to submit. Every letter belongs to exactly one word. The <b>spangram</b> names the theme and stretches from one side of the grid to the other.</p>
+        <p class="gfoot">Drag across touching letters (any direction, diagonals too), or tap letters one by one and tap the last letter again to submit. Every letter belongs to exactly one word. The <b>golden thread</b> names the theme and runs from one edge of the board to the opposite edge.</p>
       </div>`;
     const cells = [...root.querySelectorAll(".tcell")];
     const svg = $("#tlines", root);
@@ -147,8 +147,8 @@
       const hit = pz.placed.find((p) => p.cells.length === sel.length && p.cells.every((c, k) => c === sel[k]) && !st.found.includes(p.w));
       if (hit) {
         st.found.push(hit.w); st.log.push(hit.span ? "S" : "W"); save();
-        $("#tword", root).textContent = hit.span ? `${word} · Spangram!` : word;
-        sel = []; draw(); flash(hit.span ? "Spangram!" : "Found");
+        $("#tword", root).textContent = hit.span ? `${word} · ${X("Golden thread!", "¡Hilo de oro!")}` : word;
+        sel = []; draw(); flash(hit.span ? X("Golden thread!", "¡Hilo de oro!") : X("Found", "¡Encontrada!"));
       } else {
         const taken = pz.placed.find((p) => p.w === word && st.found.includes(p.w));
         sel = []; draw(); flash(taken ? "Already found" : "Not a theme word");
@@ -191,7 +191,7 @@
       if ($("#tdone", root).childElementCount) return;
       if (!playedToday("threads")) record("threads", { hints: st.hints });
       const t = pz.theme;
-      const emoji = st.log.map((x) => (x === "S" ? "🟡" : x === "H" ? "💡" : "🔵")).join("");
+      const emoji = st.log.map((x) => (x === "S" ? "✨" : x === "H" ? "🕯️" : "🧵")).join("");
       const people = pz.placed.filter((p) => p.person).map((p) => C().chip(p.person)).join("");
       $("#tdone", root).innerHTML = `<div class="qcard"><h2>${esc(t.title)}</h2><p>${esc(t.explain || "")} ${t.ref ? `<button class="ref" data-ref="${esc(t.ref)}">${esc(C().refLabel(t.ref))}</button>` : ""}</p>
         <div class="chips">${people}</div><p class="qmeta">${X("Streak", "Racha")}: ${streak("threads")} day${streak("threads") === 1 ? "" : "s"}</p><button class="qnext" id="tshare">${X("Share result", "Compartir resultado")}</button></div>`;
@@ -281,7 +281,7 @@
       if ($("#ldone", root).childElementCount) return;
       const won = st.solved.length === 4;
       if (!playedToday("links")) record("links", { won, mistakes: st.mistakes });
-      const sq = ["", "🟨", "🟩", "🟦", "🟪"];
+      const sq = ["", "⚪", "🟢", "🔴", "🟣"];
       const grid = st.guesses.map((gs) => gs.map((g) => sq[groups[g].t.difficulty || 2]).join("")).join("\n");
       $("#ldone", root).innerHTML = `<div class="qcard"><h2>${won ? (st.mistakes ? "Solved" : "Perfect!") : "Out of tries"}</h2>
         ${groups.map((g) => `<p><b>${esc(g.t.title)}.</b> ${esc(g.t.explain || "")}</p>`).join("")}
@@ -374,7 +374,7 @@
       $("#adone", root).innerHTML = `<div class="qcard"><span class="eyebrow">The hidden name</span><h2>${esc(h.name)}</h2><p>${esc(h.summary)}</p>
         <div class="chips">${C().chip(h.id)}${pz.clues.map((p) => C().chip(p.id)).join("")}</div>
         <p class="qmeta">${hints ? `${hints} hint${hints > 1 ? "s" : ""} used · ` : "No hints! · "}${X("Streak", "Racha")}: ${streak("acrostic")}</p><button class="qnext" id="ashare">${X("Share result", "Compartir resultado")}</button></div>`;
-      $("#ashare", root).onclick = (e) => share(`The Daily Catholic · Hidden Name #${dayNumber()}\n${pz.clues.map((_, i) => (st.reveals[i] ? "🟨" : "🟩")).join("")} ${h.name.length} letters\n${SITE}`, e.target);
+      $("#ashare", root).onclick = (e) => share(`The Daily Catholic · Hidden Name #${dayNumber()}\n${pz.clues.map((_, i) => (st.reveals[i] ? "🕯️" : "✝️")).join("")} ${h.name.length} letters\n${SITE}`, e.target);
     }
     draw();
   }
@@ -480,7 +480,7 @@
     function finish() {
       const total = st.guesses.reduce((a, x) => a + x.s, 0);
       if (!playedToday("tap")) record("tap", { score: total });
-      const bar = (s) => (s >= 900 ? "🟩" : s >= 500 ? "🟨" : s > 0 ? "🟧" : "⬛");
+      const bar = (s) => (s >= 900 ? "📍" : s >= 500 ? "🧭" : s > 0 ? "🐾" : "▫️");
       $("#tapq", root).innerHTML = `<span class="eyebrow">Final score</span><b>${total.toLocaleString()} / 5,000</b>`;
       root.querySelector(".tapmap").hidden = true;
       $("#tapbar", root).innerHTML = "";
@@ -562,7 +562,7 @@
       const won = st.guesses.includes(ans.w);
       if (!playedToday("loaves")) record("loaves", { won, tries: st.guesses.length });
       $("#kb", root).hidden = true;
-      const grid = st.guesses.map((g) => scoreGuess(g, ans.w).map((v) => (v === "correct" ? "🟩" : v === "present" ? "🟨" : "⬜")).join("")).join("\n");
+      const grid = st.guesses.map((g) => scoreGuess(g, ans.w).map((v) => (v === "correct" ? "🍞" : v === "present" ? "🐟" : "▫️")).join("")).join("\n");
       $("#wdone", root).innerHTML = `<div class="qcard"><span class="eyebrow">${won ? `Solved in ${st.guesses.length}` : "Today's word"}</span><h2>${esc(ans.w)}</h2>
         <p>${esc(ans.explain)}</p>
         <div class="chips">${ans.person ? C().chip(ans.person) : ""}${ans.ref ? `<button class="ref" data-ref="${esc(ans.ref)}">${esc(C().refLabel(ans.ref))}</button>` : ""}</div>
@@ -572,12 +572,188 @@
     draw();
   }
 
+
+  /* =====================================================================
+     PILGRIMAGE — our own daily game. A hidden figure from Scripture; four
+     stations (Word, Place, Verse, Family) each unlock a clue. Name the
+     pilgrim as early as you can. Candles measure how well you did.
+     ===================================================================== */
+  const WORD_RE = /[A-Za-z]+/g;
+  function pickPilgrim(dk) {
+    const R = rng(seedOf("pilgrim" + dk));
+    const P = C().P;
+    const atPlace = {};
+    for (const pl of PLACES) for (const ev of pl.events) for (const id of ev.people || []) (atPlace[id] ??= []).push({ pl, ev });
+    const rel = (p) => [p.father, p.mother, ...p.spouses, ...p.children].filter((x) => x && P[x]);
+    const cands = C().PEOPLE.filter((p) => atPlace[p.id] && /^[A-Za-z]{3,10}$/.test(p.name) && p.mentions >= 12 && p.summary.length > 100 && p.keyPassages.length && rel(p).length >= 2);
+    // a fixed shuffled rotation, so nobody repeats until everyone has had a day
+    const order = shuffle(rng(seedOf("pilgrim-rotation-v1")), cands.sort((x, y) => (x.id < y.id ? -1 : 1)));
+    const idx = Math.floor((Date.parse(dk) - Date.parse("2026-10-20")) / 864e5);
+    const p = order[((idx % order.length) + order.length) % order.length];
+    const names = [p.name, ...p.aliases].filter(Boolean);
+    const mask = (t) => names.reduce((acc, n) => acc.replace(new RegExp(`\\b${n.replace(/[.*+?^${}()|[\]\\]/g, "\\$&")}\\b`, "gi"), "▢▢▢"), t);
+    // Word station: a telling word from their role or story (not their name)
+    const bad = new Set(["which", "their", "there", "about", "after", "later", "first", "where", "would", "under", "whose", "other", "being", "these", "those", "should", "could", "shall", "before", "because", "against", "among", "every", "while", "until", "upon", "unto", "therefore", "himself", "herself", "themselves", "people", "great", "things", "again", "whom", "what", "when", "also", "into", "from", "with", "said", "says", "saying"]);
+    const pool = [...(p.role.match(WORD_RE) || []), ...(p.summary.match(WORD_RE) || [])].filter((w) => w.length >= 5 && w.length <= 9 && !bad.has(w.toLowerCase()) && !names.some((n) => n.toLowerCase() === w.toLowerCase()) && w[0] === w[0].toLowerCase() || /^(King|Prophet|Patriarch|Judge|Priest|Apostle|Queen|Matriarch)$/.test(w));
+    const roleWords = (p.role.match(WORD_RE) || []).filter((w) => w.length >= 4 && w.length <= 10 && !names.some((n) => n.toLowerCase() === w.toLowerCase()) && !/^(of|the|and|son|daughter|wife|husband|father|mother|brother|sister)$/i.test(w));
+    const word = (roleWords.sort((a, b) => b.length - a.length)[0] || pool.sort((a, b) => b.length - a.length)[Math.floor(R() * Math.min(4, pool.length))] || "faith").toUpperCase();
+    let scr = word; for (let i = 0; i < 20 && scr === word; i++) scr = shuffle(R, [...word]).join("");
+    // Place station
+    const { pl, ev } = atPlace[p.id][Math.floor(R() * atPlace[p.id].length)];
+    // Verse station: a key-passage verse naming them; blank another word, 4 choices
+    const verses = [];
+    for (const ref of p.keyPassages) { const r = C().parseRef(ref); if (r) for (const v of C().verses(r)) if (names.some((n) => v.t.includes(n))) verses.push({ ...v, b: r.b }); }
+    const vv = verses.length ? verses[Math.floor(R() * verses.length)] : null;
+    let verse = null;
+    if (vv) {
+      const words = (vv.t.match(/[A-Za-z]{5,}/g) || []).filter((w) => !names.includes(w) && !bad.has(w.toLowerCase()));
+      if (words.length) {
+        const ans = words[Math.floor(R() * words.length)];
+        const decoys = [...new Set(shuffle(R, C().PEOPLE.slice(0, 400).flatMap((x) => (x.summary.match(/\b[a-z]{5,9}\b/g) || []))
+          .filter((w) => !bad.has(w) && w !== ans.toLowerCase() && Math.abs(w.length - ans.length) <= 2)))].slice(0, 3);
+        verse = { ref: `${vv.b} ${vv.c}:${vv.v}`, text: mask(vv.t).replace(new RegExp(`\\b${ans}\\b`), "_____"), ans, opts: shuffle(R, [ans, ...decoys.map((d) => (ans[0] === ans[0].toUpperCase() ? d[0].toUpperCase() + d.slice(1) : d))]) };
+      }
+    }
+    // Family station
+    const fam = rel(p);
+    const famIds = new Set(fam);
+    const decoyPeople = shuffle(R, C().PEOPLE.filter((x) => x.era === p.era && x.id !== p.id && !famIds.has(x.id) && x.mentions >= 5 && !rel(x).includes(p.id))).slice(0, 6 - Math.min(fam.length, 3));
+    const famPick = shuffle(R, fam).slice(0, 3);
+    const family = { right: famPick, opts: shuffle(R, [...famPick, ...decoyPeople.map((x) => x.id)]) };
+    return { p, names, mask, word, scr, pl, ev, verse, family };
+  }
+  async function renderPilgrimage(root) {
+    root.innerHTML = `<p class="loading">…</p>`;
+    [PLACES, GEO] = await Promise.all([PLACES || C().getJSON("data/places.json"), GEO || C().getJSON("data/geo.json")]);
+    await C().loadBible();
+    const dk = dayKey(), n = dayNumber();
+    const g = pickPilgrim(dk);
+    const P = C().P;
+    const key = `bpm.pilgrim.${dk}`;
+    const st = C().store.get(key, { done: {}, good: {}, guesses: [], won: false, station: 0 });
+    const save = () => C().store.set(key, st);
+    const STATIONS = [
+      { id: "word", icon: "✠", name: X("The Word", "La Palabra"), hint: X("Unscramble a word from this person's story.", "Ordena las letras de una palabra de su historia.") },
+      { id: "place", icon: "⌖", name: X("The Place", "El Lugar"), hint: X("Find on the map where part of their story happened.", "Encuentra en el mapa dónde ocurrió parte de su historia.") },
+      { id: "verse", icon: "¶", name: X("The Verse", "El Versículo"), hint: X("Complete a verse that speaks of them.", "Completa un versículo que habla de esta persona.") },
+      { id: "family", icon: "⚭", name: X("The Family", "La Familia"), hint: X("Pick out their relatives.", "Elige a sus familiares.") },
+    ].filter((x) => x.id !== "verse" || g.verse);
+    const candles = () => Math.max(0, STATIONS.filter((x) => st.good[x.id]).length + (st.won ? 1 : 0) + (st.won && st.wonEarly ? 1 : 0) - st.guesses.filter((x) => x !== "✓").length);
+    const maxC = STATIONS.length + 2;
+    const over = () => st.won || st.guesses.filter((x) => x !== "✓").length >= 3 && Object.keys(st.done).length >= STATIONS.length;
+    const clue = (id) => ({
+      word: `${X("Role", "Función")}: ${g.mask(g.p.role)} · ${X("Era", "Época")}: ${g.p.era}`,
+      place: `${g.mask(g.ev.q.replace(/^(Where|Dónde)\s*/i, ""))} ${X("It happened at", "Ocurrió en")} ${g.pl.name}.`,
+      verse: g.verse ? `${g.verse.text.replace("_____", g.verse.ans)} (${C().refLabel(g.verse.ref)})` : "",
+      family: `${X("Relatives", "Familiares")}: ${g.family.right.map((id) => P[id].name).join(", ")}`,
+    }[id]);
+    root.innerHTML = `<div class="game pilgrim">
+      <div class="ghead"><button class="back" data-go="play">‹ ${X("Games", "Juegos")}</button><h1>${X("Pilgrimage", "Peregrinación")}</h1><span class="qmeta">#${n}</span></div>
+      <p class="lede">${X("Someone from Scripture is today's pilgrim. Visit the four stations; each one you complete reveals a clue. Name the pilgrim as early as you can to light more candles.", "Un personaje de la Escritura es el peregrino de hoy. Visita las cuatro estaciones; cada una que completes revela una pista. Adivina quién es lo antes posible para encender más velas.")}</p>
+      <div class="candles" id="pcand"></div>
+      <ol class="stations" id="pst"></ol>
+      <div class="pguess" id="pguess"></div>
+      <div id="pdone"></div></div>`;
+    function drawCandles() { const c = candles(); $("#pcand", root).innerHTML = Array.from({ length: maxC }, (_, i) => `<span class="cdl ${i < c ? "lit" : ""}" aria-hidden="true"></span>`).join("") + `<span class="qmeta">${c} / ${maxC} ${X("candles", "velas")}</span>`; }
+    function drawStations() {
+      $("#pst", root).innerHTML = STATIONS.map((x, i) => {
+        const done = st.done[x.id];
+        return `<li class="station${done ? " done" : ""}${!done && !over() && i === firstOpen() ? " open" : ""}" data-st="${x.id}">
+          <div class="sthead"><span class="sticon">${x.icon}</span><b>${esc(x.name)}</b>${done ? `<span class="qmeta">${st.good[x.id] ? "✓" : "·"}</span>` : ""}</div>
+          ${done ? `<p class="clue">${esc(clue(x.id))}</p>` : `<p class="qmeta">${esc(x.hint)}</p><div class="stbody"></div>`}</li>`;
+      }).join("");
+      const open = root.querySelector(".station.open .stbody");
+      if (open) mountStation(open.closest(".station").dataset.st, open);
+    }
+    const firstOpen = () => STATIONS.findIndex((x) => !st.done[x.id]);
+    function finishStation(id, good) { st.done[id] = true; st.good[id] = good; save(); refresh(); }
+    function mountStation(id, el) {
+      if (id === "word") {
+        let cur = [];
+        const letters = [...g.scr];
+        const draw = () => {
+          el.innerHTML = `<div class="tiles">${letters.map((ch, i) => `<button class="lt${cur.includes(i) ? " used" : ""}" data-i="${i}">${ch}</button>`).join("")}</div>
+            <div class="answer">${cur.map((i) => letters[i]).join("") || "&nbsp;"}</div>
+            <div class="gbtns"><button class="ghost small" id="wback">⌫</button><button class="ghost small" id="wskip">${X("Reveal", "Revelar")}</button></div>`;
+          el.querySelectorAll(".lt").forEach((b) => b.onclick = () => { const i = +b.dataset.i; if (cur.includes(i)) return; cur.push(i); if (cur.length === letters.length) { const w = cur.map((k) => letters[k]).join(""); if (w === g.word) return finishStation("word", true); cur = []; el.querySelector(".answer")?.classList.add("shake"); } draw(); });
+          el.querySelector("#wback").onclick = () => { cur.pop(); draw(); };
+          el.querySelector("#wskip").onclick = () => finishStation("word", false);
+        };
+        draw();
+      } else if (id === "place") {
+        el.innerHTML = `<p><b>${esc(g.mask(g.ev.q))}</b></p><div class="tapmap small"><svg role="img" aria-label="Map"></svg></div><div class="gbtns"><button class="qnext" disabled>${X("Lock in", "Confirmar")}</button></div>`;
+        const svgEl = el.querySelector("svg"), btn = el.querySelector("button");
+        const near = g.pl.lon >= 33.6 && g.pl.lon <= 37.2 && g.pl.lat >= 29.3 && g.pl.lat <= 33.9;
+        const b = near ? [33.6, 29.3, 37.2, 33.9] : [9, 21, 56, 44];
+        requestAnimationFrame(() => {
+          const W = svgEl.clientWidth || 600, H = svgEl.clientHeight || 320;
+          svgEl.setAttribute("viewBox", `0 0 ${W} ${H}`);
+          const proj = d3.geoMercator().fitSize([W, H], { type: "MultiPoint", coordinates: [[b[0], b[1]], [b[2], b[3]]] });
+          const path = d3.geoPath(proj), svg = d3.select(svgEl);
+          svg.append("rect").attr("class", "sea").attr("width", W).attr("height", H);
+          svg.append("path").attr("class", "land").attr("d", path(GEO.land));
+          svg.selectAll(".lake").data(GEO.water.features).join("path").attr("class", "lake").attr("d", path);
+          let pin = null;
+          svg.on("click", (e) => { const [x, y] = d3.pointer(e, svgEl); pin = proj.invert([x, y]); svg.selectAll(".pin").remove(); svg.append("circle").attr("class", "pin").attr("cx", x).attr("cy", y).attr("r", 6); btn.disabled = false; });
+          btn.onclick = () => {
+            const d = haversine(pin, [g.pl.lon, g.pl.lat]);
+            const a = proj([g.pl.lon, g.pl.lat]);
+            svg.append("circle").attr("class", "ans").attr("cx", a[0]).attr("cy", a[1]).attr("r", 6);
+            btn.disabled = true;
+            setTimeout(() => finishStation("place", d <= (near ? 25 : 300)), 900);
+          };
+        });
+      } else if (id === "verse") {
+        el.innerHTML = `<p class="vq">“${esc(g.verse.text)}” <span class="qmeta">${esc(C().refLabel(g.verse.ref))}</span></p><div class="qopts">${g.verse.opts.map((o) => `<button data-o="${esc(o)}">${esc(o)}</button>`).join("")}</div>`;
+        el.querySelectorAll("[data-o]").forEach((b) => b.onclick = () => finishStation("verse", b.dataset.o === g.verse.ans));
+      } else if (id === "family") {
+        const sel = new Set();
+        const draw = () => {
+          el.innerHTML = `<p>${X(`Choose the ${g.family.right.length} relatives of today's pilgrim.`, `Elige a los ${g.family.right.length} familiares del peregrino de hoy.`)}</p>
+            <div class="chips">${g.family.opts.map((id) => `<button class="pchip${sel.has(id) ? " on" : ""}" data-f="${id}">${esc(P[id].name)}</button>`).join("")}</div>
+            <div class="gbtns"><button class="qnext" id="fok" ${sel.size === g.family.right.length ? "" : "disabled"}>${X("Check", "Comprobar")}</button></div>`;
+          el.querySelectorAll("[data-f]").forEach((b) => b.onclick = () => { const id = b.dataset.f; sel.has(id) ? sel.delete(id) : sel.size < g.family.right.length && sel.add(id); draw(); });
+          el.querySelector("#fok").onclick = () => finishStation("family", g.family.right.every((id) => sel.has(id)));
+        };
+        draw();
+      }
+    }
+    function drawGuess() {
+      if (over()) { $("#pguess", root).innerHTML = ""; return; }
+      const len = g.p.name.length;
+      $("#pguess", root).innerHTML = `<form id="pgf" class="findform"><label for="pgi">${X("Who is the pilgrim?", "¿Quién es el peregrino?")}</label>
+        <input id="pgi" autocomplete="off" maxlength="${len}" placeholder="${"_ ".repeat(len).trim()}" aria-label="${len} letters"><button class="qnext">${X("Guess", "Adivinar")}</button></form>
+        <p class="qmeta">${len} ${X("letters", "letras")} · ${X("wrong guesses blow out a candle", "cada error apaga una vela")}${st.guesses.length ? ` · ${st.guesses.filter((x) => x !== "✓").map(esc).join(", ")}` : ""}</p>`;
+      $("#pgf", root).onsubmit = (e) => {
+        e.preventDefault();
+        const v = $("#pgi", root).value.trim();
+        if (!v) return;
+        if (g.names.some((nm) => nm.toLowerCase() === v.toLowerCase())) { st.won = true; st.wonEarly = Object.keys(st.done).length < STATIONS.length; st.guesses.push("✓"); for (const x of STATIONS) st.done[x.id] = true; }
+        else st.guesses.push(v);
+        save(); refresh();
+      };
+    }
+    function finish() {
+      if (!over()) { $("#pdone", root).innerHTML = ""; return; }
+      const c = candles();
+      if (!playedToday("pilgrim")) record("pilgrim", { won: st.won, candles: c });
+      $("#pdone", root).innerHTML = `<div class="qcard"><span class="eyebrow">${st.won ? X("You found today's pilgrim", "Encontraste al peregrino de hoy") : X("Today's pilgrim was", "El peregrino de hoy era")}</span>
+        <h2>${esc(g.p.name)}</h2><p>${esc(g.p.summary)}</p><div class="chips">${C().chip(g.p.id)}</div>
+        <p class="qmeta">${c} / ${maxC} ${X("candles", "velas")} · ${X("Streak", "Racha")}: ${streak("pilgrim")}</p>
+        <button class="qnext" id="pshare">${X("Share result", "Compartir resultado")}</button></div>`;
+      $("#pshare", root).onclick = (e) => share(`The Daily Catholic · ${X("Pilgrimage", "Peregrinación")} #${n}\n${STATIONS.map((x) => (st.good[x.id] ? "🕯️" : "▫️")).join("")}${st.won ? (st.wonEarly ? " ✨" : " ✝️") : " ✖️"}  ${c}/${maxC}\n${SITE}`, e.target);
+    }
+    function refresh() { drawCandles(); drawStations(); drawGuess(); finish(); }
+    refresh();
+  }
+
   /* =====================================================================
      HUB
      ===================================================================== */
   const GAMES = [
+    { id: "pilgrim", get name() { return X("Pilgrimage", "Peregrinación"); }, get desc() { return X("Our signature game: four stations, one hidden figure from Scripture.", "Nuestro juego principal: cuatro estaciones, un personaje bíblico oculto."); }, needs: "places" },
     { id: "loaves", name: "Five Loaves", get desc() { return X("Guess the five-letter word of faith in six tries.", "Adivina la palabra de fe de cinco letras en seis intentos."); }, needs: "wordle" },
-    { id: "threads", name: "Threads", get desc() { return X("Find the hidden names in a grid of letters. One spangram names today's theme.", "Encuentra los nombres ocultos en una cuadrícula de letras. Una palabra clave nombra el tema."); }, needs: "themes" },
+    { id: "threads", name: "Threads", get desc() { return X("Find the hidden names in a grid of letters. One golden thread names today's theme.", "Encuentra los nombres ocultos en una cuadrícula de letras. Un hilo de oro nombra el tema."); }, needs: "themes" },
     { id: "links", name: "Lineage Links", get desc() { return X("Sixteen people, four hidden groups. Find what connects them.", "Dieciséis personas, cuatro grupos ocultos. Descubre qué los une."); }, needs: "themes" },
     { id: "acrostic", name: "Hidden Name", get desc() { return X("Solve the clues; their first letters spell a mystery figure.", "Resuelve las pistas; sus primeras letras forman un nombre misterioso."); }, needs: null },
     { id: "tap", name: "Holy Land Tap", get desc() { return X("Five moments from Scripture. Tap where on the map they happened.", "Cinco momentos de la Escritura. Toca en el mapa dónde ocurrieron."); }, needs: "places" },
@@ -606,10 +782,11 @@
       if (view === "threads" || view === "links") { await themes(); return view === "threads" ? renderThreads(root) : renderLinks(root); }
       if (view === "acrostic") return renderAcrostic(root);
       if (view === "loaves") return renderLoaves(root);
+      if (view === "pilgrim") return renderPilgrimage(root);
       if (view === "tap") return renderTap(root);
     } catch (e) {
       root.innerHTML = `<p class="loading">This game could not load (${esc(e.message)}). Reload to try again.</p>`;
     }
   }
-  window.BPM_GAMES = { mount, playedToday, streak, GAMES, dayKey, _score: scoreGuess, _build: { threads: buildThreads, links: buildLinks, acrostic: buildAcrostic } };
+  window.BPM_GAMES = { mount, playedToday, streak, GAMES, dayKey, _score: scoreGuess, _pilgrim: (d) => pickPilgrim(d), _build: { threads: buildThreads, links: buildLinks, acrostic: buildAcrostic } };
 })();
