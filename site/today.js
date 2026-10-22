@@ -86,11 +86,12 @@
       ${saints.filter((id) => !sotd.some(({ s }) => (s.people || []).includes(id))).length ? `<section class="tsec"><h2>${esc(T("biblicalSaints"))}</h2><div class="chips">${saints.map((id) => ctx.chip(id)).join("")}</div></section>` : ""}
 
       <section class="tsec"><h2>${rdate === dk ? esc(T("todayReadings")) : `${esc(T("sundayReadings"))} · ${new Date(rdate + "T12:00").toLocaleDateString(loc, { month: "long", day: "numeric" })}`}</h2>
-        ${rd ? `<p class="qmeta">${esc(celTitle(rday[4][0], rday))}${rd.confidence && rd.confidence !== "high" ? ` · ${esc(T("unverified"))}` : ""}</p>
+        ${rd ? `<p class="qmeta">${esc(rd.title ? L(rd.title) : celTitle(rday[4][0], rday))}${rd.confidence && rd.confidence !== "high" ? ` · ${esc(T("unverified"))}` : ""}</p>
+          ${rd.note ? `<p>${esc(L(rd.note))}</p>` : ""}
           ${T("scriptureEnglish") ? `<p class="qmeta">${esc(T("scriptureEnglish"))}</p>` : ""}
-          <div class="readings">${[["firstReading", rd.first], ["psalm", rd.psalm], ["secondReading", rd.second], ["gospel", rd.gospel]].filter(([, r]) => r).map(([lbl, ref]) => {
+          <div class="readings">${[["firstReading", rd.first], ["psalm", rd.psalm], ["secondReading", rd.second], ["gospel", rd.gospel], ...(rd.extra || []).map((x) => [x.label, x.ref])].filter(([, r]) => r).map(([lbl, ref]) => {
             const r = ctx.parseRef(ref), who = peopleInRange(r).slice(0, 10);
-            return `<details class="reading"><summary><span class="eyebrow">${esc(T(lbl))}</span> <b>${esc(ctx.refLabel(ref))}</b>${who.length ? `<span class="who">${who.slice(0, 4).map((id) => esc(P[id].name)).join(", ")}${who.length > 4 ? "…" : ""}</span>` : ""}</summary>
+            return `<details class="reading"><summary><span class="eyebrow">${esc(typeof lbl === "string" ? T(lbl) : L(lbl))}</span> <b>${esc(ctx.refLabel(ref))}</b>${who.length ? `<span class="who">${who.slice(0, 4).map((id) => esc(P[id].name)).join(", ")}${who.length > 4 ? "…" : ""}</span>` : ""}</summary>
               <div class="passage"><p>${r ? ctx.verses(r).map((v) => `<sup>${v.v}</sup>${esc(v.t)}`).join(" ") : ""}</p><button class="ghost small" data-speak-ref="${esc(ref)}">${esc(T("listen"))}</button></div>
               ${who.length ? `<div class="chips"><span class="qmeta">${esc(T("peopleInReading"))}</span>${who.map((id) => ctx.chip(id)).join("")}</div>` : ""}</details>`;
           }).join("")}</div>
@@ -199,7 +200,7 @@
       ctx.store.set("bpm.remind", { time });
       const [h, m] = time.split(":").map(Number);
       const title = window.I18N.lang === "es" ? "The Daily Catholic: lecturas y juegos de hoy" : "The Daily Catholic: today's readings and games";
-      const url = "https://scarusillo.github.io/Daily-Catholic/#today";
+      const url = (window.BPM_CONFIG?.siteUrl || "https://scarusillo.github.io/Daily-Catholic/") + "#today";
       if (LN) {
         try {
           await LN.requestPermissions();

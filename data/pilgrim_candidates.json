@@ -1,0 +1,862 @@
+[
+ {
+  "id": "esau",
+  "name": "Esau",
+  "role": "Elder son of Isaac; ancestor of Edom",
+  "era": "Patriarchs",
+  "summary": "The elder twin of Isaac and Rebekah, a red and hairy hunter loved by Isaac. He sold his birthright to Jacob for a meal of lentil stew and later lost his father's blessing to Jacob's deception, vowing to kill him. Twenty years later he ran to meet Jacob and embraced him, and he settled in Seir; he is the father of the Edomites.",
+  "keyPassages": [
+   "gen 25:24-34",
+   "gen 26:34-35",
+   "gen 27:30-41",
+   "gen 33:1-16",
+   "gen 36:1-8",
+   "heb 12:16-17",
+   "rom 9:10-13"
+  ]
+ },
+ {
+  "id": "eleazar-son-of-aaron",
+  "name": "Eleazar",
+  "role": "High priest",
+  "era": "Exodus & Wilderness",
+  "summary": "Third son of Aaron, who succeeded his father as high priest when Moses transferred Aaron's vestments to him on Mount Hor. He took the census on the plains of Moab, commissioned Joshua with Moses, and with Joshua divided the land among the tribes; he was buried in the hill country of Ephraim.",
+  "keyPassages": [
+   "exo 6:23",
+   "exo 6:25",
+   "num 3:32",
+   "num 20:25-28",
+   "num 27:18-23",
+   "jos 14:1",
+   "jos 24:33"
+  ]
+ },
+ {
+  "id": "zedekiah-king-of-judah",
+  "name": "Zedekiah",
+  "role": "Last King of Judah",
+  "era": "Divided Kingdom",
+  "summary": "Zedekiah (Mattaniah), son of Josiah and uncle of Jehoiachin, was installed by Nebuchadnezzar and renamed. Weak and vacillating, he consulted Jeremiah secretly yet let him be imprisoned, and finally rebelled against Babylon. After an eighteen-month siege Jerusalem fell in 587/586 BC; Zedekiah fled, was captured near Jericho, saw his sons killed at Riblah, was blinded and taken to Babylon in chains.",
+  "keyPassages": [
+   "2ki 24:17-25:7",
+   "2ch 36:10-21",
+   "jer 37:16-21",
+   "jer 38:14-28",
+   "jer 52:1-11"
+  ]
+ },
+ {
+  "id": "isaiah",
+  "name": "Isaiah",
+  "role": "Prophet",
+  "era": "Divided Kingdom",
+  "summary": "Isaiah son of Amoz prophesied in Jerusalem in the days of Uzziah, Jotham, Ahaz and Hezekiah (8th century BC). Called in a vision of the thrice-holy Lord in the Temple, he urged King Ahaz to trust God rather than Assyria, gave him the sign of the virgin who would bear a son named Immanuel, and later strengthened Hezekiah during Sennacherib's siege and his illness. The book bearing his name also contains the Servant Songs and the great oracles of comfort and of the new Jerusalem.",
+  "keyPassages": [
+   "isa 6:1-8",
+   "isa 7:10-17",
+   "isa 9:2-7",
+   "isa 11:1-10",
+   "isa 40:1-11",
+   "isa 52:13-53:12",
+   "isa 61:1-3",
+   "2ki 20:1-11"
+  ]
+ },
+ {
+  "id": "asa",
+  "name": "Asa",
+  "role": "King of Judah",
+  "era": "Divided Kingdom",
+  "summary": "Asa son of Abijah reigned forty-one years and 'did what was right'. He removed idols and male cult prostitutes, deposed the queen mother Maacah for her Asherah image, and defeated Zerah the Ethiopian by relying on the LORD. Later he bribed Ben-hadad of Damascus against Baasha, imprisoned the seer Hanani who rebuked him, and in his foot disease sought physicians rather than the LORD.",
+  "keyPassages": [
+   "1ki 15:9-24",
+   "2ch 14:2-15",
+   "2ch 15:1-19",
+   "2ch 16:1-14",
+   "mat 1:7-8"
+  ]
+ },
+ {
+  "id": "job",
+  "name": "Job",
+  "role": "Righteous sufferer",
+  "era": "Patriarchs",
+  "summary": "A blameless and upright man of the land of Uz, the greatest of the people of the east. With God's permission Satan stripped him of his possessions, his ten children and his health. Job refused to curse God, but in long poetic dialogues with his three friends he protested his innocence and demanded an answer. God spoke from the whirlwind, Job repented in dust and ashes, interceded for his friends and was restored twofold.",
+  "keyPassages": [
+   "job 1:1-22",
+   "job 2:1-10",
+   "job 3:1-26",
+   "job 19:23-27",
+   "job 38:1-11",
+   "job 42:1-17",
+   "ezk 14:14",
+   "jas 5:11"
+  ]
+ },
+ {
+  "id": "josiah",
+  "name": "Josiah",
+  "role": "King of Judah",
+  "era": "Divided Kingdom",
+  "summary": "Josiah son of Amon became king at eight and reigned thirty-one years, the great reforming king. While the Temple was being repaired the high priest Hilkiah found the book of the law; Josiah tore his clothes, consulted the prophetess Huldah, read the covenant to the people and renewed it, purged idolatry from Jerusalem to Bethel (fulfilling a prophecy made three centuries earlier) and celebrated an unequalled Passover. He was killed at Megiddo opposing Pharaoh Necoh, and Jeremiah lamented him.",
+  "keyPassages": [
+   "2ki 22:1-20",
+   "2ki 23:1-30",
+   "2ch 34:1-33",
+   "2ch 35:1-27",
+   "1ki 13:2",
+   "sir 49:1-4"
+  ]
+ },
+ {
+  "id": "haman",
+  "name": "Haman",
+  "role": "Persian chief minister",
+  "era": "Return & Restoration",
+  "summary": "Son of Hammedatha (called 'the Bugaean', and in the Greek letter 'the Macedonian'), exalted above all the king's princes. Enraged that Mordecai would not bow to him, he cast lots (purim) and obtained a royal decree to destroy all the Jews of the empire, built a gallows for Mordecai, and was instead hanged on it when Esther exposed him.",
+  "keyPassages": [
+   "est 3:1-15",
+   "est 5:9-14",
+   "est 6:6-14",
+   "est 7:1-10",
+   "est 9:24-25",
+   "est 10:7"
+  ]
+ },
+ {
+  "id": "asaph",
+  "name": "Asaph",
+  "role": "Levite musician, psalmist",
+  "era": "United Monarchy",
+  "summary": "Asaph son of Berechiah, a Levite of the Gershonite line, was appointed by David as chief of the Temple singers with cymbals. Twelve psalms bear his name (Ps 50 and 73-83), and his descendants, 'the sons of Asaph', served as singers down to the return from exile. He is also called 'the seer'.",
+  "keyPassages": [
+   "1ch 6:39",
+   "1ch 15:16-19",
+   "1ch 16:4-7",
+   "1ch 25:1-2",
+   "2ch 29:30",
+   "ezr 3:10",
+   "neh 12:46",
+   "psa 50:1-23",
+   "psa 73:1-28"
+  ]
+ },
+ {
+  "id": "zadok",
+  "name": "Zadok",
+  "role": "High Priest",
+  "era": "United Monarchy",
+  "summary": "Zadok son of Ahitub, a priest descended from Eleazar son of Aaron, served alongside Abiathar under David and carried the Ark when David fled Absalom. He stayed loyal when Abiathar backed Adonijah, anointed Solomon king at the Gihon spring, and became sole chief priest; his descendants held the high priesthood until the Exile.",
+  "keyPassages": [
+   "2sa 8:17",
+   "2sa 15:24-29",
+   "1ki 1:32-40",
+   "1ki 2:35",
+   "1ch 6:8",
+   "ezk 44:15"
+  ]
+ },
+ {
+  "id": "merari",
+  "name": "Merari",
+  "role": "Patriarch of the Merarite Levites",
+  "era": "Patriarchs",
+  "summary": "Third son of Levi. His descendants, the Merarites, carried the boards, bars, pillars and sockets of the tabernacle.",
+  "keyPassages": [
+   "gen 46:11",
+   "exo 6:16",
+   "exo 6:19",
+   "num 3:33-37",
+   "num 4:29-33"
+  ]
+ },
+ {
+  "id": "ahaz",
+  "name": "Ahaz",
+  "role": "King of Judah",
+  "era": "Divided Kingdom",
+  "summary": "Ahaz son of Jotham reigned sixteen years and did evil, even making his son pass through the fire. When Rezin of Syria and Pekah of Israel attacked Jerusalem, he refused Isaiah's call to trust God and ask a sign, and instead made himself a vassal of Tiglath-pileser of Assyria, copying a Damascus altar for the Temple and closing the Temple's doors.",
+  "keyPassages": [
+   "2ki 16:1-20",
+   "2ch 28:1-27",
+   "isa 7:1-17",
+   "mat 1:9"
+  ]
+ },
+ {
+  "id": "jehoiakim",
+  "name": "Jehoiakim",
+  "role": "King of Judah",
+  "era": "Divided Kingdom",
+  "summary": "Jehoiakim (Eliakim), son of Josiah, was installed by Pharaoh Necoh and taxed the land to pay him; he then served Nebuchadnezzar and rebelled. He persecuted the prophets, killing Uriah son of Shemaiah, and cut up and burned Jeremiah's scroll in his brazier column by column. He reigned eleven years.",
+  "keyPassages": [
+   "2ki 23:34-24:6",
+   "2ch 36:4-8",
+   "jer 22:13-19",
+   "jer 36:20-32",
+   "dan 1:1-2"
+  ]
+ },
+ {
+  "id": "amaziah-king-of-judah",
+  "name": "Amaziah",
+  "role": "King of Judah",
+  "era": "Divided Kingdom",
+  "summary": "Amaziah son of Joash reigned twenty-nine years. He executed his father's assassins but, following the law, spared their children; he defeated Edom in the Valley of Salt but then worshipped Edom's gods. Provoking Jehoash of Israel to battle, he was defeated and Jerusalem's wall broken; he was later murdered at Lachish.",
+  "keyPassages": [
+   "2ki 14:1-20",
+   "2ch 25:1-28"
+  ]
+ },
+ {
+  "id": "leah",
+  "name": "Leah",
+  "role": "Matriarch",
+  "era": "Patriarchs",
+  "summary": "Laban's elder daughter, with 'weak' or tender eyes, given to Jacob in place of Rachel on the wedding night. Less loved than her sister, she was blessed with children: Reuben, Simeon, Levi, Judah, Issachar, Zebulun and Dinah, and through her servant Zilpah, Gad and Asher. She was buried at Machpelah beside Jacob's fathers.",
+  "keyPassages": [
+   "gen 29:16-35",
+   "gen 30:9-21",
+   "gen 49:31",
+   "rut 4:11"
+  ]
+ },
+ {
+  "id": "judith",
+  "name": "Judith",
+  "role": "Heroine of Israel",
+  "era": "Return & Restoration",
+  "summary": "A devout and beautiful widow of Bethulia who, when the city was about to surrender to Holofernes' besieging army, rebuked the elders for putting God to the test, prayed, and went into the enemy camp. After four days she cut off the drunken Holofernes' head with his own sword and returned with it, and the Assyrian army fled. She sang a hymn of victory, refused remarriage and died at 105.",
+  "keyPassages": [
+   "jdt 8:1-36",
+   "jdt 9:1-14",
+   "jdt 10:1-23",
+   "jdt 13:1-20",
+   "jdt 15:8-13",
+   "jdt 16:1-25"
+  ]
+ },
+ {
+  "id": "nun",
+  "name": "Nun",
+  "role": "Ephraimite, father of Joshua",
+  "era": "Exodus & Wilderness",
+  "summary": "Man of the tribe of Ephraim, father of Joshua. 1 Chronicles 7 places him in the line of Ephraim as son of Elishama son of Ammihud.",
+  "keyPassages": [
+   "num 13:8",
+   "1ch 7:26-27"
+  ]
+ },
+ {
+  "id": "abiathar",
+  "name": "Abiathar",
+  "role": "Priest",
+  "era": "United Monarchy",
+  "summary": "Abiathar son of Ahimelech alone escaped Saul's massacre of the priests of Nob and fled to David with the ephod. He served as priest beside Zadok throughout David's reign and stayed loyal during Absalom's revolt, but backed Adonijah's bid for the throne; Solomon spared his life but banished him to Anathoth, fulfilling the word spoken against Eli's house.",
+  "keyPassages": [
+   "1sa 22:20-23",
+   "1sa 23:6-9",
+   "2sa 15:24-29",
+   "1ki 1:7",
+   "1ki 2:26-27",
+   "mrk 2:26"
+  ]
+ },
+ {
+  "id": "kohath",
+  "name": "Kohath",
+  "role": "Patriarch of the Kohathite Levites",
+  "era": "Patriarchs",
+  "summary": "Second son of Levi, who went down to Egypt with Jacob's household. He was the grandfather of Moses, Aaron and Miriam, and his descendants, the Kohathites, were charged with carrying the most holy things of the tabernacle, including the ark.",
+  "keyPassages": [
+   "gen 46:11",
+   "exo 6:16-20",
+   "num 3:27-31",
+   "exo 6:16-18",
+   "num 4:1-20",
+   "1ch 6:1-3"
+  ]
+ },
+ {
+  "id": "jehoiada-priest",
+  "name": "Jehoiada",
+  "role": "High Priest",
+  "era": "Divided Kingdom",
+  "summary": "Jehoiada the priest, husband of Jehosheba, guarded the hidden Joash in the Temple and in the seventh year organised the guard, crowned and anointed the boy king, had Athaliah executed, destroyed the temple of Baal and renewed the covenant. Joash did right all his days; Jehoiada died at 130 and was buried among the kings.",
+  "keyPassages": [
+   "2ki 11:4-21",
+   "2ki 12:2",
+   "2ch 23:1-21",
+   "2ch 24:15-16"
+  ]
+ },
+ {
+  "id": "manasseh-son-of-joseph",
+  "name": "Manasseh",
+  "role": "Son of Joseph",
+  "era": "Patriarchs",
+  "summary": "Joseph's firstborn by Asenath, named because 'God has made me forget all my toil'. Jacob adopted him and Ephraim as his own sons but, crossing his hands, gave the greater blessing to the younger Ephraim.",
+  "keyPassages": [
+   "gen 41:50-51",
+   "gen 46:20",
+   "gen 48:1-20",
+   "gen 50:23",
+   "heb 11:21"
+  ]
+ },
+ {
+  "id": "jehoiachin",
+  "name": "Jehoiachin",
+  "role": "King of Judah",
+  "era": "Exile",
+  "summary": "Jehoiachin (Jeconiah, Coniah), son of Jehoiakim, reigned three months at eighteen before surrendering Jerusalem to Nebuchadnezzar in 597 BC. He was taken to Babylon with his mother, officials, craftsmen and the Temple treasures. Jeremiah declared that none of his offspring would sit on David's throne, yet after thirty-seven years Evilmerodach released him from prison and gave him a seat at the king's table - a sign that David's line endured.",
+  "keyPassages": [
+   "2ki 24:8-17",
+   "2ki 25:27-30",
+   "jer 22:24-30",
+   "1ch 3:16-18",
+   "ezk 1:2",
+   "mat 1:11-12"
+  ]
+ },
+ {
+  "id": "jephthah",
+  "name": "Jephthah",
+  "role": "Judge of Israel",
+  "era": "Conquest & Judges",
+  "summary": "Mighty warrior of Gilead, son of Gilead by a prostitute, driven out by his half-brothers and living as a raider in Tob. When Ammon attacked, the elders of Gilead made him their head. After arguing Israel's case to the Ammonite king, he made a rash vow to offer whatever first came out of his house if he returned victorious; he defeated Ammon, and his only daughter came out to meet him. He judged Israel six years.",
+  "keyPassages": [
+   "jdg 11:1-11",
+   "jdg 11:29-40",
+   "jdg 12:1-7",
+   "1sa 12:11",
+   "heb 11:32"
+  ]
+ },
+ {
+  "id": "nebat",
+  "name": "Nebat",
+  "role": "Father of Jeroboam",
+  "era": "United Monarchy",
+  "summary": "Nebat, an Ephraimite of Zeredah, was the father of Jeroboam I, who is constantly called 'Jeroboam the son of Nebat'.",
+  "keyPassages": [
+   "1ki 11:26"
+  ]
+ },
+ {
+  "id": "zerubbabel",
+  "name": "Zerubbabel",
+  "role": "Governor of Judah",
+  "era": "Return & Restoration",
+  "summary": "A grandson of King Jehoiachin who led the first great return of exiles from Babylon under Cyrus and served as Persian governor of Judah. With the high priest Jeshua he rebuilt the altar and laid the foundation of the Second Temple, and, spurred on by the prophets Haggai and Zechariah, finished the Temple in the reign of Darius (515 BC).",
+  "keyPassages": [
+   "ezr 3:1-13",
+   "ezr 5:1-2",
+   "hag 1:1-15",
+   "hag 2:20-23",
+   "zec 4:6-10",
+   "sir 49:11",
+   "mat 1:12-13",
+   "luk 3:27"
+  ]
+ },
+ {
+  "id": "zeruiah",
+  "name": "Zeruiah",
+  "role": "Sister of David",
+  "era": "United Monarchy",
+  "summary": "Zeruiah, David's sister, was the mother of his three fierce commanders Abishai, Joab and Asahel, who are usually named after her.",
+  "keyPassages": [
+   "1ch 2:16",
+   "2sa 2:18",
+   "2sa 3:39"
+  ]
+ },
+ {
+  "id": "adonijah",
+  "name": "Adonijah",
+  "role": "Son of David, claimant to the throne",
+  "era": "United Monarchy",
+  "summary": "Adonijah, David's fourth son by Haggith, tried to make himself king as David lay dying, backed by Joab and Abiathar. Nathan and Bathsheba secured Solomon's anointing instead; Adonijah was spared, but when he asked for David's companion Abishag as wife, Solomon saw a claim to the throne and had him executed.",
+  "keyPassages": [
+   "2sa 3:4",
+   "1ki 1:5-10",
+   "1ki 1:41-53",
+   "1ki 2:13-25"
+  ]
+ },
+ {
+  "id": "benjamin",
+  "name": "Benjamin",
+  "role": "Youngest son of Jacob",
+  "era": "Patriarchs",
+  "summary": "Rachel's second son, born near Bethlehem as she died; she named him Benoni ('son of my sorrow'), but Jacob called him Benjamin ('son of the right hand'). Jacob kept him at home when the brothers first went to Egypt; Joseph then demanded him, favoured him with five portions, and tested the brothers by planting his silver cup in Benjamin's sack.",
+  "keyPassages": [
+   "gen 35:16-18",
+   "gen 42:4",
+   "gen 43:29-34",
+   "gen 44:1-34",
+   "gen 45:14",
+   "gen 49:27",
+   "rom 11:1",
+   "php 3:5"
+  ]
+ },
+ {
+  "id": "manasseh-king-of-judah",
+  "name": "Manasseh",
+  "role": "King of Judah",
+  "era": "Divided Kingdom",
+  "summary": "Manasseh son of Hezekiah reigned fifty-five years, the longest of any king of Judah, and was its most wicked: he rebuilt the high places, set altars to the host of heaven in the Temple, burned his son as an offering, practised sorcery and 'shed very much innocent blood'. Kings blames the Exile on his sins; Chronicles adds that he was taken in chains to Babylon, humbled himself and prayed, and was restored, then removed foreign gods.",
+  "keyPassages": [
+   "2ki 21:1-18",
+   "2ki 23:26-27",
+   "2ch 33:1-20",
+   "jer 15:4",
+   "mat 1:10"
+  ]
+ },
+ {
+  "id": "shaphan",
+  "name": "Shaphan",
+  "role": "Royal scribe",
+  "era": "Divided Kingdom",
+  "summary": "Shaphan son of Azaliah, Josiah's scribe, received the book of the law from Hilkiah and read it before the king. His family were Jeremiah's protectors: his son Ahikam and grandson Gedaliah.",
+  "keyPassages": [
+   "2ki 22:3-14",
+   "2ch 34:15-21"
+  ]
+ },
+ {
+  "id": "korah",
+  "name": "Korah",
+  "role": "Levite rebel",
+  "era": "Exodus & Wilderness",
+  "summary": "Levite, son of Izhar and cousin of Moses and Aaron. With Dathan, Abiram, On and 250 leaders he challenged the authority of Moses and the priesthood of Aaron, claiming that all the congregation was holy. The earth swallowed the rebels' households and fire consumed the 250 who offered incense, but Korah's sons did not die.",
+  "keyPassages": [
+   "num 16:1-35",
+   "num 26:9-11",
+   "sir 45:18-19",
+   "jud 1:11"
+  ]
+ },
+ {
+  "id": "abijah-king-of-judah",
+  "name": "Abijah",
+  "role": "King of Judah",
+  "era": "Divided Kingdom",
+  "summary": "Abijah (Abijam) son of Rehoboam reigned three years. Kings judges him as walking in his father's sins, while Chronicles records his speech on Mount Zemaraim defending the Davidic covenant and the true priesthood before defeating Jeroboam.",
+  "keyPassages": [
+   "1ki 15:1-8",
+   "2ch 13:1-22",
+   "mat 1:7"
+  ]
+ },
+ {
+  "id": "amnon",
+  "name": "Amnon",
+  "role": "Firstborn son of David",
+  "era": "United Monarchy",
+  "summary": "Amnon, David's firstborn, became obsessed with his half-sister Tamar, raped her by a ruse and then hated her. Two years later her brother Absalom had him killed at a sheep-shearing feast.",
+  "keyPassages": [
+   "2sa 3:2",
+   "2sa 13:1-22",
+   "2sa 13:23-29"
+  ]
+ },
+ {
+  "id": "adam",
+  "name": "Adam",
+  "role": "First man",
+  "era": "Primeval",
+  "summary": "The first man, formed by God from the dust of the ground and given the breath of life, placed in the garden of Eden to till and keep it. With Eve he disobeyed God's command by eating from the tree of the knowledge of good and evil, and they were driven from the garden. He fathered Cain, Abel and Seth, and lived 930 years.",
+  "keyPassages": [
+   "gen 2:7-25",
+   "gen 3:1-24",
+   "gen 5:1-5",
+   "rom 5:12-21",
+   "1co 15:21-22",
+   "1co 15:45-49"
+  ]
+ },
+ {
+  "id": "ahikam",
+  "name": "Ahikam",
+  "role": "Royal official",
+  "era": "Divided Kingdom",
+  "summary": "Ahikam son of Shaphan was among Josiah's delegation to Huldah, and later protected Jeremiah from being put to death.",
+  "keyPassages": [
+   "2ki 22:12-14",
+   "jer 26:24"
+  ]
+ },
+ {
+  "id": "ithamar",
+  "name": "Ithamar",
+  "role": "Priest",
+  "era": "Exodus & Wilderness",
+  "summary": "Youngest son of Aaron. He oversaw the accounting of the tabernacle materials and supervised the Gershonite and Merarite Levites in the wilderness. The priestly house of Ithamar continued alongside that of Eleazar.",
+  "keyPassages": [
+   "exo 6:23",
+   "exo 38:21",
+   "lev 10:6-16",
+   "num 4:28",
+   "num 4:33",
+   "1ch 24:1-4"
+  ]
+ },
+ {
+  "id": "jotham-king-of-judah",
+  "name": "Jotham",
+  "role": "King of Judah",
+  "era": "Divided Kingdom",
+  "summary": "Jotham son of Uzziah governed during his father's leprosy and then reigned sixteen years. He did right, built the upper gate of the Temple and subdued the Ammonites, 'because he ordered his ways before the LORD', though the people still sacrificed on the high places.",
+  "keyPassages": [
+   "2ki 15:32-38",
+   "2ch 27:1-9",
+   "mic 1:1",
+   "mat 1:9"
+  ]
+ },
+ {
+  "id": "ishmael",
+  "name": "Ishmael",
+  "role": "Son of Abraham",
+  "era": "Patriarchs",
+  "summary": "Abraham's son by Hagar, named by the angel because 'the LORD has heard your affliction'. Circumcised at thirteen, he was sent away with his mother after Isaac's birth, grew up in the wilderness as an archer, and married an Egyptian. God blessed him to become a great nation with twelve princes; he and Isaac buried Abraham, and he died at 137.",
+  "keyPassages": [
+   "gen 16:11-16",
+   "gen 17:18-26",
+   "gen 21:9-21",
+   "gen 25:9",
+   "gen 25:12-18"
+  ]
+ },
+ {
+  "id": "phinehas-son-of-eleazar",
+  "name": "Phinehas",
+  "role": "High priest",
+  "era": "Exodus & Wilderness",
+  "summary": "Son of Eleazar and grandson of Aaron. When an Israelite brought a Midianite woman into the camp during the apostasy at Peor, Phinehas killed them both, the plague stopped, and God gave him 'a covenant of an everlasting priesthood'. He later led the delegation to the tribes east of the Jordan and served as priest at Bethel in the days of the judges.",
+  "keyPassages": [
+   "exo 6:25",
+   "num 25:6-13",
+   "num 31:6",
+   "jos 22:13-20",
+   "jos 22:30-32",
+   "jdg 20:27-28",
+   "psa 106:30-31",
+   "sir 45:23-24"
+  ]
+ },
+ {
+  "id": "shem",
+  "name": "Shem",
+  "role": "Son of Noah",
+  "era": "Primeval",
+  "summary": "The eldest son of Noah, who with Japheth covered their father's nakedness respectfully. Noah blessed 'the LORD, the God of Shem'. From him descend Eber, Terah and Abraham; he is the eponymous ancestor of the 'Semitic' peoples.",
+  "keyPassages": [
+   "gen 5:32",
+   "gen 9:18-27",
+   "gen 10:21-31",
+   "gen 11:10-11",
+   "luk 3:36"
+  ]
+ },
+ {
+  "id": "gershon",
+  "name": "Gershon",
+  "role": "Patriarch of the Gershonite Levites",
+  "era": "Patriarchs",
+  "summary": "Eldest son of Levi. His descendants, the Gershonites, carried the curtains and coverings of the tabernacle in the wilderness.",
+  "keyPassages": [
+   "gen 46:11",
+   "exo 6:16-17",
+   "num 3:17-26",
+   "num 3:21-26",
+   "num 4:21-28"
+  ]
+ },
+ {
+  "id": "hilkiah-high-priest",
+  "name": "Hilkiah",
+  "role": "High Priest",
+  "era": "Divided Kingdom",
+  "summary": "Hilkiah, high priest under King Josiah, found 'the book of the law' in the Temple during its repair and gave it to Shaphan the scribe. He led the delegation to the prophetess Huldah and carried out Josiah's purge of idolatrous objects from the Temple.",
+  "keyPassages": [
+   "2ki 22:3-14",
+   "2ki 23:4",
+   "2ch 34:14-22",
+   "1ch 6:13",
+   "ezr 7:1"
+  ]
+ },
+ {
+  "id": "machir",
+  "name": "Machir",
+  "role": "Son of Manasseh",
+  "era": "Patriarchs",
+  "summary": "Firstborn son of Manasseh, born in Egypt and raised on Joseph's knees. His descendants, the Machirites, conquered Gilead east of the Jordan, which Moses gave them.",
+  "keyPassages": [
+   "gen 50:23",
+   "num 26:29",
+   "jos 17:1",
+   "num 32:39-40"
+  ]
+ },
+ {
+  "id": "cain",
+  "name": "Cain",
+  "role": "Firstborn of Adam; first murderer",
+  "era": "Primeval",
+  "summary": "The firstborn son of Adam and Eve, a tiller of the ground. When God accepted Abel's offering but not his, Cain in anger killed his brother in the field, then asked, 'Am I my brother's keeper?' God sent him away as a wanderer but put a mark on him so no one would kill him; he settled in the land of Nod and founded a city named after his son Enoch.",
+  "keyPassages": [
+   "gen 4:1-17",
+   "heb 11:4",
+   "1jn 3:11-12",
+   "jud 1:11"
+  ]
+ },
+ {
+  "id": "michal",
+  "name": "Michal",
+  "role": "Daughter of Saul, wife of David",
+  "era": "United Monarchy",
+  "summary": "Michal, Saul's younger daughter, loved David and became his wife; she saved him by letting him down through a window and deceiving Saul's men with an idol in the bed. Saul gave her to Paltiel, but David reclaimed her when he became king. When she despised David for dancing before the Ark, Scripture notes she had no child to the day of her death.",
+  "keyPassages": [
+   "1sa 18:20-28",
+   "1sa 19:11-17",
+   "1sa 25:44",
+   "2sa 3:13-16",
+   "2sa 6:16-23"
+  ]
+ },
+ {
+  "id": "amon-king-of-judah",
+  "name": "Amon",
+  "role": "King of Judah",
+  "era": "Divided Kingdom",
+  "summary": "Amon son of Manasseh continued his father's idolatry for two years until his servants killed him in his house; the people of the land executed the conspirators and made his son Josiah king.",
+  "keyPassages": [
+   "2ki 21:19-26",
+   "2ch 33:21-25",
+   "mat 1:10"
+  ]
+ },
+ {
+  "id": "athaliah",
+  "name": "Athaliah",
+  "role": "Queen of Judah",
+  "era": "Divided Kingdom",
+  "summary": "Athaliah, daughter of Ahab (granddaughter of Omri), married Jehoram of Judah and was queen mother of Ahaziah. When Jehu killed her son, she seized the throne and massacred the royal family, but the infant Joash was hidden by Jehosheba. After six years the priest Jehoiada crowned Joash in the Temple, and Athaliah, crying 'Treason!', was put to death.",
+  "keyPassages": [
+   "2ki 8:18",
+   "2ki 8:26-27",
+   "2ki 11:1-3",
+   "2ki 11:13-16",
+   "2ch 22:10-12",
+   "2ch 23:12-15"
+  ]
+ },
+ {
+  "id": "hezron",
+  "name": "Hezron",
+  "role": "Patriarch of Judah's line",
+  "era": "Patriarchs",
+  "summary": "Son of Perez and grandson of Judah, who went down to Egypt with Jacob. He heads the genealogy of Ruth 4 that leads to David, and is the ancestor of the Hezronite clan.",
+  "keyPassages": [
+   "gen 46:12",
+   "rut 4:18-19",
+   "1ch 2:5",
+   "1ch 2:9",
+   "mat 1:3",
+   "luk 3:33",
+   "num 26:21"
+  ]
+ },
+ {
+  "id": "perez",
+  "name": "Perez",
+  "role": "Son of Judah; ancestor of David",
+  "era": "Patriarchs",
+  "summary": "Twin son of Judah and Tamar who 'broke through' ahead of his brother Zerah at birth; father of Hezron and Hamul. Through him runs the line of David and of Christ.",
+  "keyPassages": [
+   "gen 38:27-30",
+   "gen 46:12",
+   "rut 4:12",
+   "rut 4:18-22",
+   "mat 1:3",
+   "luk 3:33"
+  ]
+ },
+ {
+  "id": "ephraim",
+  "name": "Ephraim",
+  "role": "Son of Joseph",
+  "era": "Patriarchs",
+  "summary": "Joseph's younger son by Asenath, named because 'God has made me fruitful in the land of my affliction'. Jacob blessed him above his elder brother Manasseh, and his tribe became the leading tribe of the northern kingdom, so that 'Ephraim' later stands for all Israel in the prophets.",
+  "keyPassages": [
+   "gen 41:50-52",
+   "gen 46:20",
+   "gen 48:1-20",
+   "gen 50:23",
+   "heb 11:21"
+  ]
+ },
+ {
+  "id": "manoah",
+  "name": "Manoah",
+  "role": "Father of Samson",
+  "era": "Conquest & Judges",
+  "summary": "Danite of Zorah whose barren wife was told by the angel of the LORD that she would bear a son to be a Nazirite from the womb. Manoah prayed for the angel to return, asked his name (it is 'incomprehensible'), and offered a sacrifice; the angel ascended in the altar's flame.",
+  "keyPassages": [
+   "jdg 13:2-25",
+   "jdg 14:2-4",
+   "jdg 16:31"
+  ]
+ },
+ {
+  "id": "ahimaaz-son-of-zadok",
+  "name": "Ahimaaz",
+  "role": "Priest and runner",
+  "era": "United Monarchy",
+  "summary": "Ahimaaz son of Zadok carried secret news to David during Absalom's revolt and outran the Cushite to bring word of the victory, tactfully withholding the news of Absalom's death.",
+  "keyPassages": [
+   "2sa 15:27",
+   "2sa 17:17-21",
+   "2sa 18:19-30",
+   "1ch 6:8-9"
+  ]
+ },
+ {
+  "id": "jehozadak",
+  "name": "Jehozadak",
+  "role": "Priest in exile",
+  "era": "Exile",
+  "summary": "Jehozadak son of Seraiah went into captivity when Nebuchadnezzar took Jerusalem; his son Joshua (Jeshua) became high priest of the returned exiles beside Zerubbabel.",
+  "keyPassages": [
+   "1ch 6:14-15",
+   "hag 1:1",
+   "ezr 3:2",
+   "neh 12:26",
+   "sir 49:12"
+  ]
+ },
+ {
+  "id": "tamar-daughter-of-david",
+  "name": "Tamar",
+  "role": "Daughter of David",
+  "era": "United Monarchy",
+  "summary": "Tamar, David's beautiful daughter and Absalom's full sister, was raped by her half-brother Amnon and then cast out; she lived desolate in Absalom's house, and his revenge set off the tragedies of David's later reign.",
+  "keyPassages": [
+   "2sa 13:1-22",
+   "1ch 3:9"
+  ]
+ },
+ {
+  "id": "abihu",
+  "name": "Abihu",
+  "role": "Priest",
+  "era": "Exodus & Wilderness",
+  "summary": "Second son of Aaron. He ascended Sinai with Moses, Aaron, Nadab and the seventy elders, but was struck down with Nadab for offering strange fire.",
+  "keyPassages": [
+   "exo 24:9-11",
+   "lev 10:1-7",
+   "num 3:4"
+  ]
+ },
+ {
+  "id": "bathsheba",
+  "name": "Bathsheba",
+  "role": "Queen Mother",
+  "era": "United Monarchy",
+  "summary": "Bathsheba, daughter of Eliam and wife of Uriah the Hittite, was taken by David, who then arranged Uriah's death; their first child died. She bore Solomon and other sons, and with Nathan secured Solomon's succession against Adonijah. As queen mother she sat on a throne at King Solomon's right hand, who rose and bowed to her when she came to intercede.",
+  "keyPassages": [
+   "2sa 11:2-5",
+   "2sa 11:26-27",
+   "2sa 12:15-24",
+   "1ki 1:11-31",
+   "1ki 2:13-21",
+   "mat 1:6"
+  ]
+ },
+ {
+  "id": "eber",
+  "name": "Eber",
+  "role": "Postdiluvian patriarch",
+  "era": "Primeval",
+  "summary": "Son of Shelah and father of Peleg and Joktan. Shem is called 'the father of all the children of Eber', and the name is often linked with the word 'Hebrew'.",
+  "keyPassages": [
+   "gen 10:21-25",
+   "gen 11:14-17",
+   "luk 3:35"
+  ]
+ },
+ {
+  "id": "enoch",
+  "name": "Enoch",
+  "role": "Patriarch who walked with God",
+  "era": "Primeval",
+  "summary": "Son of Jared in the line of Seth and father of Methuselah. He 'walked with God, and he was not found, for God took him' after 365 years, so that he did not see death.",
+  "keyPassages": [
+   "gen 5:18-24",
+   "sir 44:16",
+   "sir 49:14",
+   "heb 11:5-6",
+   "jud 1:14-15",
+   "luk 3:37"
+  ]
+ },
+ {
+  "id": "hagar",
+  "name": "Hagar",
+  "role": "Egyptian servant of Sarah",
+  "era": "Patriarchs",
+  "summary": "Sarah's Egyptian servant, given to Abraham as a wife so that Sarah might have children through her. Mistreated after she conceived, she fled, and the angel of the LORD met her in the wilderness; she named God 'El Roi', the God who sees. After Isaac's birth she and her son Ishmael were sent away, and God saved them in the wilderness of Beersheba by opening her eyes to a well.",
+  "keyPassages": [
+   "gen 16:1-16",
+   "gen 21:8-21",
+   "gen 25:12",
+   "gal 4:21-31"
+  ]
+ },
+ {
+  "id": "kish",
+  "name": "Kish",
+  "role": "Father of Saul",
+  "era": "Conquest & Judges",
+  "summary": "Kish son of Abiel was a wealthy Benjaminite of Gibeah; Saul met Samuel while searching for his father's lost donkeys.",
+  "keyPassages": [
+   "1sa 9:1-3",
+   "1sa 10:11",
+   "act 13:21"
+  ]
+ },
+ {
+  "id": "nadab-son-of-aaron",
+  "name": "Nadab",
+  "role": "Priest",
+  "era": "Exodus & Wilderness",
+  "summary": "Eldest son of Aaron. With Abihu and the seventy elders he saw the God of Israel on Sinai, but after his ordination he and Abihu offered 'strange fire' before the LORD, and fire came out and consumed them.",
+  "keyPassages": [
+   "exo 24:1",
+   "exo 24:9-11",
+   "lev 10:1-7",
+   "num 3:2-4"
+  ]
+ },
+ {
+  "id": "shealtiel",
+  "name": "Shealtiel",
+  "role": "Davidic prince in exile",
+  "era": "Exile",
+  "summary": "The son of the exiled King Jeconiah (Jehoiachin) born in Babylon and the father (or legal father) of Zerubbabel. He appears mainly in genealogies and in the formula 'Zerubbabel son of Shealtiel'.",
+  "keyPassages": [
+   "1ch 3:17",
+   "ezr 3:2",
+   "hag 1:1",
+   "mat 1:12",
+   "luk 3:27"
+  ]
+ }
+]

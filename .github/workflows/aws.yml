@@ -1,0 +1,35 @@
+# Deploy the site to AWS (S3 + CloudFront) on every push to main.
+# Inactive until the repository variables AWS_ROLE_ARN, S3_BUCKET and CF_DISTRIBUTION_ID are set
+# (Settings → Secrets and variables → Actions → Variables). See DEPLOY.md.
+name: Deploy to AWS
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+permissions:
+  contents: read
+  id-token: write
+concurrency:
+  group: aws-deploy
+  cancel-in-progress: true
+jobs:
+  deploy:
+    if: vars.AWS_ROLE_ARN != ''
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install pillow
+      - run: python3 scripts/build_web.py
+      - uses: aws-actions/configure-aws-credentials@v4
+        with:
+          role-to-assume: ${{ vars.AWS_ROLE_ARN }}
+          aws-region: us-east-1
+      - name: Upload (long cache for versioned assets, short for pages and data)
+        run: |
+          aws s3 sync dist/vendor "s3://${{ vars.S3_BUCKET }}/vendor" --delete --cache-control "public,max-age=31536000,immutable"
+          aws s3 sync dist "s3://${{ vars.S3_BUCKET }}" --delete --exclude "vendor/*" --cache-control "public,max-age=300"
+          aws s3 cp dist/sw.js "s3://${{ vars.S3_BUCKET }}/sw.js" --cache-control "no-cache" --content-type "text/javascript"
+      - run: aws cloudfront create-invalidation --distribution-id "${{ vars.CF_DISTRIBUTION_ID }}" --paths "/*"

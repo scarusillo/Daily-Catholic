@@ -1,0 +1,3 @@
+domain       = "thedailycatholic.com"
+budget_email = "you@example.com"
+# create_github_oidc_provider = false   # if your AWS account already has it (e.g. Scotty's Edge set it up)

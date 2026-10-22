@@ -3,7 +3,7 @@
 (() => {
   "use strict";
   const C = () => window.BPM; // shared context from app.js
-  const SITE = "https://scarusillo.github.io/Daily-Catholic/";
+  const SITE = window.BPM_CONFIG?.siteUrl || "https://scarusillo.github.io/Daily-Catholic/";
   const X = (en, es) => (window.I18N?.lang === "es" ? es : en);
   const $ = (s, el = document) => el.querySelector(s);
   const esc = (s) => String(s ?? "").replace(/[&<>"]/g, (c) => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;" }[c]));

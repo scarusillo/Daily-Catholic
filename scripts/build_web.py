@@ -36,10 +36,10 @@ def main():
     if DIST.exists():
         shutil.rmtree(DIST)
     (DIST / "data").mkdir(parents=True)
-    for f in ("app.js", "app.css", "i18n.js", "games.js", "today.js", "parish.js", "pray.js"):
+    for f in ("app.js", "app.css", "config.js", "i18n.js", "games.js", "today.js", "parish.js", "pray.js", "about.js"):
         shutil.copy(SITE / f, DIST / f)
-    for f in DATA.glob("*.json"):
-        shutil.copy(f, DIST / "data" / f.name)
+    shutil.copytree(DATA, DIST / "data", dirs_exist_ok=True)
+    shutil.copytree(SITE / "vendor", DIST / "vendor", dirs_exist_ok=True)
     body = (SITE / "index.html").read_text(encoding="utf-8")
     head = """<!doctype html>
 <html lang="en">
@@ -72,13 +72,13 @@ def main():
                   {"src": "icon-512.png", "sizes": "512x512", "type": "image/png"},
                   {"src": "icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable"}],
     }, indent=1), encoding="utf-8")
-    files = ["./", "index.html", "app.js", "app.css", "i18n.js", "games.js", "today.js", "parish.js", "pray.js", "manifest.webmanifest", "icon-192.png"] + \
-            [f"data/{f.name}" for f in DATA.glob("*.json")] + ["https://cdnjs.cloudflare.com/ajax/libs/d3/7.8.5/d3.min.js"]
+    files = ["./", "index.html", "app.js", "app.css", "config.js", "i18n.js", "games.js", "today.js", "parish.js", "pray.js", "about.js", "manifest.webmanifest", "icon-192.png"] + \
+            [f"data/{f.relative_to(DATA).as_posix()}" for f in DATA.rglob("*.json")] + ["vendor/d3.min.js"]
     version = str(int(max(p.stat().st_mtime for p in DIST.rglob("*") if p.is_file())))
     (DIST / "sw.js").write_text(f"""// Offline support: cache the app shell and data; refresh in the background.
 const CACHE = "bpm-{version}";
 const FILES = {json.dumps(files)};
-self.addEventListener("install", (e) => e.waitUntil(caches.open(CACHE).then((c) => c.addAll(FILES)).then(() => self.skipWaiting())));
+self.addEventListener("install", (e) => e.waitUntil(caches.open(CACHE).then((c) => Promise.allSettled(FILES.map((f) => c.add(f)))).then(() => self.skipWaiting())));
 self.addEventListener("activate", (e) => e.waitUntil(caches.keys().then((ks) => Promise.all(ks.filter((k) => k !== CACHE).map((k) => caches.delete(k)))).then(() => self.clients.claim())));
 self.addEventListener("fetch", (e) => {{
   if (e.request.method !== "GET") return;

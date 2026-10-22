@@ -73,16 +73,18 @@
   }
 
   /* ---------- routing ---------- */
-  const VIEWS = ["today", "pray", "map", "canon", "people", "journeys", "play", "music", "sacraments", "mass"];
+  const VIEWS = ["today", "pray", "map", "canon", "people", "journeys", "play", "music", "sacraments", "mass", "about"];
   const PRAY_VIEWS = ["pray", "rosary", "chaplet", "confession", "massguide"];
   const GAME_VIEWS = ["pilgrim", "loaves", "threads", "links", "acrostic", "tap", "quiz"];
   const rendered = {};
   function route() {
     const h = location.hash.slice(1);
-    let view = VIEWS.includes(h) || GAME_VIEWS.includes(h) || PRAY_VIEWS.includes(h) || h === "confess" ? h : null;
+    let anchor = null;
+    if (h === "privacy" || h === "credits") { anchor = h; }
+    let view = VIEWS.includes(h) || GAME_VIEWS.includes(h) || PRAY_VIEWS.includes(h) || ["confess", "myparish"].includes(h) ? h : anchor ? "about" : null;
     if (!view && P[h]) { openPerson(h, false); view = store.get("bpm.view", "today"); }
     view ||= "today";
-    const section = GAME_VIEWS.includes(view) ? "play" : PRAY_VIEWS.includes(view) ? "pray" : view === "confess" ? "mass" : view;
+    const section = GAME_VIEWS.includes(view) ? "play" : PRAY_VIEWS.includes(view) ? "pray" : ["confess", "myparish"].includes(view) ? "mass" : view;
     for (const v of VIEWS) $(`#view-${v}`).hidden = v !== section;
     const tab = ["map", "canon", "people"].includes(section) ? "bible" : section;
     document.querySelectorAll(".tabs a").forEach((a) => a.classList.toggle("on", a.dataset.view === tab));
@@ -95,6 +97,8 @@
     else if (section === "pray") window.BPM_PRAY.render(view, el);
     else if (section === "music") window.BPM_PARISH.renderMusic(el, subReq);
     else if (section === "sacraments") window.BPM_PARISH.renderSacraments(el, subReq);
+    else if (section === "about") { window.BPM_ABOUT.renderAbout(el); if (anchor) setTimeout(() => document.getElementById(anchor)?.scrollIntoView(), 0); }
+    else if (view === "myparish") { rendered.mass = "parish"; window.BPM_ABOUT.renderParish(el); }
     else if (section === "mass") {
       const mode = view === "confess" ? "confession" : "mass";
       if (rendered.mass !== mode) { rendered.mass = mode; window.BPM_PARISH.renderFinder(el, mode); }
@@ -103,7 +107,7 @@
     else if (!rendered[view]) { rendered[view] = true; ({ map: renderMap, canon: renderCanon, people: renderPeople })[view](); }
     journeyReq = undefined; subReq = undefined;
     if (view === "map") resizeMap();
-    if (section !== "map") window.scrollTo(0, 0);
+    if (section !== "map" && !anchor) window.scrollTo(0, 0);
   }
   let journeyReq, subReq;
 
@@ -688,6 +692,7 @@
       store, getJSON, esc, chip, refLabel, parseRef, verses, loadBible, loadMentions, openPerson, explored, badges, db, user,
       get PEOPLE() { return PEOPLE; }, get P() { return P; }, get BOOKS() { return BOOKS; }, MENTIONS: () => MENTIONS,
     };
+    if (window.BPM_CONFIG?.donateUrl) { const g = document.getElementById("givelink"); if (g) g.hidden = false; }
     setupSearch(); setupPanel();
     window.addEventListener("hashchange", route);
     window.I18N.on(() => { rendered.mass = false; if (current) openPerson(current, false); route(); });

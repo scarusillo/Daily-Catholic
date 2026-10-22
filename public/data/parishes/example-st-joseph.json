@@ -1,0 +1,40 @@
+{
+  "slug": "example-st-joseph",
+  "demo": true,
+  "name": "St. Joseph Parish (example)",
+  "address": "100 Main Street",
+  "city": "Anytown, USA",
+  "phone": "(555) 010-0100",
+  "website": "",
+  "bulletinUrl": "",
+  "donateUrl": "",
+  "lat": null,
+  "lon": null,
+  "mass": [
+    { "day": "Vigil", "times": ["5:00 PM"] },
+    { "day": "Sun", "times": ["8:00 AM", "10:30 AM"] },
+    { "day": "Sun", "times": ["12:30 PM"], "lang": "Español" },
+    { "day": "Mon", "times": ["8:00 AM"] },
+    { "day": "Tue", "times": ["8:00 AM"] },
+    { "day": "Wed", "times": ["8:00 AM", "7:00 PM"] },
+    { "day": "Thu", "times": ["8:00 AM"] },
+    { "day": "Fri", "times": ["8:00 AM"] }
+  ],
+  "confession": [
+    { "day": "Wed", "times": ["6:00–6:45 PM"] },
+    { "day": "Sat", "times": ["3:30–4:30 PM"] }
+  ],
+  "adoration": [
+    { "day": "Fri", "times": ["8:30 AM – 7:00 PM"], "note": { "en": "First Friday all day", "es": "Primer viernes todo el día" } }
+  ],
+  "announcements": [
+    { "date": "2026-10-20", "until": "2027-12-31",
+      "title": { "en": "Welcome to the parish page", "es": "Bienvenidos a la página parroquial" },
+      "text": { "en": "This is an example. A participating parish keeps its times, announcements and events up to date here, in English and Spanish.", "es": "Este es un ejemplo. Una parroquia participante mantiene aquí al día sus horarios, avisos y eventos, en inglés y en español." } }
+  ],
+  "events": [
+    { "date": "2026-11-02", "time": "7:00 PM", "title": { "en": "All Souls Mass for the faithful departed", "es": "Misa de los Fieles Difuntos" }, "place": "Church" },
+    { "date": "2026-11-29", "time": "", "title": { "en": "First Sunday of Advent: Advent wreath blessing at all Masses", "es": "Primer domingo de Adviento: bendición de coronas en todas las Misas" }, "place": "" },
+    { "date": "2027-02-10", "time": "", "title": { "en": "Ash Wednesday", "es": "Miércoles de Ceniza" }, "place": "" }
+  ]
+}

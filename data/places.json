@@ -14,6 +14,16 @@
     "people": [
      "noah"
     ]
+   },
+   {
+    "q": "On which mountains did the ship carrying Noah's sons Shem, Ham and Japheth come to rest?",
+    "ref": "gen 7:13-8:4",
+    "people": [
+     "shem",
+     "noah",
+     "ham",
+     "japheth"
+    ]
    }
   ]
  },
@@ -53,6 +63,37 @@
     "q": "By the rivers of which city did the exiles sit down and weep, hanging their harps on the willows?",
     "ref": "psa 137:1-4",
     "people": []
+   },
+   {
+    "q": "In which city did Evilmerodach release King Jehoiachin from prison and seat him at his table for life?",
+    "ref": "2ki 25:27-30",
+    "people": [
+     "jehoiachin",
+     "evilmerodach"
+    ]
+   },
+   {
+    "q": "To which city did the Assyrian captains carry King Manasseh in chains, where he humbled himself and prayed?",
+    "ref": "2ch 33:10-13",
+    "people": [
+     "manasseh-king-of-judah"
+    ]
+   },
+   {
+    "q": "When Nebuchadnezzar carried Judah away, to which city did the priest Jehozadak go into captivity?",
+    "ref": "1ch 6:15",
+    "people": [
+     "jehozadak",
+     "nebuchadnezzar"
+    ]
+   },
+   {
+    "q": "In which land of exile did the captive king Jechoniah become the father of Shealtiel?",
+    "ref": "mat 1:12",
+    "people": [
+     "shealtiel",
+     "jehoiachin"
+    ]
    }
   ]
  },
@@ -166,6 +207,14 @@
     "ref": "dan 8:1-8",
     "people": [
      "daniel"
+    ]
+   },
+   {
+    "q": "In which Persian citadel did the king and Haman sit down to drink while the city was thrown into confusion by the decree against the Jews?",
+    "ref": "est 3:15",
+    "people": [
+     "haman",
+     "ahasuerus"
     ]
    }
   ]
@@ -329,6 +378,21 @@
      "amos",
      "amaziah-priest-of-bethel"
     ]
+   },
+   {
+    "q": "Which city, with Jeshanah and Ephron, did King Abijah capture from Jeroboam?",
+    "ref": "2ch 13:19",
+    "people": [
+     "abijah-king-of-judah",
+     "jeroboam-i"
+    ]
+   },
+   {
+    "q": "Where was the ark kept, with Phinehas ministering before it, when Israel wept and asked whether to fight Benjamin again?",
+    "ref": "jdg 20:26-28",
+    "people": [
+     "phinehas-son-of-eleazar"
+    ]
    }
   ]
  },
@@ -409,6 +473,23 @@
      "absalom",
      "david"
     ]
+   },
+   {
+    "q": "Where did Esau and Jacob bury their father Isaac, who died there at a hundred and eighty years old?",
+    "ref": "gen 35:27-29",
+    "people": [
+     "esau",
+     "jacob",
+     "isaac"
+    ]
+   },
+   {
+    "q": "Where did Jacob tell his sons he had buried Leah, asking to be laid there with his fathers?",
+    "ref": "gen 49:29-31",
+    "people": [
+     "leah",
+     "jacob"
+    ]
    }
   ]
  },
@@ -443,6 +524,15 @@
     "people": [
      "elijah",
      "jezebel"
+    ]
+   },
+   {
+    "q": "In which wilderness did Hagar wander with Ishmael until God opened her eyes to see a well?",
+    "ref": "gen 21:14-19",
+    "people": [
+     "hagar",
+     "ishmael",
+     "abraham"
     ]
    }
   ]
@@ -515,6 +605,46 @@
      "jesus",
      "mary-mother-of-jesus",
      "joseph-husband-of-mary"
+    ]
+   },
+   {
+    "q": "Where did Isaiah see the Lord enthroned with seraphim crying 'Holy, holy, holy' in the year King Uzziah died?",
+    "ref": "isa 6:1-8",
+    "people": [
+     "isaiah"
+    ]
+   },
+   {
+    "q": "Where did the priest Jehoiada crown the boy king Joash, while Athaliah tore her clothes and cried 'Treason!'?",
+    "ref": "2ki 11:4-16",
+    "people": [
+     "jehoiada-priest",
+     "jehoash-king-of-judah",
+     "athaliah"
+    ]
+   },
+   {
+    "q": "Where did Zerubbabel and Jeshua set the priests and the sons of Asaph praising as the foundation of the rebuilt temple was laid?",
+    "ref": "ezr 3:8-11",
+    "people": [
+     "zerubbabel",
+     "jeshua-high-priest"
+    ]
+   },
+   {
+    "q": "Where did the high priest Hilkiah find the book of the law, which Shaphan the scribe then read to King Josiah?",
+    "ref": "2ki 22:8-11",
+    "people": [
+     "hilkiah-high-priest",
+     "shaphan",
+     "josiah"
+    ]
+   },
+   {
+    "q": "Where did King Jotham build the upper gate of the LORD's house?",
+    "ref": "2ki 15:32-35",
+    "people": [
+     "jotham-king-of-judah"
     ]
    }
   ]
@@ -608,6 +738,29 @@
     "people": [
      "moses"
     ]
+   },
+   {
+    "q": "Into which land did Jacob's household of seventy, including Perez and his sons Hezron and Hamul, come when they went down into Egypt?",
+    "ref": "gen 46:8-28",
+    "people": [
+     "jacob",
+     "perez",
+     "hezron",
+     "benjamin",
+     "gershon",
+     "kohath",
+     "merari"
+    ]
+   },
+   {
+    "q": "In which land of Egypt was Jacob living when he crossed his hands to bless Ephraim above Manasseh?",
+    "ref": "gen 47:27-48:20",
+    "people": [
+     "ephraim",
+     "manasseh-son-of-joseph",
+     "jacob",
+     "joseph-son-of-jacob"
+    ]
    }
   ]
  },
@@ -696,6 +849,36 @@
     "ref": "1ki 19:8-13",
     "people": [
      "elijah"
+    ]
+   },
+   {
+    "q": "In which wilderness did the LORD have Moses count the Levites, the clans of Gershon, Kohath and Merari?",
+    "ref": "num 3:14-20",
+    "people": [
+     "gershon",
+     "kohath",
+     "merari",
+     "moses"
+    ]
+   },
+   {
+    "q": "In which wilderness did Nadab and Abihu die offering strange fire, leaving Eleazar and Ithamar to serve as priests?",
+    "ref": "num 3:1-4",
+    "people": [
+     "nadab-son-of-aaron",
+     "abihu",
+     "eleazar-son-of-aaron",
+     "ithamar"
+    ]
+   },
+   {
+    "q": "On which mountain did Moses, Aaron, Nadab, Abihu and seventy elders see the God of Israel and eat and drink?",
+    "ref": "exo 24:9-16",
+    "people": [
+     "nadab-son-of-aaron",
+     "abihu",
+     "moses",
+     "aaron"
     ]
    }
   ]
@@ -965,6 +1148,13 @@
     "people": [
      "elisha"
     ]
+   },
+   {
+    "q": "In the plains of which city did the Chaldean army overtake the fleeing King Zedekiah?",
+    "ref": "jer 52:8",
+    "people": [
+     "zedekiah-king-of-judah"
+    ]
    }
   ]
  },
@@ -1004,6 +1194,14 @@
     "people": [
      "abner",
      "joab"
+    ]
+   },
+   {
+    "q": "At which high place did David leave Zadok and his fellow priests to minister before the LORD's tabernacle?",
+    "ref": "1ch 16:37-40",
+    "people": [
+     "zadok",
+     "david"
     ]
    }
   ]
@@ -1268,6 +1466,14 @@
     "q": "To which town did two milk cows pull the returning ark, while the people reaped wheat in the valley?",
     "ref": "1sa 6:10-15",
     "people": []
+   },
+   {
+    "q": "Where did Jehoash king of Israel defeat and capture Amaziah king of Judah after they 'looked one another in the face'?",
+    "ref": "2ki 14:11-13",
+    "people": [
+     "amaziah-king-of-judah",
+     "jehoash-king-of-israel"
+    ]
    }
   ]
  },
@@ -1384,6 +1590,15 @@
     "people": [
      "jesus",
      "herod-the-great"
+    ]
+   },
+   {
+    "q": "Near which town, on the road from Bethel, did Rachel die giving birth to Benjamin?",
+    "ref": "gen 35:16-19",
+    "people": [
+     "benjamin",
+     "rachel",
+     "jacob"
     ]
    }
   ]
@@ -1607,6 +1822,72 @@
      "barnabas",
      "peter",
      "james-brother-of-the-lord"
+    ]
+   },
+   {
+    "q": "Where did David assemble all Israel to bring up the ark, appointing Asaph, Heman and Ethan to sound bronze cymbals?",
+    "ref": "1ch 15:3-19",
+    "people": [
+     "asaph",
+     "david"
+    ]
+   },
+   {
+    "q": "In which city did King Jehoiakim cut up the scroll Baruch had written and burn it in the brazier of his winter house?",
+    "ref": "jer 36:9-23",
+    "people": [
+     "jehoiakim",
+     "baruch"
+    ]
+   },
+   {
+    "q": "To which city did Judith go up with the people to worship, dedicating the canopy she had taken from Holofernes' bedchamber?",
+    "ref": "jdt 16:18-20",
+    "people": [
+     "judith"
+    ]
+   },
+   {
+    "q": "In which city's Second Quarter did Ahikam, Hilkiah and Shaphan consult the prophetess Huldah about the newly found book?",
+    "ref": "2ki 22:12-14",
+    "people": [
+     "ahikam",
+     "hilkiah-high-priest",
+     "shaphan",
+     "huldah"
+    ]
+   },
+   {
+    "q": "In which royal city, after David returned from the Ammonite war, did Amnon feign illness and violate his half-sister Tamar?",
+    "ref": "2sa 12:31-13:20",
+    "people": [
+     "tamar-daughter-of-david",
+     "amnon",
+     "absalom"
+    ]
+   },
+   {
+    "q": "Into which city was the ark coming when Michal looked out the window and despised David leaping before the LORD?",
+    "ref": "2sa 6:12-16",
+    "people": [
+     "michal",
+     "david"
+    ]
+   },
+   {
+    "q": "In which city did King Amon reign two years before his servants killed him in his own house?",
+    "ref": "2ki 21:19-24",
+    "people": [
+     "amon-king-of-judah",
+     "josiah"
+    ]
+   },
+   {
+    "q": "In which city, while Joab besieged Rabbah, did David see Bathsheba bathing from his roof?",
+    "ref": "2sa 11:1-4",
+    "people": [
+     "bathsheba",
+     "david"
     ]
    }
   ]
@@ -1845,6 +2126,14 @@
     "people": [
      "paul"
     ]
+   },
+   {
+    "q": "Where did King Ahaz go to meet Tiglath-pileser, and copy the design of an altar he saw there?",
+    "ref": "2ki 16:10-12",
+    "people": [
+     "ahaz",
+     "tiglath-pileser"
+    ]
    }
   ]
  },
@@ -1884,6 +2173,13 @@
      "hezekiah",
      "rabshakeh"
     ]
+   },
+   {
+    "q": "To which fortress did King Amaziah flee from a conspiracy, only to be pursued and killed there?",
+    "ref": "2ki 14:19",
+    "people": [
+     "amaziah-king-of-judah"
+    ]
    }
   ]
  },
@@ -1903,6 +2199,14 @@
      "jeremiah",
      "hanamel",
      "baruch"
+    ]
+   },
+   {
+    "q": "To his own fields in which town did Solomon banish Abiathar the priest instead of putting him to death?",
+    "ref": "1ki 2:26",
+    "people": [
+     "abiathar",
+     "solomon"
     ]
    }
   ]
@@ -3148,6 +3452,207 @@
      "alexander-son-of-simon",
      "rufus-son-of-simon",
      "jesus"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "mount-hor",
+  "name": "Mount Hor",
+  "lat": 30.317,
+  "lon": 35.407,
+  "region": "Arabia & Africa",
+  "certainty": "traditional",
+  "note": "Scripture sets Mount Hor on the border of Edom; since Josephus tradition has placed it at Jebel Harun above Petra, crowned by a shrine to Aaron, though some scholars prefer a peak nearer Kadesh.",
+  "events": [
+   {
+    "q": "On which mountain did Moses strip Aaron of his garments and put them on Eleazar before Aaron died?",
+    "ref": "num 20:25-28",
+    "people": [
+     "eleazar-son-of-aaron",
+     "aaron",
+     "moses"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "riblah",
+  "name": "Riblah",
+  "lat": 34.45,
+  "lon": 36.546,
+  "region": "Holy Land",
+  "certainty": "known",
+  "note": "Riblah 'in the land of Hamath' is identified with the village of Ribleh on the Orontes in western Syria, near the Lebanese border.",
+  "events": [
+   {
+    "q": "In which town in the land of Hamath did the king of Babylon kill Zedekiah's sons before his eyes and then blind him?",
+    "ref": "jer 52:8-11",
+    "people": [
+     "zedekiah-king-of-judah",
+     "nebuchadnezzar"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "mareshah",
+  "name": "Mareshah",
+  "lat": 31.593,
+  "lon": 34.898,
+  "region": "Holy Land",
+  "certainty": "known",
+  "note": "Tel Maresha, in the Judean lowlands beside Beit Guvrin, is an excavated mound honeycombed with Hellenistic caves.",
+  "events": [
+   {
+    "q": "Where did King Asa cry to the LORD and defeat the vast army of Zerah the Ethiopian in the valley of Zephathah?",
+    "ref": "2ch 14:9-13",
+    "people": [
+     "asa"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "megiddo",
+  "name": "Megiddo",
+  "lat": 32.585,
+  "lon": 35.185,
+  "region": "Holy Land",
+  "certainty": "known",
+  "note": "Tel Megiddo commands the pass into the Jezreel Valley; its name lies behind 'Armageddon' (Har Megiddo).",
+  "events": [
+   {
+    "q": "Where was King Josiah killed when he went out against Pharaoh Necoh?",
+    "ref": "2ki 23:29-30",
+    "people": [
+     "josiah",
+     "necoh"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "gihon",
+  "name": "Gihon Spring",
+  "lat": 31.7735,
+  "lon": 35.2365,
+  "region": "Holy Land",
+  "certainty": "known",
+  "note": "The Gihon spring in the Kidron Valley below the City of David was Jerusalem's main water source and still flows into Hezekiah's Tunnel.",
+  "events": [
+   {
+    "q": "To which spring did Zadok, Nathan and Benaiah bring Solomon on David's mule to anoint him king?",
+    "ref": "1ki 1:38-40",
+    "people": [
+     "zadok",
+     "solomon",
+     "nathan-prophet",
+     "benaiah"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "en-rogel",
+  "name": "En Rogel",
+  "lat": 31.7676,
+  "lon": 35.2355,
+  "region": "Holy Land",
+  "certainty": "probable",
+  "note": "En Rogel is usually identified with Bir Ayyub ('Job's Well') where the Kidron and Hinnom valleys meet south of the City of David.",
+  "events": [
+   {
+    "q": "By which spring did Adonijah sacrifice at the stone of Zoheleth and feast his supporters to proclaim himself king?",
+    "ref": "1ki 1:5-10",
+    "people": [
+     "adonijah",
+     "joab"
+    ]
+   },
+   {
+    "q": "By which spring outside the city did Ahimaaz and Jonathan wait for news to carry to David during Absalom's revolt?",
+    "ref": "2sa 17:17-21",
+    "people": [
+     "ahimaaz-son-of-zadok",
+     "jonathan-son-of-abiathar"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "keilah",
+  "name": "Keilah",
+  "lat": 31.613,
+  "lon": 35.0,
+  "region": "Holy Land",
+  "certainty": "known",
+  "note": "Keilah is Khirbet Qila, a hilltop ruin in the Shephelah northwest of Hebron that preserves the ancient name.",
+  "events": [
+   {
+    "q": "To which town, which David had just saved from the Philistines, did Abiathar flee carrying an ephod?",
+    "ref": "1sa 23:1-6",
+    "people": [
+     "abiathar",
+     "david"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "baal-hazor",
+  "name": "Baal Hazor",
+  "lat": 31.995,
+  "lon": 35.289,
+  "region": "Holy Land",
+  "certainty": "probable",
+  "note": "Usually identified with Jebel 'Asur (Tell Asur), the high hill northeast of Bethel near Ephraim (et-Taiyibeh).",
+  "events": [
+   {
+    "q": "At which place near Ephraim did Absalom's servants kill Amnon during the sheep-shearing feast?",
+    "ref": "2sa 13:23-29",
+    "people": [
+     "amnon",
+     "absalom"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "shittim",
+  "name": "Shittim (Abel Shittim)",
+  "lat": 31.84,
+  "lon": 35.674,
+  "region": "Holy Land",
+  "certainty": "probable",
+  "note": "Israel's last camp on the plains of Moab; often located at Tell el-Hammam, though nearby Tell Kefrein is another candidate.",
+  "events": [
+   {
+    "q": "At which camp in the plains of Moab did Phinehas stop the plague by spearing Zimri and the Midianite Cozbi?",
+    "ref": "num 25:1-15",
+    "people": [
+     "phinehas-son-of-eleazar",
+     "zimri-son-of-salu",
+     "cozbi",
+     "moses"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "zorah",
+  "name": "Zorah",
+  "lat": 31.762,
+  "lon": 34.982,
+  "region": "Holy Land",
+  "certainty": "known",
+  "note": "Tel Tzora, on the ridge above the Sorek Valley near Kibbutz Tzora, preserves the name of Samson's hometown.",
+  "events": [
+   {
+    "q": "In which Danite town did the angel of the LORD appear to Manoah's barren wife, promising her a son?",
+    "ref": "jdg 13:2-3",
+    "people": [
+     "manoah"
     ]
    }
   ]

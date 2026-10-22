@@ -38,6 +38,7 @@
   <section id="view-music" class="view" hidden></section>
   <section id="view-sacraments" class="view" hidden></section>
   <section id="view-mass" class="view" hidden></section>
+  <section id="view-about" class="view" hidden></section>
   <section id="view-map" class="view" hidden>
     <nav class="subnav" aria-label="Bible views"><a href="#map" data-sub="map" data-t="map">Map</a><a href="#people" data-sub="people" data-t="people">People</a><a href="#canon" data-sub="canon" data-t="books">Books</a></nav>
     <div class="map-head">
@@ -93,13 +94,16 @@
 </aside>
 
 <footer class="foot">
+  <nav class="footlinks"><a href="#about" data-t="about">Our promise</a><a href="#privacy" data-t="privacy">Privacy</a><a href="#credits" data-t="credits">Credits</a><a href="#about" id="givelink" data-t="give" hidden>Give</a></nav>
   <span data-t="footer">Scripture: World English Bible, Catholic Edition (public domain). Teaching notes are study summaries; consult the Catechism of the Catholic Church for authoritative teaching.</span>
 </footer>
 
-<script src="https://cdnjs.cloudflare.com/ajax/libs/d3/7.8.5/d3.min.js"></script>
+<script src="vendor/d3.min.js"></script>
+<script src="config.js"></script>
 <script src="i18n.js"></script>
 <script src="games.js"></script>
 <script src="today.js"></script>
 <script src="parish.js"></script>
 <script src="pray.js"></script>
+<script src="about.js"></script>
 <script src="app.js"></script>

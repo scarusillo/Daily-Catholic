@@ -4,7 +4,7 @@
   const C = () => window.BPM;
   const $ = (s, el = document) => el.querySelector(s);
   const esc = (s) => String(s ?? "").replace(/[&<>"]/g, (c) => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;" }[c]));
-  const PUBLIC_SITE = "https://scarusillo.github.io/Daily-Catholic/";
+  const PUBLIC_SITE = window.BPM_CONFIG?.siteUrl || "https://scarusillo.github.io/Daily-Catholic/";
   const inClaude = () => !!window.claude?.use;
   const ES = () => window.I18N?.lang === "es";
   const X = (en, es) => (ES() ? es : en);
@@ -217,7 +217,7 @@
     const last = ctx.store.get("bpm.finder", { zip: "", radius: 50 });
     const conf = mode === "confession";
     root.innerHTML = `<div class="hub finder">
-      <div class="levels" role="group" aria-label="${X("What are you looking for?", "¿Qué buscas?")}"><a href="#mass" class="${conf ? "" : "on"}">${X("Mass", "Misa")}</a><a href="#confess" class="${conf ? "on" : ""}">${X("Confession", "Confesión")}</a></div>
+      <div class="levels" role="group" aria-label="${X("What are you looking for?", "¿Qué buscas?")}"><a href="#mass" class="${conf ? "" : "on"}">${X("Mass", "Misa")}</a><a href="#confess" class="${conf ? "on" : ""}">${X("Confession", "Confesión")}</a><a href="#myparish">${X("My parish", "Mi parroquia")}</a></div>
       <div class="ghead"><h1>${conf ? X("Find Confession", "Buscar Confesión") : X("Find a Mass", "Buscar Misa")}</h1></div>
       <p class="lede">${conf
         ? X("Catholic churches near you where you can go to Confession. Churches with listed confession times come first, then cathedrals, shrines and friaries, which usually hear confessions on weekdays too.", "Iglesias católicas cerca de ti donde puedes confesarte. Primero aparecen las que tienen horario de confesiones publicado y luego catedrales, santuarios y conventos, que suelen confesar también entre semana.")

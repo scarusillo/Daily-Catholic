@@ -29,7 +29,7 @@
       // sacraments / music / mass
       sacTitle: "Sacraments: what you'll need", musicTitle: "Music at Mass", findMassTitle: "Find a Mass",
       contentEnglish: "Some content on this page is available only in English for now.",
-      chapletShort: "Chaplet",
+      chapletShort: "Chaplet", about: "Our promise", privacy: "Privacy", credits: "Credits", give: "Give",
       mapTitle: "Everyone in the Catholic Bible, and how they connect",
       mapLede: "Each dot is a person, placed left to right by era, from Adam to the Apostolic Church. Lines are family ties and other links. Tap a person to see their family, every passage they appear in, and what the Church teaches about them.",
       canonTitle: "Who appears where",
@@ -59,7 +59,7 @@
       playLede: "nuevos juegos cada día", progress: "Tu progreso", opened: "Has abierto", ofPeople: "personas", streak: "Racha", share: "Compartir resultado", copied: "Copiado",
       sacTitle: "Sacramentos: lo que necesitas", musicTitle: "Música en la Misa", findMassTitle: "Buscar Misa",
       contentEnglish: "Parte del contenido de esta página está disponible solo en inglés por ahora.",
-      chapletShort: "Coronilla",
+      chapletShort: "Coronilla", about: "Nuestra promesa", privacy: "Privacidad", credits: "Créditos", give: "Donar",
       mapTitle: "Todas las personas de la Biblia católica y cómo se relacionan",
       mapLede: "Cada punto es una persona, ordenada de izquierda a derecha por época, desde Adán hasta la Iglesia apostólica. Las líneas son lazos familiares y otras relaciones. Toca una persona para ver su familia, cada pasaje donde aparece y lo que enseña la Iglesia. (Las fichas de personajes están en inglés por ahora.)",
       canonTitle: "Quién aparece dónde",
