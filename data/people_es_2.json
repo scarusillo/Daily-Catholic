@@ -1,0 +1,2135 @@
+{
+ "amon-king-of-judah": {
+  "name": "Amón",
+  "role": "Rey de Judá",
+  "summary": "Amón, hijo de Manasés, continuó la idolatría de su padre durante dos años, hasta que sus siervos lo mataron en su casa; el pueblo de la tierra ejecutó a los conspiradores y proclamó rey a su hijo Josías.",
+  "catholic": "",
+  "know": [
+   "Reinó dos años",
+   "Asesinado por sus siervos",
+   "Padre de Josías"
+  ],
+  "feast": null
+ },
+ "athaliah": {
+  "name": "Atalía",
+  "role": "Reina de Judá",
+  "summary": "Atalía, hija de Ajab (nieta de Omrí), se casó con Jorán de Judá y fue reina madre de Ocozías. Cuando Jehú mató a su hijo, ella usurpó el trono y exterminó a la familia real, pero el niño Joás fue escondido por Josebá. Al cabo de seis años, el sacerdote Joyadá coronó a Joás en el Templo, y Atalía, gritando «¡Traición!», fue ejecutada.",
+  "catholic": "El intento de Atalía de exterminar la descendencia de David casi rompe la promesa de Dios a David; su preservación en un solo niño escondido es un ejemplo admirable de la fidelidad de Dios a la alianza davídica, que los lectores católicos prolongan hasta Cristo. Es la única mujer que gobernó Judá como soberana.",
+  "know": [
+   "Hija de Ajab",
+   "Esposa de Jorán, madre de Ocozías",
+   "Usurpó el trono durante seis años",
+   "Ejecutada por orden de Joyadá"
+  ],
+  "feast": null
+ },
+ "hezron": {
+  "name": "Jesrón",
+  "role": "Patriarca de la línea de Judá",
+  "summary": "Hijo de Fares y nieto de Judá, que bajó a Egipto con Jacob. Encabeza la genealogía de Rut 4 que conduce a David, y es el antepasado del clan de los jesronitas.",
+  "catholic": "Mateo y Lucas lo incluyen en la genealogía de Jesús, de modo que es uno de los eslabones por los que la promesa hecha a Judá («no se apartará el cetro de Judá», Gn 49,10) pasa a David y a Cristo.",
+  "know": [
+   "Hijo de Fares (Gn 46,12)",
+   "Padre de Ram, antepasado de David (Rt 4,19)",
+   "Incluido en la genealogía de Jesús (Mt 1,3)",
+   "No es Jesrón hijo de Rubén",
+   "Hijo de Fares (Gn 46,12).",
+   "Bajó a Egipto con Jacob.",
+   "Padre de Ram (Rt 4,19).",
+   "Nombrado en Mt 1,3 y Lc 3,33."
+  ],
+  "feast": null
+ },
+ "johanan-son-of-kareah": {
+  "name": "Johanán hijo de Caréaj",
+  "role": "Capitán del ejército",
+  "summary": "Johanán, uno de los capitanes de las tropas que quedaron en Judá, advirtió a Godolías del complot de Ismael, rescató a los cautivos que Ismael se había llevado y luego condujo al resto del pueblo —con Jeremías y Baruc— a Egipto, a pesar de la palabra de Dios por medio de Jeremías de que debían quedarse en la tierra.",
+  "catholic": "",
+  "know": [
+   "Advirtió a Godolías",
+   "Encabezó la huida a Egipto",
+   "Advirtió a Godolías, pero no le creyeron (Jr 40,13-16).",
+   "Pidió a Jeremías que consultara la voluntad de Dios y luego rechazó la respuesta (Jr 42-43).",
+   "Llevó a Jeremías y a Baruc a Tafnes, en Egipto."
+  ],
+  "feast": null
+ },
+ "joseph-husband-of-mary": {
+  "name": "José, esposo de María",
+  "role": "Padre adoptivo de Jesús",
+  "summary": "Hombre justo de la casa de David, José estaba desposado con María. Cuando ella resultó encinta por obra del Espíritu Santo, un ángel le dijo en sueños que la recibiera como esposa y que pusiera al niño el nombre de Jesús. Llevó a la familia a Belén para el censo, huyó con ellos a Egipto para escapar de Herodes y se estableció en Nazaret, donde a Jesús se le conocía como «el hijo del carpintero».",
+  "catholic": "San José es honrado como casto esposo de la Virgen María y padre legal y adoptivo de Jesús, por medio de quien Jesús es legalmente «hijo de David» (Mt 1,16.20); la Iglesia enseña que no fue el padre natural de Jesús (CEC 496-497). Pío IX lo declaró Patrono de la Iglesia Universal en 1870, y el papa Francisco abrió un Año de San José (2020-2021) con la carta Patris Corde. Como la tradición sostiene que murió acompañado de Jesús y María, se le invoca como patrono de la buena muerte (CEC 1014), así como de los trabajadores y de las familias. Al igual que José, hijo de Jacob, es un soñador que baja a Egipto para salvar a su familia.",
+  "know": [
+   "Llamado «un hombre justo» (Mt 1,19); la Escritura no registra ninguna palabra suya.",
+   "Guiado por cuatro sueños en Mateo 1-2, tres de ellos por medio de un ángel (Mt 1,20; 2,13.19.22).",
+   "Mateo llama a su padre Jacob (Mt 1,16); la genealogía de Lucas dice «hijo de Elí» (Lc 3,23).",
+   "Un tekton: carpintero o constructor (Mt 13,55).",
+   "Fiestas: 19 de marzo (Solemnidad) y 1 de mayo (San José Obrero)."
+  ],
+  "feast": "19 de marzo (San José, Esposo de la Santísima Virgen María); 1 de mayo (San José Obrero)"
+ },
+ "nebuzaradan": {
+  "name": "Nebuzaradán",
+  "role": "Comandante babilonio",
+  "summary": "Nebuzaradán, jefe de la guardia de Nabucodonosor, incendió el Templo, el palacio y las casas de Jerusalén, derribó sus murallas y llevó al pueblo al destierro; por orden del rey liberó a Jeremías y le permitió elegir dónde vivir.",
+  "catholic": "",
+  "know": [
+   "Incendió el Templo en el 587/586 a. C.",
+   "Liberó a Jeremías",
+   "Incendió el Templo en el 587 a. C. (Jr 52,12-14).",
+   "Liberó a Jeremías y lo confió a Godolías (Jr 40,1-6)."
+  ],
+  "feast": null
+ },
+ "nehemiah": {
+  "name": "Nehemías",
+  "role": "Gobernador de Judá",
+  "summary": "Nehemías, hijo de Jacalías, era copero de Artajerjes I en Susa. Al enterarse de la ruina de Jerusalén, oró y ayunó, y luego obtuvo permiso del rey para volver como gobernador (445 a. C.), reconstruyendo las murallas de la ciudad en cincuenta y dos días pese a las amenazas de Sanbalat, Tobías y Guésem. Corrigió las injusticias sociales, restableció el sábado y, junto con Esdras, renovó la alianza.",
+  "catholic": "Nehemías es modelo del laico que une oración y acción: ora antes de cada decisión (Ne 1,4-11; 2,4) y construye la muralla «con una mano» mientras «con la otra» sostiene el arma (Ne 4,17). El Sirácida lo alaba por levantar las murallas caídas (Si 49,13), y 2 Macabeos le atribuye haber recuperado el fuego sagrado y fundado una biblioteca de los libros sagrados (2 Mac 1,18-36; 2,13). Su reconstrucción de las murallas se ha leído desde antiguo, en sentido espiritual, como la reconstrucción del alma y de la Iglesia.",
+  "know": [
+   "Copero de Artajerjes I (Ne 1,11).",
+   "Reconstruyó las murallas de Jerusalén en 52 días (Ne 6,15).",
+   "Tuvo la oposición de Sanbalat, Tobías y Guésem.",
+   "Alabado en Sirácida 49,13 y en 2 Macabeos 1-2."
+  ],
+  "feast": null
+ },
+ "perez": {
+  "name": "Fares",
+  "role": "Hijo de Judá; antepasado de David",
+  "summary": "Hijo gemelo de Judá y Tamar que, al nacer, «abrió brecha» adelantándose a su hermano Zéraj; padre de Jesrón y de Jamul. Por él pasa la línea de David y de Cristo.",
+  "catholic": "La bendición de los ancianos sobre Booz, «que tu casa sea como la casa de Fares» (Rt 4,12), y la genealogía de Rut 4,18-22 presentan a Fares como la raíz de la familia de David; Mateo y Lucas lo cuentan entre los antepasados de Jesús (Mt 1,3; Lc 3,33).",
+  "know": [
+   "Su nombre significa «brecha» o «irrupción» (Gn 38,29)",
+   "Gemelo de Zéraj, hijo de Judá y Tamar",
+   "Padre de Jesrón y de Jamul (Gn 46,12)",
+   "Antepasado de David y de Jesús"
+  ],
+  "feast": null
+ },
+ "philip-apostle": {
+  "name": "Felipe",
+  "role": "Apóstol",
+  "summary": "Felipe de Betsaida fue llamado por Jesús con las palabras «Sígueme» y enseguida llevó a Natanael, diciéndole: «Ven y verás». Jesús lo puso a prueba antes de alimentar a los cinco mil; unos griegos que buscaban a Jesús acudieron a él; y en la Última Cena le pidió: «Señor, muéstranos al Padre».",
+  "catholic": "La respuesta de Jesús a Felipe, «El que me ha visto a mí ha visto al Padre» (Jn 14,9), es un texto clave sobre la unidad del Hijo con el Padre. La tradición sostiene que predicó en Asia Menor y fue martirizado en Hierápolis. Comparte fiesta con Santiago el Menor, cuyas reliquias reposan junto con las suyas en la Basílica de los Doce Apóstoles en Roma. Es distinto de Felipe, el diácono y evangelista de los Hechos.",
+  "know": [
+   "Natural de Betsaida, la ciudad de Andrés y Pedro (Jn 1,44).",
+   "Llevó a Natanael a Jesús (Jn 1,45-46).",
+   "«Señor, muéstranos al Padre» (Jn 14,8).",
+   "Fiesta el 3 de mayo, con Santiago el Menor."
+  ],
+  "feast": "3 de mayo (Santos Felipe y Santiago)"
+ },
+ "philip-the-evangelist": {
+  "name": "Felipe el Evangelista",
+  "role": "Diácono y evangelista",
+  "summary": "Felipe fue uno de los Siete. Dispersado por la persecución que siguió a la muerte de Esteban, predicó a Cristo en Samaría con grandes signos y bautizó a muchos, entre ellos a Simón el mago. Luego un ángel lo envió al camino del desierto que baja a Gaza, donde explicó Isaías 53 a un funcionario de la corte etíope y lo bautizó. Más tarde vivió en Cesarea, donde hospedó a Pablo, y tenía cuatro hijas vírgenes que profetizaban.",
+  "catholic": "Es distinto del apóstol Felipe. Su misión en Samaría muestra el orden sacramental de la Iglesia: Felipe bautizó, pero Pedro y Juan vinieron e impusieron las manos a los bautizados para que recibieran el Espíritu Santo, pasaje que la Iglesia lee como testimonio de la Confirmación (Hch 8,14-17; CEC 1288). Su encuentro con el etíope, que pregunta «¿cómo voy a entenderlo si nadie me guía?» (Hch 8,31), es un texto clásico sobre la lectura de la Escritura en la Iglesia y sobre el vínculo entre catequesis y Bautismo. La elección de los Siete, a quienes los apóstoles impusieron las manos después de orar (Hch 6,6), se lee tradicionalmente como la institución del diaconado, el primer grado del Orden sagrado, conferido «no en orden al sacerdocio, sino en orden al ministerio» (CEC 1569-1571).",
+  "know": [
+   "Uno de los Siete (Hch 6,5); distinto del apóstol Felipe.",
+   "Evangelizó Samaría (Hch 8,5-13).",
+   "Bautizó al eunuco etíope en el camino de Gaza (Hch 8,26-40).",
+   "Llamado «el evangelista»; hospedó a Pablo en Cesarea (Hch 21,8).",
+   "Padre de cuatro hijas que profetizaban (Hch 21,9)."
+  ],
+  "feast": null
+ },
+ "shimei-son-of-gera": {
+  "name": "Semeí hijo de Guerá",
+  "role": "Benjaminita de la casa de Saúl",
+  "summary": "Semeí, benjaminita del clan de Saúl, maldijo y apedreó a David cuando este huía de Absalón; David impidió que Abisay lo matara, diciendo que tal vez el SEÑOR se lo había mandado. Perdonado a la vuelta de David, más tarde Salomón lo confinó en Jerusalén y fue ejecutado cuando quebrantó las condiciones.",
+  "catholic": "La mansa aceptación de las maldiciones de Semeí por parte de David se lee como figura de Cristo, que «cuando lo insultaban, no devolvía el insulto» (1 Pe 2,23).",
+  "know": [
+   "Maldijo a David en Bajurín",
+   "David le perdonó la vida",
+   "Ejecutado por Salomón por salir de Jerusalén"
+  ],
+  "feast": null
+ },
+ "abigail": {
+  "name": "Abigaíl",
+  "role": "Esposa de David",
+  "summary": "Abigaíl, la esposa inteligente y hermosa del grosero Nabal de Carmel, salió con regalos al encuentro de David cuando este venía a vengarse de su casa, y con palabras humildes y sabias lo libró de derramar sangre. Tras la muerte de Nabal, David se casó con ella; fue capturada en Siquelag y rescatada, y dio a David un hijo, Quileab (Daniel).",
+  "catholic": "La intercesión de Abigaíl —que carga la culpa sobre sí y aplaca la ira del futuro rey— ha llevado a autores espirituales a ver en ella una figura de María intercesora y un modelo de pacificadora. Su discurso proclama la «casa estable» de David antes del oráculo de Natán (1 Sam 25,28).",
+  "know": [
+   "Esposa de Nabal y después de David",
+   "Apartó a David de la venganza",
+   "Llamada «la de Carmel»",
+   "Madre de Quileab (Daniel)"
+  ],
+  "feast": null
+ },
+ "artaxerxes-i": {
+  "name": "Artajerjes",
+  "role": "Rey de Persia",
+  "summary": "Artajerjes I (465-424 a. C.) fue el rey persa que primero detuvo la reconstrucción de las murallas de Jerusalén tras recibir cartas hostiles, luego encomendó al sacerdote y escriba Esdras enseñar y hacer cumplir la Ley, y más tarde envió a su copero Nehemías como gobernador para reconstruir las murallas de Jerusalén.",
+  "catholic": "Como Ciro y Darío, Artajerjes muestra a Dios inclinando el corazón de los reyes (Pr 21,1) para el bien de su pueblo; la oración silenciosa de Nehemías antes de responder al rey (Ne 2,4) es un ejemplo clásico de oración breve y confiada en medio del trabajo.",
+  "know": [
+   "Detuvo la obra de las murallas tras la carta de Rejún (Esd 4,7-23).",
+   "Envió a Esdras con un decreto real (Esd 7,11-26).",
+   "Nehemías era su copero (Ne 1,11; 2,1-8)."
+  ],
+  "feast": null
+ },
+ "asahel": {
+  "name": "Asael",
+  "role": "Guerrero, hermano de Joab",
+  "summary": "Asael, hijo de Seruyá, «ligero de pies como una gacela del campo», persiguió a Abner después de la batalla de Gabaón y murió a manos de él, lo que Joab vengó más tarde.",
+  "catholic": "",
+  "know": [
+   "Famoso por su rapidez",
+   "Uno de los Treinta de David"
+  ],
+  "feast": null
+ },
+ "ephraim": {
+  "name": "Efraín",
+  "role": "Hijo de José",
+  "summary": "Hijo menor de José y Asenat, llamado así porque «Dios me ha hecho fecundo en la tierra de mi aflicción». Jacob lo bendijo por encima de su hermano mayor Manasés, y su tribu llegó a ser la principal del reino del norte, de modo que en los profetas «Efraín» designa a todo Israel.",
+  "catholic": "Las manos cruzadas de Jacob, que dan al menor la bendición mayor, reflejan el patrón bíblico de la libre elección de Dios (Abel, Isaac, Jacob, David); Tertuliano vio en ellas una figura de la Cruz. La Carta a los Hebreos cita la bendición de los hijos de José como un acto de fe (Hb 11,21).",
+  "know": [
+   "Su nombre significa «fecundo» (Gn 41,52)",
+   "Bendecido por Jacob por encima de Manasés (Gn 48,14-20)",
+   "Antepasado de Josué (1 Cr 7,20-27)",
+   "Más tarde, nombre del reino del norte"
+  ],
+  "feast": null
+ },
+ "gad-the-seer": {
+  "name": "Gad",
+  "role": "Profeta y vidente",
+  "summary": "El profeta Gad aconsejó a David, durante su huida de Saúl, que fuera a Judá. Después del censo pecaminoso de David, le ofreció elegir entre tres castigos y luego le dijo que construyera un altar en la era de Arauná, el futuro emplazamiento del Templo.",
+  "catholic": "",
+  "know": [
+   "Vidente de David",
+   "Comunicó la elección de castigos tras el censo",
+   "Indicó levantar el altar en la era de Arauná",
+   "Ayudó a organizar la música del Templo"
+  ],
+  "feast": null
+ },
+ "jeduthun": {
+  "name": "Yedutún",
+  "role": "Músico del Templo",
+  "summary": "Yedutún fue, junto con Asaf y Hemán, uno de los tres músicos levitas principales de David; sus hijos profetizaban con la cítara dando gracias al SEÑOR.",
+  "catholic": "Los Salmos 39, 62 y 77 llevan su nombre en sus títulos.",
+  "know": [
+   "Músico principal bajo David",
+   "Posiblemente el mismo que Etán.",
+   "Sus hijos profetizaban con cítaras (1 Cr 25,3)."
+  ],
+  "feast": null
+ },
+ "kareah": {
+  "name": "Caréaj",
+  "role": "Padre de Johanán",
+  "summary": "Caréaj fue el padre de los capitanes Johanán y Jonatán.",
+  "catholic": "",
+  "know": [],
+  "feast": null
+ },
+ "manoah": {
+  "name": "Manóaj",
+  "role": "Padre de Sansón",
+  "summary": "Danita de Sorá, a cuya esposa estéril el ángel del SEÑOR anunció que daría a luz un hijo que sería nazireo desde el seno materno. Manóaj oró para que el ángel volviera, le preguntó su nombre (es «incomprensible») y ofreció un sacrificio; el ángel subió en la llama del altar.",
+  "catholic": "El anuncio del nacimiento de Sansón a una madre estéril, con un mensajero celestial y un niño consagrado, forma parte del patrón que la Iglesia ve culminar en las anunciaciones a Zacarías y a María (Lc 1). La respuesta del ángel de que su nombre es «incomprensible» (Jue 13,18; la palabra hebrea está emparentada con «maravilloso») suele relacionarse por los lectores cristianos con el título mesiánico «Consejero Maravilloso» (Is 9,6).",
+  "know": [
+   "Danita de Sorá (Jue 13,2).",
+   "Oró para que el ángel volviera (Jue 13,8).",
+   "Vio al ángel subir en la llama del altar (Jue 13,20).",
+   "Padre de Sansón."
+  ],
+  "feast": null
+ },
+ "mary-magdalene": {
+  "name": "María Magdalena",
+  "role": "Discípula; Apóstol de los Apóstoles",
+  "summary": "María de Magdala, de quien Jesús expulsó siete demonios, lo siguió desde Galilea y lo ayudó con sus bienes. Estuvo junto a la cruz, vio dónde lo sepultaron y fue al sepulcro muy temprano la mañana de Pascua. Jesús resucitado se le apareció primero a ella, llamándola por su nombre, y la envió a decir a los discípulos: «He visto al Señor».",
+  "catholic": "Por haber sido enviada a anunciar la Resurrección a los apóstoles, la tradición cristiana —san Hipólito llamó a las mujeres miróforas «apóstoles de los apóstoles», y santo Tomás de Aquino usa el título— la honra como «Apóstol de los Apóstoles», y en 2016 el papa Francisco elevó su memoria al rango de fiesta. Es honrada entre las santas mujeres que fueron las primeras testigos de la Resurrección (CEC 641). La tradición occidental, desde san Gregorio Magno, la identificó con la mujer pecadora de Lucas 7 y con María de Betania; el calendario romano reformado (1969) las trata como personas distintas.",
+  "know": [
+   "De ella salieron siete demonios (Lc 8,2; Mc 16,9).",
+   "Presente en la crucifixión, la sepultura y el sepulcro vacío.",
+   "La primera en ver al Señor resucitado (Jn 20,11-18; Mc 16,9).",
+   "Fiesta el 22 de julio."
+  ],
+  "feast": "22 de julio"
+ },
+ "onias-iii": {
+  "name": "Onías III",
+  "role": "Sumo sacerdote",
+  "summary": "El piadoso sumo sacerdote del comienzo de 2 Macabeos, bajo el cual Jerusalén vivía «en completa paz». Defendió los depósitos del Templo frente a Heliodoro y oró por él; fue suplantado por su hermano Jasón y asesinado en Dafne, cerca de Antioquía, por Andrónico a instigación de Menelao. Más tarde Judas lo vio en una visión, orando por todo el pueblo judío.",
+  "catholic": "1 y 2 Macabeos son libros deuterocanónicos, recibidos en el canon de la Iglesia (Roma 382, Hipona 393, Cartago 397, Florencia, y definidos en Trento en 1546), aunque no figuran en la Biblia hebrea ni en el Antiguo Testamento protestante. La visión de Onías difunto y del profeta Jeremías intercediendo por el pueblo (2 Mac 15,12-14) es un testimonio clave del Antiguo Testamento sobre la intercesión de los justos difuntos por quienes están en la tierra, fundamento de la enseñanza de la Iglesia sobre la comunión de los santos.",
+  "know": [
+   "Sumo sacerdote bajo Seleuco IV (2 Mac 3,1-3).",
+   "Oró por Heliodoro cuando este fue herido (2 Mac 3,31-33).",
+   "Asesinado en Dafne (2 Mac 4,33-35).",
+   "Visto en una visión orando por Israel (2 Mac 15,12).",
+   "Flavio Josefo lo llama hijo de Simón II; la Escritura no nombra a su padre."
+  ],
+  "feast": null
+ },
+ "achior": {
+  "name": "Ajior",
+  "role": "Jefe amonita, converso",
+  "summary": "El jefe de los amonitas en el ejército de Holofernes, que le advirtió que Israel no podía ser vencido a menos que pecara contra su Dios, relatándole la historia de Israel desde Abrahán. Holofernes lo entregó a Betulia para que corriera su misma suerte; después de ver la cabeza de Holofernes, creyó, se circuncidó y se unió a la casa de Israel.",
+  "catholic": "Ajior es una imagen notable del gentil que llega a la fe al escuchar la historia de la salvación y ver las obras de Dios, prefiguración de la llamada de la Iglesia a las naciones. Su conversión es llamativa, ya que Dt 23,3 excluía a los amonitas de la asamblea.",
+  "know": [
+   "Jefe de los hijos de Amón (Jdt 5,5).",
+   "Narró a Holofernes la historia de la salvación de Israel (Jdt 5,5-21).",
+   "Se convirtió y fue circuncidado (Jdt 14,10)."
+  ],
+  "feast": null
+ },
+ "ahijah-the-shilonite": {
+  "name": "Ajías de Siló",
+  "role": "Profeta",
+  "summary": "Ajías, profeta de Siló, se encontró con Jeroboán a las afueras de Jerusalén, rasgó su manto nuevo en doce pedazos y le dio diez, anunciándole que Dios le daría diez tribus a causa de la idolatría de Salomón. Años después, ya anciano y ciego, reconoció a la esposa disfrazada de Jeroboán y predijo la muerte de su hijo y la destrucción de la casa de Jeroboán.",
+  "catholic": "",
+  "know": [
+   "Rasgó su manto en doce pedazos",
+   "Predijo la división del reino",
+   "Condenó la idolatría de Jeroboán",
+   "Su profecía se cita como fuente de la historia de Salomón"
+  ],
+  "feast": null
+ },
+ "ahimaaz-son-of-zadok": {
+  "name": "Ajimás",
+  "role": "Sacerdote y mensajero",
+  "summary": "Ajimás, hijo de Sadoc, llevó noticias secretas a David durante la rebelión de Absalón y se adelantó corriendo al cusita para anunciar la victoria, callando con tacto la noticia de la muerte de Absalón.",
+  "catholic": "",
+  "know": [
+   "David lo llamó «un hombre bueno» que trae buenas noticias",
+   "Se escondió en un pozo en Bajurín"
+  ],
+  "feast": null
+ },
+ "amoz": {
+  "name": "Amós (padre de Isaías)",
+  "role": "Padre de Isaías",
+  "summary": "Amós solo se menciona como padre del profeta Isaías.",
+  "catholic": "",
+  "know": [
+   "No debe confundirse con el profeta Amós: los nombres son distintos en hebreo."
+  ],
+  "feast": null
+ },
+ "barak": {
+  "name": "Barac",
+  "role": "Jefe militar, juez",
+  "summary": "Hijo de Abinoán, de Cades de Neftalí, llamado por Débora para guiar a diez mil hombres contra Sísara. Solo quiso ir si Débora iba con él, y por eso el honor de matar a Sísara correspondió a una mujer; derrotó los carros de Sísara junto al Quisón y cantó con Débora.",
+  "catholic": "Hebreos 11,32 cuenta a Barac entre los héroes de la fe que «por la fe conquistaron reinos». Su dependencia de la palabra profética pronunciada por medio de Débora se lee como ejemplo de obediencia a la voz de Dios en la comunidad.",
+  "know": [
+   "Hijo de Abinoán, de Neftalí (Jue 4,6).",
+   "Insistió en que Débora fuera con él (Jue 4,8).",
+   "Derrotó los carros de Sísara (Jue 4,14-16).",
+   "Nombrado entre los fieles en Hb 11,32."
+  ],
+  "feast": null
+ },
+ "hamor": {
+  "name": "Jamor",
+  "role": "Príncipe jivita de Siquén",
+  "summary": "El príncipe jivita de la región de Siquén, a cuyos hijos Jacob compró un campo. Cuando su hijo Siquén violó a Dina, Jamor buscó una alianza matrimonial; los hombres de la ciudad aceptaron circuncidarse, y Simeón y Leví los mataron, entre ellos a Jamor.",
+  "catholic": "",
+  "know": [
+   "Vendió a Jacob un terreno cerca de Siquén por cien monedas (Gn 33,19)",
+   "Muerto junto con su hijo por Simeón y Leví (Gn 34,26)",
+   "Los huesos de José fueron sepultados en la parcela comprada a sus hijos (Jos 24,32)"
+  ],
+  "feast": null
+ },
+ "heliodorus": {
+  "name": "Heliodoro",
+  "role": "Canciller seléucida",
+  "summary": "Canciller de Seleuco IV, enviado a apoderarse de los depósitos del Templo de Jerusalén. Al entrar en el tesoro se le aparecieron un jinete terrible y dos jóvenes que lo azotaron; sobrevivió solo gracias a la oración del sumo sacerdote Onías y regresó confesando el poder de Dios.",
+  "catholic": "La escena inspiró el célebre fresco vaticano de Rafael «La expulsión de Heliodoro del Templo», encargado por el papa Julio II como imagen de Dios que defiende el patrimonio de su Iglesia.",
+  "know": [
+   "Enviado por el rey Seleuco (2 Mac 3,7).",
+   "Derribado por jinetes celestiales (2 Mac 3,24-28).",
+   "Salvado por el sacrificio de Onías (2 Mac 3,31-34)."
+  ],
+  "feast": null
+ },
+ "heman-the-singer": {
+  "name": "Hemán",
+  "role": "Cantor levita, sabio",
+  "summary": "Hemán, hijo de Joel y nieto del profeta Samuel, del clan coreíta de Queat, fue uno de los tres músicos principales del Templo bajo David y «el vidente del rey». El Salmo 88, el lamento más sombrío del Salterio, se atribuye a «Hemán el ezrajita», y 1 Reyes nombra a un Hemán entre los sabios a quienes Salomón superó (se discute si se trata del mismo hombre).",
+  "catholic": "El Salmo 88 («mi alma está colmada de desdichas, mi vida está al borde del abismo») se reza en las Completas de los viernes en la Liturgia de las Horas, el día de la Pasión, y se ha leído como la oración de Cristo en la oscuridad de la muerte.",
+  "know": [
+   "Nieto de Samuel por medio de Joel",
+   "Cantor principal de los queatitas bajo David",
+   "Sus catorce hijos servían en la música",
+   "Nieto de Samuel (1 Cr 6,33).",
+   "Catorce hijos y tres hijas (1 Cr 25,5).",
+   "El Salmo 88 lleva su nombre.",
+   "Nombrado entre los sabios en 1 Re 4,31."
+  ],
+  "feast": null
+ },
+ "hushai": {
+  "name": "Jusay el arquita",
+  "role": "Amigo y consejero de David",
+  "summary": "Jusay el arquita, «el amigo de David», se encontró con David en el monte de los Olivos durante la rebelión de Absalón y regresó como agente doble. Su consejo a Absalón desbarató el acertado consejo de Ajitófel y dio a David tiempo para escapar.",
+  "catholic": "",
+  "know": [
+   "Llamado «el amigo del rey»",
+   "Desbarató el consejo de Ajitófel",
+   "Envió información a David por medio de los hijos de los sacerdotes"
+  ],
+  "feast": null
+ },
+ "ishbosheth": {
+  "name": "Isbaal",
+  "role": "Rey de Israel (heredero de Saúl)",
+  "summary": "Isbaal, hijo de Saúl, fue proclamado rey de Israel en Majanáin por Abner y reinó dos años mientras David gobernaba Judá en Hebrón. Después de que acusara a Abner por causa de Rispá, la concubina de Saúl, Abner se pasó al bando de David; Isbaal fue luego asesinado en su cama por Recab y Baaná, a quienes David hizo ejecutar.",
+  "catholic": "",
+  "know": [
+   "Reinó dos años sobre las tribus del norte",
+   "Llamado Esbaal en Crónicas",
+   "Asesinado por dos de sus propios capitanes",
+   "Posiblemente el Isví de 1 Sam 14,49"
+  ],
+  "feast": null
+ },
+ "jehozadak": {
+  "name": "Josadac",
+  "role": "Sacerdote en el destierro",
+  "summary": "Josadac, hijo de Seraías, fue llevado cautivo cuando Nabucodonosor tomó Jerusalén; su hijo Josué (Jesúa) llegó a ser sumo sacerdote de los repatriados junto a Zorobabel.",
+  "catholic": "",
+  "know": [
+   "También escrito Yosadac",
+   "Padre de Josué, el sumo sacerdote de la restauración",
+   "Padre de Jesúa, el sumo sacerdote.",
+   "Escrito Josadac en Ageo y Zacarías, y Josedec en el Sirácida."
+  ],
+  "feast": null
+ },
+ "mephibosheth": {
+  "name": "Meribaal (Mefibóset)",
+  "role": "Hijo de Jonatán",
+  "summary": "Meribaal, hijo de Jonatán, quedó cojo a los cinco años cuando su nodriza huyó con él al llegar la noticia de Gelboé. David, fiel a su alianza con Jonatán, le devolvió las tierras de Saúl y lo hizo comer siempre a la mesa del rey. Durante la rebelión de Absalón, su siervo Sibá lo acusó de deslealtad; al regreso de David salió a su encuentro sin lavarse, en señal de duelo, y David repartió las tierras entre ambos.",
+  "catholic": "Meribaal a la mesa del rey es una imagen predilecta de la gracia: un heredero cojo e indefenso de una casa caída, invitado por amor a otro a comer siempre con el rey, imagen del pecador acogido a la mesa eucarística por amor a Cristo. Su historia muestra el hesed (bondad fiel a la alianza) de David.",
+  "know": [
+   "Cojo de ambos pies desde niño",
+   "Comía a la mesa de David por amor a Jonatán",
+   "Calumniado por Sibá",
+   "Llamado Meribaal en Crónicas",
+   "Padre de Micá"
+  ],
+  "feast": null
+ },
+ "ner": {
+  "name": "Ner",
+  "role": "Padre de Abner",
+  "summary": "Ner, hijo de Abiel, era tío de Saúl y padre de Abner, jefe del ejército de Saúl.",
+  "catholic": "",
+  "know": [
+   "Tío de Saúl",
+   "Padre de Abner"
+  ],
+  "feast": null
+ },
+ "omri": {
+  "name": "Omrí",
+  "role": "Rey de Israel",
+  "summary": "Omrí, jefe del ejército, fue proclamado rey tras el golpe de Zimrí, venció a Tibní y reinó doce años. Compró la colina de Samaría y la edificó como nueva capital de Israel, fundando una poderosa dinastía, pero hizo más mal que todos sus predecesores.",
+  "catholic": "",
+  "know": [
+   "Fundó Samaría como capital",
+   "Fundador de la dinastía de Ajab",
+   "Conocido en los registros asirios («casa de Omrí»)"
+  ],
+  "feast": null
+ },
+ "uzziah-of-bethulia": {
+  "name": "Ozías de Betulia",
+  "role": "Anciano principal de Betulia",
+  "summary": "Ozías, hijo de Micá, de la tribu de Simeón, magistrado principal de Betulia. Durante el asedio prometió rendirse en cinco días si Dios no los socorría, por lo que Judit lo reprendió; después la bendijo «por encima de todas las mujeres de la tierra».",
+  "catholic": "La bendición de Ozías a Judit (Jdt 13,18) anticipa el saludo de Isabel a María (Lc 1,42) y se usa en la liturgia mariana de la Iglesia.",
+  "know": [
+   "Llamado Ozías en esta traducción (Uzías en otras).",
+   "Fijó un plazo de cinco días para la ayuda de Dios (Jdt 7,30-31).",
+   "Bendijo a Judit (Jdt 13,18-20)."
+  ],
+  "feast": null
+ },
+ "festus": {
+  "name": "Porcio Festo",
+  "role": "Gobernador romano de Judea",
+  "summary": "Porcio Festo sucedió a Félix como gobernador. Cuando propuso enviar a Pablo a Jerusalén para ser juzgado, Pablo, ciudadano romano, apeló al César. Festo expuso el caso al rey Agripa y, al oír a Pablo hablar de la resurrección, exclamó: «¡Estás loco, Pablo!».",
+  "catholic": "La apelación de Pablo ante Festo es el medio providencial por el que llega a Roma, cumpliendo la palabra del Señor de que daría testimonio allí (Hch 23,11).",
+  "know": [
+   "Sucesor de Félix (Hch 24,27).",
+   "Pablo apeló al César ante él (Hch 25,11-12).",
+   "Consultó al rey Agripa sobre las acusaciones."
+  ],
+  "feast": null
+ },
+ "raphael-archangel": {
+  "name": "Rafael",
+  "role": "Arcángel",
+  "summary": "El ángel enviado por Dios para responder a las oraciones de Tobit y de Sara. Disfrazado de pariente con el nombre de Azarías, hijo de Ananías, guio a Tobías hasta Media, le enseñó a usar el pez para ahuyentar a Asmodeo y curar a Tobit, y ató al demonio. Al final se reveló: «Yo soy Rafael, uno de los siete santos ángeles que presentan las oraciones de los santos».",
+  "catholic": "Rafael («Dios sana») es uno de los tres únicos ángeles nombrados en la Biblia católica, junto con Miguel y Gabriel, y se le venera con ellos el 29 de septiembre, fiesta de los Arcángeles. Tobit 12 fundamenta la enseñanza de la Iglesia sobre los ángeles que presentan nuestras oraciones ante Dios (cf. Ap 8,3-4) y nos acompañan en el camino; el Catecismo enseña que «desde su comienzo hasta la muerte, la vida humana está rodeada de su custodia y de su intercesión» (CEC 336). Es patrono de los viajeros, de los enfermos y de quienes los sanan, y de los jóvenes que buscan esposo o esposa.",
+  "know": [
+   "Su nombre significa «Dios sana».",
+   "Usó el nombre de Azarías, hijo de Ananías (Tb 5,12).",
+   "Ató al demonio Asmodeo (Tb 8,3).",
+   "«Uno de los siete santos ángeles» (Tb 12,15).",
+   "Fiesta: 29 de septiembre, con Miguel y Gabriel (24 de octubre antes de la reforma del calendario de 1969)."
+  ],
+  "feast": "29 de septiembre"
+ },
+ "ruth": {
+  "name": "Rut",
+  "role": "Antepasada moabita de David",
+  "summary": "Viuda moabita de Majlón que se negó a abandonar a su suegra Noemí: «Adonde tú vayas, iré yo... tu pueblo será mi pueblo, y tu Dios será mi Dios». Espigando en los campos de Booz en Belén, se ganó su bondad, lo buscó como redentor en la era y llegó a ser su esposa. Su hijo Obed fue el abuelo del rey David.",
+  "catholic": "Rut es una de las cuatro mujeres nombradas en la genealogía de Jesús según Mateo (Mt 1,5), una gentil que por la fe y la bondad fiel (hesed) entra en el pueblo de Dios y llega a ser antepasada del Mesías, signo del alcance universal de la salvación. Sus palabras a Noemí son una expresión clásica de la fidelidad a la alianza y se usan a menudo en las bodas. Booz, como su pariente redentor, se ha leído desde antiguo como figura de Cristo, que toma a la Iglesia de los gentiles como esposa.",
+  "know": [
+   "Viuda moabita de Majlón (Rt 4,10).",
+   "«Tu pueblo será mi pueblo, y tu Dios será mi Dios» (Rt 1,16).",
+   "Espigó en el campo de Booz (Rt 2).",
+   "Se casó con Booz; madre de Obed (Rt 4,13).",
+   "Bisabuela de David; nombrada en Mt 1,5."
+  ],
+  "feast": null
+ },
+ "tamar-daughter-of-david": {
+  "name": "Tamar",
+  "role": "Hija de David",
+  "summary": "Tamar, la hermosa hija de David y hermana de padre y madre de Absalón, fue violada por su medio hermano Amnón y luego echada fuera; vivió desolada en casa de Absalón, y la venganza de este desencadenó las tragedias de los últimos años del reinado de David.",
+  "catholic": "La protesta de Tamar —«¡No cometas esta infamia!»— da voz a la dignidad de la víctima, y el relato expone con honestidad las consecuencias del pecado en la casa de David que Natán había predicho (2 Sam 12,10).",
+  "know": [
+   "Hermana de Absalón",
+   "Vestía una túnica de muchos colores, como hija del rey",
+   "Violada por Amnón"
+  ],
+  "feast": null
+ },
+ "the-two-elders": {
+  "name": "Los dos ancianos",
+  "role": "Jueces corruptos (grupo)",
+  "summary": "Dos ancianos nombrados jueces en Babilonia desearon a Susana, intentaron forzarla y, cuando ella se negó, la acusaron de adulterio con un joven. Daniel los separó; uno nombró una acacia y el otro una encina, y fueron condenados a muerte según la ley del falso testimonio.",
+  "catholic": "",
+  "know": [
+   "Entrada de grupo para dos hombres sin nombre.",
+   "Desenmascarados mediante interrogatorios por separado (Dn 13,51-59).",
+   "Castigados como prescribe la ley de Moisés para los testigos falsos (Dt 19,18-19)."
+  ],
+  "feast": null
+ },
+ "tobiah-the-ammonite": {
+  "name": "Tobías el amonita",
+  "role": "Funcionario (adversario)",
+  "summary": "Funcionario («siervo») amonita aliado de Sanbalat que se burló de los constructores de la muralla y los amenazó, y que mantenía una red de aliados judíos mediante lazos matrimoniales. Mientras Nehemías estaba ausente, el sacerdote Eliasib le dio una habitación en el Templo; Nehemías arrojó fuera sus muebles.",
+  "catholic": "",
+  "know": [
+   "Se burló: «si un zorro se sube, derriba su muralla de piedra» (Ne 4,3).",
+   "Emparentado por matrimonio con familias principales de Jerusalén (Ne 6,17-19).",
+   "Expulsado de la habitación del Templo (Ne 13,4-9)."
+  ],
+  "feast": null
+ },
+ "zerah-son-of-judah": {
+  "name": "Zéraj (hijo de Judá)",
+  "role": "Hijo de Judá",
+  "summary": "Hijo gemelo de Judá y Tamar, a quien al nacer le ataron un hilo escarlata en la mano, aunque su hermano Fares nació primero; antepasado del clan de los zerajitas, entre ellos Acán.",
+  "catholic": "",
+  "know": [
+   "El hilo escarlata en su mano (Gn 38,28-30)",
+   "Antepasado de Acán (Jos 7,1)",
+   "Nombrado en Mt 1,3 junto con Fares"
+  ],
+  "feast": null
+ },
+ "ziba": {
+  "name": "Sibá",
+  "role": "Mayordomo de la casa de Saúl",
+  "summary": "Sibá, siervo de la casa de Saúl, informó a David acerca de Meribaal y administró sus tierras; durante la rebelión de Absalón llevó provisiones a David y acusó falsamente a su señor, obteniendo la mitad de la hacienda.",
+  "catholic": "",
+  "know": [
+   "Tenía quince hijos y veinte siervos",
+   "Acusó a Meribaal de traición"
+  ],
+  "feast": null
+ },
+ "abihu": {
+  "name": "Abihú",
+  "role": "Sacerdote",
+  "summary": "Segundo hijo de Aarón. Subió al Sinaí con Moisés, Aarón, Nadab y los setenta ancianos, pero murió fulminado junto con Nadab por ofrecer un fuego profano.",
+  "catholic": "Como en el caso de Nadab, su destino se lee como advertencia contra el culto irreverente o según el propio capricho.",
+  "know": [
+   "Segundo hijo de Aarón.",
+   "Vio al Dios de Israel en el Sinaí (Ex 24,9-10).",
+   "Consumido por el fuego junto con Nadab (Lv 10,2).",
+   "Murió sin hijos (Nm 3,4)."
+  ],
+  "feast": null
+ },
+ "andrew": {
+  "name": "Andrés",
+  "role": "Apóstol",
+  "summary": "Pescador de Betsaida y primero discípulo de Juan el Bautista, Andrés siguió a Jesús cuando Juan lo llamó el Cordero de Dios, y enseguida llevó a su hermano Simón ante Jesús. En la multiplicación para los cinco mil señaló al muchacho que tenía cinco panes y dos peces, y junto con Felipe llevó a Jesús a los griegos que querían verlo.",
+  "catholic": "La Iglesia oriental lo llama Protóclito, «el Primer Llamado» (Jn 1,40). La tradición sostiene que predicó en torno al mar Negro y en Grecia, y que fue crucificado en Patras en una cruz en forma de X, la «cruz de San Andrés». Es patrono de Escocia, Rusia y Grecia, y del Patriarcado Ecuménico de Constantinopla, por lo que su fiesta es un signo de amistad entre católicos y ortodoxos.",
+  "know": [
+   "Hermano de Simón Pedro; hijo de Juan/Jonás.",
+   "Primero discípulo de Juan el Bautista (Jn 1,35-40).",
+   "Llevó a Pedro ante Jesús (Jn 1,41-42).",
+   "Fiesta el 30 de noviembre."
+  ],
+  "feast": "30 de noviembre"
+ },
+ "bathsheba": {
+  "name": "Betsabé",
+  "role": "Reina madre",
+  "summary": "Betsabé, hija de Eliam y esposa de Urías el hitita, fue tomada por David, quien luego dispuso la muerte de Urías; su primer hijo murió. Dio a luz a Salomón y a otros hijos, y con Natán aseguró la sucesión de Salomón frente a Adonías. Como reina madre se sentaba en un trono a la derecha del rey Salomón, quien se levantaba y se inclinaba ante ella cuando acudía a interceder.",
+  "catholic": "Betsabé es el ejemplo bíblico más claro de la guebirá, la reina madre del reino davídico: el rey se levanta a recibirla, se inclina y le hace poner un trono a su derecha (1 Re 2,19). La teología católica ve aquí un tipo de la realeza de María: la madre del Hijo de David reina junto a su Hijo e intercede ante él, así como María fue «exaltada por el Señor como Reina del universo» (CEC 966) y el reino de Cristo es el cumplimiento del de David. La genealogía de Mateo la nombra discretamente como «la que había sido mujer de Urías» (Mt 1,6), una de las cuatro mujeres anteriores a María.",
+  "know": [
+   "Esposa de Urías y después de David",
+   "Madre de Salomón (y de Simá, Sobab y Natán)",
+   "Llamada Betsúa en 1 Crónicas",
+   "Se sentaba a la derecha del rey como reina madre",
+   "Nombrada en la genealogía de Jesús"
+  ],
+  "feast": null
+ },
+ "eber": {
+  "name": "Éber",
+  "role": "Patriarca posdiluviano",
+  "summary": "Hijo de Sélaj y padre de Péleg y de Joctán. A Sem se le llama «padre de todos los hijos de Éber», y el nombre suele relacionarse con la palabra «hebreo».",
+  "catholic": "",
+  "know": [
+   "Sem es «padre de todos los hijos de Éber» (Gn 10,21)",
+   "Nombre asociado tradicionalmente con «hebreo»",
+   "Incluido en Lucas 3,35"
+  ],
+  "feast": null
+ },
+ "enoch": {
+  "name": "Henoc",
+  "role": "Patriarca que caminó con Dios",
+  "summary": "Hijo de Yéred, de la línea de Set, y padre de Matusalén. «Caminó con Dios, y desapareció, porque Dios se lo llevó» a los 365 años, de modo que no vio la muerte.",
+  "catholic": "Hebreos dice que Henoc fue arrebatado «para que no viera la muerte» porque agradó a Dios por la fe (Hb 11,5), y el Sirácida lo llama «ejemplo de conversión para todas las generaciones» (Si 44,16; 49,14). El Catecismo cita su «caminar con Dios» como modelo de oración (CEC 2569). Varios Padres de la Iglesia esperaban que Henoc, junto con Elías, volviera antes del fin como los dos testigos de Apocalipsis 11, aunque esto no es doctrina definida. Judas 14-15 cita una profecía que se le atribuye.",
+  "know": [
+   "Caminó con Dios y Dios se lo llevó (Gn 5,24)",
+   "Vivió 365 años en la tierra",
+   "Padre de Matusalén",
+   "Alabado en Hb 11,5 y Si 44,16; 49,14",
+   "Distinto de Henoc, hijo de Caín"
+  ],
+  "feast": null
+ },
+ "gehazi": {
+  "name": "Guejazí",
+  "role": "Siervo de Eliseo",
+  "summary": "Guejazí, siervo de Eliseo, sugirió la recompensa para la sunamita y llevó el bastón del profeta hasta el hijo de ella. Después de que Eliseo rechazara los regalos de Naamán, Guejazí corrió tras él, mintió para obtener plata y vestidos, y fue herido con la lepra de Naamán. Más tarde contó al rey las grandes obras de Eliseo.",
+  "catholic": "El intento de Guejazí de lucrarse con un don de Dios suele emparejarse con Simón el mago (Hch 8) como arquetipo de la simonía, el pecado de comerciar con las cosas espirituales.",
+  "know": [
+   "Siervo de Eliseo",
+   "Obtuvo plata de Naamán con engaño",
+   "Herido de lepra",
+   "Relató al rey los milagros de Eliseo"
+  ],
+  "feast": null
+ },
+ "hagar": {
+  "name": "Agar",
+  "role": "Esclava egipcia de Sara",
+  "summary": "Esclava egipcia de Sara, entregada a Abrahán como mujer para que Sara tuviera hijos por medio de ella. Maltratada después de concebir, huyó, y el ángel del SEÑOR la encontró en el desierto; ella llamó a Dios «El Roí», el Dios que ve. Tras el nacimiento de Isaac, ella y su hijo Ismael fueron despedidos, y Dios los salvó en el desierto de Berseba abriéndole los ojos para que viera un pozo.",
+  "catholic": "San Pablo usa a Agar alegóricamente para la alianza del monte Sinaí, que engendra hijos para la esclavitud, en contraste con Sara, la mujer libre (Gál 4,21-31). Sin embargo, el Génesis muestra el tierno cuidado de Dios por ella: es la primera persona de la Escritura a quien visita el ángel del SEÑOR y la única que da un nombre a Dios: «el Dios que ve» (Gn 16,13).",
+  "know": [
+   "Esclava egipcia de Sara (Gn 16,1)",
+   "Llamó a Dios «El Roí», «el Dios que ve» (Gn 16,13)",
+   "Madre de Ismael",
+   "Dios escuchó el llanto de su hijo en el desierto (Gn 21,17)",
+   "Alegoría de la alianza del Sinaí en Gál 4"
+  ],
+  "feast": null
+ },
+ "herod-agrippa-ii": {
+  "name": "Herodes Agripa II",
+  "role": "Rey",
+  "summary": "El rey Agripa, hijo de Herodes Agripa I, visitó a Festo en Cesarea con su hermana Berenice y escuchó la defensa de Pablo. Pablo apeló a su conocimiento de los profetas; Agripa respondió: «Por poco me persuades a hacerme cristiano», y juzgó que Pablo podría haber sido puesto en libertad si no hubiera apelado al César.",
+  "catholic": "El discurso de Pablo ante Agripa (Hch 26) es su relato más completo de su conversión y de su misión de abrir los ojos de los gentiles. La tibia respuesta de Agripa suele predicarse como el peligro de estar «casi persuadido».",
+  "know": [
+   "Llamado «el rey Agripa» en Hechos 25-26.",
+   "Escuchó la defensa de Pablo junto con Berenice y Festo.",
+   "Dijo que Pablo podría haber sido liberado si no hubiera apelado al César (Hch 26,32)."
+  ],
+  "feast": null
+ },
+ "heth": {
+  "name": "Het",
+  "role": "Hijo de Canaán",
+  "summary": "Hijo de Canaán, antepasado de los «hijos de Het» (hititas), a quienes Abrahán compró la cueva de Macpelá.",
+  "catholic": "",
+  "know": [
+   "Los «hijos de Het» vendieron a Abrahán un lugar de sepultura (Gn 23)"
+  ],
+  "feast": null
+ },
+ "kish": {
+  "name": "Quis",
+  "role": "Padre de Saúl",
+  "summary": "Quis, hijo de Abiel, era un benjaminita acaudalado de Guibeá; Saúl conoció a Samuel mientras buscaba las burras perdidas de su padre.",
+  "catholic": "",
+  "know": [
+   "Padre del rey Saúl",
+   "Pablo lo recuerda en Hch 13,21",
+   "1 Crónicas lo hace hijo de Ner"
+  ],
+  "feast": null
+ },
+ "martha": {
+  "name": "Marta",
+  "role": "Discípula; amiga de Jesús",
+  "summary": "Marta de Betania, hermana de María y de Lázaro, recibió a Jesús en su casa y andaba «atareada con muchos quehaceres» mientras María escuchaba a sus pies. Cuando murió Lázaro, salió al encuentro de Jesús y confesó: «Yo creo que tú eres el Mesías, el Hijo de Dios»; en la cena de Betania antes de la Pasión volvió a servir.",
+  "catholic": "La confesión de fe de Marta ante la tumba de Lázaro (Jn 11,27) es paralela a la de Pedro, y las palabras de Jesús a ella, «Yo soy la resurrección y la vida», se leen en los funerales. Junto con María, se la interpreta clásicamente como la vida activa al lado de la contemplativa. En 2021 el papa Francisco amplió su memoria del 29 de julio para incluir a su hermana María y a su hermano Lázaro. Es patrona de cocineros, de quienes sirven y de la hospitalidad.",
+  "know": [
+   "Hermana de María y de Lázaro de Betania (Jn 11,1).",
+   "«Marta, Marta, andas inquieta y preocupada por muchas cosas» (Lc 10,41).",
+   "Confesó a Jesús como el Mesías, el Hijo de Dios (Jn 11,27).",
+   "Fiesta el 29 de julio (Santos Marta, María y Lázaro)."
+  ],
+  "feast": "29 de julio (Santos Marta, María y Lázaro)"
+ },
+ "miriam": {
+  "name": "María (hermana de Moisés)",
+  "role": "Profetisa",
+  "summary": "Hermana de Moisés y de Aarón, llamada profetisa. Guio a las mujeres con cantos y danzas después del paso del mar Rojo. Cuando ella y Aarón hablaron contra Moisés, quedó leprosa y fue excluida del campamento siete días; murió en Cades.",
+  "catholic": "El canto de María junto al mar (Ex 15,20-21) es uno de los himnos más antiguos de la Escritura, y el Cántico de Moisés se canta en Laudes y se proclama en la Vigilia Pascual. Los autores cristianos han señalado desde antiguo que María, la Madre de Jesús, lleva el nombre de la hermana de Moisés, y han comparado su canto de liberación con el Magníficat. Miqueas 6,4 la cuenta, con Moisés y Aarón, entre los que Dios envió delante de Israel.",
+  "know": [
+   "Llamada «la profetisa» (Ex 15,20).",
+   "Se la identifica habitualmente con la hermana que vigilaba al niño Moisés (Ex 2,4-8).",
+   "Quedó leprosa después de criticar a Moisés (Nm 12).",
+   "Murió en Cades (Nm 20,1)."
+  ],
+  "feast": null
+ },
+ "nadab-son-of-aaron": {
+  "name": "Nadab",
+  "role": "Sacerdote",
+  "summary": "Hijo primogénito de Aarón. Con Abihú y los setenta ancianos vio al Dios de Israel en el Sinaí, pero después de su consagración él y Abihú ofrecieron un «fuego profano» ante el SEÑOR, y salió fuego que los consumió.",
+  "catholic": "La muerte de Nadab y Abihú se lee como una seria lección de que el culto debe ofrecerse como Dios manda, no según invención humana, tema que la Iglesia aplica a la reverencia en la liturgia.",
+  "know": [
+   "Primogénito de Aarón (Ex 6,23).",
+   "Vio a Dios en el Sinaí con los ancianos (Ex 24,9-11).",
+   "Murió al ofrecer un fuego no autorizado (Lv 10,1-2).",
+   "Murió sin hijos (Nm 3,4)."
+  ],
+  "feast": null
+ },
+ "shealtiel": {
+  "name": "Salatiel",
+  "role": "Príncipe davídico en el destierro",
+  "summary": "Hijo del rey desterrado Jeconías (Joaquín), nacido en Babilonia, y padre (o padre legal) de Zorobabel. Aparece sobre todo en las genealogías y en la fórmula «Zorobabel, hijo de Salatiel».",
+  "catholic": "Salatiel es un eslabón de la genealogía de Jesús tanto en Mateo como en Lucas, signo de que Dios preservó la casa de David a través de la oscuridad del destierro, como lo había prometido (2 Sam 7,16).",
+  "know": [
+   "Hijo de Jeconías, nacido en el cautiverio.",
+   "Padre de Zorobabel en Esdras, Ageo, Mateo y Lucas.",
+   "Incluido en ambas genealogías evangélicas de Jesús."
+  ],
+  "feast": null
+ },
+ "titus": {
+  "name": "Tito",
+  "role": "Obispo y compañero de Pablo",
+  "summary": "Tito era un griego convertido y colaborador de confianza de Pablo. Pablo lo llevó a Jerusalén, donde no se le obligó a circuncidarse, caso de prueba para la libertad de los creyentes gentiles. Realizó delicadas misiones en Corinto, organizó la colecta para Jerusalén y fue dejado en Creta para «establecer presbíteros en cada ciudad»; a él va dirigida la Carta a Tito.",
+  "catholic": "Los santos Timoteo y Tito se celebran juntos el 26 de enero. La tradición sostiene que Tito fue el primer obispo de Creta. El encargo de Pablo de establecer presbíteros en cada ciudad (Tit 1,5) es un testimonio clave del orden apostólico del ministerio y de la sucesión apostólica: quienes recibieron autoridad de los apóstoles ordenaron a su vez a otros. La Carta a Tito ofrece a la Iglesia un texto bautismal clásico, «el baño de regeneración y renovación por el Espíritu Santo» (Tit 3,5), que se lee en la liturgia de Navidad junto con Tit 2,11-14.",
+  "know": [
+   "Griego, no circuncidado (Gál 2,3).",
+   "«Compañero y colaborador» de Pablo (2 Cor 8,23).",
+   "Dejado en Creta para establecer presbíteros (Tit 1,5).",
+   "Fiesta con Timoteo el 26 de enero."
+  ],
+  "feast": "26 de enero (con San Timoteo)"
+ },
+ "amasa": {
+  "name": "Amasá",
+  "role": "Comandante",
+  "summary": "Amasá, sobrino de David, mandó el ejército rebelde de Absalón; David lo perdonó y lo nombró jefe del ejército en lugar de Joab, pero Joab lo apuñaló a traición mientras lo saludaba con un beso.",
+  "catholic": "",
+  "know": [
+   "Hijo de Abigaíl, hermana de David",
+   "Asesinado por Joab"
+  ],
+  "feast": null
+ },
+ "amminadab": {
+  "name": "Aminadab",
+  "role": "Antepasado de David",
+  "summary": "Hombre de Judá, hijo de Ram, padre de Najsón, príncipe de Judá, y de Eliseba, esposa de Aarón, de modo que la línea real de Judá y la línea sacerdotal de Aarón se unen en su casa.",
+  "catholic": "Mateo y Lucas lo incluyen en la genealogía de Jesús, de modo que es uno de los eslabones por los que la promesa hecha a Judá («no se apartará el cetro de Judá», Gn 49,10) pasa a David y a Cristo. Por medio de su hija Eliseba es también abuelo de los sacerdotes de Israel.",
+  "know": [
+   "Hijo de Ram (Rt 4,19).",
+   "Padre de Najsón y de Eliseba, esposa de Aarón (Ex 6,23).",
+   "En las genealogías de Mt 1,4 y Lc 3,33."
+  ],
+  "feast": null
+ },
+ "amram": {
+  "name": "Amram",
+  "role": "Levita, padre de Moisés",
+  "summary": "Hijo de Queat y nieto de Leví. Se casó con su tía Jocabed, y fueron los padres de Aarón, Moisés y María.",
+  "catholic": "Amram es honrado en la Escritura sobre todo a través de sus hijos. Hebreos 11,23 alaba la fe de los padres de Moisés, que escondieron al niño y «no temieron el decreto del rey», ejemplo que la Iglesia propone de padres que protegen la vida de un hijo frente a un decreto injusto.",
+  "know": [
+   "Hijo de Queat, nieto de Leví.",
+   "Se casó con Jocabed, hermana de su padre (Ex 6,20).",
+   "Padre de Aarón, Moisés y María.",
+   "Vivió 137 años."
+  ],
+  "feast": null
+ },
+ "asher": {
+  "name": "Aser",
+  "role": "Hijo de Jacob",
+  "summary": "Segundo hijo de Jacob y Zilpá; Lía lo llamó «dichoso». Jacob dijo que su pan sería sustancioso y que daría manjares dignos de reyes.",
+  "catholic": "La profetisa Ana, que recibió al niño Jesús en el Templo, era de la tribu de Aser (Lc 2,36).",
+  "know": [
+   "Hijo de Jacob y Zilpá (Gn 30,12-13)",
+   "Padre de Imná, Isvá, Isví, Beriá y Séraj (Gn 46,17)",
+   "La profetisa Ana era de su tribu (Lc 2,36)"
+  ],
+  "feast": null
+ },
+ "haggai": {
+  "name": "Ageo",
+  "role": "Profeta",
+  "summary": "Ageo profetizó en el 520 a. C., segundo año de Darío I, a los repatriados en Jerusalén. Los reprendió por vivir en casas artesonadas mientras la casa de Dios estaba en ruinas, movió al gobernador Zorobabel y al sumo sacerdote Josué a reconstruir el Templo, y prometió que la gloria de la nueva casa superaría a la de la antigua.",
+  "catholic": "La promesa de Ageo de que Dios «sacudiría a todas las naciones» y llenaría de gloria el Templo (Ag 2,6-9) se leyó en la tradición cristiana como anuncio de la venida de Cristo al Templo (cf. Mal 3,1; Lc 2,22-32); el «vendrá el deseado de todas las naciones» de la Vulgata (Ag 2,7) hizo de este versículo un texto clásico de Adviento. Hebreos 12,26-28 aplica su «una vez más sacudiré el cielo y la tierra» al Reino inconmovible.",
+  "know": [
+   "Cuatro oráculos fechados, todos en el 520 a. C. (Ag 1,1; 2,1; 2,10; 2,20).",
+   "La reconstrucción del Templo se reanudó gracias a su predicación (Esd 5,1-2; 6,14).",
+   "Llamó a Zorobabel «anillo de sello» de Dios (Ag 2,23)."
+  ],
+  "feast": null
+ },
+ "hannah": {
+  "name": "Ana",
+  "role": "Madre de Samuel",
+  "summary": "Ana, la esposa amada pero estéril de Elcaná, derramó su alma en oración silenciosa en el santuario de Siló e hizo voto de entregar un hijo al SEÑOR. Elí primero la tomó por ebria y luego la bendijo. Dio a luz a Samuel, lo destetó y lo llevó a Elí para que sirviera en Siló, entonando un cántico de alabanza que celebra a Dios, que levanta a los humildes.",
+  "catholic": "El Cántico de Ana (1 Sam 2,1-10) es el modelo más claro en el Antiguo Testamento del Magníficat de María (Lc 1,46-55): ambos se alegran en Dios, que humilla a los soberbios, enaltece a los humildes y colma de bienes a los hambrientos, y la Iglesia reza el cántico de Ana en la Liturgia de las Horas. El Catecismo nombra a Ana entre las santas mujeres cuya misión preparó la de María (CEC 489) y dice que el joven Samuel aprendió de ella a estar en presencia del SEÑOR (CEC 2578). Su oración perseverante y sin palabras es un ejemplo clásico de oración del corazón, y la ofrenda de su hijo prefigura la Presentación de Jesús en el Templo.",
+  "know": [
+   "Oró con tanto fervor en Siló que Elí pensó que estaba ebria",
+   "Consagró a Samuel al SEÑOR como servidor a la manera de un nazireo",
+   "Su Cántico (1 Sam 2,1-10) es paralelo al Magníficat de María",
+   "Más tarde dio a luz tres hijos y dos hijas más"
+  ],
+  "feast": null
+ },
+ "japheth": {
+  "name": "Jafet",
+  "role": "Hijo de Noé",
+  "summary": "Hijo de Noé que, junto con Sem, cubrió la desnudez de su padre. Noé oró: «Que Dios engrandezca a Jafet; que habite en las tiendas de Sem». Sus hijos figuran como antepasados de las «islas de las naciones».",
+  "catholic": "Muchos Padres leyeron «que habite en las tiendas de Sem» como prefiguración de la entrada de los gentiles en la herencia de Israel por medio de la Iglesia.",
+  "know": [
+   "Hijo de Noé (Gn 5,32)",
+   "Bendecido: «Que Dios engrandezca a Jafet» (Gn 9,27)",
+   "Padre de Gómer, Magog, Madai, Javán, Tubal, Mésec y Tirás (Gn 10,2)"
+  ],
+  "feast": null
+ },
+ "jason-high-priest": {
+  "name": "Jasón, el sumo sacerdote",
+  "role": "Sumo sacerdote (helenizante)",
+  "summary": "Hermano de Onías III, Jasón compró el sumo sacerdocio a Antíoco IV, construyó un gimnasio en Jerusalén e introdujo al pueblo en las costumbres griegas. Superado en la puja por Menelao, huyó a Amón; su posterior intento violento de recuperar Jerusalén fracasó, y murió fugitivo entre los espartanos sin que nadie lo llorara.",
+  "catholic": "",
+  "know": [
+   "Según Flavio Josefo, se llamaba originalmente Josué/Jesús.",
+   "Compró el sumo sacerdocio (2 Mac 4,7-10).",
+   "Construyó un gimnasio al pie de la ciudadela (2 Mac 4,12).",
+   "Murió desterrado en Esparta (2 Mac 5,8-10)."
+  ],
+  "feast": null
+ },
+ "jehoahaz-king-of-israel": {
+  "name": "Joacaz de Israel",
+  "role": "Rey de Israel",
+  "summary": "Joacaz, hijo de Jehú, reinó diecisiete años, durante los cuales Jazael y Ben Hadad de Siria aplastaron al ejército de Israel; él buscó al SEÑOR, que dio a Israel un libertador.",
+  "catholic": "",
+  "know": [
+   "Israel quedó reducido a 50 jinetes y 10 carros"
+  ],
+  "feast": null
+ },
+ "jethro": {
+  "name": "Jetró",
+  "role": "Sacerdote de Madián",
+  "summary": "Sacerdote de Madián y suegro de Moisés, llamado también Reuel. Acogió a Moisés durante cuarenta años, le dio a su hija Séfora y más tarde fue al Sinaí, alabó al SEÑOR por la liberación de Egipto, ofreció sacrificios y aconsejó a Moisés que nombrara jueces para compartir la carga de gobernar al pueblo.",
+  "catholic": "Jetró es un gentil que bendice al Dios de Israel y ofrece sacrificio (Ex 18,10-12), y por eso se le lee como figura de las naciones que llegan a la fe. Su consejo de que Moisés delegara autoridad en hombres capaces (Ex 18,13-26) ha sido citado por autores eclesiásticos como modelo de gobierno compartido y ordenado.",
+  "know": [
+   "Llamado también Reuel (Ex 2,18; cf. 3,1).",
+   "Padre de Séfora y de Hobab.",
+   "Confesó: «Ahora sé que el SEÑOR es más grande que todos los dioses» (Ex 18,11).",
+   "Aconsejó a Moisés nombrar jefes de mil, de cien, de cincuenta y de diez."
+  ],
+  "feast": null
+ },
+ "lazarus": {
+  "name": "Lázaro de Betania",
+  "role": "Amigo de Jesús, resucitado de entre los muertos",
+  "summary": "Lázaro de Betania, hermano de Marta y María, era un amigo a quien Jesús amaba. Cuando enfermó y murió, Jesús llegó al cabo de cuatro días, lloró y lo llamó fuera del sepulcro: «¡Lázaro, sal fuera!». Muchos creyeron, y los sumos sacerdotes tramaron matar tanto a Jesús como a Lázaro.",
+  "catholic": "La resurrección de Lázaro, el mayor de los signos de Jesús en Juan, lo revela como «la resurrección y la vida» y anticipa su propia Resurrección, aunque Lázaro volvió a una vida terrena ordinaria y mortal (CEC 646). Es el Evangelio del Quinto Domingo de Cuaresma del Ciclo A, usado en el tercer escrutinio de quienes se preparan para el Bautismo. La tradición oriental sostiene que más tarde fue obispo de Kition, en Chipre. Desde 2021 se le honra junto con sus hermanas el 29 de julio.",
+  "know": [
+   "Hermano de Marta y María (Jn 11,1-2).",
+   "«Jesús se echó a llorar» ante su tumba (Jn 11,35).",
+   "Resucitado tras cuatro días en el sepulcro (Jn 11,39-44).",
+   "Fiesta el 29 de julio (Santos Marta, María y Lázaro)."
+  ],
+  "feast": "29 de julio (Santos Marta, María y Lázaro)"
+ },
+ "mary-of-bethany": {
+  "name": "María de Betania",
+  "role": "Discípula; amiga de Jesús",
+  "summary": "María, hermana de Marta y de Lázaro, se sentaba a los pies de Jesús para escuchar su palabra, y Jesús dijo que había «escogido la mejor parte». Cuando murió Lázaro, cayó llorando a los pies de Jesús. Seis días antes de la Pascua ungió los pies de Jesús con nardo costoso y los secó con sus cabellos, gesto que Jesús relacionó con su sepultura.",
+  "catholic": "María es el modelo de la escucha contemplativa de la Palabra. Juan la identifica con la mujer que ungió a Jesús en Betania (Jn 11,2; 12,3; cf. Mt 26,6-13; Mc 14,3-9), de quien Jesús dijo que lo que había hecho se contaría dondequiera que se predicara el Evangelio. La tradición occidental la identificó durante mucho tiempo con María Magdalena; desde 2021 se la celebra con Marta y Lázaro el 29 de julio.",
+  "know": [
+   "Hermana de Marta y de Lázaro (Jn 11,1).",
+   "«María ha escogido la mejor parte» (Lc 10,42).",
+   "Ungió los pies de Jesús con nardo (Jn 12,3).",
+   "Fiesta el 29 de julio (Santos Marta, María y Lázaro)."
+  ],
+  "feast": "29 de julio (Santos Marta, María y Lázaro)"
+ },
+ "mattathias": {
+  "name": "Matatías",
+  "role": "Sacerdote, padre de los Macabeos",
+  "summary": "Sacerdote de la familia de Joarib que vivía en Modín, Matatías rechazó la orden del rey de sacrificar a los ídolos, mató junto al altar al judío apóstata y al oficial real, y huyó a los montes con sus cinco hijos gritando: «¡Todo el que sienta celo por la ley... que me siga!». Inició la rebelión macabea y, al morir, encargó a sus hijos que recordaran la fe de sus padres.",
+  "catholic": "1 y 2 Macabeos son libros deuterocanónicos, recibidos en el canon de la Iglesia (Roma 382, Hipona 393, Cartago 397, Florencia, y definidos en Trento en 1546), aunque no figuran en la Biblia hebrea ni en el Antiguo Testamento protestante. Matatías aparece como un nuevo Pinjás, celoso de la alianza (1 Mac 2,26.54). Su discurso en el lecho de muerte (1 Mac 2,49-68) recuerda a los fieles desde Abrahán hasta Daniel, una «nube de testigos» como la de Hebreos 11. La Iglesia honra su fidelidad a la ley de Dios en medio de la persecución, aunque lee el uso de las armas por los Macabeos a la luz de la revelación más plena del Evangelio.",
+  "know": [
+   "Hijo de Juan, hijo de Simeón, de los sacerdotes de Joarib (1 Mac 2,1).",
+   "Mató a un apóstata y al oficial del rey en Modín (1 Mac 2,23-25).",
+   "Permitió combatir en sábado en defensa propia (1 Mac 2,39-41).",
+   "Murió el año 146 (166 a. C.) (1 Mac 2,70)."
+  ],
+  "feast": null
+ },
+ "melchizedek": {
+  "name": "Melquisedec",
+  "role": "Rey de Salem; sacerdote del Dios Altísimo",
+  "summary": "El rey de Salem y «sacerdote del Dios Altísimo» que salió al encuentro de Abrán tras su victoria sobre los cuatro reyes, ofreció pan y vino y lo bendijo; Abrán le dio el diezmo de todo. El Salmo 110 habla de un sacerdote eterno «según el rito de Melquisedec».",
+  "catholic": "Hebreos presenta a Cristo como sumo sacerdote «según el rito de Melquisedec», un sacerdocio mayor que el de Leví (Hb 5-7; Sal 110,4). El Catecismo enseña que la tradición cristiana ve en Melquisedec una prefiguración del sacerdocio de Cristo (CEC 1544) y en su ofrenda de pan y vino una prefiguración de la ofrenda de la Iglesia en la Eucaristía (CEC 1333); también lo cuenta entre las figuras de Cristo fuera de Israel (CEC 58). El Canon Romano pide a Dios que acepte el sacrificio eucarístico como aceptó «la oblación de tu sumo sacerdote Melquisedec, sacrificio santo, hostia inmaculada». El Salmo 110,4 se canta tradicionalmente en las ordenaciones sacerdotales.",
+  "know": [
+   "Rey de Salem (tradicionalmente Jerusalén) y sacerdote del Dios Altísimo (Gn 14,18)",
+   "Ofreció pan y vino y bendijo a Abrán",
+   "Abrán le dio el diezmo de todo (Gn 14,20)",
+   "Cristo es sacerdote «según el rito de Melquisedec» (Sal 110,4; Hb 7)",
+   "Nombrado en el Canon Romano"
+  ],
+  "feast": null
+ },
+ "naaman": {
+  "name": "Naamán",
+  "role": "Jefe del ejército sirio",
+  "summary": "Naamán, jefe del ejército del rey de Siria, era un hombre valiente, pero leproso. Una muchacha israelita cautiva le habló a su esposa del profeta de Samaría; Eliseo le mandó decir que se lavara siete veces en el Jordán. Tras resistirse con enojo, obedeció, y su carne quedó como la de un niño pequeño. Confesó que no hay Dios en toda la tierra sino en Israel, y se llevó la carga de dos mulos de tierra para adorar al SEÑOR en su país.",
+  "catholic": "La purificación de Naamán en el Jordán es una figura clásica del Bautismo en el Antiguo Testamento, leída por los Padres (Ambrosio, «Sobre los misterios») y en la liturgia: el humilde baño lo restaura como a un niño recién nacido. Jesús lo cita como un gentil sanado cuando muchos en Israel no lo fueron (Lc 4,27, que se lee el lunes de la tercera semana de Cuaresma), y su historia se empareja con la del leproso samaritano sanado (Domingo 28, Ciclo C). Su conversión muestra la salvación de Dios ofrecida a todas las naciones.",
+  "know": [
+   "Jefe del ejército sirio",
+   "Supo de Eliseo por una muchacha israelita cautiva",
+   "Se lavó siete veces en el Jordán",
+   "Confesó al Dios de Israel",
+   "Citado por Jesús en Lucas 4,27"
+  ],
+  "feast": null
+ },
+ "nahshon": {
+  "name": "Najsón",
+  "role": "Príncipe de Judá",
+  "summary": "Hijo de Aminadab y príncipe de la tribu de Judá en el desierto. Ayudó a Moisés a hacer el censo, encabezó el campamento de Judá al frente de la marcha de Israel y fue el primer jefe en presentar la ofrenda de su tribu en la dedicación del altar. Era cuñado de Aarón y abuelo de Booz.",
+  "catholic": "Mateo y Lucas lo incluyen en la genealogía de Jesús, de modo que es uno de los eslabones por los que la promesa hecha a Judá («no se apartará el cetro de Judá», Gn 49,10) pasa a David y a Cristo. La tradición judía (no la Escritura) lo recuerda como el primero en entrar en el mar Rojo.",
+  "know": [
+   "Hijo de Aminadab, príncipe de Judá (Nm 1,7; 2,3).",
+   "El primero en presentar su ofrenda para el altar (Nm 7,12).",
+   "Hermano de Eliseba, esposa de Aarón (Ex 6,23).",
+   "Padre de Salmón (Rt 4,20)."
+  ],
+  "feast": null
+ },
+ "pekah": {
+  "name": "Pecaj",
+  "role": "Rey de Israel",
+  "summary": "Pecaj, hijo de Romelía, mató a Pecajía y reinó en Samaría. Aliado con Rasín de Damasco, atacó a Ajaz de Judá —la crisis de la profecía del Emmanuel de Isaías—, pero Teglatfalasar tomó Galilea y gran parte de Israel, y Oseas lo asesinó.",
+  "catholic": "Isaías desprecia a Rasín y al «hijo de Romelía» como «dos cabos de tizones humeantes» (Is 7,4), el contexto de la señal del Emmanuel.",
+  "know": [
+   "Llamado «el hijo de Romelía» por Isaías",
+   "Atacó a Judá junto con Rasín",
+   "Perdió Galilea ante Asiria"
+  ],
+  "feast": null
+ },
+ "ptolemy-vi": {
+  "name": "Tolomeo VI Filométor",
+  "role": "Rey de Egipto",
+  "summary": "Rey de Egipto derrotado por Antíoco IV, que más tarde dio a su hija Cleopatra a Alejandro Balas, luego se la quitó y se la dio a Demetrio II, se coronó rey de Asia en Antioquía y murió tres días después de derrotar a Alejandro.",
+  "catholic": "",
+  "know": [
+   "Derrotado por Antíoco IV (1 Mac 1,16-19).",
+   "Ciñó las coronas de Egipto y de Asia (1 Mac 11,13).",
+   "Murió en el 145 a. C. (1 Mac 11,18)."
+  ],
+  "feast": null
+ },
+ "sarah-wife-of-tobias": {
+  "name": "Sara (esposa de Tobías)",
+  "role": "Esposa de Tobías",
+  "summary": "La única hija de Ragüel y Edna, en Ecbatana. Siete maridos habían muerto en la noche de bodas, asesinados por el demonio Asmodeo, y, burlada por una criada de su padre, pidió a Dios la muerte o el alivio el mismo día en que oró Tobit. Dios envió a Rafael, y ella se casó con su pariente Tobías, que ahuyentó al demonio.",
+  "catholic": "La oración de Sara en su angustia (Tb 3,11-15) y su «Amén» a la oración nupcial de Tobías (Tb 8,8) la convierten en modelo de fe en el sufrimiento y de un matrimonio fundado en la oración. Su liberación muestra que Dios escucha al mismo tiempo las oraciones de los afligidos, entretejiendo vidas separadas en un único plan providencial (Tb 3,16-17).",
+  "know": [
+   "Única hija de Ragüel y Edna (Tb 3,10).",
+   "Siete maridos murieron en la noche de bodas (Tb 3,8).",
+   "Su oración y la de Tobit fueron escuchadas juntas (Tb 3,16).",
+   "Se casó con Tobías (Tb 7,13)."
+  ],
+  "feast": null
+ },
+ "thomas": {
+  "name": "Tomás (Dídimo)",
+  "role": "Apóstol",
+  "summary": "Tomás, llamado Dídimo («Mellizo»), animó a los discípulos a ir con Jesús a Judea «para morir con él», y en la Última Cena preguntó cómo podían conocer el camino. Ausente cuando Jesús resucitado se apareció por primera vez, se negó a creer sin tocar las llagas; una semana después Jesús lo invitó a hacerlo, y él confesó: «¡Señor mío y Dios mío!».",
+  "catholic": "La confesión de Tomás es una de las profesiones más claras de la divinidad de Cristo en el Nuevo Testamento (CEC 448), y la respuesta de Jesús —«Dichosos los que creen sin haber visto»— se dirige a todo creyente posterior. La tradición sostiene que evangelizó la India, donde los «cristianos de Santo Tomás» remontan a él su origen, y que fue martirizado cerca de Chennai.",
+  "know": [
+   "Llamado Dídimo, «el Mellizo» (Jn 11,16).",
+   "Preguntó: «¿Cómo podemos saber el camino?» — «Yo soy el camino, la verdad y la vida» (Jn 14,5-6).",
+   "Confesó: «¡Señor mío y Dios mío!» (Jn 20,28).",
+   "Fiesta el 3 de julio."
+  ],
+  "feast": "3 de julio"
+ },
+ "zebedee": {
+  "name": "Zebedeo",
+  "role": "Pescador; padre de Santiago y Juan",
+  "summary": "Zebedeo era un pescador galileo con jornaleros a su servicio; estaba remendando las redes en la barca con sus hijos Santiago y Juan cuando Jesús los llamó; ellos lo dejaron y siguieron a Jesús.",
+  "catholic": "",
+  "know": [
+   "Padre de los apóstoles Santiago y Juan (Mt 4,21).",
+   "Tenía un negocio de pesca con jornaleros (Mc 1,20).",
+   "Su esposa se identifica generalmente con Salomé (cf. Mt 27,56 con Mc 15,40)."
+  ],
+  "feast": null
+ },
+ "ahimelech": {
+  "name": "Ajimélec",
+  "role": "Sacerdote de Nob",
+  "summary": "Ajimélec, hijo de Ajitub, sacerdote en Nob, dio a David, que huía, los panes consagrados y la espada de Goliat. Doeg el edomita lo denunció, y Saúl hizo matar a Ajimélec y a ochenta y cinco sacerdotes de Nob; solo su hijo Abiatar escapó y se unió a David.",
+  "catholic": "Jesús cita este episodio (Mt 12,3-4; Mc 2,25-26) para mostrar que la misericordia y la necesidad humana están por encima de la ley ritual y que él, Hijo de David, es Señor del sábado. El relato de Marcos nombra como sumo sacerdote de aquel tiempo a Abiatar, hijo de Ajimélec. Los Padres leen a menudo el pan santo dado a David como figura del pan eucarístico.",
+  "know": [
+   "Dio a David el pan consagrado (los panes de la ofrenda)",
+   "Le dio la espada de Goliat",
+   "Asesinado con los sacerdotes de Nob por orden de Saúl",
+   "Padre de Abiatar"
+  ],
+  "feast": null
+ },
+ "apollos": {
+  "name": "Apolo",
+  "role": "Predicador",
+  "summary": "Apolo, judío de Alejandría, era elocuente y versado en las Escrituras, y enseñaba con exactitud lo referente a Jesús, aunque solo conocía el bautismo de Juan. Priscila y Áquila le explicaron con más exactitud el camino de Dios, y él pasó a Corinto, donde refutaba vigorosamente a los judíos con las Escrituras. Algunos corintios formaron un partido en torno a él, pero Pablo insiste: «Yo planté, Apolo regó, pero fue Dios quien hizo crecer».",
+  "catholic": "Apolo muestra la necesidad de recibir íntegra la fe apostólica, y el modo en que Pablo trata los partidos de Corinto («Yo soy de Pablo... yo de Apolo», 1 Cor 1,12) es un llamado clásico a la unidad en el único Cuerpo de Cristo.",
+  "know": [
+   "Judío alejandrino elocuente (Hch 18,24).",
+   "Instruido por Priscila y Áquila.",
+   "Regó lo que Pablo plantó en Corinto (1 Cor 3,6).",
+   "Enviado junto con Zenas (Tit 3,13)."
+  ],
+  "feast": null
+ },
+ "arpachshad": {
+  "name": "Arfaxad",
+  "role": "Patriarca posdiluviano",
+  "summary": "Hijo de Sem, nacido dos años después del diluvio, y padre de Sélaj en la línea que conduce a Abrahán.",
+  "catholic": "",
+  "know": [
+   "Nacido dos años después del diluvio (Gn 11,10)",
+   "Llamado «Arfaxad» en Lucas 3,36",
+   "Lucas inserta un «Cainán» entre él y Sélaj, siguiendo la Septuaginta griega"
+  ],
+  "feast": null
+ },
+ "barabbas": {
+  "name": "Barrabás",
+  "role": "Preso liberado en lugar de Jesús",
+  "summary": "Barrabás era un preso famoso, encarcelado por sedición y homicidio, a quien Pilato ofreció liberar en la Pascua junto con Jesús. Instigada por los sumos sacerdotes, la multitud eligió a Barrabás y exigió que Jesús fuera crucificado.",
+  "catholic": "Los Padres notaron que su nombre significa «hijo del padre»: el culpable «hijo del padre» queda libre mientras el inocente Hijo del Padre muere en su lugar, imagen del sacrificio de Cristo en sustitución de los pecadores.",
+  "know": [
+   "Un «preso famoso» (Mt 27,16).",
+   "Encarcelado por sedición y homicidio (Mc 15,7; Lc 23,19).",
+   "Liberado por Pilato a petición de la multitud (Mc 15,15)."
+  ],
+  "feast": null
+ },
+ "bartholomew": {
+  "name": "Bartolomé (Natanael)",
+  "role": "Apóstol",
+  "summary": "Bartolomé aparece en todas las listas de los Doce, generalmente junto a Felipe. La tradición católica lo identifica con Natanael de Caná, a quien Felipe llevó ante Jesús: Jesús lo llamó «un verdadero israelita, en quien no hay engaño», y él confesó: «Rabí, tú eres el Hijo de Dios, tú eres el Rey de Israel».",
+  "catholic": "El nombre Bartolomé es un patronímico («hijo de Tolmai»), por lo que puede llevar también el nombre propio de Natanael; la identificación es tradicional, no segura. La promesa de Jesús de que verá «a los ángeles de Dios subir y bajar sobre el Hijo del hombre» (Jn 1,51) presenta a Cristo como la escalera de Jacob. La tradición sostiene que predicó en la India y en Armenia y que fue desollado vivo.",
+  "know": [
+   "Emparejado con Felipe en las listas de los Doce (Mt 10,3).",
+   "Identificado tradicionalmente con Natanael de Caná (Jn 1,45-51; 21,2).",
+   "Confesó a Jesús como Hijo de Dios y Rey de Israel (Jn 1,49).",
+   "Fiesta el 24 de agosto."
+  ],
+  "feast": "24 de agosto"
+ },
+ "belshazzar": {
+  "name": "Baltasar",
+  "role": "Rey de Babilonia",
+  "summary": "Baltasar celebró un gran banquete usando los vasos de oro y plata tomados del Templo de Jerusalén. Una mano escribió en la pared MENÉ, MENÉ, TEQUEL, PARSÍN; Daniel lo interpretó como el juicio de Dios, y esa misma noche Baltasar fue asesinado y el reino pasó a Darío el medo.",
+  "catholic": "Su profanación de los vasos del Templo es una advertencia clásica contra el sacrilegio y la soberbia; «pesado en la balanza y hallado falto de peso» (Dn 5,27) se ha vuelto proverbial.",
+  "know": [
+   "Daniel 5 llama a Nabucodonosor su «padre» (es decir, predecesor o antepasado); históricamente era hijo de Nabonido.",
+   "Profanó los vasos del Templo en su banquete (Dn 5,2-4).",
+   "Asesinado la noche de la escritura en la pared (Dn 5,30).",
+   "Llamado «Baltasar» en Baruc 1,11-12."
+  ],
+  "feast": null
+ },
+ "bilhah": {
+  "name": "Bilhá",
+  "role": "Esclava de Raquel; concubina de Jacob",
+  "summary": "Esclava de Raquel, que Labán le había dado, y a quien Raquel entregó a Jacob como mujer; dio a luz a Dan y a Neftalí. Más tarde Rubén se acostó con ella, acto que le costó su primogenitura.",
+  "catholic": "",
+  "know": [
+   "Madre de Dan y de Neftalí (Gn 30,3-8)",
+   "El pecado de Rubén con ella le costó los derechos de primogénito (Gn 35,22; 49,4)"
+  ],
+  "feast": null
+ },
+ "ephron": {
+  "name": "Efrón el hitita",
+  "role": "Terrateniente hitita",
+  "summary": "Hijo de Sójar, hitita de Hebrón que vendió a Abrahán el campo y la cueva de Macpelá por cuatrocientos siclos de plata como sepultura para Sara.",
+  "catholic": "",
+  "know": [
+   "Vendió a Abrahán la cueva de Macpelá por 400 siclos (Gn 23,16)",
+   "Allí fueron sepultados Abrahán, Sara, Isaac, Rebeca, Lía y Jacob (Gn 49,29-32)"
+  ],
+  "feast": null
+ },
+ "gorgias": {
+  "name": "Gorgias",
+  "role": "General seléucida",
+  "summary": "General enviado por Lisias para destruir Judá, que intentó sorprender de noche el campamento de Judas en Emaús y fue burlado; más tarde, como gobernador de Idumea, volvió a combatir contra Judas.",
+  "catholic": "Fue después de la batalla contra Gorgias cuando se hallaron amuletos de ídolos en los cuerpos de judíos caídos, lo que llevó a Judas a ofrecer oración y sacrificio por los difuntos (2 Mac 12,32-45).",
+  "know": [
+   "Derrotado en Emaús (1 Mac 4,1-25).",
+   "Gobernador de Idumea (2 Mac 12,32)."
+  ],
+  "feast": null
+ },
+ "ham": {
+  "name": "Cam",
+  "role": "Hijo de Noé",
+  "summary": "Hijo de Noé que vio la desnudez de su padre y se lo contó a sus hermanos; en respuesta, Noé maldijo a Canaán, hijo de Cam. Sus hijos Cus, Misráin, Put y Canaán son, en la Tabla de las Naciones, los antepasados de pueblos de África y de Canaán.",
+  "catholic": "La maldición de Gn 9,25 recae sobre Canaán, no sobre Cam, y no dice nada sobre la raza; su abuso moderno para justificar la esclavitud de los africanos es una grave distorsión. La Iglesia enseña que todos los seres humanos comparten «la misma naturaleza y el mismo origen» y una igual dignidad (CEC 1934-1935).",
+  "know": [
+   "Hijo de Noé, padre de Canaán (Gn 9,18)",
+   "Deshonró a su padre embriagado (Gn 9,22)",
+   "La maldición de Noé recae sobre Canaán, no sobre Cam (Gn 9,25)",
+   "Padre de Cus, Misráin, Put y Canaán (Gn 10,6)"
+  ],
+  "feast": null
+ },
+ "herod-the-great": {
+  "name": "Herodes el Grande",
+  "role": "Rey de Judea",
+  "summary": "Herodes, idumeo nombrado rey de Judea por Roma, gobernó del 37 al 4 a. C. y reconstruyó a lo grande el Templo de Jerusalén. Turbado por la noticia de los Magos acerca de un recién nacido Rey de los judíos, ordenó matar a los niños de Belén; José huyó con Jesús y María a Egipto hasta la muerte de Herodes.",
+  "catholic": "Los Santos Inocentes a quienes masacró son honrados como mártires el 28 de diciembre, pues murieron en lugar de Cristo. Su hostilidad contra el Rey recién nacido recuerda la matanza de los niños hebreos por el faraón y presenta a Jesús como el nuevo Moisés (Mt 2,15-18). El Templo que amplió es el que conoció Jesús (Jn 2,20).",
+  "know": [
+   "Rey de Judea cuando nacieron Jesús y Juan el Bautista (Mt 2,1; Lc 1,5).",
+   "Ordenó la matanza de los Inocentes (Mt 2,16).",
+   "Padre de Arquelao, Antipas y Filipo; abuelo de Herodías y de Herodes Agripa I (Flavio Josefo)."
+  ],
+  "feast": null
+ },
+ "issachar": {
+  "name": "Isacar",
+  "role": "Hijo de Jacob",
+  "summary": "Quinto hijo de Jacob y Lía, nacido después de que Lía comprara una noche con Jacob a cambio de las mandrágoras de Raquel; su nombre se relaciona con «salario» o «recompensa». Jacob lo llamó asno robusto echado entre los apriscos.",
+  "catholic": "",
+  "know": [
+   "Hijo de Jacob y Lía (Gn 30,14-18)",
+   "Padre de Tolá, Puvá, Job y Simrón (Gn 46,13)"
+  ],
+  "feast": null
+ },
+ "neriah": {
+  "name": "Nerías",
+  "role": "Padre de Baruc",
+  "summary": "Nerías, hijo de Majsías, fue padre del escriba Baruc y de Seraías, el intendente.",
+  "catholic": "",
+  "know": [
+   "Llamado «Nerías» en el Libro de Baruc."
+  ],
+  "feast": null
+ },
+ "obed-edom": {
+  "name": "Obededón",
+  "role": "Anfitrión del Arca",
+  "summary": "Obededón de Gat albergó el Arca en su casa durante tres meses después de la muerte de Uzá, y el SEÑOR bendijo a toda su familia; al enterarse, David subió el Arca a Jerusalén con alegría.",
+  "catholic": "El relato lucano de la Visitación es muy paralelo a 2 Samuel 6: así como el Arca permaneció tres meses en casa de Obededón trayendo bendición, María —la nueva Arca que lleva al Verbo hecho carne— permanece unos tres meses en casa de Zacarías (Lc 1,56). El Catecismo llama a María «el arca de la alianza, el lugar donde reside la gloria del Señor» (CEC 2676).",
+  "know": [
+   "Guardó el Arca tres meses",
+   "Su casa fue bendecida a causa del Arca",
+   "Paralelo con los tres meses de María junto a Isabel"
+  ],
+  "feast": null
+ },
+ "queen-of-sheba": {
+  "name": "Reina de Sabá",
+  "role": "Reina extranjera",
+  "summary": "La reina de Sabá oyó hablar de la fama de Salomón y llegó a Jerusalén con camellos cargados de especias, oro y piedras preciosas para ponerlo a prueba con preguntas difíciles. Abrumada por su sabiduría y por el orden de su casa y de su culto, bendijo al SEÑOR e intercambió ricos regalos con el rey.",
+  "catholic": "Jesús dice que «la reina del Sur» se levantará en el juicio para condenar a su generación, porque vino de los confines de la tierra para escuchar a Salomón, «y aquí hay uno que es más que Salomón» (Mt 12,42). Los Padres vieron en ella a la Iglesia de los gentiles que viene a Cristo, y sus regalos de oro y especias se relacionan con el Salmo 72, con Isaías 60 y con los dones de los Magos en la Epifanía.",
+  "know": [
+   "Vino a poner a prueba a Salomón con enigmas",
+   "Trajo oro, especias y piedras preciosas",
+   "Bendijo al Dios de Israel",
+   "Llamada «la reina del Sur» por Jesús"
+  ],
+  "feast": null
+ },
+ "sanballat": {
+  "name": "Sanbalat el joronita",
+  "role": "Gobernador de Samaría (adversario)",
+  "summary": "El principal adversario de la reconstrucción de Nehemías: se burló de los judíos, tramó un ataque armado e intentó atraer a Nehemías a una trampa y desacreditarlo por medio de profetas a sueldo. Uno de los nietos del sumo sacerdote se casó con su hija.",
+  "catholic": "",
+  "know": [
+   "Se burló de los «miserables judíos» (Ne 4,2).",
+   "Intentó atraer a Nehemías a la llanura de Onó (Ne 6,2).",
+   "Llegó a ser suegro de un nieto de Eliasib (Ne 13,28)."
+  ],
+  "feast": null
+ },
+ "seth": {
+  "name": "Set",
+  "role": "Hijo de Adán",
+  "summary": "El tercer hijo de Adán y Eva, nacido después de la muerte de Abel; Eva dijo que Dios se lo había dado «en lugar de Abel». Adán lo engendró «a su semejanza, según su imagen» a los 130 años. Fue padre de Enós y vivió 912 años; por él pasa la línea que conduce a Noé, a Abrahán y a David.",
+  "catholic": "La línea de Set lleva adelante la promesa después de la tragedia de Caín y Abel, y Lucas remonta la genealogía de Jesús a través de Set hasta Adán (Lc 3,38). La Ciudad de Dios de san Agustín sigue la «ciudad de Dios» a través de los descendientes de Set, en contraste con la línea de Caín. El Sirácida 49,16 lo honra junto con Sem.",
+  "know": [
+   "Dado «en lugar de Abel» (Gn 4,25)",
+   "Nacido a semejanza e imagen de Adán (Gn 5,3)",
+   "Padre de Enós; vivió 912 años",
+   "Antepasado de Noé y de Jesús (Lc 3,38)"
+  ],
+  "feast": null
+ },
+ "shechem-son-of-hamor": {
+  "name": "Siquén (hijo de Jamor)",
+  "role": "Príncipe jivita",
+  "summary": "Hijo de Jamor que tomó y violó a Dina, y luego se enamoró de ella y pidió casarse con ella. Él y los hombres de su ciudad aceptaron la circuncisión, pero Simeón y Leví los atacaron mientras estaban doloridos y los mataron a todos.",
+  "catholic": "",
+  "know": [
+   "Violó a Dina y luego quiso casarse con ella (Gn 34,2-4)",
+   "Muerto por Simeón y Leví (Gn 34,26)",
+   "Lleva el mismo nombre que la ciudad de Siquén"
+  ],
+  "feast": null
+ },
+ "susanna": {
+  "name": "Susana",
+  "role": "Esposa justa",
+  "summary": "Susana, la hermosa y temerosa de Dios esposa de Joaquín en Babilonia, fue acosada por dos ancianos lujuriosos mientras se bañaba en su jardín. Se negó, prefiriendo la muerte al pecado, y ellos la acusaron falsamente de adulterio; cuando la llevaban a ejecutar, Dios suscitó al joven Daniel, que interrogó a los ancianos por separado y desenmascaró su mentira.",
+  "catholic": "Susana es honrada como modelo de castidad, de confianza en Dios y de valentía ante la falsa acusación; su oración «Dios eterno, que conoces los secretos» (Dn 13,42) es un clásico del sufrimiento inocente. La Iglesia lee su historia (Dn 13) el lunes de la Quinta Semana de Cuaresma, junto con el pasaje de Jesús y la mujer sorprendida en adulterio, y los primeros cristianos la pintaron en las catacumbas como figura del alma salvada por Dios. Su historia forma parte del texto católico (griego) de Daniel.",
+  "know": [
+   "Hija de Jelcías y esposa de Joaquín (Dn 13,1-2).",
+   "Dijo: «Prefiero caer en sus manos que pecar» (Dn 13,23).",
+   "Salvada cuando Daniel preguntó a cada anciano bajo qué árbol la había visto (acacia o encina)."
+  ],
+  "feast": null
+ },
+ "terah": {
+  "name": "Téraj",
+  "role": "Padre de Abrahán",
+  "summary": "Hijo de Najor y padre de Abrán, Najor y Harán. Salió de Ur de los caldeos con Abrán, Saray y Lot con la intención de ir a Canaán, pero se estableció en Jarán, donde murió a los 205 años.",
+  "catholic": "Josué recuerda que Téraj y sus padres «servían a otros dioses» al otro lado del Río (Jos 24,2), lo que pone de relieve el carácter gratuito de la llamada de Dios a Abrahán. Aparece en la genealogía de Jesús según Lucas (Lc 3,34).",
+  "know": [
+   "Padre de Abrán, Najor y Harán (Gn 11,26)",
+   "Salió de Ur de los caldeos y se estableció en Jarán (Gn 11,31)",
+   "Sirvió a otros dioses (Jos 24,2)",
+   "Murió en Jarán a los 205 años"
+  ],
+  "feast": null
+ },
+ "abel": {
+  "name": "Abel",
+  "role": "Pastor justo; primer mártir",
+  "summary": "El segundo hijo de Adán y Eva, pastor de ovejas. Ofreció a Dios los primogénitos de su rebaño y su grasa, y Dios miró con agrado su ofrenda. Su hermano Caín, por envidia, lo mató, y su sangre clamó a Dios desde la tierra.",
+  "catholic": "Jesús lo llama «Abel el justo» (Mt 23,35), y Hebreos alaba su sacrificio lleno de fe y dice que la sangre de Cristo «habla mejor que la de Abel» (Hb 11,4; 12,24). En el Canon Romano (Plegaria Eucarística I), la Iglesia pide a Dios que acepte la ofrenda eucarística como aceptó «los dones del justo Abel, tu siervo», junto con el sacrificio de Abrahán y la ofrenda de Melquisedec. Se le ve como tipo de Cristo, el pastor inocente asesinado por su hermano, y como el primer mártir. El Catecismo señala su ofrenda de los primogénitos del rebaño como una forma temprana de oración (CEC 2569) y su asesinato como revelación de la maldad del homicidio (CEC 2259).",
+  "know": [
+   "Pastor que ofreció los primogénitos de su rebaño (Gn 4,2-4)",
+   "Asesinado por su hermano Caín (Gn 4,8)",
+   "Llamado «justo» por Jesús (Mt 23,35)",
+   "Nombrado en el Canon Romano de la Misa",
+   "Hebreos 11,4 lo pone en primer lugar entre los héroes de la fe"
+  ],
+  "feast": null
+ },
+ "abiram": {
+  "name": "Abirán",
+  "role": "Rebelde rubenita",
+  "summary": "Rubenita, hijo de Eliab y hermano de Datán, que se unió a la rebelión de Coré contra Moisés y Aarón y fue tragado por la tierra junto con su familia.",
+  "catholic": "Como Datán, queda en la Escritura como advertencia contra el desprecio de la autoridad dada por Dios (Sal 106,17).",
+  "know": [
+   "Hijo de Eliab, hermano de Datán.",
+   "Se unió a la rebelión de Coré (Nm 16).",
+   "Tragado por la tierra (Sal 106,17)."
+  ],
+  "feast": null
+ },
+ "beor": {
+  "name": "Beor",
+  "role": "Padre de Balaán",
+  "summary": "Padre del adivino Balaán.",
+  "catholic": "",
+  "know": [
+   "Padre de Balaán (Nm 22,5)."
+  ],
+  "feast": null
+ },
+ "bethuel": {
+  "name": "Betuel",
+  "role": "Padre de Rebeca",
+  "summary": "Hijo menor de Najor y Milcá, arameo de Padán Aram, padre de Rebeca y de Labán. Consintió con Labán en el matrimonio de Rebeca con Isaac: «Del SEÑOR viene esto».",
+  "catholic": "",
+  "know": [
+   "Padre de Rebeca y de Labán (Gn 22,23; 24,29)",
+   "Llamado «el arameo de Padán Aram» (Gn 25,20)",
+   "Jacob fue enviado a su casa para buscar esposa (Gn 28,2)"
+  ],
+  "feast": null
+ },
+ "caiaphas": {
+  "name": "Caifás",
+  "role": "Sumo sacerdote",
+  "summary": "José Caifás, yerno de Anás, fue sumo sacerdote (c. 18-36 d. C.). Aconsejó al Sanedrín que convenía que un solo hombre muriera por el pueblo y no que pereciera toda la nación, presidió el juicio nocturno de Jesús, se rasgó las vestiduras cuando Jesús afirmó ser el Mesías y lo envió a Pilato. Más tarde interrogó a Pedro y a Juan.",
+  "catholic": "Juan señala que Caifás profetizó sin saberlo que Jesús moriría «por la nación, y no solo por la nación, sino... para reunir en uno a los hijos de Dios que estaban dispersos» (Jn 11,51-52; CEC 596). Un osario con la inscripción «José hijo de Caifás», hallado en Jerusalén en 1990, se considera ampliamente que pertenecía a su familia.",
+  "know": [
+   "Sumo sacerdote «aquel año» (Jn 11,49).",
+   "Yerno de Anás (Jn 18,13).",
+   "Presidió el juicio de Jesús ante el consejo (Mt 26,57-66).",
+   "Interrogó a Pedro y a Juan (Hch 4,6)."
+  ],
+  "feast": null
+ },
+ "canaan-son-of-ham": {
+  "name": "Canaán",
+  "role": "Hijo de Cam",
+  "summary": "El hijo menor de Cam, maldecido por Noé tras la falta de respeto de Cam. Es el antepasado epónimo de los pueblos cananeos, comenzando por Sidón, su primogénito, y Het.",
+  "catholic": "La maldición de Canaán explica en forma de relato la relación posterior de Israel con los cananeos; no tiene nada que ver con la raza (véase CEC 1934).",
+  "know": [
+   "Maldecido por Noé: «siervo de siervos» (Gn 9,25)",
+   "Antepasado de los cananeos, hititas, jebuseos, amorreos y otros (Gn 10,15-18)"
+  ],
+  "feast": null
+ },
+ "cornelius": {
+  "name": "Cornelio",
+  "role": "Centurión",
+  "summary": "Cornelio era centurión de la cohorte Itálica en Cesarea, un piadoso temeroso de Dios que daba limosnas y oraba. Un ángel le dijo que mandara llamar a Pedro; mientras Pedro predicaba en su casa, el Espíritu Santo descendió sobre todos los que escuchaban, y Pedro mandó que estos gentiles fueran bautizados.",
+  "catholic": "Cornelio es el primer gentil convertido, cuya familia recibió el Espíritu antes del Bautismo y luego fue bautizada por orden de Pedro. La Iglesia ve aquí a Pedro, como cabeza de los apóstoles, abriendo a las naciones la puerta de la Iglesia, decisión que Pedro invoca más tarde en el Concilio de Jerusalén (Hch 15,7-11). Sus oraciones y limosnas «subieron como memorial ante Dios» (Hch 10,4).",
+  "know": [
+   "Centurión de la cohorte Itálica destinada en Cesarea.",
+   "Temeroso de Dios que oraba y daba limosnas.",
+   "Primer gentil convertido recibido por Pedro; el Espíritu descendió sobre su familia (Hch 10,44).",
+   "Pedro volvió a contar el suceso para defenderlo (Hch 11,1-18)."
+  ],
+  "feast": null
+ },
+ "dathan": {
+  "name": "Datán",
+  "role": "Rebelde rubenita",
+  "summary": "Rubenita, hijo de Eliab, que con su hermano Abirán se unió a la rebelión de Coré. Negándose a acudir al llamado de Moisés, lo acusaron de haberlos sacado de una tierra que mana leche y miel para morir en el desierto; la tierra se abrió y se los tragó con sus familias.",
+  "catholic": "Datán y Abirán son recordados en los Salmos y en el Sirácida como ejemplo de rebelión contra los jefes elegidos por Dios y del juicio que le sigue (Sal 106,16-18; Si 45,18).",
+  "know": [
+   "Hijo de Eliab, de la tribu de Rubén (Nm 16,1).",
+   "Se negó a subir cuando Moisés lo llamó (Nm 16,12-14).",
+   "Tragado por la tierra (Nm 16,31-33; Dt 11,6)."
+  ],
+  "feast": null
+ },
+ "deborah": {
+  "name": "Débora",
+  "role": "Profetisa y jueza",
+  "summary": "Profetisa, esposa de Lapidot, que juzgaba a Israel bajo la palmera de Débora, entre Ramá y Betel. Convocó a Barac para combatir contra Sísara, fue con él a la batalla y predijo que el SEÑOR entregaría a Sísara en manos de una mujer. Con Barac entonó el canto de victoria de Jueces 5, y el país tuvo paz durante cuarenta años.",
+  "catholic": "Débora, «una madre en Israel» (Jue 5,7), es honrada como una de las grandes mujeres del Antiguo Testamento: una profetisa que pronuncia la palabra de Dios y llama a otros a la acción valiente. La tradición cristiana ha visto en las mujeres valerosas de Israel, como Débora, Yael y Judit, prefiguraciones de María, cuyo fiat y victoria sobre el enemigo se celebran en la liturgia de la Iglesia.",
+  "know": [
+   "Profetisa y jueza (Jue 4,4-5).",
+   "Juzgaba bajo «la palmera de Débora».",
+   "Ordenó a Barac combatir contra Sísara (Jue 4,6-7).",
+   "«Una madre en Israel» (Jue 5,7).",
+   "Entonó el Cántico de Débora (Jue 5)."
+  ],
+  "feast": null
+ },
+ "eliakim-son-of-hilkiah": {
+  "name": "Eliaquín hijo de Jilquías",
+  "role": "Mayordomo de palacio",
+  "summary": "Eliaquín, hijo de Jilquías, «mayordomo de palacio» del rey Ezequías, encabezó la delegación que se reunió con el copero mayor fuera de la muralla de Jerusalén y llevó las amenazas asirias a Ezequías y a Isaías. Isaías profetizó que reemplazaría a Sebná y recibiría «la llave de la casa de David».",
+  "catholic": "El oráculo de Isaías —«Pondré sobre su hombro la llave de la casa de David; lo que él abra nadie lo cerrará» (Is 22,22)— está detrás del don de las llaves del Reino que Jesús hace a Pedro (Mt 16,19) y se aplica al mismo Cristo en Apocalipsis 3,7. Los intérpretes católicos ven en el cargo de Eliaquín como mayordomo real, con autoridad paternal sobre la casa, un tipo del oficio petrino (Is 22,20-24 se lee con Mt 16,13-20 el Domingo 21, Ciclo A).",
+  "know": [
+   "Mayordomo real («encargado del palacio») bajo Ezequías",
+   "Negoció con el copero mayor",
+   "Recibió «la llave de la casa de David» en el oráculo de Isaías",
+   "Reemplazó a Sebná como mayordomo de palacio (Is 22,15-23).",
+   "Recibió «la llave de la casa de David»: lo que él abra, nadie lo cerrará.",
+   "Negoció con el copero mayor en hebreo/arameo (Is 36).",
+   "También en 2 Reyes 18-19."
+  ],
+  "feast": null
+ },
+ "eliashib-high-priest": {
+  "name": "Eliasib, el sumo sacerdote",
+  "role": "Sumo sacerdote",
+  "summary": "Sumo sacerdote en tiempos de Nehemías que, con sus hermanos sacerdotes, reconstruyó la Puerta de las Ovejas de Jerusalén. Más tarde, mientras Nehemías estaba ausente, dio a Tobías el amonita una habitación en los atrios del Templo, que Nehemías vació con indignación.",
+  "catholic": "",
+  "know": [
+   "Reconstruyó la Puerta de las Ovejas (Ne 3,1).",
+   "Aliado de Tobías, lo alojó en el Templo (Ne 13,4-7).",
+   "Un nieto suyo se casó con la hija de Sanbalat (Ne 13,28)."
+  ],
+  "feast": null
+ },
+ "gaal": {
+  "name": "Gaal",
+  "role": "Rebelde en Siquén",
+  "summary": "Hijo de Ébed, que se ganó la confianza de Siquén y alardeó contra Abimélec; Zebul avisó a Abimélec, quien derrotó a Gaal y lo expulsó de la ciudad.",
+  "catholic": "",
+  "know": [
+   "Hijo de Ébed (Jue 9,26).",
+   "Incitó a Siquén contra Abimélec (Jue 9,28-29).",
+   "Derrotado y expulsado (Jue 9,39-41)."
+  ],
+  "feast": null
+ },
+ "gilead-father-of-jephthah": {
+  "name": "Galaad (padre de Jefté)",
+  "role": "Galaadita",
+  "summary": "Galaadita, padre de Jefté, a quien tuvo con una prostituta; sus hijos legítimos expulsaron después a Jefté de la herencia familiar.",
+  "catholic": "",
+  "know": [
+   "Padre de Jefté (Jue 11,1).",
+   "Sus otros hijos expulsaron a Jefté (Jue 11,2)."
+  ],
+  "feast": null
+ },
+ "izhar": {
+  "name": "Yishar",
+  "role": "Levita",
+  "summary": "Hijo de Queat y hermano de Amram; padre de Coré, que encabezó la rebelión contra Moisés y Aarón.",
+  "catholic": "",
+  "know": [
+   "Hijo de Queat (Ex 6,18).",
+   "Padre de Coré, Néfeg y Zicrí (Ex 6,21)."
+  ],
+  "feast": null
+ },
+ "jehonadab-son-of-rechab": {
+  "name": "Jonadab hijo de Recab",
+  "role": "Fundador de los recabitas",
+  "summary": "Jonadab, hijo de Recab, subió al carro de Jehú para ser testigo de su «celo por el SEÑOR» contra Baal. Generaciones después, sus descendientes, los recabitas, seguían cumpliendo su mandato de no beber vino y vivir en tiendas, y Jeremías presentó su fidelidad como reproche a Judá.",
+  "catholic": "La fidelidad de los recabitas a la regla de su antepasado (Jr 35) ha sido vista por autores espirituales como una anticipación, en el Antiguo Testamento, de las reglas de vida religiosa; también los carmelitas, que reconocen a Elías como su padre, han apelado a ellos.",
+  "know": [
+   "Acompañó a Jehú en su carro",
+   "Antepasado de los recabitas",
+   "La obediencia de sus descendientes es alabada en Jeremías 35"
+  ],
+  "feast": null
+ },
+ "jonadab-son-of-rechab": {
+  "name": "Jonadab hijo de Recab",
+  "role": "Fundador de los recabitas",
+  "summary": "Jonadab (Jehonadab), hijo de Recab, acompañó a Jehú contra el culto a Baal y mandó a sus descendientes no beber vino, no construir casas ni sembrar campos, sino vivir en tiendas. Siglos después, Jeremías puso a prueba a los recabitas ofreciéndoles vino; su fidelidad al mandato de su antepasado se convirtió en reproche para la infiel Judá, y Dios prometió que a Jonadab nunca le faltaría un descendiente que estuviera en su presencia.",
+  "catholic": "La obediencia de los recabitas se propone como modelo de fidelidad a una regla de vida recibida, y a veces se cita en la tradición de la vida religiosa y de la templanza.",
+  "know": [
+   "Aliado de Jehú contra el culto a Baal (2 Re 10,15-23).",
+   "Sus descendientes guardaron su regla durante unos 250 años (Jr 35).",
+   "Dios prometió: «A Jonadab no le faltará nunca un descendiente que esté en mi presencia» (Jr 35,19)."
+  ],
+  "feast": null
+ },
+ "jude-thaddeus": {
+  "name": "Judas Tadeo",
+  "role": "Apóstol",
+  "summary": "Este apóstol es llamado «Judas, hijo de Santiago» en Lucas y Hechos, y «Tadeo» (Mateo también «Lebeo») en Mateo y Marcos. En la Última Cena, «Judas (no el Iscariote)» preguntó por qué Jesús se manifestaría a los discípulos y no al mundo, y Jesús respondió que él y el Padre harían morada en quien lo ama.",
+  "catholic": "La tradición católica lo identifica a menudo con Judas, «hermano de Santiago», autor de la Carta de Judas, leyendo el griego de Lucas «Judas de Santiago» como «hermano de Santiago» (como hace la Douay-Rheims). La tradición sostiene que predicó con Simón el Zelote en Persia, donde ambos fueron martirizados, por lo que comparten fiesta. Se le invoca ampliamente como patrono de las causas difíciles y desesperadas.",
+  "know": [
+   "Llamado Tadeo (Mc 3,18) y «Judas, hijo de Santiago» (Lc 6,16).",
+   "El «Judas (no el Iscariote)» de Juan 14,22.",
+   "Patrono de las causas imposibles.",
+   "Fiesta el 28 de octubre, con San Simón."
+  ],
+  "feast": "28 de octubre (Santos Simón y Judas)"
+ },
+ "maacah-granddaughter-of-absalom": {
+  "name": "Maacá",
+  "role": "Reina madre",
+  "summary": "Maacá, nieta de Absalón (llamada «hija de Abisalón»), fue la esposa favorita de Roboán y madre de Abías. Siguió siendo reina madre durante el reinado de Asá, quien la destituyó por haber hecho una imagen abominable para Aserá.",
+  "catholic": "Maacá muestra el poder real de la guebirá (reina madre) en Judá, un poder que Asá podía retirar cuando se usaba para la idolatría. Su historia es la contrapartida negativa del papel de Betsabé como intercesora.",
+  "know": [
+   "Esposa favorita de Roboán",
+   "Madre de Abías",
+   "Destituida como reina madre por Asá a causa de la idolatría",
+   "Llamada Micaías, hija de Uriel, en 2 Cr 13,2"
+  ],
+  "feast": null
+ },
+ "nahor-grandfather-of-abraham": {
+  "name": "Najor (padre de Téraj)",
+  "role": "Patriarca posdiluviano",
+  "summary": "Hijo de Serug y padre de Téraj; abuelo de Abrahán.",
+  "catholic": "",
+  "know": [
+   "No es el mismo que Najor, hermano de Abrahán",
+   "Incluido en Lucas 3,34"
+  ],
+  "feast": null
+ },
+ "naphtali": {
+  "name": "Neftalí",
+  "role": "Hijo de Jacob",
+  "summary": "Segundo hijo de Jacob y Bilhá, llamado así por Raquel a causa de sus «luchas» con su hermana. Jacob lo llama «cierva en libertad».",
+  "catholic": "Isaías promete que la tierra de Zabulón y de Neftalí, antes humillada, verá una gran luz; Mateo ve esto cumplido cuando Jesús comienza a predicar en Cafarnaún (Is 9,1-2; Mt 4,13-16).",
+  "know": [
+   "Hijo de Jacob y Bilhá (Gn 30,7-8)",
+   "Padre de Jasel, Guní, Jéser y Silén (Gn 46,24)",
+   "En su territorio de Galilea comenzó la predicación de Jesús (Mt 4,13-16)"
+  ],
+  "feast": null
+ },
+ "pharaoh-of-the-oppression": {
+  "name": "El faraón de la opresión",
+  "role": "Rey de Egipto",
+  "summary": "El «nuevo rey que no había conocido a José», que esclavizó a los israelitas, ordenó a las parteras matar a los niños hebreos y luego mandó arrojar al Nilo a todo hijo varón recién nacido. Moisés huyó de él a Madián; murió mientras Israel aún gemía en la esclavitud.",
+  "catholic": "Los Padres pusieron la matanza de los niños hebreos por este faraón junto a la matanza de los Inocentes por Herodes (Mt 2,16), viendo en la salvación de Moisés una figura de la huida del Niño Jesús.",
+  "know": [
+   "«Surgió en Egipto un nuevo rey que no había conocido a José» (Ex 1,8).",
+   "Ordenó matar a los niños varones hebreos (Ex 1,16.22).",
+   "Intentó matar a Moisés (Ex 2,15).",
+   "Su muerte se menciona en Ex 2,23; la Escritura no da su nombre."
+  ],
+  "feast": null
+ },
+ "ram-son-of-hezron": {
+  "name": "Ram",
+  "role": "Antepasado de David",
+  "summary": "Hijo de Jesrón, de la tribu de Judá, y padre de Aminadab, conocido solo por las genealogías que conducen a David y a Jesús. Lucas lo llama Arán.",
+  "catholic": "Mateo y Lucas lo incluyen en la genealogía de Jesús, de modo que es uno de los eslabones por los que la promesa hecha a Judá («no se apartará el cetro de Judá», Gn 49,10) pasa a David y a Cristo.",
+  "know": [
+   "Hijo de Jesrón, padre de Aminadab (Rt 4,19)",
+   "Llamado «Arán» en Lucas 3,33",
+   "Abuelo de Najsón, príncipe de Judá",
+   "Hijo de Jesrón (Rt 4,19).",
+   "Padre de Aminadab.",
+   "Llamado Arán en Lc 3,33."
+  ],
+  "feast": null
+ },
+ "rezin": {
+  "name": "Rasín",
+  "role": "Rey de Siria",
+  "summary": "Rasín, rey de Damasco, se alió con Pecaj de Israel para atacar a Ajaz de Judá, la crisis que está detrás de la profecía del Emmanuel de Isaías. Ajaz llamó en su ayuda a Teglatfalasar, quien tomó Damasco y mató a Rasín.",
+  "catholic": "",
+  "know": [
+   "Último rey de Aram-Damasco",
+   "Muerto por Teglatfalasar"
+  ],
+  "feast": null
+ },
+ "uzziel-son-of-kohath": {
+  "name": "Uziel",
+  "role": "Levita",
+  "summary": "Hijo de Queat y tío de Aarón; sus hijos Misael y Elsafán sacaron del campamento los cuerpos de Nadab y Abihú.",
+  "catholic": "",
+  "know": [
+   "Hijo de Queat, tío de Moisés y de Aarón (Lv 10,4).",
+   "Padre de Misael, Elsafán y Sitrí."
+  ],
+  "feast": null
+ },
+ "zalmunna": {
+  "name": "Salmuná",
+  "role": "Rey de Madián",
+  "summary": "Uno de los dos reyes de Madián a quienes Gedeón persiguió al otro lado del Jordán. Capturados en Carcor, admitieron haber matado a los hermanos de Gedeón en el Tabor, y Gedeón los mató con su propia mano.",
+  "catholic": "",
+  "know": [
+   "Rey de Madián (Jue 8,5).",
+   "Mató a los hermanos de Gedeón en el Tabor (Jue 8,18-19).",
+   "Muerto por Gedeón (Jue 8,21)."
+  ],
+  "feast": null
+ },
+ "zebah": {
+  "name": "Zébaj",
+  "role": "Rey de Madián",
+  "summary": "Uno de los dos reyes de Madián a quienes Gedeón persiguió al otro lado del Jordán. Capturados en Carcor, admitieron haber matado a los hermanos de Gedeón en el Tabor, y Gedeón los mató con su propia mano.",
+  "catholic": "",
+  "know": [
+   "Rey de Madián (Jue 8,5).",
+   "Mató a los hermanos de Gedeón en el Tabor (Jue 8,18-19).",
+   "Muerto por Gedeón (Jue 8,21)."
+  ],
+  "feast": null
+ },
+ "zechariah-father-of-john": {
+  "name": "Zacarías",
+  "role": "Sacerdote; padre de Juan el Bautista",
+  "summary": "Zacarías era un sacerdote del turno de Abías. Mientras ofrecía el incienso en el Templo, el ángel Gabriel le anunció que su esposa estéril, Isabel, daría a luz un hijo al que llamaría Juan; por haber dudado, quedó mudo. Cuando escribió «Su nombre es Juan», recobró el habla y profetizó el Benedictus.",
+  "catholic": "El cántico de Zacarías, el Benedictus (Lc 1,68-79), se reza cada día en las Laudes de la Liturgia de las Horas, bendiciendo a Dios por el amanecer de la salvación y por la misión de Juan como profeta del Altísimo. Su mudez y la recuperación del habla suelen contrastarse con la pregunta llena de fe de María en la Anunciación. Él e Isabel son conmemorados juntos como santos.",
+  "know": [
+   "Sacerdote del turno de Abías (Lc 1,5).",
+   "Quedó mudo por dudar de Gabriel (Lc 1,20).",
+   "Escribió «Su nombre es Juan» (Lc 1,63).",
+   "Pronunció el Benedictus (Lc 1,68-79)."
+  ],
+  "feast": "23 de septiembre (Santos Zacarías e Isabel, Martirologio Romano)"
+ },
+ "zelophehad": {
+  "name": "Selofjad",
+  "role": "Manasita",
+  "summary": "Hijo de Jéfer, de la tribu de Manasés, que murió en el desierto sin hijos varones. Sus cinco hijas pidieron su herencia, lo que dio lugar a la ley según la cual las hijas heredan cuando no hay hijo varón.",
+  "catholic": "",
+  "know": [
+   "Murió en el desierto, no en la rebelión de Coré (Nm 27,3).",
+   "Tuvo cinco hijas y ningún hijo varón.",
+   "Su caso estableció la ley de herencia de Israel (Nm 27,8-11)."
+  ],
+  "feast": null
+ },
+ "ahitub-father-of-zadok": {
+  "name": "Ajitub",
+  "role": "Sacerdote, padre de Sadoc",
+  "summary": "Ajitub, hijo de Amarías, de la línea de Eleazar, hijo de Aarón, fue el padre del sacerdote Sadoc.",
+  "catholic": "",
+  "know": [
+   "A través de él se traza la descendencia de Sadoc desde Eleazar"
+  ],
+  "feast": null
+ },
+ "amos": {
+  "name": "Amós",
+  "role": "Profeta",
+  "summary": "Amós, pastor y cultivador de higos de sicómoro de Tecoa, en Judá, fue enviado a profetizar en el reino del norte bajo Jeroboán II (siglo VIII a. C.). Denunció la opresión de los pobres, el culto corrupto y el lujo autocomplaciente, tuvo visiones de langostas, de fuego, de una plomada y de fruta madura, y fue expulsado de Betel por el sacerdote Amasías. El libro termina con la promesa de levantar la tienda caída de David.",
+  "catholic": "Amós es la gran voz profética de la justicia social: «que fluya la justicia como un río» (Am 5,24) inspira la enseñanza social de la Iglesia sobre un culto inseparable del cuidado de los pobres. En el Concilio de Jerusalén, Santiago citó Amós 9,11-12 para mostrar que la entrada de los gentiles en la Iglesia cumple el plan de Dios de reconstruir la tienda de David (Hch 15,16-17). Tobit recuerda la profecía de Amós de que las fiestas se convertirían en luto (Tb 2,6).",
+  "know": [
+   "«Yo no era profeta ni hijo de profeta, sino pastor» (Am 7,14).",
+   "Expulsado de Betel por el sacerdote Amasías.",
+   "Cinco visiones: langostas, fuego, plomada, fruta madura, el Señor junto al altar.",
+   "La promesa de la tienda restaurada de David se cita en Hechos 15."
+  ],
+  "feast": null
+ },
+ "anak": {
+  "name": "Anac",
+  "role": "Antepasado de los anaquitas",
+  "summary": "Antepasado de los anaquitas, el clan de gigantes de Hebrón cuya estatura aterrorizó a los diez exploradores.",
+  "catholic": "",
+  "know": [
+   "Hijo de Arbá (Jos 15,13).",
+   "Los exploradores se sintieron «como saltamontes» junto a sus descendientes (Nm 13,33).",
+   "Padre de Ajimán, Sesay y Talmay."
+  ],
+  "feast": null
+ },
+ "anna-wife-of-tobit": {
+  "name": "Ana (esposa de Tobit)",
+  "role": "Esposa de Tobit",
+  "summary": "La esposa de Tobit, de su misma parentela, que sostuvo la casa tejiendo cuando él quedó ciego. Su aguda respuesta cuando Tobit dudó de su honradez, y su vigilia diaria mirando el camino a la espera de su hijo, la convierten en una de las figuras más humanas del libro.",
+  "catholic": "El amor angustiado de Ana por Tobías y su alegría a su regreso (Tb 11,9) muestran el tierno retrato de la maternidad en el Antiguo Testamento; Tobit encarga a su hijo honrarla todos los días de su vida (Tb 4,3-4).",
+  "know": [
+   "Trabajaba como tejedora para sostener a la familia (Tb 2,11-12).",
+   "Vigilaba el camino cada día esperando a Tobías (Tb 10,7).",
+   "Sepultada junto con Tobit por su hijo (Tb 14,12)."
+  ],
+  "feast": null
+ },
+ "azariah-son-of-hilkiah": {
+  "name": "Azarías hijo de Jilquías",
+  "role": "Sacerdote (línea de Aarón)",
+  "summary": "Azarías, hijo de Jilquías, figura en la línea de sumos sacerdotes descendientes de Eleazar, hijo de Aarón, en 1 Crónicas 6.",
+  "catholic": "",
+  "know": [
+   "Forma parte de la línea aaronita desde Eleazar hasta el destierro"
+  ],
+  "feast": null
+ },
+ "bezalel": {
+  "name": "Besalel",
+  "role": "Maestro artesano",
+  "summary": "Hijo de Urí, de la tribu de Judá, a quien Dios llamó por su nombre y llenó del Espíritu de Dios en sabiduría y destreza. Dirigió la obra de la construcción de la tienda del encuentro, el arca de la alianza, el propiciatorio, el candelabro y los utensilios sacerdotales.",
+  "catholic": "Besalel es la primera persona de la Escritura de quien se dice que fue «lleno del Espíritu de Dios» (Ex 31,3), y su don es artístico: la Iglesia ve en él una figura patronal del arte y la arquitectura sagrados puestos al servicio del culto. El arca que hizo, cubierta por los querubines, es en la tradición católica un tipo de María, el Arca de la Nueva Alianza.",
+  "know": [
+   "Llamado por su nombre y lleno del Espíritu de Dios (Ex 31,1-5).",
+   "Hizo el arca de la alianza (Ex 37,1-9).",
+   "Trabajó con Oholiab y otros artesanos hábiles.",
+   "Su altar de bronce aún estaba en Gabaón en tiempos de Salomón (2 Cr 1,5)."
+  ],
+  "feast": null
+ },
+ "caleb-son-of-hezron": {
+  "name": "Caleb (Quelubay)",
+  "role": "Descendiente de Judá",
+  "summary": "Caleb (Quelubay), hijo de Jesrón y hermano de Jerajmeel y de Ram, encabeza una extensa lista de clanes de Judá; los intérpretes judíos y cristianos lo distinguen tradicionalmente de Caleb, hijo de Jefuné (1 Cr 2,9.18-24.42-50).",
+  "catholic": "",
+  "know": [],
+  "feast": null
+ },
+ "dan": {
+  "name": "Dan",
+  "role": "Hijo de Jacob",
+  "summary": "Hijo de Jacob y de Bilhá, la esclava de Raquel; Raquel le puso nombre diciendo: «Dios me ha hecho justicia». La bendición de Jacob lo llama juez de su pueblo y serpiente junto al camino.",
+  "catholic": "Jacob interrumpe su bendición de Dan con la oración «Espero tu salvación, SEÑOR» (Gn 49,18). Dan es la única tribu que falta en la lista de los sellados de Ap 7,5-8, lo que algunos Padres relacionaron con Gn 49,17; esto es especulación, no enseñanza de la Iglesia.",
+  "know": [
+   "Hijo de Jacob y Bilhá; su nombre significa «él juzgó» (Gn 30,6)",
+   "Padre de Jusín (Gn 46,23)",
+   "«Dan juzgará a su pueblo» (Gn 49,16)"
+  ],
+  "feast": null
+ },
+ "darius-the-mede": {
+  "name": "Darío el medo",
+  "role": "Rey",
+  "summary": "Darío el medo recibió el reino de Baltasar y puso a Daniel por encima de sus gobernadores. Engañado por funcionarios envidiosos para firmar un decreto irrevocable contra la oración a cualquiera que no fuera el rey, hizo arrojar a Daniel a los leones a su pesar, se alegró de su liberación y decretó la reverencia al Dios de Daniel.",
+  "catholic": "",
+  "know": [
+   "Llamado «hijo de Asuero, de la estirpe de los medos» (Dn 9,1).",
+   "Su identidad histórica es objeto de debate.",
+   "Distinto de Darío I de Persia, el de Ageo, Zacarías y Esdras."
+  ],
+  "feast": null
+ },
+ "dinah": {
+  "name": "Dina",
+  "role": "Hija de Jacob",
+  "summary": "Hija de Jacob y Lía. Cuando salió a visitar a las mujeres del país, Siquén, hijo de Jamor, la tomó y la violó, y luego quiso casarse con ella; sus hermanos Simeón y Leví engañaron a los siquemitas y los mataron.",
+  "catholic": "",
+  "know": [
+   "Única hija de Jacob nombrada en el Génesis (Gn 30,21)",
+   "Violada por Siquén (Gn 34,2)",
+   "Vengada por Simeón y Leví (Gn 34,25-26)"
+  ],
+  "feast": null
+ },
+ "ehud": {
+  "name": "Ehúd",
+  "role": "Juez de Israel",
+  "summary": "Benjaminita zurdo, hijo de Guerá, suscitado por el SEÑOR cuando Israel llevaba dieciocho años sirviendo a Eglón, rey de Moab. Al llevar el tributo, consiguió una audiencia privada, mató al obeso rey con una espada de doble filo escondida, escapó y condujo a Israel a la victoria; el país tuvo paz durante ochenta años.",
+  "catholic": "El «mensaje secreto de parte de Dios» de Ehúd (Jue 3,20) fue leído alegóricamente por los Padres como la palabra de Dios de doble filo (Hb 4,12) que penetra hasta el corazón. En términos más amplios, muestra a Dios eligiendo a quien menos se espera —un zurdo de la tribu más pequeña— para salvar a su pueblo.",
+  "know": [
+   "Benjaminita zurdo (Jue 3,15).",
+   "Mató a Eglón de Moab con una espada escondida (Jue 3,21-22).",
+   "Reunió a Israel en los vados del Jordán.",
+   "Siguieron ochenta años de paz (Jue 3,30)."
+  ],
+  "feast": null
+ },
+ "eliphaz": {
+  "name": "Elifaz (hijo de Esaú)",
+  "role": "Primogénito de Esaú",
+  "summary": "Hijo primogénito de Esaú y de Adá; padre de Temán, Omar, Sefó, Gatán y Quenaz, y de Amalec, que tuvo con su concubina Timná.",
+  "catholic": "",
+  "know": [
+   "Padre de Amalec (Gn 36,12)",
+   "No es el mismo que Elifaz de Temán, el amigo de Job, aunque ese nombre recuerda a su hijo Temán"
+  ],
+  "feast": null
+ },
+ "elizabeth": {
+  "name": "Isabel",
+  "role": "Madre de Juan el Bautista",
+  "summary": "Isabel, de la línea sacerdotal de Aarón y esposa del sacerdote Zacarías, era justa, pero estéril y de edad avanzada. Concibió a Juan en su vejez, y cuando su pariente María la visitó, el niño saltó en su seno y, llena del Espíritu Santo, saludó a María como «la madre de mi Señor». En la circuncisión de Juan insistió en que se llamara Juan.",
+  "catholic": "Las palabras inspiradas de Isabel, «Bendita tú entre las mujeres, y bendito el fruto de tu vientre», forman parte del Avemaría (CEC 2676), y su saludo a María como «la madre de mi Señor» es citado por la Iglesia en favor de la maternidad divina de María (CEC 495). La Visitación (31 de mayo) celebra su encuentro con María. Su maternidad tardía y milagrosa recuerda a Sara y a Ana y muestra que «para Dios nada hay imposible» (Lc 1,37).",
+  "know": [
+   "Descendiente de Aarón (Lc 1,5).",
+   "Pariente de la Virgen María (Lc 1,36).",
+   "La primera en llamar a María «la madre de mi Señor» (Lc 1,43).",
+   "Sus palabras forman parte del Avemaría."
+  ],
+  "feast": "23 de septiembre (Santos Zacarías e Isabel, Martirologio Romano)"
+ },
+ "elkanah": {
+  "name": "Elcaná",
+  "role": "Padre de Samuel",
+  "summary": "Elcaná, hijo de Jeroján, hombre de Ramatáin-Sofín, en la serranía de Efraín, subía cada año a adorar en Siló. Tenía dos esposas, Ana y Feniná, y amaba tiernamente a Ana, que no tenía hijos. Después del nacimiento de Samuel, permitió que Ana cumpliera su voto y entregara al niño al servicio del SEÑOR.",
+  "catholic": "Elcaná es recordado por su amor delicado hacia su esposa estéril («¿No valgo yo para ti más que diez hijos?») y por su fiel peregrinación anual, el marco en el que fue escuchada la oración de Ana. El Cronista lo cuenta entre los levitas, de modo que el ministerio sacerdotal de Samuel tiene un trasfondo familiar.",
+  "know": [
+   "Vivía en Ramá (Ramatáin-Sofín), en Efraín",
+   "Esposo de Ana y de Feniná",
+   "Padre de Samuel y, con Ana, de otros tres hijos y dos hijas",
+   "1 Crónicas 6 lo cuenta entre los levitas queatitas"
+  ],
+  "feast": null
+ },
+ "enosh": {
+  "name": "Enós",
+  "role": "Patriarca antediluviano",
+  "summary": "Hijo de Set y padre de Quenán. En sus días «se comenzó a invocar el nombre del SEÑOR». Vivió 905 años.",
+  "catholic": "El Catecismo señala la invocación del nombre divino en tiempos de Enós como parte de la historia más antigua de la oración (CEC 2569). Lucas lo cuenta (como «Enós») entre los antepasados de Jesús.",
+  "know": [
+   "En su tiempo se comenzó a invocar el nombre del SEÑOR (Gn 4,26)",
+   "Escrito «Enós» en Lucas 3,38",
+   "Vivió 905 años"
+  ],
+  "feast": null
+ },
+ "felix": {
+  "name": "Félix",
+  "role": "Gobernador romano de Judea",
+  "summary": "Antonio Félix era el gobernador romano a quien el tribuno Lisias envió a Pablo bajo custodia. Escuchó la causa de Pablo frente al sumo sacerdote Ananías y Tértulo, pero aplazó el juicio; cuando Pablo habló de la justicia, del dominio de sí y del juicio futuro, Félix se atemorizó, pero aun así mantuvo a Pablo preso durante dos años esperando un soborno.",
+  "catholic": "Félix es figura del alma que oye la verdad, tiembla y, sin embargo, aplaza su conversión («cuando tenga ocasión, te mandaré llamar», Hch 24,25).",
+  "know": [
+   "Gobernador de Judea en Cesarea.",
+   "Esposo de Drusila.",
+   "Mantuvo preso a Pablo dos años esperando dinero (Hch 24,26-27).",
+   "Le sucedió Porcio Festo."
+  ],
+  "feast": null
+ },
+ "gabael": {
+  "name": "Gabael",
+  "role": "Pariente en Ragués",
+  "summary": "El pariente de Ragués, en Media, a quien Tobit dejó en depósito diez talentos de plata; Rafael recuperó el dinero y lo llevó a la boda de Tobías.",
+  "catholic": "",
+  "know": [
+   "Llamado «hermano de Gabrías» (Tb 1,14) e «hijo de Gabrías» (Tb 4,20).",
+   "Acudió al banquete de bodas y bendijo a Tobías (Tb 9,5-6)."
+  ],
+  "feast": null
+ },
+ "gad": {
+  "name": "Gad",
+  "role": "Hijo de Jacob",
+  "summary": "Hijo de Jacob y de Zilpá, la esclava de Lía; Lía le puso nombre diciendo: «¡Qué suerte!». Jacob predijo que los salteadores lo asaltarían, pero que él los asaltaría pisándoles los talones.",
+  "catholic": "",
+  "know": [
+   "Hijo de Jacob y Zilpá (Gn 30,9-11)",
+   "Padre de siete hijos (Gn 46,16)",
+   "No es el profeta Gad de tiempos de David"
+  ],
+  "feast": null
+ },
+ "gilead-son-of-machir": {
+  "name": "Galaad",
+  "role": "Padre de un clan de Manasés",
+  "summary": "Hijo de Maquir y nieto de Manasés, antepasado de los clanes galaaditas, entre ellos Jéfer.",
+  "catholic": "",
+  "know": [
+   "Hijo de Maquir (Nm 26,29).",
+   "Padre de Jéfer (Nm 26,32)."
+  ],
+  "feast": null
+ },
+ "hananiah-son-of-azzur": {
+  "name": "Ananías hijo de Azur",
+  "role": "Falso profeta",
+  "summary": "Ananías, profeta de Gabaón, contradijo públicamente a Jeremías en el Templo, profetizando que el yugo de Babilonia se rompería en dos años, y quebró el yugo de madera del cuello de Jeremías. Jeremías respondió que Dios pondría un yugo de hierro sobre las naciones y que Ananías moriría ese mismo año; murió dos meses después.",
+  "catholic": "",
+  "know": [
+   "El ejemplo clásico del falso profeta que dice a la gente lo que quiere oír (Jr 28).",
+   "Rompió el yugo de madera de Jeremías; Dios lo sustituyó por uno de hierro.",
+   "Murió en el séptimo mes de ese año, como Jeremías había predicho."
+  ],
+  "feast": null
+ },
+ "hanun": {
+  "name": "Janún",
+  "role": "Rey de Amón",
+  "summary": "Janún, hijo de Najás, humilló a los enviados de David que venían a darle el pésame, afeitándoles la mitad de la barba, lo que provocó la guerra amonita en la que más tarde murió Urías.",
+  "catholic": "",
+  "know": [
+   "Provocó la guerra con David"
+  ],
+  "feast": null
+ },
+ "hoshea-king-of-israel": {
+  "name": "Oseas (rey de Israel)",
+  "role": "Último rey de Israel",
+  "summary": "Oseas, hijo de Elá, mató a Pecaj y llegó a ser el último rey de Israel. Vasallo de Salmanasar de Asiria, conspiró con Egipto y dejó de pagar el tributo; Salmanasar lo encarceló y sitió Samaría durante tres años, y en el 722 a. C. Samaría cayó e Israel fue deportado a Asiria.",
+  "catholic": "2 Reyes 17 explica la caída de Samaría como fruto de siglos de idolatría y de rechazo a los profetas, una sobria meditación teológica que la Iglesia lee como llamada a la fidelidad.",
+  "know": [
+   "Último rey del reino del norte",
+   "Se rebeló contra Asiria",
+   "Samaría cayó en su noveno año (722 a. C.)"
+  ],
+  "feast": null
+ },
+ "james-son-of-alphaeus": {
+  "name": "Santiago, hijo de Alfeo",
+  "role": "Apóstol",
+  "summary": "Santiago, hijo de Alfeo, es el noveno nombre en las listas de los Doce (Mt 10,3; Mc 3,18; Lc 6,15; Hch 1,13); no se dice nada más de él bajo ese nombre.",
+  "catholic": "La tradición católica lo identifica generalmente con «Santiago el Menor» (Mc 15,40) y con Santiago, «el hermano del Señor», que dirigió la Iglesia de Jerusalén, y lo honra como Santiago el Menor junto con San Felipe. La identificación es tradicional, no segura.",
+  "know": [
+   "Hijo de Alfeo (Mt 10,3).",
+   "Tradicionalmente «Santiago el Menor».",
+   "La tradición católica lo identifica generalmente con Santiago, el hermano del Señor.",
+   "Fiesta el 3 de mayo, con San Felipe."
+  ],
+  "feast": "3 de mayo (Santos Felipe y Santiago)"
+ },
+ "joash-father-of-gideon": {
+  "name": "Joás el abiezerita",
+  "role": "Padre de Gedeón",
+  "summary": "Hombre de Ofrá, del clan de Abiézer, en Manasés, padre de Gedeón. Cuando los habitantes de la ciudad exigieron la muerte de Gedeón por haber destruido el altar de Baal, Joás respondió: «Si es un dios, que se defienda él mismo».",
+  "catholic": "",
+  "know": [
+   "Padre de Gedeón (Jue 6,11).",
+   "Era dueño del altar de Baal que Gedeón derribó.",
+   "Defendió a su hijo (Jue 6,31)."
+  ],
+  "feast": null
+ },
+ "kenan": {
+  "name": "Quenán",
+  "role": "Patriarca antediluviano",
+  "summary": "Hijo de Enós y padre de Malalel; vivió 910 años.",
+  "catholic": "",
+  "know": [
+   "Llamado «Cainán» en Lucas 3,37",
+   "Vivió 910 años"
+  ],
+  "feast": null
+ },
+ "mark": {
+  "name": "Marcos",
+  "role": "Evangelista",
+  "summary": "Juan, llamado Marcos, era hijo de María, en cuya casa de Jerusalén se reunía la Iglesia. Fue con su primo Bernabé y con Saulo en el primer viaje misionero, pero se volvió atrás en Perge, lo que provocó un fuerte desacuerdo que separó a Pablo y a Bernabé. Reconciliado más tarde con Pablo, está con él en la prisión como colaborador y es llamado «útil para el ministerio»; Pedro lo llama «Marcos, mi hijo».",
+  "catholic": "La Iglesia honra a san Marcos como autor del segundo Evangelio; su fiesta es el 25 de abril y su símbolo es el león. Una tradición antigua (Papías, según Eusebio) sostiene que puso por escrito la predicación de Pedro como su intérprete, de modo que su Evangelio transmite el testimonio apostólico de la cabeza de los apóstoles. La tradición sostiene también que fundó la Iglesia de Alejandría y murió mártir allí; sus reliquias fueron llevadas a Venecia, de la que es patrono. Su vuelta al favor de Pablo después de su fracaso es una imagen de la reconciliación en la Iglesia.",
+  "know": [
+   "Llamado también Juan (Hch 12,12; 13,5; 13,13).",
+   "Hijo de María de Jerusalén y primo de Bernabé (Col 4,10).",
+   "Dejó el primer viaje misionero en Perge (Hch 13,13; 15,38).",
+   "Pedro lo llama «mi hijo» (1 Pe 5,13).",
+   "Tradicionalmente el evangelista del segundo Evangelio; fiesta el 25 de abril."
+  ],
+  "feast": "25 de abril"
+ },
+ "mary-of-clopas": {
+  "name": "María de Cleofás",
+  "role": "Discípula; testigo de la Crucifixión",
+  "summary": "María, «la de Cleofás», estaba junto a la cruz con la Virgen María y María Magdalena (Jn 19,25). Los Evangelios sinópticos nombran entre las mujeres que estaban junto a la cruz y el sepulcro a «María, la madre de Santiago y de José» (Mt 27,56; Mc 15,40), llamada también «la otra María» (Mt 27,61; 28,1); la tradición católica identifica generalmente a ambas como una misma mujer.",
+  "catholic": "El Catecismo recurre a ella para explicar los «hermanos de Jesús»: «Santiago y José, “hermanos de Jesús”, son los hijos de una María discípula de Cristo que se designa de manera significativa como “la otra María”» (CEC 500). Algunos lectores entienden que Juan 19,25 la llama hermana (pariente) de la Virgen María. Es honrada entre las santas mujeres que siguieron a Jesús desde Galilea y fueron las primeras en llegar al sepulcro vacío.",
+  "know": [
+   "Esposa de Cleofás (Jn 19,25).",
+   "«María, la madre de Santiago el Menor y de José» (Mc 15,40); su identificación con María de Cleofás es tradicional.",
+   "Llamada «la otra María» en Mateo (Mt 28,1).",
+   "Llevó aromas para ungir el cuerpo de Jesús (Mc 16,1)."
+  ],
+  "feast": null
+ },
+ "matthew": {
+  "name": "Mateo (Leví)",
+  "role": "Apóstol y evangelista",
+  "summary": "Mateo, llamado también Leví, hijo de Alfeo, era recaudador de impuestos en Cafarnaún. A la palabra de Jesús, «Sígueme», dejó su mesa de recaudación y ofreció un banquete a Jesús con publicanos y pecadores, donde Jesús dijo que no había venido a llamar a los justos, sino a los pecadores.",
+  "catholic": "La Iglesia lo honra como apóstol y evangelista, autor según la tradición del primer Evangelio, escrito para mostrar a Jesús como cumplimiento de las Escrituras de Israel; su símbolo es el hombre (o ángel). Su vocación, pintada por Caravaggio, es una imagen clásica de la gracia que sale al encuentro del pecador. La tradición sostiene que murió mártir.",
+  "know": [
+   "Llamado «Leví, hijo de Alfeo» en Marcos 2,14.",
+   "Recaudador de impuestos (Mt 9,9; 10,3).",
+   "Según la tradición, autor del Evangelio de Mateo.",
+   "Fiesta el 21 de septiembre."
+  ],
+  "feast": "21 de septiembre"
+ },
+ "menahem": {
+  "name": "Menajén",
+  "role": "Rey de Israel",
+  "summary": "Menajén, hijo de Gadí, mató a Salún, sofocó con crueldad la resistencia en Tifsaj y reinó diez años, pagando a Pul (Teglatfalasar) de Asiria mil talentos de plata recaudados de los hombres ricos de Israel.",
+  "catholic": "",
+  "know": [
+   "Pagó tributo a Asiria"
+  ],
+  "feast": null
+ },
+ "mushi": {
+  "name": "Musí",
+  "role": "Jefe de un clan levita",
+  "summary": "Hijo de Merarí y nieto de Leví, mencionado en las genealogías levíticas; jefe de un clan levita.",
+  "catholic": "",
+  "know": [
+   "Nieto de Leví por medio de Merarí.",
+   "Nombrado en la genealogía de Éxodo 6 y en el censo de Números 3."
+  ],
+  "feast": null
+ },
+ "necoh": {
+  "name": "Necó",
+  "role": "Faraón de Egipto",
+  "summary": "El faraón Necó marchó hacia el norte en ayuda de Asiria; Josías salió contra él en Meguido y murió. Necó destituyó luego a Joacaz, puso como rey a Joaquín e impuso tributo a Judá, hasta que Nabucodonosor lo derrotó en Carquemis.",
+  "catholic": "",
+  "know": [
+   "Mató a Josías en Meguido",
+   "Destituyó a Joacaz y entronizó a Joaquín",
+   "Derrotado en Carquemis (605 a. C.)"
+  ],
+  "feast": null
+ },
+ "obed": {
+  "name": "Obed",
+  "role": "Abuelo de David",
+  "summary": "Hijo de Booz y Rut, nacido en Belén y criado por Noemí; las vecinas le pusieron nombre. Fue padre de Jesé y abuelo del rey David.",
+  "catholic": "Mateo y Lucas lo incluyen en la genealogía de Jesús, de modo que es uno de los eslabones por los que la promesa hecha a Judá («no se apartará el cetro de Judá», Gn 49,10) pasa a David y a Cristo.",
+  "know": [
+   "Hijo de Booz y Rut (Rt 4,13).",
+   "Las mujeres de Belén le pusieron nombre (Rt 4,17).",
+   "Padre de Jesé, abuelo de David (Rt 4,17.22)."
+  ],
+  "feast": null
+ },
+ "peleg": {
+  "name": "Péleg",
+  "role": "Patriarca posdiluviano",
+  "summary": "Hijo de Éber, llamado así porque «en sus días se dividió la tierra»; padre de Reú.",
+  "catholic": "",
+  "know": [
+   "Su nombre significa «división» (Gn 10,25)",
+   "Incluido en Lucas 3,35"
+  ],
+  "feast": null
+ },
+ "rahab": {
+  "name": "Rajab",
+  "role": "Mujer de Jericó",
+  "summary": "Mujer cananea de Jericó, llamada prostituta, que escondió a los dos exploradores de Josué, confesó que «el SEÑOR, vuestro Dios, es Dios arriba en los cielos y abajo en la tierra» y los descolgó con una cuerda desde su casa, situada en la muralla. Un cordón escarlata en su ventana señaló a su familia, que fue perdonada cuando cayó Jericó; vivió en medio de Israel y, según Mateo, se casó con Salmón y fue madre de Booz.",
+  "catholic": "Rajab es una de las cuatro mujeres nombradas en la genealogía de Jesús según Mateo (Mt 1,5), signo de que el Mesías vino para los gentiles y los pecadores. Hebreos 11,31 alaba su fe y Santiago 2,25 sus obras, por lo que es un testigo clásico de que la fe y las obras van unidas. San Clemente Romano (1 Clemente 12) vio en el cordón escarlata un signo de la redención por la sangre del Señor, y los Padres leyeron su casa, el único lugar seguro en la ciudad condenada, como figura de la Iglesia.",
+  "know": [
+   "Escondió a los exploradores y confesó su fe en el SEÑOR (Jos 2,9-11).",
+   "El cordón escarlata en su ventana (Jos 2,18-21).",
+   "Perdonada con su familia en Jericó (Jos 6,22-25).",
+   "Madre de Booz, hijo de Salmón (Mt 1,5).",
+   "Alabada en Hb 11,31 y St 2,25."
+  ],
+  "feast": null
+ },
+ "sheba-son-of-bichri": {
+  "name": "Sebá hijo de Bicrí",
+  "role": "Rebelde",
+  "summary": "Sebá, hijo de Bicrí, benjaminita, encabezó una rebelión de las tribus del norte tras la derrota de Absalón; una mujer sabia de Abel Bet Maacá convenció a su ciudad para que arrojara su cabeza a Joab por encima de la muralla.",
+  "catholic": "",
+  "know": [
+   "Gritó: «No tenemos parte con David»",
+   "Muerto por la gente de Abel"
+  ],
+  "feast": null
+ },
+ "shelah-son-of-arpachshad": {
+  "name": "Sélaj (hijo de Arfaxad)",
+  "role": "Patriarca posdiluviano",
+  "summary": "Hijo de Arfaxad y padre de Éber.",
+  "catholic": "",
+  "know": [
+   "No es el mismo que Selá, hijo de Judá",
+   "Incluido entre los antepasados de Jesús (Lc 3,35)"
+  ],
+  "feast": null
+ },
+ "shelah-son-of-judah": {
+  "name": "Selá (hijo de Judá)",
+  "role": "Hijo de Judá",
+  "summary": "Tercer hijo de Judá y de la hija de Súa, a quien Judá no entregó a Tamar por temor a que también él muriera; antepasado del clan de los selanitas.",
+  "catholic": "",
+  "know": [
+   "Nacido en Quezib (Gn 38,5)",
+   "No fue entregado a Tamar (Gn 38,11.14.26)",
+   "Antepasado de los selanitas (Nm 26,20; 1 Cr 4,21)"
+  ],
+  "feast": null
+ },
+ "uzzah": {
+  "name": "Uzá",
+  "role": "Portador del Arca",
+  "summary": "Uzá, hijo de Abinadab, conducía la carreta nueva que llevaba el Arca hacia Jerusalén; cuando los bueyes tropezaron, extendió la mano para sujetar el Arca y cayó muerto.",
+  "catholic": "La muerte de Uzá es una lección clásica de reverencia ante lo santo: el Arca debía ser transportada con varales por los levitas, no tocada. Prepara el temor de David —«¿Cómo va a venir a mí el Arca del SEÑOR?»—, del que se hace eco Isabel ante María (Lc 1,43).",
+  "know": [
+   "Tocó el Arca y murió",
+   "David llamó al lugar Peres-Uzá",
+   "Llamado Uzá en Crónicas"
+  ],
+  "feast": null
+ },
+ "zimri-king-of-israel": {
+  "name": "Zimrí",
+  "role": "Rey de Israel",
+  "summary": "Zimrí, jefe de la mitad de los carros, mató a Elá y reinó siete días en Tirsá; cuando el ejército proclamó rey a Omrí y sitió la ciudad, Zimrí incendió el palacio sobre sí mismo.",
+  "catholic": "",
+  "know": [
+   "Reinó siete días",
+   "Murió en el palacio en llamas",
+   "«Zimrí, asesino de su señor» se convirtió en insulto (2 Re 9,31)"
+  ],
+  "feast": null
+ },
+ "achan": {
+  "name": "Acán",
+  "role": "Judaíta que violó el anatema",
+  "summary": "Judaíta, hijo de Carmí, que en la caída de Jericó tomó a escondidas un manto, plata y un lingote de oro que habían sido consagrados al SEÑOR por anatema. Israel fue entonces derrotado en Ay; Acán fue descubierto por sorteo, confesó y fue apedreado con su familia en el valle de Acor.",
+  "catholic": "El pecado oculto de Acán, que acarrea la derrota a todo Israel, es una imagen bíblica de la dimensión comunitaria del pecado, que el Catecismo describe: todo pecado daña la comunión de la Iglesia. Su confesión ante Josué («da gloria al SEÑOR... y confiesa») se cita a menudo en la enseñanza sobre la confesión de los pecados.",
+  "know": [
+   "Tomó botín consagrado de Jericó (Jos 7,1.21).",
+   "Su pecado causó la derrota en Ay.",
+   "Descubierto por sorteo; confesó (Jos 7,16-21).",
+   "Apedreado en el valle de Acor (Jos 7,24-26).",
+   "Llamado Acar, «el que perturbó a Israel» (1 Cr 2,7)."
+  ],
+  "feast": null
+ },
+ "elihu-son-of-barachel": {
+  "name": "Elihú hijo de Baraquel",
+  "role": "Joven orador",
+  "summary": "Joven buzita que, irritado con Job por justificarse a sí mismo y con los amigos por no tener respuesta, pronunció cuatro discursos subrayando que Dios enseña por medio del sufrimiento y está por encima del juicio humano. Job no le responde y Dios no lo reprende.",
+  "catholic": "La intuición de Elihú de que el sufrimiento puede ser una disciplina que instruye y salva (Jb 33,14-30; 36,15) prepara la comprensión cristiana del valor medicinal y purificador de las pruebas.",
+  "know": [
+   "Hijo de Baraquel el buzita, de la familia de Ram (Jb 32,2).",
+   "Habla en Job 32-37."
+  ],
+  "feast": null
+ },
+ "goliath": {
+  "name": "Goliat",
+  "role": "Campeón filisteo",
+  "summary": "Goliat de Gat, gigantesco campeón filisteo, desafió a los ejércitos de Israel durante cuarenta días, hasta que el joven pastor David, confiando en el SEÑOR, lo derribó con una piedra de su honda y le cortó la cabeza con la propia espada del gigante.",
+  "catholic": "Los Padres leyeron la victoria de David sobre Goliat como figura de la victoria de Cristo sobre Satanás: el humilde pastor de Belén vence al enemigo soberbio con los medios más débiles, «para que toda la tierra sepa que hay un Dios en Israel». Agustín y Cesáreo de Arlés predicaron sobre esta tipología.",
+  "know": [
+   "Medía unos seis codos y un palmo",
+   "Desafió a Israel durante cuarenta días",
+   "Muerto por la piedra de la honda de David",
+   "Su espada se guardó después en Nob"
+  ],
+  "feast": null
+ },
+ "habakkuk": {
+  "name": "Habacuc",
+  "role": "Profeta",
+  "summary": "Habacuc profetizó cuando Babilonia ascendía al poder (finales del siglo VII a. C.), preguntando con audacia a Dios por qué tolera la injusticia y por qué se serviría de los despiadados caldeos. Dios responde que la visión llegará a su tiempo y que «el justo vivirá por su fe»; el libro termina con un salmo de confianza. En el relato griego de Bel y el dragón, un ángel lleva al «profeta Habacuc» a Babilonia para que lleve comida a Daniel en el foso de los leones.",
+  "catholic": "Ha 2,4, «el justo vivirá por su fe», se cita tres veces en el Nuevo Testamento (Rm 1,17; Gál 3,11; Hb 10,38) y es central en la enseñanza de la Iglesia sobre la fe como comienzo de la salvación. Su cántico (Ha 3) se usa en Laudes en la Liturgia de las Horas, y su confesión final, «aunque la higuera no florezca... yo me alegraré en el SEÑOR» (Ha 3,17-18), es un clásico de la esperanza en la desolación.",
+  "know": [
+   "Dialoga con Dios acerca del mal (Ha 1-2).",
+   "«El justo vivirá por su fe» (Ha 2,4).",
+   "Llevado por un ángel para alimentar a Daniel en el foso de los leones (Dn 14,33-39)."
+  ],
+  "feast": null
+ },
+ "joseph-of-arimathea": {
+  "name": "José de Arimatea",
+  "role": "Miembro del consejo; discípulo",
+  "summary": "José de Arimatea era un miembro rico y respetado del consejo, hombre bueno y justo que esperaba el Reino de Dios y que no había dado su consentimiento a la decisión del consejo. Discípulo en secreto, pidió con valentía a Pilato el cuerpo de Jesús, lo envolvió en una sábana limpia y lo depositó en su propio sepulcro nuevo, excavado en la roca.",
+  "catholic": "José cumple la profecía de que el Siervo estaría «con un rico en su muerte» (Is 53,9) y es citado junto con Nicodemo como discípulo secreto entre los jefes (CEC 595). Su cuidado del cuerpo de Jesús se honra en la Decimocuarta Estación del Vía Crucis y en la obra de misericordia corporal de enterrar a los muertos. Leyendas medievales lo relacionan con Glastonbury y el Santo Grial, pero no son tradición histórica.",
+  "know": [
+   "Miembro rico del consejo, de Arimatea (Mt 27,57; Lc 23,50-51).",
+   "Pidió a Pilato el cuerpo de Jesús (Mc 15,43).",
+   "Depositó a Jesús en su propio sepulcro nuevo (Mt 27,60).",
+   "Conmemorado junto con Nicodemo el 31 de agosto."
+  ],
+  "feast": "31 de agosto (Santos José de Arimatea y Nicodemo, Martirologio Romano)"
+ },
+ "lamech-sethite": {
+  "name": "Lamec (padre de Noé)",
+  "role": "Patriarca antediluviano",
+  "summary": "Hijo de Matusalén, de la línea de Set. Al nacer Noé, profetizó que el niño traería consuelo en la fatiga causada por la tierra maldita. Vivió 777 años.",
+  "catholic": "Su esperanza de que Noé trajera «consuelo» (Gn 5,29) expresa el anhelo de alivio de la maldición que recorre los relatos de los orígenes. Lucas lo cuenta entre los antepasados de Jesús (Lc 3,36).",
+  "know": [
+   "Padre de Noé (Gn 5,28-29)",
+   "Llamó a su hijo Noé esperando que trajera consuelo",
+   "Vivió 777 años",
+   "Distinto de Lamec, hijo de Metusael"
+  ],
+  "feast": null
+ }
+}

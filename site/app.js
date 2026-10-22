@@ -114,8 +114,9 @@
   /* ---------- search ---------- */
   function setupSearch() {
     const q = $("#q"), box = $("#qres");
-    const idx = PEOPLE.map((p) => ({ p, s: [p.name, ...p.aliases].join(" ").toLowerCase() }));
+    let idx = null, idxLang = null;
     q.addEventListener("input", () => {
+      if (idxLang !== window.I18N.lang) { idx = PEOPLE.map((p) => ({ p, s: [p.name, ...p.aliases].join(" ").toLowerCase() })); idxLang = window.I18N.lang; }
       const t = q.value.trim().toLowerCase();
       if (!t) { box.hidden = true; return; }
       const hits = idx.filter((x) => x.s.includes(t))
@@ -334,8 +335,9 @@
 
   /* ---------- people directory ---------- */
   function renderPeople() {
-    $("#pera").innerHTML += ERAS.map((e) => `<option>${esc(e)}</option>`).join("");
-    $("#pbook").innerHTML += BOOKS.map((b) => `<option value="${b.id}">${esc(b.name)}</option>`).join("");
+    const es = window.I18N.lang === "es";
+    $("#pera").innerHTML = `<option value="">${es ? "Todas las épocas" : "All eras"}</option>` + ERAS.map((e) => `<option>${esc(e)}</option>`).join("");
+    $("#pbook").innerHTML = `<option value="">${es ? "Todos los libros" : "All books"}</option>` + BOOKS.map((b) => `<option value="${b.id}">${esc(es ? window.I18N.T("books." + b.id) : b.name)}</option>`).join("");
     const draw = () => {
       const t = $("#pf").value.trim().toLowerCase(), era = $("#pera").value, bk = $("#pbook").value;
       const rows = PEOPLE.filter((p) => (!era || p.era === era) && (!bk || bk in p.books) &&
@@ -498,7 +500,9 @@
   /* ---------- daily quiz ---------- */
   function rng(seed) { let s = seed >>> 0; return () => ((s = (s * 1664525 + 1013904223) >>> 0) / 4294967296); }
   function todayKey() { const d = new Date(); return `${d.getFullYear()}-${String(d.getMonth() + 1).padStart(2, "0")}-${String(d.getDate()).padStart(2, "0")}`; }
-  const LEVELS = { easy: { min: 40, label: "Easy" }, medium: { min: 10, label: "Medium" }, hard: { min: 3, label: "Hard" } };
+  const QES = () => window.I18N?.lang === "es";
+  const QX = (en, es) => (QES() ? es : en);
+  const LEVELS = { easy: { min: 40, get label() { return QX("Easy", "Fácil"); } }, medium: { min: 10, get label() { return QX("Medium", "Medio"); } }, hard: { min: 3, get label() { return QX("Hard", "Difícil"); } } };
   function makeQuiz(dateKey, level = "medium") {
     const R = rng([...(dateKey + level)].reduce((a, c) => a * 31 + c.charCodeAt(0), 7));
     const pickFrom = (arr) => arr[Math.floor(R() * arr.length)];
@@ -521,38 +525,39 @@
         const p = pickFrom(notable);
         const pool = notable.filter((x) => x.era === p.era && x.id !== p.id).map((x) => x.name);
         if (pool.length < 3) return null;
-        return { prompt: `Who is this? “${mask(p, p.summary)}”`, opts: distract(p.name, pool), answer: p.name, id: p.id };
+        return { prompt: `${QX("Who is this?", "¿Quién es?")} “${mask(p, p.summary)}”`, opts: distract(p.name, pool), answer: p.name, id: p.id };
       },
       () => { // parent
         const kids = notable.filter((p) => p.father && P[p.father]);
         const p = pickFrom(kids);
         const pool = PEOPLE.filter((x) => x.gender === "m" && x.children.length && x.era === P[p.father].era && x.id !== p.father).map((x) => x.name);
         if (pool.length < 3) return null;
-        return { prompt: `Who was the father of ${p.name}?`, opts: distract(P[p.father].name, pool), answer: P[p.father].name, id: p.id };
+        return { prompt: QX(`Who was the father of ${p.name}?`, `¿Quién fue el padre de ${p.name}?`), opts: distract(P[p.father].name, pool), answer: P[p.father].name, id: p.id };
       },
       () => { // spouse
         const ps = notable.filter((p) => p.spouses.length === 1);
         const p = pickFrom(ps); const s = P[p.spouses[0]];
         const pool = PEOPLE.filter((x) => x.gender === s.gender && x.spouses.length && x.id !== s.id).map((x) => x.name);
-        return { prompt: `Who was married to ${p.name}?`, opts: distract(s.name, pool), answer: s.name, id: p.id };
+        return { prompt: QX(`Who was married to ${p.name}?`, `¿Con quién estuvo casado/a ${p.name}?`), opts: distract(s.name, pool), answer: s.name, id: p.id };
       },
       () => { // book most mentioned
         const p = pickFrom(notable.filter((x) => Object.keys(x.books).length >= 2));
         const [best] = Object.entries(p.books).sort((a, b) => b[1] - a[1]);
         const pool = BOOKS.map((b) => b.name);
-        return { prompt: `In which book is ${p.name} mentioned most often?`, opts: distract(BOOK[best[0]].name, pool), answer: BOOK[best[0]].name, id: p.id };
+        const bn = (id) => (QES() ? window.I18N.T("books." + id) : BOOK[id].name);
+        return { prompt: QX(`In which book is ${p.name} mentioned most often?`, `¿En qué libro se menciona más a ${p.name}?`), opts: distract(bn(best[0]), BOOKS.map((b) => bn(b.id))), answer: bn(best[0]), id: p.id };
       },
       () => { // feast
         const fs = PEOPLE.filter((p) => p.feast);
         if (fs.length < 4) return null;
         const p = pickFrom(fs);
-        return { prompt: `On what day does the Church celebrate ${p.name}?`, opts: distract(p.feast, [...new Set(fs.map((x) => x.feast))]), answer: p.feast, id: p.id };
+        return { prompt: QX(`On what day does the Church celebrate ${p.name}?`, `¿Qué día celebra la Iglesia a ${p.name}?`), opts: distract(p.feast, [...new Set(fs.map((x) => x.feast))]), answer: p.feast, id: p.id };
       },
       () => { // fact
         const p = pickFrom(notable.filter((x) => x.know.length));
         const pool = notable.filter((x) => x.id !== p.id && x.era === p.era).map((x) => x.name);
         if (pool.length < 3) return null;
-        return { prompt: `Which person fits this fact? “${mask(p, pickFrom(p.know))}”`, opts: distract(p.name, pool), answer: p.name, id: p.id };
+        return { prompt: `${QX("Which person fits this fact?", "¿Qué persona corresponde a este dato?")} “${mask(p, pickFrom(p.know))}”`, opts: distract(p.name, pool), answer: p.name, id: p.id };
       },
     ];
     const qs = [], used = new Set();
@@ -568,7 +573,8 @@
     const level = store.get("bpm.quizLevel", "medium");
     const qs = makeQuiz(key, level);
     const saved = store.get("bpm.quiz", {});
-    let st = saved.day === key && saved.level === level ? saved : { day: key, level, i: 0, picks: [] };
+    const qlang = window.I18N.lang;
+    let st = saved.day === key && saved.level === level && (saved.lang || "en") === qlang ? saved : { day: key, level, lang: qlang, i: 0, picks: [] };
     const hist = store.get("bpm.quizHist", {});
     const save = () => store.set("bpm.quiz", st);
     const draw = () => {
@@ -584,9 +590,9 @@
       if (done) {
         hist[key] = score; store.set("bpm.quizHist", hist);
         const gs = store.get("bpm.g.quiz", { days: {} }); gs.days[key] = { score, level }; store.set("bpm.g.quiz", gs);
-        body = `<div class="qcard"><h2>${score} of ${qs.length} today</h2>
-          <p class="qexp">${score === qs.length ? "A perfect round." : "Open the people you missed to read their stories."} A new quiz arrives tomorrow.</p>
-          <div class="tree">${qs.map((q, i) => `<div class="gen"><span class="lbl">${st.picks[i] === q.answer ? "Right" : "Missed"}</span>${chip(q.id)}</div>`).join("")}</div></div>`;
+        body = `<div class="qcard"><h2>${QX(`${score} of ${qs.length} today`, `${score} de ${qs.length} hoy`)}</h2>
+          <p class="qexp">${score === qs.length ? QX("A perfect round.", "¡Ronda perfecta!") : QX("Open the people you missed to read their stories.", "Abre las personas que fallaste para leer su historia.")} ${QX("A new quiz arrives tomorrow.", "Mañana llega un nuevo quiz.")}</p>
+          <div class="tree">${qs.map((q, i) => `<div class="gen"><span class="lbl">${st.picks[i] === q.answer ? QX("Right", "Bien") : QX("Missed", "Fallada")}</span>${chip(q.id)}</div>`).join("")}</div></div>`;
       } else {
         const q = qs[st.i];
         const answered = st.picks.length > st.i;
@@ -595,10 +601,10 @@
             const cls = answered ? (o === q.answer ? "right" : o === st.picks[st.i] ? "wrong" : "") : "";
             return `<button class="${cls}" data-o="${esc(o)}" ${answered ? "disabled" : ""}>${esc(o)}</button>`;
           }).join("")}</div>
-          ${answered ? `<p class="qexp">${st.picks[st.i] === q.answer ? "Correct." : `The answer is ${esc(q.answer)}.`} ${chip(q.id)}</p><button class="qnext">${st.i + 1 < qs.length ? "Next question" : "See results"}</button>` : ""}
+          ${answered ? `<p class="qexp">${st.picks[st.i] === q.answer ? QX("Correct.", "¡Correcto!") : QX(`The answer is ${esc(q.answer)}.`, `La respuesta es ${esc(q.answer)}.`)} ${chip(q.id)}</p><button class="qnext">${st.i + 1 < qs.length ? QX("Next question", "Siguiente pregunta") : QX("See results", "Ver resultados")}</button>` : ""}
         </div>`;
       }
-      root.innerHTML = `<div class="quiz game"><div class="ghead"><button class="back" data-go="play">‹ Games</button><h1>Daily Quiz</h1><span class="qmeta">${streak} day streak</span></div>
+      root.innerHTML = `<div class="quiz game"><div class="ghead"><button class="back" data-go="play">‹ ${QX("Games", "Juegos")}</button><h1>${QX("Daily Quiz", "Quiz diario")}</h1><span class="qmeta">${QX(`${streak} day streak`, `racha de ${streak} días`)}</span></div>
         <div class="levels" role="group" aria-label="Difficulty">${Object.entries(LEVELS).map(([k, v]) => `<button class="${k === level ? "on" : ""}" data-level="${k}">${v.label}</button>`).join("")}</div>
         <div class="dots">${dots}</div>${body}</div>`;
     };
@@ -677,6 +683,23 @@
     ];
   }
 
+  /* ---------- Spanish profiles: swap display fields in place, keep English for search/masking ---------- */
+  let PEOPLE_ES = null;
+  async function applyPeopleLang() {
+    const es = window.I18N.lang === "es";
+    if (es && !PEOPLE_ES) { try { PEOPLE_ES = await getJSON("data/people_es.json"); } catch { PEOPLE_ES = {}; } }
+    for (const p of PEOPLE) {
+      if (es) {
+        const o = PEOPLE_ES[p.id];
+        if (!o) continue;
+        p._en ??= { name: p.name, role: p.role, summary: p.summary, catholic: p.catholic, know: p.know, feast: p.feast, aliases: p.aliases };
+        Object.assign(p, { name: o.name || p._en.name, role: o.role || p._en.role, summary: o.summary || p._en.summary, catholic: o.catholic || p._en.catholic,
+          know: o.know?.length ? o.know : p._en.know, feast: o.feast ?? p._en.feast,
+          aliases: o.name && o.name !== p._en.name ? [...p._en.aliases, p._en.name] : p._en.aliases });
+      } else if (p._en) Object.assign(p, p._en);
+    }
+  }
+
   /* ---------- boot ---------- */
   async function boot() {
     buildEraColors();
@@ -695,7 +718,14 @@
     if (window.BPM_CONFIG?.donateUrl) { const g = document.getElementById("givelink"); if (g) g.hidden = false; }
     setupSearch(); setupPanel();
     window.addEventListener("hashchange", route);
-    window.I18N.on(() => { rendered.mass = false; if (current) openPerson(current, false); route(); });
+    window.I18N.on(async () => {
+      await applyPeopleLang();
+      rendered.mass = false; rendered.canon = rendered.people = false;
+      if (G) { buildEraColors(); G.draw(); }
+      if (current) openPerson(current, false);
+      route();
+    });
+    await applyPeopleLang();
     route();
     loadBible();
   }

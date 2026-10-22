@@ -496,7 +496,7 @@
   /* =====================================================================
      FIVE LOAVES — guess the five-letter word of the day in six tries.
      ===================================================================== */
-  let WORDLE = null, loavesAbort = null;
+  let WORDLE = null, WORDLE_ES = null, loavesAbort = null;
   function scoreGuess(g, ans) {
     const res = Array(5).fill("absent"), left = {};
     for (let i = 0; i < 5; i++) if (g[i] === ans[i]) res[i] = "correct"; else left[ans[i]] = (left[ans[i]] || 0) + 1;
@@ -505,18 +505,22 @@
   }
   async function renderLoaves(root) {
     root.innerHTML = `<p class="loading">Loading…</p>`;
-    WORDLE ??= await C().getJSON("data/wordle.json");
-    const VALID = new Set(WORDLE.valid);
+    const es = window.I18N?.lang === "es";
+    let W;
+    if (es) { WORDLE_ES ??= await C().getJSON("data/wordle_es.json").catch(() => null); W = WORDLE_ES; }
+    if (!W) { WORDLE ??= await C().getJSON("data/wordle.json"); W = WORDLE; }
+    const spanish = W === WORDLE_ES;
+    const VALID = new Set(W.valid);
     const n = dayNumber();
-    const ans = WORDLE.answers[((n - 1) % WORDLE.answers.length + WORDLE.answers.length) % WORDLE.answers.length];
-    const key = `bpm.loaves.${dayKey()}`;
+    const ans = W.answers[((n - 1) % W.answers.length + W.answers.length) % W.answers.length];
+    const key = `bpm.loaves.${spanish ? "es." : ""}${dayKey()}`;
     const st = C().store.get(key, { guesses: [] });
     const save = () => C().store.set(key, st);
     let cur = "";
-    const KB = ["QWERTYUIOP", "ASDFGHJKL", "↵ZXCVBNM⌫"];
+    const KB = spanish ? ["QWERTYUIOP", "ASDFGHJKLÑ", "↵ZXCVBNM⌫"] : ["QWERTYUIOP", "ASDFGHJKL", "↵ZXCVBNM⌫"];
     root.innerHTML = `<div class="game loaves">
       <div class="ghead"><button class="back" data-go="play">‹ ${X("Games", "Juegos")}</button><h1>Five Loaves</h1><span class="qmeta">#${n}</span></div>
-      <p class="lede">${X("Guess today's five-letter word of faith in six tries. It may be a word from the Mass, the Bible or Church life, or a person from Scripture.", "Adivina la palabra de fe de hoy, de cinco letras, en seis intentos. Las palabras están en inglés: términos de la Misa, la Biblia, la vida de la Iglesia o personajes bíblicos.")}</p>
+      <p class="lede">${X("Guess today's five-letter word of faith in six tries. It may be a word from the Mass, the Bible or Church life, or a person from Scripture.", "Adivina la palabra de fe de hoy, de cinco letras, en seis intentos: términos de la Misa, la Biblia, la vida de la Iglesia o personajes bíblicos. Los acentos no cuentan.")}</p>
       <div class="wgrid" id="wgrid"></div>
       <p class="tword" id="wmsg">&nbsp;</p>
       <div class="kb" id="kb">${KB.map((r) => `<div class="kbrow">${[...r].map((k) => `<button data-k="${k}" class="${k === "↵" || k === "⌫" ? "wide" : ""}" aria-label="${k === "↵" ? "Enter" : k === "⌫" ? "Delete" : k}">${k === "↵" ? "Enter" : k}</button>`).join("")}</div>`).join("")}</div>
@@ -542,19 +546,19 @@
       if (over()) return;
       if (k === "⌫") cur = cur.slice(0, -1);
       else if (k === "↵") {
-        if (cur.length < 5) return msg("Not enough letters");
-        if (!VALID.has(cur)) return msg("Not in the word list");
+        if (cur.length < 5) return msg(X("Not enough letters", "Faltan letras"));
+        if (!VALID.has(cur)) return msg(X("Not in the word list", "No está en la lista de palabras"));
         st.guesses.push(cur); cur = ""; save();
-        if (st.guesses.at(-1) === ans.w) msg(["Miraculous!", "Glorious!", "Wonderful!", "Well done!", "Good!", "Phew!"][st.guesses.length - 1]);
+        if (st.guesses.at(-1) === ans.w) msg((spanish ? ["¡Milagroso!", "¡Glorioso!", "¡Maravilloso!", "¡Muy bien!", "¡Bien!", "¡Uf!"] : ["Miraculous!", "Glorious!", "Wonderful!", "Well done!", "Good!", "Phew!"])[st.guesses.length - 1]);
         else $("#wmsg", root).textContent = " ";
-      } else if (/^[A-Z]$/.test(k) && cur.length < 5) cur += k;
+      } else if (/^[A-ZÑ]$/.test(k) && cur.length < 5) cur += k;
       draw();
     }
     $("#kb", root).addEventListener("click", (e) => { const b = e.target.closest("button[data-k]"); if (b) press(b.dataset.k); });
     loavesAbort?.abort(); loavesAbort = new AbortController();
     window.addEventListener("keydown", (e) => {
       if (!root.isConnected || root.closest("[hidden]") || e.metaKey || e.ctrlKey || e.altKey || e.target.closest("input,textarea,select")) return;
-      if (e.key === "Enter") press("↵"); else if (e.key === "Backspace") press("⌫"); else if (/^[a-z]$/i.test(e.key)) press(e.key.toUpperCase()); else return;
+      if (e.key === "Enter") press("↵"); else if (e.key === "Backspace") press("⌫"); else if (/^[a-zñ]$/i.test(e.key)) press(e.key.toUpperCase()); else return;
       e.preventDefault();
     }, { signal: loavesAbort.signal });
     function finish() {
@@ -563,7 +567,7 @@
       if (!playedToday("loaves")) record("loaves", { won, tries: st.guesses.length });
       $("#kb", root).hidden = true;
       const grid = st.guesses.map((g) => scoreGuess(g, ans.w).map((v) => (v === "correct" ? "🍞" : v === "present" ? "🐟" : "▫️")).join("")).join("\n");
-      $("#wdone", root).innerHTML = `<div class="qcard"><span class="eyebrow">${won ? `Solved in ${st.guesses.length}` : "Today's word"}</span><h2>${esc(ans.w)}</h2>
+      $("#wdone", root).innerHTML = `<div class="qcard"><span class="eyebrow">${won ? X(`Solved in ${st.guesses.length}`, `Resuelto en ${st.guesses.length}`) : X("Today's word", "La palabra de hoy")}</span><h2>${esc(ans.shown || ans.w)}</h2>
         <p>${esc(ans.explain)}</p>
         <div class="chips">${ans.person ? C().chip(ans.person) : ""}${ans.ref ? `<button class="ref" data-ref="${esc(ans.ref)}">${esc(C().refLabel(ans.ref))}</button>` : ""}</div>
         <p class="qmeta">${X("Streak", "Racha")}: ${streak("loaves")}</p><button class="qnext" id="wshare">${X("Share result", "Compartir resultado")}</button></div>`;
