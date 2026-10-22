@@ -34,3 +34,13 @@ Website first; the static site is built to be wrapped as a mobile app later.
 - Five Loaves word game (`scripts/build_wordle.py`), Music, Sacraments, Find a Mass
 - English/Spanish toggle (`site/i18n.js`); Scripture text and person profiles remain in English
 - Daily reminder: calendar file on the web, local notification in the app build
+
+## v0.4 additions
+- Pilgrimage (original daily game); games restyled away from the NYT look
+- Find Confession; My Parish pilot (`public/data/parishes/`, see `docs/` and the example parish)
+- Our Promise, Privacy policy, Credits & licenses (About page); `site/config.js` for site URL, donation link, contact, reviewer
+- Full Easter Vigil readings (`scripts/add_triduum.py`); offline-safe (d3 bundled in `site/vendor/`)
+- Spanish: 517 Bible people (`scripts/merge_people_es.py`), quiz, Five Loaves (200 Spanish words)
+- Five Loaves: 354 English answers
+- AWS: `infra/` (Terraform: S3 + CloudFront + ACM + Route 53 + GitHub deploy role) and `.github/workflows/aws.yml`; steps in `DEPLOY.md`
+- `docs/REVIEW_PACKET.md` (for the priest's review) and `docs/APP_STORE.md` (store listing)

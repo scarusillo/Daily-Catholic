@@ -1,0 +1,1202 @@
+[
+ {
+  "w": "ANGEL",
+  "shown": "ÁNGEL",
+  "explain": "Los ángeles son mensajeros de Dios, y cada uno de nosotros tiene un ángel custodio.",
+  "ref": "mat 18:10"
+ },
+ {
+  "w": "CALIZ",
+  "shown": "CÁLIZ",
+  "explain": "En el cáliz se consagra el vino que se convierte en la Sangre de la nueva alianza.",
+  "ref": "luk 22:20"
+ },
+ {
+  "w": "ALTAR",
+  "shown": "ALTAR",
+  "explain": "Sobre el altar se ofrece el sacrificio eucarístico; nosotros tenemos un altar del que no pueden comer los que sirven al tabernáculo.",
+  "ref": "heb 13:10"
+ },
+ {
+  "w": "SALMO",
+  "shown": "SALMO",
+  "explain": "Los salmos son las oraciones de Israel que la Iglesia reza cada día en la Liturgia de las Horas.",
+  "ref": "psa 23:1"
+ },
+ {
+  "w": "MISAL",
+  "shown": "MISAL",
+  "explain": "El misal contiene las oraciones de la Misa, que celebra lo que Jesús mandó: «Hagan esto en memoria mía».",
+  "ref": "luk 22:19"
+ },
+ {
+  "w": "CIRIO",
+  "shown": "CIRIO",
+  "explain": "El cirio pascual se enciende en la Vigilia como signo de Cristo, luz del mundo.",
+  "ref": "jhn 8:12"
+ },
+ {
+  "w": "CREDO",
+  "shown": "CREDO",
+  "explain": "En el Credo profesamos la fe, como el padre que exclamó: «Creo, ayuda mi incredulidad».",
+  "ref": "mrk 9:24"
+ },
+ {
+  "w": "SANTO",
+  "shown": "SANTO",
+  "explain": "En el Sanctus cantamos «Santo, santo, santo», el himno de los serafines que vio Isaías.",
+  "ref": "isa 6:3"
+ },
+ {
+  "w": "BEATO",
+  "shown": "BEATO",
+  "explain": "Un beato es alguien que la Iglesia declara bienaventurado; Jesús llamó dichosos a los limpios de corazón.",
+  "ref": "mat 5:8"
+ },
+ {
+  "w": "MONJA",
+  "shown": "MONJA",
+  "explain": "Las monjas consagran su vida a Dios, eligiendo como María de Betania la mejor parte.",
+  "ref": "luk 10:42"
+ },
+ {
+  "w": "MONJE",
+  "shown": "MONJE",
+  "explain": "Los monjes lo dejan todo para seguir a Cristo, como él pidió al joven rico.",
+  "ref": "mat 19:21"
+ },
+ {
+  "w": "HIMNO",
+  "shown": "HIMNO",
+  "explain": "Después de la Última Cena, Jesús y sus discípulos cantaron un himno y salieron al monte de los Olivos.",
+  "ref": "mat 26:30"
+ },
+ {
+  "w": "CANTO",
+  "shown": "CANTO",
+  "explain": "El salmista invita a toda la tierra a cantar al Señor un canto nuevo.",
+  "ref": "psa 96:1"
+ },
+ {
+  "w": "REZAR",
+  "shown": "REZAR",
+  "explain": "Jesús nos enseñó a rezar el Padrenuestro.",
+  "ref": "mat 6:9"
+ },
+ {
+  "w": "AYUNO",
+  "shown": "AYUNO",
+  "explain": "Jesús ayunó cuarenta días en el desierto, y por eso la Cuaresma dura cuarenta días.",
+  "ref": "mat 4:2"
+ },
+ {
+  "w": "RAMOS",
+  "shown": "RAMOS",
+  "explain": "El Domingo de Ramos recordamos a la multitud que recibió a Jesús con ramas de palmera.",
+  "ref": "jhn 12:13"
+ },
+ {
+  "w": "PALMA",
+  "shown": "PALMA",
+  "explain": "La palma es símbolo de victoria; en el Apocalipsis los salvados llevan palmas ante el trono.",
+  "ref": "rev 7:9"
+ },
+ {
+  "w": "FUEGO",
+  "shown": "FUEGO",
+  "explain": "En Pentecostés el Espíritu Santo descendió sobre los apóstoles como lenguas de fuego.",
+  "ref": "act 2:3"
+ },
+ {
+  "w": "LLAMA",
+  "shown": "LLAMA",
+  "explain": "Dios habló a Moisés desde una llama de fuego en una zarza que no se consumía.",
+  "ref": "exo 3:2"
+ },
+ {
+  "w": "CIELO",
+  "shown": "CIELO",
+  "explain": "Jesús subió al cielo ante los ojos de sus discípulos el día de la Ascensión.",
+  "ref": "act 1:9-11"
+ },
+ {
+  "w": "BODAS",
+  "shown": "BODAS",
+  "explain": "En las bodas de Caná Jesús convirtió el agua en vino a petición de María.",
+  "ref": "jhn 2:1-3"
+ },
+ {
+  "w": "ARRAS",
+  "shown": "ARRAS",
+  "explain": "En la boda las arras simbolizan los bienes que los esposos compartirán, pues ya no son dos sino una sola carne.",
+  "ref": "mat 19:5-6"
+ },
+ {
+  "w": "VOTOS",
+  "shown": "VOTOS",
+  "explain": "Los votos son promesas hechas a Dios que se deben cumplir con fidelidad.",
+  "ref": "ecc 5:4"
+ },
+ {
+  "w": "CULPA",
+  "shown": "CULPA",
+  "explain": "Al confesar nuestra culpa, Dios perdona nuestros pecados y nos purifica.",
+  "ref": "1jn 1:9"
+ },
+ {
+  "w": "MANSO",
+  "shown": "MANSO",
+  "explain": "Bienaventurados los mansos, porque heredarán la tierra.",
+  "ref": "mat 5:5"
+ },
+ {
+  "w": "POBRE",
+  "shown": "POBRE",
+  "explain": "Jesús alabó a la viuda pobre que echó en el tesoro todo lo que tenía para vivir.",
+  "ref": "mrk 12:42-44"
+ },
+ {
+  "w": "JUSTO",
+  "shown": "JUSTO",
+  "explain": "José, el esposo de María, era un hombre justo.",
+  "ref": "mat 1:19"
+ },
+ {
+  "w": "SABIO",
+  "shown": "SABIO",
+  "explain": "El temor del Señor es el principio de la sabiduría, y el sabio escucha el consejo.",
+  "ref": "pro 9:10"
+ },
+ {
+  "w": "TEMOR",
+  "shown": "TEMOR",
+  "explain": "El temor de Dios, uno de los dones del Espíritu, es el principio de la sabiduría.",
+  "ref": "psa 111:10"
+ },
+ {
+  "w": "LLAVE",
+  "shown": "LLAVE",
+  "explain": "Jesús dio a Pedro las llaves del Reino de los Cielos; por eso aparecen en el escudo del Papa.",
+  "ref": "mat 16:19"
+ },
+ {
+  "w": "MONTE",
+  "shown": "MONTE",
+  "explain": "En el monte de las Bienaventuranzas Jesús enseñó a sus discípulos el camino de la felicidad.",
+  "ref": "mat 5:1"
+ },
+ {
+  "w": "VALLE",
+  "shown": "VALLE",
+  "explain": "Aunque camine por valle de tinieblas, no temo ningún mal, porque el Señor va conmigo.",
+  "ref": "psa 23:4"
+ },
+ {
+  "w": "OASIS",
+  "shown": "OASIS",
+  "explain": "En Elim, un oasis con doce fuentes y setenta palmeras, Dios dio descanso a su pueblo.",
+  "ref": "exo 15:27"
+ },
+ {
+  "w": "ARENA",
+  "shown": "ARENA",
+  "explain": "Quien no pone en práctica las palabras de Jesús es como el que construye su casa sobre arena.",
+  "ref": "mat 7:26"
+ },
+ {
+  "w": "POLVO",
+  "shown": "POLVO",
+  "explain": "El Miércoles de Ceniza escuchamos: «Polvo eres y al polvo volverás».",
+  "ref": "gen 3:19"
+ },
+ {
+  "w": "BARRO",
+  "shown": "BARRO",
+  "explain": "Somos barro en las manos de Dios, que es el alfarero.",
+  "ref": "isa 64:8"
+ },
+ {
+  "w": "JARRA",
+  "shown": "JARRA",
+  "explain": "En Caná los sirvientes llenaron de agua las grandes jarras de piedra, y Jesús la convirtió en vino.",
+  "ref": "jhn 2:7"
+ },
+ {
+  "w": "CLAVO",
+  "shown": "CLAVO",
+  "explain": "Tomás quiso ver la marca de los clavos en las manos de Jesús resucitado.",
+  "ref": "jhn 20:25"
+ },
+ {
+  "w": "LANZA",
+  "shown": "LANZA",
+  "explain": "Un soldado traspasó el costado de Jesús con una lanza, y salió sangre y agua.",
+  "ref": "jhn 19:34"
+ },
+ {
+  "w": "MANTO",
+  "shown": "MANTO",
+  "explain": "La mujer que tocó el manto de Jesús quedó curada por su fe.",
+  "ref": "mrk 5:27-29"
+ },
+ {
+  "w": "TUMBA",
+  "shown": "TUMBA",
+  "explain": "El domingo de Pascua las mujeres encontraron la tumba vacía.",
+  "ref": "luk 24:2-3"
+ },
+ {
+  "w": "MIRRA",
+  "shown": "MIRRA",
+  "explain": "Los Magos ofrecieron al Niño oro, incienso y mirra.",
+  "ref": "mat 2:11"
+ },
+ {
+  "w": "MAGOS",
+  "shown": "MAGOS",
+  "explain": "Los Magos de Oriente siguieron la estrella hasta Belén para adorar al Niño.",
+  "ref": "mat 2:1-2"
+ },
+ {
+  "w": "OVEJA",
+  "shown": "OVEJA",
+  "explain": "El Buen Pastor deja las noventa y nueve para buscar la oveja perdida.",
+  "ref": "luk 15:4"
+ },
+ {
+  "w": "CABRA",
+  "shown": "CABRA",
+  "explain": "En el Juicio Final el Hijo del hombre separará las ovejas de las cabras.",
+  "ref": "mat 25:32-33"
+ },
+ {
+  "w": "BURRO",
+  "shown": "BURRO",
+  "explain": "Jesús entró en Jerusalén montado en un borrico, como anunció el profeta Zacarías.",
+  "ref": "zec 9:9"
+ },
+ {
+  "w": "PECES",
+  "shown": "PECES",
+  "explain": "Con cinco panes y dos peces Jesús alimentó a una multitud.",
+  "ref": "mat 14:17"
+ },
+ {
+  "w": "REDES",
+  "shown": "REDES",
+  "explain": "Pedro, Andrés, Santiago y Juan dejaron sus redes para seguir a Jesús.",
+  "ref": "mat 4:20"
+ },
+ {
+  "w": "BARCA",
+  "shown": "BARCA",
+  "explain": "Jesús calmó la tormenta desde la barca y preguntó a sus discípulos por qué tenían miedo.",
+  "ref": "mrk 4:37-40"
+ },
+ {
+  "w": "OLIVO",
+  "shown": "OLIVO",
+  "explain": "Pablo compara a los cristianos venidos del paganismo con ramas de olivo silvestre injertadas.",
+  "ref": "rom 11:17"
+ },
+ {
+  "w": "TRIGO",
+  "shown": "TRIGO",
+  "explain": "Si el grano de trigo no muere, queda solo; pero si muere, da mucho fruto.",
+  "ref": "jhn 12:24"
+ },
+ {
+  "w": "GRANO",
+  "shown": "GRANO",
+  "explain": "El Reino de los Cielos es como un grano de mostaza, la más pequeña de las semillas.",
+  "ref": "mat 13:31"
+ },
+ {
+  "w": "CEDRO",
+  "shown": "CEDRO",
+  "explain": "El justo crecerá como un cedro del Líbano.",
+  "ref": "psa 92:12"
+ },
+ {
+  "w": "ARBOL",
+  "shown": "ÁRBOL",
+  "explain": "Dios puso en medio del jardín el árbol de la vida y el árbol del conocimiento del bien y del mal.",
+  "ref": "gen 2:9"
+ },
+ {
+  "w": "FRUTO",
+  "shown": "FRUTO",
+  "explain": "El fruto del Espíritu es amor, alegría, paz, paciencia y bondad.",
+  "ref": "gal 5:22"
+ },
+ {
+  "w": "SIEGA",
+  "shown": "SIEGA",
+  "explain": "La mies es mucha y los obreros pocos; por eso pedimos vocaciones al Señor de la siega.",
+  "ref": "mat 9:37-38"
+ },
+ {
+  "w": "ARADO",
+  "shown": "ARADO",
+  "explain": "El que pone la mano en el arado y mira atrás no es apto para el Reino de Dios.",
+  "ref": "luk 9:62"
+ },
+ {
+  "w": "CARGA",
+  "shown": "CARGA",
+  "explain": "Jesús dice que su yugo es suave y su carga ligera.",
+  "ref": "mat 11:30"
+ },
+ {
+  "w": "LECHE",
+  "shown": "LECHE",
+  "explain": "Dios prometió a su pueblo una tierra que mana leche y miel.",
+  "ref": "exo 3:8"
+ },
+ {
+  "w": "PANES",
+  "shown": "PANES",
+  "explain": "En la multiplicación de los panes Jesús partió el pan y lo dio a sus discípulos para la gente.",
+  "ref": "mrk 6:41"
+ },
+ {
+  "w": "CESTA",
+  "shown": "CESTA",
+  "explain": "Después de que todos comieron, recogieron doce cestas con los pedazos sobrantes.",
+  "ref": "mat 14:20"
+ },
+ {
+  "w": "LIBRO",
+  "shown": "LIBRO",
+  "explain": "En el Apocalipsis solo el Cordero es digno de abrir el libro sellado.",
+  "ref": "rev 5:9"
+ },
+ {
+  "w": "ROLLO",
+  "shown": "ROLLO",
+  "explain": "En la sinagoga de Nazaret le dieron a Jesús el rollo del profeta Isaías.",
+  "ref": "luk 4:17"
+ },
+ {
+  "w": "VERBO",
+  "shown": "VERBO",
+  "explain": "En el principio era el Verbo, y el Verbo estaba junto a Dios.",
+  "ref": "jhn 1:1"
+ },
+ {
+  "w": "CARNE",
+  "shown": "CARNE",
+  "explain": "El Verbo se hizo carne y habitó entre nosotros.",
+  "ref": "jhn 1:14"
+ },
+ {
+  "w": "DANZA",
+  "shown": "DANZA",
+  "explain": "David danzaba con todas sus fuerzas delante del arca del Señor.",
+  "ref": "2sa 6:14"
+ },
+ {
+  "w": "VELAR",
+  "shown": "VELAR",
+  "explain": "En Getsemaní Jesús pidió a sus amigos: «Velad y orad para no caer en tentación».",
+  "ref": "mrk 14:38"
+ },
+ {
+  "w": "SUEÑO",
+  "shown": "SUEÑO",
+  "explain": "En sueños el ángel dijo a José que tomara a María por esposa.",
+  "ref": "mat 1:20"
+ },
+ {
+  "w": "TORRE",
+  "shown": "TORRE",
+  "explain": "La torre de Babel muestra el orgullo humano que quiere llegar al cielo sin Dios.",
+  "ref": "gen 11:4"
+ },
+ {
+  "w": "ATRIO",
+  "shown": "ATRIO",
+  "explain": "Mejor es un día en tus atrios que mil en otra parte, canta el salmista.",
+  "ref": "psa 84:10"
+ },
+ {
+  "w": "PACTO",
+  "shown": "PACTO",
+  "explain": "Después del diluvio Dios hizo un pacto con Noé y puso el arcoíris como señal.",
+  "ref": "gen 9:13"
+ },
+ {
+  "w": "SIGNO",
+  "shown": "SIGNO",
+  "explain": "En Caná Jesús hizo el primero de sus signos y manifestó su gloria.",
+  "ref": "jhn 2:11"
+ },
+ {
+  "w": "SEÑAL",
+  "shown": "SEÑAL",
+  "explain": "El ángel dio a los pastores una señal: un niño envuelto en pañales y acostado en un pesebre.",
+  "ref": "luk 2:12"
+ },
+ {
+  "w": "PODER",
+  "shown": "PODER",
+  "explain": "Jesús prometió a los apóstoles que recibirían poder cuando el Espíritu Santo viniera sobre ellos.",
+  "ref": "act 1:8"
+ },
+ {
+  "w": "REINO",
+  "shown": "REINO",
+  "explain": "Jesús comenzó a predicar: «Convertíos, porque el Reino de los Cielos está cerca».",
+  "ref": "mat 4:17"
+ },
+ {
+  "w": "TRONO",
+  "shown": "TRONO",
+  "explain": "Juan vio un trono en el cielo y a Uno sentado en él, rodeado de alabanza.",
+  "ref": "rev 4:2"
+ },
+ {
+  "w": "CETRO",
+  "shown": "CETRO",
+  "explain": "Jacob profetizó que el cetro no se apartaría de Judá, linaje del que nacería Jesús.",
+  "ref": "gen 49:10"
+ },
+ {
+  "w": "REYES",
+  "shown": "REYES",
+  "explain": "Los libros de los Reyes narran la historia de Israel desde Salomón hasta el destierro.",
+  "ref": "1ki 2:12"
+ },
+ {
+  "w": "REINA",
+  "shown": "REINA",
+  "explain": "Ester fue coronada reina y arriesgó su vida por su pueblo.",
+  "ref": "est 2:17"
+ },
+ {
+  "w": "MADRE",
+  "shown": "MADRE",
+  "explain": "Desde la cruz Jesús nos dio a María por madre: «Ahí tienes a tu madre».",
+  "ref": "jhn 19:27"
+ },
+ {
+  "w": "PADRE",
+  "shown": "PADRE",
+  "explain": "Jesús nos enseñó a llamar a Dios «Padre nuestro».",
+  "ref": "mat 6:9"
+ },
+ {
+  "w": "NOVIA",
+  "shown": "NOVIA",
+  "explain": "Juan vio la nueva Jerusalén como una novia ataviada para su esposo, imagen de la Iglesia.",
+  "ref": "rev 21:2"
+ },
+ {
+  "w": "VIUDA",
+  "shown": "VIUDA",
+  "explain": "Jesús se compadeció de la viuda de Naín y resucitó a su único hijo.",
+  "ref": "luk 7:12-15"
+ },
+ {
+  "w": "NIÑOS",
+  "shown": "NIÑOS",
+  "explain": "Jesús dijo: «Dejad que los niños vengan a mí», porque de ellos es el Reino.",
+  "ref": "mrk 10:14"
+ },
+ {
+  "w": "JOVEN",
+  "shown": "JOVEN",
+  "explain": "Pablo dijo a Timoteo que nadie lo despreciara por ser joven, sino que fuera ejemplo para los creyentes.",
+  "ref": "1ti 4:12"
+ },
+ {
+  "w": "TRIBU",
+  "shown": "TRIBU",
+  "explain": "Israel estaba formado por doce tribus, y Jesús escogió doce apóstoles.",
+  "ref": "gen 49:28"
+ },
+ {
+  "w": "LEPRA",
+  "shown": "LEPRA",
+  "explain": "Jesús tocó a un leproso y lo limpió de su lepra.",
+  "ref": "mrk 1:40-42"
+ },
+ {
+  "w": "CIEGO",
+  "shown": "CIEGO",
+  "explain": "El ciego de nacimiento dijo: «Yo era ciego y ahora veo».",
+  "ref": "jhn 9:25"
+ },
+ {
+  "w": "SORDO",
+  "shown": "SORDO",
+  "explain": "Jesús abrió los oídos de un sordo diciendo «Effetá», que significa «Ábrete».",
+  "ref": "mrk 7:32-35"
+ },
+ {
+  "w": "SANAR",
+  "shown": "SANAR",
+  "explain": "Jesús recorría Galilea enseñando, predicando y sanando toda enfermedad.",
+  "ref": "mat 4:23"
+ },
+ {
+  "w": "SALUD",
+  "shown": "SALUD",
+  "explain": "En la Unción de los Enfermos los presbíteros oran por el enfermo y lo ungen con óleo.",
+  "ref": "jas 5:14-15"
+ },
+ {
+  "w": "MORIR",
+  "shown": "MORIR",
+  "explain": "Para Pablo, vivir es Cristo y morir es ganancia.",
+  "ref": "php 1:21"
+ },
+ {
+  "w": "NACER",
+  "shown": "NACER",
+  "explain": "Jesús dijo a Nicodemo que hay que nacer de nuevo para ver el Reino de Dios.",
+  "ref": "jhn 3:3"
+ },
+ {
+  "w": "SEÑOR",
+  "shown": "SEÑOR",
+  "explain": "Toda lengua confiese que Jesucristo es Señor para gloria de Dios Padre.",
+  "ref": "php 2:11"
+ },
+ {
+  "w": "ANIMA",
+  "shown": "ÁNIMA",
+  "explain": "En noviembre rezamos por las ánimas del purgatorio, porque orar por los difuntos es santo y piadoso.",
+  "ref": "2ma 12:44"
+ },
+ {
+  "w": "NOCHE",
+  "shown": "NOCHE",
+  "explain": "Los pastores velaban de noche su rebaño cuando el ángel les anunció el nacimiento de Jesús.",
+  "ref": "luk 2:8"
+ },
+ {
+  "w": "TARDE",
+  "shown": "TARDE",
+  "explain": "Los discípulos de Emaús rogaron a Jesús: «Quédate con nosotros, porque se hace tarde».",
+  "ref": "luk 24:29"
+ },
+ {
+  "w": "HORAS",
+  "shown": "HORAS",
+  "explain": "La Liturgia de las Horas santifica el día; el salmista alaba a Dios siete veces al día.",
+  "ref": "psa 119:164"
+ },
+ {
+  "w": "SEXTA",
+  "shown": "SEXTA",
+  "explain": "Hacia la hora sexta Jesús, cansado del camino, se sentó junto al pozo de Jacob.",
+  "ref": "jhn 4:6"
+ },
+ {
+  "w": "CANON",
+  "shown": "CANON",
+  "explain": "El canon de la Escritura reúne los libros inspirados, útiles para enseñar y educar en la justicia.",
+  "ref": "2ti 3:16"
+ },
+ {
+  "w": "MITRA",
+  "shown": "MITRA",
+  "explain": "La mitra del obispo recuerda el turbante sagrado del sumo sacerdote Aarón.",
+  "ref": "exo 28:4"
+ },
+ {
+  "w": "COPON",
+  "shown": "COPÓN",
+  "explain": "El copón guarda las hostias consagradas, el Pan vivo bajado del cielo.",
+  "ref": "jhn 6:51"
+ },
+ {
+  "w": "DOGMA",
+  "shown": "DOGMA",
+  "explain": "Un dogma es una verdad definida por la Iglesia para custodiar la fe transmitida a los santos de una vez para siempre.",
+  "ref": "jud 1:3"
+ },
+ {
+  "w": "LAICO",
+  "shown": "LAICO",
+  "explain": "Los laicos participan del sacerdocio real de todos los bautizados.",
+  "ref": "1pe 2:9"
+ },
+ {
+  "w": "CLERO",
+  "shown": "CLERO",
+  "explain": "El clero está llamado a apacentar el rebaño de Dios no por obligación sino de buena gana.",
+  "ref": "1pe 5:2"
+ },
+ {
+  "w": "ORDEN",
+  "shown": "ORDEN",
+  "explain": "El sacramento del Orden configura al sacerdote con Cristo, sacerdote según el orden de Melquisedec.",
+  "ref": "heb 5:6"
+ },
+ {
+  "w": "OLEOS",
+  "shown": "ÓLEOS",
+  "explain": "Los santos óleos se bendicen el Jueves Santo; los apóstoles ungían con aceite a los enfermos.",
+  "ref": "mrk 6:13"
+ },
+ {
+  "w": "SELLO",
+  "shown": "SELLO",
+  "explain": "En la Confirmación recibimos el sello del Espíritu Santo prometido.",
+  "ref": "eph 1:13"
+ },
+ {
+  "w": "DONES",
+  "shown": "DONES",
+  "explain": "Los dones del Espíritu vienen de Isaías: sabiduría, entendimiento, consejo, fortaleza, ciencia y temor de Dios.",
+  "ref": "isa 11:2"
+ },
+ {
+  "w": "SIETE",
+  "shown": "SIETE",
+  "explain": "La Iglesia celebra siete sacramentos; el siete es en la Biblia número de plenitud.",
+  "ref": "gen 2:2"
+ },
+ {
+  "w": "CINCO",
+  "shown": "CINCO",
+  "explain": "Un muchacho tenía cinco panes de cebada y dos peces, y Jesús alimentó con ellos a cinco mil.",
+  "ref": "jhn 6:9"
+ },
+ {
+  "w": "AMADO",
+  "shown": "AMADO",
+  "explain": "En el Bautismo de Jesús se oyó la voz del Padre: «Este es mi Hijo amado».",
+  "ref": "mat 3:17"
+ },
+ {
+  "w": "CREER",
+  "shown": "CREER",
+  "explain": "Dichosos los que creen sin haber visto, dijo Jesús a Tomás.",
+  "ref": "jhn 20:29"
+ },
+ {
+  "w": "OBRAS",
+  "shown": "OBRAS",
+  "explain": "Las obras de misericordia, como dar de comer al hambriento, se hacen al mismo Cristo.",
+  "ref": "mat 25:35-40"
+ },
+ {
+  "w": "DOLOR",
+  "shown": "DOLOR",
+  "explain": "La Virgen de los Dolores recuerda la profecía de Simeón: una espada atravesará tu alma.",
+  "ref": "luk 2:35"
+ },
+ {
+  "w": "LLAGA",
+  "shown": "LLAGA",
+  "explain": "Por sus llagas hemos sido curados, anunció Isaías del Siervo sufriente.",
+  "ref": "isa 53:5"
+ },
+ {
+  "w": "AZOTE",
+  "shown": "AZOTE",
+  "explain": "Pilato mandó azotar a Jesús, el segundo misterio doloroso del Rosario.",
+  "ref": "jhn 19:1"
+ },
+ {
+  "w": "ARPAS",
+  "shown": "ARPAS",
+  "explain": "Juan oyó en el cielo el sonido de arpistas que tocaban sus arpas ante el trono.",
+  "ref": "rev 14:2"
+ },
+ {
+  "w": "BELEN",
+  "shown": "BELÉN",
+  "explain": "Jesús nació en Belén de Judea, la ciudad de David.",
+  "ref": "mat 2:1"
+ },
+ {
+  "w": "EMAUS",
+  "shown": "EMAÚS",
+  "explain": "En el camino de Emaús los discípulos reconocieron a Jesús al partir el pan.",
+  "ref": "luk 24:13"
+ },
+ {
+  "w": "SICAR",
+  "shown": "SICAR",
+  "explain": "En Sicar, junto al pozo de Jacob, Jesús ofreció agua viva a la samaritana.",
+  "ref": "jhn 4:5"
+ },
+ {
+  "w": "JUDEA",
+  "shown": "JUDEA",
+  "explain": "Juan el Bautista predicaba en el desierto de Judea: «Convertíos».",
+  "ref": "mat 3:1"
+ },
+ {
+  "w": "SIRIA",
+  "shown": "SIRIA",
+  "explain": "El censo que llevó a José y María a Belén se hizo cuando Quirino gobernaba Siria.",
+  "ref": "luk 2:2"
+ },
+ {
+  "w": "CRETA",
+  "shown": "CRETA",
+  "explain": "La nave de Pablo navegó al abrigo de Creta camino de Roma.",
+  "ref": "act 27:7"
+ },
+ {
+  "w": "MALTA",
+  "shown": "MALTA",
+  "explain": "Después del naufragio Pablo llegó a Malta, donde los isleños lo trataron con bondad.",
+  "ref": "act 28:1-2"
+ },
+ {
+  "w": "EFESO",
+  "shown": "ÉFESO",
+  "explain": "Pablo escribió una carta a los cristianos de Éfeso sobre la Iglesia como Cuerpo de Cristo.",
+  "ref": "eph 1:1"
+ },
+ {
+  "w": "TARSO",
+  "shown": "TARSO",
+  "explain": "Pablo nació en Tarso de Cilicia y fue educado a los pies de Gamaliel.",
+  "ref": "act 22:3"
+ },
+ {
+  "w": "SINAI",
+  "shown": "SINAÍ",
+  "explain": "En el monte Sinaí Dios entregó a Moisés los Diez Mandamientos.",
+  "ref": "exo 19:20"
+ },
+ {
+  "w": "BABEL",
+  "shown": "BABEL",
+  "explain": "En Babel Dios confundió las lenguas; en Pentecostés el Espíritu las unió.",
+  "ref": "gen 11:9"
+ },
+ {
+  "w": "TABOR",
+  "shown": "TABOR",
+  "explain": "La tradición sitúa la Transfiguración en el monte Tabor, que según el salmo se alegra en el nombre de Dios.",
+  "ref": "psa 89:12"
+ },
+ {
+  "w": "HOREB",
+  "shown": "HOREB",
+  "explain": "Elías caminó cuarenta días hasta el Horeb, el monte de Dios.",
+  "ref": "1ki 19:8"
+ },
+ {
+  "w": "SIDON",
+  "shown": "SIDÓN",
+  "explain": "Jesús dijo que Tiro y Sidón se habrían convertido si hubieran visto sus milagros.",
+  "ref": "mat 11:21"
+ },
+ {
+  "w": "SALEM",
+  "shown": "SALEM",
+  "explain": "Melquisedec, rey de Salem, ofreció pan y vino, figura de la Eucaristía.",
+  "ref": "gen 14:18"
+ },
+ {
+  "w": "MORIA",
+  "shown": "MORIA",
+  "explain": "En el monte Moria Abrahán estuvo dispuesto a ofrecer a Isaac, figura del sacrificio de Cristo.",
+  "ref": "gen 22:2"
+ },
+ {
+  "w": "SILOE",
+  "shown": "SILOÉ",
+  "explain": "Jesús mandó al ciego de nacimiento a lavarse en la piscina de Siloé, y volvió viendo.",
+  "ref": "jhn 9:7"
+ },
+ {
+  "w": "JESUS",
+  "shown": "JESÚS",
+  "explain": "El ángel dijo a José que llamara al niño Jesús, porque salvará a su pueblo de sus pecados.",
+  "ref": "mat 1:21"
+ },
+ {
+  "w": "MARIA",
+  "shown": "MARÍA",
+  "explain": "El ángel Gabriel saludó a María: «Alégrate, llena de gracia, el Señor está contigo».",
+  "ref": "luk 1:28"
+ },
+ {
+  "w": "PEDRO",
+  "shown": "PEDRO",
+  "explain": "Jesús dijo a Pedro: «Tú eres Pedro, y sobre esta piedra edificaré mi Iglesia».",
+  "ref": "mat 16:18"
+ },
+ {
+  "w": "PABLO",
+  "shown": "PABLO",
+  "explain": "Saulo, también llamado Pablo, lleno del Espíritu Santo, comenzó sus viajes misioneros.",
+  "ref": "act 13:9"
+ },
+ {
+  "w": "JUDAS",
+  "shown": "JUDAS",
+  "explain": "Judas Iscariote entregó a Jesús con un beso en el huerto.",
+  "ref": "luk 22:47-48"
+ },
+ {
+  "w": "DAVID",
+  "shown": "DAVID",
+  "explain": "Samuel ungió al joven David, el pastor que llegaría a ser rey de Israel.",
+  "ref": "1sa 16:13"
+ },
+ {
+  "w": "JONAS",
+  "shown": "JONÁS",
+  "explain": "Jonás estuvo tres días en el vientre del pez, signo de la sepultura y resurrección de Cristo.",
+  "ref": "mat 12:40"
+ },
+ {
+  "w": "MARTA",
+  "shown": "MARTA",
+  "explain": "Marta servía a Jesús en Betania y confesó que él es el Cristo, el Hijo de Dios.",
+  "ref": "jhn 11:27"
+ },
+ {
+  "w": "SIMON",
+  "shown": "SIMÓN",
+  "explain": "Jesús miró a Simón, hijo de Juan, y le dio el nombre de Cefas, que significa Pedro.",
+  "ref": "jhn 1:42"
+ },
+ {
+  "w": "TOMAS",
+  "shown": "TOMÁS",
+  "explain": "Tomás, al ver a Jesús resucitado, exclamó: «Señor mío y Dios mío».",
+  "ref": "jhn 20:28"
+ },
+ {
+  "w": "LUCAS",
+  "shown": "LUCAS",
+  "explain": "Lucas, el médico querido, acompañó a Pablo y escribió un Evangelio y los Hechos.",
+  "ref": "col 4:14"
+ },
+ {
+  "w": "MATEO",
+  "shown": "MATEO",
+  "explain": "Jesús llamó a Mateo, que estaba sentado a la mesa de los impuestos, y él lo siguió.",
+  "ref": "mat 9:9"
+ },
+ {
+  "w": "TADEO",
+  "shown": "TADEO",
+  "explain": "Tadeo figura en la lista de los doce apóstoles; la tradición lo identifica con san Judas.",
+  "ref": "mat 10:3"
+ },
+ {
+  "w": "JAIRO",
+  "shown": "JAIRO",
+  "explain": "Jesús resucitó a la hija de Jairo, jefe de la sinagoga, diciendo «Talitá kum».",
+  "ref": "mrk 5:22-23"
+ },
+ {
+  "w": "SILAS",
+  "shown": "SILAS",
+  "explain": "Pablo y Silas cantaban himnos en la cárcel de Filipos a medianoche.",
+  "ref": "act 16:25"
+ },
+ {
+  "w": "LIDIA",
+  "shown": "LIDIA",
+  "explain": "Lidia, vendedora de púrpura, fue la primera bautizada en Europa.",
+  "ref": "act 16:14-15"
+ },
+ {
+  "w": "APOLO",
+  "shown": "APOLO",
+  "explain": "Apolo era un judío elocuente, versado en las Escrituras, que predicaba con fervor.",
+  "ref": "act 18:24"
+ },
+ {
+  "w": "FELIX",
+  "shown": "FÉLIX",
+  "explain": "Pablo habló al gobernador Félix sobre la justicia, el dominio propio y el juicio futuro.",
+  "ref": "act 24:24-25"
+ },
+ {
+  "w": "FESTO",
+  "shown": "FESTO",
+  "explain": "Ante el gobernador Festo, Pablo apeló al César.",
+  "ref": "act 25:11-12"
+ },
+ {
+  "w": "CESAR",
+  "shown": "CÉSAR",
+  "explain": "Jesús enseñó: «Dad al César lo que es del César y a Dios lo que es de Dios».",
+  "ref": "mat 22:21"
+ },
+ {
+  "w": "SATAN",
+  "shown": "SATÁN",
+  "explain": "Jesús rechazó las tentaciones diciendo: «Vete, Satanás».",
+  "ref": "mat 4:10"
+ },
+ {
+  "w": "ISAAC",
+  "shown": "ISAAC",
+  "explain": "Isaac, el hijo de la promesa, nació a Abrahán y Sara en su vejez.",
+  "ref": "gen 21:2-3"
+ },
+ {
+  "w": "JACOB",
+  "shown": "JACOB",
+  "explain": "Jacob vio en sueños una escalera por la que subían y bajaban ángeles.",
+  "ref": "gen 28:12"
+ },
+ {
+  "w": "LABAN",
+  "shown": "LABÁN",
+  "explain": "Jacob sirvió siete años a Labán por Raquel, y le parecieron unos pocos días por lo mucho que la amaba.",
+  "ref": "gen 29:20"
+ },
+ {
+  "w": "RUBEN",
+  "shown": "RUBÉN",
+  "explain": "Rubén, el primogénito de Jacob, intentó salvar a José de sus hermanos.",
+  "ref": "gen 37:21-22"
+ },
+ {
+  "w": "TAMAR",
+  "shown": "TAMAR",
+  "explain": "Tamar aparece en la genealogía de Jesús según san Mateo.",
+  "ref": "mat 1:3"
+ },
+ {
+  "w": "RAHAB",
+  "shown": "RAHAB",
+  "explain": "Rahab escondió a los espías en Jericó y entró en el linaje de Jesús.",
+  "ref": "jos 2:1"
+ },
+ {
+  "w": "NOEMI",
+  "shown": "NOEMÍ",
+  "explain": "Rut no abandonó a su suegra Noemí: «Tu pueblo será mi pueblo y tu Dios mi Dios».",
+  "ref": "rut 1:16"
+ },
+ {
+  "w": "NATAN",
+  "shown": "NATÁN",
+  "explain": "El profeta Natán reprendió a David con la parábola de la oveja del pobre.",
+  "ref": "2sa 12:1"
+ },
+ {
+  "w": "ELIAS",
+  "shown": "ELÍAS",
+  "explain": "Elías venció a los profetas de Baal en el monte Carmelo cuando bajó fuego del cielo.",
+  "ref": "1ki 18:38"
+ },
+ {
+  "w": "OSEAS",
+  "shown": "OSEAS",
+  "explain": "Oseas anunció que Dios ama a su pueblo con amor fiel aunque este le sea infiel.",
+  "ref": "hos 11:1"
+ },
+ {
+  "w": "NAHUM",
+  "shown": "NAHÚM",
+  "explain": "El profeta Nahúm anunció la caída de Nínive.",
+  "ref": "nam 1:1"
+ },
+ {
+  "w": "JUDIT",
+  "shown": "JUDIT",
+  "explain": "Judit salvó a su pueblo con valentía y confianza en Dios.",
+  "ref": "jdt 13:18"
+ },
+ {
+  "w": "ESTER",
+  "shown": "ESTER",
+  "explain": "La reina Ester intercedió ante el rey para salvar a su pueblo.",
+  "ref": "est 7:3"
+ },
+ {
+  "w": "JOSUE",
+  "shown": "JOSUÉ",
+  "explain": "Josué guió a Israel a través del Jordán hasta la Tierra Prometida.",
+  "ref": "jos 3:7"
+ },
+ {
+  "w": "CALEB",
+  "shown": "CALEB",
+  "explain": "Caleb confió en Dios cuando los demás exploradores tuvieron miedo de entrar en Canaán.",
+  "ref": "num 13:30"
+ },
+ {
+  "w": "AARON",
+  "shown": "AARÓN",
+  "explain": "Aarón, hermano de Moisés, fue consagrado como primer sumo sacerdote.",
+  "ref": "exo 28:1"
+ },
+ {
+  "w": "JETRO",
+  "shown": "JETRO",
+  "explain": "Jetro, suegro de Moisés, le aconsejó compartir el trabajo de juzgar al pueblo.",
+  "ref": "exo 18:17-18"
+ },
+ {
+  "w": "URIAS",
+  "shown": "URÍAS",
+  "explain": "Urías el hitita fue un soldado leal a quien David traicionó.",
+  "ref": "2sa 11:3"
+ },
+ {
+  "w": "HIRAM",
+  "shown": "HIRAM",
+  "explain": "Hiram, rey de Tiro, envió madera de cedro para construir el templo de Salomón.",
+  "ref": "1ki 5:10"
+ },
+ {
+  "w": "NABOT",
+  "shown": "NABOT",
+  "explain": "Nabot se negó a vender la viña de sus padres al rey Ajab y murió injustamente.",
+  "ref": "1ki 21:3"
+ },
+ {
+  "w": "DARIO",
+  "shown": "DARÍO",
+  "explain": "El rey Darío reconoció que el Dios de Daniel lo había salvado de los leones.",
+  "ref": "dan 6:25-26"
+ },
+ {
+  "w": "JAFET",
+  "shown": "JAFET",
+  "explain": "Jafet era uno de los tres hijos de Noé que se salvaron en el arca.",
+  "ref": "gen 6:10"
+ },
+ {
+  "w": "ABRAM",
+  "shown": "ABRAM",
+  "explain": "Dios cambió el nombre de Abram por Abrahán, padre de multitud de pueblos.",
+  "ref": "gen 17:5"
+ },
+ {
+  "w": "SALVE",
+  "shown": "SALVE",
+  "explain": "«Dios te salve, María», rezamos con las palabras del ángel Gabriel; la Salve llama a María reina y madre de misericordia.",
+  "ref": "luk 1:28"
+ },
+ {
+  "w": "PERLA",
+  "shown": "PERLA",
+  "explain": "El Reino de los Cielos es como un comerciante que vende todo lo que tiene para comprar una perla de gran valor.",
+  "ref": "mat 13:45-46"
+ },
+ {
+  "w": "DEUDA",
+  "shown": "DEUDA",
+  "explain": "En el Padrenuestro pedimos que Dios perdone nuestras deudas como nosotros perdonamos a nuestros deudores.",
+  "ref": "mat 6:12"
+ },
+ {
+  "w": "HIGOS",
+  "shown": "HIGOS",
+  "explain": "Por sus frutos los conoceréis: no se recogen higos de los cardos.",
+  "ref": "mat 7:16"
+ },
+ {
+  "w": "LIRIO",
+  "shown": "LIRIO",
+  "explain": "Mirad los lirios del campo: Dios los viste mejor que a Salomón en toda su gloria.",
+  "ref": "mat 6:28-29"
+ },
+ {
+  "w": "ZORRA",
+  "shown": "ZORRA",
+  "explain": "Jesús llamó «esa zorra» a Herodes, que quería matarlo.",
+  "ref": "luk 13:32"
+ },
+ {
+  "w": "GALLO",
+  "shown": "GALLO",
+  "explain": "Jesús anunció a Pedro que antes de que cantara el gallo lo negaría tres veces.",
+  "ref": "mat 26:34"
+ },
+ {
+  "w": "LOBOS",
+  "shown": "LOBOS",
+  "explain": "Jesús envió a sus discípulos como ovejas en medio de lobos, prudentes como serpientes y sencillos como palomas.",
+  "ref": "mat 10:16"
+ },
+ {
+  "w": "PLAGA",
+  "shown": "PLAGA",
+  "explain": "Con la última plaga, la muerte de los primogénitos, el faraón dejó salir al pueblo de Dios.",
+  "ref": "exo 11:1"
+ },
+ {
+  "w": "GOTAS",
+  "shown": "GOTAS",
+  "explain": "En Getsemaní el sudor de Jesús era como gotas de sangre que caían hasta el suelo.",
+  "ref": "luk 22:44"
+ },
+ {
+  "w": "SUDOR",
+  "shown": "SUDOR",
+  "explain": "Tras el pecado original Dios dijo a Adán que comería el pan con el sudor de su frente.",
+  "ref": "gen 3:19"
+ },
+ {
+  "w": "ZARZA",
+  "shown": "ZARZA",
+  "explain": "Dios se apareció a Moisés en una zarza que ardía sin consumirse.",
+  "ref": "exo 3:2-3"
+ },
+ {
+  "w": "HONDA",
+  "shown": "HONDA",
+  "explain": "David venció a Goliat con una honda y una piedra, confiando en Dios y no en las armas.",
+  "ref": "1sa 17:50"
+ },
+ {
+  "w": "YELMO",
+  "shown": "YELMO",
+  "explain": "Pablo nos pide tomar el yelmo de la salvación y la espada del Espíritu, que es la Palabra de Dios.",
+  "ref": "eph 6:17"
+ },
+ {
+  "w": "BARUC",
+  "shown": "BARUC",
+  "explain": "Baruc, secretario del profeta Jeremías, da nombre a un libro de la Biblia católica.",
+  "ref": "bar 1:1"
+ },
+ {
+  "w": "SAULO",
+  "shown": "SAULO",
+  "explain": "En el camino de Damasco Saulo oyó una voz: «Saulo, Saulo, ¿por qué me persigues?».",
+  "ref": "act 9:4"
+ },
+ {
+  "w": "CEFAS",
+  "shown": "CEFAS",
+  "explain": "Cefas, el nombre arameo de Pedro, significa roca; a él se apareció primero el Señor resucitado.",
+  "ref": "1co 15:5"
+ },
+ {
+  "w": "JUANA",
+  "shown": "JUANA",
+  "explain": "Juana, esposa de Cusa, servía a Jesús con sus bienes y fue testigo de la tumba vacía.",
+  "ref": "luk 8:3"
+ },
+ {
+  "w": "SADOC",
+  "shown": "SADOC",
+  "explain": "El sacerdote Sadoc ungió a Salomón como rey de Israel.",
+  "ref": "1ki 1:39"
+ },
+ {
+  "w": "MALCO",
+  "shown": "MALCO",
+  "explain": "Pedro cortó la oreja a Malco, el siervo del sumo sacerdote, y Jesús lo curó.",
+  "ref": "jhn 18:10"
+ },
+ {
+  "w": "AGAPE",
+  "shown": "ÁGAPE",
+  "explain": "El ágape es el amor que se entrega, el que Pablo describe como paciente y servicial.",
+  "ref": "1co 13:4"
+ }
+]

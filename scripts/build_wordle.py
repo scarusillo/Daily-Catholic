@@ -3,7 +3,9 @@
 Answers = hand-written Catholic/biblical vocabulary (with a teaching line and a Scripture ref)
         + well-known five-letter Bible names drawn from people.json.
 Valid guesses = every 5-letter English word (an-array-of-english-words, MIT) + all answers.
-Usage: python3 build_wordle.py <path to an-array-of-english-words/index.json>
+Also builds public/data/wordle_es.json from data/wordle_es.json (Spanish answers) and the
+5-letter Spanish list in data/vendor/wordlists/es5.json (an-array-of-spanish-words, MIT, accents removed).
+Usage: python3 build_wordle.py   (5-letter English list: data/vendor/wordlists/en5.json)
 """
 import json
 import random
@@ -156,9 +158,8 @@ VOCAB = [
 ]
 
 
-def main(words_path):
-    allw = json.loads(Path(words_path).read_text())
-    valid = {w.upper() for w in allw if len(w) == 5 and w.isalpha() and w.islower()}
+def main():
+    valid = set(json.loads((ROOT / "data/vendor/wordlists/en5.json").read_text()))
     answers = []
     for w, exp, ref in VOCAB:
         if exp is None or len(w) != 5:
@@ -183,11 +184,27 @@ def main(words_path):
     easy = [a for a in answers if a["w"] not in hard and (not a["person"] or a["person"] in known)]
     rest = [a for a in answers if a not in easy]
     answers = easy + rest
+    # newer answers go after the original rotation so earlier days keep their words
+    extra = json.loads((ROOT / "data/wordle_extra_en.json").read_text())
+    random.Random(11).shuffle(extra)
+    for a in extra:
+        if a["w"] not in seen:
+            seen.add(a["w"])
+            answers.append({"w": a["w"], "explain": a["explain"], "ref": a.get("ref"), "person": None})
+            valid.add(a["w"])
     out = {"answers": answers, "valid": sorted(valid)}
     (ROOT / "public/data/wordle.json").write_text(json.dumps(out, ensure_ascii=False, separators=(",", ":")), encoding="utf-8")
     print(len(answers), "answers;", sum(1 for a in answers if a["person"]), "are people;", len(valid), "valid guesses")
-    print([a["w"] for a in answers[:40]])
+    print([a["w"] for a in answers[:20]])
+    # Spanish
+    es_ans = json.loads((ROOT / "data/wordle_es.json").read_text())
+    random.Random(5).shuffle(es_ans)
+    es_valid = set(json.loads((ROOT / "data/vendor/wordlists/es5.json").read_text())) | {a["w"] for a in es_ans}
+    for a in es_ans:
+        assert parse_ref(a["ref"]), a
+    (ROOT / "public/data/wordle_es.json").write_text(json.dumps({"answers": es_ans, "valid": sorted(es_valid)}, ensure_ascii=False, separators=(",", ":")), encoding="utf-8")
+    print(len(es_ans), "Spanish answers;", len(es_valid), "Spanish valid guesses")
 
 
 if __name__ == "__main__":
-    main(sys.argv[1])
+    main()
