@@ -35,6 +35,9 @@ EXTRA_RELATIONS = [
 ]
 
 
+# Entries written by two sections whose "know" lists overlap: keep the better list only.
+KNOW_OVERRIDE = {"theophilus": "gospels"}
+
 # Verses where a matching name belongs to a namesake (merge-time corrections).
 EXCLUDE = {
     "paul": ["act 13:21"],
@@ -90,6 +93,11 @@ def load_sections():
             if not pid:
                 continue
             p["section"] = f.stem
+            if pid in people and KNOW_OVERRIDE.get(pid) in (f.stem, people[pid].get("section")):
+                keep = people[pid] if people[pid].get("section") == KNOW_OVERRIDE[pid] else p
+                merge_into(people[pid], p)
+                people[pid]["know"] = list(keep.get("know") or [])
+                continue
             if pid not in people:
                 people[pid] = p
                 owner[pid] = f.stem
