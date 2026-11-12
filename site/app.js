@@ -88,6 +88,7 @@
     for (const v of VIEWS) $(`#view-${v}`).hidden = v !== section;
     const tab = ["map", "canon", "people"].includes(section) ? "bible" : section;
     document.querySelectorAll(".tabs a").forEach((a) => a.classList.toggle("on", a.dataset.view === tab));
+    document.querySelector(".tabs a.on")?.scrollIntoView({ block: "nearest", inline: "center" });
     document.querySelectorAll(".subnav a").forEach((a) => a.classList.toggle("on", a.dataset.sub === section));
     store.set("bpm.view", view);
     const el = $(`#view-${section}`);

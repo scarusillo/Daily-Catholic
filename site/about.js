@@ -81,7 +81,7 @@
     let p = PARISH_CACHE[slug];
     try { p ??= PARISH_CACHE[slug] = await ctx.getJSON(`data/parishes/${slug}.json`); }
     catch { root.innerHTML = `${head}<p class="loading">${X("This parish page could not load.", "No se pudo cargar esta página parroquial.")}</p>`; return; }
-    const today = new Date().toISOString().slice(0, 10);
+    const d0 = new Date(), today = `${d0.getFullYear()}-${String(d0.getMonth() + 1).padStart(2, "0")}-${String(d0.getDate()).padStart(2, "0")}`;
     const times = (rows) => `<table class="ptimes"><tbody>${rows.map((r) => `<tr><th>${esc(dayName(r.day))}</th><td>${r.times.map(esc).join(" · ")}${r.lang ? ` <span class="tag">${esc(r.lang)}</span>` : ""}${r.note ? ` <span class="qmeta">${esc(L(r.note))}</span>` : ""}</td></tr>`).join("")}</tbody></table>`;
     const ann = (p.announcements || []).filter((a) => !a.until || a.until >= today);
     const ev = (p.events || []).filter((e) => e.date >= today).sort((a, b) => (a.date < b.date ? -1 : 1));

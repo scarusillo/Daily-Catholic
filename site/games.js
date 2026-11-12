@@ -768,7 +768,7 @@
     const explored = ctx.explored();
     const badges = ctx.badges();
     root.innerHTML = `<div class="hub">
-      <div class="ghead"><h1>${X("Play", "Jugar")}</h1><span class="qmeta">${new Date().toLocaleDateString(window.I18N?.locale(), { weekday: "long", month: "long", day: "numeric" })} · new puzzles every day</span></div>
+      <div class="ghead"><h1>${X("Play", "Jugar")}</h1><span class="qmeta">${new Date().toLocaleDateString(window.I18N?.locale(), { weekday: "long", month: "long", day: "numeric" })} · ${X("new puzzles every day", "nuevos juegos cada día")}</span></div>
       <div class="gcards">${GAMES.map((g) => {
         const done = playedToday(g.id), s = streak(g.id);
         return `<button class="gcard" data-go="${g.id}"><span class="gname">${g.name}</span><span class="gdesc">${g.desc}</span>
