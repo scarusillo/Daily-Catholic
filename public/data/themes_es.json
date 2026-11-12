@@ -1,0 +1,597 @@
+{
+ "sons-of-jacob": {
+  "title": "Hijos de Jacob",
+  "clue": "Hermanos cuyos nombres pasaron a ser nombres de tribus",
+  "explain": "Jacob, llamado después Israel, tuvo doce hijos de Lía, Raquel, Bilhá y Zilpá, y sus familias llegaron a ser las doce tribus. Jesús eligió a doce apóstoles para señalar la reunión de un Israel renovado, la Iglesia."
+ },
+ "sons-of-leah": {
+  "title": "Hijos de Lía",
+  "clue": "Seis hermanos nacidos de la esposa no amada",
+  "explain": "Lía, menos amada que su hermana Raquel, le dio a Jacob seis hijos; el Señor «vio que Lía era aborrecida» y la bendijo. De ella salieron tanto la tribu sacerdotal de Leví como la tribu real de Judá, de la que nació el Mesías."
+ },
+ "jacobs-wives": {
+  "title": "Madres de las doce tribus",
+  "clue": "Dos hermanas y sus dos criadas",
+  "explain": "Los doce hijos de Jacob nacieron de cuatro mujeres: las hermanas Lía y Raquel y sus criadas Bilhá y Zilpá. Rut 4,11 recuerda a Raquel y a Lía como las dos que «edificaron la casa de Israel»."
+ },
+ "noahs-family": {
+  "title": "En el arca",
+  "clue": "Un padre y los tres hijos por quienes se repobló la tierra",
+  "explain": "Noé, sus tres hijos y sus esposas (ocho personas) fueron salvados a través del agua. San Pedro ve aquí una figura del Bautismo, y los Padres vieron en el arca a la Iglesia, fuera de la cual el mundo pereció (1 Pe 3,20-21; CEC 845, 1219)."
+ },
+ "first-family": {
+  "title": "La primera familia",
+  "clue": "Los padres del Edén y sus hijos",
+  "explain": "Adán y Eva fueron los primeros padres; con sus hijos Caín y Abel llegó el primer homicidio, y Set fue dado «en lugar de Abel». La Iglesia llama a Cristo el Nuevo Adán y a María la Nueva Eva."
+ },
+ "line-of-seth": {
+  "title": "Antes del diluvio",
+  "clue": "Generaciones longevas desde el tercer hijo de Adán hasta el constructor del arca",
+  "explain": "Génesis 5 traza la línea piadosa de Set, en cuyos días se «comenzó a invocar el nombre del Señor», hasta Noé. La genealogía de Lucas recorre estos mismos nombres hasta Adán, «hijo de Dios»."
+ },
+ "abrahams-household": {
+  "title": "La casa de Abrahán",
+  "clue": "Las esposas, los hijos y el sobrino del padre de la fe",
+  "explain": "La familia de Abrahán incluía a Sara, madre de Isaac, el hijo de la promesa; a Agar, madre de Ismael; a Queturá, su esposa posterior; y a su sobrino Lot. La Iglesia llama a Abrahán «nuestro padre en la fe» (Canon Romano; CEC 145-146)."
+ },
+ "sons-of-aaron": {
+  "title": "Hijos de Aarón",
+  "clue": "Cuatro hermanos ungidos con su padre; dos murieron por ofrecer un fuego extraño",
+  "explain": "Los cuatro hijos de Aarón fueron consagrados sacerdotes con él; Nadab y Abihú murieron por ofrecer un «fuego extraño», y el sacerdocio continuó por Eleazar e Itamar. El sacerdocio de Israel prefigura el único sacerdocio de Cristo (CEC 1539-1545)."
+ },
+ "clans-of-levi": {
+  "title": "Clanes de Leví",
+  "clue": "Un patriarca y los tres hijos cuyos clanes transportaban el tabernáculo",
+  "explain": "Los hijos de Leví, Guersón, Quehat y Merarí, encabezaron los clanes levitas, cada uno encargado de transportar una parte del tabernáculo. Los mismos Moisés y Aarón descendían de Quehat."
+ },
+ "moses-family": {
+  "title": "Familia de Moisés",
+  "clue": "Sus padres, sus hermanos, su esposa y su primogénito",
+  "explain": "Moisés nació de Amrán y Yoquébed, de la casa de Leví, y tuvo por hermanos a Aarón y a María; se casó con Séfora de Madián, que le dio a Guersón y a Eliezer. Dios obró por medio de toda una familia, no de un héroe solitario."
+ },
+ "sons-of-zeruiah": {
+  "title": "Hijos de Sarvia",
+  "clue": "La hermana de David y sus tres hijos guerreros",
+  "explain": "Los hijos de Sarvia, Joab, Abisay y Asael, eran sobrinos de David y sus capitanes más feroces, tan duros que David dijo: «Estos hombres, los hijos de Sarvia, son demasiado duros para mí»."
+ },
+ "sons-of-jesse": {
+  "title": "Hijos de Jesé",
+  "clue": "Hermanos descartados antes de que fuera ungido el menor",
+  "explain": "Samuel se fijó en los altos hijos mayores de Jesé, pero el Señor dijo: «El hombre mira las apariencias, pero el Señor mira el corazón», y eligió al menor, David. Isaías anunció un retoño del tronco de Jesé: el Mesías."
+ },
+ "davids-wives": {
+  "title": "Esposas de David",
+  "clue": "Mujeres casadas con el rey pastor de Israel",
+  "explain": "David se casó con Mical, hija de Saúl, con la sabia Abigail, con Ajinoán, Jaguit y otras, y más tarde con Betsabé, después de su grave pecado. Betsabé, madre de Salomón, es nombrada en la genealogía de Mateo como «la que fue mujer de Urías»."
+ },
+ "sons-of-david": {
+  "title": "Hijos de David",
+  "clue": "Príncipes nacidos en Hebrón y en Jerusalén",
+  "explain": "De los hijos de David, Amnón fue muerto por Absalón, Absalón se rebeló, Adonías quiso apoderarse del trono y Salomón fue elegido para reinar. La promesa de Dios de que el hijo de David reinaría para siempre se cumple en Jesús, «Hijo de David»."
+ },
+ "sauls-house": {
+  "title": "Casa de Saúl",
+  "clue": "El padre, los hijos, el primo y la concubina del primer rey",
+  "explain": "Saúl era hijo de Quis; entre sus hijos estaban Jonatán, amigo de David por alianza, y sus hijas Merab y Mical. Abner, su primo, mandaba su ejército, y la vigilia de Rispá junto a sus hijos muertos es una de las grandes imágenes bíblicas del dolor de una madre."
+ },
+ "josiahs-sons": {
+  "title": "Hijos de Josías",
+  "clue": "Tres de ellos llevaron la corona mientras Judá se derrumbaba",
+  "explain": "Al buen rey Josías le siguieron tres hijos, Joacaz, Yoyaquim y Sedecías, ninguno de los cuales mantuvo su reforma; el primogénito, Yojanán, nunca reinó. Su fracaso terminó en el exilio de Babilonia."
+ },
+ "hasmonean-brothers": {
+  "title": "Hijos de Matatías",
+  "clue": "Cinco hermanos sacerdotes que encabezaron la revuelta",
+  "explain": "Cuando Antíoco IV proscribió la Ley, el sacerdote Matatías y sus cinco hijos se levantaron; Judas «el Macabeo» volvió a dedicar el Templo, y Jonatán y Simón gobernaron después como sumos sacerdotes. Su fidelidad hasta la muerte es honrada en el canon del Antiguo Testamento de la Iglesia."
+ },
+ "jesus-brethren": {
+  "title": "Hermanos del Señor",
+  "clue": "Cuatro hombres a quienes la gente de Nazaret llamó «hermanos» de Jesús",
+  "explain": "Los vecinos de Nazaret nombraron a Santiago, José, Simón y Judas como «hermanos» de Jesús. La Iglesia enseña que eran parientes cercanos, no otros hijos de María, que permaneció siempre virgen; José y Santiago aparecen en otro lugar como hijos de otra María (CEC 500)."
+ },
+ "holy-family": {
+  "title": "La Sagrada Familia",
+  "clue": "El hogar de Nazaret, con los abuelos según la Tradición",
+  "explain": "Jesús creció en el hogar de María y José en Nazaret, «sujeto a ellos». La Tradición (no la Escritura) da a los padres de María los nombres de Joaquín y Ana, honrados juntos el 26 de julio."
+ },
+ "bethany-household": {
+  "title": "En Betania",
+  "clue": "Amigos cuya casa Jesús amaba visitar",
+  "explain": "Jesús amaba a Marta, a María y a su hermano Lázaro, a quien resucitó de entre los muertos; también fue ungido en Betania, en casa de Simón el leproso. La Iglesia celebra juntos a Marta, María y Lázaro el 29 de julio."
+ },
+ "daughters-of-zelophehad": {
+  "title": "Hijas de Selofjad",
+  "clue": "Cinco hermanas que pidieron a Moisés la tierra de su padre",
+  "explain": "Selofjad murió sin hijos varones, así que sus cinco hijas pidieron a Moisés una herencia, y el Señor dijo: «Las hijas de Selofjad tienen razón». Y sí, una de ellas se llamaba Noá."
+ },
+ "sons-of-anak": {
+  "title": "Hijos de Anac",
+  "clue": "El clan de gran estatura de Hebrón que asustó a los exploradores",
+  "explain": "En Hebrón los doce exploradores vieron a Ajimán, Sesay y Talmay, los hijos de Anac, y diez exploradores se desanimaron. Caleb, confiando en el Señor, los expulsó más tarde (Jos 15,14)."
+ },
+ "edomites": {
+  "title": "Familia de Esaú",
+  "clue": "El gemelo rojo, una esposa y los jefes de Edom",
+  "explain": "Esaú, llamado también Edom, se casó con mujeres cananeas e ismaelitas; sus hijos Elifaz y Reuel encabezaron a los jefes de Edom. A Israel se le dijo: «No aborrecerás al edomita, porque es tu hermano»."
+ },
+ "judges": {
+  "title": "Jueces de Israel",
+  "clue": "Libertadores suscitados entre Josué y los reyes",
+  "explain": "Cuando Israel caía en la idolatría y era oprimido, «el Señor suscitaba jueces que los salvaban». El ciclo de pecado, sufrimiento, arrepentimiento y rescate muestra la paciencia de Dios con su pueblo."
+ },
+ "minor-judges": {
+  "title": "Los jueces menores",
+  "clue": "Jueces recordados en apenas uno o dos versículos",
+  "explain": "Samgar, Tolá, Yaír, Ibsán, Elón y Abdón juzgaron a Israel con pocas hazañas registradas, y a menudo solo se mencionan sus hijos, sus asnos o su lugar de sepultura. El servicio fiel y escondido también cuenta en la historia de Dios."
+ },
+ "victory-over-sisera": {
+  "title": "Victoria sobre Sísara",
+  "clue": "Una profetisa, un general, una mujer que vivía en tiendas y dos cananeos",
+  "explain": "Débora convocó a Barac contra Sísara, general de Yabín; el Señor desbarató los carros de Sísara, y Yael lo mató en su tienda. El cántico de Débora llama a Yael «bendita entre las mujeres», palabras que resuenan cuando Isabel saluda a María como «bendita entre las mujeres»."
+ },
+ "gideons-war": {
+  "title": "Gedeón y Madián",
+  "clue": "Un juez con 300 hombres y los príncipes y reyes que derrotó",
+  "explain": "Con solo 300 hombres, Gedeón derrotó a Madián; los príncipes Oreb y Zeeb y los reyes Zébaj y Salmuná fueron capturados y muertos. El Salmo 83 pide más tarde que los enemigos de Dios sean tratados «como Oreb y Zeeb»."
+ },
+ "major-prophets": {
+  "title": "Profetas mayores",
+  "clue": "Los cuatro libros proféticos largos",
+  "explain": "A Isaías, Jeremías, Ezequiel y Daniel se les llama profetas «mayores» por la extensión de sus libros, no por su importancia; en la Biblia católica, Lamentaciones y Baruc acompañan a Jeremías. Isaías se lee tanto en Adviento que se le llama el «quinto evangelista»."
+ },
+ "minor-prophets": {
+  "title": "Los Doce",
+  "clue": "Libros proféticos más breves, reunidos en un solo rollo",
+  "explain": "Los doce profetas «menores», de Oseas a Malaquías, se conservaban en un solo rollo; el Eclesiástico reza: «Que los huesos de los doce profetas reflorezcan». Su brevedad esconde grandes temas: el amor fiel de Oseas, la justicia de Amós, el signo de Jonás."
+ },
+ "seers": {
+  "title": "Videntes",
+  "clue": "Profetas que reciben el título más antiguo de «el que ve»",
+  "explain": "«Al que hoy se llama profeta, antes se le llamaba vidente». A Samuel, Gad, Idó y Jananí se les llama a cada uno «el vidente», y Crónicas cita sus registros sobre los reyes."
+ },
+ "prophetesses": {
+  "title": "Profetisas",
+  "clue": "Mujeres a quienes la Escritura llama profetas",
+  "explain": "María dirigió el canto de Israel junto al mar, Débora juzgó a Israel, Juldá confirmó a Josías la Ley redescubierta, y Ana habló del niño Jesús en el Templo. A las cuatro se las llama expresamente profetisas."
+ },
+ "prophets-without-books": {
+  "title": "Profetas sin libro",
+  "clue": "Profetas de la época de los reyes que no dejaron libro propio",
+  "explain": "Muchos profetas dirigieron la palabra de Dios a los reyes sin dejar un libro: Natán reprendió a David, Ajías rasgó su manto en doce pedazos ante Jeroboán, Miqueas fue el único que dijo la verdad a Ajab, y Elías y Eliseo se enfrentaron al culto de Baal."
+ },
+ "apostles": {
+  "title": "Apóstoles",
+  "clue": "Hombres a quienes Jesús llamó y envió",
+  "explain": "Jesús eligió a Doce para que estuvieran con él y para enviarlos, con Pedro a la cabeza; los obispos son sus sucesores (CEC 860-862). Su número recuerda a las doce tribus de Israel."
+ },
+ "fishermen": {
+  "title": "Pescadores de Galilea",
+  "clue": "Dejaron sus redes para seguirlo",
+  "explain": "Jesús llamó a los hermanos Simón Pedro y Andrés, y luego a Santiago y a Juan, que dejaron a su padre Zebedeo en la barca: «Vengan conmigo y los haré pescadores de hombres»."
+ },
+ "evangelists": {
+  "title": "Los cuatro evangelistas",
+  "clue": "Autores de los Evangelios",
+  "explain": "La Iglesia recibe cuatro Evangelios, de Mateo, Marcos, Lucas y Juan, como el corazón de toda la Escritura, porque son nuestra fuente principal sobre la vida y la enseñanza del Verbo hecho carne (CEC 125-127)."
+ },
+ "deacons": {
+  "title": "Los Siete",
+  "clue": "Hombres elegidos para servir las mesas a fin de que los apóstoles pudieran orar y predicar",
+  "explain": "Los apóstoles impusieron las manos a siete hombres «de buena fama, llenos de Espíritu Santo y de sabiduría» para atender a las viudas helenistas. La Iglesia ve aquí el origen del diaconado; Esteban fue el primer mártir."
+ },
+ "high-priests": {
+  "title": "Sumos sacerdotes",
+  "clue": "Titulares del más alto cargo sacerdotal de Israel, del Sinaí a la Pasión",
+  "explain": "Aarón fue el primer sumo sacerdote, seguido por Eleazar; Sadoc sirvió bajo David y Salomón, Jilquías encontró el Libro de la Ley, y Anás y Caifás presidieron el juicio de Jesús. Hebreos presenta a Cristo como el sumo sacerdote que se ofreció a sí mismo de una vez para siempre."
+ },
+ "maccabean-high-priests": {
+  "title": "Sumos sacerdotes en crisis",
+  "clue": "Un sacerdote fiel y tres que compraron o usurparon el cargo",
+  "explain": "Bajo los seléucidas el sumo sacerdocio se corrompió: el piadoso Onías fue desplazado por su hermano Jasón, a quien superó en la puja Menelao; más tarde Alcimo fue instalado por Demetrio. 2 Macabeos muestra cómo los pastores infieles dispersan el rebaño."
+ },
+ "kings-of-judah": {
+  "title": "Reyes de Judá",
+  "clue": "Hijos de David que reinaron en Jerusalén después de la división",
+  "explain": "Después de Salomón el reino se dividió, y los descendientes de David reinaron en Judá; la genealogía de Mateo pasa por estos mismos reyes hasta Jesús, el Hijo de David cuyo reino no tiene fin."
+ },
+ "kings-of-israel": {
+  "title": "Reyes del Norte",
+  "clue": "Gobernantes de las diez tribus desde Samaría",
+  "explain": "El reino del norte, Israel, no tuvo ningún rey que se apartara del todo de los becerros de oro de Jeroboán; las dinastías cayeron por asesinatos hasta que Asiria tomó Samaría en tiempos de Oseas, en el 722 a. C."
+ },
+ "anointed-kings": {
+  "title": "Reyes ungidos",
+  "clue": "Gobernantes sobre cuya cabeza se derramó el óleo santo",
+  "explain": "Samuel ungió a Saúl y a David, Sadoc ungió a Salomón, y un hijo de los profetas ungió a Jehú. «Mesías» y «Cristo» significan ambos «Ungido»: Jesús es el Rey al que apuntaban todas estas unciones (CEC 436)."
+ },
+ "queen-mothers": {
+  "title": "Reinas madres",
+  "clue": "Mujeres nombradas junto a sus hijos reyes en el libro de los Reyes",
+  "explain": "A los reyes de Judá se les presenta con el nombre de su madre, porque la reina madre (guebirá) ocupaba un cargo de honor; Salomón puso un trono para Betsabé a su derecha. La Iglesia ve aquí una figura de María, Reina Madre del Hijo de David."
+ },
+ "herods": {
+  "title": "La familia herodiana",
+  "clue": "Una familia gobernante que se encontró con Jesús, Juan y Pablo",
+  "explain": "La familia de Herodes el Grande gobernó bajo Roma: Arquelao en Judea, Antipas en Galilea (que decapitó a Juan), y más tarde Agripa II, que escuchó la defensa de Pablo junto con su hermana Berenice. Herodías presionó para que mataran a Juan."
+ },
+ "roman-governors": {
+  "title": "Gobernadores romanos",
+  "clue": "Funcionarios que gobernaban provincias en nombre del César",
+  "explain": "Quirino gobernaba Siria durante el censo, Pilato condenó a Jesús, Sergio Paulo creyó en Pafos, Galión desestimó las acusaciones contra Pablo, y Félix y Festo lo mantuvieron bajo custodia. El Credo nombra a Pilato para anclar nuestra fe en la historia real."
+ },
+ "foreign-kings": {
+  "title": "Reyes de las naciones",
+  "clue": "Gobernantes de Persia, Tiro, Egipto y los amorreos",
+  "explain": "Los designios de Dios pasaron también por reyes paganos: Jirán suministró cedro para el Templo, Sisac lo saqueó, Necó mató a Josías, Sijón cerró el paso al Éxodo, y Ciro y Darío permitieron reconstruir el Templo. Isaías llega a llamar a Ciro el «ungido» del Señor."
+ },
+ "philistines": {
+  "title": "Filisteos",
+  "clue": "Gobernantes y campeones del enemigo de la costa",
+  "explain": "Abimélec de Guerar y su capitán Picol hicieron alianzas con Abrahán e Isaac; Goliat de Gat desafió a los ejércitos de Israel; y David se refugió más tarde junto a Aquis, rey de Gat."
+ },
+ "moabites": {
+  "title": "Moabitas",
+  "clue": "Gente del otro lado del mar Muerto, una de ellas bisabuela de David",
+  "explain": "Balac contrató a Balaán para maldecir a Israel, Eglón fue muerto por Ehud, y Mesá se rebeló tras la muerte de Ajab. Sin embargo, Rut la moabita llegó a ser bisabuela de David y antepasada de Cristo, signo de que la salvación es para todas las naciones."
+ },
+ "midianites": {
+  "title": "Madianitas",
+  "clue": "La familia política de Moisés y otros del pueblo del desierto",
+  "explain": "Moisés se casó con Séfora, hija de Jetró, sacerdote madianita, y pidió a su hermano Jobab que guiara a Israel; pero en Peor la madianita Cozbí arrastró a Israel al pecado. Madián es a la vez pariente y adversario en la historia del Éxodo."
+ },
+ "davids-court": {
+  "title": "La corte de David",
+  "clue": "Jefe del ejército, jefe de la guardia, dos sacerdotes, un profeta y un consejero",
+  "explain": "David gobernó con Joab al frente del ejército, Benaías al frente de la guardia personal, Sadoc y Abiatar como sacerdotes, Natán como profeta y Jusay como amigo leal y consejero. Hasta el mejor rey necesitaba de otros, incluido un profeta dispuesto a reprenderlo."
+ },
+ "mighty-men": {
+  "title": "Los valientes de David",
+  "clue": "Héroes contados entre «los tres» y «los treinta»",
+  "explain": "2 Samuel 23 enumera a los campeones de David: Abisay, jefe de los tres; Benaías, que mató a un león en un pozo un día de nieve; Asael; y Urías el hitita, cuya lealtad avergonzó al rey que lo agravió."
+ },
+ "psalmists": {
+  "title": "Salmistas",
+  "clue": "Cantores nombrados en los encabezados del Salterio",
+  "explain": "David designó a Asaf, Hemán y Yedutún para «profetizar con arpas», y sus nombres encabezan salmos que la Iglesia sigue rezando a diario en la Liturgia de las Horas. Cristo mismo rezó los Salmos en la cruz."
+ },
+ "wisdom-sages": {
+  "title": "Sabios de los libros sapienciales",
+  "clue": "Un rey famoso y tres maestros de sabiduría menos conocidos",
+  "explain": "Proverbios se atribuye a Salomón, con capítulos de Agur y del rey Lemuel (instruido por su madre), y el Eclesiástico fue escrito por Jesús, hijo de Sirá. La Iglesia lee estos libros como guías inspiradas para vivir en el temor del Señor."
+ },
+ "book-of-tobit": {
+  "title": "Libro de Tobías",
+  "clue": "Un padre ciego, un hijo de viaje, una novia y un guía disfrazado",
+  "explain": "Tobit, que quedó ciego mientras hacía obras de misericordia, envía a su hijo Tobías a un viaje guiado por el arcángel Rafael, quien cura a Tobit y libra a Sara de un demonio. La Iglesia lee Tobías en las bodas y honra a Rafael el 29 de septiembre."
+ },
+ "tobit-household": {
+  "title": "Parientes y compañeros de Tobit",
+  "clue": "Parientes en Ecbátana y Ragués, más un ángel",
+  "explain": "Tobías viajó con Rafael para recuperar la plata dejada a Gabael y encontró esposa en Sara, hija de Ragüel y Edna. La providencia de Dios obra calladamente por medio de la familia, la hospitalidad y la guía de un ángel."
+ },
+ "book-of-judith": {
+  "title": "Libro de Judit",
+  "clue": "Una viuda, un amonita que creyó, un eunuco, un sacerdote y un rey medo",
+  "explain": "Judit, viuda piadosa de Betulia, salvó a su pueblo de Holofernes; el amonita Ajior anunció la protección de Israel y creyó, Bagoas encontró muerto a su señor, y el sumo sacerdote Yoyaquim la bendijo: «¡Tú eres la gran gloria de Israel!». La Iglesia aplica esta alabanza a María."
+ },
+ "esther-cast": {
+  "title": "Fiesta de Purim",
+  "clue": "Una reina, su tutor, un villano, la esposa de este, una reina depuesta y un chambelán",
+  "explain": "Vasti fue depuesta, Ester llegó a ser reina bajo el cuidado de Hegué, y con Mardoqueo frustró el plan de Amán, instigado por su esposa Zeres, de destruir a los judíos. El libro de Ester católico incluye la oración de Ester, y la Iglesia ve prefigurada en su intercesión la de María."
+ },
+ "susanna": {
+  "title": "Historia de Susana",
+  "clue": "Una esposa casta, su marido, su padre y su joven defensor",
+  "explain": "Susana, esposa de Joaquín e hija de Jilquías, prefirió la muerte antes que el pecado, y el joven Daniel desenmascaró a los dos ancianos mentirosos interrogándolos por separado. Daniel 13 forma parte del canon católico y se lee en Cuaresma."
+ },
+ "foes-of-judas": {
+  "title": "Enemigos de Judas Macabeo",
+  "clue": "Un rey perseguidor y tres de sus generales",
+  "explain": "Antíoco IV profanó el Templo; sus generales Lisias, Gorgias y Nicanor fueron derrotados por Judas Macabeo, cuya victoria sobre Nicanor se celebró como fiesta. Judas recordó a sus hombres que el enemigo confiaba en las armas, pero Israel en el Dios todopoderoso."
+ },
+ "maccabean-martyrs": {
+  "title": "Mártires macabeos",
+  "clue": "Un escriba anciano, una viuda con siete hijos y un anciano de Jerusalén",
+  "explain": "Bajo Antíoco IV, Eleazar, de noventa años, una madre con sus siete hijos y el anciano Razías prefirieron la muerte antes que traicionar la Ley o caer en manos de los perseguidores. Las palabras de la madre a sus hijos son un testimonio clave del Antiguo Testamento sobre la creación de la nada y la resurrección de la carne (CEC 297, 992)."
+ },
+ "types-of-christ": {
+  "title": "Figuras de Cristo",
+  "clue": "Personajes del Antiguo Testamento en quienes los Padres vieron prefigurado a Jesús",
+  "explain": "Adán es «figura del que había de venir»; Abel, el pastor inocente asesinado; Isaac, que sube al Moria cargando la leña; José, traicionado y exaltado; Moisés, el legislador; y Jonás, tres días en el pez, todos prefiguran a Cristo. El Nuevo Testamento está escondido en el Antiguo (CEC 128-130)."
+ },
+ "marian-types": {
+  "title": "Figuras de María",
+  "clue": "Mujeres en quienes la Iglesia ve prefigurada a la Madre de Dios",
+  "explain": "María es la Nueva Eva; como Sara y Ana, recibe un hijo dado por Dios; como Judit y Ester, está junto a su pueblo; y como Betsabé, es Reina Madre junto al trono del Hijo de David (CEC 489)."
+ },
+ "taken-up": {
+  "title": "Llevados al cielo",
+  "clue": "Dos llevados en vida, uno que ascendió, una que fue asunta",
+  "explain": "Henoc «no fue hallado, porque Dios se lo llevó», y Elías subió en un torbellino. Cristo ascendió por su propio poder, y María fue asunta en cuerpo y alma a la gloria celestial, participación en la Resurrección de su Hijo (CEC 659, 966)."
+ },
+ "renamed": {
+  "title": "Recibieron un nombre nuevo",
+  "clue": "Nombres dados por Dios o por Jesús para señalar una nueva misión",
+  "explain": "Abrán pasó a ser Abrahán, Saray pasó a ser Sara, Jacob pasó a ser Israel, Oseas pasó a ser Josué, y Simón pasó a ser Pedro (Cefas, «Roca»). En la Escritura un nombre nuevo significa una nueva identidad y vocación, como cada uno de nosotros recibe un nombre en el Bautismo (CEC 2156)."
+ },
+ "forty-days": {
+  "title": "Cuarenta días",
+  "clue": "Cada uno está ligado a un periodo de cuarenta días en la Escritura",
+  "explain": "Llovió sobre Noé cuarenta días, Moisés permaneció cuarenta días en el Sinaí, Elías caminó cuarenta días hasta el Horeb, Goliat desafió a Israel cuarenta días, y Jesús ayunó cuarenta días en el desierto. La Cuaresma de la Iglesia nos une a estos cuarenta días (CEC 540)."
+ },
+ "raised-to-life": {
+  "title": "Resucitados de la muerte",
+  "clue": "Tres volvieron a la vida terrena; uno resucitó para no morir más",
+  "explain": "Jesús resucitó a Lázaro, Pedro resucitó a Tabita y Pablo reanimó a Eutico, pero ellos volvieron a la vida ordinaria y murieron de nuevo. La Resurrección de Cristo es esencialmente distinta: resucitó a una vida gloriosa más allá de la muerte (CEC 646)."
+ },
+ "canticles": {
+  "title": "Cantos de alabanza",
+  "clue": "Cada uno cantó o rezó un cántico que la Iglesia sigue usando",
+  "explain": "El cántico de Ana, el canto de María junto al mar, el himno de Judit, el Benedictus de Zacarías y el Nunc Dimittis de Simeón se rezan todos en la Liturgia de las Horas, junto con el Magníficat de María."
+ },
+ "here-i-am": {
+  "title": "Aquí estoy",
+  "clue": "Cada uno respondió a la llamada de Dios con las mismas palabras",
+  "explain": "Abrahán en el Moria, Moisés ante la zarza, el niño Samuel en la noche e Isaías en el Templo respondieron todos: «Aquí estoy». El «He aquí la esclava del Señor» de María es la forma perfecta de esta respuesta (CEC 2617)."
+ },
+ "reluctant-callees": {
+  "title": "Siervos reacios",
+  "clue": "Cada uno puso objeciones o huyó cuando Dios lo llamó",
+  "explain": "Moisés dijo que era torpe de palabra, Gedeón que su clan era el más débil, Jeremías que no era más que un muchacho, y Jonás huyó hacia Tarsis. La llamada de Dios no depende de que nos sintamos preparados."
+ },
+ "barren-women": {
+  "title": "Estériles que dieron a luz hijos",
+  "clue": "Dios abrió el seno de cada una",
+  "explain": "Sara, Rebeca, Raquel, Ana e Isabel fueron estériles hasta que Dios les dio hijos. Estos nacimientos preparan la concepción virginal de Jesús, que supera toda expectativa humana: «nada hay imposible para Dios» (CEC 489, 497)."
+ },
+ "matriarchs": {
+  "title": "Matriarcas",
+  "clue": "Esposas de Abrahán, Isaac y Jacob",
+  "explain": "Sara, Rebeca, Raquel y Lía son las madres de Israel. La bendición a Rut pide que sea «como Raquel y como Lía, las dos que edificaron la casa de Israel»."
+ },
+ "women-of-faith": {
+  "title": "Mujeres de fe",
+  "clue": "Mujeres valientes y fieles del Antiguo Testamento",
+  "explain": "La lealtad de Rut, la perseverancia de Noemí, la alabanza de María, la fe valiente de Rajab y la oración de Ana marcaron la historia de la salvación. Hebreos 11 nombra a Rajab entre los héroes de la fe."
+ },
+ "women-in-genealogy": {
+  "title": "Mujeres en la genealogía de Mateo",
+  "clue": "Cinco madres nombradas en el linaje de Jesucristo",
+  "explain": "Mateo nombra a Tamar, Rajab, Rut, «la mujer de Urías» y María entre los antepasados de Jesús. Varias eran extranjeras o tenían historias irregulares, lo que muestra que Dios escribe la salvación a través de vidas inesperadas, y conducen hasta María, cuya maternidad es totalmente nueva."
+ },
+ "widows": {
+  "title": "Viudas de la Escritura",
+  "clue": "Cada una sobrevivió a su marido",
+  "explain": "Noemí y sus nueras Rut y Orfá enviudaron en Moab; Tamar fue la viuda de Er; Judit y Ana pasaron su viudez en oración y ayuno. A Dios se le llama «padre de los huérfanos y defensor de las viudas»."
+ },
+ "wicked-royals": {
+  "title": "Mujeres malvadas de la realeza",
+  "clue": "Cada una usó el poder real para el mal",
+  "explain": "Jezabel promovió a Baal e hizo matar a Nabot, Atalía asesinó a los herederos reales, Maacá fue depuesta como reina madre por causa de un ídolo, y Herodías buscó la cabeza de Juan el Bautista. El poder sin Dios se convierte en instrumento de muerte."
+ },
+ "women-who-followed-jesus": {
+  "title": "Mujeres que siguieron a Jesús",
+  "clue": "Viajaban con él y lo servían con sus bienes",
+  "explain": "Lucas nombra a María Magdalena, Juana y Susana entre las mujeres que seguían a Jesús y lo asistían; Salomé fue al sepulcro, y Marta lo confesó como el Cristo. María Magdalena, primera testigo de la Resurrección, es honrada como «apóstol de los apóstoles»."
+ },
+ "women-in-pauls-mission": {
+  "title": "Mujeres en la misión de Pablo",
+  "clue": "Protectoras, anfitrionas y colaboradoras del Apóstol",
+  "explain": "Febe servía a la iglesia de Cencreas, Priscila instruyó a Apolo, Lidia acogió a la iglesia de Filipos, Evodia y Síntique trabajaron con Pablo por el evangelio, y los de Cloe informaron sobre Corinto. Las mujeres fueron esenciales en la primera misión."
+ },
+ "romans-16": {
+  "title": "Saludados en Romanos 16",
+  "clue": "Nombres de la larga lista de saludos de Pablo",
+  "explain": "Pablo cierra Romanos saludando por su nombre a decenas de creyentes, entre ellos Junia, «insigne entre los apóstoles», Urbano, su colaborador, la querida Pérside, Trifosa y Rufo, «escogido en el Señor». La Iglesia era una familia de nombres reales."
+ },
+ "pauls-companions": {
+  "title": "Compañeros de Pablo",
+  "clue": "Colaboradores en los viajes del Apóstol",
+  "explain": "Pablo nunca trabajó solo: Bernabé y Silas viajaron con él, Timoteo y Tito llegaron a ser obispos a quienes se confiaron iglesias, Lucas, el «médico querido», dejó constancia de los viajes, y Tíquico llevó sus cartas."
+ },
+ "letter-writers": {
+  "title": "Autores de epístolas",
+  "clue": "Autores apostólicos de cartas del Nuevo Testamento",
+  "explain": "Las cartas del Nuevo Testamento llevan los nombres de Pablo, Pedro, Santiago, Juan y Judas. La liturgia católica honra la Carta de Judas bajo san Judas apóstol y la Carta de Santiago bajo Santiago, «hermano del Señor»."
+ },
+ "converts-in-acts": {
+  "title": "Conversos en los Hechos",
+  "clue": "Gentiles y judíos que llegaron a la fe por medio de los apóstoles",
+  "explain": "El centurión Cornelio recibió el Espíritu con la predicación de Pedro, Lidia abrió su corazón en Filipos, Dionisio y Dámaris creyeron en Atenas, y Crispo, jefe de la sinagoga, creyó en Corinto. El evangelio cruzó todas las fronteras."
+ },
+ "passion-figures": {
+  "title": "Viernes Santo",
+  "clue": "Personajes del arresto y del juicio de Jesús",
+  "explain": "Jesús fue arrestado (Pedro le cortó la oreja a Malco), interrogado por Anás y Caifás, y entregado a Pilato, quien soltó en su lugar a Barrabás. La Iglesia enseña que todos los pecadores, y no un solo pueblo, son responsables de la Pasión de Cristo (CEC 597-598)."
+ },
+ "at-the-cross": {
+  "title": "Junto a la cruz y al sepulcro",
+  "clue": "Los que cargaron, miraron y sepultaron",
+  "explain": "Simón de Cirene cargó la cruz, María Magdalena y Salomé miraban desde lejos, y José de Arimatea y Nicodemo envolvieron el cuerpo de Jesús en lienzos con aromas y lo pusieron en un sepulcro nuevo."
+ },
+ "pharisees": {
+  "title": "Fariseos",
+  "clue": "Miembros del partido que guardaba la Ley con mayor esmero",
+  "explain": "Nicodemo fue a ver a Jesús de noche, Gamaliel aconsejó al Sanedrín que dejara en paz a los apóstoles, Simón invitó a Jesús a comer, y Pablo era «fariseo, hijo de fariseos». No todos los fariseos se opusieron a Jesús."
+ },
+ "infancy-narratives": {
+  "title": "Historia de la Navidad",
+  "clue": "Personas del relato de Lucas sobre el nacimiento y la infancia de Jesús",
+  "explain": "Gabriel anunció los nacimientos de Juan y de Jesús, Zacarías e Isabel fueron padres del Precursor, y en el Templo Simeón y Ana reconocieron al Cristo niño. Lucas muestra al Israel fiel acogiendo a su Mesías."
+ },
+ "transfiguration": {
+  "title": "En el monte",
+  "clue": "Tres discípulos vieron a su Señor en la gloria con dos visitantes",
+  "explain": "En un monte alto Jesús se transfiguró ante Pedro, Santiago y Juan, y Moisés y Elías, la Ley y los Profetas, conversaron con él. La fiesta se celebra el 6 de agosto como anticipo del Reino (CEC 554-556)."
+ },
+ "martyrs": {
+  "title": "Mártires",
+  "clue": "Cada uno murió por fidelidad a Dios",
+  "explain": "Zacarías, hijo de Yehoyadá, fue apedreado en el atrio del Templo; el escriba Eleazar murió antes que comer carne de cerdo; Esteban fue el primer mártir cristiano; Santiago fue el primer apóstol martirizado; y Antipas fue en Pérgamo el «testigo mío, mi fiel» de Cristo. «Mártir» significa testigo (CEC 2473)."
+ },
+ "shepherds": {
+  "title": "Pastores",
+  "clue": "Cada uno cuidó rebaños",
+  "explain": "Abel era pastor de ovejas, Jacob cuidó los rebaños de Labán, Raquel abrevaba las ovejas de su padre, Moisés pastoreaba el rebaño de Jetró, David fue sacado del aprisco, y Amós era pastor de Tecoa. Jesús se llama a sí mismo el Buen Pastor."
+ },
+ "met-angels": {
+  "title": "Se encontraron con un ángel",
+  "clue": "A cada uno le habló un mensajero del cielo",
+  "explain": "Un ángel encontró a Agar junto a una fuente, saludó a Gedeón como «valiente guerrero», anunció el nacimiento de Sansón a Manóaj y a su esposa, guio a Tobías, y comunicó a Zacarías el nacimiento de Juan. Los ángeles son servidores y mensajeros de Dios (CEC 329-333)."
+ },
+ "angels": {
+  "title": "Ángeles",
+  "clue": "Tres arcángeles con nombre y dos coros de seres celestiales",
+  "explain": "La Escritura nombra a tres arcángeles, Miguel, Gabriel y Rafael, honrados juntos el 29 de septiembre, y describe a los querubines que guardan el Edén y a los serafines que claman «Santo, santo, santo». La existencia de los ángeles es una verdad de fe (CEC 328)."
+ },
+ "lepers": {
+  "title": "Heridos de lepra",
+  "clue": "Cada uno padeció una enfermedad de la piel en el Antiguo Testamento",
+  "explain": "María fue castigada por hablar contra Moisés, Naamán quedó sano después de lavarse en el Jordán, el rey Ozías lo fue por quemar un incienso que no tenía derecho a ofrecer, y Guejazí por su codicia. Los Padres vieron en el baño de Naamán una figura del Bautismo."
+ },
+ "blinded": {
+  "title": "Perdieron la vista",
+  "clue": "Cada uno quedó ciego, por un tiempo o para siempre",
+  "explain": "A Tobit lo cegó el excremento de unos gorriones, los filisteos le sacaron los ojos a Sansón, Babilonia cegó a Sedecías, Saulo quedó ciego por la luz en el camino de Damasco, y Elimas quedó ciego por oponerse al evangelio. La vista perdida y recobrada a menudo señala una conversión."
+ },
+ "mountains": {
+  "title": "Montes de la Escritura",
+  "clue": "Cumbres donde Dios actuó",
+  "explain": "Dios dio la Ley en el Sinaí, se encontró con Elías en el Horeb, envió fuego sobre el Carmelo, puso a prueba a Abrahán en la tierra de Moria, y eligió Sión como su morada; el Tabor es donde se reunió el ejército de Débora y, según la Tradición, donde Cristo se transfiguró."
+ },
+ "giant-slayers": {
+  "title": "Matagigantes",
+  "clue": "Cada uno venció a un gigante o a un clan de gigantes",
+  "explain": "David mató a Goliat, y más tarde sus hombres Abisay, Eljanán y Jonatán, hijo de Simá, mataron cada uno a un gigante de Gat; Caleb expulsó de Hebrón a los hijos de Anac. La fe en Dios, no el tamaño, gana la batalla."
+ },
+ "builders": {
+  "title": "Constructores para Dios",
+  "clue": "Un arca, un tabernáculo, un templo y la muralla de una ciudad",
+  "explain": "Noé construyó el arca, Besalel y Oholiab fabricaron el tabernáculo, Salomón edificó el Templo con las obras de bronce de Jirán, y Nehemías reconstruyó las murallas de Jerusalén. Todos prefiguran a la Iglesia, edificada con piedras vivas sobre Cristo, la piedra angular."
+ },
+ "rebuilders": {
+  "title": "Regreso del exilio",
+  "clue": "Jefes de la restauración de Jerusalén",
+  "explain": "Después del exilio, el sumo sacerdote Josué y Zorobabel reconstruyeron el altar y el Templo, animados por los profetas Ageo y Zacarías; más tarde Esdras enseñó la Ley y Nehemías reconstruyó las murallas."
+ },
+ "wall-foes": {
+  "title": "Enemigos de las murallas de Jerusalén",
+  "clue": "Se burlaron de la reconstrucción, conspiraron contra ella o la detuvieron",
+  "explain": "La carta de Rejún detuvo las obras de Jerusalén, y más tarde Sambalat, Tobías y Guésem se burlaron de Nehemías y conspiraron para detenerlo. Nehemías respondió: «El Dios del cielo nos hará prosperar»."
+ },
+ "exiles-in-babylon": {
+  "title": "Desterrados en Babilonia",
+  "clue": "Judíos que sirvieron a Dios lejos de su tierra",
+  "explain": "Daniel y sus tres compañeros permanecieron fieles en la corte de Nabucodonosor, incluso en el horno ardiente, y Ezequiel profetizó junto al río Quebar. La Oración de Azarías y el Cántico de los Tres Jóvenes, en el Daniel 3 católico, se siguen rezando los domingos."
+ },
+ "dreamers": {
+  "title": "Soñadores",
+  "clue": "Dios o su mensajero habló en sueños a cada uno",
+  "explain": "Jacob soñó con una escalera que llegaba al cielo, Salomón pidió sabiduría en un sueño en Gabaón, el faraón soñó con las vacas gordas y las flacas, y san José obedeció cuatro sueños protegiendo a María y al Niño. Dios guía a quienes escuchan."
+ },
+ "at-the-well": {
+  "title": "Encuentros junto a un pozo",
+  "clue": "Cada uno encontró a alguien, o fue encontrado, junto al agua",
+  "explain": "El siervo de Abrahán encontró a Rebeca junto a un pozo, Jacob conoció a Raquel junto a otro, Moisés conoció a Séfora junto a otro, Dios abrió los ojos de Agar para que viera un pozo, y Jesús se encontró con la samaritana en el pozo de Jacob y le ofreció agua viva."
+ },
+ "machpelah": {
+  "title": "Sepultados en Macpelá",
+  "clue": "Enterrados en la cueva comprada a Efrón el hitita",
+  "explain": "Abrahán compró la cueva de Macpelá como lugar de sepultura; allí fueron enterrados Abrahán y Sara, Isaac y Rebeca, Lía y Jacob, pero no Raquel, que fue sepultada en el camino de Belén. Su sepultura en la tierra prometida fue una prenda de fe en la promesa de Dios."
+ },
+ "firstborn-passed-over": {
+  "title": "Primogénitos postergados",
+  "clue": "Cada uno era el hijo mayor, pero la bendición fue a otra parte",
+  "explain": "Una y otra vez Dios eligió al menor: la ofrenda de Abel antes que la de Caín, Isaac antes que Ismael, Jacob antes que Esaú, el linaje de José antes que Rubén, Efraín antes que Manasés, y David antes que Eliab. La elección es gracia, no derecho."
+ },
+ "rebellion": {
+  "title": "Murmuradores contra Moisés",
+  "clue": "Cada uno desafió la autoridad de Moisés en el desierto",
+  "explain": "Coré, Datán y Abirón se alzaron contra Moisés y la tierra se los tragó; incluso María y Aarón hablaron contra él, y María quedó herida de lepra. La Escritura advierte contra la murmuración (1 Cor 10,10)."
+ },
+ "betrayers": {
+  "title": "Traidores",
+  "clue": "Cada uno se volvió contra alguien que confiaba en él",
+  "explain": "Dalila vendió el secreto de Sansón, Absalón le robó el reino a su padre, Trifón atrajo a Jonatán Macabeo a una trampa, y Judas entregó a Jesús con un beso. Sin embargo, incluso Judas habría podido arrepentirse: ningún pecado es mayor que la misericordia de Dios (CEC 1864)."
+ },
+ "conquest": {
+  "title": "Conquista de Canaán",
+  "clue": "El jefe, un explorador fiel, una mujer que escondió a los espías y un hombre que robó",
+  "explain": "Josué condujo a Israel a través del Jordán; Rajab de Jericó escondió a los espías y fue perdonada; el robo de Acán trajo la derrota en Ay; y Caleb, fiel desde la exploración de la tierra, reclamó Hebrón a los ochenta y cinco años."
+ },
+ "ruth-story": {
+  "title": "Libro de Rut",
+  "clue": "Una viuda moabita, su suegra, un pariente rescatador y un bebé",
+  "explain": "Rut la moabita se aferró a Noemí («Tu Dios será mi Dios»), se casó con Booz, el pariente rescatador, y dio a luz a Obed, abuelo de David. Booz rescatando a Rut prefigura a Cristo Redentor, que acoge a las naciones."
+ },
+ "shiloh": {
+  "title": "En Siló",
+  "clue": "Una madre que ora, su familia, un sacerdote anciano y sus hijos malvados",
+  "explain": "En Siló, Ana lloraba y pedía un hijo mientras Peniná la humillaba; Elí la bendijo, y ella entregó a Samuel al Señor. Los hijos de Elí, Jofní y Pinjás, abusaban de los sacrificios y murieron cuando el arca fue capturada."
+ },
+ "elijah-elisha": {
+  "title": "Elías y Eliseo",
+  "clue": "Dos profetas y los personajes de sus historias",
+  "explain": "Elías se enfrentó a Ajab y a Jezabel en el Carmelo y por la viña de Nabot; su sucesor Eliseo curó a Naamán, el general sirio, mientras su criado Guejazí se quedó por codicia con los regalos de Naamán. Jesús recuerda la solicitud de ambos profetas por los extranjeros (Lucas 4,25-27)."
+ },
+ "hezekiahs-crisis": {
+  "title": "Ezequías y Asiria",
+  "clue": "Un rey, un profeta, dos funcionarios y un portavoz enemigo",
+  "explain": "Cuando el Rabsaces de Senaquerib se burló de Jerusalén, Ezequías envió a Eliaquín y a Sebná a Isaías y oró; el Señor libró a la ciudad. Isaías 22 da a Eliaquín «la llave de la casa de David», pasaje que la Iglesia lee junto con las llaves de Pedro."
+ },
+ "jeremiahs-friends": {
+  "title": "Amigos de Jeremías",
+  "clue": "Un escriba y unos funcionarios que apoyaron al profeta de las lágrimas",
+  "explain": "Baruc puso por escrito las palabras de Jeremías, Ajicán lo salvó de la muerte, Guemarías rogó al rey que no quemara el rollo, y Godolías lo acogió tras la caída de Jerusalén. Dios da amigos a quienes dicen verdades duras."
+ },
+ "jobs-friends": {
+  "title": "Amigos de Job",
+  "clue": "Vinieron a consolar y se quedaron a discutir",
+  "explain": "Elifaz, Bildad y Sofar se sentaron en silencio con Job siete días, y luego insistieron en que su sufrimiento debía de ser un castigo; el joven Elihú habló el último. Dios dice que los tres no habían hablado rectamente de él, una advertencia contra las respuestas fáciles al sufrimiento."
+ },
+ "altar-builders": {
+  "title": "Constructores de altares",
+  "clue": "Cada uno levantó un altar al Señor",
+  "explain": "Noé después del diluvio, Abrahán en el Moria, Jacob en Betel, Gedeón en Ofrá, David en la era de Arauná y Elías en el Carmelo levantaron todos altares. El altar prefigura el sacrificio eucarístico, y Cristo mismo es el altar (CEC 1383)."
+ },
+ "july-feasts": {
+  "title": "Santos de julio",
+  "clue": "A cada uno se le conmemora en julio",
+  "explain": "Santo Tomás (3 de julio), el profeta Elías (20 de julio, Martirologio Romano), santa María Magdalena (22 de julio), Santiago el Mayor (25 de julio), san Joaquín y santa Ana (26 de julio) y los santos Marta, María y Lázaro (29 de julio) caen todos en julio."
+ },
+ "september-feasts": {
+  "title": "Santos de septiembre",
+  "clue": "A cada uno se le conmemora en septiembre",
+  "explain": "San Mateo se celebra el 21 de septiembre, los arcángeles Miguel, Gabriel y Rafael el 29 de septiembre, y Moisés el 4 de septiembre en el Martirologio Romano."
+ },
+ "christmas-octave": {
+  "title": "Fiestas después de la Navidad",
+  "clue": "Se celebran en los días inmediatamente posteriores a la Natividad",
+  "explain": "La Iglesia rodea la Navidad de testigos: san Esteban (26 de diciembre), san Juan apóstol (27 de diciembre), los Santos Inocentes (28 de diciembre) y el rey David (29 de diciembre, Martirologio Romano)."
+ },
+ "may-feasts": {
+  "title": "Santos de mayo",
+  "clue": "A cada uno se le conmemora en mayo",
+  "explain": "San José Obrero (1 de mayo), los santos Felipe y Santiago (3 de mayo), Job (10 de mayo, Martirologio Romano) y san Matías (14 de mayo) son todos recordados en mayo, el mes dedicado a María."
+ },
+ "october-feasts": {
+  "title": "Santos de octubre",
+  "clue": "A cada uno se le conmemora en octubre",
+  "explain": "A Abrahán se le recuerda el 9 de octubre en el Martirologio Romano, a san Lucas evangelista el 18 de octubre, y a los apóstoles Simón y Judas juntos el 28 de octubre."
+ },
+ "plagues": {
+  "title": "Plagas de Egipto",
+  "clue": "Señales enviadas sobre la tierra del faraón",
+  "explain": "Dios hirió a Egipto con diez plagas, desde el agua convertida en sangre hasta la muerte de los primogénitos, hasta que el faraón dejó salir a Israel. El cordero pascual, cuya sangre salvó a Israel, prefigura a Cristo, el Cordero de Dios (CEC 1340)."
+ },
+ "seven-churches": {
+  "title": "Iglesias del Apocalipsis",
+  "clue": "Ciudades cuyas iglesias recibieron cartas de Cristo resucitado",
+  "explain": "Cristo resucitado dictó cartas a siete iglesias de Asia: Éfeso, Esmirna, Pérgamo, Tiatira, Sardes, Filadelfia y Laodicea. Los siete candelabros son las iglesias, y Cristo camina en medio de ellas."
+ },
+ "gifts-of-the-spirit": {
+  "title": "Dones del Espíritu",
+  "clue": "Siete dones que reposan sobre el Mesías y se dan en la Confirmación",
+  "explain": "Isaías anunció que el Espíritu de sabiduría, inteligencia, consejo, fortaleza, ciencia y temor del Señor reposaría sobre el Mesías; la Iglesia cuenta siete dones (añadiendo la piedad), que se dan en la Confirmación (CEC 1831)."
+ }
+}
