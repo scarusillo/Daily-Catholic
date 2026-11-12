@@ -39,7 +39,7 @@
           <li>${X("Your settings, game results, streaks, journey progress and checklists are stored only in your browser's local storage on your device. They are never sent to us. Clearing your browser data deletes them.", "Tu configuración, resultados de juegos, rachas, progreso en los caminos y listas se guardan solo en el almacenamiento local de tu navegador, en tu dispositivo. Nunca nos llegan. Si borras los datos del navegador, se eliminan.")}</li>
           <li>${X("Find a Church: your ZIP code is looked up on your device. To list churches, your device sends an approximate location (the ZIP code's center, or your location if you choose \"Use my location\") to the OpenStreetMap Overpass service. We do not receive or store it.", "Buscar Iglesia: tu código postal se busca en tu dispositivo. Para listar iglesias, tu dispositivo envía una ubicación aproximada (el centro del código postal, o tu ubicación si eliges \"Usar mi ubicación\") al servicio Overpass de OpenStreetMap. Nosotros no la recibimos ni la guardamos.")}</li>
           <li>${X("Links to other sites (parish websites, maps, Hymnary.org, search) are governed by those sites' own policies.", "Los enlaces a otros sitios (sitios parroquiales, mapas, Hymnary.org, buscadores) se rigen por las políticas de esos sitios.")}</li>
-          <li>${X("Fonts are loaded from Google Fonts, which see standard web request information such as your IP address.", "Las fuentes se cargan desde Google Fonts, que ven la información estándar de una solicitud web, como tu dirección IP.")}</li>
+          <li>${X("Fonts, scripts and all content are served from this site itself; nothing is loaded from advertising or tracking services.", "Las fuentes, los programas y todo el contenido se sirven desde este mismo sitio; no se carga nada de servicios de publicidad o rastreo.")}</li>
           <li>${X("No ads, no analytics trackers, no selling or sharing of data.", "Sin anuncios, sin rastreadores de analítica, sin venta ni intercambio de datos.")}</li>
         </ul></section>
 
@@ -51,7 +51,7 @@
           <li>${X("Prayer texts: Prayer Collection by CodexCommunion, and rosario (MIT).", "Textos de oraciones: Prayer Collection de CodexCommunion, y rosario (MIT).")}</li>
           <li>${X("ZIP code locations: us-zips (MIT), from US Census ZCTAs. Word lists: an-array-of-english-words and an-array-of-spanish-words (MIT).", "Ubicación de códigos postales: us-zips (MIT), de las ZCTA del Censo de EE. UU. Listas de palabras: an-array-of-english-words y an-array-of-spanish-words (MIT).")}</li>
           <li>${X("Hymn titles and composers are listed for reference; copyrighted song lyrics are not reproduced.", "Los títulos y compositores de himnos se mencionan como referencia; no se reproducen letras con derechos de autor.")}</li>
-          <li>${X("Code: d3 (ISC).", "Código: d3 (ISC).")}</li>
+          <li>${X("Code: d3 (ISC). Fonts: Alegreya, Alegreya SC and Alegreya Sans by Huerta Tipográfica (SIL Open Font License 1.1).", "Código: d3 (ISC). Fuentes: Alegreya, Alegreya SC y Alegreya Sans de Huerta Tipográfica (SIL Open Font License 1.1).")}</li>
         </ul>
         <p class="gfoot">${X("Teaching notes, saint biographies and guides are study summaries written for this site. For authoritative teaching, consult the Catechism of the Catholic Church and your parish priest.", "Las notas, biografías de santos y guías son resúmenes de estudio escritos para este sitio. Para la enseñanza autorizada, consulte el Catecismo de la Iglesia Católica y a su párroco.")}</p></section>
     </div>`;
@@ -69,13 +69,15 @@
     try { INDEX ??= await ctx.getJSON("data/parishes/index.json"); } catch { INDEX = []; }
     slug ??= ctx.store.get("bpm.parish", null);
     const head = `<div class="levels finder-switch" role="group"><a href="#mass">${X("Mass", "Misa")}</a><a href="#confess">${X("Confession", "Confesión")}</a><a href="#myparish" class="on">${X("My parish", "Mi parroquia")}</a></div>`;
-    const entry = INDEX.find((p) => p.slug === slug);
+    const DEMO = "example-st-joseph";
+    const entry = INDEX.find((p) => p.slug === slug) || (slug === DEMO ? { slug } : null);
     if (!entry) {
       root.innerHTML = `${head}<div class="hub"><div class="ghead"><h1>${X("My parish", "Mi parroquia")}</h1></div>
         <p class="lede">${X("Choose your parish to see its Mass and confession times, announcements and events in one place.", "Elige tu parroquia para ver en un solo lugar sus horarios de Misa y confesión, avisos y eventos.")}</p>
+        ${INDEX.length ? "" : `<p>${X("No parishes have joined yet.", "Todavía no se ha unido ninguna parroquia.")} <button class="ghost small" data-parish="${DEMO}">${X("See an example parish page", "Ver una página parroquial de ejemplo")}</button></p>`}
         <div class="gcards">${INDEX.map((p) => `<button class="gcard" data-parish="${esc(p.slug)}"><span class="gname">${esc(p.name)}</span><span class="gdesc">${esc(p.city || "")}</span>${p.demo ? `<span class="gstat">${X("Example parish", "Parroquia de ejemplo")}</span>` : ""}</button>`).join("")}</div>
         <p class="gfoot">${X("Is your parish missing? Parishes can join for free during the pilot. Ask your parish office to get in touch.", "¿Falta tu parroquia? Durante el programa piloto las parroquias pueden unirse gratis. Pide al despacho parroquial que se comunique con nosotros.")}${CFG().contactEmail ? ` <span class="sel">${esc(CFG().contactEmail)}</span>` : ""}</p></div>`;
-      root.querySelectorAll("[data-parish]").forEach((b) => b.onclick = () => { ctx.store.set("bpm.parish", b.dataset.parish); renderParish(root, b.dataset.parish); });
+      root.querySelectorAll("[data-parish]").forEach((b) => b.onclick = () => { if (b.dataset.parish !== DEMO) ctx.store.set("bpm.parish", b.dataset.parish); renderParish(root, b.dataset.parish); });
       return;
     }
     let p = PARISH_CACHE[slug];

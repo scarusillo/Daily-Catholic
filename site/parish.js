@@ -152,7 +152,7 @@
      FIND A MASS — Catholic churches near a ZIP code or your location
      (OpenStreetMap via the Overpass API; distances computed here)
      ===================================================================== */
-  const OVERPASS = ["https://overpass-api.de/api/interpreter", "https://overpass.kumi.systems/api/interpreter"];
+  const OVERPASS = ["https://overpass-api.de/api/interpreter", "https://overpass.kumi.systems/api/interpreter", "https://overpass.private.coffee/api/interpreter"];
   const DENOMS = "catholic|roman_catholic|byzantine_catholic|ukrainian_greek_catholic|greek_catholic|maronite|melkite|chaldean_catholic|syro-malabar|armenian_catholic|ruthenian";
   let ZIPS = null;
   const miles = (a, b) => {
@@ -162,13 +162,20 @@
   };
   async function queryChurches(lat, lon, radiusMi) {
     const q = `[out:json][timeout:40];nwr["amenity"="place_of_worship"]["religion"="christian"]["denomination"~"^(${DENOMS})$"](around:${Math.round(radiusMi * 1609.34)},${lat},${lon});out center tags;`;
+    // repeat searches (switching Mass/Confession, coming back to the page) reuse the answer for the rest of the visit
+    const ck = `bpm.churches.${(+lat).toFixed(2)},${(+lon).toFixed(2)},${radiusMi}`;
+    try { const hit = JSON.parse(sessionStorage.getItem(ck) || "null"); if (hit) return hit; } catch { /* no session storage */ }
     let lastErr;
     for (const url of OVERPASS) {
+      // a busy public server can hang: give each one 30 seconds, then move to the next
+      const ac = new AbortController(), timer = setTimeout(() => ac.abort(), 30000);
       try {
-        const r = await fetch(url, { method: "POST", body: "data=" + encodeURIComponent(q), headers: { "Content-Type": "application/x-www-form-urlencoded" } });
+        const r = await fetch(url, { method: "POST", body: "data=" + encodeURIComponent(q), headers: { "Content-Type": "application/x-www-form-urlencoded" }, signal: ac.signal });
         if (!r.ok) throw new Error(`HTTP ${r.status}`);
-        return (await r.json()).elements || [];
-      } catch (e) { lastErr = e; }
+        const els = (await r.json()).elements || [];
+        try { sessionStorage.setItem(ck, JSON.stringify(els)); } catch { /* too large or unavailable */ }
+        return els;
+      } catch (e) { lastErr = e; } finally { clearTimeout(timer); }
     }
     throw lastErr;
   }
@@ -250,7 +257,7 @@
       catch {
         msg.innerHTML = inClaude()
           ? `${X("Church search needs the open internet, which this preview can't reach. Use it on the public site:", "La búsqueda necesita internet abierto, que esta vista previa no tiene. Úsala en el sitio público:")} <a href="${PUBLIC_SITE}#mass" target="_blank" rel="noopener">${PUBLIC_SITE}</a>`
-          : X("The church search service didn't respond. Wait a moment and search again.", "El servicio de búsqueda no respondió. Espera un momento y vuelve a intentarlo.");
+          : `${X("The church search service didn't respond. Wait a moment and search again, try a smaller distance, or use", "El servicio de búsqueda no respondió. Espera un momento y vuelve a intentarlo, prueba una distancia menor o usa")} <a href="https://masstimes.org" target="_blank" rel="noopener">MassTimes.org</a>.`;
         return;
       }
       const seen = new Set();

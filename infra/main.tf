@@ -7,6 +7,9 @@ terraform {
   required_providers {
     aws = { source = "hashicorp/aws", version = "~> 5.0" }
   }
+  # The record of what was built ("state") is kept in an S3 bucket in your own account, so it is not lost
+  # with the computer that ran this. infra/setup.sh creates the bucket and passes its name at init time.
+  backend "s3" {}
 }
 
 provider "aws" {

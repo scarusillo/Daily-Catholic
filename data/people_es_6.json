@@ -1,0 +1,2692 @@
+{
+ "barzillai": {
+  "name": "Barzilay el galaadita",
+  "role": "Benefactor de David",
+  "summary": "Barzilay, un galaadita de Roguelim muy anciano y rico, proporcionó alimento a David en Majanáin durante la rebelión de Absalón. Rechazó la invitación de David a vivir en la corte a causa de su edad y envió en su lugar a su hijo Quimhán.",
+  "catholic": "",
+  "know": [
+   "Tenía ochenta años",
+   "Alimentó a la gente de David en el desierto",
+   "David encomendó sus hijos a Salomón"
+  ]
+ },
+ "jared": {
+  "name": "Yéred",
+  "role": "Patriarca antediluviano",
+  "summary": "Hijo de Mahalalel y padre de Henoc; vivió 962 años.",
+  "catholic": "",
+  "know": [
+   "La segunda vida más larga del Génesis, después de Matusalén",
+   "Padre de Henoc, que 'anduvo con Dios'"
+  ]
+ },
+ "phinehas-son-of-eli": {
+  "name": "Pinjás",
+  "role": "Sacerdote en Siló",
+  "summary": "Pinjás, hijo de Elí (no el celoso nieto de Aarón), fue un sacerdote corrupto de Siló que murió con su hermano Jofní cuando el Arca fue capturada. Al oír la noticia, su mujer se puso de parto y llamó a su hijo Icabod, 'la gloria se ha apartado de Israel'.",
+  "catholic": "",
+  "know": [
+   "Hijo de Elí; hermano de Jofní",
+   "Abusó de los sacrificios y de las mujeres que servían en el santuario",
+   "Padre de Icabod y de Ajitub"
+  ]
+ },
+ "simon-the-benjamite": {
+  "name": "Simón el benjaminita",
+  "role": "Administrador del Templo",
+  "summary": "El funcionario del Templo que se enemistó con Onías III y delató el tesoro del Templo a los seléucidas, lo que provocó la misión de Heliodoro; siguió calumniando a Onías.",
+  "catholic": "",
+  "know": [
+   "Informó a Apolonio de las riquezas del Templo (2 Mac 3,4-6).",
+   "Hermano de Menelao (2 Mac 4,23)."
+  ]
+ },
+ "zippor": {
+  "name": "Sipor",
+  "role": "Padre de Balac",
+  "summary": "Padre de Balac, rey de Moab.",
+  "catholic": "",
+  "know": [
+   "Padre de Balac (Nm 22,2)."
+  ]
+ },
+ "azariah-son-of-ahimaaz": {
+  "name": "Azarías hijo de Ajimaas",
+  "role": "Sacerdote (linaje de Aarón)",
+  "summary": "Azarías hijo de Ajimaas figura en la línea de sumos sacerdotes de Eleazar, hijo de Aarón, en 1 Crónicas 6. 1 Reyes 4,2 menciona a un 'Azarías, hijo de Sadoc' como sacerdote de Salomón, probablemente el mismo hombre (nieto de Sadoc).",
+  "catholic": "",
+  "know": [
+   "Forma parte de la línea aarónica desde Eleazar hasta el Exilio"
+  ]
+ },
+ "beriah-son-of-asher": {
+  "name": "Beriá (hijo de Aser)",
+  "role": "Hijo de Aser",
+  "summary": "Un hijo de Aser que bajó a Egipto con la familia de Jacob.",
+  "catholic": "",
+  "know": [
+   "Figura entre los setenta de la casa de Jacob que llegaron a Egipto (Gn 46)",
+   "Padre de Jéber y Malquiel (Gn 46,17)"
+  ]
+ },
+ "elishama-son-of-ammihud": {
+  "name": "Elisamá",
+  "role": "Príncipe de Efraín",
+  "summary": "Hijo de Amihud y jefe de la tribu de Efraín en el desierto. Ayudó a Moisés en el censo del Sinaí, condujo la división de Efraín durante la marcha y presentó la ofrenda de la tribu en la dedicación del altar. Según 1 Crónicas 7,26-27 fue el abuelo de Josué.",
+  "catholic": "",
+  "know": [
+   "Hijo de Amihud, príncipe de Efraín (Nm 1).",
+   "Ayudó a Moisés y a Aarón a hacer el censo.",
+   "Llevó la ofrenda de Efraín para la dedicación del altar (Nm 7,48).",
+   "1 Crónicas 7,26-27 presenta a Elisamá hijo de Amihud como padre de Nun y abuelo de Josué."
+  ]
+ },
+ "hezron-son-of-reuben": {
+  "name": "Jesrón (hijo de Rubén)",
+  "role": "Hijo de Rubén",
+  "summary": "Un hijo de Rubén que bajó a Egipto con la familia de Jacob.",
+  "catholic": "",
+  "know": [
+   "Figura entre los setenta de la casa de Jacob que llegaron a Egipto (Gn 46)",
+   "No es Jesrón hijo de Peres"
+  ]
+ },
+ "jehohanan-son-of-eliashib": {
+  "name": "Yehojanán hijo de Elyasib",
+  "role": "Sacerdote",
+  "summary": "Hijo del sacerdote Elyasib, en cuya habitación del Templo Esdras ayunó e hizo duelo por la infidelidad del pueblo; listas posteriores mencionan a un Yojanán en la sucesión de los sumos sacerdotes.",
+  "catholic": "",
+  "know": [
+   "Esdras hizo duelo en su aposento (Esd 10,6).",
+   "Probablemente el 'Yojanán hijo de Elyasib' de Neh 12,22-23."
+  ]
+ },
+ "jonathan-son-of-abiathar": {
+  "name": "Jonatán hijo de Abiatar",
+  "role": "Mensajero",
+  "summary": "Jonatán, hijo del sacerdote Abiatar, llevó mensajes a David durante la rebelión de Absalón y más tarde llevó a Adonías la noticia de que Salomón había sido proclamado rey.",
+  "catholic": "",
+  "know": [
+   "Se escondió en un pozo en Bajurim con Ajimaas",
+   "Anunció la unción de Salomón en el banquete de Adonías"
+  ]
+ },
+ "mica-son-of-mephibosheth": {
+  "name": "Micá",
+  "role": "Hijo de Mefibóset",
+  "summary": "Micá, hijo pequeño de Mefibóset, continuó la línea de Saúl y Jonatán.",
+  "catholic": "",
+  "know": [
+   "Llamado Miqueas en 1 Crónicas"
+  ]
+ },
+ "philip-regent": {
+  "name": "Filipo (regente de Antíoco IV)",
+  "role": "Regente seléucida",
+  "summary": "Uno de los amigos de Antíoco IV a quien el rey moribundo puso al frente de su reino y le confió a su hijo; Lisias lo expulsó de Antioquía. Llevó a casa el cuerpo del rey y, por temor a Antíoco V, se retiró a Egipto.",
+  "catholic": "",
+  "know": [
+   "Llamado 'hermano de leche' del rey (2 Mac 9,29).",
+   "Arrebató Antioquía a Lisias (1 Mac 6,55-63).",
+   "Distinto de Filipo el frigio, gobernador de Jerusalén (2 Mac 5,22)."
+  ]
+ },
+ "serug": {
+  "name": "Serug",
+  "role": "Patriarca posdiluviano",
+  "summary": "Hijo de Reú y padre de Najor, el abuelo de Abrahán.",
+  "catholic": "",
+  "know": [
+   "Figura en Lucas 3,35"
+  ]
+ },
+ "timna": {
+  "name": "Timná",
+  "role": "Concubina de Elifaz",
+  "summary": "Concubina de Elifaz, hijo de Esaú, y madre de Amalec; también se la llama hermana del jefe horita Lotán.",
+  "catholic": "",
+  "know": [
+   "Madre de Amalec (Gn 36,12)",
+   "Hermana de Lotán el horita (Gn 36,22)"
+  ]
+ },
+ "adah-wife-of-esau": {
+  "name": "Adá (mujer de Esaú)",
+  "role": "Mujer de Esaú",
+  "summary": "Mujer de Esaú, hija de Elón el hitita y madre de su primogénito Elifaz.",
+  "catholic": "",
+  "know": [
+   "Madre de Elifaz (Gn 36,4)",
+   "Probablemente la misma mujer llamada Basmat, hija de Elón, en Gn 26,34"
+  ]
+ },
+ "ahitub-son-of-phinehas": {
+  "name": "Ajitub",
+  "role": "Sacerdote, nieto de Elí",
+  "summary": "Ajitub, hijo de Pinjás y nieto de Elí, fue el padre de los sacerdotes Ajías y Ajimélec de Nob.",
+  "catholic": "",
+  "know": [
+   "Hermano de Icabod",
+   "Padre de Ajimélec, el sacerdote de Nob"
+  ]
+ },
+ "bildad": {
+  "name": "Bildad de Súaj",
+  "role": "Amigo de Job",
+  "summary": "El segundo de los amigos de Job, que defendió la tradición de los antiguos e insistió en que Dios no rechaza al íntegro, dando a entender que los hijos de Job murieron por sus pecados.",
+  "catholic": "",
+  "know": [
+   "Habla en Job 8, 18, 25.",
+   "Reprendido por Dios (Job 42,7-9)."
+  ]
+ },
+ "eliab": {
+  "name": "Eliab",
+  "role": "Hermano mayor de David",
+  "summary": "Eliab, el primogénito de Jesé, era tan imponente que Samuel pensó que era el ungido del Señor, pero Dios 'mira el corazón'. En el valle de Elá regañó a David por haber ido a la batalla.",
+  "catholic": "",
+  "know": [
+   "Rechazado a pesar de su estatura",
+   "Sirvió en el ejército de Saúl"
+  ]
+ },
+ "elizur": {
+  "name": "Elisur",
+  "role": "Príncipe de Rubén",
+  "summary": "Hijo de Sedeur y jefe de la tribu de Rubén en el desierto. Ayudó a Moisés en el censo del Sinaí, condujo la división de Rubén durante la marcha y presentó la ofrenda de la tribu en la dedicación del altar.",
+  "catholic": "",
+  "know": [
+   "Hijo de Sedeur, príncipe de Rubén (Nm 1).",
+   "Ayudó a Moisés y a Aarón a hacer el censo.",
+   "Llevó la ofrenda de Rubén para la dedicación del altar (Nm 7,30)."
+  ]
+ },
+ "hadad-the-edomite": {
+  "name": "Hadad el edomita",
+  "role": "Adversario de Salomón",
+  "summary": "Hadad, de la casa real edomita, escapó de niño de la matanza de Joab, creció en Egipto, donde se casó con la cuñada del faraón, y regresó para oponerse a Salomón.",
+  "catholic": "",
+  "know": [
+   "Suscitado por Dios como adversario de Salomón"
+  ]
+ },
+ "hathach": {
+  "name": "Hatac",
+  "role": "Chambelán de Ester",
+  "summary": "El chambelán que llevó los mensajes entre Ester y Mardoqueo durante la crisis.",
+  "catholic": "",
+  "know": [
+   "Llevó el mensaje de Mardoqueo 'para una ocasión como esta' (Est 4,9-14)."
+  ]
+ },
+ "jason": {
+  "name": "Jasón",
+  "role": "Anfitrión de Pablo en Tesalónica",
+  "summary": "Jasón acogió a Pablo y a Silas en su casa de Tesalónica. Una turba asaltó la casa y arrastró a Jasón ante los magistrados de la ciudad, acusando a los que 'han revolucionado el mundo entero'; tuvo que dar una fianza antes de ser puesto en libertad.",
+  "catholic": "",
+  "know": [
+   "Su casa fue asaltada por una turba (Hch 17,5-9).",
+   "Un Jasón, pariente de Pablo, envía saludos en Romanos 16,21; puede ser el mismo hombre, pero no es seguro."
+  ]
+ },
+ "john-father-of-peter": {
+  "name": "Juan (Jonás), padre de Pedro",
+  "role": "Padre de Pedro y Andrés",
+  "summary": "El padre de Simón Pedro y de Andrés es nombrado en las palabras de Jesús 'Simón, hijo de Jonás' (Mt 16,17) y 'Simón, hijo de Jonás' (Jn 1,42; 21,15-17).",
+  "catholic": "",
+  "know": [
+   "La World English Bible lee 'Jonás'; muchos manuscritos y traducciones de Juan leen 'Juan'.",
+   "Padre de los apóstoles Pedro y Andrés."
+  ]
+ },
+ "malchishua": {
+  "name": "Malquisúa",
+  "role": "Hijo de Saúl",
+  "summary": "Malquisúa, hijo de Saúl, fue muerto por los filisteos junto con su padre y sus hermanos en el monte Gelboé.",
+  "catholic": "",
+  "know": [
+   "Murió en Gelboé"
+  ]
+ },
+ "pallu": {
+  "name": "Palú",
+  "role": "Hijo de Rubén",
+  "summary": "Hijo de Rubén que bajó a Egipto con Jacob; antepasado del clan de los paluitas y abuelo de Datán y Abirón.",
+  "catholic": "",
+  "know": [
+   "Figura entre los setenta de la casa de Jacob que llegaron a Egipto (Gn 46)",
+   "Antepasado de Datán y Abirón (Nm 26,8-9)",
+   "Hijo de Rubén (Gn 46,9).",
+   "Padre de Eliab (Nm 26,8)."
+  ]
+ },
+ "shemaiah-prophet": {
+  "name": "Semaías",
+  "role": "Profeta",
+  "summary": "Semaías, el hombre de Dios, dijo a Roboán que no combatiera contra las tribus del norte, 'porque esto ha sucedido por voluntad mía', y el ejército volvió a casa. Cuando Sisac invadió el país, dijo a los jefes de Judá que habían abandonado a Dios; ellos se humillaron y se libraron de la destrucción total.",
+  "catholic": "",
+  "know": [
+   "Evitó la guerra civil tras el cisma",
+   "Llamó a Judá al arrepentimiento ante Sisac"
+  ]
+ },
+ "abinadab-of-kiriath-jearim": {
+  "name": "Abinadab de Quiriat Yearim",
+  "role": "Guardián del Arca",
+  "summary": "Cuando los filisteos devolvieron el Arca, fue llevada a la casa de Abinadab, en la colina de Quiriat Yearim, donde permaneció unos veinte años hasta que David vino a trasladarla.",
+  "catholic": "",
+  "know": [
+   "El Arca permaneció en su casa durante décadas",
+   "Padre de Eleazar, Uzá y Ajió"
+  ]
+ },
+ "ahaz-son-of-micah": {
+  "name": "Ajaz",
+  "role": "Descendiente de Saúl",
+  "summary": "Hijo de Micá en la genealogía de Benjamín, casa de Saúl (1 Cr 8,35; 9,41; 8,36; 9,42).",
+  "catholic": "",
+  "know": []
+ },
+ "arioch": {
+  "name": "Aryoc",
+  "role": "Jefe de la guardia del rey",
+  "summary": "Aryoc fue enviado a ejecutar a los sabios de Babilonia cuando ninguno pudo decirle a Nabucodonosor su sueño; la prudente pregunta de Daniel ganó tiempo, y Aryoc llevó a Daniel ante el rey.",
+  "catholic": "",
+  "know": [
+   "No es el rey Aryoc de Génesis 14."
+  ]
+ },
+ "baanah-son-of-rimmon": {
+  "name": "Baaná hijo de Rimón",
+  "role": "Asesino",
+  "summary": "Baaná, hermano de Recab, participó en el asesinato de Isbóset y fue ejecutado por David.",
+  "catholic": "",
+  "know": [
+   "Asesinó a Isbóset junto con Recab"
+  ]
+ },
+ "carmi-son-of-reuben": {
+  "name": "Carmí (hijo de Rubén)",
+  "role": "Hijo de Rubén",
+  "summary": "Un hijo de Rubén que bajó a Egipto con la familia de Jacob.",
+  "catholic": "",
+  "know": [
+   "Figura entre los setenta de la casa de Jacob que llegaron a Egipto (Gn 46)",
+   "No es Carmí de Judá, padre de Acán"
+  ]
+ },
+ "eglon-king-of-moab": {
+  "name": "Eglón",
+  "role": "Rey de Moab",
+  "summary": "Rey de Moab que, aliado con Amón y Amalec, tomó Jericó (la ciudad de las palmeras) y dominó a Israel durante dieciocho años, hasta que Ehúd lo asesinó.",
+  "catholic": "",
+  "know": [
+   "Dominó a Israel dieciocho años (Jue 3,14).",
+   "Descrito como muy gordo (Jue 3,17).",
+   "Muerto por Ehúd."
+  ]
+ },
+ "elishama-son-of-david": {
+  "name": "Elisamá",
+  "role": "Hijo de David",
+  "summary": "Elisamá fue un hijo de David nacido en Jerusalén.",
+  "catholic": "",
+  "know": [
+   "Nacido en Jerusalén"
+  ]
+ },
+ "geshem": {
+  "name": "Guésem el árabe",
+  "role": "Jefe árabe (opositor)",
+  "summary": "Un jefe árabe que se unió a Sanbalat y a Tobías para burlarse de Nehemías y difundir el rumor de que planeaba rebelarse y proclamarse rey.",
+  "catholic": "",
+  "know": [
+   "También llamado Gasmú (Neh 6,6)."
+  ]
+ },
+ "hanoch-son-of-reuben": {
+  "name": "Henoc (hijo de Rubén)",
+  "role": "Hijo de Rubén",
+  "summary": "Un hijo de Rubén que bajó a Egipto con la familia de Jacob.",
+  "catholic": "",
+  "know": [
+   "Figura entre los setenta de la casa de Jacob que llegaron a Egipto (Gn 46)"
+  ]
+ },
+ "husham": {
+  "name": "Jusam",
+  "role": "Rey de Edom",
+  "summary": "Jusam, del país de los temanitas, sucedió a Jobab como rey de Edom (Gn 36,34; 1 Cr 1,45).",
+  "catholic": "",
+  "know": []
+ },
+ "javan": {
+  "name": "Yaván",
+  "role": "Hijo de Jafet",
+  "summary": "Un hijo de Jafet que figura en la Tabla de las Naciones como antepasado de un pueblo.",
+  "catholic": "",
+  "know": [
+   "Asociado con los griegos (jonios)"
+  ]
+ },
+ "jobab-king-of-edom": {
+  "name": "Jobab",
+  "role": "Rey de Edom",
+  "summary": "Jobab, hijo de Zéraj, de Bosrá, sucedió a Bela como rey de Edom (Gn 36,33; 1 Cr 1,44).",
+  "catholic": "",
+  "know": []
+ },
+ "joseph-luke-3-24": {
+  "name": "José",
+  "role": "Antepasado de Jesús (Lucas 3)",
+  "summary": "José, hijo de Matatías, aparece solo en la genealogía de Jesús según Lucas, que va desde José, pasando por Natán, hijo de David, hasta Adán; figura como padre de Yanay (Lc 3,24).",
+  "catholic": "",
+  "know": [
+   "Mencionado solo en la genealogía de Lucas (Lc 3,24).",
+   "Hijo de Matatías; padre de Yanay."
+  ]
+ },
+ "lotan": {
+  "name": "Lotán",
+  "role": "Jefe horita",
+  "summary": "Hijo de Seír el horita en la genealogía de Seír el horita (Gn 36,20; 36,22; 1 Cr 1,38-39).",
+  "catholic": "",
+  "know": []
+ },
+ "merab": {
+  "name": "Merab",
+  "role": "Hija de Saúl",
+  "summary": "Merab, la hija mayor de Saúl, fue prometida a David pero entregada en cambio a Adriel de Mejolá; sus cinco hijos fueron entregados más tarde a los gabaonitas.",
+  "catholic": "",
+  "know": [
+   "Prometida a David, casada con Adriel"
+  ]
+ },
+ "moza-son-of-zimri": {
+  "name": "Mosá",
+  "role": "Descendiente de Saúl",
+  "summary": "Hijo de Zimrí en la genealogía de Benjamín, casa de Saúl (1 Cr 8,36-37; 9,42-43).",
+  "catholic": "",
+  "know": []
+ },
+ "numenius": {
+  "name": "Numenio hijo de Antíoco",
+  "role": "Enviado judío",
+  "summary": "Enviado de Jonatán y más tarde de Simón a Roma y a Esparta, que llevó a Roma un gran escudo de oro y regresó con cartas que garantizaban la independencia judía.",
+  "catholic": "",
+  "know": [
+   "Enviado tanto bajo Jonatán como bajo Simón."
+  ]
+ },
+ "pharaoh-of-abraham": {
+  "name": "Faraón (en tiempos de Abrahán)",
+  "role": "Rey de Egipto",
+  "summary": "El rey de Egipto, cuyo nombre no se indica, que tomó a Saray en su casa cuando Abrán, temiendo por su vida, dijo que era su hermana. Dios hirió la casa del faraón con plagas, y él devolvió a Saray y despidió a Abrán.",
+  "catholic": "",
+  "know": [
+   "La Escritura no da su nombre",
+   "Dios protegió a Saray con plagas sobre su casa (Gn 12,17)"
+  ]
+ },
+ "shallum-king-of-israel": {
+  "name": "Salún",
+  "role": "Rey de Israel",
+  "summary": "Salún, hijo de Yabés, mató a Zacarías y reinó un mes en Samaría antes de que Menajén lo matara.",
+  "catholic": "",
+  "know": [
+   "Reinó un mes"
+  ]
+ },
+ "sheshbazzar": {
+  "name": "Sesbasar",
+  "role": "Príncipe de Judá",
+  "summary": "El 'príncipe de Judá' a quien Ciro entregó los utensilios del Templo por medio del tesorero Mitrídates; él los llevó de vuelta a Jerusalén y puso los cimientos de la casa de Dios. Se discute si es la misma persona que Zorobabel o su predecesor como gobernador.",
+  "catholic": "",
+  "know": [
+   "Recibió los 5.400 utensilios de oro y plata (Esd 1,8-11).",
+   "Nombrado gobernador por Ciro (Esd 5,14).",
+   "A veces identificado con Zorobabel."
+  ]
+ },
+ "shobal-son-of-hur": {
+  "name": "Sobal",
+  "role": "Descendiente de Judá",
+  "summary": "Hijo de Jur en la genealogía de Judá, casa de Jur (1 Cr 2,50; 2,52; 4,1-2). Llamado 'el padre de Quiriat Yearim'.",
+  "catholic": "",
+  "know": []
+ },
+ "uzzi": {
+  "name": "Uzí",
+  "role": "Sacerdote (linaje de Aarón)",
+  "summary": "Uzí figura en la línea de sumos sacerdotes de Eleazar, hijo de Aarón, en 1 Crónicas 6.",
+  "catholic": "",
+  "know": [
+   "Forma parte de la línea aarónica desde Eleazar hasta el Exilio"
+  ]
+ },
+ "abinadab-son-of-jesse": {
+  "name": "Abinadab hijo de Jesé",
+  "role": "Hermano de David",
+  "summary": "Abinadab, el segundo hijo de Jesé, fue descartado por Samuel y sirvió en el ejército de Saúl contra Goliat.",
+  "catholic": "",
+  "know": [
+   "Segundo hijo de Jesé"
+  ]
+ },
+ "ahiman": {
+  "name": "Ajimán",
+  "role": "Anaquita de Hebrón",
+  "summary": "Uno de los tres hijos de Anac que vivían en Hebrón cuando llegaron los exploradores; Caleb (y Judá) los expulsaron más tarde.",
+  "catholic": "",
+  "know": [
+   "Hijo de Anac en Hebrón (Nm 13,22).",
+   "Expulsado por Caleb (Jos 15,14; Jue 1,10)."
+  ]
+ },
+ "amariah-son-of-meraioth": {
+  "name": "Amarías hijo de Merayot",
+  "role": "Sacerdote (linaje de Aarón)",
+  "summary": "Amarías hijo de Merayot figura en la línea de sumos sacerdotes de Eleazar, hijo de Aarón, en 1 Crónicas 6.",
+  "catholic": "",
+  "know": [
+   "Forma parte de la línea aarónica desde Eleazar hasta el Exilio"
+  ]
+ },
+ "anah-son-of-seir": {
+  "name": "Aná",
+  "role": "Jefe horita",
+  "summary": "Hijo de Seír el horita en la genealogía de Seír el horita (Gn 36,20; 36,29; 1 Cr 1,38). Distinto de Aná hijo de Sibeón (Gn 36,24).",
+  "catholic": "",
+  "know": []
+ },
+ "ashbel": {
+  "name": "Asbel",
+  "role": "Hijo de Benjamín",
+  "summary": "Un hijo de Benjamín que bajó a Egipto con la familia de Jacob.",
+  "catholic": "",
+  "know": [
+   "Figura entre los setenta de la casa de Jacob que llegaron a Egipto (Gn 46)"
+  ]
+ },
+ "bernice": {
+  "name": "Berenice",
+  "role": "Princesa herodiana",
+  "summary": "Berenice era hermana del rey Agripa II y lo acompañó con gran pompa cuando Pablo presentó su defensa ante Festo en Cesarea.",
+  "catholic": "",
+  "know": [
+   "Hija de Herodes Agripa I y hermana de Agripa II (según Josefo).",
+   "Presente en la audiencia de Pablo (Hch 25,23; 26,30)."
+  ]
+ },
+ "charmis": {
+  "name": "Jarmís",
+  "role": "Anciano de Betulia",
+  "summary": "Jarmís hijo de Melquiel, uno de los tres jefes de Betulia.",
+  "catholic": "",
+  "know": [
+   "Vio a Judit salir de la ciudad (Jdt 10,6)."
+  ]
+ },
+ "eleazar-avaran": {
+  "name": "Eleazar Avarán",
+  "role": "Hijo de Matatías",
+  "summary": "El cuarto hijo de Matatías, apodado Avarán. En la batalla de Bet Zacarías corrió bajo el más alto de los elefantes de guerra reales, pensando que el rey iba montado en él, lo hirió desde abajo y murió aplastado cuando cayó, dando su vida 'para ganarse un nombre eterno'.",
+  "catholic": "",
+  "know": [
+   "Apodado Avarán (1 Mac 2,5).",
+   "Murió bajo un elefante (1 Mac 6,43-46).",
+   "El 'Eleazar' que leyó el libro sagrado antes de la batalla (2 Mac 8,23) es probablemente él."
+  ]
+ },
+ "elishama-the-scribe": {
+  "name": "Elisamá el escriba",
+  "role": "Escriba real",
+  "summary": "Elisamá era el escriba real en cuyo aposento se reunieron los príncipes y donde se guardó el rollo de Jeremías antes de que fuera leído a Yoyaquim.",
+  "catholic": "",
+  "know": []
+ },
+ "ephrath": {
+  "name": "Efrat",
+  "role": "Mujer de Caleb hijo de Jesrón",
+  "summary": "Efrat (Efratá) se casó con Caleb hijo de Jesrón tras la muerte de Azubá y dio a luz a Jur, el abuelo de Besalel y antepasado de los clanes de Belén (1 Cr 2,19.50; 4,4).",
+  "catholic": "",
+  "know": []
+ },
+ "guni": {
+  "name": "Guní",
+  "role": "Hijo de Neftalí",
+  "summary": "Un hijo de Neftalí que bajó a Egipto con la familia de Jacob.",
+  "catholic": "",
+  "know": [
+   "Figura entre los setenta de la casa de Jacob que llegaron a Egipto (Gn 46)"
+  ]
+ },
+ "helkias-father-of-susanna": {
+  "name": "Jelcías",
+  "role": "Padre de Susana",
+  "summary": "Jelcías era el justo padre de Susana, que junto con su mujer le enseñó la ley de Moisés y alabó a Dios cuando ella fue declarada inocente.",
+  "catholic": "",
+  "know": [
+   "Forma griega de Jilquías."
+  ]
+ },
+ "imnah": {
+  "name": "Yimná",
+  "role": "Hijo de Aser",
+  "summary": "Un hijo de Aser que bajó a Egipto con la familia de Jacob.",
+  "catholic": "",
+  "know": [
+   "Figura entre los setenta de la casa de Jacob que llegaron a Egipto (Gn 46)"
+  ]
+ },
+ "japhia": {
+  "name": "Yafía",
+  "role": "Hijo de David",
+  "summary": "Yafía fue un hijo de David nacido en Jerusalén.",
+  "catholic": "",
+  "know": [
+   "Nacido en Jerusalén"
+  ]
+ },
+ "jezer": {
+  "name": "Yéser",
+  "role": "Hijo de Neftalí",
+  "summary": "Un hijo de Neftalí que bajó a Egipto con la familia de Jacob.",
+  "catholic": "",
+  "know": [
+   "Figura entre los setenta de la casa de Jacob que llegaron a Egipto (Gn 46)"
+  ]
+ },
+ "judah-luke-3-26": {
+  "name": "Judá",
+  "role": "Antepasado de Jesús (Lucas 3)",
+  "summary": "Judá, hijo de Joanán, aparece solo en la genealogía de Jesús según Lucas, que va desde José, pasando por Natán, hijo de David, hasta Adán; figura como padre de José (Lc 3,26).",
+  "catholic": "",
+  "know": [
+   "Mencionado solo en la genealogía de Lucas (Lc 3,26).",
+   "Hijo de Joanán; padre de José."
+  ]
+ },
+ "mahseiah": {
+  "name": "Majsías",
+  "role": "Abuelo de Baruc",
+  "summary": "Majsías fue el padre de Nerías y abuelo de Baruc y de Seraías.",
+  "catholic": "",
+  "know": [
+   "Llamado 'Maasías' en Bar 1,1."
+  ]
+ },
+ "mica-son-of-zichri": {
+  "name": "Micá",
+  "role": "Levita",
+  "summary": "Hijo de Zicrí en la genealogía de los levitas que repoblaron Jerusalén (1 Cr 9,15; Neh 11,17; 11,22).",
+  "catholic": "",
+  "know": []
+ },
+ "nahath-son-of-reuel": {
+  "name": "Nájat",
+  "role": "Jefe edomita",
+  "summary": "Hijo de Reuel en la genealogía de Esaú (Edom) (Gn 36,13; 36,17; 1 Cr 1,37).",
+  "catholic": "",
+  "know": []
+ },
+ "phicol": {
+  "name": "Picol",
+  "role": "Jefe del ejército de Abimélec",
+  "summary": "Capitán del ejército de Abimélec, rey de Guerar, presente en las alianzas con Abrahán y con Isaac.",
+  "catholic": "",
+  "know": [
+   "Testigo de los juramentos en Berseba (Gn 21,22.32; 26,26)"
+  ]
+ },
+ "ptolemy-son-of-abubus": {
+  "name": "Tolomeo hijo de Abubo",
+  "role": "Gobernador de Jericó",
+  "summary": "Yerno de Simón, gobernador de la llanura de Jericó, que, ambicionando gobernar el país, asesinó a Simón y a dos de sus hijos en un banquete en la fortaleza de Doc e intentó matar a Juan Hircano.",
+  "catholic": "",
+  "know": [
+   "'El yerno del sumo sacerdote' (1 Mac 16,12).",
+   "Asesinó a Simón en Doc (1 Mac 16,16)."
+  ]
+ },
+ "shallum-son-of-kore": {
+  "name": "Salún",
+  "role": "Portero",
+  "summary": "Salún hijo de Coré, un coreíta, era el jefe de los porteros de la casa del Señor entre los que repoblaron Jerusalén (1 Cr 9,17-19).",
+  "catholic": "",
+  "know": []
+ },
+ "shemida": {
+  "name": "Semidá",
+  "role": "Descendiente de Manasés",
+  "summary": "Hijo de Galaad en la genealogía de Manasés (Nm 26,32; Jos 17,2; 1 Cr 7,19).",
+  "catholic": "",
+  "know": []
+ },
+ "shobab": {
+  "name": "Sobab",
+  "role": "Hijo de David",
+  "summary": "Sobab, hijo de David y Betsabé, nació en Jerusalén.",
+  "catholic": "",
+  "know": [
+   "Nacido en Jerusalén"
+  ]
+ },
+ "talmai": {
+  "name": "Talmay",
+  "role": "Rey de Guesur",
+  "summary": "Talmay hijo de Amihud, rey de Guesur, fue suegro de David; Absalón se refugió junto a él durante tres años después de matar a Amnón.",
+  "catholic": "",
+  "know": [
+   "Abuelo de Absalón"
+  ]
+ },
+ "toah": {
+  "name": "Tóaj",
+  "role": "Levita",
+  "summary": "Hijo de Suf en la genealogía de Leví, entre los quehatitas (1 Cr 6,26; 6,34; 1 Sm 1,1). En la ascendencia de Samuel y de Hemán el cantor.",
+  "catholic": "",
+  "know": []
+ },
+ "zadok-son-of-ahitub": {
+  "name": "Sadoc hijo de Ajitub (II)",
+  "role": "Sacerdote (linaje de Aarón)",
+  "summary": "Sadoc hijo de Ajitub (II) figura en la línea de sumos sacerdotes de Eleazar, hijo de Aarón, en 1 Crónicas 6.",
+  "catholic": "",
+  "know": [
+   "Forma parte de la línea aarónica desde Eleazar hasta el Exilio"
+  ]
+ },
+ "zeeb": {
+  "name": "Zeeb",
+  "role": "Príncipe de Madián",
+  "summary": "Uno de los dos príncipes de Madián durante la guerra de Gedeón, capturado y muerto por los efraimitas en el lagar de Zeeb; su cabeza fue llevada a Gedeón.",
+  "catholic": "",
+  "know": [
+   "Príncipe de Madián (Jue 7,25).",
+   "Recordado en Sal 83,11 entre los enemigos de Dios derrotados."
+  ]
+ },
+ "zeresh": {
+  "name": "Zeres",
+  "role": "Mujer de Amán",
+  "summary": "La mujer de Amán, que le aconsejó levantar la horca para Mardoqueo y más tarde le advirtió que no podría prevalecer contra Mardoqueo si este era judío.",
+  "catholic": "",
+  "know": [
+   "Sugirió la horca (Est 5,14).",
+   "Predijo la caída de Amán (Est 6,13)."
+  ]
+ },
+ "abdon-son-of-jeiel": {
+  "name": "Abdón",
+  "role": "Benjaminita de Gabaón",
+  "summary": "Hijo de Yeiel y Maacá en la genealogía de Benjamín, casa de Saúl (1 Cr 8,30; 9,36).",
+  "catholic": "",
+  "know": []
+ },
+ "abiel": {
+  "name": "Abiel",
+  "role": "Abuelo de Saúl",
+  "summary": "Abiel, un benjaminita, fue el padre de Quis (padre de Saúl) y de Ner (padre de Abner).",
+  "catholic": "",
+  "know": [
+   "Abuelo tanto de Saúl como de Abner"
+  ]
+ },
+ "abital": {
+  "name": "Abital",
+  "role": "Mujer de David",
+  "summary": "Abital dio a David su quinto hijo, Sefatías, en Hebrón.",
+  "catholic": "",
+  "know": [
+   "Madre de Sefatías"
+  ]
+ },
+ "adriel": {
+  "name": "Adriel",
+  "role": "Marido de Merab",
+  "summary": "Adriel de Mejolá, hijo de Barzilay, se casó con Merab, hija de Saúl.",
+  "catholic": "",
+  "know": [
+   "No es el mismo Barzilay que el amigo galaadita de David"
+  ]
+ },
+ "aiah-son-of-zibeon": {
+  "name": "Ayá",
+  "role": "Jefe horita",
+  "summary": "Hijo de Sibeón en la genealogía de Seír el horita (Gn 36,24; 1 Cr 1,40).",
+  "catholic": "",
+  "know": []
+ },
+ "alvan": {
+  "name": "Alván",
+  "role": "Jefe horita",
+  "summary": "Hijo de Sobal en la genealogía de Seír el horita (Gn 36,23; 1 Cr 1,40).",
+  "catholic": "",
+  "know": []
+ },
+ "ananias-high-priest": {
+  "name": "Ananías (sumo sacerdote)",
+  "role": "Sumo sacerdote",
+  "summary": "Ananías fue el sumo sacerdote que mandó golpear a Pablo en la boca durante su comparecencia ante el Sanedrín; Pablo replicó: '¡Dios te golpeará a ti, pared blanqueada!'. Después bajó a Cesarea con el orador Tértulo para acusar a Pablo ante Félix.",
+  "catholic": "",
+  "know": [
+   "Mandó golpear a Pablo en la boca (Hch 23,2).",
+   "Pablo se disculpó al saber que era el sumo sacerdote, citando Éxodo 22,28 (Hch 23,5).",
+   "Acusó a Pablo ante Félix (Hch 24,1)."
+  ]
+ },
+ "appaim": {
+  "name": "Apáin",
+  "role": "Descendiente de Judá",
+  "summary": "Hijo de Nadab en la genealogía de Judá, entre los yerajmeelitas (1 Cr 2,30-31).",
+  "catholic": "",
+  "know": []
+ },
+ "areli": {
+  "name": "Arelí",
+  "role": "Hijo de Gad",
+  "summary": "Un hijo de Gad que bajó a Egipto con la familia de Jacob.",
+  "catholic": "",
+  "know": [
+   "Figura entre los setenta de la casa de Jacob que llegaron a Egipto (Gn 46)"
+  ]
+ },
+ "ashkenaz": {
+  "name": "Asquenaz",
+  "role": "Antepasado de una nación",
+  "summary": "Hijo de Gómer en la genealogía de la Tabla de las Naciones (Gn 10,3; 1 Cr 1,6).",
+  "catholic": "",
+  "know": []
+ },
+ "azariah-son-of-jehu": {
+  "name": "Azarías",
+  "role": "Descendiente de Judá",
+  "summary": "Hijo de Jehú en la genealogía de Judá, entre los yerajmeelitas (1 Cr 2,38-39).",
+  "catholic": "",
+  "know": []
+ },
+ "azmaveth-son-of-jehoaddah": {
+  "name": "Azmávet",
+  "role": "Descendiente de Saúl",
+  "summary": "Hijo de Yehoadá en la genealogía de Benjamín, casa de Saúl (1 Cr 8,36; 9,42).",
+  "catholic": "",
+  "know": []
+ },
+ "azubah-wife-of-caleb": {
+  "name": "Azubá",
+  "role": "Mujer de Caleb hijo de Jesrón",
+  "summary": "Azubá fue la mujer de Caleb hijo de Jesrón; tras su muerte, Caleb se casó con Efrat (1 Cr 2,18-19).",
+  "catholic": "",
+  "know": []
+ },
+ "bedad": {
+  "name": "Bedad",
+  "role": "Padre de un rey edomita",
+  "summary": "Bedad es el padre de Hadad, rey de Edom (Gn 36,35; 1 Cr 1,46).",
+  "catholic": "",
+  "know": []
+ },
+ "beriah-son-of-elpaal": {
+  "name": "Beriá",
+  "role": "Jefe de clan benjaminita",
+  "summary": "Hijo de Elpaal en la genealogía de Benjamín (1 Cr 8,13; 8,16). Él y Sema eran jefes en Ayalón y pusieron en fuga a los habitantes de Gat.",
+  "catholic": "",
+  "know": []
+ },
+ "cainan-son-of-arphaxad": {
+  "name": "Cainán, hijo de Arfaxad",
+  "role": "Antepasado de Jesús (Lucas 3)",
+  "summary": "Cainán aparece en la genealogía de Lucas entre Arfaxad y Sélaj ('hijo de Sélaj, hijo de Cainán, hijo de Arfaxad', Lc 3,35-36). Está ausente del texto hebreo de Génesis 11, pero presente en la Septuaginta griega, que Lucas sigue.",
+  "catholic": "",
+  "know": [
+   "Mencionado solo en Lucas 3,36 (y en la Septuaginta de Génesis 11).",
+   "Distinto de Cainán (Quenán), hijo de Enós, en Lucas 3,37.",
+   "Muestra el uso que Lucas hace del Antiguo Testamento griego."
+  ]
+ },
+ "claudius-caesar": {
+  "name": "Claudio",
+  "role": "Emperador romano",
+  "summary": "Claudio fue emperador romano (41-54 d. C.). Los Hechos sitúan en su reinado la hambruna predicha por Ágabo y señalan que expulsó de Roma a todos los judíos, lo que llevó a Áquila y Priscila a Corinto.",
+  "catholic": "",
+  "know": [
+   "La hambruna de Hch 11,28 ocurrió 'en tiempos de Claudio'.",
+   "Su edicto de expulsión de los judíos de Roma (Hch 18,2) también es mencionado por el historiador romano Suetonio."
+  ]
+ },
+ "crispus": {
+  "name": "Crispo",
+  "role": "Jefe de la sinagoga",
+  "summary": "Crispo, jefe de la sinagoga de Corinto, creyó en el Señor con toda su casa. Fue uno de los pocos corintios a quienes Pablo bautizó personalmente.",
+  "catholic": "",
+  "know": [
+   "Jefe de la sinagoga de Corinto (Hch 18,8).",
+   "Bautizado por el propio Pablo (1 Cor 1,14)."
+  ]
+ },
+ "dedan-son-of-jokshan": {
+  "name": "Dedán",
+  "role": "Descendiente de Queturá",
+  "summary": "Hijo de Yocsán en la genealogía de los descendientes de Abrahán por Queturá (Gn 25,3; 1 Cr 1,32).",
+  "catholic": "",
+  "know": []
+ },
+ "dishon-son-of-anah": {
+  "name": "Disón",
+  "role": "Jefe horita",
+  "summary": "Hijo de Aná en la genealogía de Seír el horita (Gn 36,25; 1 Cr 1,41).",
+  "catholic": "",
+  "know": []
+ },
+ "eglah": {
+  "name": "Eglá",
+  "role": "Mujer de David",
+  "summary": "Eglá dio a David su sexto hijo, Yitreán, en Hebrón.",
+  "catholic": "",
+  "know": [
+   "Madre de Yitreán"
+  ]
+ },
+ "eleasah-son-of-raphah": {
+  "name": "Elasá",
+  "role": "Descendiente de Saúl",
+  "summary": "Hijo de Rafá en la genealogía de Benjamín, casa de Saúl (1 Cr 8,37; 9,43).",
+  "catholic": "",
+  "know": []
+ },
+ "elishua": {
+  "name": "Elisúa",
+  "role": "Hijo de David",
+  "summary": "Elisúa fue un hijo de David nacido en Jerusalén (al parecer llamado Elisamá en 1 Cr 3,6).",
+  "catholic": "",
+  "know": [
+   "Nacido en Jerusalén"
+  ]
+ },
+ "elon-son-of-zebulun": {
+  "name": "Elón (hijo de Zabulón)",
+  "role": "Hijo de Zabulón",
+  "summary": "Un hijo de Zabulón que bajó a Egipto con la familia de Jacob.",
+  "catholic": "",
+  "know": [
+   "Figura entre los setenta de la casa de Jacob que llegaron a Egipto (Gn 46)",
+   "No es Elón el hitita ni Elón el juez"
+  ]
+ },
+ "ephah-son-of-midian": {
+  "name": "Efá",
+  "role": "Descendiente de Queturá",
+  "summary": "Hijo de Madián en la genealogía de los descendientes de Abrahán por Queturá (Gn 25,4; 1 Cr 1,33).",
+  "catholic": "",
+  "know": []
+ },
+ "eshcol-the-amorite": {
+  "name": "Escol",
+  "role": "Aliado amorreo de Abrahán",
+  "summary": "Un jefe amorreo aliado de Abrán que fue con él a rescatar a Lot y recibió una parte del botín.",
+  "catholic": "",
+  "know": [
+   "Hermano de Mamré y de Aner (Gn 14,13)"
+  ]
+ },
+ "evi": {
+  "name": "Eví",
+  "role": "Rey de Madián",
+  "summary": "Uno de los cinco reyes (príncipes) de Madián muertos por Israel en la guerra de venganza por lo de Peor, en la que también fue muerto Balaán; Josué 13,21 los llama príncipes de Sijón.",
+  "catholic": "",
+  "know": [
+   "Uno de los cinco reyes de Madián (Nm 31,8).",
+   "Muerto en la guerra de Israel contra Madián."
+  ]
+ },
+ "gaius-of-corinth": {
+  "name": "Gayo de Corinto",
+  "role": "Anfitrión de Pablo",
+  "summary": "Gayo fue uno de los pocos corintios a quienes Pablo bautizó él mismo y, cuando Pablo escribió Romanos desde Corinto, era 'mi anfitrión y el de toda la asamblea'.",
+  "catholic": "",
+  "know": [
+   "Bautizado por Pablo (1 Cor 1,14).",
+   "Hospedó a Pablo y a la Iglesia (Rom 16,23)."
+  ]
+ },
+ "gether": {
+  "name": "Guéter",
+  "role": "Antepasado de una nación",
+  "summary": "Hijo de Aram en la genealogía de la Tabla de las Naciones (Gn 10,23; 1 Cr 1,17).",
+  "catholic": "",
+  "know": []
+ },
+ "hanan-son-of-azel": {
+  "name": "Janán",
+  "role": "Descendiente de Saúl",
+  "summary": "Hijo de Asel en la genealogía de Benjamín, casa de Saúl (1 Cr 8,38; 9,44).",
+  "catholic": "",
+  "know": []
+ },
+ "hashabiah-merarite": {
+  "name": "Jasabías",
+  "role": "Levita",
+  "summary": "Hijo de Buní en la genealogía de los levitas que repoblaron Jerusalén (1 Cr 9,14; Neh 11,15).",
+  "catholic": "",
+  "know": []
+ },
+ "hazarmaveth": {
+  "name": "Jasarmávet",
+  "role": "Antepasado de una nación",
+  "summary": "Hijo de Yoctán en la genealogía de la Tabla de las Naciones (Gn 10,26; 1 Cr 1,20).",
+  "catholic": "",
+  "know": []
+ },
+ "hemam": {
+  "name": "Hemam",
+  "role": "Jefe horita",
+  "summary": "Hijo de Lotán en la genealogía de Seír el horita (Gn 36,22; 1 Cr 1,39).",
+  "catholic": "",
+  "know": []
+ },
+ "hobab": {
+  "name": "Jobab",
+  "role": "Guía madianita",
+  "summary": "Hijo de Reuel el madianita y cuñado de Moisés. Moisés lo instó a viajar con Israel y a servirles de 'ojos' en el desierto; sus descendientes, los quenitas, se establecieron más tarde en medio de Judá.",
+  "catholic": "",
+  "know": [
+   "Hijo de Reuel el madianita (Nm 10,29).",
+   "Llamado cuñado de Moisés (Jue 4,11).",
+   "Moisés le pidió que guiara a Israel por el desierto (Nm 10,31).",
+   "Antepasado de los quenitas, entre ellos Jéber, marido de Yael."
+  ]
+ },
+ "hur-king-of-midian": {
+  "name": "Jur",
+  "role": "Rey de Madián",
+  "summary": "Uno de los cinco reyes (príncipes) de Madián muertos por Israel en la guerra de venganza por lo de Peor, en la que también fue muerto Balaán; Josué 13,21 los llama príncipes de Sijón.",
+  "catholic": "",
+  "know": [
+   "Uno de los cinco reyes de Madián (Nm 31,8).",
+   "Muerto en la guerra de Israel contra Madián."
+  ]
+ },
+ "imlah": {
+  "name": "Yimlá",
+  "role": "Padre de Miqueas",
+  "summary": "Yimlá fue el padre del profeta Miqueas.",
+  "catholic": "",
+  "know": [
+   "Conocido solo como padre de Miqueas"
+  ]
+ },
+ "ishvah": {
+  "name": "Yisvá",
+  "role": "Hijo de Aser",
+  "summary": "Un hijo de Aser que bajó a Egipto con la familia de Jacob.",
+  "catholic": "",
+  "know": [
+   "Figura entre los setenta de la casa de Jacob que llegaron a Egipto (Gn 46)"
+  ]
+ },
+ "jaddua-high-priest": {
+  "name": "Yadúa",
+  "role": "Sumo sacerdote",
+  "summary": "Yadúa hijo de Jonatán es el último sumo sacerdote nombrado en la línea del Antiguo Testamento a partir de Josué (Neh 12,10-11.22).",
+  "catholic": "",
+  "know": []
+ },
+ "jair-father-of-mordecai": {
+  "name": "Yaír (padre de Mardoqueo)",
+  "role": "Padre de Mardoqueo",
+  "summary": "Padre de Mardoqueo, un benjaminita descendiente de Semeí y de Quis.",
+  "catholic": "",
+  "know": [
+   "Escrito Yaír (Est 1,1) y Jairo (Est 2,5)."
+  ]
+ },
+ "jehoaddah": {
+  "name": "Yehoadá",
+  "role": "Descendiente de Saúl",
+  "summary": "Hijo de Ajaz en la genealogía de Benjamín, casa de Saúl (1 Cr 8,36; 9,42).",
+  "catholic": "",
+  "know": []
+ },
+ "jerah": {
+  "name": "Yéraj",
+  "role": "Antepasado de una nación",
+  "summary": "Hijo de Yoctán en la genealogía de la Tabla de las Naciones (Gn 10,26; 1 Cr 1,20).",
+  "catholic": "",
+  "know": []
+ },
+ "joel-of-reuben": {
+  "name": "Joel",
+  "role": "Rubenita",
+  "summary": "Joel es el cabeza de una línea rubenita que se traza hasta Beerá, a quien Teglatfalasar deportó (1 Cr 5,4-8).",
+  "catholic": "",
+  "know": []
+ },
+ "jonathan-son-of-joiada": {
+  "name": "Jonatán (Yojanán)",
+  "role": "Sumo sacerdote",
+  "summary": "Jonatán hijo de Yoyadá, llamado Yojanán en Neh 12,22, fue sumo sacerdote después de su padre en el período persa (Neh 12,10-11.22).",
+  "catholic": "",
+  "know": []
+ },
+ "kish-son-of-jeiel": {
+  "name": "Quis",
+  "role": "Benjaminita de Gabaón",
+  "summary": "Hijo de Yeiel y Maacá en la genealogía de Benjamín, casa de Saúl (1 Cr 8,30; 9,36).",
+  "catholic": "",
+  "know": []
+ },
+ "levi-luke-3-24": {
+  "name": "Leví",
+  "role": "Antepasado de Jesús (Lucas 3)",
+  "summary": "Leví, hijo de Melquí, aparece solo en la genealogía de Jesús según Lucas, que va desde José, pasando por Natán, hijo de David, hasta Adán; figura como padre de Matat (Lc 3,24).",
+  "catholic": "",
+  "know": [
+   "Mencionado solo en la genealogía de Lucas (Lc 3,24).",
+   "Hijo de Melquí; padre de Matat."
+  ]
+ },
+ "maacah-wife-of-jeiel": {
+  "name": "Maacá",
+  "role": "Mujer de Yeiel",
+  "summary": "Maacá era la mujer de Yeiel, el padre de Gabaón (1 Cr 8,29; 9,35).",
+  "catholic": "",
+  "know": []
+ },
+ "maher-shalal-hash-baz": {
+  "name": "Maher Salal Jas Baz",
+  "role": "Hijo de Isaías",
+  "summary": "Segundo hijo de Isaías cuyo nombre se indica, nacido de 'la profetisa'. Su nombre ('pronto al saqueo, rápido al botín') anunciaba que Asiria saquearía Damasco y Samaría antes de que él supiera decir 'padre mío'.",
+  "catholic": "",
+  "know": [
+   "El nombre de persona más largo de la Biblia.",
+   "El nombre se escribió primero en una tablilla ante testigos (Is 8,1-2).",
+   "Una señal de que Siria e Israel, enemigos de Ajaz, caerían ante Asiria."
+  ]
+ },
+ "massa": {
+  "name": "Masá",
+  "role": "Hijo de Ismael",
+  "summary": "Un hijo de Ismael y antepasado de una tribu árabe.",
+  "catholic": "",
+  "know": [
+   "Uno de los doce príncipes descendientes de Ismael (Gn 25,16)"
+  ]
+ },
+ "matthat-luke-3-24": {
+  "name": "Matat",
+  "role": "Antepasado de Jesús (Lucas 3)",
+  "summary": "Matat, hijo de Leví, aparece solo en la genealogía de Jesús según Lucas, que va desde José, pasando por Natán, hijo de David, hasta Adán; figura como padre de Helí (Lc 3,24).",
+  "catholic": "",
+  "know": [
+   "Mencionado solo en la genealogía de Lucas (Lc 3,24).",
+   "Hijo de Leví; padre de Helí."
+  ]
+ },
+ "melchi-luke-3-24": {
+  "name": "Melquí",
+  "role": "Antepasado de Jesús (Lucas 3)",
+  "summary": "Melquí, hijo de Yanay, aparece solo en la genealogía de Jesús según Lucas, que va desde José, pasando por Natán, hijo de David, hasta Adán; figura como padre de Leví (Lc 3,24).",
+  "catholic": "",
+  "know": [
+   "Mencionado solo en la genealogía de Lucas (Lc 3,24).",
+   "Hijo de Yanay; padre de Leví."
+  ]
+ },
+ "mephibosheth-son-of-saul": {
+  "name": "Mefibóset hijo de Saúl",
+  "role": "Hijo de Saúl",
+  "summary": "Este Mefibóset, hijo de Saúl y de Rispá, fue ejecutado por los gabaonitas; es distinto del hijo cojo de Jonatán del mismo nombre.",
+  "catholic": "",
+  "know": [
+   "No es Mefibóset, el hijo de Jonatán"
+  ]
+ },
+ "mibsam": {
+  "name": "Mibsam",
+  "role": "Hijo de Ismael",
+  "summary": "Un hijo de Ismael y antepasado de una tribu árabe.",
+  "catholic": "",
+  "know": [
+   "Uno de los doce príncipes descendientes de Ismael (Gn 25,16)"
+  ]
+ },
+ "mishma-son-of-mibsam": {
+  "name": "Mismá",
+  "role": "Descendiente de Simeón",
+  "summary": "Hijo de Mibsam en la genealogía de Simeón (1 Cr 4,25-26).",
+  "catholic": "",
+  "know": []
+ },
+ "nadab-son-of-jeiel": {
+  "name": "Nadab",
+  "role": "Benjaminita de Gabaón",
+  "summary": "Hijo de Yeiel y Maacá en la genealogía de Benjamín, casa de Saúl (1 Cr 8,30; 9,36).",
+  "catholic": "",
+  "know": []
+ },
+ "nogah": {
+  "name": "Nogá",
+  "role": "Hijo de David",
+  "summary": "Nogá fue un hijo de David nacido en Jerusalén, que figura solo en Crónicas.",
+  "catholic": "",
+  "know": [
+   "Figura solo en Crónicas"
+  ]
+ },
+ "obed-son-of-ephlal": {
+  "name": "Obed",
+  "role": "Descendiente de Judá",
+  "summary": "Hijo de Eflal en la genealogía de Judá, entre los yerajmeelitas (1 Cr 2,37-38).",
+  "catholic": "",
+  "know": []
+ },
+ "ophir": {
+  "name": "Ofir",
+  "role": "Antepasado de una nación",
+  "summary": "Hijo de Yoctán en la genealogía de la Tabla de las Naciones (Gn 10,29; 1 Cr 1,23).",
+  "catholic": "",
+  "know": []
+ },
+ "pedaiah": {
+  "name": "Pedaías",
+  "role": "Hijo de Joaquín",
+  "summary": "Pedaías, hijo de Joaquín, es nombrado en el texto hebreo de 1 Cr 3,19 como padre de Zorobabel, mientras que Esdras, Ageo y los Evangelios llaman a Zorobabel 'hijo de Sealtiel'.",
+  "catholic": "",
+  "know": [
+   "Explicaciones posibles: matrimonio de levirato, o que Zorobabel fuera el heredero legal de Sealtiel"
+  ]
+ },
+ "pithon": {
+  "name": "Pitón",
+  "role": "Descendiente de Saúl",
+  "summary": "Hijo de Micá en la genealogía de Benjamín, casa de Saúl (1 Cr 8,35; 9,41).",
+  "catholic": "",
+  "know": []
+ },
+ "raamah": {
+  "name": "Ramá",
+  "role": "Antepasado de una nación",
+  "summary": "Hijo de Cus en la genealogía de la Tabla de las Naciones (Gn 10,7; 1 Cr 1,9).",
+  "catholic": "",
+  "know": []
+ },
+ "rekem-son-of-hebron": {
+  "name": "Réquem",
+  "role": "Descendiente de Judá",
+  "summary": "Hijo de Hebrón en la genealogía de Judá, entre los calebitas (1 Cr 2,43; 2,44).",
+  "catholic": "",
+  "know": []
+ },
+ "sabteca": {
+  "name": "Sabtecá",
+  "role": "Antepasado de una nación",
+  "summary": "Hijo de Cus en la genealogía de la Tabla de las Naciones (Gn 10,7; 1 Cr 1,9).",
+  "catholic": "",
+  "know": []
+ },
+ "salu": {
+  "name": "Salú",
+  "role": "Simeonita",
+  "summary": "Simeonita, padre de Zimrí.",
+  "catholic": "",
+  "know": [
+   "Padre de Zimrí (Nm 25,14)."
+  ]
+ },
+ "seraiah-son-of-neriah": {
+  "name": "Seraías hijo de Nerías",
+  "role": "Intendente",
+  "summary": "Seraías, hermano de Baruc, era el intendente mayor que viajó con el rey Sedecías a Babilonia. Jeremías le dio un rollo de oráculos contra Babilonia para que lo leyera allí, lo atara a una piedra y lo hundiera en el Éufrates, como señal de que Babilonia se hundiría y no se levantaría.",
+  "catholic": "",
+  "know": [
+   "Hermano de Baruc.",
+   "Realizó la acción simbólica de Jeremías de hundir el rollo en el Éufrates (Jr 51,59-64)."
+  ]
+ },
+ "shallum-husband-of-huldah": {
+  "name": "Salún hijo de Ticvá",
+  "role": "Encargado del vestuario",
+  "summary": "Salún hijo de Ticvá, encargado del vestuario, era el marido de la profetisa Juldá.",
+  "catholic": "",
+  "know": [
+   "Marido de Juldá"
+  ]
+ },
+ "shammai-son-of-rekem": {
+  "name": "Samay",
+  "role": "Descendiente de Judá",
+  "summary": "Hijo de Réquem en la genealogía de Judá, entre los calebitas (1 Cr 2,44-45).",
+  "catholic": "",
+  "know": []
+ },
+ "sheba-son-of-raamah": {
+  "name": "Sebá",
+  "role": "Antepasado de una nación",
+  "summary": "Hijo de Ramá en la genealogía de la Tabla de las Naciones (Gn 10,7; 1 Cr 1,9).",
+  "catholic": "",
+  "know": []
+ },
+ "sheleph": {
+  "name": "Sélef",
+  "role": "Antepasado de una nación",
+  "summary": "Hijo de Yoctán en la genealogía de la Tabla de las Naciones (Gn 10,26; 1 Cr 1,20).",
+  "catholic": "",
+  "know": []
+ },
+ "shephatiah-son-of-david": {
+  "name": "Sefatías",
+  "role": "Hijo de David",
+  "summary": "Sefatías fue el quinto hijo de David, nacido de Abital en Hebrón.",
+  "catholic": "",
+  "know": [
+   "Nacido en Hebrón"
+  ]
+ },
+ "shimei-son-of-zaccur": {
+  "name": "Semeí",
+  "role": "Descendiente de Simeón",
+  "summary": "Hijo de Zacur en la genealogía de Simeón (1 Cr 4,26-27). Tuvo dieciséis hijos y seis hijas.",
+  "catholic": "",
+  "know": []
+ },
+ "shuah": {
+  "name": "Súaj",
+  "role": "Hijo de Abrahán y Queturá",
+  "summary": "Un hijo que Abrahán tuvo de Queturá, enviado hacia el oriente con regalos.",
+  "catholic": "",
+  "know": [
+   "Hijo de Abrahán y Queturá (Gn 25,2)"
+  ]
+ },
+ "tahath-son-of-assir": {
+  "name": "Tájat",
+  "role": "Levita",
+  "summary": "Hijo de Asir en la genealogía de Leví, entre los quehatitas (1 Cr 6,24; 6,37).",
+  "catholic": "",
+  "know": []
+ },
+ "tertullus": {
+  "name": "Tértulo",
+  "role": "Orador (abogado)",
+  "summary": "Tértulo fue el orador que presentó ante Félix la causa del sumo sacerdote contra Pablo, adulando al gobernador y llamando a Pablo 'una peste' y 'cabecilla de la secta de los nazarenos'.",
+  "catholic": "",
+  "know": [
+   "Abogado del sumo sacerdote Ananías (Hch 24,1).",
+   "Llamó a Pablo 'cabecilla de la secta de los nazarenos' (Hch 24,5)."
+  ]
+ },
+ "tirhakah": {
+  "name": "Tirhacá",
+  "role": "Rey de Etiopía",
+  "summary": "Tirhacá, rey de Etiopía (Cus), salió en campaña contra Senaquerib durante el asedio de Jerusalén.",
+  "catholic": "",
+  "know": [
+   "Faraón cusita de la dinastía XXV de Egipto"
+  ]
+ },
+ "ulam-son-of-eshek": {
+  "name": "Ulán",
+  "role": "Descendiente de Saúl",
+  "summary": "Ulán, primogénito de Ésec, encabezó una familia de valientes arqueros benjaminitas con 150 hijos y nietos: la última generación registrada de la línea de Saúl (1 Cr 8,39-40).",
+  "catholic": "",
+  "know": []
+ },
+ "uzzi-son-of-tola": {
+  "name": "Uzí",
+  "role": "Descendiente de Isacar",
+  "summary": "Hijo de Tolá en la genealogía de Isacar (1 Cr 7,2; 7,3).",
+  "catholic": "",
+  "know": []
+ },
+ "zerah-of-bozrah": {
+  "name": "Zéraj de Bosrá",
+  "role": "Padre de un rey edomita",
+  "summary": "Zéraj de Bosrá es el padre de Jobab, el segundo rey de Edom (Gn 36,33; 1 Cr 1,44).",
+  "catholic": "",
+  "know": []
+ },
+ "zimran": {
+  "name": "Zimrán",
+  "role": "Hijo de Abrahán y Queturá",
+  "summary": "Un hijo que Abrahán tuvo de Queturá, enviado hacia el oriente con regalos.",
+  "catholic": "",
+  "know": [
+   "Hijo de Abrahán y Queturá (Gn 25,2)"
+  ]
+ },
+ "zohar-son-of-simeon": {
+  "name": "Sójar (hijo de Simeón)",
+  "role": "Hijo de Simeón",
+  "summary": "Un hijo de Simeón que bajó a Egipto con la familia de Jacob.",
+  "catholic": "",
+  "know": [
+   "Figura entre los setenta de la casa de Jacob que llegaron a Egipto (Gn 46)",
+   "Llamado Zéraj en Nm 26,13"
+  ]
+ },
+ "abdiel": {
+  "name": "Abdiel",
+  "role": "Gadita",
+  "summary": "Hijo de Guní en la genealogía de Gad (1 Cr 5,15).",
+  "catholic": "",
+  "know": []
+ },
+ "abihail-son-of-huri": {
+  "name": "Abijáil",
+  "role": "Gadita",
+  "summary": "Hijo de Jurí en la genealogía de Gad (1 Cr 5,14; 5,13).",
+  "catholic": "",
+  "know": []
+ },
+ "abijah-son-of-jeroboam": {
+  "name": "Abías hijo de Jeroboán",
+  "role": "Príncipe de Israel",
+  "summary": "Abías, el hijo pequeño de Jeroboán, cayó enfermo; su madre fue disfrazada a ver al profeta ciego Ajías, quien predijo la muerte del niño: el único de la casa de Jeroboán que sería llorado y sepultado, 'porque en él se ha hallado algo bueno ante el Señor'.",
+  "catholic": "",
+  "know": [
+   "Lo único bueno hallado en la casa de Jeroboán"
+  ]
+ },
+ "achaicus": {
+  "name": "Acaico",
+  "role": "Cristiano de Corinto",
+  "summary": "Acaico llegó de Corinto junto a Pablo con Estéfanas y Fortunato, reconfortando el espíritu de Pablo y supliendo lo que faltaba de parte de los corintios.",
+  "catholic": "",
+  "know": [
+   "Visitó a Pablo con Estéfanas (1 Cor 16,17)."
+  ]
+ },
+ "adaiah-son-of-joiarib": {
+  "name": "Adaías",
+  "role": "Descendiente de Judá",
+  "summary": "Hijo de Yoyarib en la genealogía de Judá, entre los que se establecieron en Jerusalén bajo Nehemías (Neh 11,5).",
+  "catholic": "",
+  "know": []
+ },
+ "aharah": {
+  "name": "Ajrá",
+  "role": "Descendiente de Benjamín",
+  "summary": "Hijo de Benjamín en la genealogía de Benjamín (1 Cr 8,1).",
+  "catholic": "",
+  "know": []
+ },
+ "ahi-son-of-shemer": {
+  "name": "Ají",
+  "role": "Descendiente de Aser",
+  "summary": "Hijo de Sómer en la genealogía de Aser (1 Cr 7,34).",
+  "catholic": "",
+  "know": []
+ },
+ "ahinoam-wife-of-saul": {
+  "name": "Ajinoán hija de Ajimaas",
+  "role": "Reina, mujer de Saúl",
+  "summary": "Ajinoán, hija de Ajimaas, es la única mujer del rey Saúl cuyo nombre se conoce.",
+  "catholic": "",
+  "know": [
+   "No es la misma que Ajinoán de Yizreel, mujer de David"
+  ]
+ },
+ "ahoah": {
+  "name": "Ajóaj",
+  "role": "Descendiente de Benjamín",
+  "summary": "Hijo de Bela en la genealogía de Benjamín (1 Cr 8,4).",
+  "catholic": "",
+  "know": []
+ },
+ "akkub-son-of-elioenai": {
+  "name": "Acub",
+  "role": "Descendiente de David",
+  "summary": "Hijo de Elyoenay en la genealogía de la línea real de David (1 Cr 3,24).",
+  "catholic": "",
+  "know": []
+ },
+ "alexander-of-ephesus": {
+  "name": "Alejandro de Éfeso",
+  "role": "Judío de Éfeso",
+  "summary": "Alejandro fue empujado al frente por los judíos durante el tumulto de Éfeso e intentó presentar una defensa ante la multitud, pero lo acallaron a gritos durante dos horas cuando reconocieron que era judío.",
+  "catholic": "",
+  "know": [
+   "Acallado a gritos en el teatro de Éfeso (Hch 19,33-34)."
+  ]
+ },
+ "alphaeus-father-of-levi": {
+  "name": "Alfeo, padre de Leví",
+  "role": "Padre de Mateo (Leví)",
+  "summary": "Alfeo es nombrado una sola vez, como padre de Leví el publicano (Mc 2,14), a quien los otros Evangelios llaman Mateo.",
+  "catholic": "",
+  "know": [
+   "Mencionado solo en Marcos 2,14.",
+   "La Escritura no dice si es el mismo Alfeo que el padre de Santiago."
+  ]
+ },
+ "amariah-ancestor-of-zephaniah": {
+  "name": "Amarías hijo de Ezequías",
+  "role": "Antepasado de Sofonías",
+  "summary": "Amarías, hijo de un Ezequías, fue el bisabuelo del profeta Sofonías.",
+  "catholic": "",
+  "know": [
+   "Sof 1,1 lo llama 'hijo de Ezequías' sin decir 'rey'; muchos piensan que se trata del rey Ezequías de Judá, lo que haría a Sofonías de ascendencia real, pero el texto no lo confirma."
+  ]
+ },
+ "ammihud-son-of-omri": {
+  "name": "Amihud",
+  "role": "Descendiente de Judá",
+  "summary": "Hijo de Omrí en la genealogía de Judá, entre los que repoblaron Jerusalén (1 Cr 9,4).",
+  "catholic": "",
+  "know": []
+ },
+ "amzi-son-of-bani": {
+  "name": "Amsí",
+  "role": "Levita",
+  "summary": "Hijo de Baní en la genealogía de Leví, entre los meraritas (1 Cr 6,46). En la ascendencia de Etán el cantor.",
+  "catholic": "",
+  "know": []
+ },
+ "aniam": {
+  "name": "Anián",
+  "role": "Descendiente de Manasés",
+  "summary": "Hijo de Semidá en la genealogía de Manasés (1 Cr 7,19).",
+  "catholic": "",
+  "know": []
+ },
+ "apelles": {
+  "name": "Apeles",
+  "role": "Cristiano nombrado en Romanos 16",
+  "summary": "Apeles es nombrado en los saludos de la Carta de Pablo a los Romanos. 'El aprobado en Cristo'.",
+  "catholic": "",
+  "know": [
+   "'El aprobado en Cristo'."
+  ]
+ },
+ "arah-son-of-ulla": {
+  "name": "Araj",
+  "role": "Descendiente de Aser",
+  "summary": "Hijo de Ulá en la genealogía de Aser (1 Cr 7,39).",
+  "catholic": "",
+  "know": []
+ },
+ "aristobulus": {
+  "name": "Aristóbulo",
+  "role": "Cristiano nombrado en Romanos 16",
+  "summary": "Aristóbulo es nombrado en los saludos de la Carta de Pablo a los Romanos. Pablo saluda a 'los de la casa de Aristóbulo'.",
+  "catholic": "",
+  "know": [
+   "Pablo saluda a 'los de la casa de Aristóbulo'."
+  ]
+ },
+ "asa-son-of-elkanah": {
+  "name": "Asá",
+  "role": "Levita",
+  "summary": "Hijo de Elcaná en la genealogía de los levitas que repoblaron Jerusalén (1 Cr 9,16).",
+  "catholic": "",
+  "know": []
+ },
+ "asiel": {
+  "name": "Asiel",
+  "role": "Príncipe simeonita",
+  "summary": "Asiel es nombrado en la genealogía de Simeón (1 Cr 4,35).",
+  "catholic": "",
+  "know": []
+ },
+ "athaiah": {
+  "name": "Ataías",
+  "role": "Descendiente de Judá",
+  "summary": "Ataías hijo de Ozías, de los hijos de Peres, estuvo entre la gente de Judá que se estableció en Jerusalén en tiempos de Nehemías (Neh 11,4).",
+  "catholic": "",
+  "know": []
+ },
+ "azaz": {
+  "name": "Azaz",
+  "role": "Rubenita",
+  "summary": "Hijo de Sema en la genealogía de Rubén (1 Cr 5,8).",
+  "catholic": "",
+  "know": []
+ },
+ "baalis": {
+  "name": "Baalís",
+  "role": "Rey de los amonitas",
+  "summary": "Baalís, rey de Amón, envió a Ismael hijo de Netanías a asesinar a Godolías.",
+  "catholic": "",
+  "know": []
+ },
+ "bani-of-perez": {
+  "name": "Baní",
+  "role": "Descendiente de Judá",
+  "summary": "Baní es nombrado en la genealogía de Judá, entre los que repoblaron Jerusalén (1 Cr 9,4).",
+  "catholic": "",
+  "know": []
+ },
+ "basemath-daughter-of-elon": {
+  "name": "Basmat (hija de Elón)",
+  "role": "Mujer de Esaú",
+  "summary": "Mujer hitita de Esaú, hija de Elón, según Gn 26,34.",
+  "catholic": "",
+  "know": [
+   "Muchos intérpretes la identifican con Adá, hija de Elón (Gn 36,2)"
+  ]
+ },
+ "beeri": {
+  "name": "Beerí",
+  "role": "Padre de Oseas",
+  "summary": "Beerí es nombrado solo como padre del profeta Oseas.",
+  "catholic": "",
+  "know": [
+   "No es el Beerí que fue suegro de Esaú."
+  ]
+ },
+ "ben-hanan": {
+  "name": "Ben Janán",
+  "role": "Descendiente de Judá",
+  "summary": "Hijo de Simón en la genealogía de Judá (1 Cr 4,20).",
+  "catholic": "",
+  "know": []
+ },
+ "beraiah": {
+  "name": "Berayá",
+  "role": "Jefe de clan benjaminita",
+  "summary": "Hijo de Semeí en la genealogía de Benjamín (1 Cr 8,21).",
+  "catholic": "",
+  "know": []
+ },
+ "beri": {
+  "name": "Berí",
+  "role": "Descendiente de Aser",
+  "summary": "Hijo de Sofaj en la genealogía de Aser (1 Cr 7,36).",
+  "catholic": "",
+  "know": []
+ },
+ "bimhal": {
+  "name": "Bimhal",
+  "role": "Descendiente de Aser",
+  "summary": "Hijo de Yaflet en la genealogía de Aser (1 Cr 7,33).",
+  "catholic": "",
+  "know": []
+ },
+ "bugathan": {
+  "name": "Bugatán",
+  "role": "Chambelán real",
+  "summary": "El chambelán que señaló la horca que Amán había preparado para Mardoqueo, lo que movió al rey a colgar en ella a Amán (Jarboná en el hebreo).",
+  "catholic": "",
+  "know": [
+   "Su observación selló la suerte de Amán (Est 7,9)."
+  ]
+ },
+ "buz-son-of-nahor": {
+  "name": "Buz",
+  "role": "Hijo de Najor",
+  "summary": "Un hijo que Najor, hermano de Abrahán, tuvo de Milcá.",
+  "catholic": "",
+  "know": [
+   "En Job, Elihú es llamado 'el buzita' (Job 32,2)"
+  ]
+ },
+ "chelub-brother-of-shuhah": {
+  "name": "Quelub",
+  "role": "Descendiente de Judá",
+  "summary": "Quelub, 'el hermano de Sujá', es un jefe de clan de Judá que fue padre de Mejir (1 Cr 4,11).",
+  "catholic": "",
+  "know": []
+ },
+ "chuza": {
+  "name": "Cusa",
+  "role": "Administrador de Herodes Antipas",
+  "summary": "Cusa era el administrador de Herodes Antipas y marido de Juana, una de las mujeres que seguían y sostenían a Jesús.",
+  "catholic": "",
+  "know": [
+   "Marido de Juana (Lc 8,3).",
+   "Un funcionario de la casa de Herodes Antipas."
+  ]
+ },
+ "crescens": {
+  "name": "Crescente",
+  "role": "Colaborador de Pablo",
+  "summary": "Crescente había dejado a Pablo en su último encarcelamiento para ir a Galacia, presumiblemente en misión.",
+  "catholic": "",
+  "know": [
+   "Se fue a Galacia (2 Tim 4,10)."
+  ]
+ },
+ "deborah-grandmother-of-tobit": {
+  "name": "Débora (abuela de Tobit)",
+  "role": "Abuela de Tobit",
+  "summary": "Abuela paterna de Tobit, que enseñó al huérfano Tobit a pagar el tercer diezmo para los necesitados.",
+  "catholic": "",
+  "know": [
+   "Su enseñanza formó la caridad de Tobit."
+  ]
+ },
+ "dibri": {
+  "name": "Dibrí",
+  "role": "Danita",
+  "summary": "Hombre de la tribu de Dan, padre de Selomit.",
+  "catholic": "",
+  "know": [
+   "Padre de Selomit (Lv 24,11).",
+   "De la tribu de Dan."
+  ]
+ },
+ "eber-son-of-elpaal": {
+  "name": "Éber",
+  "role": "Jefe de clan benjaminita",
+  "summary": "Hijo de Elpaal en la genealogía de Benjamín (1 Cr 8,12).",
+  "catholic": "",
+  "know": []
+ },
+ "ehud-son-of-bilhan": {
+  "name": "Ehúd",
+  "role": "Descendiente de Benjamín",
+  "summary": "Hijo de Bilhán en la genealogía de Benjamín (1 Cr 7,10).",
+  "catholic": "",
+  "know": []
+ },
+ "elam-son-of-shashak": {
+  "name": "Elam",
+  "role": "Jefe de clan benjaminita",
+  "summary": "Hijo de Sasac en la genealogía de Benjamín (1 Cr 8,24; 8,25).",
+  "catholic": "",
+  "know": []
+ },
+ "eleazar-son-of-abinadab": {
+  "name": "Eleazar hijo de Abinadab",
+  "role": "Guardián del Arca",
+  "summary": "Eleazar fue consagrado por los hombres de Quiriat Yearim para custodiar el Arca del Señor en la casa de su padre.",
+  "catholic": "",
+  "know": [
+   "Apartado para custodiar el Arca"
+  ]
+ },
+ "eliel-son-of-shimei": {
+  "name": "Eliel",
+  "role": "Jefe de clan benjaminita",
+  "summary": "Hijo de Semeí en la genealogía de Benjamín (1 Cr 8,20; 8,21).",
+  "catholic": "",
+  "know": []
+ },
+ "eliezer-luke-3-29": {
+  "name": "Eliezer",
+  "role": "Antepasado de Jesús (Lucas 3)",
+  "summary": "Eliezer, hijo de Jorín, aparece solo en la genealogía de Jesús según Lucas, que va desde José, pasando por Natán, hijo de David, hasta Adán; figura como padre de Josué (Lc 3,29).",
+  "catholic": "",
+  "know": [
+   "Mencionado solo en la genealogía de Lucas (Lc 3,29).",
+   "Hijo de Jorín; padre de Josué."
+  ]
+ },
+ "eliphelet-son-of-eshek": {
+  "name": "Elifélet",
+  "role": "Descendiente de Saúl",
+  "summary": "Hijo de Ésec en la genealogía de Benjamín, casa de Saúl (1 Cr 8,39).",
+  "catholic": "",
+  "know": []
+ },
+ "elmodam": {
+  "name": "Elmadán",
+  "role": "Antepasado de Jesús (Lucas 3)",
+  "summary": "Elmadán, hijo de Er, aparece solo en la genealogía de Jesús según Lucas, que va desde José, pasando por Natán, hijo de David, hasta Adán; figura como padre de Cosán (Lc 3,28).",
+  "catholic": "",
+  "know": [
+   "Mencionado solo en la genealogía de Lucas (Lc 3,28).",
+   "Hijo de Er; padre de Cosán."
+  ]
+ },
+ "ephah-son-of-jahdai": {
+  "name": "Efá",
+  "role": "Descendiente de Judá",
+  "summary": "Hijo de Yahday en la genealogía de Judá, entre los calebitas (1 Cr 2,47).",
+  "catholic": "",
+  "know": []
+ },
+ "er-luke-3-28": {
+  "name": "Er",
+  "role": "Antepasado de Jesús (Lucas 3)",
+  "summary": "Er, hijo de Josué, aparece solo en la genealogía de Jesús según Lucas, que va desde José, pasando por Natán, hijo de David, hasta Adán; figura como padre de Elmadán (Lc 3,28).",
+  "catholic": "",
+  "know": [
+   "Mencionado solo en la genealogía de Lucas (Lc 3,28).",
+   "Hijo de Josué; padre de Elmadán."
+  ]
+ },
+ "ethbaal": {
+  "name": "Etbaal",
+  "role": "Rey de los sidonios",
+  "summary": "Etbaal, rey de los sidonios, fue el padre de Jezabel, la reina de Ajab.",
+  "catholic": "",
+  "know": [
+   "Rey fenicio"
+  ]
+ },
+ "ezbon-son-of-bela": {
+  "name": "Esbón",
+  "role": "Descendiente de Benjamín",
+  "summary": "Hijo de Bela en la genealogía de Benjamín (1 Cr 7,7).",
+  "catholic": "",
+  "know": []
+ },
+ "ezrah": {
+  "name": "Ezrá",
+  "role": "Descendiente de Judá",
+  "summary": "Ezrá encabeza una familia de Judá; su hijo Méred se casó con Bitía, hija del faraón (1 Cr 4,17-18).",
+  "catholic": "",
+  "know": []
+ },
+ "gaham": {
+  "name": "Gajan",
+  "role": "Hijo de Najor",
+  "summary": "Un hijo que Najor, hermano de Abrahán, tuvo de su concubina Reumá.",
+  "catholic": "",
+  "know": [
+   "Hijo de Najor y Reumá (Gn 22,24)"
+  ]
+ },
+ "gazez-son-of-haran": {
+  "name": "Gazez",
+  "role": "Descendiente de Judá",
+  "summary": "Hijo de Jarán en la genealogía de Judá, entre los calebitas (1 Cr 2,46).",
+  "catholic": "",
+  "know": []
+ },
+ "geshan": {
+  "name": "Guesán",
+  "role": "Descendiente de Judá",
+  "summary": "Hijo de Yahday en la genealogía de Judá, entre los calebitas (1 Cr 2,47).",
+  "catholic": "",
+  "know": []
+ },
+ "guni-of-gad": {
+  "name": "Guní",
+  "role": "Gadita",
+  "summary": "Guní es nombrado en la genealogía de Gad (1 Cr 5,15).",
+  "catholic": "",
+  "know": []
+ },
+ "hakkoz-of-judah": {
+  "name": "Cos",
+  "role": "Descendiente de Judá",
+  "summary": "Cos, de los clanes de Judá, fue padre de Anub y de Sobebá (1 Cr 4,8).",
+  "catholic": "",
+  "know": []
+ },
+ "hananiah-son-of-shashak": {
+  "name": "Ananías",
+  "role": "Jefe de clan benjaminita",
+  "summary": "Hijo de Sasac en la genealogía de Benjamín (1 Cr 8,24; 8,25).",
+  "catholic": "",
+  "know": []
+ },
+ "hareph": {
+  "name": "Jaref",
+  "role": "Descendiente de Judá",
+  "summary": "Hijo de Jur en la genealogía de Judá, casa de Jur (1 Cr 2,51). Llamado 'el padre de Bet Gader'.",
+  "catholic": "",
+  "know": []
+ },
+ "hashabiah-son-of-amaziah": {
+  "name": "Jasabías",
+  "role": "Levita",
+  "summary": "Hijo de Amasías en la genealogía de Leví, entre los meraritas (1 Cr 6,45). En la ascendencia de Etán el cantor.",
+  "catholic": "",
+  "know": []
+ },
+ "hathath": {
+  "name": "Jatat",
+  "role": "Descendiente de Judá",
+  "summary": "Hijo de Otniel en la genealogía de Judá (1 Cr 4,13).",
+  "catholic": "",
+  "know": []
+ },
+ "heber-son-of-mered": {
+  "name": "Jéber",
+  "role": "Descendiente de Judá",
+  "summary": "Hijo de Méred y de la mujer judía de Méred en la genealogía de Judá (1 Cr 4,18). Llamado 'el padre de Socó'.",
+  "catholic": "",
+  "know": []
+ },
+ "hepher-son-of-ashhur": {
+  "name": "Jéfer",
+  "role": "Descendiente de Judá",
+  "summary": "Hijo de Asjur y Naará en la genealogía de Judá (1 Cr 4,6).",
+  "catholic": "",
+  "know": []
+ },
+ "hermogenes": {
+  "name": "Hermógenes",
+  "role": "Desertor de Pablo",
+  "summary": "Hermógenes es nombrado entre todos los de Asia que se apartaron de Pablo durante su último encarcelamiento.",
+  "catholic": "",
+  "know": [
+   "Nombrado en 2 Tim 1,15 como uno de los que se apartaron de Pablo."
+  ]
+ },
+ "hizki": {
+  "name": "Jizquí",
+  "role": "Jefe de clan benjaminita",
+  "summary": "Hijo de Elpaal en la genealogía de Benjamín (1 Cr 8,17).",
+  "catholic": "",
+  "know": []
+ },
+ "hodaviah-son-of-hassenuah": {
+  "name": "Hodavías",
+  "role": "Benjaminita",
+  "summary": "Hijo de Hasenuá en la genealogía de Benjamín, entre los que repoblaron Jerusalén (1 Cr 9,7).",
+  "catholic": "",
+  "know": []
+ },
+ "huram-son-of-bela": {
+  "name": "Jurán",
+  "role": "Descendiente de Benjamín",
+  "summary": "Hijo de Bela en la genealogía de Benjamín (1 Cr 8,5).",
+  "catholic": "",
+  "know": []
+ },
+ "ibneiah": {
+  "name": "Yibnías",
+  "role": "Benjaminita",
+  "summary": "Hijo de Yeroján en la genealogía de Benjamín, entre los que repoblaron Jerusalén (1 Cr 9,8).",
+  "catholic": "",
+  "know": []
+ },
+ "igal-son-of-shemaiah": {
+  "name": "Yigal",
+  "role": "Descendiente de David",
+  "summary": "Hijo de Semaías en la genealogía de la línea real de David (1 Cr 3,22).",
+  "catholic": "",
+  "know": []
+ },
+ "imrah": {
+  "name": "Yimrá",
+  "role": "Descendiente de Aser",
+  "summary": "Hijo de Sofaj en la genealogía de Aser (1 Cr 7,36).",
+  "catholic": "",
+  "know": []
+ },
+ "irad": {
+  "name": "Irad",
+  "role": "Descendiente de Caín",
+  "summary": "Hijo de Henoc y nieto de Caín; padre de Mejuyael.",
+  "catholic": "",
+  "know": [
+   "Forma parte de la línea de Caín en Gn 4"
+  ]
+ },
+ "ishbah": {
+  "name": "Yisbaj",
+  "role": "Descendiente de Judá",
+  "summary": "Hijo de Méred y Bitía en la genealogía de Judá (1 Cr 4,17). Llamado 'el padre de Estemoa'.",
+  "catholic": "",
+  "know": []
+ },
+ "ishi-of-simeon": {
+  "name": "Yisí",
+  "role": "Príncipe simeonita",
+  "summary": "Yisí, un simeonita, fue el padre de los cuatro capitanes que condujeron a quinientos hombres al monte Seír y destruyeron al resto de los amalecitas (1 Cr 4,42-43).",
+  "catholic": "",
+  "know": []
+ },
+ "isshiah-son-of-izrahiah": {
+  "name": "Yisías",
+  "role": "Descendiente de Isacar",
+  "summary": "Hijo de Yizrajías en la genealogía de Isacar (1 Cr 7,3).",
+  "catholic": "",
+  "know": []
+ },
+ "izrahiah": {
+  "name": "Yizrajías",
+  "role": "Descendiente de Isacar",
+  "summary": "Hijo de Uzí en la genealogía de Isacar (1 Cr 7,3).",
+  "catholic": "",
+  "know": []
+ },
+ "jaazaniah-the-rechabite": {
+  "name": "Yazanías el recabita",
+  "role": "Jefe recabita",
+  "summary": "Yazanías, hijo de Jeremías, hijo de Jabasinías, encabezaba la familia recabita a la que el profeta Jeremías llevó a un aposento del Templo y ofreció vino, que ellos rechazaron.",
+  "catholic": "",
+  "know": [
+   "Su padre Jeremías no es el profeta."
+  ]
+ },
+ "jahath-son-of-reaiah": {
+  "name": "Yájat",
+  "role": "Descendiente de Judá",
+  "summary": "Hijo de Reayas en la genealogía de Judá, casa de Jur (1 Cr 4,2).",
+  "catholic": "",
+  "know": []
+ },
+ "jahzerah": {
+  "name": "Yajzerá",
+  "role": "Sacerdote",
+  "summary": "Hijo de Mesulán en la genealogía de los sacerdotes que repoblaron Jerusalén (1 Cr 9,12).",
+  "catholic": "",
+  "know": []
+ },
+ "jambres": {
+  "name": "Jambrés",
+  "role": "Mago egipcio",
+  "summary": "Jambrés es nombrado por Pablo, junto con Janés, como uno de los que se opusieron a Moisés; la tradición judía dio estos nombres a los magos del faraón que imitaron los signos de Moisés (Éxodo 7,11-12).",
+  "catholic": "",
+  "know": [
+   "Nombrado solo en 2 Tim 3,8; los nombres proceden de la tradición judía.",
+   "Identificado con los magos del faraón de Éxodo 7."
+  ]
+ },
+ "japhia-king-of-lachish": {
+  "name": "Yafía",
+  "role": "Rey de Laquis",
+  "summary": "Rey de Laquis, uno de los cinco reyes amorreos que se unieron a Adonisédec contra Gabaón y fueron derrotados por Josué y ejecutados en Maquedá.",
+  "catholic": "",
+  "know": [
+   "Rey de Laquis (Jos 10,3).",
+   "Miembro de la coalición de los cinco reyes.",
+   "Ejecutado en Maquedá (Jos 10,26)."
+  ]
+ },
+ "jedidah": {
+  "name": "Yedidá",
+  "role": "Reina madre",
+  "summary": "Yedidá, hija de Adaías, de Boscat, fue la mujer de Amón y madre del rey Josías.",
+  "catholic": "",
+  "know": [
+   "Madre de Josías"
+  ]
+ },
+ "jehubbah": {
+  "name": "Jubá",
+  "role": "Descendiente de Aser",
+  "summary": "Hijo de Sómer en la genealogía de Aser (1 Cr 7,34).",
+  "catholic": "",
+  "know": []
+ },
+ "jekuthiel": {
+  "name": "Yecutiel",
+  "role": "Descendiente de Judá",
+  "summary": "Hijo de Méred y de la mujer judía de Méred en la genealogía de Judá (1 Cr 4,18). Llamado 'el padre de Zanóaj'.",
+  "catholic": "",
+  "know": []
+ },
+ "jeremoth-son-of-becher": {
+  "name": "Yeremot",
+  "role": "Descendiente de Benjamín",
+  "summary": "Hijo de Béquer en la genealogía de Benjamín (1 Cr 7,8).",
+  "catholic": "",
+  "know": []
+ },
+ "jerimoth-son-of-david": {
+  "name": "Yerimot",
+  "role": "Hijo de David",
+  "summary": "Yerimot, un hijo de David que no figura en las listas principales (quizá de una concubina), fue el padre de Majalat, mujer de Roboán.",
+  "catholic": "",
+  "know": [
+   "Línea del suegro de Roboán"
+  ]
+ },
+ "jeroham-son-of-pashhur": {
+  "name": "Yeroján",
+  "role": "Sacerdote",
+  "summary": "Hijo de Pasjur, hijo de Malquías, en la genealogía de los sacerdotes que repoblaron Jerusalén (1 Cr 9,12).",
+  "catholic": "",
+  "know": []
+ },
+ "jesus-justus": {
+  "name": "Jesús, llamado Justo",
+  "role": "Colaborador de Pablo",
+  "summary": "Jesús, llamado Justo, fue uno de los pocos colaboradores de Pablo de origen judío que le sirvieron de consuelo durante su encarcelamiento.",
+  "catholic": "",
+  "know": [
+   "Uno de los colaboradores de Pablo 'de la circuncisión' (Col 4,11)."
+  ]
+ },
+ "jether-son-of-gideon": {
+  "name": "Yéter",
+  "role": "Hijo de Gedeón",
+  "summary": "El primogénito de Gedeón, a quien, siendo un muchacho, se le mandó matar a los reyes capturados Zébaj y Salmuná, pero tuvo miedo de desenvainar la espada.",
+  "catholic": "",
+  "know": [
+   "Primogénito de Gedeón (Jue 8,20).",
+   "Demasiado asustado para matar a los reyes madianitas."
+  ]
+ },
+ "jidlaph": {
+  "name": "Yidlaf",
+  "role": "Hijo de Najor",
+  "summary": "Un hijo que Najor, hermano de Abrahán, tuvo de Milcá.",
+  "catholic": "",
+  "know": [
+   "Hijo de Najor y Milcá"
+  ]
+ },
+ "joash-son-of-shelah": {
+  "name": "Joás",
+  "role": "Descendiente de Judá",
+  "summary": "Hijo de Selá en la genealogía de Judá, casa de Selá (1 Cr 4,22). Él y Saraf 'dominaron en Moab'.",
+  "catholic": "",
+  "know": []
+ },
+ "jobab-king-of-madon": {
+  "name": "Jobab",
+  "role": "Rey de Madón",
+  "summary": "Rey de Madón convocado por Yabín de Jasor para unirse a la coalición del norte contra Josué.",
+  "catholic": "",
+  "know": [
+   "Rey de Madón (Jos 11,1).",
+   "Aliado de Yabín de Jasor."
+  ]
+ },
+ "johanan-son-of-elioenai": {
+  "name": "Yojanán",
+  "role": "Descendiente de David",
+  "summary": "Hijo de Elyoenay en la genealogía de la línea real de David (1 Cr 3,24).",
+  "catholic": "",
+  "know": []
+ },
+ "jonathan-son-of-gershom": {
+  "name": "Jonatán (hijo de Guersón)",
+  "role": "Sacerdote levita de Dan",
+  "summary": "Joven levita de Belén de Judá que se convirtió en sacerdote de la casa de Micá y luego se fue con los danitas, que erigieron la imagen de Micá en Lais (Dan). Jueces 18,30 lo identifica como 'Jonatán, hijo de Guersón, hijo de Moisés', cuyos hijos fueron sacerdotes de Dan hasta el cautiverio.",
+  "catholic": "",
+  "know": [
+   "Levita de Belén que sirvió a Micá (Jue 17,7-13).",
+   "Se fue con los danitas como su sacerdote (Jue 18,19-20).",
+   "Nieto (descendiente) de Moisés (Jue 18,30; el texto hebreo tiene una letra suspendida que forma 'Manasés')."
+  ]
+ },
+ "jose-luke-3-29": {
+  "name": "Josué",
+  "role": "Antepasado de Jesús (Lucas 3)",
+  "summary": "Josué, hijo de Eliezer, aparece solo en la genealogía de Jesús según Lucas, que va desde José, pasando por Natán, hijo de David, hasta Adán; figura como padre de Er (Lc 3,29).",
+  "catholic": "",
+  "know": [
+   "Mencionado solo en la genealogía de Lucas (Lc 3,29).",
+   "Hijo de Eliezer; padre de Er."
+  ]
+ },
+ "jubal": {
+  "name": "Yubal",
+  "role": "Padre de los músicos",
+  "summary": "Hijo de Lámec y Adá, 'el padre de todos los que tocan la cítara y la flauta'.",
+  "catholic": "",
+  "know": [
+   "Antepasado de los músicos (Gn 4,21)"
+  ]
+ },
+ "julia": {
+  "name": "Julia",
+  "role": "Cristiana nombrada en Romanos 16",
+  "summary": "Julia es nombrada en los saludos de la Carta de Pablo a los Romanos. Saludada junto con Filólogo; quizá un matrimonio.",
+  "catholic": "",
+  "know": [
+   "Saludada junto con Filólogo; quizá un matrimonio."
+  ]
+ },
+ "kenaz-son-of-elah": {
+  "name": "Quenaz",
+  "role": "Descendiente de Judá",
+  "summary": "Hijo de Elá en la genealogía de Judá (1 Cr 4,15).",
+  "catholic": "",
+  "know": []
+ },
+ "laadah": {
+  "name": "Ladá",
+  "role": "Descendiente de Judá",
+  "summary": "Hijo de Selá en la genealogía de Judá, casa de Selá (1 Cr 4,21). Llamado 'el padre de Maresá'.",
+  "catholic": "",
+  "know": []
+ },
+ "libni-son-of-mahli": {
+  "name": "Libní",
+  "role": "Levita",
+  "summary": "Hijo de Majlí en la genealogía de Leví, entre los meraritas (1 Cr 6,29).",
+  "catholic": "",
+  "know": []
+ },
+ "lysanias": {
+  "name": "Lisanias",
+  "role": "Tetrarca de Abilene",
+  "summary": "Lisanias es nombrado como tetrarca de Abilene en el año quince de Tiberio, cuando la palabra de Dios vino sobre Juan el Bautista (Lc 3,1).",
+  "catholic": "",
+  "know": [
+   "Mencionado solo en Lucas 3,1.",
+   "Una inscripción de Abila confirma la existencia de un tetrarca Lisanias a comienzos del siglo I d. C."
+  ]
+ },
+ "maaseiah-son-of-baruch": {
+  "name": "Maasías",
+  "role": "Descendiente de Judá",
+  "summary": "Maasías hijo de Baruc, del clan silonita de Judá, se estableció en Jerusalén en tiempos de Nehemías (Neh 11,5).",
+  "catholic": "",
+  "know": []
+ },
+ "mahalath": {
+  "name": "Majalat",
+  "role": "Mujer de Roboán",
+  "summary": "Majalat, nieta de David por Yerimot y de Eliab por su madre Abijáil, se casó con Roboán y le dio tres hijos.",
+  "catholic": "",
+  "know": [
+   "Sus dos padres eran de la familia de David"
+  ]
+ },
+ "malcam": {
+  "name": "Malcán",
+  "role": "Jefe de clan benjaminita",
+  "summary": "Hijo de Sajaráin y Jodes en la genealogía de Benjamín (1 Cr 8,9).",
+  "catholic": "",
+  "know": []
+ },
+ "maon": {
+  "name": "Maón",
+  "role": "Descendiente de Judá",
+  "summary": "Hijo de Samay en la genealogía de Judá, entre los calebitas (1 Cr 2,45). Llamado 'el padre de Bet Sur'.",
+  "catholic": "",
+  "know": []
+ },
+ "matthan": {
+  "name": "Matán",
+  "role": "Antepasado de Jesús (Mateo 1)",
+  "summary": "Matán, hijo de Eleazar, aparece solo en la genealogía de Jesús según Mateo como padre de Jacob (Mt 1,15), en la línea de los herederos reales de David después del destierro de Babilonia.",
+  "catholic": "",
+  "know": [
+   "Mencionado solo en Mateo 1: un eslabón de la línea real davídica de Jesús después del destierro.",
+   "Hijo de Eleazar; padre de Jacob."
+  ]
+ },
+ "melea": {
+  "name": "Meleá",
+  "role": "Antepasado de Jesús (Lucas 3)",
+  "summary": "Meleá, hijo de Mená, aparece solo en la genealogía de Jesús según Lucas, que va desde José, pasando por Natán, hijo de David, hasta Adán; figura como padre de Eliaquín (Lc 3,31).",
+  "catholic": "",
+  "know": [
+   "Mencionado solo en la genealogía de Lucas (Lc 3,31).",
+   "Hijo de Mená; padre de Eliaquín."
+  ]
+ },
+ "mesha": {
+  "name": "Mesá",
+  "role": "Rey de Moab",
+  "summary": "Mesá, rey de Moab, gran criador de ovejas, se rebeló contra Israel tras la muerte de Ajab; sitiado por Israel, Judá y Edom, sacrificó a su hijo primogénito sobre la muralla de la ciudad y los invasores se retiraron.",
+  "catholic": "",
+  "know": [
+   "Conocido también por la Piedra Moabita (Estela de Mesá)"
+  ]
+ },
+ "meshullam-son-of-elpaal": {
+  "name": "Mesulán",
+  "role": "Jefe de clan benjaminita",
+  "summary": "Hijo de Elpaal en la genealogía de Benjamín (1 Cr 8,17).",
+  "catholic": "",
+  "know": []
+ },
+ "meshullemeth": {
+  "name": "Mesulémet",
+  "role": "Reina madre",
+  "summary": "Mesulémet, hija de Jarús, de Yotbá, fue la mujer de Manasés y madre del rey Amón.",
+  "catholic": "",
+  "know": [
+   "Madre de Amón"
+  ]
+ },
+ "michael-son-of-jeshishai": {
+  "name": "Miguel",
+  "role": "Gadita",
+  "summary": "Hijo de Yesisay en la genealogía de Gad (1 Cr 5,14).",
+  "catholic": "",
+  "know": []
+ },
+ "michri": {
+  "name": "Micrí",
+  "role": "Benjaminita",
+  "summary": "Micrí es nombrado en la genealogía de Benjamín, entre los que repoblaron Jerusalén (1 Cr 9,8).",
+  "catholic": "",
+  "know": []
+ },
+ "mithredath": {
+  "name": "Mitrídates",
+  "role": "Tesorero persa",
+  "summary": "El tesorero de Ciro que entregó contados los utensilios del Templo a Sesbasar.",
+  "catholic": "",
+  "know": [
+   "Tesorero real persa.",
+   "Otro Mitrídates distinto escribió contra Jerusalén en Esd 4,7."
+  ]
+ },
+ "muppim": {
+  "name": "Mupín",
+  "role": "Hijo de Benjamín",
+  "summary": "Un hijo de Benjamín que bajó a Egipto con la familia de Jacob.",
+  "catholic": "",
+  "know": [
+   "Figura entre los setenta de la casa de Jacob que llegaron a Egipto (Gn 46)"
+  ]
+ },
+ "naggai": {
+  "name": "Nagay",
+  "role": "Antepasado de Jesús (Lucas 3)",
+  "summary": "Nagay, hijo de Maat, aparece solo en la genealogía de Jesús según Lucas, que va desde José, pasando por Natán, hijo de David, hasta Adán; figura como padre de Eslí (Lc 3,25).",
+  "catholic": "",
+  "know": [
+   "Mencionado solo en la genealogía de Lucas (Lc 3,25).",
+   "Hijo de Maat; padre de Eslí."
+  ]
+ },
+ "nasbas": {
+  "name": "Nadab",
+  "role": "Pariente de Ajicar",
+  "summary": "Nombrado en Tob 11,18 como quien acudió con Ajicar al banquete de bodas de Tobías, descrito como 'hijo de su hermano' (un sobrino).",
+  "catholic": "",
+  "know": [
+   "Aparece solo en Tob 11,18."
+  ]
+ },
+ "nehushta": {
+  "name": "Nejustá",
+  "role": "Reina madre",
+  "summary": "Nejustá, hija de Elnatán, de Jerusalén, mujer de Yoyaquim, fue reina madre de Joaquín y fue con él al destierro en Babilonia.",
+  "catholic": "",
+  "know": [
+   "Llevada a Babilonia con su hijo",
+   "Jeremías se dirigió 'al rey y a la reina madre' (Jr 13,18)"
+  ]
+ },
+ "nymphas": {
+  "name": "Ninfas",
+  "role": "Anfitrión de una iglesia en Laodicea",
+  "summary": "Ninfas acogía a una iglesia en su casa en la región de Laodicea; Pablo le envía saludos.",
+  "catholic": "",
+  "know": [
+   "Una iglesia se reunía en su casa (Col 4,15).",
+   "Algunos manuscritos leen 'Ninfa' y 'la casa de ella', una mujer."
+  ]
+ },
+ "omri-son-of-becher": {
+  "name": "Omrí",
+  "role": "Descendiente de Benjamín",
+  "summary": "Hijo de Béquer en la genealogía de Benjamín (1 Cr 7,8).",
+  "catholic": "",
+  "know": []
+ },
+ "ozem-son-of-jerahmeel": {
+  "name": "Osen",
+  "role": "Descendiente de Judá",
+  "summary": "Hijo de Yerajmeel en la genealogía de Judá, entre los yerajmeelitas (1 Cr 2,25).",
+  "catholic": "",
+  "know": []
+ },
+ "patrobas": {
+  "name": "Patrobas",
+  "role": "Cristiano nombrado en Romanos 16",
+  "summary": "Patrobas es nombrado en los saludos de la Carta de Pablo a los Romanos. Saludado junto con Asíncrito y otros.",
+  "catholic": "",
+  "know": [
+   "Saludado junto con Asíncrito y otros."
+  ]
+ },
+ "pelet-son-of-jahdai": {
+  "name": "Pélet",
+  "role": "Descendiente de Judá",
+  "summary": "Hijo de Yahday en la genealogía de Judá, entre los calebitas (1 Cr 2,47).",
+  "catholic": "",
+  "know": []
+ },
+ "peresh": {
+  "name": "Peres",
+  "role": "Descendiente de Manasés",
+  "summary": "Hijo de Maquir y Maacá en la genealogía de Manasés (1 Cr 7,16).",
+  "catholic": "",
+  "know": []
+ },
+ "philetus": {
+  "name": "Fileto",
+  "role": "Falso maestro",
+  "summary": "Fileto, junto con Himeneo, enseñaba que la resurrección ya había sucedido, trastornando la fe de algunos.",
+  "catholic": "",
+  "know": [
+   "Nombrado junto con Himeneo en 2 Tim 2,17."
+  ]
+ },
+ "phygelus": {
+  "name": "Figelo",
+  "role": "Desertor de Pablo",
+  "summary": "Figelo es nombrado entre todos los de Asia que se apartaron de Pablo durante su último encarcelamiento.",
+  "catholic": "",
+  "know": [
+   "Nombrado en 2 Tim 1,15 como uno de los que se apartaron de Pablo."
+  ]
+ },
+ "puah-father-of-tola": {
+  "name": "Puá (padre de Tolá)",
+  "role": "Hombre de Isacar",
+  "summary": "Hombre de Isacar, hijo de Dodó y padre del juez Tolá.",
+  "catholic": "",
+  "know": [
+   "Padre de Tolá (Jue 10,1).",
+   "No es Puá, la partera hebrea."
+  ]
+ },
+ "raddai": {
+  "name": "Raday",
+  "role": "Hermano de David",
+  "summary": "Raday figura como el quinto hijo de Jesé.",
+  "catholic": "",
+  "know": [
+   "Conocido solo por la genealogía"
+  ]
+ },
+ "reaiah-son-of-micah": {
+  "name": "Reayas",
+  "role": "Rubenita",
+  "summary": "Hijo de Micá en la genealogía de Rubén (1 Cr 5,5).",
+  "catholic": "",
+  "know": []
+ },
+ "rephaiah-son-of-tola": {
+  "name": "Refaías",
+  "role": "Descendiente de Isacar",
+  "summary": "Hijo de Tolá en la genealogía de Isacar (1 Cr 7,2).",
+  "catholic": "",
+  "know": []
+ },
+ "rezon": {
+  "name": "Rezón",
+  "role": "Rey en Damasco",
+  "summary": "Rezón, hijo de Elyadá, huyó de su señor Hadadézer, se hizo jefe de una banda de salteadores, tomó Damasco y fue adversario de Israel durante todos los días de Salomón.",
+  "catholic": "",
+  "know": [
+   "Fundó el poder arameo en Damasco"
+  ]
+ },
+ "rosh": {
+  "name": "Ros",
+  "role": "Hijo de Benjamín",
+  "summary": "Un hijo de Benjamín que bajó a Egipto con la familia de Jacob.",
+  "catholic": "",
+  "know": [
+   "Figura entre los setenta de la casa de Jacob que llegaron a Egipto (Gn 46)"
+  ]
+ },
+ "seled": {
+  "name": "Séled",
+  "role": "Descendiente de Judá",
+  "summary": "Hijo de Nadab en la genealogía de Judá, entre los yerajmeelitas (1 Cr 2,30). Murió sin hijos.",
+  "catholic": "",
+  "know": []
+ },
+ "shaaph-son-of-jahdai": {
+  "name": "Sáaf",
+  "role": "Descendiente de Judá",
+  "summary": "Hijo de Yahday en la genealogía de Judá, entre los calebitas (1 Cr 2,47).",
+  "catholic": "",
+  "know": []
+ },
+ "shallum-son-of-shaul": {
+  "name": "Salún",
+  "role": "Descendiente de Simeón",
+  "summary": "Hijo de Saúl en la genealogía de Simeón (1 Cr 4,25).",
+  "catholic": "",
+  "know": []
+ },
+ "shammua-son-of-zaccur": {
+  "name": "Samúa",
+  "role": "Explorador de Rubén",
+  "summary": "Hijo de Zacur, el hombre de Rubén entre los doce enviados por Moisés a explorar Canaán. Con otros nueve trajo un 'informe malo' que desalentó al pueblo; aquellos diez murieron de plaga ante el Señor.",
+  "catholic": "",
+  "know": [
+   "Representó a Rubén entre los doce exploradores (Nm 13).",
+   "Trajo un informe desalentador.",
+   "Murió de plaga (Nm 14,36-37)."
+  ]
+ },
+ "shaul-son-of-uzziah": {
+  "name": "Saúl",
+  "role": "Levita",
+  "summary": "Hijo de Ozías en la genealogía de Leví, entre los quehatitas (1 Cr 6,24).",
+  "catholic": "",
+  "know": []
+ },
+ "shechem-son-of-shemida": {
+  "name": "Siquén",
+  "role": "Descendiente de Manasés",
+  "summary": "Hijo de Semidá en la genealogía de Manasés (1 Cr 7,19).",
+  "catholic": "",
+  "know": []
+ },
+ "shelomith-daughter-of-zerubbabel": {
+  "name": "Selomit",
+  "role": "Descendiente de David",
+  "summary": "Hija de Zorobabel en la genealogía de la línea real de David (1 Cr 3,19).",
+  "catholic": "",
+  "know": []
+ },
+ "shemaiah-son-of-shecaniah": {
+  "name": "Semaías",
+  "role": "Descendiente de David",
+  "summary": "Hijo de Secanías en la genealogía de la línea real de David (1 Cr 3,22).",
+  "catholic": "",
+  "know": []
+ },
+ "shemeber": {
+  "name": "Seméber",
+  "role": "Rey de Seboín",
+  "summary": "Seméber, rey de Seboín, fue uno de los cinco reyes de las ciudades de la llanura que se rebelaron contra Codorlaomer y fueron derrotados en el valle de Sidín.",
+  "catholic": "",
+  "know": [
+   "Uno de los cinco reyes de las ciudades de la llanura (Gn 14,2)"
+  ]
+ },
+ "shenazzar": {
+  "name": "Senasar",
+  "role": "Hijo de Joaquín",
+  "summary": "Senasar figura entre los hijos de Joaquín (Jeconías), el cautivo.",
+  "catholic": "",
+  "know": [
+   "Nacido en el destierro de Babilonia"
+  ]
+ },
+ "shephuphan": {
+  "name": "Sefufán",
+  "role": "Descendiente de Benjamín",
+  "summary": "Hijo de Bela en la genealogía de Benjamín (1 Cr 8,5).",
+  "catholic": "",
+  "know": []
+ },
+ "shimea-son-of-michael": {
+  "name": "Simá",
+  "role": "Levita",
+  "summary": "Hijo de Miguel en la genealogía de Leví, entre los guersonitas (1 Cr 6,39-40). En la ascendencia de Asaf el cantor.",
+  "catholic": "",
+  "know": []
+ },
+ "shimei-son-of-jahath": {
+  "name": "Semeí",
+  "role": "Levita",
+  "summary": "Hijo de Yájat en la genealogía de Leví, entre los guersonitas (1 Cr 6,42). En la ascendencia de Asaf el cantor.",
+  "catholic": "",
+  "know": []
+ },
+ "shimrath": {
+  "name": "Simrat",
+  "role": "Jefe de clan benjaminita",
+  "summary": "Hijo de Semeí en la genealogía de Benjamín (1 Cr 8,21).",
+  "catholic": "",
+  "know": []
+ },
+ "shobab-son-of-caleb": {
+  "name": "Sobab",
+  "role": "Descendiente de Judá",
+  "summary": "Hijo de Caleb en la genealogía de Judá (1 Cr 2,18).",
+  "catholic": "",
+  "know": []
+ },
+ "simeon-luke-3-30": {
+  "name": "Simeón",
+  "role": "Antepasado de Jesús (Lucas 3)",
+  "summary": "Simeón, hijo de Judá, aparece solo en la genealogía de Jesús según Lucas, que va desde José, pasando por Natán, hijo de David, hasta Adán; figura como padre de Leví (Lc 3,30).",
+  "catholic": "",
+  "know": [
+   "Mencionado solo en la genealogía de Lucas (Lc 3,30).",
+   "Hijo de Judá; padre de Leví."
+  ]
+ },
+ "stachys": {
+  "name": "Estaquis",
+  "role": "Cristiano nombrado en Romanos 16",
+  "summary": "Estaquis es nombrado en los saludos de la Carta de Pablo a los Romanos. 'Mi querido'.",
+  "catholic": "",
+  "know": [
+   "'Mi querido'."
+  ]
+ },
+ "tahash": {
+  "name": "Tájas",
+  "role": "Hijo de Najor",
+  "summary": "Un hijo que Najor, hermano de Abrahán, tuvo de su concubina Reumá.",
+  "catholic": "",
+  "know": [
+   "Hijo de Najor y Reumá (Gn 22,24)"
+  ]
+ },
+ "tappuah": {
+  "name": "Tapúaj",
+  "role": "Descendiente de Judá",
+  "summary": "Hijo de Hebrón en la genealogía de Judá, entre los calebitas (1 Cr 2,43).",
+  "catholic": "",
+  "know": []
+ },
+ "telah": {
+  "name": "Télaj",
+  "role": "Descendiente de Efraín",
+  "summary": "Hijo de Résef en la genealogía de Efraín (1 Cr 7,25). En la ascendencia de Josué.",
+  "catholic": "",
+  "know": []
+ },
+ "tilon": {
+  "name": "Tilón",
+  "role": "Descendiente de Judá",
+  "summary": "Hijo de Simón en la genealogía de Judá (1 Cr 4,20).",
+  "catholic": "",
+  "know": []
+ },
+ "tobiel": {
+  "name": "Tobiel",
+  "role": "Padre de Tobit",
+  "summary": "Padre de Tobit, de la tribu de Neftalí; murió cuando Tobit era joven, dejándolo huérfano.",
+  "catholic": "",
+  "know": [
+   "Tobit fue criado por su abuela Débora (Tob 1,8)."
+  ]
+ },
+ "tubal-cain": {
+  "name": "Túbal Caín",
+  "role": "Forjador de metales",
+  "summary": "Hijo de Lámec y Silá, forjador de todo instrumento cortante de bronce y de hierro.",
+  "catholic": "",
+  "know": [
+   "El primer herrero mencionado por su nombre (Gn 4,22)"
+  ]
+ },
+ "uriah-the-priest": {
+  "name": "Urías el sacerdote",
+  "role": "Sacerdote",
+  "summary": "Urías el sacerdote fue uno de los dos 'testigos fieles' que Isaías tomó cuando escribió 'Maher Salal Jas Baz' en una tablilla.",
+  "catholic": "",
+  "know": [
+   "Probablemente el mismo que Urías el sacerdote, que construyó para Ajaz el altar al estilo de Damasco (2 Reyes 16,10-16)."
+  ]
+ },
+ "uzzah-son-of-shimei": {
+  "name": "Uzá",
+  "role": "Levita",
+  "summary": "Hijo de Semeí en la genealogía de Leví, entre los meraritas (1 Cr 6,29).",
+  "catholic": "",
+  "know": []
+ },
+ "uzziah-son-of-uriel": {
+  "name": "Ozías",
+  "role": "Levita",
+  "summary": "Hijo de Uriel en la genealogía de Leví, entre los quehatitas (1 Cr 6,24).",
+  "catholic": "",
+  "know": []
+ },
+ "zabad-son-of-tahath": {
+  "name": "Zabad",
+  "role": "Descendiente de Efraín",
+  "summary": "Hijo de Tájat en la genealogía de Efraín (1 Cr 7,21).",
+  "catholic": "",
+  "know": []
+ },
+ "zaza": {
+  "name": "Zazá",
+  "role": "Descendiente de Judá",
+  "summary": "Hijo de Jonatán en la genealogía de Judá, entre los yerajmeelitas (1 Cr 2,33).",
+  "catholic": "",
+  "know": []
+ },
+ "zechariah-son-of-amariah": {
+  "name": "Zacarías",
+  "role": "Descendiente de Judá",
+  "summary": "Hijo de Amarías en la genealogía de Judá, entre los que se establecieron en Jerusalén bajo Nehemías (Neh 11,4).",
+  "catholic": "",
+  "know": []
+ },
+ "zemirah": {
+  "name": "Zemirá",
+  "role": "Descendiente de Benjamín",
+  "summary": "Hijo de Béquer en la genealogía de Benjamín (1 Cr 7,8).",
+  "catholic": "",
+  "know": []
+ },
+ "zerah-son-of-adaiah": {
+  "name": "Zéraj",
+  "role": "Levita",
+  "summary": "Hijo de Adaías en la genealogía de Leví, entre los guersonitas (1 Cr 6,41). En la ascendencia de Asaf el cantor.",
+  "catholic": "",
+  "know": []
+ },
+ "zia": {
+  "name": "Zía",
+  "role": "Gadita",
+  "summary": "Hijo de Abijáil en la genealogía de Gad (1 Cr 5,13-14).",
+  "catholic": "",
+  "know": []
+ },
+ "zichri-son-of-jeroham": {
+  "name": "Zicrí",
+  "role": "Jefe de clan benjaminita",
+  "summary": "Hijo de Yeroján en la genealogía de Benjamín (1 Cr 8,27).",
+  "catholic": "",
+  "know": []
+ },
+ "ziphah": {
+  "name": "Zifá",
+  "role": "Descendiente de Judá",
+  "summary": "Hijo de Yehalelel en la genealogía de Judá (1 Cr 4,16).",
+  "catholic": "",
+  "know": []
+ },
+ "zoheth": {
+  "name": "Zójet",
+  "role": "Descendiente de Judá",
+  "summary": "Hijo de Yisí en la genealogía de Judá (1 Cr 4,20).",
+  "catholic": "",
+  "know": []
+ },
+ "concubine-of-gideon": {
+  "name": "La concubina de Gedeón en Siquén",
+  "role": "Madre de Abimélec",
+  "summary": "Concubina de Gedeón, de Siquén, madre de Abimélec, por medio de cuyos parientes en Siquén Abimélec se hizo con el poder.",
+  "catholic": "",
+  "know": [
+   "Vivía en Siquén (Jue 8,31).",
+   "Madre de Abimélec."
+  ]
+ },
+ "mother-of-micah": {
+  "name": "La madre de Micá",
+  "role": "Mujer efraimita",
+  "summary": "Mujer efraimita que maldijo al ladrón de sus 1.100 monedas de plata; cuando su hijo Micá confesó y las devolvió, lo bendijo e hizo que con parte de ellas se fabricaran una imagen tallada y otra de metal fundido para su santuario.",
+  "catholic": "",
+  "know": [
+   "Maldijo el robo y luego bendijo a su hijo (Jue 17,2).",
+   "Consagró plata para hacer ídolos 'para el Señor' (Jue 17,3-4).",
+   "La Escritura no da su nombre."
+  ]
+ }
+}

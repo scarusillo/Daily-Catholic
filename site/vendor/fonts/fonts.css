@@ -1,0 +1,10 @@
+/* Alegreya, Alegreya SC and Alegreya Sans by Huerta Tipográfica, SIL Open Font License 1.1. Bundled so the app works offline and loads nothing from third parties. */
+@font-face{font-family:"Alegreya";font-style:normal;font-weight:400;font-display:swap;src:url("alegreya-latin-400-normal.woff2") format("woff2")}
+@font-face{font-family:"Alegreya";font-style:normal;font-weight:500;font-display:swap;src:url("alegreya-latin-500-normal.woff2") format("woff2")}
+@font-face{font-family:"Alegreya";font-style:normal;font-weight:700;font-display:swap;src:url("alegreya-latin-700-normal.woff2") format("woff2")}
+@font-face{font-family:"Alegreya";font-style:italic;font-weight:400;font-display:swap;src:url("alegreya-latin-400-italic.woff2") format("woff2")}
+@font-face{font-family:"Alegreya SC";font-style:normal;font-weight:500;font-display:swap;src:url("alegreya-sc-latin-500-normal.woff2") format("woff2")}
+@font-face{font-family:"Alegreya SC";font-style:normal;font-weight:700;font-display:swap;src:url("alegreya-sc-latin-700-normal.woff2") format("woff2")}
+@font-face{font-family:"Alegreya Sans";font-style:normal;font-weight:400;font-display:swap;src:url("alegreya-sans-latin-400-normal.woff2") format("woff2")}
+@font-face{font-family:"Alegreya Sans";font-style:normal;font-weight:500;font-display:swap;src:url("alegreya-sans-latin-500-normal.woff2") format("woff2")}
+@font-face{font-family:"Alegreya Sans";font-style:normal;font-weight:700;font-display:swap;src:url("alegreya-sans-latin-700-normal.woff2") format("woff2")}

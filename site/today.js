@@ -51,7 +51,9 @@
       [CAL, READ, SAINTS] = await Promise.all([CAL || ctx.getJSON("data/calendar.json"), READ || ctx.getJSON("data/readings.json").catch(() => ({})),
         SAINTS || ctx.getJSON("data/saints.json").catch(() => ({}))]);
     } catch { CAL = CAL || {}; READ = READ || {}; SAINTS = SAINTS || {}; }
-    await Promise.all([ctx.loadBible(), ctx.loadMentions()]);
+    // Don't hold the page for the Bible text (the largest download): draw now, fill passages in when it arrives.
+    const ready = ctx.bibleReady();
+    if (!ready) Promise.all([ctx.loadBible(), ctx.loadMentions()]).then(() => { if (root.isConnected && !root.hidden && !root.querySelector("details[open]")) renderToday(root); else root.querySelectorAll(".passage p").forEach((el) => { const r = ctx.parseRef(el.dataset.ref); if (r) el.innerHTML = ctx.verses(r).map((v) => `<sup>${v.v}</sup>${ctx.esc(v.t)}`).join(" "); }); }).catch(() => {});
     const now = new Date(), dk = dayKey(now), day = CAL[dk];
     const fi = feastIndex();
     const saints = fi[dk.slice(5)] || [];
@@ -78,25 +80,25 @@
         ${cel.slice(1).length ? `<p>${esc(T("alsoToday"))} ${cel.slice(1).map((c) => esc(celTitle(c))).join("; ")}</p>` : ""}
       </section>
 
+      <section class="tsec"><h2>${rdate === dk ? esc(T("todayReadings")) : `${esc(T("sundayReadings"))} · ${new Date(rdate + "T12:00").toLocaleDateString(loc, { month: "long", day: "numeric" })}`}</h2>
+        ${rd ? `<p class="qmeta">${esc(rd.title ? L(rd.title) : celTitle(rday[4][0], rday))}${rd.confidence && rd.confidence !== "high" ? ` · ${esc(T("unverified"))}` : ""}</p>
+          ${rd.note ? `<p>${esc(L(rd.note))}</p>` : ""}
+          ${T("scriptureEnglish") ? `<p class="qmeta">${esc(T("scriptureEnglish"))}</p>` : ""}
+          <div class="readings">${[["firstReading", rd.first], ["psalm", rd.psalm], ["secondReading", rd.second], ["gospel", rd.gospel], ...(rd.extra || []).map((x) => [x.label, x.ref])].filter(([, r]) => r).map(([lbl, ref]) => {
+            const r = ctx.parseRef(ref), who = ready ? peopleInRange(r).slice(0, 10) : [];
+            return `<details class="reading"><summary><span class="eyebrow">${esc(typeof lbl === "string" ? T(lbl) : L(lbl))}</span> <b>${esc(ctx.refLabel(ref))}</b>${who.length ? `<span class="who">${who.slice(0, 4).map((id) => esc(P[id].name)).join(", ")}${who.length > 4 ? "…" : ""}</span>` : ""}</summary>
+              <div class="passage"><p data-ref="${esc(ref)}">${!ready ? "…" : r ? ctx.verses(r).map((v) => `<sup>${v.v}</sup>${esc(v.t)}`).join(" ") : ""}</p><button class="ghost small" data-speak-ref="${esc(ref)}">${esc(T("listen"))}</button></div>
+              ${who.length ? `<div class="chips"><span class="qmeta">${esc(T("peopleInReading"))}</span>${who.map((id) => ctx.chip(id)).join("")}</div>` : ""}</details>`;
+          }).join("")}</div>
+          <p class="gfoot">${esc(T("readingsNote"))}</p>` : ""}
+      </section>
+
       ${sotd.length ? `<section class="tsec"><h2>${esc(T("saintOfDay"))}</h2>${sotd.map(({ s }) => `<div class="saint">
           <b>${esc(L(s).title || s.name)}</b>${s.years ? ` <span class="qmeta">${esc(s.years)}</span>` : ""}
           <p>${esc(L(s).bio)}</p>${L(s).quote ? `<blockquote>${esc(L(s).quote)}</blockquote>` : ""}${s.patron ? `<p class="qmeta">${esc(s.patron)}</p>` : ""}
           ${(s.people || []).filter((id) => P[id]).length ? `<div class="chips">${s.people.filter((id) => P[id]).map((id) => ctx.chip(id)).join("")}</div>` : ""}</div>`).join("")}</section>` : ""}
 
       ${saints.filter((id) => !sotd.some(({ s }) => (s.people || []).includes(id))).length ? `<section class="tsec"><h2>${esc(T("biblicalSaints"))}</h2><div class="chips">${saints.map((id) => ctx.chip(id)).join("")}</div></section>` : ""}
-
-      <section class="tsec"><h2>${rdate === dk ? esc(T("todayReadings")) : `${esc(T("sundayReadings"))} · ${new Date(rdate + "T12:00").toLocaleDateString(loc, { month: "long", day: "numeric" })}`}</h2>
-        ${rd ? `<p class="qmeta">${esc(rd.title ? L(rd.title) : celTitle(rday[4][0], rday))}${rd.confidence && rd.confidence !== "high" ? ` · ${esc(T("unverified"))}` : ""}</p>
-          ${rd.note ? `<p>${esc(L(rd.note))}</p>` : ""}
-          ${T("scriptureEnglish") ? `<p class="qmeta">${esc(T("scriptureEnglish"))}</p>` : ""}
-          <div class="readings">${[["firstReading", rd.first], ["psalm", rd.psalm], ["secondReading", rd.second], ["gospel", rd.gospel], ...(rd.extra || []).map((x) => [x.label, x.ref])].filter(([, r]) => r).map(([lbl, ref]) => {
-            const r = ctx.parseRef(ref), who = peopleInRange(r).slice(0, 10);
-            return `<details class="reading"><summary><span class="eyebrow">${esc(typeof lbl === "string" ? T(lbl) : L(lbl))}</span> <b>${esc(ctx.refLabel(ref))}</b>${who.length ? `<span class="who">${who.slice(0, 4).map((id) => esc(P[id].name)).join(", ")}${who.length > 4 ? "…" : ""}</span>` : ""}</summary>
-              <div class="passage"><p>${r ? ctx.verses(r).map((v) => `<sup>${v.v}</sup>${esc(v.t)}`).join(" ") : ""}</p><button class="ghost small" data-speak-ref="${esc(ref)}">${esc(T("listen"))}</button></div>
-              ${who.length ? `<div class="chips"><span class="qmeta">${esc(T("peopleInReading"))}</span>${who.map((id) => ctx.chip(id)).join("")}</div>` : ""}</details>`;
-          }).join("")}</div>
-          <p class="gfoot">${esc(T("readingsNote"))}</p>` : ""}
-      </section>
 
       <section class="tsec"><h2>${esc(T("personOfDay"))}</h2>
         <button class="potd" data-id="${potd.id}"><span class="eyebrow">${esc(potd.role)} · ${esc(potd.era)}</span><b>${esc(potd.name)}</b><span>${esc(potd.summary)}</span></button>

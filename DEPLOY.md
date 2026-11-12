@@ -9,24 +9,30 @@ AWS console → Route 53 → Registered domains → Register domain (e.g. thedai
 Route 53 creates the hosted zone automatically. (If you buy elsewhere, create a Route 53 hosted zone
 and point the registrar's nameservers at it.)
 
-## 2. Create the AWS resources (Terraform)
-```bash
-cd infra
-cp terraform.tfvars.example terraform.tfvars   # set your domain and email
-terraform init
-terraform apply                                 # takes ~10–20 min (certificate + CloudFront)
-terraform output                                # note the four values
-```
-If the account already has a GitHub OIDC provider (Scotty's Edge may have created one), set
-`create_github_oidc_provider = false` in terraform.tfvars.
+## 2. Create the AWS resources (one command)
+In the AWS console, open **CloudShell** (the `>_` icon in the top bar). It is a terminal already signed in
+to your account. Paste this, with your own domain and email:
 
-Keep `terraform.tfstate` safe (it is git-ignored). For a shared setup, move state to an S3 backend.
+```bash
+git clone https://github.com/scarusillo/Daily-Catholic && cd Daily-Catholic/infra && bash setup.sh yourdomain.com you@example.com
+```
+
+It takes 10–20 minutes (certificate + CloudFront) and ends by printing the three values for step 3.
+It builds: a private S3 bucket, CloudFront with HTTPS, the certificate, DNS records, a www redirect,
+a $5/month spending alert to your email, and a sign-in role that lets GitHub deploy without stored keys.
+The record of what was built is kept in a separate S3 bucket in your account, so it is safe to close
+CloudShell; running the command again later is harmless.
+
+A brand-new AWS account sometimes refuses CloudFront until the account is verified (usually within a day).
+If the command stops with a message about verification, wait and run it again.
 
 ## 3. Connect GitHub
 GitHub → Daily-Catholic → Settings → Secrets and variables → Actions → **Variables** → add:
-- `AWS_ROLE_ARN` = output `deploy_role_arn`
-- `S3_BUCKET` = output `s3_bucket`
-- `CF_DISTRIBUTION_ID` = output `cloudfront_distribution_id`
+- `AWS_ROLE_ARN`
+- `S3_BUCKET`
+- `CF_DISTRIBUTION_ID`
+
+(the values printed at the end of step 2)
 
 Then Actions → "Deploy to AWS" → Run workflow. Every push to main deploys automatically after that.
 No AWS keys are stored in GitHub; it signs in with a short-lived role.

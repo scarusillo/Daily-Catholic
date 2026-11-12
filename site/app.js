@@ -714,7 +714,7 @@
     }
     window.BPM = {
       store, getJSON, esc, chip, refLabel, parseRef, verses, loadBible, loadMentions, openPerson, explored, badges, db, user,
-      get PEOPLE() { return PEOPLE; }, get P() { return P; }, get BOOKS() { return BOOKS; }, MENTIONS: () => MENTIONS,
+      get PEOPLE() { return PEOPLE; }, get P() { return P; }, get BOOKS() { return BOOKS; }, MENTIONS: () => MENTIONS, bibleReady: () => !!BIBLE && !!MENTIONS,
     };
     if (window.BPM_CONFIG?.donateUrl) { const g = document.getElementById("givelink"); if (g) g.hidden = false; }
     setupSearch(); setupPanel();

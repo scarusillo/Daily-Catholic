@@ -12,6 +12,8 @@
   function seedOf(str) { let h = 2166136261; for (const c of str) { h ^= c.charCodeAt(0); h = Math.imul(h, 16777619); } return h >>> 0; }
   function rng(seed) { let s = seed >>> 0 || 1; return () => { s ^= s << 13; s >>>= 0; s ^= s >>> 17; s ^= s << 5; s >>>= 0; return s / 4294967296; }; }
   const pick = (R, a) => a[Math.floor(R() * a.length)];
+  // compare names without accents or case: "Moises" matches "Moisés"
+  const plain = (t) => String(t).normalize("NFD").replace(/[\u0300-\u036f]/g, "").trim().toLowerCase();
   function shuffle(R, a) { a = a.slice(); for (let i = a.length - 1; i > 0; i--) { const j = Math.floor(R() * (i + 1)); [a[i], a[j]] = [a[j], a[i]]; } return a; }
   const dayKey = (d = new Date()) => `${d.getFullYear()}-${String(d.getMonth() + 1).padStart(2, "0")}-${String(d.getDate()).padStart(2, "0")}`;
   const dayNumber = () => Math.floor((Date.parse(dayKey()) - Date.parse("2026-10-20")) / 864e5) + 1;
@@ -41,7 +43,14 @@
   }
 
   let THEMES = null, PLACES = null, GEO = null, threadsAbort = null;
-  async function themes() { THEMES ??= await C().getJSON("data/themes.json"); return THEMES; }
+  let THEMES_ES = null;
+  async function themes() {
+    THEMES ??= await C().getJSON("data/themes.json");
+    if (window.I18N?.lang === "es") THEMES_ES ??= await C().getJSON("data/themes_es.json").catch(() => ({}));
+    return THEMES;
+  }
+  // theme text in the current language (the hidden words themselves stay as in the English Bible text)
+  const tx = (t, f) => (window.I18N?.lang === "es" && THEMES_ES?.[t.id]?.[f]) || t[f] || "";
 
   /* =====================================================================
      THREADS — find the theme words hidden as letter paths; the golden thread
@@ -111,7 +120,7 @@
     root.innerHTML = `
       <div class="game">
         <div class="ghead"><button class="back" data-go="play">‹ ${X("Games", "Juegos")}</button><h1>Threads</h1><span class="qmeta">#${dayNumber()}</span></div>
-        <div class="tclue"><span class="eyebrow">${X("Today's theme", "Tema de hoy")}</span><b>${esc(pz.theme.clue || pz.theme.title)}</b></div>
+        <div class="tclue"><span class="eyebrow">${X("Today's theme", "Tema de hoy")}</span><b>${esc(tx(pz.theme, "clue") || tx(pz.theme, "title"))}</b></div>
         <p class="qmeta" id="tprog"></p>
         <div class="tgrid-wrap"><svg class="tlines" id="tlines"></svg><div class="tgrid" id="tgrid" style="grid-template-rows:repeat(${pz.rows},1fr)">${pz.grid.map((ch, i) => `<button class="tcell" data-i="${i}" aria-label="${ch}">${ch}</button>`).join("")}</div></div>
         <div class="tword" id="tword" aria-live="polite">&nbsp;</div>
@@ -193,9 +202,9 @@
       const t = pz.theme;
       const emoji = st.log.map((x) => (x === "S" ? "✨" : x === "H" ? "🕯️" : "🧵")).join("");
       const people = pz.placed.filter((p) => p.person).map((p) => C().chip(p.person)).join("");
-      $("#tdone", root).innerHTML = `<div class="qcard"><h2>${esc(t.title)}</h2><p>${esc(t.explain || "")} ${t.ref ? `<button class="ref" data-ref="${esc(t.ref)}">${esc(C().refLabel(t.ref))}</button>` : ""}</p>
+      $("#tdone", root).innerHTML = `<div class="qcard"><h2>${esc(tx(t, "title"))}</h2><p>${esc(tx(t, "explain"))} ${t.ref ? `<button class="ref" data-ref="${esc(t.ref)}">${esc(C().refLabel(t.ref))}</button>` : ""}</p>
         <div class="chips">${people}</div><p class="qmeta">${X("Streak", "Racha")}: ${streak("threads")} day${streak("threads") === 1 ? "" : "s"}</p><button class="qnext" id="tshare">${X("Share result", "Compartir resultado")}</button></div>`;
-      $("#tshare", root).onclick = (e) => share(`The Daily Catholic · Threads #${dayNumber()}\n“${t.title}”\n${emoji}\n${SITE}`, e.target);
+      $("#tshare", root).onclick = (e) => share(`The Daily Catholic · Threads #${dayNumber()}\n“${tx(t, "title")}”\n${emoji}\n${SITE}`, e.target);
       $("#thint", root).disabled = true;
     }
     new ResizeObserver(draw).observe($("#tgrid", root));
@@ -250,7 +259,7 @@
       const shownGroups = over ? [...st.solved, ...[0, 1, 2, 3].filter((g) => !st.solved.includes(g))] : st.solved;
       $("#lsolved", root).innerHTML = shownGroups.map((gi) => {
         const g = groups[gi];
-        return `<div class="lgroup d${g.t.difficulty || 2}"><b>${esc(g.t.title)}</b><span>${g.items.map((w) => C().chip(w.person)).join(" ")}</span></div>`;
+        return `<div class="lgroup d${g.t.difficulty || 2}"><b>${esc(tx(g.t, "title"))}</b><span>${g.items.map((w) => C().chip(w.person)).join(" ")}</span></div>`;
       }).join("");
       const left = st.order.filter((id) => !shownGroups.includes(groupOf(id)));
       $("#lgrid", root).innerHTML = left.map((id) => `<button class="ltile${sel.includes(id) ? " on" : ""}" data-pid="${id}">${esc(label(id))}</button>`).join("");
@@ -284,7 +293,7 @@
       const sq = ["", "⚪", "🟢", "🔴", "🟣"];
       const grid = st.guesses.map((gs) => gs.map((g) => sq[groups[g].t.difficulty || 2]).join("")).join("\n");
       $("#ldone", root).innerHTML = `<div class="qcard"><h2>${won ? (st.mistakes ? "Solved" : "Perfect!") : "Out of tries"}</h2>
-        ${groups.map((g) => `<p><b>${esc(g.t.title)}.</b> ${esc(g.t.explain || "")}</p>`).join("")}
+        ${groups.map((g) => `<p><b>${esc(tx(g.t, "title"))}.</b> ${esc(tx(g.t, "explain"))}</p>`).join("")}
         <p class="qmeta">${X("Streak", "Racha")}: ${streak("links")}</p><button class="qnext" id="lshare">${X("Share result", "Compartir resultado")}</button></div>`;
       $("#lshare", root).onclick = (e) => share(`The Daily Catholic · Lineage Links #${dayNumber()}\n${grid}\n${SITE}`, e.target);
     }
@@ -355,7 +364,7 @@
       const inp = e.target.closest(".ain"); if (!inp) return;
       const i = +inp.closest(".aclue").dataset.i, p = pz.clues[i];
       const v = inp.value.trim().toLowerCase();
-      if ([p.name, ...p.aliases].some((n) => n.toLowerCase() === v)) {
+      if ([p.name, ...p.aliases].some((n) => plain(n) === plain(v))) {
         st.solved.push(i); save(); draw();
         const next = root.querySelector(".ain:not(:disabled)"); next?.focus();
       }
@@ -582,14 +591,15 @@
      stations (Word, Place, Verse, Family) each unlock a clue. Name the
      pilgrim as early as you can. Candles measure how well you did.
      ===================================================================== */
-  const WORD_RE = /[A-Za-z]+/g;
+  const WORD_RE = /[A-Za-zÀ-ÿ]+/g;
   function pickPilgrim(dk) {
     const R = rng(seedOf("pilgrim" + dk));
     const P = C().P;
     const atPlace = {};
     for (const pl of PLACES) for (const ev of pl.events) for (const id of ev.people || []) (atPlace[id] ??= []).push({ pl, ev });
     const rel = (p) => [p.father, p.mother, ...p.spouses, ...p.children].filter((x) => x && P[x]);
-    const cands = C().PEOPLE.filter((p) => atPlace[p.id] && /^[A-Za-z]{3,10}$/.test(p.name) && p.mentions >= 12 && p.summary.length > 100 && p.keyPassages.length && rel(p).length >= 2);
+    // judged on the English profile, so both languages share the same pilgrim each day
+    const cands = C().PEOPLE.filter((p) => atPlace[p.id] && /^[A-Za-z]{3,10}$/.test((p._en || p).name) && p.mentions >= 12 && (p._en || p).summary.length > 100 && p.keyPassages.length && rel(p).length >= 2);
     // a fixed shuffled rotation, so nobody repeats until everyone has had a day
     const order = shuffle(rng(seedOf("pilgrim-rotation-v1")), cands.sort((x, y) => (x.id < y.id ? -1 : 1)));
     const idx = Math.floor((Date.parse(dk) - Date.parse("2026-10-20")) / 864e5);
@@ -732,7 +742,7 @@
         e.preventDefault();
         const v = $("#pgi", root).value.trim();
         if (!v) return;
-        if (g.names.some((nm) => nm.toLowerCase() === v.toLowerCase())) { st.won = true; st.wonEarly = Object.keys(st.done).length < STATIONS.length; st.guesses.push("✓"); for (const x of STATIONS) st.done[x.id] = true; }
+        if (g.names.some((nm) => plain(nm) === plain(v))) { st.won = true; st.wonEarly = Object.keys(st.done).length < STATIONS.length; st.guesses.push("✓"); for (const x of STATIONS) st.done[x.id] = true; }
         else st.guesses.push(v);
         save(); refresh();
       };

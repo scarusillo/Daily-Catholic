@@ -73,17 +73,32 @@ def main():
                   {"src": "icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable"}],
     }, indent=1), encoding="utf-8")
     files = ["./", "index.html", "app.js", "app.css", "config.js", "i18n.js", "games.js", "today.js", "parish.js", "pray.js", "about.js", "manifest.webmanifest", "icon-192.png"] + \
-            [f"data/{f.relative_to(DATA).as_posix()}" for f in DATA.rglob("*.json")] + ["vendor/d3.min.js"]
+            [f"data/{f.relative_to(DATA).as_posix()}" for f in DATA.rglob("*.json")] + ["vendor/d3.min.js"] + [f"vendor/fonts/{f.name}" for f in sorted((SITE / "vendor/fonts").iterdir())]
     version = str(int(max(p.stat().st_mtime for p in DIST.rglob("*") if p.is_file())))
     (DIST / "sw.js").write_text(f"""// Offline support: cache the app shell and data; refresh in the background.
 const CACHE = "bpm-{version}";
 const FILES = {json.dumps(files)};
 self.addEventListener("install", (e) => e.waitUntil(caches.open(CACHE).then((c) => Promise.allSettled(FILES.map((f) => c.add(f)))).then(() => self.skipWaiting())));
 self.addEventListener("activate", (e) => e.waitUntil(caches.keys().then((ks) => Promise.all(ks.filter((k) => k !== CACHE).map((k) => caches.delete(k)))).then(() => self.clients.claim())));
+// The app itself (page, scripts, styles) comes from the network when online, so a new version shows on the
+// first visit after it ships; the saved copy is the fallback offline or on a slow connection (3 s).
+// Data and fonts are served from the saved copy at once and refreshed in the background.
+const SHELL = /([/]|[.]html|[.]js|[.]css|[.]webmanifest)$/;
 self.addEventListener("fetch", (e) => {{
   if (e.request.method !== "GET") return;
+  const url = new URL(e.request.url);
+  if (url.origin !== location.origin) return;
+  const keep = (r) => {{ if (r.ok) {{ const copy = r.clone(); caches.open(CACHE).then((c) => c.put(e.request, copy)); }} return r; }};
+  if (SHELL.test(url.pathname)) {{
+    e.respondWith(caches.match(e.request).then((hit) => {{
+      const net = fetch(e.request).then(keep);
+      if (!hit) return net;
+      return Promise.race([net, new Promise((res) => setTimeout(() => res(hit), 3000))]).catch(() => hit);
+    }}));
+    return;
+  }}
   e.respondWith(caches.match(e.request).then((hit) => {{
-    const net = fetch(e.request).then((r) => {{ if (r.ok) caches.open(CACHE).then((c) => c.put(e.request, r.clone())); return r; }}).catch(() => hit);
+    const net = fetch(e.request).then(keep).catch(() => hit);
     return hit || net;
   }}));
 }});

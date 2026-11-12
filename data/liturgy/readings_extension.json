@@ -1,0 +1,299 @@
+{
+ "christmas-0104": {
+  "first": "1jn 3:7-10",
+  "psalm": "psa 98:1-9",
+  "gospel": "jhn 1:35-42",
+  "confidence": "high"
+ },
+ "christmas-0105": {
+  "first": "1jn 3:11-21",
+  "psalm": "psa 100:1-5",
+  "gospel": "jhn 1:43-51",
+  "confidence": "high"
+ },
+ "christmas-0106": {
+  "first": "1jn 5:5-13",
+  "psalm": "psa 147:12-20",
+  "gospel": "mrk 1:7-11",
+  "confidence": "high"
+ },
+ "ordinary-3-monday|I": {
+  "first": "heb 9:15-28",
+  "psalm": "psa 98:1-6",
+  "gospel": "mrk 3:22-30",
+  "confidence": "high"
+ },
+ "ordinary-4-tuesday|I": {
+  "first": "heb 12:1-4",
+  "psalm": "psa 22:25-31",
+  "gospel": "mrk 5:21-43",
+  "confidence": "high"
+ },
+ "ordinary-5-wednesday|I": {
+  "first": "gen 2:4-17",
+  "psalm": "psa 104:1-30",
+  "gospel": "mrk 7:14-23",
+  "confidence": "high"
+ },
+ "ordinary-5-thursday|I": {
+  "first": "gen 2:18-25",
+  "psalm": "psa 128:1-5",
+  "gospel": "mrk 7:24-30",
+  "confidence": "high"
+ },
+ "ordinary-5-friday|I": {
+  "first": "gen 3:1-8",
+  "psalm": "psa 32:1-7",
+  "gospel": "mrk 7:31-37",
+  "confidence": "high"
+ },
+ "ordinary-5-saturday|I": {
+  "first": "gen 3:9-24",
+  "psalm": "psa 90:2-13",
+  "gospel": "mrk 8:1-10",
+  "confidence": "high"
+ },
+ "ordinary-6-monday|I": {
+  "first": "gen 4:1-25",
+  "psalm": "psa 50:1-21",
+  "gospel": "mrk 8:11-13",
+  "confidence": "high"
+ },
+ "ordinary-6-tuesday|I": {
+  "first": "gen 6:5-7:10",
+  "psalm": "psa 29:1-10",
+  "gospel": "mrk 8:14-21",
+  "confidence": "high"
+ },
+ "ordinary-9-monday|I": {
+  "first": "tob 1:3-2:8",
+  "psalm": "psa 112:1-6",
+  "gospel": "mrk 12:1-12",
+  "confidence": "high"
+ },
+ "ordinary-12-thursday|I": {
+  "first": "gen 16:1-16",
+  "psalm": "psa 106:1-5",
+  "gospel": "mat 7:21-29",
+  "confidence": "high"
+ },
+ "ordinary-13-saturday|I": {
+  "first": "gen 27:1-29",
+  "psalm": "psa 135:1-6",
+  "gospel": "mat 9:14-17",
+  "confidence": "high"
+ },
+ "ordinary-16-thursday|I": {
+  "first": "exo 19:1-20",
+  "psalm": "dan 3:52-56",
+  "gospel": "mat 13:10-17",
+  "confidence": "high"
+ },
+ "ordinary-19-tuesday|I": {
+  "first": "deu 31:1-8",
+  "psalm": "deu 32:3-12",
+  "gospel": "mat 18:1-14",
+  "confidence": "high"
+ },
+ "ordinary-21-tuesday|I": {
+  "first": "1th 2:1-8",
+  "psalm": "psa 139:1-6",
+  "gospel": "mat 23:23-26",
+  "confidence": "high"
+ },
+ "ordinary-23-wednesday|I": {
+  "first": "col 3:1-11",
+  "psalm": "psa 145:2-13",
+  "gospel": "luk 6:20-26",
+  "confidence": "high"
+ },
+ "ordinary-24-tuesday|I": {
+  "first": "1ti 3:1-13",
+  "psalm": "psa 101:1-6",
+  "gospel": "luk 7:11-17",
+  "confidence": "high"
+ },
+ "ordinary-25-tuesday|I": {
+  "first": "ezr 6:7-20",
+  "psalm": "psa 122:1-5",
+  "gospel": "luk 8:19-21",
+  "confidence": "high"
+ },
+ "ordinary-26-wednesday|I": {
+  "first": "neh 2:1-8",
+  "psalm": "psa 137:1-6",
+  "gospel": "luk 9:57-62",
+  "confidence": "high"
+ },
+ "ordinary-29-monday|I": {
+  "first": "rom 4:20-25",
+  "psalm": "luk 1:69-75",
+  "gospel": "luk 12:13-21",
+  "confidence": "high"
+ },
+ "ordinary-31-monday|I": {
+  "first": "rom 11:29-36",
+  "psalm": "psa 69:29-35",
+  "gospel": "luk 14:12-14",
+  "confidence": "medium"
+ },
+ "ordinary-31-tuesday|I": {
+  "first": "rom 12:5-16",
+  "psalm": "psa 131:1-3",
+  "gospel": "luk 14:15-24",
+  "confidence": "high"
+ },
+ "ordinary-32-tuesday|I": {
+  "first": "wis 2:23-3:9",
+  "psalm": "psa 34:1-18",
+  "gospel": "luk 17:7-10",
+  "confidence": "high"
+ },
+ "ordinary-7-tuesday|II": {
+  "first": "jas 4:1-10",
+  "psalm": "psa 55:6-22",
+  "gospel": "mrk 9:30-37",
+  "confidence": "high"
+ },
+ "ordinary-13-monday|II": {
+  "first": "amo 2:6-16",
+  "psalm": "psa 50:16-23",
+  "gospel": "mat 8:18-22",
+  "confidence": "high"
+ },
+ "ordinary-18-thursday|II": {
+  "first": "jer 31:31-34",
+  "psalm": "psa 51:10-17",
+  "gospel": "mat 16:13-23",
+  "confidence": "high"
+ },
+ "ordinary-30-wednesday|II": {
+  "first": "eph 6:1-9",
+  "psalm": "psa 145:10-14",
+  "gospel": "luk 13:22-30",
+  "confidence": "high"
+ },
+ "ordinary-6-wednesday|I": {
+  "first": "gen 8:6-22",
+  "psalm": "psa 116:12-19",
+  "gospel": "mrk 8:22-26",
+  "confidence": "high"
+ },
+ "ordinary-6-thursday|I": {
+  "first": "gen 9:1-13",
+  "psalm": "psa 102:15-28",
+  "gospel": "mrk 8:27-33",
+  "confidence": "high"
+ },
+ "ordinary-6-friday|I": {
+  "first": "gen 11:1-9",
+  "psalm": "psa 33:10-15",
+  "gospel": "mrk 8:34-9:1",
+  "confidence": "high"
+ },
+ "ordinary-9-friday|I": {
+  "first": "tob 11:5-17",
+  "psalm": "psa 146:1-10",
+  "gospel": "mrk 12:35-37",
+  "confidence": "medium"
+ },
+ "ordinary-13-tuesday|I": {
+  "first": "gen 19:15-29",
+  "psalm": "psa 26:2-12",
+  "gospel": "mat 8:23-27",
+  "confidence": "high"
+ },
+ "ordinary-18-friday|I": {
+  "first": "deu 4:32-40",
+  "psalm": "psa 77:11-20",
+  "gospel": "mat 16:24-28",
+  "confidence": "high"
+ },
+ "ordinary-30-thursday|I": {
+  "first": "rom 8:31-39",
+  "psalm": "psa 109:21-31",
+  "gospel": "luk 13:31-35",
+  "confidence": "high"
+ },
+ "ordinary-6-saturday|I": {
+  "first": "heb 11:1-7",
+  "psalm": "psa 145:2-11",
+  "gospel": "mrk 9:2-13",
+  "confidence": "high"
+ },
+ "advent-3-friday": {
+  "first": "isa 56:1-8",
+  "psalm": "psa 67:1-7",
+  "gospel": "jhn 5:33-36",
+  "confidence": "high"
+ },
+ "christmas-0107": {
+  "first": "1jn 5:14-21",
+  "psalm": "psa 149:1-9",
+  "gospel": "jhn 2:1-11",
+  "confidence": "high"
+ },
+ "ordinary-10-sunday|A": {
+  "first": "hos 6:3-6",
+  "psalm": "psa 50:1-15",
+  "second": "rom 4:18-25",
+  "gospel": "mat 9:9-13",
+  "confidence": "high"
+ },
+ "ordinary-31-sunday|A": {
+  "first": "mal 1:14-2:10",
+  "psalm": "psa 131:1-3",
+  "second": "1th 2:7-13",
+  "gospel": "mat 23:1-12",
+  "confidence": "high"
+ },
+ "ordinary-6-sunday|B": {
+  "first": "lev 13:1-46",
+  "psalm": "psa 32:1-11",
+  "second": "1co 10:31-11:1",
+  "gospel": "mrk 1:40-45",
+  "confidence": "high"
+ },
+ "ordinary-7-sunday|B": {
+  "first": "isa 43:18-25",
+  "psalm": "psa 41:1-13",
+  "second": "2co 1:18-22",
+  "gospel": "mrk 2:1-12",
+  "confidence": "high"
+ },
+ "ordinary-8-sunday|B": {
+  "first": "hos 2:14-20",
+  "psalm": "psa 103:1-13",
+  "second": "2co 3:1-6",
+  "gospel": "mrk 2:18-22",
+  "confidence": "high"
+ },
+ "ordinary-20-sunday|B": {
+  "first": "pro 9:1-6",
+  "psalm": "psa 34:1-6",
+  "second": "eph 5:15-20",
+  "gospel": "jhn 6:51-58",
+  "confidence": "high"
+ },
+ "ordinary-18-sunday|C": {
+  "first": "ecc 1:2-2:23",
+  "psalm": "psa 90:3-17",
+  "second": "col 3:1-11",
+  "gospel": "luk 12:13-21",
+  "confidence": "high"
+ },
+ "ordinary-11-sunday|C": {
+  "first": "2sa 12:7-13",
+  "psalm": "psa 32:1-11",
+  "second": "gal 2:16-21",
+  "gospel": "luk 7:36-8:3",
+  "confidence": "high"
+ },
+ "ordinary-9-sunday|A": {
+  "first": "deu 11:18-32",
+  "psalm": "psa 31:1-24",
+  "second": "rom 3:21-28",
+  "gospel": "mat 7:21-27",
+  "confidence": "high"
+ }
+}
