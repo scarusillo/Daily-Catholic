@@ -23,6 +23,15 @@
     eraColor = (e) => s(eraIdx(e));
   }
 
+  /* ---------- phone "More" sheet ---------- */
+  function closeMore() { const m = $("#moresheet"); if (m) { m.hidden = true; $("#morebtn").setAttribute("aria-expanded", "false"); } }
+  document.addEventListener("click", (e) => {
+    const btn = e.target.closest("#morebtn"), sheet = $("#moresheet");
+    if (btn) { sheet.hidden = !sheet.hidden; btn.setAttribute("aria-expanded", String(!sheet.hidden)); }
+    else if (!sheet.hidden) closeMore();
+  });
+  document.addEventListener("keydown", (e) => { if (e.key === "Escape") closeMore(); });
+
   /* ---------- data ---------- */
   async function getJSON(u) {
     const r = await fetch(u);
@@ -88,7 +97,12 @@
     for (const v of VIEWS) $(`#view-${v}`).hidden = v !== section;
     const tab = ["map", "canon", "people"].includes(section) ? "bible" : section;
     document.querySelectorAll(".tabs a").forEach((a) => a.classList.toggle("on", a.dataset.view === tab));
-    document.querySelector(".tabs a.on")?.scrollIntoView({ block: "nearest", inline: "center" });
+    // phone dock: four main sections, everything else lives under More
+    const docked = ["today", "pray", "play", "bible"].includes(tab);
+    document.querySelectorAll(".dock a").forEach((a) => a.classList.toggle("on", a.dataset.view === tab));
+    document.querySelectorAll(".moresheet a").forEach((a) => a.classList.toggle("on", a.dataset.view === tab));
+    $("#morebtn").classList.toggle("on", !docked);
+    closeMore();
     document.querySelectorAll(".subnav a").forEach((a) => a.classList.toggle("on", a.dataset.sub === section));
     store.set("bpm.view", view);
     const el = $(`#view-${section}`);

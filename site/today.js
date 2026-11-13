@@ -80,6 +80,13 @@
         ${cel.slice(1).length ? `<p>${esc(T("alsoToday"))} ${cel.slice(1).map((c) => esc(celTitle(c))).join("; ")}</p>` : ""}
       </section>
 
+      ${ctx.store.get("bpm.welcomed", false) ? "" : `<section class="welcome" id="welcome">
+        <h2>${X("Welcome to The Daily Catholic", "Bienvenido a The Daily Catholic")}</h2>
+        <p>${X("Each day you'll find the Mass readings, the saint of the day and seven short games. Pray the Rosary, explore everyone in the Bible and how they connect, and find a Mass or Confession near you. It's free, with no ads and no account.", "Cada día encontrarás las lecturas de la Misa, el santo del día y siete juegos breves. Reza el Rosario, explora a todas las personas de la Biblia y cómo se relacionan, y encuentra una Misa o Confesión cerca de ti. Es gratis, sin anuncios y sin cuenta.")}</p>
+        ${matchMedia("(display-mode: standalone)").matches || window.Capacitor ? "" : `<p>${X("Tip: add this page to your home screen to open it like an app, even offline.", "Consejo: añade esta página a tu pantalla de inicio para abrirla como una app, incluso sin conexión.")}</p>`}
+        <div class="chips"><button class="qnext" id="welcomeok">${X("Get started", "Comenzar")}</button><a class="chip" href="#about">${X("Our promise", "Nuestra promesa")}</a></div>
+      </section>`}
+
       <section class="tsec"><h2>${rdate === dk ? esc(T("todayReadings")) : `${esc(T("sundayReadings"))} · ${new Date(rdate + "T12:00").toLocaleDateString(loc, { month: "long", day: "numeric" })}`}</h2>
         ${rd ? `<p class="qmeta">${esc(rd.title ? L(rd.title) : celTitle(rday[4][0], rday))}${rd.confidence && rd.confidence !== "high" ? ` · ${esc(T("unverified"))}` : ""}</p>
           ${rd.note ? `<p>${esc(L(rd.note))}</p>` : ""}
@@ -112,6 +119,8 @@
       <section class="tsec" id="remind"></section>
       <section class="tsec" id="inbox" hidden></section>
     </div>`;
+    const wok = $("#welcomeok", root);
+    if (wok) wok.onclick = () => { ctx.store.set("bpm.welcomed", true); $("#welcome", root).remove(); };
     renderReminder($("#remind", root));
     // continue a journey
     try {

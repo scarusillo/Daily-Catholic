@@ -77,5 +77,21 @@ const chaplet = {
 const ids = new Set(prayers.map((p) => p.id));
 for (const st of [...rosary.sequence, ...rosary.decade, ...chaplet.sequence, ...chaplet.decade])
   if (!["decade", "announce-mystery"].includes(st.step) && !ids.has(st.step)) throw new Error("missing prayer " + st.step);
+// Editorial grouping and order (the source packages' categories put, for example, the Act of Faith under
+// penitential prayers). Anything not listed keeps its source group and sorts after the listed ones.
+const SHELF = {
+  essential: ["sign-of-the-cross", "our-father", "hail-mary", "glory-be", "apostles-creed", "act-of-contrition", "act-of-faith", "act-of-hope", "act-of-love", "come-holy-spirit"],
+  daily: ["morning-offering", "grace-before-meals", "grace-after-meals", "evening-prayer", "jesus-prayer", "prayer-of-st-francis", "canticle-of-zechariah", "canticle-of-simeon", "te-deum", "veni-creator-spiritus", "armor-of-god"],
+  marian: ["memorare", "hail-holy-queen", "salve-regina", "magnificat", "regina-caeli", "sub-tuum-praesidium", "fatima-prayer", "rosary-closing-prayer", "alma-redemptoris-mater", "ave-regina-caelorum", "litany-of-loreto"],
+  eucharist: ["anima-christi", "prayer-before-crucifix", "litany-of-the-sacred-heart"],
+  mercy: ["eternal-father", "for-the-sake-of-his-sorrowful-passion", "holy-god", "divine-mercy-closing-prayer"],
+  saints: ["prayer-to-st-michael", "prayer-to-guardian-angel", "prayer-to-st-joseph", "prayer-to-st-anthony", "prayer-to-st-jude", "prayer-to-st-therese", "prayer-to-st-rita", "prayer-to-st-patrick", "chaplet-of-st-michael"],
+  seasons: ["advent-antiphons", "christmas-prayer", "lenten-prayer", "easter-prayer"],
+  sorrow: ["confiteor", "eternal-rest", "prayer-for-the-dead"],
+};
+const shelf = {};
+for (const [g, ids] of Object.entries(SHELF)) ids.forEach((id, i) => { shelf[id] = [g, i]; });
+for (const p of prayers) if (shelf[p.id]) p.group = shelf[p.id][0];
+prayers.sort((a, b) => (shelf[a.id]?.[1] ?? 99) - (shelf[b.id]?.[1] ?? 99));
 fs.writeFileSync(path.join(ROOT, "public/data/prayers.json"), JSON.stringify({ prayers, rosary, chaplet, credit: "Prayer texts: CodexCommunion prayer-collection; rosario (MIT)." }));
 console.log(prayers.length, "prayers;", Object.values(mysteries).reduce((a, m) => a + m.items.length, 0), "mysteries");

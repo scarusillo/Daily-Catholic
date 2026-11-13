@@ -33,7 +33,7 @@
   function renderPrayers(root) {
     const groups = {};
     for (const p of PR.prayers) (groups[p.group] ??= []).push(p);
-    const order = ["essential", "marian", "daily", "eucharist", "saints", "sorrow"];
+    const order = ["essential", "daily", "marian", "eucharist", "mercy", "saints", "seasons", "sorrow"];
     root.innerHTML = `${subnav("pray")}<div class="hub">
       <div class="ghead"><h1>${esc(T("pray"))}</h1></div><p class="lede">${esc(T("prayLede"))}</p>
       <div class="gcards two"><button class="gcard" data-go="rosary"><span class="gname">${esc(T("startRosary"))}</span><span class="gdesc">${esc(T("todaysMysteries"))}: ${esc(L(PR.rosary.mysteries[todaysSet()]))}</span></button>

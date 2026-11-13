@@ -469,3 +469,59 @@ a.qnext.findconf { text-decoration: none; justify-self: start; }
 .ptimes th { text-align: left; font-weight: 700; padding: 6px 12px 6px 0; vertical-align: top; white-space: nowrap; width: 1%; }
 .ptimes td { padding: 6px 0; border-bottom: 1px solid var(--line); font-variant-numeric: tabular-nums; }
 .ptimes tr:last-child td { border-bottom: 0; }
+
+/* ---------- page frame: one centred column on wide screens ---------- */
+.bar-inner, main, .foot { max-width: 1180px; margin-inline: auto; }
+.game, .hub, .today, .journey { width: 100%; margin-inline: auto; }
+.bar-inner { flex-wrap: nowrap; }
+.tabs { flex-wrap: nowrap; }
+.tabs a { white-space: nowrap; }
+@media (max-width: 1080px) and (min-width: 641px) { .bar-inner { flex-wrap: wrap; } .tabs { order: 3; flex: 1 1 100%; overflow-x: auto; scrollbar-width: none; } }
+
+/* ---------- phone: bottom dock replaces the tab strip ---------- */
+.dock, .moresheet { display: none; }
+@media (max-width: 640px) {
+  .bar-inner { flex-wrap: nowrap; padding-block: 8px; }
+  .tabs { display: none; }
+  .brand { font-size: 1.02rem; flex: none; }
+  .search { order: 0; flex: 1 1 0; min-width: 0; }
+  .search input { padding: 6px 12px; font-size: .92rem; }
+  .langtog { order: 0; flex: none; }
+  .langtog button { padding: 6px 8px; }
+  .dock { display: grid; grid-template-columns: repeat(5, 1fr); position: fixed; z-index: 30; left: 0; right: 0; bottom: 0; background: var(--surface); border-top: 1px solid var(--line);
+    padding: 6px max(6px, env(safe-area-inset-right, 0px)) calc(6px + env(safe-area-inset-bottom, 0px)) max(6px, env(safe-area-inset-left, 0px)); }
+  .dock a, .dock button { display: grid; justify-items: center; gap: 2px; padding: 4px 0; border: 0; background: none; cursor: pointer; text-decoration: none;
+    color: var(--muted); font-family: var(--font-ui); font-size: .72rem; font-weight: 500; border-radius: 10px; }
+  .dock .on { color: var(--lapis); font-weight: 700; }
+  .moresheet:not([hidden]) { display: grid; position: fixed; z-index: 29; left: 8px; right: 8px; bottom: calc(64px + env(safe-area-inset-bottom, 0px)); background: var(--surface);
+    border: 1px solid var(--line); border-radius: 14px; box-shadow: 0 12px 30px rgb(0 0 0 / .22); padding: 6px; }
+  .moresheet a { padding: 12px 14px; border-radius: 10px; text-decoration: none; color: var(--fg); font-family: var(--font-ui); font-weight: 500; }
+  .moresheet a.on { background: var(--sunk); color: var(--lapis); }
+  .foot { padding-bottom: calc(84px + env(safe-area-inset-bottom, 0px)); }
+  /* the map: put the picture first, the explanation after */
+  .map-head .lede { display: none; }
+  .map-head h1 { font-size: 1.3rem; }
+  .legend { font-size: .72rem; gap: 4px 10px; order: 3; }
+  .map-wrap { height: 58vh; min-height: 340px; }
+}
+
+/* ---------- game hub polish ---------- */
+.gname { display: flex; align-items: center; gap: 10px; }
+.gico { flex: none; width: 34px; height: 34px; padding: 6px; border-radius: 9px; background: color-mix(in srgb, var(--lapis) 10%, var(--surface)); color: var(--lapis); }
+.gcard { transition: border-color .15s, box-shadow .15s, transform .15s; }
+.gcard:hover { box-shadow: 0 6px 18px rgb(0 0 0 / .08); transform: translateY(-1px); }
+.gcard.done .gico { background: color-mix(in srgb, var(--gold) 16%, var(--surface)); color: var(--gold); }
+.gcard.done .gstat { color: var(--muted); }
+
+/* ---------- five loaves: board and keyboard fit one phone screen ---------- */
+.loaves .tword { margin: 0; min-height: 1.4em; }
+.loaves .wgrid { width: min(100%, 330px, max(220px, calc((100dvh - 520px) * .83))); }
+@media (max-width: 640px) { .loaves .lede { font-size: .95rem; margin: 0; } .loaves { gap: 10px; } }
+
+/* ---------- first-visit welcome ---------- */
+.welcome { position: relative; display: grid; gap: 8px; padding: 16px 18px; border: 1px solid color-mix(in srgb, var(--gold) 45%, var(--line)); border-radius: var(--r);
+  background: color-mix(in srgb, var(--gold) 7%, var(--surface)); }
+.welcome h2 { font-size: 1.15rem; }
+.welcome p { margin: 0; color: var(--muted); }
+.welcome .chips { margin-top: 4px; }
+@media (max-width: 420px) { .search input { font-size: .84rem; padding-inline: 10px; } .bar-inner { gap: 6px; } }

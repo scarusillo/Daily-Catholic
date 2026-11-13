@@ -773,6 +773,17 @@
     { id: "tap", name: "Holy Land Tap", get desc() { return X("Five moments from Scripture. Tap where on the map they happened.", "Cinco momentos de la Escritura. Toca en el mapa dónde ocurrieron."); }, needs: "places" },
     { id: "quiz", get name() { return X("Daily Quiz", "Quiz diario"); }, get desc() { return X("Five questions on who's who, in three difficulty levels.", "Cinco preguntas sobre personajes bíblicos, en tres niveles."); }, needs: null },
   ];
+  // one small line drawing per game, so the hub reads at a glance
+  const gicon = (d) => `<svg class="gico" viewBox="0 0 24 24" aria-hidden="true" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round">${d}</svg>`;
+  const GAME_ICONS = {
+    pilgrim: '<path d="M12 3v18M7 8h10"/><path d="M5 21h14"/>',
+    loaves: '<path d="M4 13a8 5 0 0 1 16 0v4a2 2 0 0 1-2 2H6a2 2 0 0 1-2-2z"/><path d="M9 11.5v3M12 10.5v4M15 11.5v3"/>',
+    threads: '<circle cx="5" cy="6" r="1.6"/><circle cx="12" cy="12" r="1.6"/><circle cx="19" cy="7" r="1.6"/><circle cx="8" cy="18" r="1.6"/><path d="M6.3 7.100l4.400 3.800M13.400 11l4.3-3M11 13.3l-2 3.3"/>',
+    links: '<rect x="4" y="4" width="7" height="7" rx="1.5"/><rect x="13" y="13" width="7" height="7" rx="1.5"/><path d="M11 7.5h4a2 2 0 0 1 2 2V13"/>',
+    acrostic: '<path d="M5 6h3M5 12h3M5 18h3"/><path d="M11 6h8M11 12h8M11 18h5"/>',
+    tap: '<path d="M12 21s-6.5-6.2-6.5-11a6.5 6.5 0 0 1 13 0c0 4.800-6.5 11-6.5 11z"/><circle cx="12" cy="10" r="2.2"/>',
+    quiz: '<circle cx="12" cy="12" r="9"/><path d="M9.5 9.5a2.5 2.5 0 1 1 3.6 2.2c-.7.400-1.100.9-1.100 1.800"/><path d="M12 16.800v.2"/>',
+  };
   function renderHub(root) {
     const ctx = C();
     const explored = ctx.explored();
@@ -781,7 +792,7 @@
       <div class="ghead"><h1>${X("Play", "Jugar")}</h1><span class="qmeta">${new Date().toLocaleDateString(window.I18N?.locale(), { weekday: "long", month: "long", day: "numeric" })} · ${X("new puzzles every day", "nuevos juegos cada día")}</span></div>
       <div class="gcards">${GAMES.map((g) => {
         const done = playedToday(g.id), s = streak(g.id);
-        return `<button class="gcard" data-go="${g.id}"><span class="gname">${g.name}</span><span class="gdesc">${g.desc}</span>
+        return `<button class="gcard${done ? " done" : ""}" data-go="${g.id}"><span class="gname">${gicon(GAME_ICONS[g.id] || "")}${g.name}</span><span class="gdesc">${g.desc}</span>
           <span class="gstat">${done ? X("✓ Played today", "✓ Jugado hoy") : X("Ready", "Listo")}${s ? ` · ${X(`${s}-day streak`, `racha de ${s} días`)}` : ""}</span></button>`;
       }).join("")}</div>
       <h2>${X("Your progress", "Tu progreso")}</h2>

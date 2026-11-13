@@ -5,7 +5,7 @@
   const STR = {
     en: {
       today: "Today", pray: "Pray", play: "Play", bible: "Bible", journeys: "Journeys", music: "Music", sacraments: "Sacraments", mass: "Find a Church",
-      findPerson: "Find a person…", map: "Map", people: "People", booksTab: "Books", games: "Games", back: "Back",
+      findPerson: "Find a person…", map: "Map", people: "People", booksTab: "Books", more: "More", games: "Games", back: "Back",
       footer: "Scripture: World English Bible, Catholic Edition (public domain). Teaching notes are study summaries; consult the Catechism of the Catholic Church for authoritative teaching.",
       scriptureEnglish: "",
       // today
@@ -15,11 +15,11 @@
       readingsNote: "Readings follow the Lectionary for Mass (US). Verse numbers follow the World English Bible and can differ slightly from your missal.",
       unverified: "citation not yet verified, check your missal", reminders: "Daily reminder", reminderLede: "Get a reminder each day for the readings and today's puzzles.",
       reminderTime: "Time", addToCalendar: "Add to my calendar", reminderSet: "Daily reminder set for", reminderIcs: "A calendar file was created. Open it to add a daily reminder to your phone's calendar.",
-      season: { ordinary: "Ordinary Time", advent: "Advent", christmas: "Christmas", lent: "Lent", triduum: "Easter Triduum", easter: "Easter" }, week: "week", colour: "liturgical colour",
+      season: { ordinary: "Ordinary Time", advent: "Advent", christmas: "Christmas", lent: "Lent", triduum: "Easter Triduum", easter: "Easter" }, week: "week", colour: "liturgical color",
       // pray
       prayers: "Prayers", rosary: "Rosary", chaplet: "Divine Mercy Chaplet", confession: "Confession", theMass: "The Mass",
       prayLede: "The prayers every Catholic knows, a guided Rosary and Divine Mercy Chaplet, a gentle guide to Confession, and the Mass explained step by step.",
-      group: { essential: "Essential prayers", marian: "Prayers to Mary", daily: "Daily prayers", saints: "Saints and angels", eucharist: "The Eucharist", sorrow: "Sorrow and the dead" },
+      group: { essential: "Essential prayers", marian: "Prayers to Mary", daily: "Daily prayers", saints: "Saints and angels", eucharist: "Jesus and the Eucharist", mercy: "Divine Mercy", seasons: "Seasons of the year", sorrow: "Sorrow and the dead" },
       startRosary: "Pray the Rosary", startChaplet: "Pray the Chaplet", todaysMysteries: "Today's mysteries", next: "Next", prev: "Back", restart: "Start over", decade: "Decade",
       of: "of", done: "Amen. You've finished.", tapToContinue: "Tap Next after each prayer.", mystery: "Mystery", fruit: "Fruit", chooseMysteries: "Choose mysteries",
       examination: "Examination of conscience", forWhom: "For", howToConfess: "How to go to Confession", faq: "Common questions", tips: "Good to know",
@@ -39,7 +39,7 @@
     },
     es: {
       today: "Hoy", pray: "Orar", play: "Jugar", bible: "Biblia", journeys: "Caminos", music: "Música", sacraments: "Sacramentos", mass: "Buscar Iglesia",
-      findPerson: "Buscar una persona…", map: "Mapa", people: "Personas", booksTab: "Libros", games: "Juegos", back: "Volver",
+      findPerson: "Buscar una persona…", map: "Mapa", people: "Personas", booksTab: "Libros", more: "Más", games: "Juegos", back: "Volver",
       footer: "Escritura: World English Bible, edición católica (dominio público; en inglés). Las notas son resúmenes de estudio; consulte el Catecismo de la Iglesia Católica para la enseñanza autorizada.",
       scriptureEnglish: "Los textos bíblicos se muestran en inglés por ahora.",
       todayReadings: "Lecturas de la Misa de hoy", sundayReadings: "Lecturas de este domingo", firstReading: "Primera lectura", psalm: "Salmo responsorial", secondReading: "Segunda lectura", gospel: "Evangelio",
@@ -51,7 +51,7 @@
       season: { ordinary: "Tiempo Ordinario", advent: "Adviento", christmas: "Navidad", lent: "Cuaresma", triduum: "Triduo Pascual", easter: "Pascua" }, week: "semana", colour: "color litúrgico",
       prayers: "Oraciones", rosary: "Rosario", chaplet: "Coronilla de la Divina Misericordia", confession: "Confesión", theMass: "La Misa",
       prayLede: "Las oraciones que todo católico conoce, el Rosario y la Coronilla guiados, una guía sencilla para confesarse y la Misa explicada paso a paso.",
-      group: { essential: "Oraciones básicas", marian: "Oraciones a María", daily: "Oraciones diarias", saints: "Santos y ángeles", eucharist: "La Eucaristía", sorrow: "Arrepentimiento y difuntos" },
+      group: { essential: "Oraciones básicas", marian: "Oraciones a María", daily: "Oraciones diarias", saints: "Santos y ángeles", eucharist: "Jesús y la Eucaristía", mercy: "Divina Misericordia", seasons: "Tiempos del año", sorrow: "Arrepentimiento y difuntos" },
       startRosary: "Rezar el Rosario", startChaplet: "Rezar la Coronilla", todaysMysteries: "Misterios de hoy", next: "Siguiente", prev: "Atrás", restart: "Empezar de nuevo", decade: "Decena",
       of: "de", done: "Amén. Has terminado.", tapToContinue: "Toca Siguiente después de cada oración.", mystery: "Misterio", fruit: "Fruto", chooseMysteries: "Elegir misterios",
       examination: "Examen de conciencia", forWhom: "Para", howToConfess: "Cómo confesarse", faq: "Preguntas frecuentes", tips: "Para saber",
