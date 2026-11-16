@@ -3,6 +3,9 @@
 Answers = hand-written Catholic/biblical vocabulary (with a teaching line and a Scripture ref)
         + well-known five-letter Bible names drawn from people.json.
 Valid guesses = every 5-letter English word (an-array-of-english-words, MIT) + all answers.
+Later runs of answers (data/wordle_extra_en.json, then data/wordle_extra_en_2.json; data/wordle_es_2.json for
+Spanish) are only ever APPENDED, each after the ones before it, so no day that has been played changes its word.
+The "_2" files are kept in their final order and are not shuffled here; add a "_3" file the same way when needed.
 Also builds public/data/wordle_es.json from data/wordle_es.json (Spanish answers) and the
 5-letter Spanish list in data/vendor/wordlists/es5.json (an-array-of-spanish-words, MIT, accents removed).
 Usage: python3 build_wordle.py   (5-letter English list: data/vendor/wordlists/en5.json)
@@ -192,6 +195,12 @@ def main():
             seen.add(a["w"])
             answers.append({"w": a["w"], "explain": a["explain"], "ref": a.get("ref"), "person": None})
             valid.add(a["w"])
+    # the third run (Bible words with their verse, Bible places and names, Church words): in file order, as written
+    for a in json.loads((ROOT / "data/wordle_extra_en_2.json").read_text(encoding="utf-8")):
+        assert len(a["w"]) == 5 and a["w"] not in seen and a["explain"] and parse_ref(a["ref"]), a
+        seen.add(a["w"])
+        answers.append({"w": a["w"], "explain": a["explain"], "ref": a["ref"], "person": a.get("person")})
+        valid.add(a["w"])
     out = {"answers": answers, "valid": sorted(valid)}
     (ROOT / "public/data/wordle.json").write_text(json.dumps(out, ensure_ascii=False, separators=(",", ":")), encoding="utf-8")
     print(len(answers), "answers;", sum(1 for a in answers if a["person"]), "are people;", len(valid), "valid guesses")
@@ -199,6 +208,12 @@ def main():
     # Spanish
     es_ans = json.loads((ROOT / "data/wordle_es.json").read_text())
     random.Random(5).shuffle(es_ans)
+    # the second Spanish run follows in file order (not shuffled), so the first 200 days keep their words
+    es_seen = {a["w"] for a in es_ans}
+    for a in json.loads((ROOT / "data/wordle_es_2.json").read_text(encoding="utf-8")):
+        assert len(a["w"]) == 5 and a["w"] not in es_seen and a["explain"], a
+        es_seen.add(a["w"])
+        es_ans.append(a)
     es_valid = set(json.loads((ROOT / "data/vendor/wordlists/es5.json").read_text())) | {a["w"] for a in es_ans}
     for a in es_ans:
         assert parse_ref(a["ref"]), a
