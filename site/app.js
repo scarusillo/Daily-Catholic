@@ -8,7 +8,7 @@
   const $ = (s, el = document) => el.querySelector(s);
   const esc = (s) => String(s ?? "").replace(/[&<>"]/g, (c) => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;" }[c]));
   const store = {
-    get(k, d) { try { const v = localStorage.getItem(k); return v ? JSON.parse(v) : d; } catch { return d; } },
+    get(k, d) { try { const v = localStorage.getItem(k); return (v ? JSON.parse(v) : d) ?? d; } catch { return d; } },
     set(k, v) { try { localStorage.setItem(k, JSON.stringify(v)); } catch { /* storage unavailable */ } },
   };
 
@@ -86,7 +86,9 @@
   const PRAY_VIEWS = ["pray", "rosary", "chaplet", "confession", "massguide"];
   const GAME_VIEWS = ["pilgrim", "loaves", "threads", "links", "acrostic", "tap", "quiz"];
   const rendered = {};
+  let routedDay = null;
   function route() {
+    routedDay = todayKey();
     const h = location.hash.slice(1);
     let anchor = null;
     if (h === "privacy" || h === "credits") { anchor = h; }
@@ -475,7 +477,8 @@
     $("#pbody").addEventListener("submit", sendCorrection);
     document.addEventListener("click", async (e) => {
       const go = e.target.closest("[data-go]");
-      if (go) { e.preventDefault(); location.hash = go.dataset.go; if (location.hash.slice(1) === go.dataset.go) route(); return; }
+      // a new hash routes by itself (hashchange); only a tap on the view already open needs routing by hand
+      if (go) { e.preventDefault(); if (location.hash.slice(1) === go.dataset.go) route(); else location.hash = go.dataset.go; return; }
       const jr = e.target.closest("[data-journey]");
       if (jr) { journeyReq = jr.dataset.journey || null; store.set("bpm.journeyOpen", journeyReq); if (location.hash !== "#journeys") location.hash = "journeys"; else route(); return; }
       const sg = e.target.closest("[data-song]");
@@ -524,15 +527,19 @@
     const shuffle = (a) => { for (let i = a.length - 1; i > 0; i--) { const j = Math.floor(R() * (i + 1)); [a[i], a[j]] = [a[j], a[i]]; } return a; };
     const lv = LEVELS[level];
     const notable = PEOPLE.filter((p) => p.summary.length > 80 && p.mentions >= lv.min && (level !== "hard" || p.mentions < 60));
+    // four different choices: no repeats, and none that differs from another only by capitals or accents
+    const flat = (t) => String(t).normalize("NFD").replace(/[\u0300-\u036f]/g, "").toLowerCase().trim();
     const distract = (right, pool, n = 3) => {
-      const opts = new Set([right]);
+      const opts = [right], seen = new Set([flat(right)]);
       let guard = 0;
-      while (opts.size < n + 1 && guard++ < 200) opts.add(pickFrom(pool));
-      return shuffle([...opts]);
+      while (opts.length < n + 1 && pool.length && guard++ < 200) { const o = pickFrom(pool); if (!seen.has(flat(o))) { seen.add(flat(o)); opts.push(o); } }
+      return shuffle(opts);
     };
+    // blank the person's name as a whole word (so "Dan" leaves "Daniel" alone), accents and capitals included
+    const LET = "A-Za-zÀ-ÖØ-öø-ÿ", ACC = { a: "[aáàâä]", e: "[eéèêë]", i: "[iíìîï]", o: "[oóòôö]", u: "[uúùûü]", n: "[nñ]" };
     const mask = (p, text) => {
       let t = text;
-      for (const n of [p.name, ...p.aliases].sort((a, b) => b.length - a.length)) t = t.replace(new RegExp(n.replace(/[.*+?^${}()|[\]\\]/g, "\\$&"), "g"), "____");
+      for (const n of [p.name, ...p.aliases].filter(Boolean).sort((a, b) => b.length - a.length)) t = t.replace(new RegExp(`(^|[^${LET}])${flat(n).replace(/[.*+?^${}()|[\]\\]/g, "\\$&").replace(/[aeioun]/g, (c) => ACC[c])}(?![${LET}])`, "gi"), "$1____");
       return t;
     };
     const makers = [
@@ -551,16 +558,17 @@
       },
       () => { // spouse
         const ps = notable.filter((p) => p.spouses.length === 1);
-        const p = pickFrom(ps); const s = P[p.spouses[0]];
+        const p = pickFrom(ps); const s = p && P[p.spouses[0]];
+        if (!s) return null;
         const pool = PEOPLE.filter((x) => x.gender === s.gender && x.spouses.length && x.id !== s.id).map((x) => x.name);
         return { prompt: QX(`Who was married to ${p.name}?`, `¿Con quién estuvo casado/a ${p.name}?`), opts: distract(s.name, pool), answer: s.name, id: p.id };
       },
       () => { // book most mentioned
         const p = pickFrom(notable.filter((x) => Object.keys(x.books).length >= 2));
         const [best] = Object.entries(p.books).sort((a, b) => b[1] - a[1]);
-        const pool = BOOKS.map((b) => b.name);
         const bn = (id) => (QES() ? window.I18N.T("books." + id) : BOOK[id].name);
-        return { prompt: QX(`In which book is ${p.name} mentioned most often?`, `¿En qué libro se menciona más a ${p.name}?`), opts: distract(bn(best[0]), BOOKS.map((b) => bn(b.id))), answer: bn(best[0]), id: p.id };
+        // a book that ties for the most mentions would be a second right answer, so it is not offered
+        return { prompt: QX(`In which book is ${p.name} mentioned most often?`, `¿En qué libro se menciona más a ${p.name}?`), opts: distract(bn(best[0]), BOOKS.filter((b) => (p.books[b.id] || 0) < best[1]).map((b) => bn(b.id))), answer: bn(best[0]), id: p.id };
       },
       () => { // feast
         const fs = PEOPLE.filter((p) => p.feast);
@@ -577,9 +585,10 @@
     ];
     const qs = [], used = new Set();
     let guard = 0;
-    while (qs.length < 5 && guard++ < 100) {
+    // five questions about five different people, each with a full set of four choices
+    while (qs.length < 5 && guard++ < 300) {
       const q = makers[qs.length % makers.length === 4 && R() < 0.5 ? 4 : Math.floor(R() * makers.length)]();
-      if (q && !used.has(q.prompt) && q.opts.length >= 3) { used.add(q.prompt); qs.push(q); }
+      if (q && !used.has(q.prompt) && !used.has(q.id) && q.opts.length === 4) { used.add(q.prompt); used.add(q.id); qs.push(q); }
     }
     return qs;
   }
@@ -587,24 +596,29 @@
     const key = todayKey();
     const level = store.get("bpm.quizLevel", "medium");
     const qs = makeQuiz(key, level);
-    const saved = store.get("bpm.quiz", {});
-    const qlang = window.I18N.lang;
-    let st = saved.day === key && saved.level === level && (saved.lang || "en") === qlang ? saved : { day: key, level, lang: qlang, i: 0, picks: [] };
+    // today's progress is kept per level and language, so trying another level does not wipe a finished round
+    let saved = store.get("bpm.quiz", null);
+    if (!saved || saved.day !== key || typeof saved.runs !== "object" || !saved.runs) saved = { day: key, runs: {} };
+    const run = `${level}.${window.I18N.lang}`;
+    let st = saved.runs[run];
+    if (!st || !Array.isArray(st.picks) || st.picks.length > qs.length || !(st.i >= 0)) st = { i: 0, picks: [] };
+    st.i = Math.min(st.i, st.picks.length);
+    saved.runs[run] = st;
     const hist = store.get("bpm.quizHist", {});
-    const save = () => store.set("bpm.quiz", st);
+    const save = () => store.set("bpm.quiz", saved);
     const draw = () => {
-      const done = st.picks.length >= qs.length;
+      // the last answer gets its "Correct" or "The answer is…" like the others; results come after See results
+      const full = st.picks.length >= qs.length, done = full && st.i >= qs.length;
       const score = st.picks.filter((x, i) => x === qs[i].answer).length;
       const dots = qs.map((q, i) => `<i class="${i < st.picks.length ? (st.picks[i] === q.answer ? "ok" : "no") : i === st.i ? "cur" : ""}"></i>`).join("");
-      let streak = 0;
-      for (let d = new Date(); ; d.setDate(d.getDate() - 1)) {
-        const k = `${d.getFullYear()}-${String(d.getMonth() + 1).padStart(2, "0")}-${String(d.getDate()).padStart(2, "0")}`;
-        if (hist[k] !== undefined) streak++; else break;
-      }
       let body;
+      if (full && qs.length) {
+        // the day's first finished round is the one that counts; replaying another level does not rewrite it
+        if (hist[key] === undefined) { hist[key] = score; store.set("bpm.quizHist", hist); }
+        const gs = store.get("bpm.g.quiz", { days: {} }); if (!gs.days || typeof gs.days !== "object") gs.days = {}; if (!gs.days[key]) { gs.days[key] = { score, level }; store.set("bpm.g.quiz", gs); }
+      }
+      const streak = window.BPM_GAMES.streak("quiz");
       if (done) {
-        hist[key] = score; store.set("bpm.quizHist", hist);
-        const gs = store.get("bpm.g.quiz", { days: {} }); gs.days[key] = { score, level }; store.set("bpm.g.quiz", gs);
         body = `<div class="qcard"><h2>${QX(`${score} of ${qs.length} today`, `${score} de ${qs.length} hoy`)}</h2>
           <p class="qexp">${score === qs.length ? QX("A perfect round.", "¡Ronda perfecta!") : QX("Open the people you missed to read their stories.", "Abre las personas que fallaste para leer su historia.")} ${QX("A new quiz arrives tomorrow.", "Mañana llega un nuevo quiz.")}</p>
           <div class="tree">${qs.map((q, i) => `<div class="gen"><span class="lbl">${st.picks[i] === q.answer ? QX("Right", "Bien") : QX("Missed", "Fallada")}</span>${chip(q.id)}</div>`).join("")}</div></div>`;
@@ -619,16 +633,21 @@
           ${answered ? `<p class="qexp">${st.picks[st.i] === q.answer ? QX("Correct.", "¡Correcto!") : QX(`The answer is ${esc(q.answer)}.`, `La respuesta es ${esc(q.answer)}.`)} ${chip(q.id)}</p><button class="qnext">${st.i + 1 < qs.length ? QX("Next question", "Siguiente pregunta") : QX("See results", "Ver resultados")}</button>` : ""}
         </div>`;
       }
-      root.innerHTML = `<div class="quiz game"><div class="ghead"><button class="back" data-go="play">‹ ${QX("Games", "Juegos")}</button><h1>${QX("Daily Quiz", "Quiz diario")}</h1><span class="qmeta">${QX(`${streak} day streak`, `racha de ${streak} días`)}</span></div>
-        <div class="levels" role="group" aria-label="Difficulty">${Object.entries(LEVELS).map(([k, v]) => `<button class="${k === level ? "on" : ""}" data-level="${k}">${v.label}</button>`).join("")}</div>
-        <div class="dots">${dots}</div>${body}</div>`;
+      const focused = document.activeElement?.closest?.(".quiz") ? document.activeElement : null;
+      root.innerHTML = `<div class="quiz game"><div class="ghead"><button class="back" data-go="play">‹ ${QX("Games", "Juegos")}</button><h1>${QX("Daily Quiz", "Quiz diario")}</h1><span class="qmeta">${QX(streak === 1 ? "1 day streak" : `${streak} day streak`, streak === 1 ? "racha de 1 día" : `racha de ${streak} días`)}</span></div>
+        <div class="levels" role="group" aria-label="${QX("Difficulty", "Dificultad")}">${Object.entries(LEVELS).map(([k, v]) => `<button class="${k === level ? "on" : ""}" data-level="${k}" aria-pressed="${k === level}">${v.label}</button>`).join("")}</div>
+        <div class="dots" role="img" aria-label="${QX(`Question ${Math.min(st.i + 1, qs.length)} of ${qs.length}, ${score} right so far`, `Pregunta ${Math.min(st.i + 1, qs.length)} de ${qs.length}, ${score} correctas`)}">${dots}</div><div aria-live="polite">${body}</div></div>`;
+      // the page is redrawn on every answer; put the keyboard back on what comes next
+      if (focused) (root.querySelector(".qnext") || root.querySelector(".qopts button:not(:disabled)") || root.querySelector(".back"))?.focus({ preventScroll: true });
     };
+    // (the Play view is shared with the other games, which clear this handler when they mount)
     root.onclick = (e) => {
+      if (!root.querySelector(".quiz")) return;
       const lv = e.target.closest("[data-level]");
       if (lv) { store.set("bpm.quizLevel", lv.dataset.level); renderQuiz(root); return; }
-      const o = e.target.closest("button[data-o]");
-      if (o && st.picks.length === st.i) { st.picks.push(o.dataset.o); save(); draw(); return; }
-      if (e.target.closest(".qnext")) { st.i++; save(); draw(); return; }
+      const o = e.target.closest(".qopts button[data-o]");
+      if (o && st.picks.length === st.i && st.i < qs.length) { st.picks.push(o.dataset.o); save(); draw(); return; }
+      if (e.target.closest(".qnext") && st.picks.length > st.i) { st.i++; save(); draw(); return; }
     };
     draw();
   }
@@ -727,12 +746,17 @@
       return;
     }
     window.BPM = {
-      store, getJSON, esc, chip, refLabel, parseRef, verses, loadBible, loadMentions, openPerson, explored, badges, db, user,
+      store, getJSON, esc, chip, refLabel, parseRef, verses, loadBible, loadMentions, openPerson, explored, badges, db, user, _quiz: makeQuiz,
       get PEOPLE() { return PEOPLE; }, get P() { return P; }, get BOOKS() { return BOOKS; }, MENTIONS: () => MENTIONS, bibleReady: () => !!BIBLE && !!MENTIONS,
     };
     if (window.BPM_CONFIG?.donateUrl) { const g = document.getElementById("givelink"); if (g) g.hidden = false; }
     setupSearch(); setupPanel();
     window.addEventListener("hashchange", route);
+    // the app left open overnight, or reopened from the background: show the new day, not yesterday's page and puzzles
+    const newDay = () => { if (document.visibilityState === "visible" && routedDay && routedDay !== todayKey()) route(); };
+    document.addEventListener("visibilitychange", newDay);
+    window.addEventListener("focus", newDay);
+    window.addEventListener("pageshow", newDay);
     window.I18N.on(async () => {
       await applyPeopleLang();
       rendered.mass = false; rendered.canon = rendered.people = false;
