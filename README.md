@@ -29,7 +29,7 @@ Website first; the static site is built to be wrapped as a mobile app later.
 
 ## v0.3 additions
 - Daily Mass readings for every day 2026–2035 (Sundays, feasts and weekdays): `data/liturgy/*.json`, merged by `scripts/merge_readings.py`
-- Saint of the Day (291 celebrations, English/Spanish): `data/saints.json`
+- Saint of the Day (340 celebrations, plus a saint for every date of the year, English/Spanish): `data/saints.json`
 - Pray: prayers (`scripts/build_prayers.mjs` from `data/vendor/`), guided Rosary and Divine Mercy Chaplet, Confession guide (`data/confession.json`), the Mass explained (`data/mass.json`)
 - Five Loaves word game (`scripts/build_wordle.py`), Music, Sacraments, Find a Mass
 - English/Spanish toggle (`site/i18n.js`); Scripture text and person profiles remain in English

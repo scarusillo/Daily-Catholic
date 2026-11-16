@@ -1,0 +1,115 @@
+AISLE|psa 43:4|altar|The aisle is the walkway of a church, the path of every procession to the altar.
+BANNS|gen 2:24|wife|The banns are the public announcement of a coming marriage, read out in the parish.
+BASIL|mat 25:35|hungry|St. Basil the Great, bishop and Doctor of the Church, built a whole town to feed and nurse the poor.
+CAROL|luk 2:14|glory|A carol is a joyful song of Christmas, echoing the angels' "Glory to God in the highest."
+CURIA|act 15:6|apostles|The Roman Curia is the group of offices that help the pope serve the whole Church.
+DEITY|col 2:9|bodily|Deity means the divine nature: in Christ "all the fullness of the Deity dwells bodily."
+HABIT|col 3:12|put on|A habit is the distinctive clothing of a religious order, a sign of a life given to God.
+HALOS|mat 13:43|shine|Halos are the rings of light painted around the heads of saints: "the righteous will shine like the sun."
+LATIN|jhn 19:20|latin|Latin is the traditional language of the Roman Church; Pilate's sign on the cross was written in it.
+LUMEN|jhn 8:12|light|Lumen is Latin for "light": the Easter Vigil begins with "Lumen Christi", the Light of Christ.
+MOTET|psa 96:1|sing|A motet is a short sacred choral piece, often sung at the Offertory or Communion.
+ORGAN|psa 150:4|flute|The pipe organ is the Church's traditional instrument, praising God as the psalm bids with strings and flute.
+PADRE|1co 4:15|fathers|Padre means "father", a name for a priest, who is a spiritual father to his people.
+PAGAN|act 17:23|worship|A pagan was one who did not yet know the God of Israel; Paul preached to them in Athens.
+PAPAL|mat 16:18|rock|Papal means belonging to the pope, the successor of Peter, the rock.
+PIOUS|act 10:2|devout|Pious means devout and faithful in prayer, like Cornelius the centurion.
+PRIOR|act 2:42|fellowship|A prior is the superior of a house of friars or monks.
+SALVE|luk 1:28|rejoice|"Salve" is Latin for "Hail": the Salve Regina (Hail, Holy Queen) closes the Rosary.
+SPIRE|psa 121:1|hills|A church spire points to heaven, lifting the eyes as the psalmist lifted his to the hills.
+TENET|jud 1:3|faith|A tenet is a truth held firmly; the tenets of the faith were "once for all delivered to the saints."
+TERCE|act 2:15|third hour|Terce is mid-morning prayer, at the third hour, when the Spirit came down at Pentecost.
+TRENT|2ti 1:14|guard|The Council of Trent (1545-1563) renewed the Church and taught clearly on Scripture and the sacraments.
+USHER|psa 84:10|doorkeeper|An usher welcomes people to Mass: "I would rather be a doorkeeper in the house of my God."
+AGNES|rev 14:4|lamb|St. Agnes, a young Roman martyr, is pictured with a lamb; her name recalls the Lamb of God.
+CLARE|mat 5:3|poor|St. Clare of Assisi followed St. Francis into poverty and founded the Poor Clares.
+CYRIL|mat 28:19|nations|St. Cyril, with his brother Methodius, brought the Gospel and an alphabet to the Slavic peoples.
+BRUNO|psa 46:10|still|St. Bruno founded the Carthusians, monks who seek God in silence and solitude.
+GILES|mat 6:6|secret|St. Giles was a hermit of the seventh century, patron of people with disabilities and of the poor.
+HILDA|pro 31:26|wisdom|St. Hilda, abbess of Whitby, was so wise that kings came to her for counsel.
+EDITH|jhn 15:13|life|St. Edith Stein (Teresa Benedicta of the Cross), philosopher and Carmelite, died a martyr at Auschwitz.
+LINUS|2ti 4:21|linus|St. Linus followed Peter as the second pope; Paul sends his greeting to Timothy.
+LOUIS|mat 25:40|least|St. Louis IX, king of France, served the poor at his own table.
+PAULA|rut 1:16|go|St. Paula left Rome to help St. Jerome in Bethlehem as he translated the Bible.
+GEMMA|gal 2:20|crucified|St. Gemma Galgani, a young Italian mystic, lived in deep union with the Passion of Christ.
+KEVIN|mrk 1:35|deserted|St. Kevin founded the monastery of Glendalough in Ireland after years as a hermit.
+ALBAN|mat 10:39|loses|St. Alban, the first martyr of Britain, gave his life in place of the priest he sheltered.
+AIDAN|mat 11:29|gentle|St. Aidan of Lindisfarne brought the faith to northern England with great gentleness.
+DENIS|act 17:34|dionysius|St. Denis, the first bishop of Paris, died a martyr; his name comes from Dionysius.
+HENRY|mat 6:33|kingdom|St. Henry, a holy emperor, ruled with justice and supported the reform of the Church.
+VITUS|rev 2:10|faithful|St. Vitus was a boy martyr of the early Church, one of the Fourteen Holy Helpers.
+TOURS|mat 25:36|naked|St. Martin of Tours cut his cloak in two to clothe a beggar, and saw Christ wearing it.
+SIENA|1jn 3:18|deed|St. Catherine of Siena, Doctor of the Church, urged popes and princes to love in deed and truth.
+AVILA|psa 46:10|still|St. Teresa of Avila reformed Carmel and taught the Church how to pray.
+TURIN|jhn 20:7|cloth|The Shroud of Turin is a linen cloth long venerated as an image of the burial of Christ.
+MILAN|eph 5:19|hymns|St. Ambrose, bishop of Milan, taught his people to sing hymns and baptized St. Augustine.
+CLUNY|psa 119:164|seven times|The abbey of Cluny in France renewed monastic life and prayer across medieval Europe.
+BURSE|luk 22:19|bread|A burse is the flat case that holds the corporal, the cloth on which the Host rests.
+COPES|exo 28:2|garments|Copes are the long cloaks a priest or deacon wears for processions and Benediction.
+COWLS|mat 6:6|secret|Cowls are the hooded robes monks wear in choir, a sign of prayer and recollection.
+BLEST|luk 1:42|blessed|"Blest are you among women": blest is the older word for blessed.
+AMENS|2co 1:20|amen|Our amens say "so be it"; the Great Amen ends the Eucharistic Prayer.
+APSES|psa 26:8|house|Apses are the rounded ends of churches, where the altar traditionally stands.
+CHIME|psa 150:5|cymbals|Bells chime to call people to prayer, at the Angelus and before Mass.
+TORAH|psa 119:97|law|The Torah is the Law of Moses, the first five books of the Bible.
+ABBAS|rom 8:15|abba|"Abba" is the child's word for father that Jesus used; from it come abbas and abbots, fathers of monks.
+ALMAH|isa 7:14|virgin|x
+ALTOS|psa 150:1|praise|x
+CELLA|mat 6:6|inner room|x
+COMFY|x|x|x
+DEANS|act 20:28|overseers|x
+FERIA|psa 118:24|day|In the liturgy a feria is a weekday with no feast of its own: each day is one the Lord has made.
+FIATS|luk 1:38|according|x
+GLEBE|x|x|x
+LENTS|mat 4:2|forty|x
+LEVIS|x|x|x
+MAGIS|x|x|x
+MANSE|x|x|x
+NOVIC|x|x|x
+PASCH|x|x|x
+PRIES|x|x|x
+RELIC|x|x|x
+VESTS|exo 28:2|garments|x
+VOWED|x|x|x
+YULES|x|x|x
+CROOK|psa 23:4|staff|A shepherd's crook guides the flock; a bishop's crozier is shaped like one.
+HOLLY|isa 55:13|thorn|Holly, with its thorns and red berries, became a Christmas sign of the crown Christ would wear.
+PATER|mat 6:9|father|"Pater noster" is Latin for "Our Father", the prayer Jesus taught.
+PENCE|2co 9:7|giver|Peter's Pence is the yearly collection that supports the pope's works of charity.
+PRIME|psa 5:3|morning|Prime was the Church's prayer at the first hour of the day, about six in the morning.
+STALL|psa 134:1|stand|A choir stall is the seat where monks or canons stand and sit to sing the psalms.
+TONES|psa 98:5|melody|The psalm tones are simple melodies to which the psalms are chanted.
+TRACT|psa 91:1|shadow|The tract is a psalm chanted before the Gospel in Lent, in place of the Alleluia.
+TRUCE|mat 5:9|peacemakers|The Truce of God was the medieval Church's rule forbidding battle on holy days.
+VERSE|psa 119:105|lamp|A verse is a numbered line of Scripture: "Your word is a lamp to my feet" is Psalm 119, verse 105.
+VESTS|exo 28:2|garments|A priest vests for Mass in alb, stole and chasuble, as Aaron was given holy garments.
+WAKES|jhn 11:11|awake|At wakes, families keep watch and pray beside their dead, trusting Christ will wake them.
+ELECT|col 3:12|chosen|The elect are God's chosen ones; catechumens are called "the elect" in the weeks before Baptism.
+ROOFS|luk 5:19|housetop|Friends carried a paralyzed man up over the roofs and lowered him to Jesus.
+TIARA|exo 28:4|turban|The tiara was the triple crown once worn by popes; the high priest wore a turban.
+NISAN|neh 2:1|nisan|Nisan is the spring month of Passover, the month in which Jesus died and rose.
+BEANS|2sa 17:28|beans|Friends brought wheat, beans and lentils to David and his hungry people in the wilderness.
+PADUA|luk 15:9|found|St. Anthony of Padua, Franciscan preacher and Doctor of the Church, is asked to help find lost things.
+KOLBE|jhn 15:13|friends|St. Maximilian Kolbe gave his life for another prisoner at Auschwitz.
+BOSCO|mrk 10:14|children|St. John Bosco gave his life to poor boys, teaching them with reason, religion and kindness.
+SALES|mat 11:29|gentle|St. Francis de Sales, gentle bishop of Geneva, taught that holiness is for everyone.
+SERRA|mat 28:19|nations|St. Junipero Serra founded the first missions of California.
+SETON|pro 22:6|train|St. Elizabeth Ann Seton, the first saint born in the United States, began its Catholic schools.
+MARTO|mat 11:25|infants|Sts. Francisco and Jacinta Marto were two of the shepherd children of Fatima.
+LUCIA|mat 6:22|light|St. Lucy (Lucia), a martyr of Syracuse whose name means light, is patron of those with eye trouble.
+DIEGO|luk 1:48|humble|St. Juan Diego saw Our Lady of Guadalupe in 1531; her image remains on his cloak.
+PALLS|rom 6:4|buried|Palls are white cloths: a small one covers the chalice, a large one the coffin, recalling Baptism.
+HOODS|mat 6:6|inner room|Monks draw up their hoods for prayer, a way of entering the inner room Jesus spoke of.
+AGNUS|jhn 1:29|lamb|"Agnus Dei" is Latin for "Lamb of God", sung at Mass before Communion.
+MINOR|mat 23:11|servant|St. Francis named his brothers the Friars Minor, the "lesser brothers", servants of all.
+MARIA|luk 1:28|rejoice|"Ave Maria" is Latin for "Hail Mary", the angel Gabriel's greeting at the Annunciation.
+NOELS|luk 2:10|joy|Noels are Christmas carols; "noel" comes from the Latin for birth, the birth of Christ.
+ROODS|gal 6:14|cross|Roods are large crucifixes; in old churches the rood stood on a beam before the altar.
+KNELL|1th 4:13|hope|The knell is the slow tolling of a church bell at a death, a call to pray for the departed with hope.
+EMBER|jol 2:12|fasting|The Ember Days were four sets of days in the year kept with fasting and prayer for the harvest and for priests.
+DIRGE|mat 11:17|mourned|A dirge is a song of mourning; the word comes from "Dirige, Domine", a prayer of the Office for the Dead.
+LAVER|exo 30:18|basin|The laver was the bronze basin where the priests washed before serving at the altar.
+CENSE|psa 141:2|incense|To cense is to honor with incense: the altar, the Gospel book and the people are censed at Mass.
+CARLO|jhn 6:51|bread|St. Carlo Acutis, a teenager who loved the Eucharist, called it "my highway to heaven".
+ZELIE|2ti 1:5|mother|St. Zelie Martin, lacemaker and mother of St. Therese of Lisieux, was canonized with her husband Louis.
+ANDRE|psa 84:10|doorkeeper|St. Andre Bessette, the humble doorkeeper of Montreal, led thousands to pray to St. Joseph.
