@@ -32,6 +32,11 @@
         ${cfg.contactEmail ? `${X("Write to", "Escribe a")} <span class="sel">${esc(cfg.contactEmail)}</span>.` : ""}</p>
         <a class="chip" href="#myparish">${X("See the parish page", "Ver la página parroquial")}</a></section>
 
+      <section class="tsec" id="backup"><h2>${X("Back up my progress", "Copia de mi progreso")}</h2>
+        <p>${X("Your days with God, collections, game results and settings live only on this device, and a browser can clear them (Safari does after some weeks without a visit, unless the app is on your home screen). Save them to a file you keep, and bring them back here or on a new phone. The file goes nowhere but where you put it.", "Tus días con Dios, colecciones, resultados de juegos y ajustes viven solo en este dispositivo, y un navegador puede borrarlos (Safari lo hace tras unas semanas sin visitas, salvo que la app esté en tu pantalla de inicio). Guárdalos en un archivo tuyo y recupéralos aquí o en un teléfono nuevo. El archivo no va a ningún sitio más que adonde tú lo pongas.")}</p>
+        <div class="gbtns"><button class="qnext" id="bexport">${X("Export my progress", "Exportar mi progreso")}</button><button class="ghost" id="bimport">${X("Import a backup", "Importar una copia")}</button><input type="file" id="bfile" accept="application/json,.json" hidden aria-label="${X("Backup file", "Archivo de copia")}"></div>
+        <p class="qmeta" id="bmsg" aria-live="polite"></p></section>
+
       <section class="tsec" id="privacy"><h2>${X("Privacy policy", "Política de privacidad")}</h2>
         <p>${X("Last updated: October 2026.", "Última actualización: octubre de 2026.")}</p>
         <ul class="know">
@@ -55,6 +60,18 @@
         </ul>
         <p class="gfoot">${X("Teaching notes, saint biographies and guides are study summaries written for this site. For authoritative teaching, consult the Catechism of the Catholic Church and your parish priest.", "Las notas, biografías de santos y guías son resúmenes de estudio escritos para este sitio. Para la enseñanza autorizada, consulte el Catecismo de la Iglesia Católica y a su párroco.")}</p></section>
     </div>`;
+    // the backup: a JSON file made and read on the device; importing adds to what is here and never takes away
+    const H = window.BPM_HABIT, say = (t) => { $("#bmsg", root).textContent = t; };
+    $("#bexport", root).onclick = () => { H.download(); say(X("A file with your progress was saved to your downloads.", "Se guardó un archivo con tu progreso en tus descargas.")); };
+    $("#bimport", root).onclick = () => $("#bfile", root).click();
+    $("#bfile", root).onchange = async (e) => {
+      const f = e.target.files?.[0];
+      if (!f) return;
+      let ok = false;
+      try { ok = f.size < 5e6 && H.importData(JSON.parse(await f.text())); } catch { /* not a backup file */ }
+      e.target.value = "";
+      say(ok ? X("Your progress is back. Days and collections were added to what was already here.", "Tu progreso ha vuelto. Los días y las colecciones se sumaron a lo que ya había aquí.") : X("That file is not a Daily Catholic backup.", "Ese archivo no es una copia de The Daily Catholic."));
+    };
   }
 
   /* ---------- My Parish (parish edition pilot) ---------- */

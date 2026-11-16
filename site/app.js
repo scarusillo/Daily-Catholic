@@ -82,7 +82,7 @@
   }
 
   /* ---------- routing ---------- */
-  const VIEWS = ["today", "pray", "map", "canon", "people", "journeys", "play", "music", "sacraments", "mass", "about"];
+  const VIEWS = ["today", "pray", "map", "canon", "people", "journeys", "play", "music", "sacraments", "mass", "about", "collection"];
   const PRAY_VIEWS = ["pray", "rosary", "chaplet", "confession", "massguide", "decade", "angelus", "examen", "stations"];
   const GAME_VIEWS = ["pilgrim", "loaves", "threads", "links", "acrostic", "tap", "quiz"];
   const rendered = {};
@@ -91,7 +91,7 @@
     routedDay = todayKey();
     const h = location.hash.slice(1);
     let anchor = null;
-    if (h === "privacy" || h === "credits") { anchor = h; }
+    if (h === "privacy" || h === "credits" || h === "backup") { anchor = h; }
     let view = VIEWS.includes(h) || GAME_VIEWS.includes(h) || PRAY_VIEWS.includes(h) || ["confess", "myparish"].includes(h) ? h : anchor ? "about" : null;
     if (!view && P[h]) { openPerson(h, false); view = store.get("bpm.view", "today"); }
     view ||= "today";
@@ -115,6 +115,7 @@
     else if (section === "music") window.BPM_PARISH.renderMusic(el, subReq);
     else if (section === "sacraments") window.BPM_PARISH.renderSacraments(el, subReq);
     else if (section === "about") { window.BPM_ABOUT.renderAbout(el); if (anchor) setTimeout(() => document.getElementById(anchor)?.scrollIntoView(), 0); }
+    else if (section === "collection") window.BPM_HABIT.renderCollection(el);
     else if (view === "myparish") { rendered.mass = "parish"; window.BPM_ABOUT.renderParish(el); }
     else if (section === "mass") {
       const mode = view === "confess" ? "confession" : "mass";
@@ -615,13 +616,14 @@
       if (full && qs.length) {
         // the day's first finished round is the one that counts; replaying another level does not rewrite it
         if (hist[key] === undefined) { hist[key] = score; store.set("bpm.quizHist", hist); }
-        const gs = store.get("bpm.g.quiz", { days: {} }); if (!gs.days || typeof gs.days !== "object") gs.days = {}; if (!gs.days[key]) { gs.days[key] = { score, level }; store.set("bpm.g.quiz", gs); }
+        const gs = store.get("bpm.g.quiz", { days: {} }); if (!gs.days || typeof gs.days !== "object") gs.days = {}; if (!gs.days[key]) { gs.days[key] = { score, level }; store.set("bpm.g.quiz", gs); window.BPM_HABIT?.mark("game", key); }
       }
       const streak = window.BPM_GAMES.streak("quiz");
       if (done) {
         body = `<div class="qcard"><h2>${QX(`${score} of ${qs.length} today`, `${score} de ${qs.length} hoy`)}</h2>
           <p class="qexp">${score === qs.length ? QX("A perfect round.", "¡Ronda perfecta!") : QX("Open the people you missed to read their stories.", "Abre las personas que fallaste para leer su historia.")} ${QX("A new quiz arrives tomorrow.", "Mañana llega un nuevo quiz.")}</p>
-          <div class="tree">${qs.map((q, i) => `<div class="gen"><span class="lbl">${st.picks[i] === q.answer ? QX("Right", "Bien") : QX("Missed", "Fallada")}</span>${chip(q.id)}</div>`).join("")}</div></div>`;
+          <div class="tree">${qs.map((q, i) => `<div class="gen"><span class="lbl">${st.picks[i] === q.answer ? QX("Right", "Bien") : QX("Missed", "Fallada")}</span>${chip(q.id)}</div>`).join("")}</div>
+          <button class="qnext" id="qshare">${QX("Share result", "Compartir resultado")}</button></div>`;
       } else {
         const q = qs[st.i];
         const answered = st.picks.length > st.i;
@@ -643,6 +645,14 @@
     // (the Play view is shared with the other games, which clear this handler when they mount)
     root.onclick = (e) => {
       if (!root.querySelector(".quiz")) return;
+      const sh = e.target.closest("#qshare");
+      if (sh) {
+        // right and wrong in order, never the questions or the answers
+        const n = Math.floor((Date.parse(key) - Date.parse("2026-10-20")) / 864e5) + 1, score = st.picks.filter((x, i) => x === qs[i].answer).length;
+        window.BPM_HABIT.share(`The Daily Catholic · ${QX("Daily Quiz", "Quiz diario")} #${n}\n${qs.map((q, i) => (st.picks[i] === q.answer ? "✝️" : "▫️")).join("")} ${score}/${qs.length}\n${window.BPM_CONFIG?.siteUrl || "https://scarusillo.github.io/Daily-Catholic/"}`, sh,
+          { title: QX("Daily Quiz", "Quiz diario"), sub: `#${n} · ${new Date(key + "T12:00").toLocaleDateString(window.I18N.locale(), { month: "long", day: "numeric", year: "numeric" })}`, cells: [qs.map((q, i) => (st.picks[i] === q.answer ? "on" : "off"))], big: `${score} / ${qs.length}` });
+        return;
+      }
       const lv = e.target.closest("[data-level]");
       if (lv) { store.set("bpm.quizLevel", lv.dataset.level); renderQuiz(root); return; }
       const o = e.target.closest(".qopts button[data-o]");
@@ -705,15 +715,16 @@
     const best = Math.max(0, ...games.map((g) => window.BPM_GAMES?.streak(g) || 0));
     const apostles = ["peter", "andrew", "james-son-of-zebedee", "john-apostle", "philip-apostle", "bartholomew", "matthew", "thomas", "james-son-of-alphaeus", "jude-thaddeus", "simon-the-zealot", "matthias"];
     const deutero = PEOPLE.filter((p) => ["restoration"].includes(p.section) && p.mentions >= 5).map((p) => p.id);
+    const B = (en, es) => (window.I18N.lang === "es" ? es : en);
     return [
-      { name: "First Steps", desc: "Open your first person", got: n >= 1 },
-      { name: "Disciple", desc: "Open 25 people", got: n >= 25 },
-      { name: "Scribe", desc: "Open 100 people", got: n >= 100 },
-      { name: "Doctor of the Church", desc: "Open 400 people", got: n >= 400 },
-      { name: "The Twelve", desc: "Meet every apostle", got: apostles.every((a) => seen[a]) },
-      { name: "Deuterocanon", desc: "Meet 15 people from Tobit to Maccabees", got: deutero.filter((id) => seen[id]).length >= 15 },
-      { name: "Faithful", desc: "A 7-day game streak", got: best >= 7 },
-      { name: "Pilgrim", desc: "Play 30 daily games", got: plays >= 30 },
+      { name: B("First Steps", "Primeros pasos"), desc: B("Open your first person", "Abre tu primera persona"), got: n >= 1 },
+      { name: B("Disciple", "Discípulo"), desc: B("Open 25 people", "Abre 25 personas"), got: n >= 25 },
+      { name: B("Scribe", "Escriba"), desc: B("Open 100 people", "Abre 100 personas"), got: n >= 100 },
+      { name: B("Doctor of the Church", "Doctor de la Iglesia"), desc: B("Open 400 people", "Abre 400 personas"), got: n >= 400 },
+      { name: B("The Twelve", "Los Doce"), desc: B("Meet every apostle", "Conoce a todos los apóstoles"), got: apostles.every((a) => seen[a]) },
+      { name: B("Deuterocanon", "Deuterocanónicos"), desc: B("Meet 15 people from Tobit to Maccabees", "Conoce a 15 personas de Tobías a Macabeos"), got: deutero.filter((id) => seen[id]).length >= 15 },
+      { name: B("Faithful", "Fiel"), desc: B("A 7-day game streak", "Una racha de 7 días en un juego"), got: best >= 7 },
+      { name: B("Pilgrim", "Peregrino"), desc: B("Play 30 daily games", "Juega 30 juegos diarios"), got: plays >= 30 },
     ];
   }
 

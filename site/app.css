@@ -564,3 +564,87 @@ a.qnext.findconf { text-decoration: none; justify-self: start; }
 .beadcard.amen .gbtns { justify-content: center; }
 .amenmark { width: 44px; height: 44px; border-radius: 50%; display: grid; place-items: center; font-size: 1.3rem; font-family: var(--font-ui); font-weight: 700;
   color: var(--good); background: color-mix(in srgb, var(--good) 14%, var(--surface)); border: 1px solid color-mix(in srgb, var(--good) 40%, var(--line)); }
+
+/* ---------- the daily habit: Start today, the streak, My pilgrimage ---------- */
+a.ghost, a.qnext { display: inline-flex; align-items: center; text-decoration: none; }
+a.ghost { color: var(--fg); }
+.qnext.big { padding: 13px 28px; font-size: 1.15rem; min-height: 52px; }
+.hub .eyebrow, .startcard .eyebrow, .ritual .eyebrow { color: color-mix(in srgb, var(--gold) 72%, var(--fg)); }
+.startcard { display: grid; gap: 8px; justify-items: start; padding: 16px 18px; border-radius: var(--r); border: 1px solid color-mix(in srgb, var(--gold) 45%, var(--line));
+  background: color-mix(in srgb, var(--gold) 7%, var(--surface)); }
+.startcard p { margin: 0; }
+.startcard.done > b { font-family: var(--font-display); font-size: 1.4rem; }
+.startcard .ghost, .startcard .qnext, .usccb { min-height: 40px; }
+@media (max-width: 640px) { .startcard .qnext.big { justify-self: stretch; justify-content: center; } }
+.usccb { justify-self: start; }
+.flame { display: inline-flex; align-items: center; gap: 8px; justify-self: start; min-height: 40px; padding: 6px 14px 6px 10px; border-radius: 999px; border: 1px solid var(--line);
+  background: var(--surface); color: var(--fg); text-decoration: none; font-family: var(--font-ui); font-weight: 500; }
+.flame .flico { flex: none; color: var(--muted); }
+.flame.lit { border-color: color-mix(in srgb, var(--gold) 60%, var(--line)); }
+.flame.lit .flico { color: var(--gold); }
+.gcards.one { grid-template-columns: minmax(0, 520px); }
+.gcard.featured, .gm.feat { border-color: color-mix(in srgb, var(--gold) 60%, var(--line)); background: color-mix(in srgb, var(--gold) 7%, var(--surface)); }
+.gcard.featured { padding: 18px; }
+.hub a.ghost, .game .rback { min-height: 40px; }
+.game .rback { justify-self: start; }
+
+/* the steps: one screen at a time over the page, above the dock */
+html.ritual-on { overflow: hidden; }
+.ritual { position: fixed; inset: 0; z-index: 60; background: var(--bg); display: grid; justify-items: center; padding-top: env(safe-area-inset-top, 0px); }
+.rit { width: min(100%, 620px); height: 100%; min-height: 0; display: grid; grid-template-rows: auto auto minmax(0, 1fr) auto; gap: 10px;
+  padding: 12px max(16px, env(safe-area-inset-right, 0px)) calc(14px + env(safe-area-inset-bottom, 0px)) max(16px, env(safe-area-inset-left, 0px)); }
+.rbar { display: grid; grid-auto-flow: column; grid-auto-columns: 1fr; gap: 5px; }
+.rbar i { height: 4px; border-radius: 2px; background: var(--line); }
+.rbar i.cur { background: color-mix(in srgb, var(--gold) 50%, var(--line)); }
+.rbar i.on { background: var(--gold); }
+.rtop { display: flex; align-items: center; gap: 8px; min-height: 40px; }
+.rtop .eyebrow { flex: 1; }
+.rtop .ghost { min-height: 40px; min-width: 44px; justify-content: center; }
+.rcard { overflow-y: auto; overscroll-behavior: contain; min-height: 0; display: grid; gap: 12px; align-content: start; padding: 18px; background: var(--surface);
+  border: 1px solid var(--line); border-top: 4px solid var(--lit, var(--gold)); border-radius: var(--r); cursor: pointer; outline: none; }
+.rcard h2 { margin: 0; font-size: 1.5rem; }
+.rcard p, .rcard blockquote { margin: 0; }
+.rcard blockquote { padding-left: 12px; border-left: 3px solid var(--gold); font-style: italic; }
+.rcard .passage p { font-size: 1.08rem; line-height: 1.6; }
+.rcard .ghost { min-height: 40px; }
+.rcard .rprayer { font-size: 1.25rem; line-height: 1.5; }
+.rok { color: var(--good); font-family: var(--font-ui); font-weight: 700; }
+.rnav { display: flex; gap: 10px; }
+.rnav .ghost, .rnav .qnext { min-height: 48px; }
+.rnav .qnext { flex: 1; font-size: 1.1rem; }
+.rdone { display: grid; gap: 10px; justify-items: center; align-content: center; text-align: center; min-height: 100%; cursor: default; }
+.rdone .gbtns { justify-content: center; }
+.rflame svg { width: 72px; height: 72px; color: var(--gold); }
+.rlead { font-family: var(--font-display); font-size: 1.3rem; }
+.rteaser { padding: 8px 14px; border-radius: 14px; background: var(--sunk); font-family: var(--font-ui); font-size: .95rem; }
+.rnew { font-family: var(--font-ui); }
+
+/* the three welcome screens */
+.welcome .wclose { position: absolute; top: 4px; right: 4px; width: 40px; height: 40px; border: 0; border-radius: 50%; background: none; color: var(--muted); font-size: 1.4rem; cursor: pointer; }
+.welcome h2 { padding-right: 34px; }
+.welcome .ghost, .welcome .qnext, .welcome input { min-height: 40px; }
+.wlist { margin: 0; padding: 0; list-style: none; display: grid; gap: 4px; font-family: var(--font-ui); }
+.wlist li::before { content: "✓ "; color: var(--good); font-weight: 700; }
+.wdots { display: flex; gap: 6px; justify-content: center; }
+.wdots i { width: 8px; height: 8px; border-radius: 50%; background: var(--line); }
+.wdots i.on { background: var(--gold); }
+
+/* My pilgrimage */
+.flamebox { display: grid; grid-template-columns: auto 1fr; gap: 10px 16px; align-items: center; padding: 16px 18px; border: 1px solid var(--line); border-radius: var(--r); background: var(--surface); }
+.flamebox > .gfoot, .flamebox > .gbtns { grid-column: 1 / -1; margin: 0; }
+.flamebox h2 { margin: 0; font-size: 1.25rem; }
+.flamebox p { margin: 0; }
+.flnum { display: grid; justify-items: center; color: var(--muted); }
+.flamebox.lit .flnum { color: var(--gold); }
+.flnum svg { width: 40px; height: 40px; }
+.flnum b { font-family: var(--font-display); font-size: 1.8rem; line-height: 1; color: var(--fg); }
+.coll .ghost, .coll .qnext, .about .gbtns .ghost, .about .gbtns .qnext { min-height: 40px; }
+.bookgrid { display: grid; grid-template-columns: repeat(auto-fill, minmax(44px, 1fr)); gap: 5px; max-width: 760px; }
+.bk { display: grid; place-items: center; height: 34px; overflow: hidden; border-radius: 6px; border: 1px dashed var(--line); color: var(--muted); font-family: var(--font-ui); font-size: .72rem; }
+.bk.on { border: 1px solid var(--gold); background: color-mix(in srgb, var(--gold) 16%, var(--surface)); color: var(--fg); font-weight: 700; }
+.stamp { border: 1px solid color-mix(in srgb, var(--gold) 55%, var(--line)); background: color-mix(in srgb, var(--gold) 9%, var(--surface)); border-radius: 999px; padding: 3px 11px; font-family: var(--font-ui); font-size: .9rem; }
+.stamp.off { border: 1px dashed var(--line); background: none; color: var(--muted); }
+@media print { .ritual, .startcard, .welcome { display: none; } }
+.gcard.featured .gstat { color: color-mix(in srgb, var(--gold) 72%, var(--fg)); }
+.gcard.featured.done .gstat { color: var(--muted); }
+.coll, .coll .tsec { grid-template-columns: minmax(0, 1fr); min-width: 0; }

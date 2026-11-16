@@ -33,6 +33,7 @@
     if (s.days[dk]) return;
     s.days[dk] = result;
     C().store.set(`bpm.g.${game}`, s);
+    window.BPM_HABIT?.mark("game", dk); // any finished game also earns the day in the app-wide streak
   }
   // a streak stays alive until a whole day is missed, so before today's game it still counts through yesterday
   function streak(game) {
@@ -54,21 +55,20 @@
     } catch { /* storage unavailable */ }
   }
 
-  async function share(text, btn) {
-    const label = (btn.dataset.label ??= btn.textContent);
-    try {
-      await navigator.clipboard.writeText(text);
-      btn.textContent = X("Copied", "Copiado");
-      setTimeout(() => { btn.textContent = label; }, 2000);
-    } catch {
-      let ta = btn.parentNode.querySelector(".sharebox");
-      if (!ta) { ta = document.createElement("textarea"); ta.className = "sharebox"; ta.readOnly = true; ta.setAttribute("aria-label", label); btn.after(ta); }
-      ta.value = text; ta.select(); btn.textContent = X("Select and copy the text below", "Selecciona y copia el texto de abajo");
-    }
-  }
+  // a picture card through the phone's share sheet where it can take one; otherwise the text, copied as before
+  const share = (text, btn, card) => window.BPM_HABIT.share(text, btn, card);
+  const cardSub = (dk) => `#${dayIndex(dk) + 1} · ${new Date(dk + "T12:00").toLocaleDateString(window.I18N?.locale(), { month: "long", day: "numeric", year: "numeric" })}`;
 
-  let THEMES = null, PLACES = null, GEO = null, threadsAbort = null;
+  let THEMES = null, PLACES = null, PLACES_ES = null, GEO = null, threadsAbort = null;
   let THEMES_ES = null;
+  // Spanish place names, notes and questions (places_es.json) are laid over the English data for display only,
+  // field by field; which place and which event is picked never depends on the language
+  const esPlace = (pl) => { const o = window.I18N?.lang === "es" && PLACES_ES?.[pl.id]; return o ? { ...pl, name: o.name || pl.name, note: o.note || pl.note } : pl; };
+  const esEvent = (pl, ev) => { const q = window.I18N?.lang === "es" && PLACES_ES?.[pl.id]?.events?.[pl.events.indexOf(ev)]; return q ? { ...ev, q } : ev; };
+  async function places() {
+    [PLACES, GEO] = await Promise.all([PLACES || C().getJSON("data/places.json"), GEO || C().getJSON("data/geo.json")]);
+    if (window.I18N?.lang === "es") PLACES_ES ??= await C().getJSON("data/places_es.json").catch(() => ({}));
+  }
   async function themes() {
     THEMES ??= await C().getJSON("data/themes.json");
     if (window.I18N?.lang === "es") THEMES_ES ??= await C().getJSON("data/themes_es.json").catch(() => ({}));
@@ -269,7 +269,8 @@
       const people = pz.placed.filter((p) => p.person).map((p) => C().chip(p.person)).join("");
       $("#tdone", root).innerHTML = `<div class="qcard"><h2>${esc(tx(t, "title"))}</h2><p>${esc(tx(t, "explain"))} ${t.ref ? `<button class="ref" data-ref="${esc(t.ref)}">${esc(C().refLabel(t.ref))}</button>` : ""}</p>
         <div class="chips">${people}</div><p class="qmeta">${streakText("threads")}</p><button class="qnext" id="tshare">${X("Share result", "Compartir resultado")}</button></div>`;
-      $("#tshare", root).onclick = (e) => share(`The Daily Catholic · Threads #${dayIndex(dk) + 1}\n“${tx(t, "title")}”\n${emoji}\n${SITE}`, e.currentTarget);
+      $("#tshare", root).onclick = (e) => share(`The Daily Catholic · Threads #${dayIndex(dk) + 1}\n“${tx(t, "title")}”\n${emoji}\n${SITE}`, e.currentTarget,
+        { title: "Threads", sub: cardSub(dk), rows: [emoji.length > 16 ? emoji.replace(/🧵/gu, "").concat(` 🧵×${st.log.filter((x) => x === "W").length}`) : emoji], big: st.hints ? X(`${st.hints} ${st.hints > 1 ? "hints" : "hint"}`, `${st.hints} ${st.hints > 1 ? "pistas" : "pista"}`) : X("No hints", "Sin pistas") });
     }
     watchSize($("#tgrid", root), draw);
     draw();
@@ -369,7 +370,8 @@
       $("#ldone", root).innerHTML = `<div class="qcard"><h2>${won ? (st.mistakes ? X("Solved", "¡Resuelto!") : X("Perfect!", "¡Perfecto!")) : X("Out of tries", "Sin más intentos")}</h2>
         ${groups.map((g) => `<p><b>${esc(tx(g.t, "title"))}.</b> ${esc(tx(g.t, "explain"))}</p>`).join("")}
         <p class="qmeta">${streakText("links")}</p><button class="qnext" id="lshare">${X("Share result", "Compartir resultado")}</button></div>`;
-      $("#lshare", root).onclick = (e) => share(`The Daily Catholic · Lineage Links #${dayIndex(dk) + 1}\n${grid}\n${SITE}`, e.currentTarget);
+      $("#lshare", root).onclick = (e) => share(`The Daily Catholic · Lineage Links #${dayIndex(dk) + 1}\n${grid}\n${SITE}`, e.currentTarget,
+        { title: "Lineage Links", sub: cardSub(dk), cells: st.guesses.map((gs) => gs.map((g) => groups[g].t.difficulty || 2)), big: won ? (st.mistakes ? X("Solved", "Resuelto") : X("Perfect", "Perfecto")) : "" });
     }
     draw();
   }
@@ -415,7 +417,7 @@
     if (!pz) { root.innerHTML = `<p class="loading">${X("Today's puzzle could not be built. Try again tomorrow.", "No se pudo crear el juego de hoy. Vuelve mañana.")}</p>`; return; }
     // names differ by language, so each language has its own puzzle and its own progress
     const key = `bpm.acrostic.${X("", "es.")}${dk}`;
-    const fresh = () => ({ solved: [], reveals: {}, who: pz.hidden.id });
+    const fresh = () => ({ solved: [], reveals: {}, who: pz.hidden.id, gaveUp: false });
     let st = load(key, fresh());
     if (st.who !== pz.hidden.id || !Array.isArray(st.solved) || st.solved.some((i) => !pz.clues[i]) || typeof st.reveals !== "object" || !st.reveals) st = fresh();
     const save = () => C().store.set(key, st);
@@ -424,6 +426,7 @@
       <p class="lede">${X("Name each person from the clue. The first letters of the answers spell a hidden figure from Scripture.", "Nombra a cada persona según la pista. Las primeras letras de las respuestas forman el nombre de un personaje bíblico oculto.")}</p>
       <div class="ahidden" id="ahid" role="img"></div>
       <ol class="aclues" id="aclues"></ol>
+      <div class="gbtns" id="agive"></div>
       <div id="adone"></div></div>`;
     $("#aclues", root).innerHTML = pz.clues.map((p, i) => `
       <li class="aclue" data-i="${i}">
@@ -432,21 +435,35 @@
         <span class="qmeta">${p.name.length} ${X("letters", "letras")}</span><button class="ghost small" data-hint="${i}">${X("Hint", "Pista")}</button></div>
         <p class="qmeta ahint" id="ah${i}" aria-live="polite"></p>
       </li>`).join("");
+    const hintsUsed = () => Object.values(st.reveals).reduce((a, b) => a + b, 0);
+    const ended = () => st.solved.length === pz.clues.length || !!st.gaveUp;
+    let asking = false;
     function draw() {
-      $("#ahid", root).innerHTML = pz.clues.map((p, i) => `<span class="${st.solved.includes(i) ? "on" : ""}">${st.solved.includes(i) ? initial(p.name) : ""}</span>`).join("");
-      $("#ahid", root).setAttribute("aria-label", `${X("Hidden name", "Nombre oculto")}: ${pz.clues.map((p, i) => (st.solved.includes(i) ? initial(p.name) : X("blank", "vacío"))).join(", ")}`);
+      const open = (i) => st.solved.includes(i) || !!st.gaveUp;
+      $("#ahid", root).innerHTML = pz.clues.map((p, i) => `<span class="${st.solved.includes(i) ? "on" : ""}">${open(i) ? initial(p.name) : ""}</span>`).join("");
+      $("#ahid", root).setAttribute("aria-label", `${X("Hidden name", "Nombre oculto")}: ${pz.clues.map((p, i) => (open(i) ? initial(p.name) : X("blank", "vacío"))).join(", ")}`);
       pz.clues.forEach((p, i) => {
-        const inp = $(`#ac${i}`, root), done = st.solved.includes(i);
-        if (done) { inp.value = p.name.toUpperCase(); inp.disabled = true; inp.closest(".aclue").classList.add("ok"); }
+        const inp = $(`#ac${i}`, root), done = open(i);
+        if (done) { inp.value = p.name.toUpperCase(); inp.disabled = true; if (st.solved.includes(i)) inp.closest(".aclue").classList.add("ok"); }
         const r = st.reveals[i] || 0, role = `${X("Role", "Función")}: ${maskText(p, p.role)}`;
         $(`#ah${i}`, root).textContent = r ? (r === 1 ? role : `${X("Starts with", "Empieza por")} ${p.name.slice(0, r - 1).toUpperCase()}…  ·  ${role}`) : "";
         root.querySelector(`[data-hint="${i}"]`).disabled = done || r >= p.name.length;
       });
-      if (st.solved.length === pz.clues.length) finish();
+      // the way out when stuck: always there on request, and offered in words once three hints have not been enough
+      $("#agive", root).innerHTML = ended() ? "" : asking
+        ? `<span class="qmeta">${X("See the answer? Today will count as not solved.", "¿Ver la respuesta? Hoy contará como no resuelto.")}</span><button class="qnext" id="ashowyes">${X("Yes, show it", "Sí, mostrar")}</button><button class="ghost" id="ashowno">${X("Keep trying", "Seguir intentando")}</button>`
+        : `<button class="ghost" id="ashow">${X("Show answer", "Mostrar respuesta")}</button>${hintsUsed() >= 3 ? `<span class="qmeta">${X("Stuck? You can see the answer and come back tomorrow.", "¿Sin salida? Puedes ver la respuesta y volver mañana.")}</span>` : ""}`;
+      if (ended()) finish();
     }
+    $("#agive", root).addEventListener("click", (e) => {
+      if (ended()) return;
+      if (e.target.closest("#ashow")) { asking = true; draw(); $("#ashowyes", root)?.focus({ preventScroll: true }); }
+      else if (e.target.closest("#ashowno")) { asking = false; draw(); }
+      else if (e.target.closest("#ashowyes")) { st.gaveUp = true; save(); draw(); }
+    });
     function check(inp) {
       const i = +inp.closest(".aclue").dataset.i, p = pz.clues[i];
-      if (st.solved.includes(i) || ![p.name, ...p.aliases].some((n) => plain(n) === plain(inp.value))) return false;
+      if (ended() || st.solved.includes(i) || ![p.name, ...p.aliases].some((n) => plain(n) === plain(inp.value))) return false;
       st.solved.push(i); save(); draw();
       // on to the next open clue below, or back round to the first one left
       const open = [...root.querySelectorAll(".ain:not(:disabled)")];
@@ -462,19 +479,20 @@
     $("#aclues", root).addEventListener("click", (e) => {
       const b = e.target.closest("[data-hint]"); if (!b) return;
       const i = +b.dataset.hint;
-      if (st.solved.includes(i)) return;
+      if (ended() || st.solved.includes(i)) return;
       st.reveals[i] = Math.min((st.reveals[i] || 0) + 1, pz.clues[i].name.length);
       save(); draw();
     });
     function finish() {
       if ($("#adone", root).childElementCount) return;
-      const hints = Object.values(st.reveals).reduce((a, b) => a + b, 0);
-      record("acrostic", { hints }, dk);
+      const hints = hintsUsed(), lost = st.solved.length < pz.clues.length; // the answer was shown: a day played, not a day solved
+      record("acrostic", lost ? { hints, lost: true } : { hints }, dk);
       const h = pz.hidden;
-      $("#adone", root).innerHTML = `<div class="qcard"><span class="eyebrow">${X("The hidden name", "El nombre oculto")}</span><h2>${esc(h.name)}</h2><p>${esc(h.summary)}</p>
+      $("#adone", root).innerHTML = `<div class="qcard"><span class="eyebrow">${lost ? X("The hidden name was", "El nombre oculto era") : X("The hidden name", "El nombre oculto")}</span><h2>${esc(h.name)}</h2><p>${esc(h.summary)}</p>
         <div class="chips">${C().chip(h.id)}${pz.clues.map((p) => C().chip(p.id)).join("")}</div>
         <p class="qmeta">${hints ? `${hints} ${X(hints > 1 ? "hints used" : "hint used", hints > 1 ? "pistas usadas" : "pista usada")} · ` : `${X("No hints!", "¡Sin pistas!")} · `}${streakText("acrostic")}</p><button class="qnext" id="ashare">${X("Share result", "Compartir resultado")}</button></div>`;
-      $("#ashare", root).onclick = (e) => share(`The Daily Catholic · Hidden Name #${dayIndex(dk) + 1}\n${pz.clues.map((_, i) => (st.reveals[i] ? "🕯️" : "✝️")).join("")} ${h.name.length} ${X("letters", "letras")}\n${SITE}`, e.currentTarget);
+      $("#ashare", root).onclick = (e) => share(`The Daily Catholic · Hidden Name #${dayIndex(dk) + 1}\n${pz.clues.map((_, i) => (!st.solved.includes(i) ? "▫️" : st.reveals[i] ? "🕯️" : "✝️")).join("")}${lost ? " ✖️" : ""} ${h.name.length} ${X("letters", "letras")}\n${SITE}`, e.currentTarget,
+        { title: "Hidden Name", sub: cardSub(dk), cells: [pz.clues.map((_, i) => (!st.solved.includes(i) ? "off" : st.reveals[i] ? "present" : "on"))], big: lost ? X("Not today", "Hoy no") : hints ? X(`${hints} ${hints > 1 ? "hints" : "hint"}`, `${hints} ${hints > 1 ? "pistas" : "pista"}`) : X("No hints", "Sin pistas") });
     }
     draw();
   }
@@ -512,12 +530,12 @@
     const far = PLACES.filter((p) => !inBox(p, EXTENTS.near.box));
     // a place beyond the edge of the wide map (Tarshish, Sheba) cannot be tapped, so it is never asked
     const picks = [...shuffle(R, near).slice(0, 3), ...shuffle(R, far).filter((p) => inBox(p, EXTENTS.wide.box)).slice(0, 2)];
-    return shuffle(R, picks).map((pl) => ({ place: pl, event: pick(R, pl.events), ext: inBox(pl, EXTENTS.near.box) ? "near" : "wide" }));
+    return shuffle(R, picks).map((pl) => { const ev = pick(R, pl.events); return { place: esPlace(pl), event: esEvent(pl, ev), ext: inBox(pl, EXTENTS.near.box) ? "near" : "wide" }; });
   }
   async function renderTap(root) {
     const mine = mountId;
     root.innerHTML = `<p class="loading">${X("Loading the map…", "Cargando el mapa…")}</p>`;
-    [PLACES, GEO] = await Promise.all([PLACES || C().getJSON("data/places.json"), GEO || C().getJSON("data/geo.json")]);
+    await places();
     if (mine !== mountId) return; // another view was opened while the map loaded
     const dk = dayKey();
     const rounds = buildTap(dk);
@@ -601,6 +619,7 @@
       const r = rounds[st.i];
       const d = haversine(pin, [r.place.lon, r.place.lat]);
       st.guesses.push({ pin, d, s: tapScore(d, r.ext) }); save();
+      window.BPM_HABIT?.collect("places", r.place.id); // seen on the map: a stamp in My pilgrimage
       if (st.guesses.length === rounds.length) record("tap", { score: st.guesses.reduce((a, x) => a + x.s, 0) }, dk);
       svg.call(zoom.transform, d3.zoomIdentity); // step back so the pin and the answer are both in view
       drawAnswer(); reveal();
@@ -626,7 +645,8 @@
       $("#tapbar", root).innerHTML = "";
       $("#tapdone", root).innerHTML = `<div class="qcard">${rounds.map((r, i) => `<p>${bar(st.guesses[i].s)} <b>${esc(r.place.name)}</b>: ${esc(r.event.q)} <span class="qmeta">${Math.round(st.guesses[i].d)} km · ${st.guesses[i].s} ${X("pts", "puntos")}</span></p>`).join("")}
         <p class="qmeta">${streakText("tap")}</p><button class="qnext" id="tapshare">${X("Share result", "Compartir resultado")}</button></div>`;
-      $("#tapshare", root).onclick = (e) => share(`The Daily Catholic · Holy Land Tap #${dayIndex(dk) + 1}\n${st.guesses.map((x) => bar(x.s)).join("")} ${total}/${rounds.length * 1000}\n${SITE}`, e.currentTarget);
+      $("#tapshare", root).onclick = (e) => share(`The Daily Catholic · Holy Land Tap #${dayIndex(dk) + 1}\n${st.guesses.map((x) => bar(x.s)).join("")} ${total}/${rounds.length * 1000}\n${SITE}`, e.currentTarget,
+        { title: "Holy Land Tap", sub: cardSub(dk), rows: [st.guesses.map((x) => bar(x.s)).join("")], big: `${num(total)} / ${num(rounds.length * 1000)}` });
     }
     // a phone's address bar sliding away resizes the map; redraw it in place and keep the player's pin and zoom
     watchSize(svgEl, () => { if (svgEl.isConnected && svgEl.clientWidth && st.i < rounds.length && shown !== `${svgEl.clientWidth}x${svgEl.clientHeight}`) drawMap(true); });
@@ -729,7 +749,8 @@
         <p>${esc(ans.explain)}</p>
         <div class="chips">${ans.person ? C().chip(ans.person) : ""}${ans.ref ? `<button class="ref" data-ref="${esc(ans.ref)}">${esc(C().refLabel(ans.ref))}</button>` : ""}</div>
         <p class="qmeta">${streakText("loaves")}</p><button class="qnext" id="wshare">${X("Share result", "Compartir resultado")}</button></div>`;
-      $("#wshare", root).onclick = (e) => share(`The Daily Catholic · Five Loaves #${n} ${won ? st.guesses.length : "X"}/6\n${grid}\n${SITE}`, e.currentTarget);
+      $("#wshare", root).onclick = (e) => share(`The Daily Catholic · Five Loaves #${n} ${won ? st.guesses.length : "X"}/6\n${grid}\n${SITE}`, e.currentTarget,
+        { title: "Five Loaves", sub: cardSub(dk), cells: st.guesses.map((g) => scoreGuess(g, ans.w)), big: `${won ? st.guesses.length : "X"}/6` });
     }
     draw();
   }
@@ -799,12 +820,12 @@
     const famPick = shuffle(R, fam).slice(0, 3);
     const opts = shuffle(R, [...famPick, ...decoyPeople.map((x) => x.id)]);
     const family = { right: famPick, opts, label: Object.fromEntries(opts.map((id) => [id, label(P[id])])) };
-    return { p, names, mask, word, scr, pl, ev, verse, family };
+    return { p, names, mask, word, scr, pl: pl && esPlace(pl), ev: ev && esEvent(pl, ev), verse, family };
   }
   async function renderPilgrimage(root) {
     const mine = mountId;
     root.innerHTML = `<p class="loading">${X("Loading…", "Cargando…")}</p>`;
-    [PLACES, GEO] = await Promise.all([PLACES || C().getJSON("data/places.json"), GEO || C().getJSON("data/geo.json")]);
+    await places();
     await C().loadBible();
     if (mine !== mountId) return; // another view was opened while the Bible loaded
     const dk = dayKey(), n = dayIndex(dk) + 1;
@@ -899,6 +920,7 @@
         btn.onclick = () => {
           if (!pin || locked) return;
           locked = true; btn.disabled = true; paint();
+          window.BPM_HABIT?.collect("places", g.pl.id);
           const good = haversine(pin, [g.pl.lon, g.pl.lat]) <= (near ? 25 : 300);
           // a moment to see where it was; if the player has left by then, the station is still settled
           setTimeout(() => { if (here()) finishStation("place", good); else if (!st.done.place && !over()) { st.done.place = true; st.good.place = good; save(); } }, 900);
@@ -949,7 +971,8 @@
         <h2>${esc(g.p.name)}</h2><p>${esc(g.p.summary)}</p><div class="chips">${C().chip(g.p.id)}</div>
         <p class="qmeta">${c} / ${maxC} ${X("candles", "velas")} · ${streakText("pilgrim")}</p>
         <button class="qnext" id="pshare">${X("Share result", "Compartir resultado")}</button></div>`;
-      $("#pshare", root).onclick = (e) => share(`The Daily Catholic · ${X("Pilgrimage", "Peregrinación")} #${n}\n${STATIONS.map((x) => (st.good[x.id] ? "🕯️" : "▫️")).join("")}${st.won ? (st.wonEarly ? " ✨" : " ✝️") : " ✖️"}  ${c}/${maxC}\n${SITE}`, e.currentTarget);
+      $("#pshare", root).onclick = (e) => share(`The Daily Catholic · ${X("Pilgrimage", "Peregrinación")} #${n}\n${STATIONS.map((x) => (st.good[x.id] ? "🕯️" : "▫️")).join("")}${st.won ? (st.wonEarly ? " ✨" : " ✝️") : " ✖️"}  ${c}/${maxC}\n${SITE}`, e.currentTarget,
+        { title: X("Pilgrimage", "Peregrinación"), sub: cardSub(dk), cells: [Array.from({ length: maxC }, (_, i) => (i < c ? "on" : "off"))], big: `${c} / ${maxC} ${X("candles", "velas")}` });
     }
     function refresh() { drawCandles(); drawStations(); drawGuess(); finish(); }
     refresh();
@@ -978,21 +1001,30 @@
     tap: '<path d="M12 21s-6.5-6.2-6.5-11a6.5 6.5 0 0 1 13 0c0 4.800-6.5 11-6.5 11z"/><circle cx="12" cy="10" r="2.2"/>',
     quiz: '<circle cx="12" cy="12" r="9"/><path d="M9.5 9.5a2.5 2.5 0 1 1 3.6 2.2c-.7.400-1.100.9-1.100 1.800"/><path d="M12 16.800v.2"/>',
   };
+  // One game is the day's headline, in turn through the week, so there is one clear thing to play;
+  // Sunday is always Pilgrimage, our own game. Decided by the date alone: the same for everyone.
+  const WEEK = ["pilgrim", "loaves", "threads", "links", "tap", "acrostic", "quiz"];
+  const featured = (dk = dayKey()) => GAMES.find((g) => g.id === WEEK[new Date(dk + "T12:00").getDay()]);
   function renderHub(root) {
     const ctx = C();
     prune();
     const explored = ctx.explored();
-    const badges = ctx.badges();
+    const feat = featured(), played = GAMES.filter((g) => playedToday(g.id)).length;
+    const card = (g) => {
+      const done = playedToday(g.id), s = streak(g.id);
+      return `<button class="gcard${done ? " done" : ""}${g === feat ? " featured" : ""}" data-go="${g.id}">${g === feat ? `<span class="eyebrow">${X("Today's featured game", "El juego destacado de hoy")}</span>` : ""}<span class="gname">${gicon(GAME_ICONS[g.id] || "")}${g.name}</span><span class="gdesc">${g.desc}</span>
+        <span class="gstat">${done ? X("✓ Played today", "✓ Jugado hoy") : X("Ready", "Listo")}${s ? ` · ${X(`${s}-day streak`, `racha de ${s} días`)}` : ""}</span></button>`;
+    };
     root.innerHTML = `<div class="hub">
       <div class="ghead"><h1>${X("Play", "Jugar")}</h1><span class="qmeta">${new Date().toLocaleDateString(window.I18N?.locale(), { weekday: "long", month: "long", day: "numeric" })} · ${X("new puzzles every day", "nuevos juegos cada día")}</span></div>
-      <div class="gcards">${GAMES.map((g) => {
-        const done = playedToday(g.id), s = streak(g.id);
-        return `<button class="gcard${done ? " done" : ""}" data-go="${g.id}"><span class="gname">${gicon(GAME_ICONS[g.id] || "")}${g.name}</span><span class="gdesc">${g.desc}</span>
-          <span class="gstat">${done ? X("✓ Played today", "✓ Jugado hoy") : X("Ready", "Listo")}${s ? ` · ${X(`${s}-day streak`, `racha de ${s} días`)}` : ""}</span></button>`;
-      }).join("")}</div>
+      ${window.BPM_HABIT?.flame() || ""}
+      <div class="gcards one">${card(feat)}</div>
+      <h2>${X("More games today", "Más juegos de hoy")}</h2>
+      <p class="qmeta">${played === GAMES.length ? X("All seven played. That's everything for today.", "Los siete jugados. Eso es todo por hoy.") : X(`${played} of ${GAMES.length} played today`, `${played} de ${GAMES.length} jugados hoy`)}</p>
+      <div class="gcards">${GAMES.filter((g) => g !== feat).map(card).join("")}</div>
       <h2>${X("Your progress", "Tu progreso")}</h2>
       <p class="qmeta">${X(`You've opened ${explored} of ${ctx.PEOPLE.length} people.`, `Has abierto ${explored} de ${ctx.PEOPLE.length} personas.`)}</p>
-      <div class="badges">${badges.map((b) => `<div class="badge${b.got ? " got" : ""}"><b>${esc(b.name)}</b><span>${esc(b.desc)}</span></div>`).join("")}</div>
+      <div class="gbtns"><a class="ghost" href="#collection">${X("My pilgrimage: saints, places, books and badges", "Mi camino: santos, lugares, libros e insignias")} ›</a></div>
     </div>`;
   }
 
@@ -1016,5 +1048,5 @@
       root.innerHTML = `<p class="loading">${X("This game could not load", "Este juego no se pudo cargar")} (${esc(e.message)}). ${X("Reload to try again.", "Recarga la página para intentarlo de nuevo.")}</p>`;
     }
   }
-  window.BPM_GAMES = { mount, playedToday, streak, GAMES, dayKey, _score: scoreGuess, _pilgrim: (d) => pickPilgrim(d), _build: { threads: buildThreads, links: buildLinks, acrostic: buildAcrostic, tap: (d) => (PLACES ? buildTap(d) : null) }, _acrosticClues: (pz) => pz.clues.map(acrosticClue), _tapScore: tapScore };
+  window.BPM_GAMES = { mount, playedToday, streak, GAMES, dayKey, featured, icon: (id) => gicon(GAME_ICONS[id] || ""), onMap: (p) => inBox(p, EXTENTS.wide.box), _score: scoreGuess, _pilgrim: (d) => pickPilgrim(d), _build: { threads: buildThreads, links: buildLinks, acrostic: buildAcrostic, tap: (d) => (PLACES ? buildTap(d) : null) }, _acrosticClues: (pz) => pz.clues.map(acrosticClue), _tapScore: tapScore };
 })();
