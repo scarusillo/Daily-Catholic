@@ -83,7 +83,7 @@
 
   /* ---------- routing ---------- */
   const VIEWS = ["today", "pray", "map", "canon", "people", "journeys", "play", "music", "sacraments", "mass", "about"];
-  const PRAY_VIEWS = ["pray", "rosary", "chaplet", "confession", "massguide"];
+  const PRAY_VIEWS = ["pray", "rosary", "chaplet", "confession", "massguide", "decade", "angelus", "examen", "stations"];
   const GAME_VIEWS = ["pilgrim", "loaves", "threads", "links", "acrostic", "tap", "quiz"];
   const rendered = {};
   let routedDay = null;
