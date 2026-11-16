@@ -1,0 +1,411 @@
+{
+"ararat": {"name": "Montes de Ararat", "region": "Mesopotamia y Persia", "note": "La Escritura solo menciona los «montes de Ararat» (la tierra de Urartu); el punto marca la cumbre tradicional, el monte Ararat, en el este de Turquía.", "events": [
+"¿Sobre qué montes se posó el arca de Noé después del diluvio?",
+"¿Sobre qué montes se posó la nave que llevaba a Sem, Cam y Jafet, los hijos de Noé?"]},
+"babylon": {"name": "Babilonia", "region": "Mesopotamia y Persia", "note": "Las ruinas de Babilonia se encuentran junto al Éufrates, cerca de Hilla, en Irak; la tradición relaciona la Torre de Babel, en la tierra de Senaar, con esta ciudad.", "events": [
+"¿En qué ciudad de la tierra de Senaar se construyó una torre «cuya cúspide llegue hasta el cielo», hasta que el Señor confundió su lengua?",
+"¿En la provincia de qué ciudad Sadrac, Mesac y Abed Negó se negaron a adorar la estatua de oro y sobrevivieron al horno de fuego?",
+"¿En qué ciudad una mano escribió en la pared del palacio durante el banquete de Baltasar?",
+"¿Junto a los ríos de qué ciudad se sentaron a llorar los desterrados, colgando sus arpas en los sauces?",
+"¿En qué ciudad Evil Merodac sacó de la cárcel al rey Jeconías y lo sentó a su mesa de por vida?",
+"¿A qué ciudad llevaron encadenado al rey Manasés los jefes del ejército asirio, y allí se humilló y oró?",
+"Cuando Nabucodonosor deportó a Judá, ¿a qué ciudad fue al cautiverio el sacerdote Josadac?",
+"¿En qué tierra de destierro el rey cautivo Jeconías fue padre de Salatiel?"]},
+"ur": {"name": "Ur de los Caldeos", "region": "Mesopotamia y Persia", "note": "Suele identificarse con Tell el-Muqayyar, en el sur de Irak, aunque algunos estudiosos han defendido una Ur septentrional, cerca de Harrán.", "events": [
+"¿De qué ciudad de los caldeos salió Téraj con Abrán, Saray y Lot rumbo a Canaán?"]},
+"haran": {"name": "Jarán", "region": "Mesopotamia y Persia", "note": "Las ruinas de Harrán se conservan cerca de la aldea actual de Harran, en el sureste de Turquía.", "events": [
+"¿Dónde murió Téraj, antes de que Abrán partiera a los setenta y cinco años por el llamado del Señor?",
+"¿Hacia qué ciudad, a la casa de Labán, viajaba Jacob cuando huyó de Esaú?"]},
+"nineveh": {"name": "Nínive", "region": "Mesopotamia y Persia", "note": "Los montículos de Nínive (Kuyunjik y Nebi Yunus) se alzan dentro de la actual Mosul, en Irak.", "events": [
+"¿Qué gran ciudad hizo penitencia vestida de sayal después de que Jonás predicó que sería destruida en cuarenta días?",
+"¿En qué capital asiria fue asesinado Senaquerib por sus propios hijos mientras adoraba en el templo de Nisroc?",
+"¿En qué ciudad del destierro Tobit enterraba en secreto a los muertos de su pueblo?"]},
+"susa": {"name": "Susa", "region": "Mesopotamia y Persia", "note": "La ciudadela de Susa es un montículo excavado junto a la actual ciudad de Shush, en el suroeste de Irán.", "events": [
+"¿En qué ciudadela real persa arriesgó Ester su vida al presentarse ante el rey Asuero sin ser llamada?",
+"¿Dónde servía Nehemías como copero del rey cuando lloró al saber que las murallas de Jerusalén estaban en ruinas?",
+"¿Dónde estaba Daniel, junto al río Ulay, cuando tuvo la visión del carnero y el macho cabrío?",
+"¿En qué ciudadela persa el rey y Amán se sentaron a beber mientras la ciudad quedaba consternada por el decreto contra los judíos?"]},
+"ecbatana": {"name": "Ecbatana", "region": "Mesopotamia y Persia", "note": "La antigua Ecbatana, capital de Media, yace bajo la actual Hamadán, en Irán (la colina de Hegmataneh).", "events": [
+"¿En qué ciudad de Media se casó Tobías con Sara, hija de Ragüel, después de que el demonio fue expulsado?",
+"¿En el palacio de qué ciudad de Media se encontró el rollo con el decreto de Ciro para reconstruir el Templo?"]},
+"rages": {"name": "Ragués", "region": "Mesopotamia y Persia", "note": "Ragués (Rhagae) se identifica con Rey, hoy en el extremo sur de Teherán; se discute dónde estaba exactamente el núcleo de la ciudad antigua.", "events": [
+"¿A qué ciudad de Media viajó Rafael para cobrarle a Gabael la plata que Tobit le había dejado en depósito?"]},
+"chebar": {"name": "Río Quebar (cerca de Nippur)", "region": "Mesopotamia y Persia", "note": "Se cree que el Quebar es el canal Kabaru, cerca de Nippur, en el sur de Irak, conocido por tablillas babilónicas; su curso exacto es incierto.", "events": [
+"¿Junto a qué río, entre los desterrados, vio Ezequiel abrirse los cielos y contempló a los seres vivientes y las ruedas?"]},
+"carchemish": {"name": "Carquemis", "region": "Mesopotamia y Persia", "note": "Las ruinas de Carquemis se encuentran junto al Éufrates, en la frontera entre Turquía y Siria, cerca de Jarabulus.", "events": [
+"¿En qué ciudad junto al Éufrates derrotó Nabucodonosor al ejército del faraón Necó?"]},
+"shechem": {"name": "Siquem", "region": "Tierra Santa", "note": "Siquem es el montículo excavado de Tell Balata, en el extremo oriental de la actual Nablus.", "events": [
+"¿Dónde construyó Abrán su primer altar en Canaán, junto a la encina de Moré, después de que el Señor prometió la tierra a su descendencia?",
+"¿Dónde mataron Simeón y Leví a los varones de la ciudad para vengar a su hermana Dina?",
+"¿Dónde reunió Josué a todas las tribus y declaró: «Yo y mi casa serviremos al Señor»?",
+"¿Dónde se reunió todo Israel para proclamar rey a Roboán, solo para que las diez tribus lo rechazaran?"]},
+"bethel": {"name": "Betel", "region": "Tierra Santa", "note": "Generalmente se identifica con la aldea palestina de Beitin, al norte de Jerusalén, aunque algunos estudiosos prefieren la cercana el-Bireh.", "events": [
+"¿Dónde soñó Jacob con una escalera que llegaba hasta el cielo, por la que subían y bajaban ángeles?",
+"¿Dónde, además de Dan, puso Jeroboán un becerro de oro para que lo adoraran las tribus del norte?",
+"¿En qué santuario real el sacerdote Amasías le ordenó al profeta Amós que se volviera a Judá?",
+"¿Qué ciudad, junto con Jesaná y Efrón, le arrebató el rey Abías a Jeroboán?",
+"¿Dónde se guardaba el arca, con Pinjás sirviendo ante ella, cuando Israel lloró y consultó si debía volver a pelear contra Benjamín?"]},
+"ai": {"name": "Ay", "region": "Tierra Santa", "note": "Se identifica comúnmente con et-Tell, cerca de Deir Dibwan, pero el sitio no muestra ocupación en la época de Josué, por lo que la cercana Khirbet el-Maqatir es una candidata rival.", "events": [
+"¿Qué ciudad rechazó el primer ataque de Israel porque Acán había tomado cosas consagradas al exterminio en Jericó?",
+"¿Qué ciudad tomó Josué con una emboscada, después de dar la señal con su jabalina extendida?"]},
+"mamre": {"name": "Encinar de Mambré", "region": "Tierra Santa", "note": "El sitio tradicional es Ramat el-Khalil (Elonei Mamre), justo al norte de Hebrón, donde Herodes y más tarde Constantino levantaron recintos.", "events": [
+"¿Junto a qué encinas estaba sentado Abraham, a la entrada de su tienda, cuando llegaron tres visitantes y le prometieron un hijo a Sara?"]},
+"hebron": {"name": "Hebrón (cueva de Macpelá)", "region": "Tierra Santa", "note": "La Tumba de los Patriarcas, rodeada por un muro herodiano, sigue en pie en el centro de Hebrón.", "events": [
+"¿Dónde le compró Abraham a Efrón el hitita una cueva sepulcral para enterrar a Sara?",
+"¿Dónde fue ungido David rey de la casa de Judá después de la muerte de Saúl?",
+"¿En qué ciudad se hizo proclamar rey Absalón, en rebelión contra su padre?",
+"¿Dónde enterraron Esaú y Jacob a su padre Isaac, que murió allí a los ciento ochenta años?",
+"¿Dónde les dijo Jacob a sus hijos que había enterrado a Lía, pidiendo que lo sepultaran allí con sus padres?"]},
+"beersheba": {"name": "Berseba", "region": "Tierra Santa", "note": "La Berseba bíblica es Tel Be'er Sheva, un montículo excavado al este de la ciudad israelí moderna.", "events": [
+"¿Dónde hicieron un juramento Abraham y Abimélec por un pozo en disputa, y Abraham plantó un tamarisco?",
+"¿Dónde ofreció Jacob sacrificios y oyó a Dios decirle: «No temas bajar a Egipto»?",
+"¿A qué ciudad del sur de Judá huyó Elías de Jezabel, dejando allí a su criado?",
+"¿En qué desierto anduvo errante Agar con Ismael hasta que Dios le abrió los ojos y vio un pozo?"]},
+"gerar": {"name": "Guerar", "region": "Tierra Santa", "note": "Suele identificarse con Tel Haror, en el Néguev occidental, aunque la identificación (también se propone Tel Abu Hureira) no es segura.", "events": [
+"¿Dónde volvió a abrir Isaac los pozos de su padre y tuvo pleitos con los pastores del lugar por Esec y Sitná?"]},
+"sodom": {"name": "Sodoma", "region": "Tierra Santa", "note": "Su ubicación se desconoce; la tradición la sitúa en el extremo sur del Mar Muerto (otros proponen Bab edh-Dhra o Tall el-Hammam, al norte).", "events": [
+"¿En qué ciudad hospedó Lot a dos ángeles, antes de que lloviera fuego y azufre y su mujer se convirtiera en estatua de sal?"]},
+"mount-moriah": {"name": "Monte Moria (Monte del Templo)", "region": "Tierra Santa", "note": "La Escritura sitúa el Templo en el monte Moria (2 Cr 3,1); identificarlo con el monte del sacrificio de Isaac es una tradición antigua.", "events": [
+"¿A qué monte envió Dios a Abraham para ofrecer en sacrificio a su hijo Isaac?",
+"¿En qué monte, en la era de Arauná, comenzó Salomón a construir la casa del Señor?",
+"¿Dónde se quedó Jesús a los doce años, sentado en medio de los maestros y haciéndoles preguntas?",
+"¿Dónde vio Isaías al Señor sentado en su trono, con serafines que clamaban «Santo, santo, santo», el año en que murió el rey Ozías?",
+"¿Dónde coronó el sacerdote Joyadá al niño rey Joás, mientras Atalía rasgaba sus vestidos y gritaba «¡Traición!»?",
+"¿Dónde pusieron Zorobabel y Josué a los sacerdotes y a los hijos de Asaf a alabar mientras se echaban los cimientos del templo reconstruido?",
+"¿Dónde encontró el sumo sacerdote Jilquías el libro de la Ley, que luego el escriba Safán leyó al rey Josías?",
+"¿Dónde construyó el rey Jotán la puerta superior de la casa del Señor?"]},
+"peniel": {"name": "Penuel (Peniel)", "region": "Tierra Santa", "note": "Penuel suele situarse en Tulul edh-Dhahab, junto al río Yaboc (Zarqa), en Jordania; la identificación es probable, no segura.", "events": [
+"¿Dónde luchó Jacob con un hombre hasta el amanecer y recibió el nombre de Israel?"]},
+"dothan": {"name": "Dotán", "region": "Tierra Santa", "note": "Tel Dotán es un montículo excavado en el norte de Cisjordania, al suroeste de Yenín.", "events": [
+"¿Dónde apacentaban el rebaño los hermanos de José cuando lo echaron a una cisterna y lo vendieron?",
+"¿Dónde pidió Eliseo en oración que se abrieran los ojos de su criado para que viera el monte lleno de caballos y carros de fuego?"]},
+"on": {"name": "On (Heliópolis)", "region": "Egipto y Sinaí", "note": "On (Heliópolis) está en los suburbios del noreste de El Cairo, donde todavía se alza un único obelisco en Matariya.", "events": [
+"¿De qué ciudad era sacerdote Potifera, que le dio a José por esposa a su hija Asenat?"]},
+"goshen": {"name": "Tierra de Gosén", "region": "Egipto y Sinaí", "note": "Gosén era una comarca del delta oriental del Nilo, probablemente en torno al Wadi Tumilat y la región de la actual Faqus; sus límites no se conocen con precisión.", "events": [
+"¿En qué tierra estableció el faraón a la familia de Jacob para que apacentara sus rebaños?",
+"¿Qué tierra, donde vivían los israelitas, quedó libre de la plaga de los tábanos?",
+"¿A qué tierra llegó la familia de Jacob, setenta personas, entre ellas Fares y sus hijos Jesrón y Jamul, cuando bajó a Egipto?",
+"¿En qué tierra de Egipto vivía Jacob cuando cruzó las manos para bendecir a Efraín por encima de Manasés?"]},
+"raamses": {"name": "Ramsés (Pi-Ramsés)", "region": "Egipto y Sinaí", "note": "Ramsés es probablemente Pi-Ramsés, en Qantir y Tell el-Dab'a, en el delta oriental; la otra ciudad de depósito, Pitón, es probablemente Tell el-Maskhuta o Tell er-Retaba.", "events": [
+"¿Qué ciudad de depósito, junto con Pitón, construyeron para el faraón los israelitas esclavizados?",
+"¿De qué ciudad partieron a pie los israelitas hacia Sucot la noche de la Pascua?"]},
+"red-sea-crossing": {"name": "Paso del Mar Rojo", "region": "Egipto y Sinaí", "note": "El lugar del paso se desconoce (las propuestas van desde los Lagos Amargos hasta el golfo de Áqaba); el punto sigue la antigua tradición, en el extremo del golfo de Suez.", "events": [
+"¿Dónde extendió Moisés su mano para que las aguas se dividieran e Israel cruzara a pie enjuto?",
+"Después de que las aguas volvieron sobre el ejército del faraón, ¿dónde tomó María un pandero y cantó: «caballo y jinete arrojó en el mar»?"]},
+"mount-sinai": {"name": "Monte Sinaí (Horeb)", "region": "Egipto y Sinaí", "note": "No se sabe con certeza cuál es el monte; al menos desde el siglo IV la tradición lo sitúa en el Jebel Musa, donde se alza el monasterio de Santa Catalina.", "events": [
+"¿Dónde vio Moisés una zarza que ardía sin consumirse?",
+"¿Sobre qué monte descendió el Señor en medio del fuego y pronunció los Diez Mandamientos?",
+"¿En qué monte estaba Moisés mientras Aarón fabricaba abajo el becerro de oro?",
+"¿En qué monte oyó Elías al Señor, no en el viento, ni en el terremoto, ni en el fuego, sino en el susurro de una brisa suave?",
+"¿En qué desierto mandó el Señor a Moisés contar a los levitas, los clanes de Guersón, Quehat y Merarí?",
+"¿En qué desierto murieron Nadab y Abihú por ofrecer un fuego profano, quedando Eleazar e Itamar para servir como sacerdotes?",
+"¿En qué monte Moisés, Aarón, Nadab, Abihú y setenta ancianos vieron al Dios de Israel, y comieron y bebieron?"]},
+"tahpanhes": {"name": "Tafnis", "region": "Egipto y Sinaí", "note": "Suele identificarse con Tell Defenneh, en el noreste del delta, cerca del canal de Suez.", "events": [
+"¿En qué ciudad egipcia enterró Jeremías unas piedras grandes a la entrada del palacio del faraón, anunciando que allí pondría su trono Nabucodonosor?"]},
+"alexandria": {"name": "Alejandría", "region": "Egipto y Sinaí", "note": "Fundada por Alejandro Magno, la ciudad antigua yace bajo la Alejandría actual, en la costa mediterránea de Egipto.", "events": [
+"¿En qué ciudad nació Apolo, el judío elocuente y versado en las Escrituras?"]},
+"midian": {"name": "Madián (Al-Bad')", "region": "Arabia y África", "note": "Madián era una región del noroeste de Arabia, al este del golfo de Áqaba; la tradición local de Al-Bad' (Maghair Shuaib) señala allí el hogar de Jetró.", "events": [
+"¿A qué tierra huyó Moisés del faraón, donde defendió a siete hermanas junto a un pozo y se casó con Séfora?"]},
+"kadesh-barnea": {"name": "Cades Barnea", "region": "Egipto y Sinaí", "note": "La mayoría de los estudiosos la identifica con el oasis de Ein el-Qudeirat, en el noreste del Sinaí, cerca de la frontera entre Egipto e Israel.", "events": [
+"¿A qué campamento del desierto volvieron los doce exploradores cargando un racimo de uvas en una vara?",
+"¿Dónde murió y fue sepultada María, antes de que Moisés golpeara la roca en vez de hablarle?"]},
+"ezion-geber": {"name": "Esión Guéber", "region": "Arabia y África", "note": "Esión Guéber estaba en el extremo del golfo de Áqaba, cerca de Eilat; Tell el-Kheleifeh es la identificación habitual, aunque discutida.", "events": [
+"¿En qué puerto, junto a Elat, a orillas del Mar Rojo, construyó Salomón una flota de barcos?"]},
+"mount-nebo": {"name": "Monte Nebo", "region": "Tierra Santa", "note": "El Jebel Nebo (Siyagha), en Jordania, con su iglesia memorial franciscana, lleva ese nombre desde la antigüedad y concuerda con la descripción bíblica.", "events": [
+"¿Desde qué monte contempló Moisés toda la Tierra Prometida antes de morir?"]},
+"kir-hareseth": {"name": "Quir Jaréset", "region": "Tierra Santa", "note": "Quir Jaréset, capital de Moab, se identifica generalmente con Kerak, en Jordania, bajo el castillo de los cruzados.", "events": [
+"¿Sobre la muralla de qué ciudad sacrificó el rey de Moab en holocausto a su hijo primogénito, de modo que Israel se retiró?"]},
+"rabbah": {"name": "Rabá de los amonitas", "region": "Tierra Santa", "note": "Rabá es la colina de la Ciudadela (Jabal al-Qal'a), en el centro de Ammán, Jordania.", "events": [
+"¿Durante el asedio de qué ciudad amonita pusieron a Urías el hitita en lo más recio del combate, donde murió?"]},
+"ramoth-gilead": {"name": "Ramot de Galaad", "region": "Tierra Santa", "note": "Suele situarse en Tell er-Rumeith, en el norte de Jordania, cerca de Ramtha, aunque la identificación no es segura.", "events": [
+"¿En qué ciudad murió el rey Ajab, herido por una flecha disparada al azar, a pesar de su disfraz?",
+"¿Dónde un joven profeta enviado por Eliseo ungió a Jehú como rey de Israel?"]},
+"jordan-baptism-site": {"name": "Betania, al otro lado del Jordán", "region": "Tierra Santa", "note": "El lugar tradicional del bautismo es Al-Maghtas, en la orilla oriental, frente a Jericó (Patrimonio de la Humanidad de la UNESCO); el sitio exacto no es seguro.", "events": [
+"¿Dónde fue bautizado Jesús por Juan, cuando el Espíritu descendió como una paloma?",
+"¿Dónde estaba bautizando Juan cuando señaló a Jesús como «el Cordero de Dios»?",
+"¿Cerca de qué paso del río, según la tradición, fue arrebatado Elías en un torbellino, en un carro de fuego?"]},
+"jericho": {"name": "Jericó", "region": "Tierra Santa", "note": "La Jericó del Antiguo Testamento es Tell es-Sultan, junto a la ciudad moderna; la del Nuevo Testamento estaba un poco al suroeste, en Tulul Abu el-Alayiq.", "events": [
+"¿Las murallas de qué ciudad cayeron después de que Israel marchó a su alrededor durante siete días y lanzó el grito de guerra?",
+"¿Dónde se subió Zaqueo a un sicómoro para ver a Jesús?",
+"¿Al salir de qué ciudad le devolvió Jesús la vista al ciego Bartimeo?",
+"¿Las aguas malas de qué ciudad saneó Eliseo echando sal en el manantial?",
+"¿En las llanuras de qué ciudad alcanzó el ejército caldeo al rey Sedecías, que huía?"]},
+"gibeon": {"name": "Gabaón", "region": "Tierra Santa", "note": "Gabaón es el-Jib, al norte de Jerusalén, donde se hallaron asas de jarras con el nombre de la ciudad y un gran estanque excavado en la roca.", "events": [
+"¿Los habitantes de qué ciudad engañaron a Josué para pactar con él, calzando sandalias gastadas y llevando pan enmohecido?",
+"¿Sobre qué ciudad mandó Josué que se detuviera el sol?",
+"¿Dónde ofreció Salomón mil holocaustos y le pidió a Dios, en un sueño, un corazón que sepa discernir?",
+"¿Junto al estanque de qué ciudad pelearon doce hombres de Abner y doce de Joab, y cayeron todos a la vez?",
+"¿En qué lugar alto dejó David a Sadoc y a sus hermanos sacerdotes para servir ante la morada del Señor?"]},
+"beth-horon": {"name": "Bet Jorón", "region": "Tierra Santa", "note": "Bet Jorón de Arriba y de Abajo son las aldeas de Beit Ur al-Fauqa y al-Tahta, en el antiguo camino de subida al noroeste de Jerusalén.", "events": [
+"¿Por qué bajada persiguió Josué a los amorreos mientras el Señor arrojaba sobre ellos grandes piedras de granizo?",
+"¿En qué subida Judas Macabeo, con un puñado de hombres, derrotó a Serón, jefe del ejército de Siria?"]},
+"hazor": {"name": "Jasor", "region": "Tierra Santa", "note": "Tel Jasor, en la Alta Galilea, es un montículo excavado, Patrimonio de la Humanidad de la UNESCO y el mayor de la región.", "events": [
+"¿Qué ciudad, «la capital de todos aquellos reinos», incendió Josué?",
+"¿Desde qué ciudad oprimió a Israel Yabín, rey de Canaán, con Sísara como jefe de su ejército?"]},
+"shiloh": {"name": "Siló", "region": "Tierra Santa", "note": "Siló es Khirbet Seilun, en el centro de Cisjordania, un sitio excavado con centro de visitantes.", "events": [
+"¿Dónde instaló Israel la Tienda del Encuentro después de que la tierra quedó sometida?",
+"¿Dónde oró Ana pidiendo un hijo con tanto fervor que Elí pensó que estaba ebria?",
+"¿Dónde oyó el niño Samuel que el Señor lo llamaba de noche?"]},
+"mount-tabor": {"name": "Monte Tabor", "region": "Tierra Santa", "note": "La cúpula aislada del monte Tabor se eleva sobre el valle de Yizreel; los Evangelios no nombran el monte de la Transfiguración, que la tradición identifica con el Tabor desde el siglo IV.", "events": [
+"¿En qué monte reunió Barac a diez mil hombres antes de bajar contra los carros de Sísara?",
+"¿En qué monte alto, según una larga tradición, se transfiguró Jesús delante de Pedro, Santiago y Juan?"]},
+"harod": {"name": "Fuente de Jarod", "region": "Tierra Santa", "note": "Suele identificarse con Ein Harod (Ma'ayan Harod), al pie del monte Gelboé, hoy parque nacional.", "events": [
+"¿Junto a qué fuente escogió Gedeón a sus trescientos hombres según la manera en que bebían el agua?"]},
+"timnah": {"name": "Timná", "region": "Tierra Santa", "note": "Timná es probablemente Tel Batash, en el valle de Sorec.", "events": [
+"¿Camino de qué ciudad filistea despedazó Sansón a un león joven con sus propias manos?"]},
+"gaza": {"name": "Gaza", "region": "Tierra Santa", "note": "La antigua Gaza yace bajo la ciudad vieja de la Gaza actual, en la costa mediterránea.", "events": [
+"¿De qué ciudad se llevó Sansón las hojas de la puerta hasta la cumbre de un monte?",
+"¿En qué ciudad Sansón, ya ciego, derribó el templo de Dagón sobre los filisteos?"]},
+"gibeah": {"name": "Guibeá", "region": "Tierra Santa", "note": "Guibeá de Saúl suele identificarse con Tell el-Ful, en el norte de Jerusalén, aunque algunos prefieren la cercana Jaba'.", "events": [
+"¿En qué ciudad de Benjamín sufrió la concubina del levita el ultraje que llevó a la guerra civil?",
+"¿A qué ciudad, la suya, volvió Saúl después de ser elegido rey, acompañado por hombres a quienes Dios había tocado el corazón?"]},
+"aphek": {"name": "Afec (Antípatris)", "region": "Tierra Santa", "note": "Tel Afek, en el nacimiento del río Yarkón, fue la Antípatris de Herodes; es probable que sea también el Afec de 1 Samuel 4.", "events": [
+"¿Cerca de qué campamento filisteo fue capturada el arca de Dios y murieron Jofní y Pinjás, los hijos de Elí?",
+"¿Dónde hizo alto de noche la escolta militar de Pablo en el camino de Jerusalén a Cesarea?"]},
+"ashdod": {"name": "Asdod", "region": "Tierra Santa", "note": "Tel Asdod se encuentra al sur de la ciudad portuaria israelí moderna del mismo nombre.", "events": [
+"¿En qué ciudad filistea cayó de bruces la estatua de Dagón ante el arca capturada?"]},
+"beth-shemesh": {"name": "Bet Semes", "region": "Tierra Santa", "note": "Tel Bet Semes es un montículo excavado en el valle de Sorec, junto a la ciudad moderna de Beit Shemesh.", "events": [
+"¿A qué ciudad llevaron dos vacas lecheras el arca que regresaba, mientras la gente segaba el trigo en el valle?",
+"¿Dónde Joás, rey de Israel, derrotó y capturó a Amasías, rey de Judá, después de que «se vieron las caras»?"]},
+"kiriath-jearim": {"name": "Quiriat Yearim", "region": "Tierra Santa", "note": "Se identifica con la colina de Deir el-Azar, sobre Abu Ghosh, al oeste de Jerusalén.", "events": [
+"¿En qué ciudad permaneció el arca veinte años, en casa de Abinadab?"]},
+"mizpah": {"name": "Mispá de Benjamín", "region": "Tierra Santa", "note": "Mispá suele identificarse con Tell en-Nasbeh, al norte de Jerusalén; Nebi Samwil es una alternativa.", "events": [
+"¿Dónde echó suertes Samuel ante las tribus y salió elegido Saúl, a quien hallaron escondido entre el equipaje?",
+"¿Dónde fue asesinado el gobernador Godolías por Ismael, hijo de Netanías?"]},
+"ramah": {"name": "Ramá", "region": "Tierra Santa", "note": "Ramá de Benjamín es er-Ram, al norte de Jerusalén; se discute si Ramataim Sofim, el hogar de Samuel, es el mismo lugar.", "events": [
+"¿Dónde estaba la casa de Samuel, adonde acudieron los ancianos a exigir un rey que los gobernara como a todas las naciones?",
+"¿Dónde se oyó una voz, la de Raquel que llora a sus hijos y no quiere ser consolada?"]},
+"bethlehem": {"name": "Belén", "region": "Tierra Santa", "note": "La Basílica de la Natividad, una de las iglesias más antiguas en uso ininterrumpido, se alza sobre la gruta tradicional del nacimiento.", "events": [
+"¿En los campos de qué ciudad espigó Rut la cebada detrás de los segadores de Booz?",
+"¿Dónde ungió Samuel como rey al menor de los hijos de Jesé?",
+"¿Dónde nació Jesús y fue acostado en un pesebre?",
+"¿A qué ciudad fueron los Magos, siguiendo la estrella, para adorar al niño?",
+"¿Cerca de qué ciudad, en el camino desde Betel, murió Raquel al dar a luz a Benjamín?"]},
+"valley-of-elah": {"name": "Valle de Elá", "region": "Tierra Santa", "note": "El valle (Wadi es-Sunt) pasa junto a Khirbet Qeiyafa, Socó y Azecá, en las tierras bajas de Judá.", "events": [
+"¿En qué valle mató David a Goliat con una honda y una piedra?"]},
+"gath": {"name": "Gat", "region": "Tierra Santa", "note": "La Gat filistea se identifica ampliamente con Tell es-Safi (Tel Zafit), en las tierras bajas de Judá.", "events": [
+"¿Ante el rey de qué ciudad filistea se fingió loco David, haciendo garabatos en las hojas de la puerta?"]},
+"ziklag": {"name": "Siquelag", "region": "Tierra Santa", "note": "Su ubicación es discutida: se proponen Tel Sera', en el norte del Néguev (marcada aquí), Tel Halif y Khirbet a-Ra'i.", "events": [
+"¿Qué ciudad le dio Aquis, rey de Gat, a David para que viviera en ella?",
+"¿Qué ciudad incendiaron los amalecitas mientras David estaba ausente, llevándose a sus mujeres?",
+"¿Dónde estaba David cuando un amalecita le llevó la corona y el brazalete de Saúl?"]},
+"en-gedi": {"name": "Engadí", "region": "Tierra Santa", "note": "Engadí es un oasis en la orilla occidental del Mar Muerto, hoy reserva natural y kibutz.", "events": [
+"¿En una cueva de qué desierto cortó David a escondidas la orla del manto de Saúl, pero le perdonó la vida?"]},
+"endor": {"name": "Endor", "region": "Tierra Santa", "note": "Endor se sitúa cerca de la antigua aldea árabe de Indur y del moderno kibutz Ein Dor, al norte de la colina de Moré.", "events": [
+"¿Dónde consultó Saúl a una nigromante que hizo subir el espíritu de Samuel?"]},
+"shunem": {"name": "Sunem", "region": "Tierra Santa", "note": "Sunem es la aldea de Sulam, al pie de la colina de Moré, en el valle de Yizreel.", "events": [
+"¿Dónde una mujer le preparó un cuartito a Eliseo, quien más tarde resucitó a su hijo?",
+"¿Dónde acamparon los filisteos antes de la batalla en que murió Saúl?"]},
+"mount-gilboa": {"name": "Monte Gelboé", "region": "Tierra Santa", "note": "La sierra de Gelboé se eleva al sureste del valle de Yizreel, entre el norte de Israel y Cisjordania.", "events": [
+"¿En qué monte se dejó caer Saúl sobre su propia espada después de que los filisteos mataron a sus hijos?"]},
+"beth-shean": {"name": "Bet Seán", "region": "Tierra Santa", "note": "Tel Bet Seán se alza sobre la ciudad romana de Escitópolis, en la actual Beit She'an.", "events": [
+"¿En la muralla de qué ciudad colgaron los filisteos el cadáver de Saúl?"]},
+"jerusalem": {"name": "Jerusalén", "region": "Tierra Santa", "note": "La Ciudad Vieja de Jerusalén y la colina de la Ciudad de David, justo al sur, conservan el núcleo antiguo.", "events": [
+"¿Qué fortaleza jebusea conquistó David y convirtió en su propia ciudad?",
+"¿Las murallas de qué ciudad reconstruyó Nehemías en cincuenta y dos días, a pesar de la oposición de Sanbalat?",
+"¿Dónde se derramó el Espíritu Santo sobre los apóstoles como lenguas de fuego en Pentecostés?",
+"¿Dónde celebraron los apóstoles y los presbíteros el concilio que liberó de la circuncisión a los creyentes de origen pagano?",
+"¿Dónde congregó David a todo Israel para trasladar el arca, encargando a Asaf, Hemán y Etán que hicieran sonar címbalos de bronce?",
+"¿En qué ciudad el rey Joaquim cortó en pedazos el rollo que había escrito Baruc y lo quemó en el brasero de su casa de invierno?",
+"¿A qué ciudad subió Judit con el pueblo para adorar, consagrando el dosel que había tomado de la alcoba de Holofernes?",
+"¿En el Barrio Nuevo de qué ciudad consultaron Ajicán, Jilquías y Safán a la profetisa Juldá sobre el libro recién hallado?",
+"¿En qué ciudad real, después de que David volvió de la guerra contra los amonitas, Amnón se fingió enfermo y violó a su media hermana Tamar?",
+"¿En qué ciudad entraba el arca cuando Mical miró por la ventana y despreció a David, que saltaba delante del Señor?",
+"¿En qué ciudad reinó dos años el rey Amón antes de que sus servidores lo mataran en su propia casa?",
+"¿En qué ciudad, mientras Joab sitiaba Rabá, vio David desde su azotea a Betsabé, que se estaba bañando?"]},
+"tekoa": {"name": "Tecoa", "region": "Tierra Santa", "note": "Tecoa es Khirbet Tuqu', al sur de Belén.", "events": [
+"¿De qué ciudad trajo Joab a una mujer sabia para convencer a David de que hiciera volver a Absalón?",
+"¿Entre los pastores de qué ciudad estaba Amós cuando el Señor lo llamó a profetizar?"]},
+"dan": {"name": "Dan", "region": "Tierra Santa", "note": "Tel Dan, en las fuentes del Jordán, conserva una puerta de adobe y la inscripción de la «Casa de David».", "events": [
+"¿Qué ciudad del norte se llamaba Lais hasta que una tribu migrante la conquistó y le dio el nombre de su antepasado?",
+"¿En qué ciudad del norte, además de Betel, puso Jeroboán un becerro de oro?"]},
+"samaria": {"name": "Samaría", "region": "Tierra Santa", "note": "La ciudad real de Samaría es el sitio arqueológico de Sebastia, al noroeste de Nablus.", "events": [
+"¿Qué monte le compró Omrí a Sémer para construir su nueva capital?",
+"¿Durante el asedio de qué ciudad cuatro leprosos fueron los primeros en hallar desierto el campamento arameo?",
+"¿A qué ciudad bajó Felipe a predicar a Cristo, donde creyó Simón el mago?"]},
+"jezreel": {"name": "Yizreel", "region": "Tierra Santa", "note": "Tel Yizreel domina el valle de Yizreel, cerca del kibutz Yizre'el.", "events": [
+"¿Dónde fue apedreado Nabot para que Ajab se quedara con su viña?",
+"¿Dónde fue arrojada Jezabel por una ventana y pisoteada por los caballos de Jehú?"]},
+"mount-carmel": {"name": "Monte Carmelo (El-Muhraqa)", "region": "Tierra Santa", "note": "La cordillera del Carmelo es segura; el lugar del desafío se sitúa por tradición en El-Muhraqa, señalado por un monasterio carmelita.", "events": [
+"¿Dónde desafió Elías a los profetas de Baal, hasta que cayó el fuego del Señor y consumió su sacrificio?"]},
+"zarephath": {"name": "Sarepta", "region": "Tierra Santa", "note": "Sarepta está excavada en Sarafand, en la costa libanesa, entre Tiro y Sidón.", "events": [
+"¿Dónde no se agotó la tinaja de harina ni la vasija de aceite de una viuda mientras alimentaba a Elías?"]},
+"tyre": {"name": "Tiro", "region": "Tierra Santa", "note": "Tiro, antaño una fortaleza insular, es hoy Sur, en el sur del Líbano, con extensas ruinas romanas.", "events": [
+"¿El rey de qué ciudad le envió a Salomón madera de cedro y de ciprés para el Templo?",
+"¿Dónde se arrodillaron en la playa los discípulos, con sus mujeres e hijos, para orar con Pablo antes de que él se embarcara?"]},
+"sidon": {"name": "Sidón", "region": "Tierra Santa", "note": "Sidón es la actual Saida, en el sur del Líbano.", "events": [
+"¿De los habitantes de qué ciudad era rey Etbaal, el padre de Jezabel?",
+"¿Dónde el centurión Julio, con amabilidad, permitió a Pablo visitar a sus amigos al primer día de su viaje a Roma?"]},
+"damascus": {"name": "Damasco", "region": "Tierra Santa", "note": "Damasco, la capital de Siria, es una de las ciudades habitadas ininterrumpidamente más antiguas; la calle Recta todavía atraviesa su ciudad vieja.", "events": [
+"¿Los ríos de qué ciudad, el Abaná y el Farfar, le parecían a Naamán mejores que todas las aguas de Israel?",
+"¿En la calle Recta de qué ciudad le impuso las manos Ananías a Saulo para que recobrara la vista?",
+"¿Por la muralla de qué ciudad descolgaron a Pablo en una canasta para que escapara de un complot?",
+"¿Adónde fue el rey Ajaz a encontrarse con Teglatfalasar, y copió el diseño de un altar que vio allí?"]},
+"road-to-damascus": {"name": "Camino de Damasco (Kawkab)", "region": "Tierra Santa", "note": "La Escritura solo dice que Saulo estaba «cerca» de la ciudad; una tradición local señala el lugar en Kawkab, al suroeste de Damasco.", "events": [
+"¿Cerca de qué ciudad una luz del cielo envolvió a Saulo y una voz le preguntó: «¿Por qué me persigues?»"]},
+"lachish": {"name": "Laquis", "region": "Tierra Santa", "note": "Tel Laquis es un gran montículo excavado en las tierras bajas de Judá; el asedio de Senaquerib está tallado en relieves procedentes de Nínive.", "events": [
+"¿Qué fortaleza de Judá sitiaba Senaquerib cuando Ezequías le envió tributo y reconoció: «He faltado»?",
+"¿A qué fortaleza huyó el rey Amasías de una conspiración, solo para ser perseguido y muerto allí?"]},
+"anathoth": {"name": "Anatot", "region": "Tierra Santa", "note": "Anatot estaba cerca de la aldea de Anata, al noreste de Jerusalén, probablemente en Ras el-Kharrubeh.", "events": [
+"¿Dónde, en su pueblo natal, compró Jeremías el campo de su primo Janamel mientras Jerusalén estaba sitiada?",
+"¿A sus propios campos, en qué ciudad, desterró Salomón al sacerdote Abiatar en lugar de darle muerte?"]},
+"modein": {"name": "Modín", "region": "Tierra Santa", "note": "Modín estaba cerca de al-Midya y de la moderna Modi'in; las tradicionales «Tumbas de los Macabeos» que allí se muestran no están identificadas con seguridad.", "events": [
+"¿En qué ciudad mató Matatías a un judío que se adelantó a sacrificar a los ídolos, dando inicio a la rebelión?",
+"¿Dónde levantó Simón un alto monumento con siete pirámides sobre el sepulcro de su padre y de sus hermanos?"]},
+"emmaus-nicopolis": {"name": "Emaús (Nicópolis)", "region": "Tierra Santa", "note": "El Emaús de los Macabeos es Imwas (más tarde Nicópolis), en el Parque Canadá, al oeste de Latrún.", "events": [
+"¿Cerca de qué ciudad derrotó Judas Macabeo al ejército de Gorgias después de una marcha nocturna?"]},
+"beth-zur": {"name": "Bet Sur", "region": "Tierra Santa", "note": "Bet Sur es Khirbet et-Tubeiqa, una fortaleza en lo alto de una colina al norte de Hebrón.", "events": [
+"¿Dónde enfrentó Judas con diez mil hombres al ejército de Lisias y lo derrotó, antes de volver a dedicar el Templo?"]},
+"sparta": {"name": "Esparta", "region": "Grecia y Roma", "note": "La acrópolis y el teatro de la antigua Esparta se encuentran justo al norte de la ciudad moderna, en el Peloponeso.", "events": [
+"¿A qué pueblo griego envió Jonatán una carta recordando su parentesco con los judíos por medio de Abraham?"]},
+"nazareth": {"name": "Nazaret", "region": "Tierra Santa", "note": "La Basílica de la Anunciación, en Nazaret, está construida sobre antiguas casas-gruta de la aldea del siglo I.", "events": [
+"¿En qué ciudad anunció el ángel Gabriel a María que concebiría al Hijo del Altísimo?",
+"¿En la sinagoga de qué ciudad leyó Jesús el libro de Isaías, tras lo cual sus paisanos quisieron despeñarlo?"]},
+"cana": {"name": "Caná", "region": "Tierra Santa", "note": "El sitio tradicional es Kafr Kanna, cerca de Nazaret; muchos arqueólogos prefieren Khirbet Qana, unos 8 km al norte.", "events": [
+"¿Dónde convirtió Jesús el agua en vino en una boda?",
+"¿Dónde estaba Jesús cuando le dijo a un funcionario real: «Vete, tu hijo vive»?"]},
+"nain": {"name": "Naín", "region": "Tierra Santa", "note": "Naín es la aldea árabe de Nein, al pie de la colina de Moré, con una pequeña iglesia franciscana.", "events": [
+"¿A la puerta de qué ciudad resucitó Jesús al hijo único de una viuda, a quien llevaban a enterrar?"]},
+"capernaum": {"name": "Cafarnaúm", "region": "Tierra Santa", "note": "Las ruinas de Cafarnaúm, con una sinagoga de piedra caliza blanca y la casa tradicional de Pedro, se encuentran en la orilla noroeste del Mar de Galilea.", "events": [
+"¿Dónde cuatro hombres bajaron a un paralítico por el techo hasta Jesús?",
+"¿En qué ciudad un centurión le dijo a Jesús: «Señor, no soy digno de que entres en mi casa»?",
+"¿En la sinagoga de qué ciudad enseñó Jesús: «Yo soy el pan de vida»?"]},
+"sea-of-galilee": {"name": "Mar de Galilea", "region": "Tierra Santa", "note": "Este lago de agua dulce del norte de Israel, de unos 21 km de largo, se llama también lago de Genesaret o de Tiberíades.", "events": [
+"¿A orillas de qué lago llamó Jesús a Simón y a Andrés para hacerlos pescadores de hombres?",
+"¿Sobre qué lago caminó Pedro por el agua hacia Jesús, y luego comenzó a hundirse?",
+"¿En qué lago increpó Jesús al viento y le dijo al mar: «¡Silencio! ¡Cállate!»?"]},
+"mount-of-beatitudes": {"name": "Monte de las Bienaventuranzas", "region": "Tierra Santa", "note": "Mateo no nombra ningún monte; el sitio tradicional es la colina sobre Tabgha, en la orilla noroeste, coronada por una iglesia de 1938.", "events": [
+"Según la tradición, ¿en qué ladera comenzó Jesús su gran sermón con «Bienaventurados los pobres de espíritu»?"]},
+"bethsaida": {"name": "Betsaida", "region": "Tierra Santa", "note": "Betsaida suele identificarse con et-Tell, al norte del lago, aunque el-Araj, más cerca de la orilla, es una fuerte rival.", "events": [
+"¿Fuera de qué aldea le puso Jesús saliva en los ojos a un ciego, que al principio veía a la gente «como árboles que caminan»?",
+"¿De qué ciudad eran Felipe, Andrés y Pedro?"]},
+"kursi": {"name": "Región de los gadarenos (Kursi)", "region": "Tierra Santa", "note": "Los manuscritos varían (gerasenos, gadarenos, gergesenos); la tradición señala el sitio en Kursi, en la orilla oriental, donde se alza un monasterio bizantino.", "events": [
+"¿Dónde expulsó Jesús a una legión de demonios, que entraron en una piara de cerdos que se precipitó al mar por el despeñadero?"]},
+"caesarea-philippi": {"name": "Cesarea de Filipo", "region": "Tierra Santa", "note": "Cesarea de Filipo es Banias, al pie del monte Hermón, junto a una gruta con un manantial del Jordán.", "events": [
+"¿Dónde confesó Pedro: «Tú eres el Cristo, el Hijo de Dios vivo», y recibió las llaves del Reino?"]},
+"jacobs-well": {"name": "Pozo de Jacob (Sicar)", "region": "Tierra Santa", "note": "El pozo, bajo una iglesia ortodoxa griega en Balata, Nablus, es venerado desde el siglo IV y concuerda con la descripción de Juan.", "events": [
+"¿Junto al pozo de quién le pidió Jesús de beber a una samaritana y le habló del agua viva?"]},
+"bethany": {"name": "Betania", "region": "Tierra Santa", "note": "Betania es al-Eizariya, en la ladera oriental del Monte de los Olivos, donde se muestra la tumba tradicional de Lázaro.", "events": [
+"¿Dónde resucitó Jesús a Lázaro, que llevaba cuatro días en el sepulcro?",
+"¿En qué aldea recibió Marta a Jesús mientras su hermana, sentada a sus pies, lo escuchaba?"]},
+"pool-of-bethesda": {"name": "Piscina de Betesda", "region": "Tierra Santa", "note": "Las dos piscinas gemelas excavadas se encuentran junto a la iglesia de Santa Ana, cerca de la Puerta de los Leones, en la Ciudad Vieja de Jerusalén.", "events": [
+"¿Junto a qué piscina de cinco pórticos sanó Jesús a un hombre que llevaba treinta y ocho años enfermo?"]},
+"pool-of-siloam": {"name": "Piscina de Siloé", "region": "Tierra Santa", "note": "La piscina del siglo I fue descubierta en 2004 en el extremo sur de la Ciudad de David, en Jerusalén.", "events": [
+"¿A qué piscina envió Jesús a un ciego de nacimiento a lavarse el barro de los ojos?"]},
+"gethsemane": {"name": "Getsemaní", "region": "Tierra Santa", "note": "La tradición sitúa el huerto al pie del Monte de los Olivos, junto a la Basílica de las Naciones y sus olivos centenarios.", "events": [
+"¿En qué huerto oró Jesús: «No se haga lo que yo quiero, sino lo que quieres tú», y luego fue entregado con un beso?"]},
+"golgotha": {"name": "Gólgota", "region": "Tierra Santa", "note": "La Basílica del Santo Sepulcro señala el Calvario y el sepulcro desde que los constructores de Constantino los identificaron en el siglo IV.", "events": [
+"¿Dónde, en «el lugar de la Calavera», fue crucificado Jesús entre dos malhechores?"]},
+"mount-of-olives": {"name": "Monte de los Olivos", "region": "Tierra Santa", "note": "La colina al este de la Ciudad Vieja, frente al Monte del Templo, está coronada por la Capilla de la Ascensión.", "events": [
+"¿Desde qué monte, a la distancia de un camino de sábado de la ciudad, vieron los apóstoles a Jesús ser elevado al cielo?",
+"¿Sentado en qué monte, frente al Templo, habló Jesús a sus discípulos de las señales del fin del mundo?"]},
+"emmaus": {"name": "Emaús (Lucas 24)", "region": "Tierra Santa", "note": "La aldea de Lucas, a sesenta estadios de Jerusalén, es incierta; entre las candidatas están el-Qubeibeh (marcada aquí, una tradición franciscana), Motza, Abu Ghosh e Imwas.", "events": [
+"¿Hacia qué aldea caminaban dos discípulos cuando Jesús resucitado se les unió, y lo reconocieron al partir el pan?"]},
+"lydda": {"name": "Lida", "region": "Tierra Santa", "note": "Lida es la actual Lod, cerca del aeropuerto Ben Gurión, donde se alza la iglesia de San Jorge.", "events": [
+"¿Dónde sanó Pedro a Eneas, que llevaba ocho años postrado en cama?"]},
+"joppa": {"name": "Jope", "region": "Tierra Santa", "note": "Jope es el antiguo puerto de Jaffa, hoy parte de Tel Aviv-Yafo.", "events": [
+"¿En qué puerto tomó Jonás un barco para huir lejos de la presencia del Señor?",
+"¿Dónde resucitó Pedro a Tabita (Dorcas)?",
+"¿En la azotea de la casa de Simón el curtidor, en qué ciudad, vio Pedro bajar un lienzo lleno de animales?"]},
+"caesarea-maritima": {"name": "Cesarea Marítima", "region": "Tierra Santa", "note": "La ciudad portuaria de Herodes es un parque nacional en la costa de Israel, entre Tel Aviv y Haifa, con teatro y acueducto.", "events": [
+"¿En qué ciudad, en casa del centurión Cornelio, descendió el Espíritu Santo sobre él y los suyos mientras Pedro predicaba?",
+"¿En qué ciudad fue herido Herodes Agripa por un ángel y murió comido por gusanos después de aceptar que lo aclamaran como a un dios?",
+"¿Dónde estuvo preso Pablo dos años bajo Félix, antes de apelar al César ante Festo?"]},
+"antioch-syria": {"name": "Antioquía (de Siria)", "region": "Asia Menor", "note": "La Antioquía de Siria es Antakya, en el sur de Turquía, a orillas del Orontes; cerca está la iglesia rupestre de San Pedro.", "events": [
+"¿Dónde recibieron los discípulos por primera vez el nombre de cristianos?",
+"¿Desde qué iglesia fueron apartados Bernabé y Saulo por el Espíritu Santo y enviados a su primera misión?",
+"¿Dónde se enfrentó Pablo a Pedro cara a cara por haber dejado de comer con los paganos?"]},
+"tarsus": {"name": "Tarso", "region": "Asia Menor", "note": "Tarso es una ciudad de la provincia de Mersin, en el sur de Turquía, donde se muestra un tradicional «Pozo de San Pablo».", "events": [
+"¿Qué ciudad de Cilicia era la patria de Pablo, «una ciudad no sin importancia»?",
+"¿A qué ciudad enviaron los hermanos a Saulo desde Cesarea cuando los helenistas querían matarlo?"]},
+"salamis": {"name": "Salamina (Chipre)", "region": "Asia Menor", "note": "Las ruinas de Salamina se encuentran en la costa este de Chipre, al norte de Famagusta.", "events": [
+"¿En qué puerto de Chipre anunciaron por primera vez Bernabé y Saulo la Palabra en las sinagogas de los judíos?"]},
+"paphos": {"name": "Pafos", "region": "Asia Menor", "note": "Nea Pafos, en la costa suroeste de Chipre, es Patrimonio de la Humanidad de la UNESCO; una columna que hay allí se llama por tradición el Pilar de San Pablo.", "events": [
+"¿Dónde dejó ciego Pablo al mago Elimas, de modo que el procónsul Sergio Paulo creyó?"]},
+"perga": {"name": "Perge", "region": "Asia Menor", "note": "Las extensas ruinas de Perge se encuentran cerca de Aksu, al este de Antalya, en Turquía.", "events": [
+"¿En qué ciudad de Panfilia dejó Juan Marcos a Pablo y Bernabé y se volvió a Jerusalén?"]},
+"antioch-pisidia": {"name": "Antioquía de Pisidia", "region": "Asia Menor", "note": "Las ruinas de la colonia romana se encuentran junto a Yalvaç, en la provincia de Isparta, Turquía.", "events": [
+"¿Dónde Pablo, rechazado por algunos en la sinagoga, declaró: «Nos volvemos a los paganos»?"]},
+"iconium": {"name": "Iconio", "region": "Asia Menor", "note": "Iconio es Konya, una ciudad importante del centro de Turquía.", "events": [
+"¿De qué ciudad huyeron Pablo y Bernabé al tramarse un complot para apedrearlos, después de que una gran multitud abrazó la fe?"]},
+"lystra": {"name": "Listra", "region": "Asia Menor", "note": "Listra es el montículo sin excavar de Zoldera, cerca de Hatunsaray, identificado gracias a una inscripción latina.", "events": [
+"¿Dónde la multitud llamó «Zeus» a Bernabé y «Hermes» a Pablo después de que Pablo sanó a un cojo?",
+"¿En qué ciudad fue apedreado Pablo y arrastrado fuera de la ciudad, dándolo por muerto?",
+"¿Dónde conoció Pablo a Timoteo, hijo de una judía creyente y de padre griego?"]},
+"troas": {"name": "Tróade", "region": "Asia Menor", "note": "Alejandría de Tróade es un puerto en ruinas en la costa turca del Egeo, al sur de la antigua Troya.", "events": [
+"¿Dónde tuvo Pablo la visión de un macedonio que le rogaba: «Pasa a Macedonia y ayúdanos»?",
+"¿Dónde el joven Eutico se quedó dormido durante el largo discurso de Pablo y cayó desde una ventana del tercer piso?"]},
+"ephesus": {"name": "Éfeso", "region": "Asia Menor", "note": "Éfeso es una gran ciudad excavada cerca de Selçuk, Turquía, con un gran teatro para unas 25,000 personas.", "events": [
+"¿Dónde provocó un tumulto el platero Demetrio, con la multitud gritando en el teatro «¡Grande es la Artemisa de los efesios!»?",
+"¿Dónde los que practicaban la magia quemaron sus libros, valorados en cincuenta mil monedas de plata?",
+"¿A qué iglesia le dijo Cristo resucitado: «Has abandonado tu primer amor»?"]},
+"miletus": {"name": "Mileto", "region": "Asia Menor", "note": "Las ruinas de Mileto, entre ellas un gran teatro, se encuentran cerca de Balat, en la costa turca del Egeo; el puerto, cegado por los sedimentos, quedó muy tierra adentro.", "events": [
+"¿Dónde convocó Pablo a los presbíteros de Éfeso y se despidió de ellos entre lágrimas, diciéndoles que no volverían a ver su rostro?"]},
+"patmos": {"name": "Patmos", "region": "Grecia y Roma", "note": "Patmos es una isla griega del Dodecaneso; la Gruta del Apocalipsis se muestra más abajo del monasterio de San Juan.", "events": [
+"¿En qué isla se encontraba Juan «a causa de la Palabra de Dios» cuando recibió el Apocalipsis?"]},
+"smyrna": {"name": "Esmirna", "region": "Asia Menor", "note": "Esmirna es la actual İzmir, Turquía, donde se ha excavado el ágora romana.", "events": [
+"¿A qué iglesia le dijo Cristo resucitado: «Sé fiel hasta la muerte y te daré la corona de la vida»?"]},
+"pergamum": {"name": "Pérgamo", "region": "Asia Menor", "note": "La acrópolis de Pérgamo domina la actual Bergama, Turquía; su gran altar de Zeus está hoy en Berlín.", "events": [
+"¿Qué iglesia vivía «donde está el trono de Satanás», donde mataron a Antipas, el testigo fiel?"]},
+"thyatira": {"name": "Tiatira", "region": "Asia Menor", "note": "Tiatira es la actual Akhisar, Turquía, con una pequeña zona excavada en el centro de la ciudad.", "events": [
+"¿De qué ciudad era Lidia, la vendedora de púrpura?",
+"¿A qué iglesia se le reprochó tolerar a «esa mujer, Jezabel, que se dice profetisa»?"]},
+"sardis": {"name": "Sardes", "region": "Asia Menor", "note": "Sardes, la antigua capital de Lidia, está excavada en Sart, Turquía, con un gimnasio restaurado y una gran sinagoga.", "events": [
+"¿A qué iglesia se le dijo: «Tienes fama de estar vivo, pero estás muerto»?"]},
+"philadelphia": {"name": "Filadelfia", "region": "Asia Menor", "note": "Filadelfia es la actual Alaşehir, Turquía, donde se conservan pilares de una iglesia bizantina.", "events": [
+"¿A qué iglesia se le dijo: «He abierto ante ti una puerta que nadie puede cerrar»?"]},
+"laodicea": {"name": "Laodicea", "region": "Asia Menor", "note": "Laodicea del Lico es un sitio excavado cerca de Denizli, Turquía.", "events": [
+"¿A qué iglesia se le reprochó ser tibia, ni fría ni caliente?"]},
+"philippi": {"name": "Filipos", "region": "Grecia y Roma", "note": "Filipos es un sitio Patrimonio de la Humanidad de la UNESCO en el noreste de Grecia, cerca de Kavala.", "events": [
+"¿Dónde Lidia y los de su casa fueron los primeros bautizados de Europa, junto a un lugar de oración a la orilla del río?",
+"¿Dónde un terremoto abrió a medianoche las puertas de la cárcel, tras lo cual el carcelero fue bautizado?"]},
+"thessalonica": {"name": "Tesalónica", "region": "Grecia y Roma", "note": "Tesalónica es Salónica, la segunda ciudad de Grecia, con un foro romano y el arco de Galerio.", "events": [
+"¿Dónde una turba asaltó la casa de Jasón, acusando a los compañeros de Pablo de «alborotar el mundo entero»?"]},
+"berea": {"name": "Berea", "region": "Grecia y Roma", "note": "Berea es la actual Veria, en Macedonia, Grecia, donde un santuario señala el lugar tradicional de la predicación de Pablo.", "events": [
+"¿Dónde recibieron los judíos la Palabra con mucho interés y examinaban cada día las Escrituras para ver si las cosas eran así?"]},
+"athens": {"name": "Atenas (Areópago)", "region": "Grecia y Roma", "note": "El Areópago es una colina rocosa justo al noroeste de la Acrópolis, en el centro de Atenas.", "events": [
+"¿Dónde predicó Pablo acerca de un altar «al Dios desconocido», y creyeron Dionisio y Dámaris?"]},
+"corinth": {"name": "Corinto", "region": "Grecia y Roma", "note": "Las ruinas de la antigua Corinto, con el templo de Apolo y el bema (tribunal), se encuentran al suroeste de la ciudad moderna.", "events": [
+"¿Dónde trabajó Pablo fabricando tiendas con Áquila y Priscila, recién llegados de Italia?",
+"¿Dónde el procónsul Galión se negó a juzgar las acusaciones presentadas contra Pablo?"]},
+"cenchreae": {"name": "Cencreas", "region": "Grecia y Roma", "note": "Cencreas era el puerto oriental de Corinto; los restos sumergidos de su muelle se encuentran cerca de la actual Kechries.", "events": [
+"¿Dónde se rapó Pablo la cabeza a causa de un voto antes de zarpar hacia Siria?",
+"¿De qué iglesia era servidora Febe, a quien Pablo recomienda a los romanos?"]},
+"fair-havens": {"name": "Buenos Puertos (Creta)", "region": "Grecia y Roma", "note": "Buenos Puertos es Kaloi Limenes, una pequeña bahía en la costa sur de Creta que aún conserva el nombre.", "events": [
+"¿En qué puerto cercano a Lasea advirtió Pablo que seguir navegando traería el desastre, pero no le hicieron caso?"]},
+"malta": {"name": "Malta (Bahía de San Pablo)", "region": "Grecia y Roma", "note": "La isla es con seguridad Malta; el lugar exacto del naufragio es incierto y la tradición lo sitúa en la Bahía de San Pablo, en la costa norte.", "events": [
+"¿En qué isla sobrevivió Pablo a un naufragio y sacudió una víbora en el fuego sin sufrir daño alguno?",
+"¿Dónde sanó Pablo de la fiebre al padre de Publio, el principal de la isla?"]},
+"puteoli": {"name": "Pozzuoli (Putéoli)", "region": "Grecia y Roma", "note": "Putéoli es la actual Pozzuoli, en la bahía de Nápoles, Italia.", "events": [
+"¿En qué puerto de Italia encontró Pablo hermanos que lo invitaron a quedarse siete días?"]},
+"rome": {"name": "Roma", "region": "Grecia y Roma", "note": "Roma, capital de Italia, guarda las tumbas de Pedro y Pablo en la Basílica de San Pedro y en San Pablo Extramuros.", "events": [
+"¿Dónde vivió Pablo dos años enteros en una casa que había alquilado, predicando el Reino de Dios sin impedimento?",
+"¿De qué ciudad expulsó Claudio a todos los judíos, entre ellos Áquila y Priscila?"]},
+"tarshish": {"name": "Tarsis", "region": "Grecia y Roma", "note": "Tarsis es incierta; a menudo se relaciona con Tartessos, en el suroeste de España (marcada cerca de Huelva), aunque algunos estudiosos proponen Cerdeña u otros lugares.", "events": [
+"¿Hacia dónde se dirigía el barco de Jonás cuando huía lejos de la presencia del Señor?"]},
+"sheba": {"name": "Sabá (Marib)", "region": "Arabia y África", "note": "Sabá suele identificarse con el reino de Saba, en Yemen, cuya capital, Marib, conserva ruinas de templos; algunas tradiciones se inclinan en cambio por Etiopía.", "events": [
+"¿De qué reino vino una reina a poner a prueba a Salomón con preguntas difíciles?"]},
+"cyrene": {"name": "Cirene", "region": "Arabia y África", "note": "Cirene es una ciudad griega, Patrimonio de la Humanidad de la UNESCO, en Shahhat, en el este de Libia.", "events": [
+"¿De qué ciudad era el hombre a quien obligaron a cargar la cruz de Jesús, el padre de Alejandro y de Rufo?"]},
+"mount-hor": {"name": "Monte Hor", "region": "Arabia y África", "note": "La Escritura sitúa el monte Hor en la frontera de Edom; desde Josefo la tradición lo ubica en el Jebel Harun, sobre Petra, coronado por un santuario de Aarón, aunque algunos estudiosos prefieren una cumbre más cercana a Cades.", "events": [
+"¿En qué monte despojó Moisés a Aarón de sus vestiduras y se las puso a Eleazar antes de que Aarón muriera?"]},
+"riblah": {"name": "Riblá", "region": "Tierra Santa", "note": "Riblá, «en el país de Jamat», se identifica con la aldea de Ribleh, a orillas del Orontes, en el oeste de Siria, cerca de la frontera libanesa.", "events": [
+"¿En qué ciudad del país de Jamat el rey de Babilonia degolló a los hijos de Sedecías ante sus ojos y luego lo dejó ciego?"]},
+"mareshah": {"name": "Maresá", "region": "Tierra Santa", "note": "Tel Maresá, en las tierras bajas de Judá, junto a Beit Guvrin, es un montículo excavado y horadado por cuevas helenísticas.", "events": [
+"¿Dónde clamó al Señor el rey Asá y derrotó al inmenso ejército de Zéraj el etíope, en el valle de Sefatá?"]},
+"megiddo": {"name": "Meguido", "region": "Tierra Santa", "note": "Tel Meguido domina el paso hacia el valle de Yizreel; de su nombre procede «Armagedón» (Har Meguido).", "events": [
+"¿Dónde murió el rey Josías cuando salió a enfrentar al faraón Necó?"]},
+"gihon": {"name": "Fuente de Guijón", "region": "Tierra Santa", "note": "La fuente de Guijón, en el valle del Cedrón, bajo la Ciudad de David, era la principal fuente de agua de Jerusalén y todavía corre por el túnel de Ezequías.", "events": [
+"¿A qué fuente llevaron Sadoc, Natán y Benaías a Salomón, montado en la mula de David, para ungirlo rey?"]},
+"en-rogel": {"name": "En Roguel", "region": "Tierra Santa", "note": "En Roguel suele identificarse con Bir Ayyub (el «Pozo de Job»), donde se unen los valles del Cedrón y de Hinón, al sur de la Ciudad de David.", "events": [
+"¿Junto a qué fuente ofreció sacrificios Adonías, en la piedra de Zojélet, y dio un banquete a sus partidarios para proclamarse rey?",
+"¿Junto a qué fuente, fuera de la ciudad, esperaban Ajimás y Jonatán las noticias que debían llevar a David durante la rebelión de Absalón?"]},
+"keilah": {"name": "Queilá", "region": "Tierra Santa", "note": "Queilá es Khirbet Qila, unas ruinas en lo alto de una colina de la Sefelá, al noroeste de Hebrón, que conservan el nombre antiguo.", "events": [
+"¿A qué ciudad, que David acababa de salvar de los filisteos, huyó Abiatar llevando un efod?"]},
+"baal-hazor": {"name": "Baal Jasor", "region": "Tierra Santa", "note": "Suele identificarse con el Jebel 'Asur (Tell Asur), la colina alta al noreste de Betel, cerca de Efraín (et-Taiyibeh).", "events": [
+"¿En qué lugar cercano a Efraín mataron los criados de Absalón a Amnón durante la fiesta del esquileo?"]},
+"shittim": {"name": "Sitim (Abel Sitim)", "region": "Tierra Santa", "note": "Último campamento de Israel en las llanuras de Moab; a menudo se sitúa en Tell el-Hammam, aunque la cercana Tell Kefrein es otra candidata.", "events": [
+"¿En qué campamento de las llanuras de Moab detuvo Pinjás la plaga al atravesar con su lanza a Zimrí y a la madianita Cozbí?"]},
+"zorah": {"name": "Sorá", "region": "Tierra Santa", "note": "Tel Tzora, en la cresta sobre el valle de Sorec, cerca del kibutz Tzora, conserva el nombre del pueblo natal de Sansón.", "events": [
+"¿En qué ciudad de la tribu de Dan se apareció el ángel del Señor a la mujer estéril de Manóaj, prometiéndole un hijo?"]}
+}
