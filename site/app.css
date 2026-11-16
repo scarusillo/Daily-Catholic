@@ -525,3 +525,32 @@ a.qnext.findconf { text-decoration: none; justify-self: start; }
 .welcome p { margin: 0; color: var(--muted); }
 .welcome .chips { margin-top: 4px; }
 @media (max-width: 420px) { .search input { font-size: .84rem; padding-inline: 10px; } .bar-inner { gap: 6px; } }
+
+/* ---------- pray: guided devotions ---------- */
+.pcard { align-content: start; grid-template-rows: auto; }
+.pcard .gname { display: block; }
+.pcard .gstat { color: var(--muted); font-weight: 500; margin-top: auto; }
+.pcard.done .gstat { color: var(--good); font-weight: 700; }
+.pcard.done { border-color: color-mix(in srgb, var(--good) 45%, var(--line)); }
+.pcard.feat { border-color: var(--gold); background: color-mix(in srgb, var(--gold) 7%, var(--surface)); }
+.prayedtoday { margin: 0; padding: 8px 12px; border-radius: var(--r); font-family: var(--font-ui); font-size: .95rem; justify-self: start; max-width: 100%;
+  color: var(--fg); background: color-mix(in srgb, var(--good) 12%, var(--surface)); border: 1px solid color-mix(in srgb, var(--good) 35%, var(--line)); }
+.prayedtoday b { color: var(--good); }
+.prayer .gbtns { margin-top: 6px; }
+.beads .ghead .back { flex: 0 0 100%; text-align: left; }
+.beads .morelink { justify-self: start; text-align: left; }
+.stepwrap { scroll-margin-top: 76px; outline: none; }
+.beadcard { overflow-wrap: anywhere; }
+.beadcard .vr { display: grid; gap: 4px; }
+.beadcard .vr p { margin: 0; font-size: 1.08rem; line-height: 1.5; padding-left: 1.7em; text-indent: -1.7em; }
+.beadcard .vr abbr { font-family: var(--font-ui); font-size: .85rem; font-weight: 700; color: var(--rubric); text-decoration: none; display: inline-block; width: 1.7em; text-indent: 0; }
+.beadcard .vr .resp { font-weight: 700; }
+.beadcard .medit { margin: 4px 0 0; font-size: 1.08rem; line-height: 1.6; }
+.beadcard .say { margin: 4px 0 0; padding-left: 12px; border-left: 3px solid var(--gold); font-size: 1.12rem; font-style: italic; line-height: 1.5; }
+.beadcard .ptext .eyebrow { margin-top: 6px; }
+.beadcard .stref { display: flex; flex-wrap: wrap; gap: 8px; }
+.beadcard.amen { justify-items: center; text-align: center; align-content: center; gap: 10px; padding-block: 28px;
+  background: color-mix(in srgb, var(--gold) 7%, var(--surface)); border-color: color-mix(in srgb, var(--gold) 45%, var(--line)); }
+.beadcard.amen .gbtns { justify-content: center; }
+.amenmark { width: 44px; height: 44px; border-radius: 50%; display: grid; place-items: center; font-size: 1.3rem; font-family: var(--font-ui); font-weight: 700;
+  color: var(--good); background: color-mix(in srgb, var(--good) 14%, var(--surface)); border: 1px solid color-mix(in srgb, var(--good) 40%, var(--line)); }
